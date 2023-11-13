@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605280549479 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:30:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605278394404 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Zumpin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:26:10 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
-| Host Name | 老司机 |
+| Players | 1/15 |
+| Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605279835324 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:29:03 |
@@ -77,28 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605280142561 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | markb0y |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:29:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605280386911 |
-| Players | 1/24 |
-| Host Name | ZOXA |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 13:30:09 |
+| Lobby ID | 28515605281128926 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 13:31:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605279640274 |
-| Players | 9/10 |
-| Host Name | Nibmus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 13:28:40 |
+| Lobby ID | 28515605281006130 |
+| Players | 1/10 |
+| Host Name | ёбырь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:31:23 |
 
 
 |  | epic_boss_fight_challenger |
