@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519543889540409 |
 | Players | 4/24 |
-| Host Name | 青衣 |
+| Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:02:23 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543902319408 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Svin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:18:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543902103242 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:18:33 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543901652571 |
-| Players | 1/15 |
-| Host Name | BLUE CAMEL |
+| Lobby ID | 28519543902621218 |
+| Players | 6/15 |
+| Host Name | niko |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:17:57 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:19:13 |
 
 
 |  | ot3_desert_octet |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:17:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543901324922 |
-| Players | 1/8 |
-| Host Name | TMS |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:17:32 |
+| Lobby ID | 28519543898793925 |
+| Players | 6/10 |
+| Host Name | SQT_F1rstS1lent |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:14:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -140,28 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543900074046 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:15:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543902617598 |
+| Players | 1/10 |
+| Host Name | mmmMMM |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:19:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543902214062 |
-| Players | 4/8 |
-| Host Name | негры извините |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:18:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543902483043 |
-| Players | 1/15 |
-| Host Name | [TM's] Moral Man |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:02 |
+| Lobby ID | 28519543902673973 |
+| Players | 1/8 |
+| Host Name | Мастур Бист |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:19:17 |
 
 
 |  | ot3_necropolis_ffa |
