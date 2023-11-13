@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605820959794 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ุexw_onoma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:42:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605847492622 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | TANAKA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 23:03:36 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 23:12:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605858243846 |
-| Players | 8/10 |
-| Host Name | GENIUS (at 4k mmr) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 23:12:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605858293218 |
-| Players | 5/15 |
-| Host Name | очкогрыз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 23:12:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605857588534 |
@@ -117,6 +99,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Save Yourself |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 23:12:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605858293218 |
+| Players | 7/15 |
+| Host Name | очкогрыз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 23:12:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605858665781 |
+| Players | 2/8 |
+| Host Name | who is he |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 23:13:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605858686869 |
+| Players | 1/15 |
+| Host Name | stuffy_2058 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 23:13:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605856119922 |
+| Players | 7/8 |
+| Host Name | King Of Kings |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 23:11:03 |
 
 
 |  | epic_boss_fight_nightmare |
