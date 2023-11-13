@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006853318 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:40 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544008101889 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Fifquis FiFiN |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:21:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544007435426 |
-| Players | 8/15 |
-| Host Name | Midgetman |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:20:00 |
+| Lobby ID | 28519544008808168 |
+| Players | 2/10 |
+| Host Name | TankadO_606 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:23:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544008831893 |
+| Players | 5/15 |
+| Host Name | Джони Две Куртки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:23:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544008839027 |
+| Players | 1/10 |
+| Host Name | EL TIO LINO!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:23:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544008841821 |
+| Players | 2/10 |
+| Host Name | i see the darkness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:23:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544008764093 |
-| Players | 4/8 |
-| Host Name | бутылка пива |
+| Lobby ID | 28519544008844304 |
+| Players | 1/8 |
+| Host Name | < shmyks > |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:23:04 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:23:15 |
 
 
 |  | epic_boss_fight_nightmare |
