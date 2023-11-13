@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543904369872 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Містер Сідр |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:21:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543904470978 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Kromad ツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:21:38 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543902985810 |
-| Players | 8/10 |
-| Host Name | uselessuselessuselessuseless |
+| Lobby ID | 28519543904717007 |
+| Players | 1/8 |
+| Host Name | XaNT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:41 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:21:57 |
 
 
 |  | ot3_desert_octet |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:21:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543904237610 |
-| Players | 13/15 |
-| Host Name | kono Dio da! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:21:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543903627531 |
-| Players | 1/8 |
-| Host Name | Hopeful Men (GPRD) |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:20:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543901487079 |
@@ -103,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543904717007 |
+| Lobby ID | 28519543903627531 |
 | Players | 1/8 |
-| Host Name | XaNT |
+| Host Name | Hopeful Men (GPRD) |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:20:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543904879417 |
+| Players | 4/10 |
+| Host Name | Me doing Me |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:21:57 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:22:10 |
 
 
