@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605201125357 |
-| Players | 5/24 |
+| Players | 12/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:47:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605198351500 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | АЛЬФА_СВИН_228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:30 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605199244229 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:43:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605200457858 |
-| Players | 1/8 |
-| Host Name | :( M O T A :( |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:46:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605199419008 |
-| Players | 13/15 |
-| Host Name | 安魂曲?! |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:43:53 |
 
 
 |  | epic_boss_fight_nightmare |
