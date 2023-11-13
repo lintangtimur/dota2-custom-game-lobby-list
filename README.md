@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605222136426 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Magna Lisa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605221864431 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605223074968 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | TatTOO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:34:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605223381015 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 111111111111111111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:35:15 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:33:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605222750275 |
-| Players | 13/15 |
-| Host Name | 100% pasivo llamame 960 210 099 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:34:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605223317303 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 想像力상상력想像力— |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:35:07 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605223620535 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Cat Rangoons |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 11:35:44 |
