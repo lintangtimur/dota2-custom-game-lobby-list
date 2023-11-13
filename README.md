@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605366056875 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | You're excused |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 16:00:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605373813766 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ashiro |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 16:12:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605373884332 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Bananas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:12:34 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:12:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605374438462 |
-| Players | 2/8 |
-| Host Name | ишачье |
+| Lobby ID | 28515605374600818 |
+| Players | 3/10 |
+| Host Name | relo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:13:27 |
+| Lobby Creation Time | Monday, November 13, 2023 16:13:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YATOVOROT |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:13:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605374600818 |
-| Players | 2/10 |
-| Host Name | relo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:13:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:11:37 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28515605374768918 |
-| Players | 1/7 |
-| Host Name | Fortillian Bantoburn |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:13:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605374758515 |
-| Players | 1/5 |
-| Host Name | 1Талант |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:13:56 |
 
 
