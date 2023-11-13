@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605233276842 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Rize - 気 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 11:55:02 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605233407495 |
-| Players | 6/8 |
-| Host Name | VoDka-KimimarO |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:55:18 |
+| Lobby ID | 28515605234525781 |
+| Players | 3/8 |
+| Host Name | Can you hear the music |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:57:33 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605228709642 |
-| Players | 9/10 |
-| Host Name | ёбырь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:45:50 |
+| Lobby ID | 28515605234541844 |
+| Players | 1/15 |
+| Host Name | 76561198151416151 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 11:57:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605233451761 |
-| Players | 8/10 |
-| Host Name | OsOTeNeBrOsO |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:55:23 |
+| Lobby ID | 28515605234549578 |
+| Players | 1/24 |
+| Host Name | Chupete |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:57:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,36 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605234019081 |
-| Players | 4/8 |
-| Host Name | ElScYnC |
+| Players | 3/8 |
+| Host Name | SUPERCUCHO PRIME |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:56:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605233599931 |
-| Players | 1/24 |
-| Host Name | My fart doesn't stink |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:55:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28515605234117915 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Экинуй Сенгаี้ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:56:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515605231352291 |
-| Players | 8/10 |
-| Host Name | 青椒小新 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:51:08 |
+| Lobby ID | 28515605234678680 |
+| Players | 1/5 |
+| Host Name | шайлушай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:57:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605234669972 |
+| Players | 1/5 |
+| Host Name | Joyoboyo™ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 11:57:50 |
 
 
