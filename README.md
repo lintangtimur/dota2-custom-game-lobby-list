@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605229154533 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | курва бобэр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:46:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605232451652 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Bu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:53:21 |
@@ -50,16 +50,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605233451761 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | OsOTeNeBrOsO |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:55:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605233448775 |
+| Players | 1/15 |
+| Host Name | KENT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:55:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605233543188 |
+| Players | 1/24 |
+| Host Name | Экинуй Сенгаี้ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:55:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605233599931 |
+| Players | 1/24 |
+| Host Name | My fart doesn't stink |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:55:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605233636876 |
+| Players | 2/24 |
+| Host Name | TreVVeK |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:55:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605233697602 |
+| Players | 1/24 |
+| Host Name | Wu Gensheng |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:55:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605231352291 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 青椒小新 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:51:08 |
