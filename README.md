@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605195207375 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:34:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605197664222 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:40:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605198572407 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Puerco araña |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 10:42:00 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 10:42:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605198977945 |
-| Players | 1/24 |
-| Host Name | (KOR) Seoul |
+| Lobby ID | 28515605197535612 |
+| Players | 9/10 |
+| Host Name | 【༺𒋲✶...LombriS...✶༺ |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:42:54 |
+| Lobby Creation Time | Monday, November 13, 2023 10:39:43 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605198438057 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:42 |
