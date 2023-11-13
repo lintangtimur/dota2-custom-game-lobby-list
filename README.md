@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605220980621 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:30:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605222704086 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:33:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605222020482 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:33 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605222070089 |
 | Players | 2/10 |
-| Host Name | . |
+| Host Name | takerusan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:39 |
 
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 100% pasivo llamame 960 210 099 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:34:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605222787788 |
+| Players | 1/8 |
+| Host Name | Начальство |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:34:04 |
 
 
 |  | epic_boss_fight_nightmare |
