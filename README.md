@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605210751259 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | superazraq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:09:10 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:07:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605211569578 |
+| Players | 3/5 |
+| Host Name | ➤ D a a n |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 11:10:54 |
 
 
