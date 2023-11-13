@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605327846772 |
-| Players | 8/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 14:57:51 |
+| Lobby ID | 28515605328965304 |
+| Players | 4/10 |
+| Host Name | динь динь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:59:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605326266130 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:55:08 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:54:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605328965304 |
-| Players | 2/10 |
-| Host Name | динь динь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:59:48 |
 
 
 |  | epic_boss_fight_nightmare |
