@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605182098072 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:05:45 |
@@ -95,27 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605185440963 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | handsome adjusted volcel |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 10:13:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605185529849 |
+| Players | 6/8 |
+| Host Name | Fercho |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 10:13:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605185538597 |
+| Players | 3/15 |
+| Host Name | Stunning Garry |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 10:13:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605183538320 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Heng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:08:55 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28515605185442134 |
-| Players | 1/7 |
-| Host Name | Tarrok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:13:04 |
 
 
