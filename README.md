@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544020591989 |
-| Players | 19/24 |
-| Host Name | alpaco |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:51:34 |
+| Lobby ID | 28519544021969725 |
+| Players | 5/15 |
+| Host Name | Eddie Meduza |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:54:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021784319 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:54:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544021197849 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:03 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544021969725 |
-| Players | 5/15 |
-| Host Name | Eddie Meduza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:54:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544022057581 |
-| Players | 1/15 |
-| Host Name | Chris NFM |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:55:11 |
 
 
 |  | epic_boss_fight_nightmare |
