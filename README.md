@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605390006038 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | CupOfTeaHeadass |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:38:00 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605390670562 |
+| Lobby ID | 28515605391301181 |
 | Players | 1/8 |
-| Host Name | KalashnikovKlaus |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 16:39:04 |
+| Host Name | Gliknot |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 16:40:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605390323959 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:38:31 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:39:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605391169012 |
-| Players | 2/8 |
-| Host Name | Radeonvegavii |
+| Lobby ID | 28515605391349071 |
+| Players | 3/10 |
+| Host Name | tv/bar_bariska |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:39:51 |
+| Lobby Creation Time | Monday, November 13, 2023 16:40:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605390426890 |
-| Players | 1/8 |
-| Host Name | гавно что ле |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:38:41 |
+| Lobby ID | 28515605391392694 |
+| Players | 3/8 |
+| Host Name | yoniy |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 16:40:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:38:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605391345379 |
+| Players | 1/5 |
+| Host Name | Gaben Nice CS2 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 16:40:08 |
 
 
