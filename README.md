@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544016852048 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | RkoOL D: |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:42:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544018070097 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Trickster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544015106256 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | KeyOfTheSun |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:38:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544017987297 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ShinSora 心癒 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:06 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544018045622 |
-| Players | 2/15 |
-| Host Name | Hope |
+| Players | 1/15 |
+| Host Name | ronal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:14 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544018337630 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Wagon Wheels |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:57 |
@@ -104,63 +104,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544018111047 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | VIVA LA 27 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544018441089 |
-| Players | 1/10 |
-| Host Name | Shzam |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:46:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544018185652 |
-| Players | 2/8 |
-| Host Name | just a game/=) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544018288120 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Tomoya Uryuu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543979852405 |
-| Players | 1/10 |
-| Host Name | k. Danger-Zone |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
+| Lobby ID | 28519544018185652 |
+| Players | 3/8 |
+| Host Name | just a game/=) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:45:34 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544014679695 |
-| Players | 1/10 |
-| Host Name | EUCHI MANO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:37:02 |
+| Lobby ID | 28519544018599069 |
+| Players | 5/10 |
+| Host Name | Shzam |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:46:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544018246290 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544018741243 |
+| Players | 1/5 |
+| Host Name | EUCHI MANO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:46:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544018762706 |
+| Players | 1/10 |
+| Host Name | 悲 UmAiR |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:47:00 |
 
 
