@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605389406491 |
-| Players | 21/24 |
-| Host Name | POM |
+| Lobby ID | 28515605392325765 |
+| Players | 1/24 |
+| Host Name | Fabian! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:37:03 |
+| Lobby Creation Time | Monday, November 13, 2023 16:41:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:40:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605390323959 |
-| Players | 10/15 |
-| Host Name | Anti |
+| Lobby ID | 28515605391349071 |
+| Players | 9/10 |
+| Host Name | tv/bar_bariska |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:38:31 |
+| Lobby Creation Time | Monday, November 13, 2023 16:40:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:39:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605391349071 |
-| Players | 7/10 |
-| Host Name | tv/bar_bariska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:40:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605388871430 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | marcibeacoup |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 16:36:13 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605389712458 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Сергей |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:37:33 |
@@ -117,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:38:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605392378571 |
+| Players | 1/5 |
+| Host Name | ♛ H z w a p |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 16:41:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605392460839 |
+| Players | 2/5 |
+| Host Name | edgerunner |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 16:41:50 |
 
 
