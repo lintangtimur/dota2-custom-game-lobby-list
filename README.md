@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605250935329 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | so4ckingsmart(dumb) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:30:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605252093192 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Incognito |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:32:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605250187778 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Gabo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605249958459 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | ILAVE |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605251947107 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | ВладКиллер228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:32:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605252308033 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Denji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:32:54 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28515605249943760 |
-| Players | 1/7 |
+| Lobby ID | 28515605252622351 |
+| Players | 2/7 |
 | Host Name | Kiokasuyetsu |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 12:28:10 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:33:31 |
 
 
