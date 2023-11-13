@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605250187778 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Gabo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:39 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Modo Likitom |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:29:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605251947107 |
+| Players | 3/15 |
+| Host Name | ВладКиллер228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:32:10 |
 
 
 |  | epic_boss_fight_challenger |
