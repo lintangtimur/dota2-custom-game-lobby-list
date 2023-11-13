@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:09:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605415078283 |
-| Players | 7/8 |
-| Host Name | Menace2Society |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 17:16:20 |
+| Lobby ID | 28515605417640328 |
+| Players | 4/15 |
+| Host Name | Безумный Паша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:20:02 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605416664008 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:18:37 |
