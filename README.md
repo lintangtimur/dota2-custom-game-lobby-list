@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605217353419 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Eric Wimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:23:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605222704086 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:33:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605223317303 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 想像力상상력想像力— |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:35:07 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sushi Devourer |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 11:36:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605224414385 |
+| Players | 1/8 |
+| Host Name | Miranda.Young l haku |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:37:18 |
 
 
 |  | epic_boss_fight_nightmare |
