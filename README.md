@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:33:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605386689513 |
-| Players | 13/15 |
-| Host Name | Manowarrior |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 16:32:45 |
+| Lobby ID | 28515605387380995 |
+| Players | 7/10 |
+| Host Name | ashiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:33:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Хахаль твоей мамы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:33:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605387380995 |
-| Players | 4/10 |
-| Host Name | ashiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:33:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I`m practicing bear with me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:33:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605387625322 |
+| Players | 1/5 |
+| Host Name | IWillMakeYouCry |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 16:34:15 |
 
 
