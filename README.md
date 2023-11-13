@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544001685237 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Freakazoid! |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:07:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544001189754 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544001179343 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SmokingCascade |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:57 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544001099370 |
-| Players | 2/15 |
-| Host Name | sPamer |
+| Players | 1/15 |
+| Host Name | Umbral Resident |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:46 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544001379783 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | SnoWVadim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:06:23 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544002227308 |
+| Players | 1/7 |
+| Host Name | Mr.melo |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:08:18 |
 
 
