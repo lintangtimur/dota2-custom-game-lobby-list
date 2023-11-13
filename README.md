@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605202669281 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:51:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605202222638 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:50:10 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605201456624 |
-| Players | 14/15 |
-| Host Name | sadboi |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:48:27 |
+| Lobby ID | 28515605202630260 |
+| Players | 7/15 |
+| Host Name | Antoxa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:51:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605199177228 |
-| Players | 5/10 |
-| Host Name | Хьюстон я проблем |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:43:21 |
+| Lobby ID | 28515605202811388 |
+| Players | 9/24 |
+| Host Name | asura |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 10:51:28 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 10:49:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605202630260 |
-| Players | 2/15 |
-| Host Name | Antoxa |
+| Lobby ID | 28515605202822821 |
+| Players | 2/8 |
+| Host Name | вентилятор говна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:51:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605197582324 |
-| Players | 9/10 |
-| Host Name | trance |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 10:39:49 |
+| Lobby Creation Time | Monday, November 13, 2023 10:51:30 |
 
 
 |  | epic_boss_fight_normal |
