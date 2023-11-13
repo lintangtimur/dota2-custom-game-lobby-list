@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605247888113 |
-| Players | 23/24 |
-| Host Name | Sol[A]ce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 12:24:07 |
+| Lobby ID | 28515605250054918 |
+| Players | 1/24 |
+| Host Name | PisaNuca |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 12:28:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605250179661 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605250187778 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | zero |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605249958459 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ILAVE |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605248140510 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | YATOO |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 12:24:37 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605250054918 |
-| Players | 1/24 |
-| Host Name | PisaNuca |
+| Lobby ID | 28515605244529401 |
+| Players | 23/24 |
+| Host Name | Drive my car |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 12:28:24 |
+| Lobby Creation Time | Monday, November 13, 2023 12:17:28 |
 
 
 |  | epic_boss_fight_challenger |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515605250332037 |
+| Lobby ID | 28515605250398568 |
 | Players | 1/5 |
-| Host Name | Мудрый дуб |
+| Host Name | я не хочу просыпа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:28:56 |
+| Lobby Creation Time | Monday, November 13, 2023 12:29:05 |
 
 
