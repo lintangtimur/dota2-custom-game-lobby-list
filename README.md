@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 20:39:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605658503622 |
-| Players | 13/15 |
-| Host Name | Sushist |
+| Lobby ID | 28515605659462533 |
+| Players | 2/10 |
+| Host Name | ifv sunstrike v kiev |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:49:40 |
+| Lobby Creation Time | Monday, November 13, 2023 20:50:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605656959425 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Matye Bal |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 20:48:38 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605644366604 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El Pene-zolano |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 20:40:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605658710400 |
-| Players | 6/10 |
-| Host Name | Tiw |
+| Lobby ID | 28515605659408231 |
+| Players | 3/15 |
+| Host Name | Aizen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:49:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605651894543 |
-| Players | 7/8 |
-| Host Name | Bangkongsrr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:45:14 |
+| Lobby Creation Time | Monday, November 13, 2023 20:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
