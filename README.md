@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605247888113 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Sol[A]ce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:24:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605244529401 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Drive my car |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:17:28 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:26:09 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605248915850 |
+| Players | 1/10 |
+| Host Name | VOID ESPONJA |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 12:26:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605246942472 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 劍風金 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:22:15 |
