@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:41:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543957794955 |
-| Players | 11/15 |
-| Host Name | Nightz |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:41:04 |
+| Lobby ID | 28519543958383079 |
+| Players | 1/10 |
+| Host Name | Lonely Forever >3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:42:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543954673378 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Br0ker |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:35:44 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543958219981 |
-| Players | 2/8 |
-| Host Name | Loss of meaning |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:41:48 |
+| Lobby ID | 28519543958266663 |
+| Players | 1/15 |
+| Host Name | Dxnl |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:41:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543956708828 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | :$ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:39:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543958175138 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | (5) lafletka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:41:43 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:41:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543958231852 |
-| Players | 2/10 |
-| Host Name | СЕКСНЕИЗБЕЖЕН |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:41:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543958266663 |
-| Players | 2/15 |
-| Host Name | Dxnl |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:41:52 |
 
 
 |  | epic_boss_fight_normal |
