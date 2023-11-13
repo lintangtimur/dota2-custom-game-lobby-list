@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605562446103 |
-| Players | 18/24 |
-| Host Name | ZZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 19:41:57 |
+| Lobby ID | 28515605566504302 |
+| Players | 2/24 |
+| Host Name | mooDfO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:44:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605565801586 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | www.twitch.tv/fominini |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:44:26 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605564019926 |
-| Players | 6/8 |
-| Host Name | Леха Секс |
+| Lobby ID | 28515605561482699 |
+| Players | 3/8 |
+| Host Name | suslik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:43:06 |
+| Lobby Creation Time | Monday, November 13, 2023 19:41:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605566291316 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | ВАНЯ ШРЕДЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:44:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605508999044 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | overflow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:58:59 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:44:37 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605566692837 |
+| Players | 2/10 |
+| Host Name | Big J |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 19:45:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605556170743 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | EL MENCO CJNG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:37:14 |
