@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605203793380 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Youbi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:53:37 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605203214828 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:52:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605203293046 |
-| Players | 7/8 |
-| Host Name | TE MATO Y ME ESCAPO. |
+| Lobby ID | 28515605203778858 |
+| Players | 5/24 |
+| Host Name | METRALLETA JHON |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:52:32 |
+| Lobby Creation Time | Monday, November 13, 2023 10:53:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605203987476 |
+| Players | 2/8 |
+| Host Name | Голодный |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 10:54:03 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605203778858 |
-| Players | 4/24 |
-| Host Name | METRALLETA JHON |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:53:36 |
+| Lobby ID | 28515605203995694 |
+| Players | 1/24 |
+| Host Name | bigboiboi |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 10:54:04 |
 
 
 |  | epic_boss_fight_normal |
