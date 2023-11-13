@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605289536005 |
-| Players | 5/15 |
-| Host Name | zxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:47:54 |
+| Lobby ID | 28515605288950729 |
+| Players | 1/15 |
+| Host Name | markb0y |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 13:46:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605289387399 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:37 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605289631687 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:48:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605289682243 |
+| Players | 2/8 |
+| Host Name | GOLUBOGLAZIY ARIEC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:48:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605288950729 |
-| Players | 1/15 |
-| Host Name | markb0y |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 13:46:46 |
+| Lobby ID | 28515605289718430 |
+| Players | 5/15 |
+| Host Name | zxc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:48:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605289182267 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | {THE~@} |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605289670987 |
+| Players | 1/10 |
+| Host Name | ► Good gay, noob played |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 13:48:10 |
 
 
