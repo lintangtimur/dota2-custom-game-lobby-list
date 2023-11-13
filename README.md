@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605341416654 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | pikaboo.... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:20:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605341167431 |
-| Players | 2/8 |
-| Host Name | ишачье |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 15:20:26 |
+| Lobby ID | 28515605341245773 |
+| Players | 5/24 |
+| Host Name | Я Не Знал Что Ей 15 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 15:20:34 |
 
 
 |  | ot3_desert_octet |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:20:32 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605341245773 |
-| Players | 5/24 |
-| Host Name | Я Не Знал Что Ей 15 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 15:20:34 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605341518870 |
+| Lobby ID | 28515605341624942 |
 | Players | 1/8 |
-| Host Name | Carthes |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 15:21:01 |
+| Host Name | ишачье |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:21:11 |
 
 
 |  | epic_boss_fight_nightmare |
