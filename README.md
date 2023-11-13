@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605457096381 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605471225787 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Кровавый понос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:23:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605469151704 |
-| Players | 15/15 |
-| Host Name | zaqew |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:21:36 |
+| Lobby ID | 28515605471420288 |
+| Players | 3/8 |
+| Host Name | reresxl |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 18:23:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605464620029 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:16:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605466865879 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 18:19:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605471138229 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:23:38 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:23:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605471420288 |
-| Players | 3/8 |
-| Host Name | reresxl |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 18:23:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605468700922 |
 | Players | 9/10 |
-| Host Name | илья глинюк(carry) |
+| Host Name | TASHAN_DORRESETT_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:21:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605467106444 |
-| Players | 7/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:19:30 |
 
 
 |  | epic_boss_fight_nightmare |
