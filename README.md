@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605217353419 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Eric Wimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:23:04 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:34:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605222960266 |
-| Players | 1/10 |
-| Host Name | Remington Jones |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:34:24 |
+| Lobby ID | 28515605223381015 |
+| Players | 2/15 |
+| Host Name | 111111111111111111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:35:15 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605222750275 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 100% pasivo llamame 960 210 099 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:34:00 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 想像力상상력想像力— |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:35:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605223381015 |
-| Players | 1/15 |
-| Host Name | 111111111111111111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:35:15 |
 
 
 |  | epic_boss_fight_nightmare |
