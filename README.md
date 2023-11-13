@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544003163448 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:10:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544002318641 |
-| Players | 1/8 |
-| Host Name | Dockhorn |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:08:30 |
+| Lobby ID | 28519544003904263 |
+| Players | 1/10 |
+| Host Name | EL TIO LINO!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:12:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544001179343 |
-| Players | 23/24 |
-| Host Name | SmokingCascade |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:05:57 |
+| Lobby ID | 28519544003927082 |
+| Players | 1/15 |
+| Host Name | Methyc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:12:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544003975036 |
+| Players | 1/10 |
+| Host Name | meat computer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:12:15 |
 
 
 |  | epic_boss_fight_nightmare |
