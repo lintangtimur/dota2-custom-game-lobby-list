@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605176629762 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:53:34 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:54:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605177386793 |
-| Players | 1/15 |
-| Host Name | [KARLII]=[♥]º |
+| Lobby ID | 28515605177852460 |
+| Players | 1/8 |
+| Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:55:15 |
+| Lobby Creation Time | Monday, November 13, 2023 09:56:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605177226267 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | falcon |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:54:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605177653195 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ZYX-AROUND |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 09:55:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605175428673 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 09:50:56 |
