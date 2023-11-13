@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605376714477 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 为毛？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:17:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605378543187 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | CupOfTeaHeadass |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 16:19:54 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605378636181 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Luh chonka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:20:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605378673337 |
-| Players | 1/15 |
-| Host Name | BYVSHIY HATER RLARLA |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 16:20:06 |
+| Lobby ID | 28515605378754102 |
+| Players | 1/8 |
+| Host Name | HotPotRice |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 16:20:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605372049337 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fogg_soglasen |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:09:39 |
