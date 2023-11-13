@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605404120646 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | radbix |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:59:42 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605404048675 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:59:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605402058948 |
-| Players | 2/8 |
-| Host Name | Krosher |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 16:56:31 |
+| Lobby ID | 28515605404349345 |
+| Players | 1/10 |
+| Host Name | Работайте БРАТЬЯ!!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:00:04 |
 
 
 |  | ot3_desert_octet |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Philly Cheese Steaks |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:59:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605404368169 |
+| Players | 5/8 |
+| Host Name | киатака на пенсии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:00:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605404385355 |
+| Players | 1/10 |
+| Host Name | Я БЛИЖЕ К БОГУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:00:07 |
 
 
 |  | epic_boss_fight_normal |
