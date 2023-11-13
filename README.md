@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544003797879 |
-| Players | 9/10 |
-| Host Name | lost the spark in my eyes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:11:50 |
+| Lobby ID | 28519544004373758 |
+| Players | 1/8 |
+| Host Name | гориллка |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544003477613 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:07 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544003504498 |
-| Players | 2/8 |
-| Host Name | Vitrex1111 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:11:10 |
+| Lobby ID | 28519544004367281 |
+| Players | 1/8 |
+| Host Name | Light- |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:08 |
 
 
 |  | epic_boss_fight_nightmare |
