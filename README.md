@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543871736555 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | k bonita te verías mamandomela ♪ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:40:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543865958799 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | pailita cucharita y buen sazon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:33:01 |
@@ -41,46 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543870495515 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 85.RAVAR.85 |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543868148737 |
-| Players | 1/8 |
-| Host Name | Jake Green |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:35:40 |
+| Lobby ID | 28519543870627485 |
+| Players | 3/10 |
+| Host Name | Ryuto |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:38:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543870511738 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | buranya? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543868454008 |
-| Players | 21/24 |
-| Host Name | Mc LOVIN |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:36:03 |
+| Lobby ID | 28519543870905312 |
+| Players | 1/15 |
+| Host Name | P a p o t i k o |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:39:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543871238822 |
-| Players | 1/15 |
-| Host Name | Репер K111Y |
+| Lobby ID | 28519543871507723 |
+| Players | 14/15 |
+| Host Name | ZeinnyG |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:39:25 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:39:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,49 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543871784104 |
-| Players | 3/10 |
-| Host Name | Nessm |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:40:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543870627485 |
-| Players | 3/10 |
-| Host Name | Ryuto |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:38:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543870905312 |
-| Players | 1/15 |
-| Host Name | P a p o t i k o |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:39:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543871955947 |
-| Players | 1/10 |
-| Host Name | Walter White |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:40:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543871507723 |
+| Lobby ID | 28519543872078206 |
 | Players | 3/15 |
-| Host Name | ZeinnyG |
+| Host Name | kimvire |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:39:45 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:40:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543872445502 |
+| Players | 4/8 |
+| Host Name | ) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:40:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SakalFTW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519543871455207 |
-| Players | 1/5 |
-| Host Name | МАСТУРБЕК |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:39:41 |
 
 
