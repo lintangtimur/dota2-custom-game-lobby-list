@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543867202679 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:34:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543878449135 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Evlogos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:48:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543879787144 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | EVO_COME_LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:49:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543880003711 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Beenzntoast |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:50:15 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:49:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543880255480 |
-| Players | 11/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:50:34 |
+| Lobby ID | 28519543880538091 |
+| Players | 2/10 |
+| Host Name | РОССИЯ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:50:56 |
 
 
 |  | ot3_gardens_duo |
@@ -112,11 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543880519946 |
-| Players | 2/8 |
+| Lobby ID | 28519543880539978 |
+| Players | 3/8 |
+| Host Name | コリー |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:50:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543880531421 |
+| Players | 2/10 |
+| Host Name | Мальчик в трусика |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:50:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543880651233 |
+| Players | 2/15 |
 | Host Name | #11 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:50:54 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:51:04 |
 
 
 |  | epic_boss_fight_nightmare |
