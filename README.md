@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605366245762 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | kura |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 16:00:30 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605367834553 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Long Time No See |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:03:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605367963989 |
+| Players | 4/8 |
+| Host Name | Unstoppable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:03:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605352903928 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | .G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:39:24 |
