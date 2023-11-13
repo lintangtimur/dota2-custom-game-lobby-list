@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605380246900 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:22:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605380142931 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:22:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605379197829 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | hidden pool resident |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:20:56 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:21:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605378636181 |
-| Players | 14/15 |
-| Host Name | Luh chonka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:20:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605380414506 |
-| Players | 2/15 |
-| Host Name | May be |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:22:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,28 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605379724642 |
-| Players | 2/10 |
-| Host Name | 3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 16:21:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605379984132 |
-| Players | 4/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:22:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28515605380088737 |
 | Players | 1/10 |
 | Host Name | Bender |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 16:22:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605379984132 |
+| Players | 7/10 |
+| Host Name | Next |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 16:22:10 |
 
 
