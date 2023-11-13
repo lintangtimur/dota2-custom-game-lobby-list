@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605618775843 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:22:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605705257721 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Z e r o |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:20:54 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605706440684 |
+| Lobby ID | 28515605704305660 |
 | Players | 14/15 |
-| Host Name | TEEHEE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:21:41 |
+| Host Name | vonLion |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 21:20:16 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605685089643 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Kinfold |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:07:29 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605706747400 |
-| Players | 4/8 |
-| Host Name | дамский угодник |
+| Lobby ID | 28515605707196900 |
+| Players | 1/8 |
+| Host Name | qbik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:21:53 |
+| Lobby Creation Time | Monday, November 13, 2023 21:22:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 21:22:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605707081825 |
-| Players | 2/15 |
-| Host Name | I bought the bank |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 21:22:07 |
+| Lobby ID | 28515605702537106 |
+| Players | 6/10 |
+| Host Name | kap00sta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:19:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605704111313 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 不狂菜狗子 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:20:08 |
