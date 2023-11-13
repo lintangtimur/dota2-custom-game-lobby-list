@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605241853226 |
+| Lobby ID | 28515605243845048 |
 | Players | 1/8 |
 | Host Name | Chris |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:12:11 |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 12:16:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:12:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605084238902 |
-| Players | 7/8 |
-| Host Name | Dul Kanırtan |
+| Lobby ID | 28515605243684702 |
+| Players | 4/24 |
+| Host Name | shelbhie |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
+| Lobby Creation Time | Monday, November 13, 2023 12:15:48 |
 
 
 |  | ot3_desert_octet |
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .............................. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:15:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605243684702 |
-| Players | 2/24 |
-| Host Name | shelbhie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 12:15:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605243696578 |
-| Players | 6/10 |
-| Host Name | Splinter |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 12:15:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605243747352 |
-| Players | 1/15 |
-| Host Name | 嘉mang |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 12:15:55 |
 
 
 |  | epic_boss_fight_nightmare |
