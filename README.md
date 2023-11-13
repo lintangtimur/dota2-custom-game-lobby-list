@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605209192336 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Monero |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:05:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605209270789 |
-| Players | 6/8 |
-| Host Name | Tutankamon |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:05:55 |
 
 
 |  | epic_boss_fight_nightmare |
