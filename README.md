@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605388140486 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Ychus |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:35:04 |
@@ -32,54 +32,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605387176898 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:33:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605387769668 |
-| Players | 14/15 |
-| Host Name | 仨五丫 匚仨匚丅尸丫 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:34:28 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605388468803 |
-| Players | 2/8 |
-| Host Name | durak |
+| Players | 4/8 |
+| Host Name | zelda fan |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 16:35:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605388787529 |
-| Players | 1/24 |
-| Host Name | Willl |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, November 13, 2023 16:36:05 |
+| Lobby ID | 28515605389273263 |
+| Players | 1/8 |
+| Host Name | h8 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 16:36:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605388871430 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | marcibeacoup |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 16:36:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605388935582 |
-| Players | 1/5 |
-| Host Name | Know ur place |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:36:19 |
 
 
