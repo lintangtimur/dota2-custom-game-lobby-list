@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605284985268 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:39:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605285980993 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:41:03 |
@@ -76,17 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605288546330 |
+| Lobby ID | 28515605288668499 |
 | Players | 1/15 |
 | Host Name | CHAKALITO |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 13:45:59 |
+| Lobby Creation Time | Monday, November 13, 2023 13:46:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605288691601 |
+| Players | 1/15 |
+| Host Name | The horror of flying on the wing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:46:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605281757000 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:32:53 |
