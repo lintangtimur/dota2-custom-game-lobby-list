@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605211202421 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | casaluppe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:10:07 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605212911502 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | austrian painter mode emo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:13:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605211670986 |
-| Players | 7/8 |
-| Host Name | dyadya bogdan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:11:07 |
+| Lobby ID | 28515605213711165 |
+| Players | 3/10 |
+| Host Name | MONSTERKILL |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:15:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605212671126 |
-| Players | 14/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:13:15 |
+| Lobby ID | 28515605213481623 |
+| Players | 3/15 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:14:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605212713005 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | MODE ISSASHOW |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:13:20 |
@@ -83,31 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:14:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605213481623 |
-| Players | 3/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 11:14:57 |
+| Lobby ID | 28515605209055046 |
+| Players | 23/24 |
+| Host Name | mcmbig111 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 11:05:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605213675732 |
+| Lobby ID | 28515605213822012 |
 | Players | 1/8 |
-| Host Name | MONSTERKILL |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:15:22 |
+| Host Name | ГРЯЗНАЯ ПИСЬКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:15:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605213064529 |
-| Players | 1/10 |
-| Host Name | trance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:14:03 |
+| Lobby ID | 28515605212058587 |
+| Players | 8/10 |
+| Host Name | 年轻人不气盛叫年轻人吗 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 11:11:57 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:07:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605212058587 |
-| Players | 7/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:11:57 |
 
 
