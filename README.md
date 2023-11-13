@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544020668204 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Домбів бомбас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:51:45 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:31:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544020000180 |
-| Players | 14/15 |
-| Host Name | Τουρκικά*-* |
+| Lobby ID | 28519544020569872 |
+| Players | 1/24 |
+| Host Name | DIMITREE |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:50:05 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:51:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544020647021 |
-| Players | 11/15 |
-| Host Name | Irif |
+| Lobby ID | 28519544020912247 |
+| Players | 1/15 |
+| Host Name | xsnakee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:51:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544020569872 |
-| Players | 1/24 |
-| Host Name | DIMITREE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:51:30 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:52:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544020457597 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ~那该死的回忆~M |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:51:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544020908349 |
+| Players | 1/5 |
+| Host Name | 里凯尔梅 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:52:21 |
 
 
