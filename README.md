@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605428757964 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 17:35:03 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605439279339 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | theOne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 17:48:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605438819296 |
-| Players | 14/15 |
-| Host Name | 15. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:47:38 |
+| Lobby ID | 28515605439697863 |
+| Players | 2/10 |
+| Host Name | Дуля |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 17:48:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605439697327 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:48:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605439697863 |
-| Players | 2/10 |
-| Host Name | Дуля |
-| Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 17:48:43 |
 
 
@@ -92,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:44:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28515605439636470 |
-| Players | 1/5 |
-| Host Name | dyrachoy |
+| Lobby ID | 28515605439989819 |
+| Players | 2/7 |
+| Host Name | Kyojin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 17:49:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605439985437 |
+| Players | 1/10 |
+| Host Name | Вениамин Рапира |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:48:38 |
+| Lobby Creation Time | Monday, November 13, 2023 17:49:04 |
 
 
