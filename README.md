@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605387176898 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:33:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605387769668 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 仨五丫 匚仨匚丅尸丫 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:34:28 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:35:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605386929131 |
-| Players | 9/10 |
-| Host Name | I`m practicing bear with me |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:33:08 |
+| Lobby ID | 28515605388759397 |
+| Players | 1/8 |
+| Host Name | h8 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 16:36:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605388787529 |
+| Players | 1/24 |
+| Host Name | Willl |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, November 13, 2023 16:36:05 |
 
 
