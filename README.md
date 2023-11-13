@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605215856687 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:59 |
@@ -101,21 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:21:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605217289253 |
-| Players | 4/10 |
-| Host Name | EL CACHA INSANOS |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:22:56 |
+| Lobby ID | 28515605217353419 |
+| Players | 1/24 |
+| Host Name | Eric Wimp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 11:23:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605215618989 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Nezu Nae Nae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605217339204 |
+| Players | 1/5 |
+| Host Name | JuJu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:23:03 |
 
 
