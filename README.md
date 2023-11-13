@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544001179343 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | SmokingCascade |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:57 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544001849161 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | BUTT PIRATE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:07:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544001379783 |
-| Players | 14/15 |
-| Host Name | SnoWVadim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:06:23 |
+| Lobby ID | 28519544002570532 |
+| Players | 1/10 |
+| Host Name | EL TIO LINO!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:09:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:08:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544002570532 |
-| Players | 1/10 |
-| Host Name | EL TIO LINO!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:09:04 |
+| Lobby ID | 28519544002660508 |
+| Players | 3/8 |
+| Host Name | free MMR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:09:16 |
 
 
 |  | epic_boss_fight_nightmare |
