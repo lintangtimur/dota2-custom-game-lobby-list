@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543944034117 |
-| Players | 1/24 |
-| Host Name | Deva path |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:18:23 |
+| Lobby ID | 28519543949510782 |
+| Players | 1/8 |
+| Host Name | JUEGA CALLADO CTM  :V |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:27:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543948773699 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | fshafhasifuhf2h87 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:26:01 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543949446532 |
-| Players | 1/10 |
-| Host Name | gg wp |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:27:06 |
+| Lobby ID | 28519543949593223 |
+| Players | 1/15 |
+| Host Name | Mavi Don |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:27:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543945728409 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:05 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543948905970 |
-| Players | 7/15 |
-| Host Name | ебать ту люсю |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:26:14 |
+| Lobby ID | 28519543949490007 |
+| Players | 2/8 |
+| Host Name | Dominic Tavorotto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:27:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543949218945 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | I am not |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:26:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543948622022 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | don_pepito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:25:46 |
@@ -119,30 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:25:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28519543949490007 |
-| Players | 1/8 |
-| Host Name | Dominic Tavorotto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:27:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543949510782 |
-| Players | 1/8 |
-| Host Name | JUEGA CALLADO CTM  :V |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:27:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543949514264 |
-| Players | 1/15 |
-| Host Name | kyoto |
+| Lobby ID | 28519543949601852 |
+| Players | 2/7 |
+| Host Name | Kaonashi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:27:12 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:27:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543949607632 |
+| Players | 1/10 |
+| Host Name | I DED |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:27:22 |
 
 
