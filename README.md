@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605404349345 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Работайте БРАТЬЯ!!!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:00:04 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:00:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605404835079 |
-| Players | 3/8 |
-| Host Name | Wexoble |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 17:00:52 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605402449802 |
@@ -126,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vile Village |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 16:55:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605404729118 |
-| Players | 1/5 |
-| Host Name | https://www.twitch.tv/indyyss |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 17:00:41 |
 
 
 |  | epic_boss_fight_nightmare |
