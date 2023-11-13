@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605477269648 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | お前ら大嫌いだ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:29:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605478572865 |
-| Players | 9/10 |
-| Host Name | (/_-) |
+| Lobby ID | 28515605479540321 |
+| Players | 7/8 |
+| Host Name | Вова Забивной |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:31:02 |
+| Lobby Creation Time | Monday, November 13, 2023 18:31:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,46 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605478096959 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:30:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605479540321 |
-| Players | 3/8 |
-| Host Name | Вова Забивной |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:31:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605479535768 |
-| Players | 1/8 |
-| Host Name | Иван Турецких |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:31:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605479530015 |
-| Players | 1/8 |
-| Host Name | VLMIGHTY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:31:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605477127052 |
-| Players | 9/10 |
-| Host Name | MightyHorn |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:29:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vincenzo Cassano |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:31:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605479849950 |
+| Players | 1/5 |
+| Host Name | DontMindMe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:32:17 |
 
 
