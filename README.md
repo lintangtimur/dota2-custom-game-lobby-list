@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605216342901 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | RASTREANDO TU IP CERRANO CTV |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:21:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605216072740 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Женя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:20:26 |
@@ -50,26 +50,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605215196043 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:18:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605215949380 |
-| Players | 14/15 |
-| Host Name | Shizzy McCreepy |
+| Lobby ID | 28515605217443610 |
+| Players | 2/10 |
+| Host Name | Isshō | |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:20:10 |
+| Lobby Creation Time | Monday, November 13, 2023 11:23:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605215723135 |
-| Players | 2/10 |
-| Host Name | Angel_Kasteil |
+| Players | 1/10 |
+| Host Name | Belzaro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:42 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605215618989 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nezu Nae Nae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:29 |
