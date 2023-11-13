@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543931332022 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Вагина Пингвина |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:59:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543930617208 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:58:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543933261309 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | sAnkøtteryŁeet |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:02:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543930405740 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:57:50 |
@@ -144,6 +144,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:58:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543933411930 |
+| Players | 1/10 |
+| Host Name | Pyrtoper |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:02:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543933452033 |
+| Players | 2/10 |
+| Host Name | M A M U T E O |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:02:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543933461268 |
+| Players | 1/10 |
+| Host Name | Йобинбобин |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:02:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543933470130 |
+| Players | 2/10 |
+| Host Name | Хикки |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:02:22 |
 
 
 |  | epic_boss_fight_hard |
