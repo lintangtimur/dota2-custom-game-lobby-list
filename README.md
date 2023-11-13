@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:44:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605170751829 |
-| Players | 12/15 |
-| Host Name | Nothing |
+| Lobby ID | 28515605172502945 |
+| Players | 5/10 |
+| Host Name | pox na game |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:40:33 |
+| Lobby Creation Time | Monday, November 13, 2023 09:44:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605171746426 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | H  a  x  s |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:42:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605171094631 |
-| Players | 6/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:41:18 |
+| Lobby ID | 28515605172665572 |
+| Players | 1/24 |
+| Host Name | Disastrous Luck |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 09:44:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605172259199 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | Unvirgined Olive Oil |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 09:43:54 |
@@ -68,34 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605172123224 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | the easy way |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:43:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605171908319 |
-| Players | 13/24 |
-| Host Name | KeyOfTheSun |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:43:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605171806423 |
-| Players | 3/24 |
-| Host Name | Solid.Uira |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 09:42:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605171857631 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | trance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:43:00 |
