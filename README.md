@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605301582433 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | R u crzy?Socheko Vanda ni Besii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:10:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605302305211 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | yep |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:12:07 |
