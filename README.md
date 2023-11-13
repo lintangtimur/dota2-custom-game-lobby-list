@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605206279421 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | nv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:59:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605206500399 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 10:59:35 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605209203008 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:05:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605205524975 |
-| Players | 14/15 |
-| Host Name | я </3 мефедрон |
+| Lobby ID | 28515605209841122 |
+| Players | 1/10 |
+| Host Name | Axcel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:57:25 |
+| Lobby Creation Time | Monday, November 13, 2023 11:07:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605209826211 |
+| Players | 3/8 |
+| Host Name | Darling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:07:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:00:21 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28515605209823354 |
+| Players | 1/7 |
+| Host Name | Death Is My Bitch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:07:07 |
 
 
