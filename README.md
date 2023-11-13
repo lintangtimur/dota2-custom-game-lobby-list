@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605410196062 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 17:09:10 |
@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605415078283 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 17:16:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605416292556 |
-| Players | 6/10 |
-| Host Name | ashiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:18:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605415741891 |
-| Players | 1/10 |
-| Host Name | Monster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:17:17 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605415598283 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:17:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605415940231 |
-| Players | 5/8 |
-| Host Name | Квас Секс Эскорт |
+| Lobby ID | 28515605417353297 |
+| Players | 7/10 |
+| Host Name | Я БЛИЖЕ К БОГУ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:17:34 |
+| Lobby Creation Time | Monday, November 13, 2023 17:19:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605416664008 |
+| Players | 14/15 |
+| Host Name | eleskovic^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:18:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605415485592 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | устал какать... |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 13, 2023 17:16:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605416544128 |
-| Players | 1/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 17:18:26 |
 
 
