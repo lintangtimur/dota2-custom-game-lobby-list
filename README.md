@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543927406786 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | [A]kke |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:53:26 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:53:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543926739541 |
-| Players | 13/15 |
-| Host Name | OutWrorld Destroyer |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:52:28 |
+| Lobby ID | 28519543928707952 |
+| Players | 2/10 |
+| Host Name | qqqqq |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:55:20 |
 
 
 |  | ot3_gardens_duo |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543928597143 |
-| Players | 4/8 |
-| Host Name | piu-piu |
+| Players | 7/8 |
+| Host Name | Voin Sveta |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:55:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543928130039 |
-| Players | 3/8 |
-| Host Name | бурмалда |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:54:30 |
+| Lobby ID | 28519543928672090 |
+| Players | 1/15 |
+| Host Name | Odyssey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:55:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,13 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:55:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543928561046 |
-| Players | 3/8 |
-| Host Name | Straify |
+| Lobby ID | 28519543928715412 |
+| Players | 1/10 |
+| Host Name | Neverm()re |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:55:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:55:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543928715745 |
+| Players | 1/10 |
+| Host Name | Ketalii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:55:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519543928726920 |
+| Players | 1/24 |
+| Host Name | 999 |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:55:21 |
 
 
 |  | epic_boss_fight_nightmare |
