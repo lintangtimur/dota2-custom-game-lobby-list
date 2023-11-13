@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605313922647 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:33:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605320404891 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | печенька |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:44:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605320166863 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Chucky™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:44:30 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605319767298 |
-| Players | 2/8 |
-| Host Name | ExSide- |
+| Players | 1/8 |
+| Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:43:47 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605320635609 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:45:20 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:45:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605321048212 |
+| Players | 1/8 |
+| Host Name | 老司机 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 14:46:04 |
 
 
 |  | epic_boss_fight_nightmare |
