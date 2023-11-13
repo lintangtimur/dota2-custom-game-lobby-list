@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605215856687 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605216072740 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | АРЕСТАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:20:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605215196043 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:18:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605215949380 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Shizzy McCreepy |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:20:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605215723135 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:42 |
@@ -76,20 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605216405961 |
-| Players | 2/10 |
-| Host Name | Moises |
+| Lobby ID | 28515605216449332 |
+| Players | 6/10 |
+| Host Name | El Peluca |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:21:08 |
+| Lobby Creation Time | Monday, November 13, 2023 11:21:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605216449332 |
-| Players | 1/10 |
-| Host Name | El Peluca |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:21:14 |
+| Lobby ID | 28515605216610097 |
+| Players | 2/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:21:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605216736170 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:21:49 |
 
 
 |  | epic_boss_fight_nightmare |
