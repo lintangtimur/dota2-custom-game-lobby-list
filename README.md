@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605316044419 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | today PMA dota |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:37:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605310284875 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:26:52 |
