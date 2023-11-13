@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605189626125 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | muff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:22:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605191158982 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:25:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605189973499 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:23:02 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:24:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605190837778 |
-| Players | 6/10 |
-| Host Name | TEPUNTEO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:24:56 |
 
 
 |  | epic_boss_fight_nightmare |
