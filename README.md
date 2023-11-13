@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:44:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605174058377 |
-| Players | 14/15 |
-| Host Name | Владос Паперос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:47:55 |
+| Lobby ID | 28515605174793902 |
+| Players | 9/24 |
+| Host Name | WilifWilofWilai |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 09:49:32 |
 
 
 |  | ot3_desert_octet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605174793902 |
-| Players | 5/24 |
-| Host Name | WilifWilofWilai |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:49:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605174937179 |
-| Players | 3/15 |
-| Host Name | Miss Chanandler Bong |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:49:51 |
 
 
 |  | epic_boss_fight_nightmare |
