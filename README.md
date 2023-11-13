@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544001179343 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | SmokingCascade |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544002480379 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Lone_Marshal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:08:52 |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544003413488 |
-| Players | 1/10 |
-| Host Name | EL TIO LINO!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:10:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544003051148 |
-| Players | 14/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:10:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544002660508 |
-| Players | 4/8 |
-| Host Name | free MMR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:09:16 |
+| Lobby ID | 28519544003477613 |
+| Players | 5/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:11:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:08:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544003477613 |
-| Players | 3/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:11:07 |
+| Lobby ID | 28519544003504498 |
+| Players | 1/8 |
+| Host Name | Vitrex1111 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:11:10 |
 
 
 |  | epic_boss_fight_nightmare |
