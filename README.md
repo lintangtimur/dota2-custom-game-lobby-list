@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605279903367 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:29:11 |
@@ -22,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605279081834 |
-| Players | 1/24 |
-| Host Name | ¿ |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 13:27:32 |
+| Lobby ID | 28515605280578346 |
+| Players | 2/24 |
+| Host Name | 4 pin plug |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 13:30:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605274826214 |
-| Players | 21/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 13:18:59 |
+| Lobby ID | 28515605280549479 |
+| Players | 6/24 |
+| Host Name | HashiRama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 13:30:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605278394404 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Zumpin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:26:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605279835324 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:29:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605280386911 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ZOXA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 13:30:09 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605280421973 |
-| Players | 1/10 |
-| Host Name | FeRRuMeR |
+| Lobby ID | 28515605280791725 |
+| Players | 2/10 |
+| Host Name | stophitingyourself |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:30:13 |
+| Lobby Creation Time | Monday, November 13, 2023 13:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
