@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605415984457 |
-| Players | 6/10 |
-| Host Name | 大大hate myself |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:17:38 |
+| Lobby ID | 28515605417812419 |
+| Players | 2/8 |
+| Host Name | cant lose |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 17:20:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605410196062 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 17:09:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605417640328 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:20:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605415598283 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:17:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605417353297 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Я БЛИЖЕ К БОГУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:19:37 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605417812419 |
-| Players | 2/8 |
-| Host Name | cant lose |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 17:20:17 |
+| Lobby ID | 28515605418065846 |
+| Players | 1/8 |
+| Host Name | radbix |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 17:20:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605416664008 |
+| Players | 13/15 |
+| Host Name | eleskovic^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:18:37 |
 
 
 |  | epic_boss_fight_normal |
