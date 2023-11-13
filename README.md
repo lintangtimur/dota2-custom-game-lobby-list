@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605455001650 |
-| Players | 14/15 |
-| Host Name | FreezyMN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:06:35 |
+| Lobby ID | 28515605457096381 |
+| Players | 3/15 |
+| Host Name | Sauron |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,44 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605456588345 |
-| Players | 9/10 |
-| Host Name | ёбырь |
+| Lobby ID | 28515605457681333 |
+| Players | 3/10 |
+| Host Name | ckomo6oйня |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:08:20 |
+| Lobby Creation Time | Monday, November 13, 2023 18:09:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605456619744 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | -PSE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:08:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605456699547 |
-| Players | 9/15 |
-| Host Name | soda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:08:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605457096381 |
-| Players | 2/15 |
-| Host Name | Sauron |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605455794660 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ucupnakal22 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:07:27 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605456151089 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Легендарный Жмых |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:07:51 |
