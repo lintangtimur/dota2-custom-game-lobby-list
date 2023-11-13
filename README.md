@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543929225543 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | MonaH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:56:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543927406786 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | [A]kke |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:53:26 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543929472408 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Odyssey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:56:28 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543928561309 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:55:07 |
@@ -164,24 +164,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:56:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543928971674 |
-| Players | 14/15 |
-| Host Name | piu-piu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:55:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543929773418 |
-| Players | 4/8 |
-| Host Name | kartohablaster |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:56:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543929777053 |
@@ -191,22 +173,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:56:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543921423886 |
-| Players | 2/10 |
-| Host Name | k. Danger-Zone |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:44:51 |
+| Lobby ID | 28519543929793634 |
+| Players | 1/8 |
+| Host Name | Малинка |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:56:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543926465336 |
-| Players | 1/5 |
-| Host Name | Micko Slayer |
+| Lobby ID | 28519543929819426 |
+| Players | 1/8 |
+| Host Name | FrootiQ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:52:04 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:56:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543929883414 |
+| Players | 6/10 |
+| Host Name | Znold |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:57:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543926739541 |
+| Players | 14/15 |
+| Host Name | HKHX |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:52:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543928971674 |
+| Players | 13/15 |
+| Host Name | piu-piu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:55:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543929900583 |
+| Players | 2/10 |
+| Host Name | ashiro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:57:05 |
 
 
 |  | epic_boss_fight_hard |
@@ -218,12 +236,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:50:13 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519543929779103 |
-| Players | 1/7 |
-| Host Name | Omelette |
+| Lobby ID | 28519543926465336 |
+| Players | 1/5 |
+| Host Name | Micko Slayer |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:56:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:52:04 |
 
 
