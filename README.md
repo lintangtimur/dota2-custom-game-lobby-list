@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605192300196 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:28:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605193029549 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | the easy way |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:29:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605192504758 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | S1mple peruano |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:28:39 |
@@ -121,11 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605193180879 |
+| Lobby ID | 28515605193177956 |
+| Players | 1/8 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 10:30:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605193225442 |
 | Players | 3/8 |
-| Host Name | Wexoble |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 10:30:08 |
+| Host Name | new era |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:30:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605193260651 |
+| Players | 1/15 |
+| Host Name | Vudi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:30:18 |
 
 
 |  | epic_boss_fight_nightmare |
