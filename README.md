@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605308419629 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Squi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 14:23:26 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:26:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515605319280114 |
-| Players | 9/10 |
-| Host Name | takina inoue is not my wife |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:42:55 |
+| Lobby ID | 28515605322188829 |
+| Players | 1/5 |
+| Host Name | ✪ MzL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:48:04 |
 
 
