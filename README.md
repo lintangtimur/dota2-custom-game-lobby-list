@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543931332022 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:59:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543936650112 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | FUCK IT ALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:07:06 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:04:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543937135478 |
-| Players | 1/15 |
-| Host Name | мистер секси |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:07:50 |
+| Lobby ID | 28519543937407442 |
+| Players | 2/10 |
+| Host Name | ведьмочка |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:08:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543926432879 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:52:01 |
@@ -119,13 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:07:38 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543937456703 |
+| Players | 2/10 |
+| Host Name | PajKun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:08:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543937470051 |
+| Players | 2/10 |
+| Host Name | Ебу друзей |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:08:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543937279176 |
-| Players | 5/15 |
-| Host Name | vlome |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:08:03 |
+| Lobby ID | 28519543937476255 |
+| Players | 1/15 |
+| Host Name | Tarrence12 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:08:20 |
 
 
 |  | epic_boss_fight_challenger |
