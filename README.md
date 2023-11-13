@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605331695103 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:04:36 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605333615417 |
 | Players | 6/15 |
-| Host Name | derp. |
+| Host Name | Noga4ereZzaboR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:07:50 |
 
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605334207355 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:08:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605335022563 |
+| Players | 1/10 |
+| Host Name | адреналайн |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 15:10:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605331675362 |
-| Players | 7/8 |
-| Host Name | 2 osexo |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 15:04:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605334328390 |
-| Players | 13/15 |
-| Host Name | CyberPank |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:09:02 |
+| Lobby ID | 28515605335362189 |
+| Players | 1/8 |
+| Host Name | sucking dicks enjoyer |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 15:10:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:09:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605335022563 |
-| Players | 1/10 |
-| Host Name | адреналайн |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 15:10:13 |
+| Lobby ID | 28515605335351987 |
+| Players | 1/15 |
+| Host Name | 菜到怀疑人生 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 15:10:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605334565732 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:09:26 |
