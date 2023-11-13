@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543814430676 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Plab Plab |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:34:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543822331006 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 魅力 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:43:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543822757587 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | I'm Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:43:44 |
@@ -119,28 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 01:42:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543822608277 |
-| Players | 12/15 |
-| Host Name | shi |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:43:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543823049161 |
-| Players | 5/8 |
-| Host Name | depressed kid㉁ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:44:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543822092017 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:43:00 |
