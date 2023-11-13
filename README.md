@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605216893585 |
-| Players | 2/15 |
-| Host Name | Remington Jones |
+| Players | 1/15 |
+| Host Name | poppl |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:22:09 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605217842852 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | faloopi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:24:05 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605218303621 |
-| Players | 2/24 |
-| Host Name | Iris |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:25:02 |
+| Lobby ID | 28515605218733757 |
+| Players | 1/24 |
+| Host Name | LEÃO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:25:55 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605217764774 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:23:55 |
@@ -85,19 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605218643616 |
-| Players | 3/8 |
-| Host Name | Richi Rage |
+| Lobby ID | 28515605218851927 |
+| Players | 4/8 |
+| Host Name | Icer |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:25:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605218733757 |
-| Players | 1/24 |
-| Host Name | LEÃO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:25:55 |
+| Lobby Creation Time | Monday, November 13, 2023 11:26:10 |
 
 
