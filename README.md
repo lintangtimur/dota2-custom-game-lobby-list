@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605422506184 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | // |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:26:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605419436827 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | slick |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 17:22:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605424334845 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | homeslice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:29:15 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:29:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605424401947 |
-| Players | 7/8 |
-| Host Name | ToPeRoK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:29:21 |
+| Lobby ID | 28515605425007447 |
+| Players | 1/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 17:30:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605424893217 |
-| Players | 1/8 |
-| Host Name | Mixnajaren |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 17:30:00 |
+| Lobby ID | 28515605425029051 |
+| Players | 2/10 |
+| Host Name | nixau epta |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 17:30:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605422986478 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | chocolate icecream |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:27:28 |
