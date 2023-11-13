@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543901717668 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:18:02 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543903029619 |
-| Players | 1/8 |
-| Host Name | Evlogos |
+| Lobby ID | 28519543903418572 |
+| Players | 2/10 |
+| Host Name | Я тебе не раб |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:45 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:20:15 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543902803311 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | kimvire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:19:27 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:18:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543902617598 |
-| Players | 7/10 |
-| Host Name | ttv/D1k1y_N3GR1L4 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:12 |
+| Lobby ID | 28519543903071314 |
+| Players | 7/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:19:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543901487079 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:17:45 |
@@ -110,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:19:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543903011795 |
-| Players | 7/8 |
-| Host Name | Dominic Tavorotto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543903071314 |
-| Players | 5/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543902803893 |
-| Players | 1/8 |
-| Host Name | RVG.Pukmir |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:19:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543900074046 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:15:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543902064625 |
+| Players | 9/10 |
+| Host Name | Borobey |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:18:29 |
 
 
 |  | epic_boss_fight_nightmare |
