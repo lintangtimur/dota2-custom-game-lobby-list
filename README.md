@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605359003882 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | swap commends |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 15:49:02 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:57:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605365188494 |
-| Players | 1/8 |
-| Host Name | РОЖДЕН УМИРАТЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:58:49 |
+| Lobby ID | 28515605365222376 |
+| Players | 3/10 |
+| Host Name | Airo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 15:58:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605365222376 |
-| Players | 1/10 |
-| Host Name | Airo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 15:58:52 |
+| Lobby ID | 28515605365342291 |
+| Players | 2/10 |
+| Host Name | FRSTCMFRSTSRVD |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 15:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
