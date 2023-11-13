@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006853318 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544004042854 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | meat computer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:12:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544007435426 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Midgetman |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:20:00 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544008692809 |
-| Players | 1/8 |
-| Host Name | Sempt Junior |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:22:54 |
+| Lobby ID | 28519544008764093 |
+| Players | 4/8 |
+| Host Name | бутылка пива |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:23:04 |
 
 
 |  | epic_boss_fight_nightmare |
