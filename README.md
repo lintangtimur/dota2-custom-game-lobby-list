@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605218149677 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:24:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605217353419 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Eric Wimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:23:04 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605217842852 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | faloopi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:24:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605217443610 |
-| Players | 8/10 |
-| Host Name | Isshō | |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:23:16 |
+| Lobby ID | 28515605218303621 |
+| Players | 2/24 |
+| Host Name | Iris |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:25:02 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605217764774 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:23:55 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:22:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605218303621 |
-| Players | 1/24 |
-| Host Name | Iris |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:25:02 |
+| Lobby ID | 28515605218360678 |
+| Players | 3/10 |
+| Host Name | C-KAN |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:25:10 |
 
 
