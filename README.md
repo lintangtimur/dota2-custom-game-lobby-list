@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:19:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605405579294 |
-| Players | 12/15 |
-| Host Name | Bananas |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 17:02:02 |
+| Lobby ID | 28515605406221119 |
+| Players | 1/24 |
+| Host Name | fapin.kaiser |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 17:03:03 |
 
 
 |  | ot3_desert_octet |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vile Village |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 17:02:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605406192495 |
-| Players | 1/5 |
-| Host Name | Re4rut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:03:01 |
 
 
