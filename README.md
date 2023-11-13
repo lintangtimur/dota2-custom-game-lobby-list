@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543859856037 |
-| Players | 10/15 |
-| Host Name | Pretty scream leave your bones |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:25:40 |
+| Lobby ID | 28519543860281692 |
+| Players | 2/10 |
+| Host Name | Батя Овощей |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543857696695 |
-| Players | 13/15 |
-| Host Name | Tarrence12 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:23:07 |
+| Lobby ID | 28519543860336966 |
+| Players | 2/15 |
+| Host Name | Ck1! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543857811822 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:23:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543858783322 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Feelingpeace’s |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:24:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543859999396 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | AdmiralPigeon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:25:51 |
@@ -104,16 +104,70 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543858765103 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:24:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543860198015 |
+| Players | 1/10 |
+| Host Name | S |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543860256501 |
+| Players | 1/10 |
+| Host Name | Lonely Nomad |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543860308362 |
+| Players | 1/8 |
+| Host Name | SpidoRak |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543860339842 |
+| Players | 2/10 |
+| Host Name | mArIUs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543860352995 |
+| Players | 4/8 |
+| Host Name | alone...again((( |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543860355258 |
+| Players | 1/8 |
+| Host Name | 武汉第一医院 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543858799740 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Know ur place |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:24:25 |
@@ -135,5 +189,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Камар Илья |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:25:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543860240429 |
+| Players | 2/5 |
+| Host Name | Волшебный лох |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543860297891 |
+| Players | 1/10 |
+| Host Name | Мюнхгаузен |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:26:12 |
 
 
