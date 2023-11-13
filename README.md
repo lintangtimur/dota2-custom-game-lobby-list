@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:58:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605510143941 |
-| Players | 4/8 |
-| Host Name | Секс по туземзки |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:59:59 |
+| Lobby ID | 28515605510191874 |
+| Players | 4/15 |
+| Host Name | Argor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:00:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:54:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605510191874 |
-| Players | 3/15 |
-| Host Name | Argor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:00:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605509540193 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:59:27 |
