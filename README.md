@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605222136426 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Magna Lisa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605228765722 |
-| Players | 1/8 |
-| Host Name | Scrowney2 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:45:57 |
+| Lobby ID | 28515605228881686 |
+| Players | 1/10 |
+| Host Name | Nematovs |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:46:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605226970667 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | →The Eminence← |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:42:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605228645952 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | DARLING |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:45:43 |
