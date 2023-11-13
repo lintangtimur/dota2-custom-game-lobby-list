@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605252093192 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | Incognito |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:32:28 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:34:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605251947107 |
-| Players | 12/15 |
-| Host Name | ВладКиллер228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:32:10 |
+| Lobby ID | 28515605253540617 |
+| Players | 1/24 |
+| Host Name | Con Sueño |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:35:20 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605251121070 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ALANbrito |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:30:31 |
@@ -59,16 +59,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605247548865 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 12:23:27 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605253706338 |
+| Players | 1/24 |
+| Host Name | Nadia Omara |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 12:35:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605250187778 |
+| Players | 23/24 |
+| Host Name | Gabo |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:28:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605253843967 |
+| Players | 1/8 |
+| Host Name | снюхаемся вонючка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:35:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605253648978 |
+| Players | 6/15 |
+| Host Name | Benito |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:35:33 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28515605252622351 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Kiokasuyetsu |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:33:31 |
