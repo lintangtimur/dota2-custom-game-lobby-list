@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605316287770 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | (/_-) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:37:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605314501536 |
-| Players | 16/24 |
-| Host Name | MD. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:34:30 |
+| Lobby ID | 28515605317022800 |
+| Players | 1/8 |
+| Host Name | Прекрасная тварь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:38:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bylbazavor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:38:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605317022800 |
-| Players | 1/8 |
-| Host Name | Прекрасная тварь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:38:59 |
 
 
 |  | epic_boss_fight_nightmare |
