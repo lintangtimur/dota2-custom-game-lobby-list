@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544004072511 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Omega |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:12:28 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544004402028 |
-| Players | 11/15 |
-| Host Name | Волшебная Флафи |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:13:12 |
+| Lobby ID | 28519544004597510 |
+| Players | 4/8 |
+| Host Name | K1 CESAR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544003477613 |
-| Players | 13/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:11:07 |
+| Lobby ID | 28519544004708161 |
+| Players | 2/24 |
+| Host Name | :D |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:13:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544004483144 |
-| Players | 1/24 |
-| Host Name | PATRULLA ALFA DEL AMOR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:13:24 |
+| Lobby ID | 28519544004506083 |
+| Players | 4/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544004706584 |
+| Players | 1/5 |
+| Host Name | maj3zik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:51 |
 
 
