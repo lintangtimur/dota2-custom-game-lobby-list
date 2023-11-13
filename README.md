@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605292005823 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Sable |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:52:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605292439425 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Ankam_26 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:53:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605290366845 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:49:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605288950729 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | markb0y |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 13:46:46 |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:47:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605293436951 |
-| Players | 6/8 |
-| Host Name | Ashes of The Last World |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:55:22 |
+| Lobby ID | 28515605293757580 |
+| Players | 2/10 |
+| Host Name | Tony |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 13:55:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605293791869 |
+| Players | 3/15 |
+| Host Name | EL HOMBRE SIDA !! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 13:56:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605292931459 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:54:25 |
