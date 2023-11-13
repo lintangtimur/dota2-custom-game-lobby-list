@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605255562017 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | depressed￥₳ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:39:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605256301325 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:40:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605256364972 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:40:56 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605256633297 |
-| Players | 7/8 |
-| Host Name | Foxy |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:41:28 |
+| Lobby ID | 28515605256943086 |
+| Players | 1/8 |
+| Host Name | magnus did nothing wrong |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 12:42:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605256940546 |
-| Players | 4/8 |
-| Host Name | EterNityForever |
+| Lobby ID | 28515605257021667 |
+| Players | 1/24 |
+| Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:42:05 |
+| Lobby Creation Time | Monday, November 13, 2023 12:42:15 |
 
 
 |  | epic_boss_fight_challenger |
