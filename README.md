@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544007772977 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Аркадий Рикимарович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:20:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006853318 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544008101889 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Fifquis FiFiN |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:21:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544003667605 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Feed Control |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544007738050 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | BUTISITO LA LEYENDA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:20:42 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:22:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544007354847 |
+| Players | 9/10 |
+| Host Name | Angmar King |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:19:49 |
 
 
 |  | epic_boss_fight_nightmare |
