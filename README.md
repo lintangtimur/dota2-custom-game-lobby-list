@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605203174924 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:52:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605201979654 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | NAZUN4♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:49:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605203293046 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | TE MATO Y ME ESCAPO. |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:52:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605200255212 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DrKellìn |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:45:46 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605203150927 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Голодный |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 10:52:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605203186959 |
-| Players | 13/15 |
-| Host Name | Cheater |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:52:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605203214828 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:52:22 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605203563006 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Waku Waku~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:53:08 |
