@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544011422225 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:29:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544011418325 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | M1ke光 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:29:13 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544012044427 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Dalton Trudno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:30:43 |
@@ -130,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544012132543 |
+| Lobby ID | 28519544012267999 |
 | Players | 1/10 |
 | Host Name | Harry Potter |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:30:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:31:14 |
 
 
