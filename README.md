@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605303654343 |
-| Players | 23/24 |
-| Host Name | HashiRama |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:14:35 |
+| Lobby ID | 28515605307684259 |
+| Players | 4/10 |
+| Host Name | Kulaisdahy |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 14:22:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303260047 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605307476460 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:21:40 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:22:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605307684259 |
-| Players | 4/10 |
-| Host Name | Kulaisdahy |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 14:22:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605307717845 |
-| Players | 1/24 |
-| Host Name | ЧУВАК |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 14:22:08 |
 
 
 |  | epic_boss_fight_nightmare |
