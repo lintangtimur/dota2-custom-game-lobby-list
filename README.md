@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605296274810 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:00:47 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605295602804 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Brrrrrrrrrrrr |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 13:59:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605297546736 |
-| Players | 14/15 |
-| Host Name | EXIT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:03:13 |
+| Lobby ID | 28515605298475310 |
+| Players | 2/24 |
+| Host Name | Transcended |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 14:04:58 |
 
 
 |  | ot3_gardens_duo |
@@ -58,19 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605298376407 |
-| Players | 1/10 |
-| Host Name | Картоха |
+| Lobby ID | 28515605298521158 |
+| Players | 3/10 |
+| Host Name | ... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:04:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605298475310 |
-| Players | 2/24 |
-| Host Name | Transcended |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:04:58 |
+| Lobby Creation Time | Monday, November 13, 2023 14:05:03 |
 
 
