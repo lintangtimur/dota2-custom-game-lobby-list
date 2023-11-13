@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:40:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605354024042 |
-| Players | 4/8 |
-| Host Name | 常勝 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:41:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605354213169 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:41:27 |
@@ -58,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605354567358 |
-| Players | 1/8 |
-| Host Name | watch me die rebellious all mute |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 15:42:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605354612474 |
-| Players | 1/24 |
-| Host Name | swap commends |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 15:42:04 |
+| Lobby ID | 28515605354714080 |
+| Players | 5/8 |
+| Host Name | 常勝 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:42:14 |
 
 
 |  | epic_boss_fight_nightmare |
