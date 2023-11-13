@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605276099880 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SSS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:21:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605274307556 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Marshalldoge |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 13:17:56 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605275202419 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:19:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605276247557 |
-| Players | 1/15 |
-| Host Name | Kurapika: The last Inca |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 13:21:52 |
+| Lobby ID | 28515605276359990 |
+| Players | 1/10 |
+| Host Name | смерть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:22:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605274980031 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:19:18 |
