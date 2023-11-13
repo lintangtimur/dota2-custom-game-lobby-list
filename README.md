@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:20:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543946412616 |
-| Players | 6/15 |
-| Host Name | Kzr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:22:13 |
+| Lobby ID | 28519543944272654 |
+| Players | 9/10 |
+| Host Name | Andr3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:18:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543939425802 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:11:18 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543946264710 |
-| Players | 8/10 |
-| Host Name | AND1MIXIXIXIXIXIXIXIXIXIXIXIXIX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:21:58 |
+| Lobby ID | 28519543943410982 |
+| Players | 7/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:17:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543943948785 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Smigol |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543944404111 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543946118331 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 17% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:44 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543945226138 |
-| Players | 2/8 |
-| Host Name | СДВГ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:20:17 |
+| Lobby ID | 28519543947287906 |
+| Players | 3/8 |
+| Host Name | Mata Don Ramon |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:23:37 |
 
 
 |  | ot3_gardens_duo |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543944936619 |
-| Players | 4/10 |
-| Host Name | flaw |
+| Players | 9/10 |
+| Host Name | tolkien black |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:19:49 |
 
@@ -148,11 +148,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543944990746 |
-| Players | 4/10 |
-| Host Name | joga lindo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:19:54 |
+| Lobby ID | 28519543947442515 |
+| Players | 6/10 |
+| Host Name | fede888 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:23:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543947524725 |
+| Players | 2/10 |
+| Host Name | localhost |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:24:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 0ntre |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:17:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543947138688 |
+| Players | 1/5 |
+| Host Name | 5 cm Savage |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:23:23 |
 
 
