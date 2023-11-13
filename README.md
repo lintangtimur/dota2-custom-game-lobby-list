@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543992958582 |
-| Players | 1/10 |
-| Host Name | Дауби Даубиев |
+| Lobby ID | 28519543993424690 |
+| Players | 5/10 |
+| Host Name | Волшебная Флафи |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:48:11 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:49:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543992947090 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | AMATERASU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:48:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543993119648 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Odyssey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:48:31 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:48:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543992774706 |
-| Players | 11/15 |
-| Host Name | ac7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:47:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519543992747002 |
-| Players | 7/24 |
-| Host Name | Pin0 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:47:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543993366694 |
@@ -92,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:49:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543993353371 |
-| Players | 2/15 |
-| Host Name | АХУЙ ПОВНИЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:49:01 |
+| Lobby ID | 28519543992747002 |
+| Players | 8/24 |
+| Host Name | Pin0 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:47:44 |
 
 
 |  | epic_boss_fight_nightmare |
