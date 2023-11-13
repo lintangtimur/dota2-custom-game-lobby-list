@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006853318 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:40 |
@@ -41,55 +41,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544006508829 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Shzam |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:17:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544006999458 |
-| Players | 7/15 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:19:00 |
+| Lobby ID | 28519544007354847 |
+| Players | 5/10 |
+| Host Name | Angmar King |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544006953683 |
-| Players | 3/15 |
-| Host Name | Миль Попс жум жум |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:18:54 |
+| Lobby ID | 28519544003667605 |
+| Players | 7/10 |
+| Host Name | Feed Control |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:11:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006808305 |
-| Players | 3/24 |
+| Players | 14/24 |
 | Host Name | Mike Oxlong |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:18:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544006809200 |
-| Players | 1/24 |
-| Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
+| Lobby ID | 28519544006542887 |
+| Players | 9/10 |
+| Host Name | Asmoday Eternal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
 | Lobby ID | 28519544007071120 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Dark |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:19:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544007116282 |
+| Players | 4/15 |
+| Host Name | DiN DoNg  Aea :V |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:19:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544007435426 |
+| Players | 1/15 |
+| Host Name | Midgetman |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:20:00 |
 
 
 |  | epic_boss_fight_nightmare |
