@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605669503171 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Mana Bruh |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 20:56:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605680327432 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ヘルタ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 21:04:16 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605671226744 |
-| Players | 13/15 |
-| Host Name | Adolf Van Putin |
+| Lobby ID | 28515605655974198 |
+| Players | 5/15 |
+| Host Name | БАРА БЕРЕ БЕРЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:58:07 |
+| Lobby Creation Time | Monday, November 13, 2023 20:47:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 21:02:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605677655551 |
-| Players | 22/24 |
-| Host Name | 13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 21:02:28 |
+| Lobby ID | 28515605682532913 |
+| Players | 1/8 |
+| Host Name | PerTzo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 21:05:46 |
 
 
 |  | ot3_gardens_duo |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605682532913 |
+| Lobby ID | 28515605683280402 |
 | Players | 1/8 |
-| Host Name | PerTzo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 21:05:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605655974198 |
-| Players | 1/15 |
-| Host Name | БАРА БЕРЕ БЕРЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:47:58 |
+| Host Name | FunnyMine |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 21:06:16 |
 
 
 |  | epic_boss_fight_nightmare |
