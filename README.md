@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605457096381 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605462021769 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | お前ら大嫌いだ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:14:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605463032233 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | radbix |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 18:15:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605462669333 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Дауби Даубиев |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 18:14:51 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:14:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605464907262 |
+| Players | 1/10 |
+| Host Name | Я БЛИЖЕ К БОГУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:17:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605464902511 |
+| Players | 1/24 |
+| Host Name | ^^ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 18:17:12 |
 
 
 |  | epic_boss_fight_nightmare |
