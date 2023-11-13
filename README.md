@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605297982926 |
-| Players | 1/10 |
-| Host Name | LAST PICK OR FEED |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 14:04:02 |
+| Lobby ID | 28515605303654343 |
+| Players | 10/24 |
+| Host Name | HashiRama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 14:14:35 |
 
 
 |  | ot3_gardens_duo |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605304118621 |
 | Players | 2/8 |
-| Host Name | Crybaby |
+| Host Name | zoryanru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:27 |
 
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 110 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:14:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605303654343 |
-| Players | 10/24 |
-| Host Name | HashiRama |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:14:35 |
 
 
 |  | epic_boss_fight_nightmare |
