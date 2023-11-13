@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605781846334 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | tw.tv/VolodyaVanguard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:13:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605775540354 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 22:08:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605760205976 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | BlueWhale |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:57:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605761884793 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | SW. |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 21:59:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605779193869 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | あなたの番です |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 22:11:21 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605782107434 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | White |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 22:13:25 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 22:12:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605685089643 |
-| Players | 22/24 |
-| Host Name | Jing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 21:07:29 |
+| Lobby ID | 28515605777817400 |
+| Players | 12/15 |
+| Host Name | sleepy space cat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 22:10:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -176,16 +176,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605782355762 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:13:35 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605783312498 |
+| Players | 4/8 |
+| Host Name | Сыр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 22:14:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605783360925 |
+| Players | 1/8 |
+| Host Name | UR'SUS |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 22:14:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605778222486 |
+| Players | 4/10 |
+| Host Name | Ты махлюишь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 22:10:40 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605779404711 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Товарищ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:11:30 |
@@ -194,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605779972408 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Fey |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 22:11:54 |
@@ -203,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605775400865 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 22:08:39 |
