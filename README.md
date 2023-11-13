@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543954844724 |
-| Players | 7/15 |
-| Host Name | Odyssey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:36:02 |
+| Lobby ID | 28519543955945740 |
+| Players | 4/15 |
+| Host Name | Dudos |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:37:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543954454676 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Avena 3 ursitas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:35:22 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543955208401 |
+| Lobby ID | 28519543955580754 |
 | Players | 2/10 |
-| Host Name | доточка proebalas' |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:36:39 |
+| Host Name | ? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:37:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543955411826 |
-| Players | 1/24 |
-| Host Name | mutterfickeramt |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:36:59 |
+| Lobby ID | 28519543955815542 |
+| Players | 1/8 |
+| Host Name | ToPeRoK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:37:41 |
 
 
 |  | ot3_gardens_duo |
@@ -85,46 +85,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543955580754 |
-| Players | 2/10 |
-| Host Name | ? |
+| Lobby ID | 28519543955772697 |
+| Players | 9/10 |
+| Host Name | ♂typhoon♂ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:37:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519543955963205 |
+| Players | 2/24 |
+| Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:37:17 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:37:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543956039779 |
+| Players | 3/8 |
+| Host Name | Я В ПИВЕ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:38:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543956045560 |
+| Players | 1/8 |
+| Host Name | КОММЕРС |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:38:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543956035197 |
+| Players | 1/15 |
+| Host Name | H_NGM_N |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:38:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543953888004 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Styll7 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:34:25 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28519543955127524 |
-| Players | 1/5 |
-| Host Name | $cronos$ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:36:30 |
+| Lobby ID | 28519543955475142 |
+| Players | 2/7 |
+| Host Name | CadaVer |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:37:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543955348650 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | +left |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:36:53 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28519543955475142 |
-| Players | 1/7 |
-| Host Name | CadaVer |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:37:06 |
 
 
