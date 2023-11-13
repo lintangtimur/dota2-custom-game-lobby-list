@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605248275704 |
-| Players | 1/8 |
-| Host Name | (/_-) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:24:53 |
+| Lobby ID | 28515605247888113 |
+| Players | 4/24 |
+| Host Name | Sol[A]ce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 12:24:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605248544078 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Lorya |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:25:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605246464646 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | СЕРЕГА А ПОМНИШЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:21:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605244529401 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Drive my car |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:17:28 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:23:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605247888113 |
-| Players | 4/24 |
-| Host Name | Sol[A]ce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 12:24:07 |
+| Lobby ID | 28515605248913950 |
+| Players | 1/8 |
+| Host Name | (/_-) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:26:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BamBimBum |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 12:25:10 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28515605248703587 |
-| Players | 1/7 |
-| Host Name | ➤ D a a n |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 12:25:43 |
 
 
