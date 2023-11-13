@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605369755434 |
-| Players | 6/8 |
-| Host Name | Airo |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 16:06:04 |
+| Lobby ID | 28515605371027433 |
+| Players | 2/8 |
+| Host Name | sproink |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 16:08:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605370454361 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 牛排三分熟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:07:10 |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:07:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605364564866 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 15:57:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605371010765 |
@@ -137,21 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:08:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605371069793 |
+| Players | 4/15 |
+| Host Name | похуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:08:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605369456079 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♡ ChikoLulu ♡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:05:36 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605370976621 |
-| Players | 1/5 |
+| Lobby ID | 28515605371114019 |
+| Players | 1/10 |
 | Host Name | Fogg_soglasen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:07:59 |
+| Lobby Creation Time | Monday, November 13, 2023 16:08:12 |
 
 
