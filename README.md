@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605369755434 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Airo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 16:06:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605366056875 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | 离手鸳鸯刀 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 16:00:12 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:06:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605370264841 |
-| Players | 2/10 |
-| Host Name | i miss u |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 16:06:52 |
+| Lobby ID | 28515605370371764 |
+| Players | 1/24 |
+| Host Name | Deva path |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 16:07:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605370434380 |
+| Players | 1/24 |
+| Host Name | 爱要弹蛋蛋 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 16:07:08 |
 
 
 |  | epic_boss_fight_nightmare |
