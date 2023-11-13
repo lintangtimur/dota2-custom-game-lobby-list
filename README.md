@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605494461700 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | MADABO |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 18:45:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605500256969 |
-| Players | 7/10 |
-| Host Name | TOXIC_Alex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:51:15 |
+| Lobby ID | 28515605498311024 |
+| Players | 7/8 |
+| Host Name | 21 ravage |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 18:49:29 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:48:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605499907140 |
-| Players | 9/10 |
-| Host Name | fear of god |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:50:56 |
+| Lobby ID | 28515605501158923 |
+| Players | 1/8 |
+| Host Name | you cry i laugh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 18:52:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605498584184 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | сгусток |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:49:44 |
@@ -104,52 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605500864681 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Микроволновка |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:51:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605498311024 |
-| Players | 7/8 |
-| Host Name | 21 ravage |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:49:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605501084790 |
-| Players | 3/8 |
-| Host Name | Андрей санстрайк |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:52:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605501158923 |
-| Players | 1/8 |
-| Host Name | you cry i laugh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:52:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605501267698 |
-| Players | 4/8 |
-| Host Name | Самвел Евросеть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:52:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605498688010 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | +left |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:49:49 |
