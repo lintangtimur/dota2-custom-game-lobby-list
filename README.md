@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:00:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605508999044 |
-| Players | 23/24 |
-| Host Name | MiauW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:58:59 |
+| Lobby ID | 28515605506535549 |
+| Players | 8/15 |
+| Host Name | аРБУЗ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:56:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605498584184 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | Lesh4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:49:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605512213131 |
-| Players | 5/8 |
-| Host Name | Шкипер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:01:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605503503671 |
-| Players | 14/15 |
-| Host Name | свечу с базы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:54:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605512264312 |
-| Players | 1/15 |
-| Host Name | hamst3r1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:01:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,19 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:02:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605512264312 |
+| Players | 1/15 |
+| Host Name | hamst3r1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:01:51 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605512597935 |
-| Players | 1/8 |
-| Host Name | squad amням aкаши |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 19:02:09 |
+| Lobby ID | 28515605512810071 |
+| Players | 3/8 |
+| Host Name | capo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:02:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605509540193 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:59:27 |
