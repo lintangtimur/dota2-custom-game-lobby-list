@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543979159394 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | juliale |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543979042111 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:00 |
@@ -32,26 +32,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543979048322 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | æ Haku æ |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543979059810 |
-| Players | 1/24 |
-| Host Name | ' |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:20:02 |
+| Lobby ID | 28519543979679973 |
+| Players | 14/15 |
+| Host Name | ИП_в_РФ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543979546260 |
-| Players | 2/10 |
-| Host Name | peregar514 |
+| Players | 1/10 |
+| Host Name | Mrs Poopoo Lu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:59 |
 
@@ -74,48 +74,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543979968323 |
+| Players | 5/8 |
+| Host Name | peregar514 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:49 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543979679973 |
+| Lobby ID | 28519543979995891 |
 | Players | 1/15 |
-| Host Name | ИП_в_РФ |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543979779074 |
+| Players | 9/10 |
+| Host Name | LeMarkoss |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:21:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543968635772 |
-| Players | 1/10 |
-| Host Name | k. Danger-Zone |
+| Lobby ID | 28519543979790445 |
+| Players | 1/15 |
+| Host Name | ZeinnyG |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:00:23 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543978772037 |
-| Players | 1/10 |
-| Host Name | EcoHunter |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:19:28 |
+| Lobby ID | 28519543979833772 |
+| Players | 1/15 |
+| Host Name | Mor'Grim |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543978800120 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | свиня джакузі |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:19:32 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519543979201402 |
-| Players | 1/5 |
-| Host Name | Cream |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:20:19 |
+| Lobby ID | 28519543979852405 |
+| Players | 1/10 |
+| Host Name | k. Danger-Zone |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543980002096 |
+| Players | 1/10 |
+| Host Name | Soda popinski |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:53 |
 
 
