@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605326465293 |
-| Players | 9/10 |
-| Host Name | Blackout |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:55:29 |
+| Lobby ID | 28515605327846772 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 14:57:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605325626651 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | MS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:54:01 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:56:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605327846772 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 14:57:51 |
 
 
 |  | epic_boss_fight_nightmare |
