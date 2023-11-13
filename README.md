@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605457096381 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605461110373 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 3jLa9I_Co6a4Ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:13:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605460688646 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:12:45 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | x^2sin(x)dx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:13:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605459737964 |
+| Players | 6/8 |
+| Host Name | <MINAZUKI> |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:11:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605461981165 |
+| Players | 1/8 |
+| Host Name | Величайший |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 18:14:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605462021769 |
+| Players | 1/15 |
+| Host Name | お前ら大嫌いだ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 18:14:10 |
 
 
 |  | epic_boss_fight_nightmare |
