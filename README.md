@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:32:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543951966661 |
-| Players | 1/15 |
-| Host Name | MK |
+| Lobby ID | 28519543953123682 |
+| Players | 1/24 |
+| Host Name | cream3.1415926535 8979323 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:31:13 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:33:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543953075277 |
-| Players | 2/10 |
-| Host Name | Caan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:33:03 |
+| Lobby ID | 28519543953089575 |
+| Players | 3/8 |
+| Host Name | Memento |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:33:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543953080763 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:33:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543953089575 |
-| Players | 3/8 |
-| Host Name | Memento |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:33:05 |
 
 
