@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543864153043 |
-| Players | 2/15 |
-| Host Name | ketchuup |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:30:49 |
+| Lobby ID | 28519543864567346 |
+| Players | 1/8 |
+| Host Name | Telavi City Shuffle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:31:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543864252683 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | kono Dio da! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:30:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543862452664 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | PINGOSTINY |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:28:46 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:25:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543861922781 |
-| Players | 5/8 |
-| Host Name | крутой перчик |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:28:08 |
+| Lobby ID | 28519543864292502 |
+| Players | 9/10 |
+| Host Name | Angmar King |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:30:59 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543787175044 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Mc LOVIN |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:05:20 |
@@ -113,25 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543864184538 |
-| Players | 3/15 |
-| Host Name | Mopo |
+| Players | 1/15 |
+| Host Name | Pollux |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:30:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543864292502 |
-| Players | 4/10 |
-| Host Name | Angmar King |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:30:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543858799740 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Know ur place |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:24:25 |
