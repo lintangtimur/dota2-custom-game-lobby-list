@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605226090476 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:40:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605221864431 |
-| Players | 22/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 11:32:14 |
+| Lobby ID | 28515605227117857 |
+| Players | 1/8 |
+| Host Name | el anticristo2009 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:42:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605226729932 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | tin tin |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:41:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605226307804 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:41:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605226441794 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ᴉɐɹ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:41:17 |
@@ -86,18 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605226970667 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | →The Eminence← |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:42:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605227092927 |
+| Players | 6/8 |
+| Host Name | CGod |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:42:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605227175809 |
+| Players | 1/5 |
+| Host Name | iaaaaaaaaaaaaaa godota2.com |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:42:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605226507629 |
-| Players | 2/10 |
-| Host Name | Agnis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:41:25 |
+| Lobby ID | 28515605227265438 |
+| Players | 1/10 |
+| Host Name | JL'Esperance |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 11:42:55 |
 
 
