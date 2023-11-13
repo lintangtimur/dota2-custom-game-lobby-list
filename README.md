@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543993731627 |
-| Players | 12/15 |
-| Host Name | sQuirtle |
+| Lobby ID | 28519543994304434 |
+| Players | 4/15 |
+| Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:49:47 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:50:57 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543993731244 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:49:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543992974170 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Little BirD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:48:13 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543993604670 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | BUTT PIRATE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:49:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543994304434 |
-| Players | 4/15 |
-| Host Name | 暁 | <3 leler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:50:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543992725112 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | tulindoteiro |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:47:42 |
