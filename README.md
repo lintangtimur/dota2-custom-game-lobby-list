@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543910124243 |
-| Players | 1/10 |
-| Host Name | Dissmac Volt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:29:13 |
+| Lobby ID | 28519543910743271 |
+| Players | 7/15 |
+| Host Name | S U C C |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:30:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543889540409 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:02:23 |
@@ -76,29 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543909756740 |
+| Lobby ID | 28519543910679376 |
 | Players | 1/15 |
-| Host Name | Promi |
+| Host Name | Wertok |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:28:43 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:29:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543906876512 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Mr.Mili |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:24:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543909712044 |
-| Players | 7/8 |
-| Host Name | Incensus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:28:39 |
+| Lobby ID | 28519543910723380 |
+| Players | 2/15 |
+| Host Name | 亞U.NDERLXRD亞 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:30:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:28:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543910509013 |
-| Players | 8/10 |
-| Host Name | AND1MIXIXIXIXIXIXIXIXIXIXIXIXIX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:29:44 |
+| Lobby ID | 28519543910734477 |
+| Players | 4/8 |
+| Host Name | Gats |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:30:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -146,40 +146,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:29:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543910359473 |
-| Players | 1/8 |
-| Host Name | papichit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:29:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543910370288 |
-| Players | 1/15 |
-| Host Name | Чак-Чак Норрис |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:29:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543910625196 |
-| Players | 1/15 |
-| Host Name | l000000l |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:29:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543910637259 |
+| Lobby ID | 28519543910739991 |
 | Players | 1/24 |
-| Host Name | Duck man |
+| Host Name | Чак-Чак Норрис |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:30:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543910759356 |
+| Players | 3/8 |
+| Host Name | Izana Kurokawa |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:29:54 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:30:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543910775774 |
+| Players | 1/10 |
+| Host Name | Dissmac Volt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:30:06 |
 
 
 |  | epic_boss_fight_nightmare |
