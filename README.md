@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605206858664 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605206500399 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 10:59:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605208614193 |
-| Players | 1/15 |
-| Host Name | EL QUEMA INDIOS |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:04:26 |
+| Lobby ID | 28515605208804080 |
+| Players | 3/8 |
+| Host Name | Wolfstrong97 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:04:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605208629802 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Tilooo. |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:04:28 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605208754035 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | NutInMyMouthForBusMoney, ty |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:04:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605208804080 |
-| Players | 3/8 |
-| Host Name | Wolfstrong97 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 11:04:52 |
 
 
 |  | epic_boss_fight_nightmare |
