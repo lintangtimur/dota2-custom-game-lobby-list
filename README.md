@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544000483282 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:04:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544001099370 |
-| Players | 2/15 |
-| Host Name | sPamer |
+| Lobby ID | 28519544001189754 |
+| Players | 1/10 |
+| Host Name | merenge |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:05:46 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:05:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544000529770 |
-| Players | 13/15 |
-| Host Name | АХУЙ ПОВНИЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:04:29 |
+| Lobby ID | 28519544001179343 |
+| Players | 1/24 |
+| Host Name | SmokingCascade |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:05:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544000666789 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | z |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:04:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544000926026 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | LeonAIdus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:23 |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Full-Time Griefer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:05:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544001189754 |
-| Players | 1/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:05:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544001179343 |
-| Players | 1/24 |
-| Host Name | SmokingCascade |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:05:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544001214902 |
-| Players | 3/8 |
-| Host Name | ШМАКЛЕЁБ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:06:02 |
 
 
 |  | epic_boss_fight_nightmare |
