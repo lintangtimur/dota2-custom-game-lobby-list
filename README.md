@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605513201767 |
-| Players | 19/24 |
-| Host Name | Seiryuu竜 |
+| Players | 17/24 |
+| Host Name | 24เจ้าหมูกดำ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:02:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605506535549 |
-| Players | 13/15 |
-| Host Name | ルPanacea灯 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:56:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605517628995 |
-| Players | 7/10 |
-| Host Name | playmen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:06:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:06:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605517680318 |
-| Players | 1/5 |
-| Host Name | вампир кузнецов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:06:31 |
+| Lobby ID | 28515605518590691 |
+| Players | 6/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 19:07:17 |
 
 
 |  | epic_boss_fight_nightmare |
