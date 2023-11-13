@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:30:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605444503589 |
-| Players | 4/10 |
-| Host Name | HESHER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:54:29 |
+| Lobby ID | 28515605445538658 |
+| Players | 1/8 |
+| Host Name | ☛★BUZZ★ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605442194442 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | 1 man with 7 animals |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 17:51:45 |
@@ -40,37 +40,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605445006725 |
-| Players | 2/8 |
-| Host Name | LET ME COOK |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 17:55:05 |
+| Lobby ID | 28515605445807984 |
+| Players | 1/8 |
+| Host Name | Люблю худых, но трахаю Таню |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 17:56:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605445074954 |
-| Players | 1/24 |
-| Host Name | Death|-_-|Gan |
+| Lobby ID | 28515605445466736 |
+| Players | 8/15 |
+| Host Name | Kiwiszn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:55:10 |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605445530352 |
+| Players | 3/10 |
+| Host Name | L u 4 i s t i y   P i r o j o k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605445532423 |
+| Players | 1/15 |
+| Host Name | MoNsTeR! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605445716927 |
+| Players | 1/15 |
+| Host Name | ChrryI |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605445767562 |
+| Players | 1/8 |
+| Host Name | 3jLa9I_Co6a4Ka |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:59 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605443324019 |
-| Players | 2/5 |
-| Host Name | вампир кузнецов |
+| Players | 1/5 |
+| Host Name | Itsune🤍 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:53:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605443995170 |
-| Players | 8/10 |
-| Host Name | Вениамин Рапира |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:53:53 |
+| Lobby ID | 28515605445182532 |
+| Players | 5/10 |
+| Host Name | Raging.Hope |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 17:55:17 |
 
 
