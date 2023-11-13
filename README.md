@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605334207355 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:08:50 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Прекрасная тварь |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 15:11:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605336219311 |
+| Players | 1/10 |
+| Host Name | Ксюша мочит |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 15:12:13 |
 
 
 |  | epic_boss_fight_nightmare |
