@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:59:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543935904957 |
-| Players | 2/10 |
-| Host Name | МЫШЬ ГАШИШ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:05:59 |
+| Lobby ID | 28519543936430474 |
+| Players | 12/15 |
+| Host Name | ебать ту люсю |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:06:46 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543935134973 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Snobias |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:04:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543936329997 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Рак-чикибряк |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:06:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543936028065 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | null |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:06:10 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543936622499 |
-| Players | 1/8 |
-| Host Name | Vurtune |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:07:04 |
+| Lobby ID | 28519543936773899 |
+| Players | 5/8 |
+| Host Name | Пряня enjoyer |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:07:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FUCK IT ALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:07:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543936430474 |
-| Players | 4/15 |
-| Host Name | ебать ту люсю |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:06:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543930405740 |
-| Players | 14/15 |
-| Host Name | Logan Ninefingers |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:57:50 |
 
 
 |  | epic_boss_fight_challenger |
