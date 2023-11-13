@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543889518852 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | У меня ипотека |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:02:21 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543888327827 |
-| Players | 6/8 |
-| Host Name | KAJIbI4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:00:48 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543889997317 |
-| Players | 2/10 |
-| Host Name | wake slip ♡ |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:02:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543890023875 |
+| Lobby ID | 28519543890102222 |
 | Players | 1/10 |
 | Host Name | gaer390 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:03:00 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:03:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543890058946 |
+| Players | 1/8 |
+| Host Name | 100iz10 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:03:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543885199346 |
+| Players | 12/15 |
+| Host Name | ハチ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:56:49 |
 
 
 |  | ot3_gardens_duo |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:02:16 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543889953105 |
-| Players | 3/7 |
-| Host Name | Хитрая |
+| Lobby ID | 28519543890167939 |
+| Players | 2/8 |
+| Host Name | I stronger I smarter I better |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:02:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:03:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543889892323 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Любимые дрова |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:02:50 |
