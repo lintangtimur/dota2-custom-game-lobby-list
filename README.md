@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605197723148 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:40:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605197589572 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Carpe Diem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605197535612 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 【༺𒋲✶...LombriS...✶༺ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605198572407 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Puerco araña |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 10:42:00 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fancy.QuoRRah |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605198716439 |
+| Players | 4/8 |
+| Host Name | Darling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:42:19 |
 
 
 |  | epic_boss_fight_challenger |
