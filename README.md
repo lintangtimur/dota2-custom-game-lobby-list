@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605233276842 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Rize - 気 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 11:55:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605234117915 |
-| Players | 21/24 |
-| Host Name | Экинуй Сенгаี้ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:56:43 |
+| Lobby ID | 28515605236219092 |
+| Players | 2/10 |
+| Host Name | Modo Likitom |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:00:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
