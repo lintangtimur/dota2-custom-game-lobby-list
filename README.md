@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544010263245 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:26:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544011574975 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:29:36 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:29:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544012016163 |
-| Players | 8/10 |
-| Host Name | Tshaba Ntsha |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:30:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544012077803 |
-| Players | 13/15 |
-| Host Name | zзачем я тутz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:30:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544012191490 |
-| Players | 5/15 |
-| Host Name | RuBeN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:31:03 |
+| Lobby ID | 28519544013094100 |
+| Players | 1/24 |
+| Host Name | SmokingCascade |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:33:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,31 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:31:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544009449226 |
-| Players | 7/8 |
-| Host Name | SrDumii |
+| Lobby ID | 28519544012191490 |
+| Players | 6/15 |
+| Host Name | RuBeN |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:24:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544013087528 |
-| Players | 1/24 |
-| Host Name | Squeebs |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:33:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544013094100 |
-| Players | 1/24 |
-| Host Name | SmokingCascade |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:33:12 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:31:03 |
 
 
 |  | epic_boss_fight_nightmare |
