@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605340458892 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | BlackShooter |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 15:19:15 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605349613446 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | CR1ME`GANG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:34:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605344491820 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 15:25:56 |
+| Lobby ID | 28515605350881278 |
+| Players | 10/24 |
+| Host Name | 爱要弹蛋蛋 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 15:36:10 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:37:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605350881278 |
-| Players | 5/24 |
-| Host Name | 爱要弹蛋蛋 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 15:36:10 |
+| Lobby ID | 28515605352158796 |
+| Players | 3/8 |
+| Host Name | B U D H H A |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 15:38:12 |
 
 
 |  | epic_boss_fight_nightmare |
