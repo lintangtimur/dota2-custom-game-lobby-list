@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605176629762 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:53:34 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605176162789 |
-| Players | 1/15 |
-| Host Name | [KARLII]=[♥]º |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 09:52:32 |
+| Lobby ID | 28515605177226267 |
+| Players | 2/15 |
+| Host Name | falcon |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 09:54:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605176825423 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | el todo poderoso |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:54:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605176816796 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Страшнеслав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:53:59 |
