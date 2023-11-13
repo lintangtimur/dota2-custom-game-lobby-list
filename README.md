@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605220980621 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:30:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605221096382 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | OsOTeNeBrOsO |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:30:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605222070089 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | №55 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:39 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605222177442 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Can you hear the music |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605222211994 |
+| Players | 5/8 |
+| Host Name | La realeza de los andes |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:32:56 |
 
 
 |  | epic_boss_fight_nightmare |
