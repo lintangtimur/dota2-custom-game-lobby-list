@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605214967397 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | KVASLOVER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:18:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605213400417 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:14:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605215080557 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | →The Eminence← |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:18:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605215196043 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:18:36 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605213481623 |
-| Players | 14/15 |
-| Host Name | QuAnqUanC |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 11:14:57 |
+| Lobby ID | 28515605215949380 |
+| Players | 3/15 |
+| Host Name | Shizzy McCreepy |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:20:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605215723135 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605215856687 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:19:59 |
