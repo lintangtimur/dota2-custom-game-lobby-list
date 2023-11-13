@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605419697384 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:22:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605420734169 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | beyond |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 17:24:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605420958761 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:24:43 |
@@ -83,6 +83,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:25:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605416664008 |
+| Players | 11/15 |
+| Host Name | pixie music |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:18:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605410196062 |
+| Players | 14/15 |
+| Host Name | FriedSprite |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 17:09:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605421429177 |
+| Players | 1/8 |
+| Host Name | radbix |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 17:25:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605420722077 |
@@ -90,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:24:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605420621210 |
-| Players | 7/10 |
-| Host Name | Danh hài Vân Sơn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 17:24:16 |
 
 
