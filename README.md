@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543867202679 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:34:31 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543883038402 |
+| Lobby ID | 28519543883508337 |
 | Players | 1/8 |
-| Host Name | ya ebal menya sosali |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:54:05 |
+| Host Name | db |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543882942797 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | ihkanu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:53:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543882533103 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:53:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543878449135 |
-| Players | 14/15 |
-| Host Name | MountainJew |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:48:19 |
+| Lobby ID | 28519543883177172 |
+| Players | 1/24 |
+| Host Name | Vitu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:16 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543882050244 |
-| Players | 9/24 |
+| Players | 17/24 |
 | Host Name | niko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:52:50 |
@@ -85,46 +85,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543882999006 |
-| Players | 11/15 |
-| Host Name | Free Palestine |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:54:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28519543880690741 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:51:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543881720408 |
+| Players | 7/8 |
+| Host Name | MORGAN´S :P |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:52:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543883508014 |
+| Players | 1/10 |
+| Host Name | Syn.v2 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:41 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543883177172 |
+| Lobby ID | 28519543883562113 |
 | Players | 1/24 |
-| Host Name | Vitu |
+| Host Name | X-ART |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:54:16 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543879662987 |
-| Players | 7/10 |
-| Host Name | clglOgck |
+| Lobby ID | 28519543883615709 |
+| Players | 6/10 |
+| Host Name | Мальчик в трусика |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:49:50 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543883643020 |
+| Players | 1/5 |
+| Host Name | ST.94 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:51 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519543877160230 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Сасаки |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:46:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543883692708 |
+| Players | 1/5 |
+| Host Name |  |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:54:55 |
 
 
