@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605551277784 |
-| Players | 15/24 |
-| Host Name | 金子含我的蛋 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 19:33:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605541994489 |
-| Players | 6/8 |
-| Host Name | Deadline |
+| Lobby ID | 28515605555659117 |
+| Players | 1/8 |
+| Host Name | Bob |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:26:17 |
+| Lobby Creation Time | Monday, November 13, 2023 19:36:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605555099514 |
+| Players | 9/10 |
+| Host Name | Shuma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:36:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605553209537 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | N O R B Я Ь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:34:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605548786029 |
-| Players | 8/15 |
-| Host Name | Depeche Mode |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:31:34 |
+| Lobby ID | 28515605508999044 |
+| Players | 10/24 |
+| Host Name | Deva path |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 18:58:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605513201767 |
-| Players | 11/24 |
+| Players | 20/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:02:41 |
@@ -110,28 +110,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:35:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605539804049 |
+| Players | 5/8 |
+| Host Name | Fenrir The Eater |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:24:33 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605554848673 |
+| Lobby ID | 28515605554911540 |
+| Players | 2/10 |
+| Host Name | ych |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 19:36:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605545352391 |
 | Players | 1/10 |
-| Host Name | ПАРАВОЗNK |
+| Host Name | Мікітка Розвідка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:36:14 |
+| Lobby Creation Time | Monday, November 13, 2023 19:28:55 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515605545674272 |
-| Players | 3/5 |
-| Host Name | mode: SaiVoL |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 19:29:10 |
+| Lobby ID | 28515605555825325 |
+| Players | 1/5 |
+| Host Name | Madizri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 19:36:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605546121769 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Ramson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:29:31 |
@@ -140,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28515605553973814 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | ReinDeer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 19:35:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605536453025 |
-| Players | 9/10 |
-| Host Name | ЯDeRNЫй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:21:54 |
 
 
