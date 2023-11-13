@@ -20,20 +20,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:34:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605518033977 |
-| Players | 6/8 |
-| Host Name | ★_hisokadano_♣ |
+| Lobby ID | 28515605519624997 |
+| Players | 1/15 |
+| Host Name | Sushist |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:06:49 |
+| Lobby Creation Time | Monday, November 13, 2023 19:08:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605513201767 |
 | Players | 20/24 |
-| Host Name | Skippa |
+| Host Name | Magnitude Pop* Pop* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:02:41 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605518661254 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | STRAY228 PRIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:07:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605503503671 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Kinvaras |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:54:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605517836238 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | chmo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:06:39 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | you? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:07:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605509540193 |
+| Players | 9/10 |
+| Host Name | AkdVq |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 18:59:27 |
 
 
