@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543866864804 |
-| Players | 4/15 |
-| Host Name | ksyaksyaksya |
+| Lobby ID | 28519543866919786 |
+| Players | 5/8 |
+| Host Name | mode prime |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:34:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543787175044 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Mc LOVIN |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:05:20 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 01:49:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543866851635 |
-| Players | 1/15 |
-| Host Name | Анальный охотник |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:34:06 |
+| Lobby ID | 28519543866936171 |
+| Players | 4/8 |
+| Host Name | Skarp. TRADEIT.GG |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543863339146 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | [HADES] WaRiO TaKeMi KaZuShI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:29:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543866724654 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Free Palestine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:33:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543866130252 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | niko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:33:14 |
@@ -110,22 +110,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:33:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543866290259 |
-| Players | 3/10 |
-| Host Name | JoJogan |
+| Lobby ID | 28519543867019130 |
+| Players | 1/15 |
+| Host Name | www.twitch.tv/fominini |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:33:25 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543866833676 |
-| Players | 1/8 |
-| Host Name | Flux |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:34:05 |
+| Lobby ID | 28519543867031329 |
+| Players | 1/15 |
+| Host Name | Gabi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543867013553 |
+| Players | 1/15 |
+| Host Name | Elvirith |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543867037408 |
+| Players | 2/15 |
+| Host Name | fest |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543867029654 |
+| Players | 2/15 |
+| Host Name | Dwight Schrute |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:19 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Know ur place |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:31:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543867034679 |
+| Players | 1/10 |
+| Host Name | recident |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:34:19 |
 
 
