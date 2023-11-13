@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605222136426 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Magna Lisa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605226090476 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:40:36 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:40:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605226162507 |
-| Players | 1/10 |
-| Host Name | LEON.' |
+| Lobby ID | 28515605226267528 |
+| Players | 1/15 |
+| Host Name | MickeY |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:40:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605226307804 |
+| Players | 1/24 |
+| Host Name | EduBan |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:40:45 |
+| Lobby Creation Time | Monday, November 13, 2023 11:41:01 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605223620535 |
-| Players | 9/10 |
-| Host Name | Cat Rangoons |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 11:35:44 |
+| Lobby ID | 28515605226327184 |
+| Players | 1/24 |
+| Host Name | Anglemon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:41:04 |
 
 
