@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 20:22:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605625206281 |
-| Players | 2/10 |
-| Host Name | /// |
+| Lobby ID | 28515605627923356 |
+| Players | 3/8 |
+| Host Name | БЛЕБ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:27:07 |
+| Lobby Creation Time | Monday, November 13, 2023 20:29:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605520639451 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | QuaD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605625349604 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Never.More. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:27:14 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605618775843 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:22:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605625759084 |
-| Players | 7/8 |
-| Host Name | fn mentality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:27:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605627356804 |
-| Players | 3/15 |
-| Host Name | Яспер Моглот (Dutch) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:28:36 |
 
 
 |  | ot3_gardens_duo |
@@ -121,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605613378464 |
-| Players | 13/15 |
-| Host Name | watch me die rebellious all mute |
+| Lobby ID | 28515605627356804 |
+| Players | 3/15 |
+| Host Name | Яспер Моглот (Dutch) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:18:51 |
+| Lobby Creation Time | Monday, November 13, 2023 20:28:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605627917779 |
+| Players | 1/10 |
+| Host Name | ещкерёнок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:28:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 󠀡󠀡G.O.D |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 20:28:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605628077368 |
+| Players | 1/5 |
+| Host Name | XhOoPe |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 20:29:06 |
 
 
