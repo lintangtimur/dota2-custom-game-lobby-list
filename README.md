@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605180654071 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Burbuja 00 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:02:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605180448694 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | alexmercerjta123 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:02:05 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605180410028 |
-| Players | 7/8 |
-| Host Name | isn't like holding to the center |
+| Lobby ID | 28515605181259428 |
+| Players | 1/24 |
+| Host Name | Yappy |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 10:02:00 |
+| Lobby Creation Time | Monday, November 13, 2023 10:03:53 |
 
 
 |  | ot3_desert_octet |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605181240092 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ЛДД |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:03:51 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605181259428 |
-| Players | 1/24 |
-| Host Name | Yappy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 10:03:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605181281275 |
+| Lobby ID | 28515605181373602 |
 | Players | 1/15 |
 | Host Name | [" ShaDy "] ... ! |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:03:56 |
+| Lobby Creation Time | Monday, November 13, 2023 10:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
