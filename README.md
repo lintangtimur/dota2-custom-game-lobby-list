@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:42:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544018070097 |
-| Players | 14/15 |
-| Host Name | Trickster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:17 |
+| Lobby ID | 28519544018599069 |
+| Players | 5/10 |
+| Host Name | Shzam |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:46:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544015106256 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | KeyOfTheSun |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:38:04 |
@@ -74,51 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:39:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544017987297 |
-| Players | 7/10 |
-| Host Name | ShinSora 心癒 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544018045622 |
-| Players | 1/15 |
-| Host Name | ronal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544018337630 |
-| Players | 6/10 |
-| Host Name | Wagon Wheels |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544018111047 |
-| Players | 5/8 |
-| Host Name | VIVA LA 27 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544018288120 |
-| Players | 3/24 |
-| Host Name | Tomoya Uryuu |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:45:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544018185652 |
@@ -128,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:45:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544018045622 |
+| Players | 3/15 |
+| Host Name | ronal |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:45:14 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544018599069 |
-| Players | 5/10 |
-| Host Name | Shzam |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:46:36 |
+| Lobby ID | 28519544018337630 |
+| Players | 7/10 |
+| Host Name | Wagon Wheels |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:45:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544018111047 |
+| Players | 7/8 |
+| Host Name | VIVA LA 27 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:45:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544018288120 |
+| Players | 4/24 |
+| Host Name | Tomoya Uryuu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:45:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EUCHI MANO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:46:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544018762706 |
-| Players | 1/10 |
-| Host Name | 悲 UmAiR |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:47:00 |
 
 
