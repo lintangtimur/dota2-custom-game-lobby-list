@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605369285240 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | kel'tas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:05:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605369215990 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:05:13 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605369702454 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | МАЙОР ДИВАННЫХ ВО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:05:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605369755434 |
+| Players | 1/8 |
+| Host Name | Airo |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 16:06:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♡ ChikoLulu ♡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:05:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605369834444 |
+| Players | 1/5 |
+| Host Name | rexcor |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 16:06:12 |
 
 
