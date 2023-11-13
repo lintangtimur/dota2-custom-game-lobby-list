@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605239360423 |
-| Players | 1/8 |
-| Host Name | ya fue algoritmos |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:07:15 |
+| Lobby ID | 28515605240227805 |
+| Players | 1/24 |
+| Host Name | DarkMoon |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 12:08:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605239984761 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | El Peluca |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:08:29 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:08:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605240227805 |
-| Players | 1/24 |
-| Host Name | DarkMoon |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 12:08:59 |
+| Lobby ID | 28515605238971429 |
+| Players | 14/15 |
+| Host Name | saturday |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:06:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605240265393 |
+| Lobby ID | 28515605240379914 |
 | Players | 1/15 |
 | Host Name | Somnus |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 12:09:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605237661256 |
-| Players | 14/15 |
-| Host Name | Хьюстон я проблем |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:03:50 |
+| Lobby Creation Time | Monday, November 13, 2023 12:09:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605235740025 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | kimtaeri |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 11:59:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605240374941 |
+| Players | 1/10 |
+| Host Name | DOTA: The Legend Of Miracle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 12:09:17 |
 
 
