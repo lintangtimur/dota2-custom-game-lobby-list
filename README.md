@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543976703557 |
-| Players | 7/8 |
-| Host Name | WHAT XUXA FUE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:15:32 |
+| Lobby ID | 28519543978679308 |
+| Players | 5/8 |
+| Host Name | Light- |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:19:18 |
 
 
 |  | ot3_gardens_duo |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543978205882 |
-| Players | 7/10 |
-| Host Name | 240 km/h |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:18:23 |
+| Lobby ID | 28519543978527940 |
+| Players | 8/10 |
+| Host Name | ведьмочка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:19:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543977206832 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:16:29 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543978107385 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 100 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:18:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543978527940 |
-| Players | 5/10 |
-| Host Name | ведьмочка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:19:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543978598899 |
-| Players | 2/8 |
-| Host Name | without MoM on pudge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:19:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543978679308 |
-| Players | 2/8 |
-| Host Name | Light- |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:19:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +63,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:00:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543978772037 |
+| Players | 2/10 |
+| Host Name | EcoHunter |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:19:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543978800120 |
+| Players | 2/10 |
+| Host Name | свиня джакузі |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:19:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543978947118 |
+| Players | 1/10 |
+| Host Name | A.H. |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:19:49 |
 
 
