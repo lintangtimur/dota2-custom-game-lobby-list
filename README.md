@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544150607572 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:56:28 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:57:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544151437179 |
-| Players | 8/10 |
-| Host Name | Dead_Dragon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:58:17 |
+| Lobby ID | 28519544152266756 |
+| Players | 1/8 |
+| Host Name | PUCP, 3er año, Ing, pepin |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:00:07 |
 
 
 |  | ot3_desert_octet |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:57:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544152265413 |
-| Players | 1/24 |
-| Host Name | 617 agi |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:00:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544152266756 |
-| Players | 1/8 |
-| Host Name | PUCP, 3er año, Ing, pepin |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:00:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544151855318 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:59:12 |
