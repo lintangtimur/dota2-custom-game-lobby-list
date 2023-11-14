@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544176373110 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | One Chance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:53:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544175668099 |
-| Players | 9/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:51:31 |
+| Lobby ID | 28519544177645699 |
+| Players | 1/15 |
+| Host Name | OoOoOoOoOoOoOoOoOoOoOoOoO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:56:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 12:56:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544177645699 |
-| Players | 1/15 |
-| Host Name | OoOoOoOoOoOoOoOoOoOoOoOoO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:56:01 |
+| Lobby ID | 28519544177793654 |
+| Players | 1/10 |
+| Host Name | Fadsol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:56:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | turnOver! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:55:09 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544177763149 |
+| Players | 1/7 |
+| Host Name | comendable men |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:56:17 |
 
 
