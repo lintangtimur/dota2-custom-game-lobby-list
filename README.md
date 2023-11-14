@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544255530978 |
-| Players | 1/24 |
-| Host Name | szunari |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:36:01 |
+| Lobby ID | 28519544255650503 |
+| Players | 1/10 |
+| Host Name | Ajr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:36:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544254445356 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Deni |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:34:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544254757233 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | CyberPank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:34:35 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544254847142 |
-| Players | 7/8 |
-| Host Name | Feelingpeace’s |
+| Lobby ID | 28519544255717545 |
+| Players | 1/8 |
+| Host Name | ебу жопой |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:34:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544255650503 |
-| Players | 1/10 |
-| Host Name | Ajr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:36:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:36:22 |
 
 
 |  | epic_boss_fight_nightmare |
