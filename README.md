@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544089201932 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Robin serio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:39:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544087269481 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:35:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544088234150 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Submissive and Gankable |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:37:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544088932266 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:39:08 |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:39:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544089347544 |
-| Players | 4/10 |
-| Host Name | Spinaca |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:40:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544081364154 |
-| Players | 3/10 |
-| Host Name | Maharaja Lawana |
+| Players | 1/10 |
+| Host Name | nurgazhai88 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:21:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544086524049 |
-| Players | 9/10 |
-| Host Name | 山上徹也 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:33:44 |
 
 
