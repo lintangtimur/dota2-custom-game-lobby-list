@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544292408907 |
 | Players | 2/15 |
-| Host Name | QUVI |
+| Host Name | Syssy Jack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:42:01 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544292337117 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | white light |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:41:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544290815995 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:39:12 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:42:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544292661958 |
-| Players | 1/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:42:28 |
+| Lobby ID | 28519544292774768 |
+| Players | 1/8 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:42:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544292681779 |
+| Lobby ID | 28519544292696838 |
+| Players | 1/10 |
+| Host Name | ไม่บัคแต่ไม่บอก |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:42:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544292762470 |
 | Players | 1/10 |
 | Host Name | БАБИДЖОН ШАУРМА |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:42:30 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:42:39 |
 
 
