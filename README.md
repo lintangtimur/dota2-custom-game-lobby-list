@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544315955086 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | TANCYU POD BYZOVY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:21:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544314001585 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:18:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544313367281 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:17:41 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | North ✪|pipka |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:20:06 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544316175534 |
+| Players | 1/7 |
+| Host Name | Grocery |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:22:04 |
 
 
