@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544365111985 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | John |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:25:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544366794885 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:27:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544367951031 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Dissmac Volt |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:28:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28519544363560576 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | GreShnik |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:23:59 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544367793496 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | EL MENCO CJNG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:28:41 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544368168842 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ДЕМЕНТИЙ!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:29:06 |
