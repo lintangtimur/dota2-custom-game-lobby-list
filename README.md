@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544044881869 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Sirius/Void |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:52:08 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544045415913 |
-| Players | 13/15 |
-| Host Name | Tamatze |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:53:29 |
+| Lobby ID | 28519544045735043 |
+| Players | 2/24 |
+| Host Name | Zerot |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:54:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544045699041 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | гойда Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:54:13 |
