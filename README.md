@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544108830948 |
-| Players | 7/10 |
-| Host Name | Rae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:23:46 |
+| Lobby ID | 28519544109323448 |
+| Players | 1/24 |
+| Host Name | D-MF |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544107028805 |
-| Players | 14/15 |
-| Host Name | -Gowther |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:19:45 |
+| Lobby ID | 28519544109072304 |
+| Players | 7/10 |
+| Host Name | Mai Sakurajima |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544108449902 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Мясорубка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:22:54 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:23:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544108701921 |
-| Players | 10/15 |
-| Host Name | Born of a Star |
+| Lobby ID | 28519544109120493 |
+| Players | 7/24 |
+| Host Name | >CroW< |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:23:28 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,28 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544108801963 |
-| Players | 8/15 |
-| Host Name | jake69 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:23:42 |
+| Lobby ID | 28519544109298788 |
+| Players | 1/15 |
+| Host Name | MR LEL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544108984179 |
-| Players | 4/24 |
+| Players | 14/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544105588801 |
-| Players | 9/10 |
-| Host Name | Tiimii ~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:16:33 |
+| Lobby ID | 28519544109186105 |
+| Players | 2/8 |
+| Host Name | Sech |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544109154722 |
+| Players | 1/8 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:29 |
 
 
