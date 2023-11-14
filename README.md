@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 12:25:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544164197096 |
+| Players | 1/24 |
+| Host Name | Loki Laufeyson |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:26:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544164232599 |
+| Players | 1/15 |
+| Host Name | ThugsBunny |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:26:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544163909311 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 󠀡󠀡G.O.D |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:25:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544164247875 |
+| Players | 1/5 |
+| Host Name | Basin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:26:06 |
 
 
