@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544040065520 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | The Spiked Spaghetti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:40:03 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:39:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544039490912 |
-| Players | 9/10 |
-| Host Name | CHILINGUS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:38:37 |
+| Lobby ID | 28519544040224679 |
+| Players | 2/8 |
+| Host Name | Pudge is the main character |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:40:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | goshiu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:40:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544040281963 |
+| Players | 1/15 |
+| Host Name | Cyclone36 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:40:36 |
 
 
 |  | epic_boss_fight_nightmare |
