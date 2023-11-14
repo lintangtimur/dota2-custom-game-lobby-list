@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544127875016 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:07:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544123877219 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | DC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:57:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544128563085 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | depressed￥₳ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:08:47 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544127755731 |
 | Players | 4/15 |
-| Host Name | kms (kill myself) |
+| Host Name | Elukka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:06:57 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544128538168 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | cua cua |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:08:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544129203295 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:10:14 |
@@ -119,12 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:10:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544129300563 |
+| Players | 1/15 |
+| Host Name | Aimer-|` |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:10:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544129302590 |
+| Players | 1/8 |
+| Host Name | IDX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:10:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544127348753 |
-| Players | 8/10 |
-| Host Name | Froyo- |
+| Lobby ID | 28519544129289031 |
+| Players | 1/10 |
+| Host Name | Heen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:06:01 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:10:26 |
 
 
