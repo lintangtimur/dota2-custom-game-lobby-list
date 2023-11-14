@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544408536641 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | UNLUCK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544408997171 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:10:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544407581182 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | кожаный механик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:09:38 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544401804570 |
-| Players | 5/10 |
-| Host Name | Kent |
+| Players | 3/10 |
+| Host Name | NightHunter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:04:09 |
 
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | отгрызи себе яйца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:11:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544393895449 |
+| Players | 6/15 |
+| Host Name | Heino |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -139,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544409251866 |
+| Lobby ID | 28519544409307405 |
 | Players | 1/5 |
-| Host Name | iT.ChiFox |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:11:11 |
+| Host Name | s1lent |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:11:14 |
 
 
