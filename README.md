@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544204145439 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ZOXA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:54:29 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:55:01 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544203847975 |
-| Players | 1/8 |
-| Host Name | ~.~ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:53:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544203164105 |
-| Players | 6/10 |
-| Host Name | Sr Timba |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:52:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544204769115 |
@@ -74,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:55:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544204266228 |
-| Players | 7/8 |
-| Host Name | ЭТИЛОВЫЙФУНФУРЬЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:54:44 |
+| Lobby ID | 28519544203164105 |
+| Players | 6/10 |
+| Host Name | Sr Timba |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:52:24 |
 
 
 |  | epic_boss_fight_nightmare |
