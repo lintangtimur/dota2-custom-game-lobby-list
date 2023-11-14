@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544387572474 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | twitch.tv/aqqashi |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:49:39 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544387605897 |
-| Players | 11/15 |
-| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:49:41 |
+| Lobby ID | 28519544388136906 |
+| Players | 2/15 |
+| Host Name | Sanguinius |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:50:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -58,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544381280227 |
-| Players | 9/10 |
-| Host Name | Ἆqὖa✔Minerale™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:43:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28519544387484515 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | JOHN WICK |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:49:34 |
