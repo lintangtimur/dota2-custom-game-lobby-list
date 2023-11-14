@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544242076223 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Kavizz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:10:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544239787404 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Torstol |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:06:13 |
@@ -41,28 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544240057946 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:06:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544241574802 |
-| Players | 8/10 |
-| Host Name | Rambod D. Luffy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:09:39 |
+| Lobby ID | 28519544242315131 |
+| Players | 1/15 |
+| Host Name | kesha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:11:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544241254831 |
-| Players | 2/10 |
-| Host Name | Moises Mode UHC |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:09:02 |
+| Lobby ID | 28519544242311515 |
+| Players | 1/24 |
+| Host Name | GREEK DESTROY TURKEY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:11:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544242346335 |
+| Players | 6/24 |
+| Host Name | Nilales |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:11:07 |
 
 
 |  | epic_boss_fight_normal |
