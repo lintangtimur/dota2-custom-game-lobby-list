@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544394883602 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:11 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544394032627 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:56:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544393895449 |
-| Players | 11/15 |
-| Host Name | Любитель Капибар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544396828068 |
-| Players | 7/8 |
-| Host Name | The Last INCA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:59:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544397056710 |
-| Players | 1/8 |
-| Host Name | Matye Bal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:59:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:59:36 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544395723981 |
+| Players | 9/15 |
+| Host Name | Yozh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:58:02 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544395392643 |
-| Players | 5/8 |
-| Host Name | Just Do It |
+| Lobby ID | 28519544397056710 |
+| Players | 2/8 |
+| Host Name | Matye Bal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:57:42 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:59:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MASELANG BAYAGHARI |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544397596836 |
-| Players | 1/10 |
-| Host Name | :D |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:59:56 |
 
 
