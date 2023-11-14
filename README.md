@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544104046633 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ♪KEMPER♪ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:13:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544103992953 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | RANGER:AZUL/godota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:13:03 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544103294417 |
-| Players | 13/15 |
-| Host Name | 暁 | <3 leler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:11:28 |
+| Lobby ID | 28519544104509990 |
+| Players | 1/15 |
+| Host Name | neox |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:14:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544097546077 |
-| Players | 23/24 |
-| Host Name | ZOXA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:58:32 |
+| Lobby ID | 28519544104487863 |
+| Players | 2/10 |
+| Host Name | _GrVnD_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:14:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,30 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:12:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544104436427 |
-| Players | 2/10 |
-| Host Name | _GrVnD_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:13:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544104440456 |
-| Players | 1/15 |
-| Host Name | neox |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:14:00 |
+| Lobby ID | 28519544104505395 |
+| Players | 1/24 |
+| Host Name | COPACETIC |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:14:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544102983030 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | bucK |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:10:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544104509724 |
+| Players | 1/5 |
+| Host Name | Be Humble |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:14:09 |
 
 
