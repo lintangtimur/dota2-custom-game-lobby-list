@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544321117698 |
-| Players | 23/24 |
-| Host Name | Экинуй Сенгаี้ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:29:26 |
+| Lobby ID | 28519544330696789 |
+| Players | 2/10 |
+| Host Name | GeneralJa'far |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:42:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544325564473 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 123 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:35:49 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544330125503 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | +W |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:42:11 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544330668563 |
-| Players | 1/7 |
-| Host Name | VladisLOVE |
+| Lobby ID | 28519544330765079 |
+| Players | 1/8 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:42:57 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544330778812 |
+| Players | 1/15 |
+| Host Name | azrett |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:43:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544330772082 |
+| Players | 1/8 |
+| Host Name | twitch.tv/aqqashi |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544330663095 |
+| Lobby ID | 28519544330764878 |
 | Players | 1/10 |
 | Host Name | OID |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:42:56 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
 
 
