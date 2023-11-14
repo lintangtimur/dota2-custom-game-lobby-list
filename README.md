@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:35:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544574276428 |
-| Players | 8/10 |
-| Host Name | Zoloft |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:21:23 |
+| Lobby ID | 28519544575098929 |
+| Players | 4/15 |
+| Host Name | ARAGAPEGO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:21:59 |
 
 
 |  | ot3_desert_octet |
@@ -60,18 +60,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544573417112 |
 | Players | 9/10 |
-| Host Name | You'll be sent to Belize |
+| Host Name | Thawne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:20:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544574580544 |
-| Players | 7/8 |
-| Host Name | Mode: PonosDota |
+| Lobby ID | 28519544574753155 |
+| Players | 1/15 |
+| Host Name | werttcx |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:21:36 |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:21:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544546832553 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | young6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:01:41 |
@@ -112,46 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544560029404 |
-| Players | 22/24 |
-| Host Name | 無定向喪心病狂 |
+| Lobby ID | 28519544575229283 |
+| Players | 1/24 |
+| Host Name | sprklngwtr Nene KATE | 蘇打水 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:11:17 |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544574753155 |
-| Players | 1/15 |
-| Host Name | werttcx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:21:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544574843336 |
-| Players | 4/8 |
-| Host Name | ShockBan_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:21:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544575098929 |
-| Players | 3/15 |
-| Host Name | ARAGAPEGO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:21:59 |
+| Lobby ID | 28519544547487442 |
+| Players | 23/24 |
+| Host Name | LOKI PRIME |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:02:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544571300153 |
+| Lobby ID | 28519544575300269 |
 | Players | 1/10 |
 | Host Name | 600 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:19:16 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544575351802 |
+| Players | 1/5 |
+| Host Name | Pod Ksanoksom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:09 |
 
 
