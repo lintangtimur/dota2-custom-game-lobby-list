@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544288244813 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | -30 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:34:38 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Positive mental attitude |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:28:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544288327205 |
-| Players | 1/8 |
-| Host Name | 💙🅼🅸🅺🆄💙 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:34:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544288402046 |
+| Lobby ID | 28519544288432668 |
+| Players | 1/10 |
+| Host Name | EcoHunter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:34:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544288501477 |
 | Players | 1/10 |
 | Host Name | Carry me pls |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:34:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:35:05 |
 
 
