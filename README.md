@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544046061967 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Ｍｒ． Ｒｏｂｏｔ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:55:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544047081739 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:42 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544047279262 |
+| Players | 1/10 |
+| Host Name | Pomeko |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:58:12 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28519544047133171 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | FER :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:49 |
