@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544275145983 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:11:20 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544267812880 |
-| Players | 1/15 |
-| Host Name | LionKingZ` |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:58:17 |
+| Lobby ID | 28519544277146870 |
+| Players | 6/15 |
+| Host Name | BYVSHIY HATER RLARLA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,28 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544276800081 |
-| Players | 2/8 |
-| Host Name | REST IN PEACE LIL PEEP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28519544277141261 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | SAHİPKIRAN |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544277146870 |
-| Players | 4/15 |
-| Host Name | BYVSHIY HATER RLARLA |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:50 |
 
 
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544275950023 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Ara Niesha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:12:45 |
