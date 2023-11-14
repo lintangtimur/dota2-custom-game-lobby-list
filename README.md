@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021366688 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544023836291 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | CALCIFER ツ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:59:40 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:59:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544024509131 |
-| Players | 2/10 |
-| Host Name | purple rain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:01:25 |
+| Lobby ID | 28519544023161198 |
+| Players | 6/8 |
+| Host Name | ▼userblod▼ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:57:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:01:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544023049959 |
-| Players | 14/15 |
-| Host Name | Yaga |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:57:40 |
+| Lobby ID | 28519544024816645 |
+| Players | 2/10 |
+| Host Name | purple rain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:02:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544023161198 |
-| Players | 7/8 |
-| Host Name | ▼userblod▼ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:57:57 |
+| Lobby ID | 28519544024843770 |
+| Players | 3/8 |
+| Host Name | ShlakoBlock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:02:16 |
 
 
 |  | epic_boss_fight_nightmare |
