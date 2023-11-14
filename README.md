@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544283809835 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | ROCK LEE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544285178164 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | СХИК2 ВЫШЕЛ!!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:29:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544285246288 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | САСЬВА |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:29:18 |
@@ -104,16 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544285265918 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | #idinaxyi MaLo9_ToP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:29:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544285844321 |
+| Players | 1/8 |
+| Host Name | ИВанПотныеЯйца |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:30:22 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544284775139 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | nurgazhai88 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:28:28 |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:27:08 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28519544285868068 |
+| Players | 1/7 |
+| Host Name | Славный Котик Иут |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:30:25 |
 
 
