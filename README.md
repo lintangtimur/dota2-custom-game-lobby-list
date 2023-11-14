@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544066545268 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | JNK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:46:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544066513562 |
-| Players | 13/15 |
-| Host Name | Weak Moustache |
+| Lobby ID | 28519544066905960 |
+| Players | 1/24 |
+| Host Name | mutterfickeramt |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:45:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:46:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:46:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544066905960 |
-| Players | 1/24 |
-| Host Name | mutterfickeramt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:46:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544066909907 |
-| Players | 1/10 |
-| Host Name | DX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:46:53 |
 
 
 |  | epic_boss_fight_nightmare |
