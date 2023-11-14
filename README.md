@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544281385510 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Срань Господня |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:22:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544282116902 |
-| Players | 1/15 |
-| Host Name | Ali Abdelaziz |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:23:44 |
+| Lobby ID | 28519544282835914 |
+| Players | 2/8 |
+| Host Name | Matye Bal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:25:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544282365738 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:24:11 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:24:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544282280278 |
-| Players | 1/15 |
-| Host Name | BrölBröl |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:24:01 |
+| Lobby ID | 28519544282933132 |
+| Players | 6/8 |
+| Host Name | HALIMAW MAINGGIT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:25:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,28 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544282706575 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:24:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544282839343 |
-| Players | 6/24 |
-| Host Name | HALIMAW MAINGGIT |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:25:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544282835914 |
-| Players | 2/8 |
-| Host Name | Matye Bal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:25:00 |
+| Lobby ID | 28519544282950580 |
+| Players | 3/8 |
+| Host Name | Я крут |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:25:13 |
 
 
 |  | epic_boss_fight_nightmare |
