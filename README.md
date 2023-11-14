@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544153911440 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:03:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544153974723 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:03:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544154849740 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:05:45 |
