@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544290615777 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:38:51 |
@@ -56,21 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:38:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544289193229 |
-| Players | 9/10 |
-| Host Name | Carry me pls |
+| Lobby ID | 28519544290815995 |
+| Players | 1/24 |
+| Host Name | Asam Garam |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:36:19 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:39:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544286403521 |
+| Players | 23/24 |
+| Host Name | mode: TI7 boon hock miracle- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:31:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544288432668 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | EcoHunter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:34:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544290888147 |
+| Players | 1/5 |
+| Host Name | nurgazhai88 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:39:19 |
 
 
