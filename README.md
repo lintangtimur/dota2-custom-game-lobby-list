@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544338582426 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | fake decaff boy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:53:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544338461985 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | gustave_flaubert |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:53:31 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544337795950 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:52:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544338948824 |
-| Players | 1/15 |
-| Host Name | ¡¡¡°|ʟᴜᴄɪꜰᴇʀツ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:54:10 |
+| Lobby ID | 28519544338996373 |
+| Players | 3/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:54:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544337287288 |
+| Players | 7/8 |
+| Host Name | <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544339111426 |
+| Players | 2/8 |
+| Host Name | antonio pripizdychi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:54:23 |
 
 
 |  | epic_boss_fight_normal |
