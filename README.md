@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544338582426 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | fake decaff boy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:53:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544338461985 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | gustave_flaubert |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:53:31 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:52:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544338832804 |
-| Players | 1/8 |
-| Host Name | [ZIG]Arthas |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:54:01 |
+| Lobby ID | 28519544338948824 |
+| Players | 1/15 |
+| Host Name | ¡¡¡°|ʟᴜᴄɪꜰᴇʀツ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:54:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YTPO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:48:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544335084125 |
-| Players | 9/10 |
-| Host Name | Jewish |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:49:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544338354596 |
-| Players | 1/5 |
-| Host Name | ™Infected |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:53:23 |
 
 
 |  | epic_boss_fight_challenger |
