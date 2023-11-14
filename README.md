@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:28:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544287870780 |
-| Players | 2/8 |
-| Host Name | ИВанПотныеЯйца |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:33:58 |
+| Lobby ID | 28519544287938236 |
+| Players | 1/15 |
+| Host Name | sinalat ko po |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:34:05 |
 
 
 |  | ot3_gardens_duo |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544287693265 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | -30 |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:33:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544287902044 |
+| Players | 1/15 |
+| Host Name | Kinvaras |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:34:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544287977264 |
+| Players | 2/8 |
+| Host Name | ИВанПотныеЯйца |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:34:09 |
 
 
 |  | epic_boss_fight_challenger |
