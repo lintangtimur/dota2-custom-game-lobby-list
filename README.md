@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544215733452 |
-| Players | 6/8 |
-| Host Name | Ghosty ❤ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
+| Lobby ID | 28519544237237078 |
+| Players | 1/8 |
+| Host Name | Sowa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544236227825 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:59:17 |
@@ -31,11 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544237237078 |
-| Players | 1/8 |
-| Host Name | Sowa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
+| Lobby ID | 28519544215733452 |
+| Players | 6/8 |
+| Host Name | Ghosty ❤ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544233370294 |
+| Players | 22/24 |
+| Host Name | WEED |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:53:44 |
 
 
 |  | epic_boss_fight_normal |
