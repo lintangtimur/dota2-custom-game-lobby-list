@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544035623614 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | WhiteFenix |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544034650695 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544037228976 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | spirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:32:58 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544036676792 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:31:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544037619357 |
-| Players | 1/10 |
-| Host Name | ...50 Cent... |
+| Lobby ID | 28519544037710846 |
+| Players | 1/15 |
+| Host Name | Elgo tito :V |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:33:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:34:08 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28519544037526807 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Ðò.óM-Ŧő.őツ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:33:41 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544037553371 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:33:45 |
