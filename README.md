@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544111292318 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:29:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544108331792 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:22:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544110324712 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | W1I |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:27:07 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544111754735 |
+| Players | 2/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:30:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544111795296 |
+| Players | 2/10 |
+| Host Name | PPPollas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:30:26 |
 
 
 |  | epic_boss_fight_nightmare |
