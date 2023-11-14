@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544116004796 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:39:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544118494824 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:45:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544120185381 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | ♿🧠 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:49:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544119830285 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | King |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:48:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544120144363 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:49:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544119543654 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | no hables toy tite |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:47:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544119771642 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Curcumalonga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:48:29 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544120481571 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Salem |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:50:08 |
