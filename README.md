@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544080569272 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:20:02 |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544080404810 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | don_pepito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:19:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544077810234 |
-| Players | 22/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:13:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544081000456 |
-| Players | 1/24 |
-| Host Name | - |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:21:04 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28519544079148081 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | FER :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:16:42 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544080532589 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Vainglory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:19:57 |
