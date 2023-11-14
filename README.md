@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544377715310 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | C2H5OH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:39:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:40:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544378667313 |
-| Players | 12/15 |
-| Host Name | KILIMANJARO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:40:26 |
+| Lobby ID | 28519544379648056 |
+| Players | 2/10 |
+| Host Name | Op |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:41:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,38 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544377071673 |
-| Players | 9/10 |
-| Host Name | BRAMBRAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:38:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28519544376340215 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | TonyMewntaNa! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:37:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544379356724 |
-| Players | 1/15 |
-| Host Name | Argor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:41:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544378024609 |
-| Players | 5/15 |
-| Host Name | ... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:39:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:44:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544379076783 |
-| Players | 1/10 |
-| Host Name | Danh hài Vân Sơn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:40:51 |
 
 
