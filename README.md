@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544100637315 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:05:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544100392476 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 1223 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:04:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544100924269 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ✞CACHERITO DE SUPERWES✞ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:06:08 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STIG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:06:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544101270494 |
-| Players | 3/5 |
-| Host Name | 7 añitozz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:06:55 |
 
 
