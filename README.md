@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544440675977 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544485504251 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | persikoviyles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:15:21 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544460025364 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | The Cooler Millhouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:55:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544486282117 |
-| Players | 1/24 |
-| Host Name | ВАРЯГ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:15:57 |
+| Lobby ID | 28519544479521676 |
+| Players | 11/15 |
+| Host Name | л)))х)д)бля)олаъхах |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:10:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:10:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544484925010 |
-| Players | 8/10 |
-| Host Name | papa jon |
+| Lobby ID | 28519544483378438 |
+| Players | 13/15 |
+| Host Name | Sai- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:14:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:13:43 |
 
 
 |  | ot3_gardens_duo |
@@ -119,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:15:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544479521676 |
-| Players | 6/15 |
-| Host Name | л)))х)д)бля)олаъхах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:10:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544481880986 |
-| Players | 23/24 |
-| Host Name | MiauW |
+| Lobby ID | 28519544486455596 |
+| Players | 1/5 |
+| Host Name | レイヴンヴィクト |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:12:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544483536201 |
-| Players | 8/10 |
-| Host Name | lmfaowhocares™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:13:50 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:16:05 |
 
 
