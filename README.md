@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:33:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544196880357 |
-| Players | 12/15 |
-| Host Name | Protelo |
+| Lobby ID | 28519544197633628 |
+| Players | 1/8 |
+| Host Name | Смурф |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:38:52 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:40:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dysfun |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544197376576 |
-| Players | 1/10 |
-| Host Name | Raze.EmperoR |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:39:56 |
 
 
