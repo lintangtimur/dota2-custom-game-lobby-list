@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544303475418 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:01:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544305150785 |
-| Players | 8/10 |
-| Host Name | коноплянка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:04:12 |
+| Lobby ID | 28519544305490547 |
+| Players | 2/15 |
+| Host Name | Nazuno |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:04:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544304287106 |
-| Players | 12/15 |
-| Host Name | 111111111111111111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:02:43 |
+| Lobby ID | 28519544305613105 |
+| Players | 1/15 |
+| Host Name | Edward |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:04:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:03:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544305446419 |
+| Players | 1/5 |
+| Host Name | Reaper |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:04:42 |
 
 
