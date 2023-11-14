@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544132371879 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | itachi uchiha |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:17:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544131691567 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:15:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544132626021 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | NICOTON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:17:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544131028175 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fujikami |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:14:16 |
