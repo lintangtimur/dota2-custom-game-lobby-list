@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544144581699 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | AHyperDuck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:43:20 |
@@ -45,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GUILLO_LASSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:41:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544145907855 |
+| Players | 1/5 |
+| Host Name | DOOM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:46:10 |
 
 
