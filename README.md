@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544144471860 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:43:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544143836175 |
-| Players | 1/10 |
-| Host Name | Su kachero de |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:41:45 |
+| Lobby ID | 28519544144775150 |
+| Players | 3/8 |
+| Host Name | PUCP, 3er año, Ing, pepin |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:43:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544143137638 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | juan hit juander™ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:40:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544144027383 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | ! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:42:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544144712089 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:43:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544144289464 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | TRESHEBANIY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:42:43 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544144775150 |
-| Players | 3/8 |
-| Host Name | PUCP, 3er año, Ing, pepin |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:43:45 |
+| Lobby ID | 28519544144957968 |
+| Players | 6/8 |
+| Host Name | El regreso del Gran Pakun |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:44:09 |
 
 
 |  | epic_boss_fight_hard |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544144807788 |
+| Lobby ID | 28519544144956353 |
 | Players | 1/5 |
 | Host Name | 🌀|W̶1̶n̶T̶e̶e̶|🥀 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:43:49 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:44:09 |
 
 
