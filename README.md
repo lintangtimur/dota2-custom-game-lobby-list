@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544099446811 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544099108007 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♿🧠 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544100392476 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 1223 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:04:56 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon Baboon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:05:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544099386161 |
+| Players | 10/15 |
+| Host Name | Imagine3MasterStuckInPubs |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:02:40 |
 
 
 |  | epic_boss_fight_nightmare |
