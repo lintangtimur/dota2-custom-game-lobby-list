@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544303792511 |
-| Players | 5/10 |
+| Lobby ID | 28519544304628054 |
+| Players | 4/10 |
 | Host Name | коноплянка |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:01:52 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:03:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:02:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544301074468 |
-| Players | 13/15 |
-| Host Name | GOZONE |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:57:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544304518592 |
-| Players | 1/8 |
-| Host Name | ni hao epta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:03:07 |
 
 
