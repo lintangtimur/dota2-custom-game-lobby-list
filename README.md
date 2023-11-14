@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544300595499 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | zaqew |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:56:22 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:59:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544302820058 |
-| Players | 1/8 |
-| Host Name | HALIMAW MAINGGIT |
+| Lobby ID | 28519544300738947 |
+| Players | 23/24 |
+| Host Name | rising.GOD |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:00:10 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:56:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544302820219 |
-| Players | 1/8 |
-| Host Name | ヤマト |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:00:10 |
+| Lobby ID | 28519544301074468 |
+| Players | 14/15 |
+| Host Name | GOZONE |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:57:11 |
 
 
 |  | epic_boss_fight_nightmare |
