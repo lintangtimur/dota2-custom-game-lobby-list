@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544213183989 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | DG.Cr3L1 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:13:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544215335296 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ASPEERAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:17:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544216039660 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:19:04 |
@@ -112,17 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544215835060 |
-| Players | 1/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:18:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28519544215939149 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Vhiyoulette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:51 |
