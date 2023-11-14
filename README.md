@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544244129095 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544244129703 |
-| Players | 2/8 |
-| Host Name | Саша Яша Лава |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:14:27 |
+| Lobby ID | 28519544244336338 |
+| Players | 3/24 |
+| Host Name | W®13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:14:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544243062370 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | мазня говном |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:12:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544243017748 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:12:22 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544244336338 |
-| Players | 2/24 |
-| Host Name | W®13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:14:51 |
+| Lobby ID | 28519544244456414 |
+| Players | 1/15 |
+| Host Name | 斯米马赛 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:15:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544243626428 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:13:30 |
