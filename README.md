@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544319320053 |
-| Players | 9/15 |
-| Host Name | worse |
+| Players | 11/15 |
+| Host Name | empty your mind |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:26:47 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544321117698 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Экинуй Сенгаี้ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:29:26 |
@@ -83,28 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:32:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544324422480 |
-| Players | 4/8 |
-| Host Name | ONLY 1 POSSSSS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:34:12 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544324424972 |
-| Players | 2/10 |
-| Host Name | twitch.tv/pahanpacana |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:34:12 |
+| Lobby ID | 28519544324462801 |
+| Players | 3/10 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:34:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544317935555 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Gluk |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:24:43 |
