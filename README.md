@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544075738859 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | XC1-II |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:08:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544075061955 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:06:59 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:10:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544076707478 |
+| Players | 6/8 |
+| Host Name | Soy tu Carry Potter |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:10:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544074757883 |
+| Players | 6/8 |
+| Host Name | 🔥🔥🔥🔥🔥🔥🔥🔥 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:06:15 |
 
 
 |  | epic_boss_fight_nightmare |
