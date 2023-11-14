@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:09:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544211150058 |
-| Players | 14/15 |
-| Host Name | Nexro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:09:04 |
+| Lobby ID | 28519544209377767 |
+| Players | 9/10 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:05:24 |
 
 
 |  | ot3_necropolis_ffa |
