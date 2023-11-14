@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544243017748 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:12:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544245264147 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:16:38 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nvmnd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:16:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544245509528 |
+| Players | 2/10 |
+| Host Name | Саша Яша Лава |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:17:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544245512896 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:17:06 |
 
 
 |  | epic_boss_fight_normal |
