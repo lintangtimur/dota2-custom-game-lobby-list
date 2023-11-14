@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544307984308 |
-| Players | 9/10 |
-| Host Name | RIZZGOD 3XL GYATTT |
+| Players | 7/10 |
+| Host Name | VoinXrista |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:08:56 |
 
@@ -47,30 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:06:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544308184637 |
-| Players | 1/15 |
-| Host Name | Человек червяк 4 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:09:16 |
+| Lobby ID | 28519544308330325 |
+| Players | 3/8 |
+| Host Name | Caan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:09:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544308198490 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ZXC 1000-7 EZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:09:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544308330325 |
-| Players | 1/8 |
-| Host Name | Caan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:09:31 |
+| Lobby ID | 28519544308644688 |
+| Players | 1/10 |
+| Host Name | Викинг |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:10:02 |
 
 
