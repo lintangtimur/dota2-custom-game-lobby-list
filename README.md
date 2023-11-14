@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544230881182 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:48:48 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544231424968 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:49:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544228514454 |
-| Players | 22/24 |
-| Host Name | W®13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:44:09 |
+| Lobby ID | 28519544231539896 |
+| Players | 4/10 |
+| Host Name | Moises Mode UHC |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:50:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:49:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544231539896 |
-| Players | 2/10 |
-| Host Name | Moises Mode UHC |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:50:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544232126178 |
-| Players | 6/8 |
-| Host Name | _Cloud_ |
+| Players | 4/8 |
+| Host Name | HALIMAW MAINGGIT |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:51:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544232421991 |
+| Players | 1/24 |
+| Host Name | Salival |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:51:51 |
 
 
 |  | epic_boss_fight_nightmare |
