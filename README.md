@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544217184547 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Deimosite |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:21:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544217023401 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:21:05 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:20:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544217587177 |
-| Players | 14/15 |
-| Host Name | лесная похуистка |
+| Lobby ID | 28519544218332639 |
+| Players | 4/10 |
+| Host Name | zero fucks given |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:22:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:23:48 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Serrito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:23:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544218332639 |
-| Players | 4/10 |
-| Host Name | zero fucks given |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:23:48 |
 
 
 |  | epic_boss_fight_nightmare |
