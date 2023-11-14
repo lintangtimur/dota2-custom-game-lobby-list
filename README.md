@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544322336310 |
-| Players | 14/15 |
-| Host Name | 通テpainテ通 hate |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:31:13 |
+| Lobby ID | 28519544322521334 |
+| Players | 4/8 |
+| Host Name | Z e r o |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:31:29 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544320970927 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SANTOSO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:29:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544322521334 |
-| Players | 4/8 |
-| Host Name | Z e r o |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:31:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -123,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544322126558 |
 | Players | 1/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
+| Host Name | Dick Iverson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:30:54 |
 
