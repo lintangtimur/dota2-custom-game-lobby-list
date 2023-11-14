@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544133978993 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Gordy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:20:52 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544134170281 |
-| Players | 3/10 |
-| Host Name | Espermita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:21:17 |
+| Lobby ID | 28519544134278396 |
+| Players | 2/10 |
+| Host Name | Junya Watanabe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:21:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:16:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544134278396 |
-| Players | 2/10 |
-| Host Name | Junya Watanabe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:21:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544134585397 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 9 - 5 job still beat u |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:22:13 |
