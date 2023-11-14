@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544373545462 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Rem || JeJunggerHunt12 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:34:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544374318343 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Sucker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:35:49 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:35:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544374685853 |
+| Players | 3/15 |
+| Host Name | ОККУПАНТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:36:12 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544331444952 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:44:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544372031896 |
-| Players | 9/10 |
-| Host Name | устал какать... |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:33:20 |
 
 
