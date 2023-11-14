@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544275145983 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:11:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271109885 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544276534526 |
+| Lobby ID | 28519544277167988 |
 | Players | 1/15 |
-| Host Name | Deni |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:13:45 |
+| Host Name | Shadow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544277141261 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SAHİPKIRAN |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:50 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544277146870 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544277167988 |
-| Players | 1/15 |
-| Host Name | Shadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:53 |
 
 
 |  | epic_boss_fight_normal |
