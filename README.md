@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544393895449 |
-| Players | 13/15 |
-| Host Name | sEMJON |
+| Lobby ID | 28519544408536641 |
+| Players | 7/15 |
+| Host Name | HoNTrash |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544426658361 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:27:00 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544431931121 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Verocia |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:31:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544408536641 |
-| Players | 3/15 |
-| Host Name | Nebuchadnezzar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544424086102 |
-| Players | 5/10 |
-| Host Name | MAMANYA |
+| Lobby ID | 28519544432796316 |
+| Players | 2/10 |
+| Host Name | RaSp1zDяЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:24:44 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:32:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544432845586 |
+| Players | 4/8 |
+| Host Name | титикаки |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:32:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Joukahainen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:25:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544432475165 |
+| Players | 1/10 |
+| Host Name | SuperBoneHack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:32:04 |
 
 
