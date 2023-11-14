@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544310482166 |
-| Players | 9/15 |
-| Host Name | Und3rC0ntr0l |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:03 |
+| Lobby ID | 28519544310724627 |
+| Players | 1/8 |
+| Host Name | 8Espada |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544310473696 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Nest |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:02 |
@@ -49,55 +49,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544310619116 |
-| Players | 1/10 |
-| Host Name | Annette |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:17 |
+| Lobby ID | 28519544310814004 |
+| Players | 7/10 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544307205220 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544310972616 |
+| Players | 1/8 |
+| Host Name | CalculuS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544311026593 |
+| Players | 2/24 |
+| Host Name | Leonidas |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:55 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544310690000 |
-| Players | 2/15 |
-| Host Name | Leonidas |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544310717266 |
-| Players | 2/10 |
-| Host Name | RIZZGOD 3XL GYATTT |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544309746769 |
-| Players | 3/10 |
-| Host Name | henryugnay820 |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:11:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544310710241 |
-| Players | 1/5 |
-| Host Name | <<<generosbili>>> |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:26 |
+| Lobby ID | 28519544311049575 |
+| Players | 1/15 |
+| Host Name | TopSy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:57 |
 
 
