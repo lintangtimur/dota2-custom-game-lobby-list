@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544220453428 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:28:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544221174983 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Matye Bal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:29:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544221311369 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Nemro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:29:48 |
@@ -113,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544220685819 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Pinus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:28:31 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544221272918 |
-| Players | 1/7 |
+| Lobby ID | 28519544221484156 |
+| Players | 1/10 |
 | Host Name | Сергей |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:29:43 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:30:09 |
 
 
