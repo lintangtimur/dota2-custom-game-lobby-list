@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544271047850 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | -1KSocialCredit |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544277146870 |
-| Players | 14/15 |
-| Host Name | BYVSHIY HATER RLARLA |
+| Lobby ID | 28519544277167988 |
+| Players | 1/15 |
+| Host Name | Shadow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:50 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544277167988 |
-| Players | 1/15 |
-| Host Name | Shadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:53 |
+| Lobby ID | 28519544277878522 |
+| Players | 1/8 |
+| Host Name | PUDGE |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:16:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SilverStyle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:57:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544277054071 |
-| Players | 1/5 |
-| Host Name | KILLER. 13 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:40 |
 
 
 |  | epic_boss_fight_nightmare |
