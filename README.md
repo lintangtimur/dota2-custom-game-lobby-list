@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544215733452 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:53:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544234323320 |
-| Players | 7/8 |
-| Host Name | Matye Bal |
+| Lobby ID | 28519544234970314 |
+| Players | 8/10 |
+| Host Name | Писятдва |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:55:36 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:56:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544233370294 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:53:44 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mindcore |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:49:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544234970314 |
-| Players | 5/10 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:56:52 |
 
 
 |  | epic_boss_fight_normal |
