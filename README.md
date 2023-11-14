@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544220131312 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | patalim |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:27:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544221323138 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | korone fan player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:29:49 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:26:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544222357473 |
-| Players | 1/15 |
-| Host Name | Brzeczyszczykiewicz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:31:55 |
 
 
 |  | ot3_necropolis_ffa |
