@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544359750933 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Holoバカ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:19:40 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:12:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544357887208 |
-| Players | 6/8 |
-| Host Name | N O R B Я Ь |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:17:31 |
+| Lobby ID | 28519544359715805 |
+| Players | 2/10 |
+| Host Name | Away_from_Evil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:19:37 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:19:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544359715805 |
-| Players | 2/10 |
-| Host Name | Away_from_Evil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:19:37 |
+| Lobby ID | 28519544360093514 |
+| Players | 4/15 |
+| Host Name | Twitch.tv/KreiK1_ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:20:03 |
 
 
 |  | epic_boss_fight_normal |
