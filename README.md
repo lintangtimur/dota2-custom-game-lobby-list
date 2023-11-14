@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544146116718 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:46:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544146612862 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Entrenadors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544146730406 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:57 |
@@ -65,22 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544146780172 |
-| Players | 1/15 |
-| Host Name | Hitler Cat (catsexual) |
+| Lobby ID | 28519544146809660 |
+| Players | 5/8 |
+| Host Name | Yinn |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:48:03 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544146780428 |
+| Lobby ID | 28519544146815560 |
 | Players | 1/10 |
 | Host Name | †Gang BlooD† |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:48:03 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544146822205 |
+| Players | 2/15 |
+| Host Name | Twitch_VitSmi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544146844822 |
+| Players | 1/8 |
+| Host Name | CURSE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544146854233 |
+| Players | 1/15 |
+| Host Name | ROTA |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:13 |
 
 
 |  | epic_boss_fight_nightmare |
