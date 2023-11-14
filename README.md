@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544366794885 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:27:35 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:26:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544357015968 |
-| Players | 13/15 |
-| Host Name | lechu 2222 gwei |
+| Lobby ID | 28519544366324771 |
+| Players | 1/8 |
+| Host Name | KoKoSiK288 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:16:31 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:27:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:27:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544366324771 |
-| Players | 1/8 |
-| Host Name | KoKoSiK288 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:27:04 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544331444952 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:23:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544364253256 |
-| Players | 9/10 |
-| Host Name | SuperBoneHack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:24:46 |
 
 
