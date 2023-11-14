@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544149657184 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | GraF044 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:54:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544149652668 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:54:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544148710574 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | farm simulator |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:52:19 |
@@ -103,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544150002694 |
+| Lobby ID | 28519544150052000 |
+| Players | 2/8 |
+| Host Name | e5e55fc31 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:55:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544150080168 |
+| Players | 4/8 |
+| Host Name | Yinn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:55:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544150091781 |
 | Players | 3/8 |
 | Host Name | F.O.C.U.S |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:55:09 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:55:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hohland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:54:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544149996504 |
-| Players | 1/10 |
-| Host Name | Run and shot=auto win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:55:08 |
 
 
