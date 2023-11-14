@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544082704920 |
-| Players | 12/15 |
-| Host Name | CMTRE |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:25:01 |
+| Lobby ID | 28519544083497747 |
+| Players | 2/15 |
+| Host Name | Lucky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:26:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544082982087 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:25:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544081911746 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Waldorf |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:23:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544083431807 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Calla kchera |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:26:42 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:26:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544083497747 |
-| Players | 1/15 |
-| Host Name | Lucky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:26:52 |
 
 
 |  | epic_boss_fight_nightmare |
