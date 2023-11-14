@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544099446811 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544097546077 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | PornstarBoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:58:32 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544100070555 |
+| Players | 1/8 |
+| Host Name | МАЛИНКИ МАЛИНКИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:04:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544099112520 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28519544099230604 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Strawberry |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:19 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544100006119 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:04:03 |
