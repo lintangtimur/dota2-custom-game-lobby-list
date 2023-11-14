@@ -2,49 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544075040094 |
-| Players | 23/24 |
-| Host Name | Franchesco virgolini |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:06:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544075589673 |
-| Players | 13/15 |
-| Host Name | aesthetic af |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:08:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544075895421 |
-| Players | 2/24 |
-| Host Name | ieagtonrns |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:08:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544075098241 |
-| Players | 8/10 |
-| Host Name | CosmOs |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:07:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544074905238 |
-| Players | 10/15 |
-| Host Name | л)))х)д)бля)олаъхах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:06:36 |
+| Lobby ID | 28519544076674563 |
+| Players | 1/15 |
+| Host Name | Me van a matar causa PIPIPI |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:10:53 |
 
 
 |  | ot3_gardens_duo |
@@ -58,8 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
+| Lobby ID | 28519544075895421 |
+| Players | 2/24 |
+| Host Name | ieagtonrns |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:08:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
 | Lobby ID | 28519544075061955 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:06:59 |
@@ -67,35 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544074397276 |
-| Players | 12/15 |
-| Host Name | some1killme |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:05:22 |
+| Lobby ID | 28519544074905238 |
+| Players | 14/15 |
+| Host Name | л)))х)д)бля)олаъхах |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:06:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544076140814 |
-| Players | 4/8 |
-| Host Name | Arthas Menethil |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:09:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544075108258 |
-| Players | 7/8 |
-| Host Name | Despicision |
+| Lobby ID | 28519544076670894 |
+| Players | 1/10 |
+| Host Name | Zugzwang |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:07:06 |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:10:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544075722521 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MonaLiar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:08:35 |
