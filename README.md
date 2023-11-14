@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:05:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544209748359 |
-| Players | 1/15 |
-| Host Name | 13579 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:06:09 |
+| Lobby ID | 28519544209818791 |
+| Players | 2/8 |
+| Host Name | TE MATO Y ME ESCAPO. |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:06:18 |
 
 
 |  | epic_boss_fight_nightmare |
