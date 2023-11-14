@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544267718275 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | AMATERASU |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:58:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271109885 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544275164439 |
-| Players | 8/10 |
-| Host Name | Optimal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:11:22 |
+| Lobby ID | 28519544276661792 |
+| Players | 3/10 |
+| Host Name | naga_Invoker |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:13:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,15 +94,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544276508562 |
-| Players | 5/8 |
-| Host Name | Sim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:13:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28519544275930096 |
 | Players | 1/8 |
 | Host Name | Саша Яша Лава |
@@ -110,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:12:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544276661792 |
-| Players | 2/10 |
-| Host Name | naga_Invoker |
+| Lobby ID | 28519544276800081 |
+| Players | 1/8 |
+| Host Name | REST IN PEACE LIL PEEP |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:13:58 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544276801155 |
+| Players | 1/15 |
+| Host Name | No RaGe No Tilt |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:13 |
 
 
 |  | epic_boss_fight_normal |
