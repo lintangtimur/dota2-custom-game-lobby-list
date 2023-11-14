@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544028176388 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:10:31 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544027028760 |
-| Players | 9/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:07:42 |
+| Lobby ID | 28519544028793703 |
+| Players | 5/10 |
+| Host Name | _GrVnD_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:12:01 |
 
 
 |  | ot3_desert_octet |
@@ -92,28 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:10:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544028793703 |
-| Players | 4/10 |
-| Host Name | _GrVnD_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:12:01 |
+| Lobby ID | 28519544028941971 |
+| Players | 1/15 |
+| Host Name | Sṃäŕẗṗḧöńệ彡 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:12:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544028873330 |
+| Lobby ID | 28519544028953614 |
 | Players | 1/24 |
 | Host Name | Manuel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:12:12 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:12:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544028140387 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 321 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:10:26 |
