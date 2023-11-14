@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544253141548 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Moises Mode UHC |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:31:35 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:32:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544253859624 |
-| Players | 1/15 |
-| Host Name | негрю |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:32:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544253374054 |
-| Players | 1/10 |
-| Host Name | Desolator. |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:32:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544253716965 |
@@ -108,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:32:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544253962215 |
+| Players | 1/10 |
+| Host Name | Markyjay |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:33:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544253976332 |
+| Players | 1/5 |
+| Host Name | Crazy-Gaming |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:33:08 |
 
 
