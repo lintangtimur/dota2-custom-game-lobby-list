@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544310482166 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Und3rC0ntr0l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:03 |
@@ -38,21 +38,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:02 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544310713099 |
+| Players | 1/24 |
+| Host Name | >ㅆ<  밀랜니엄 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544310619116 |
+| Players | 1/10 |
+| Host Name | Annette |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544307205220 |
+| Players | 3/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544309954983 |
-| Players | 1/15 |
-| Host Name | J&T Elong Maa |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:12:11 |
+| Lobby ID | 28519544310690000 |
+| Players | 2/15 |
+| Host Name | Leonidas |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544310717266 |
+| Players | 2/10 |
+| Host Name | RIZZGOD 3XL GYATTT |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544309746769 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | henryugnay820 |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:11:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544310710241 |
+| Players | 1/5 |
+| Host Name | <<<generosbili>>> |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:13:26 |
 
 
