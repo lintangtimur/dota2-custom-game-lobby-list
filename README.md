@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544308330325 |
-| Players | 7/8 |
-| Host Name | Caan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:09:31 |
+| Lobby ID | 28519544309137344 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:10:51 |
 
 
 |  | ot3_desert_octet |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:10:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544308987438 |
-| Players | 1/15 |
-| Host Name | legit |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:10:36 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544307205220 |
@@ -74,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544309137344 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:10:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544307984308 |
-| Players | 9/10 |
-| Host Name | VoinXrista |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:08:56 |
+| Lobby ID | 28519544309369190 |
+| Players | 1/15 |
+| Host Name | legit |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:11:13 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544309267530 |
+| Lobby ID | 28519544309313976 |
 | Players | 1/5 |
-| Host Name | Polat |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:11:03 |
+| Host Name | henryugnay820 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:11:08 |
 
 
