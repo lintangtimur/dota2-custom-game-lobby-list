@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544209377767 |
-| Players | 3/10 |
-| Host Name | Vlad Pitoon |
+| Players | 2/10 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:05:24 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544210018418 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Ruka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:06:43 |
