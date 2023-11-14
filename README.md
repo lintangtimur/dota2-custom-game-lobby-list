@@ -65,46 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:39:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544330125503 |
-| Players | 11/15 |
-| Host Name | +W |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:42:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544330765079 |
-| Players | 1/8 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
+| Lobby ID | 28519544330846960 |
+| Players | 4/8 |
+| Host Name | ладно |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:43:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544330778812 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | azrett |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:43:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544330772082 |
-| Players | 1/8 |
-| Host Name | twitch.tv/aqqashi |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
+| Lobby ID | 28519544330926862 |
+| Players | 1/10 |
+| Host Name | AMATERASU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:43:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544330764878 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | OID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
