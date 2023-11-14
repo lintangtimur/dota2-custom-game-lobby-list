@@ -5,46 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544191294647 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Бpaтик cниmи кpecтик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:26:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544190513267 |
-| Players | 13/15 |
-| Host Name | Sephiroth |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:25:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544190864234 |
-| Players | 5/15 |
-| Host Name | Joshe ▼♥ ♥☻giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:25:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544192737119 |
-| Players | 1/15 |
-| Host Name | Kirtaph |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:29:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544192766756 |
-| Players | 1/15 |
-| Host Name | l2nuz |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:29:59 |
 
 
 |  | ot3_desert_octet |
@@ -54,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kermit Da Frog |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:30:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544190864234 |
+| Players | 5/15 |
+| Host Name | Joshe ▼♥ ♥☻giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:25:51 |
 
 
 |  | ot3_desert_octet |
