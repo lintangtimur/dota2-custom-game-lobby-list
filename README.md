@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544059091534 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:27:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544059485355 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:28:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544059425937 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:28:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544058228344 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:25:24 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:23:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544059102398 |
-| Players | 8/10 |
-| Host Name | El Saramambiche |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:27:35 |
+| Lobby ID | 28519544059646959 |
+| Players | 2/15 |
+| Host Name | El gatito erotico |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:28:56 |
 
 
 |  | ot3_desert_octet |
@@ -101,30 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:28:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544059623365 |
-| Players | 1/15 |
-| Host Name | charefpc500 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:28:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544059646959 |
-| Players | 1/15 |
-| Host Name | El gatito erotico |
+| Lobby ID | 28519544059674109 |
+| Players | 1/10 |
+| Host Name | dontflame |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:28:56 |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:29:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544059726524 |
+| Players | 1/8 |
+| Host Name | El Souph |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:29:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544054330971 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:15:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544059733991 |
+| Players | 1/10 |
+| Host Name | Rho ;3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:29:10 |
 
 
