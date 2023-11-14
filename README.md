@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Taco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544045252550 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544045362506 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544045735043 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | Zerot |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:54:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544045699041 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | гойда Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:54:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544045334899 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | NIDOKING :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:17 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544046058940 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 我想静静 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:55:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544046153250 |
+| Players | 1/15 |
+| Host Name | @NGEL |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:55:22 |
 
 
