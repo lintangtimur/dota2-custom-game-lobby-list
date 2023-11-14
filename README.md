@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:17:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544249737946 |
+| Players | 2/24 |
+| Host Name | Blackberry Thunder |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:25:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544244974132 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дрочеслав сын еврея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:18:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544249622568 |
-| Players | 2/10 |
-| Host Name | ST10 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:24:56 |
 
 
