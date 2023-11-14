@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544049392036 |
-| Players | 2/8 |
-| Host Name | OrlyOMG |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:03:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544049816029 |
-| Players | 6/15 |
-| Host Name | spirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:04:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544049003663 |
-| Players | 6/24 |
-| Host Name | Order of Melchizedek |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:02:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544049654776 |
@@ -56,21 +29,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:04:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544049649391 |
-| Players | 5/8 |
-| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:04:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544050019652 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | TSD.Dean |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:05:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544049003663 |
+| Players | 11/24 |
+| Host Name | Order of Melchizedek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:02:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544050215509 |
+| Players | 2/10 |
+| Host Name | Laus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:05:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544050380014 |
+| Players | 1/10 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:05:55 |
 
 
