@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544253141548 |
-| Players | 9/10 |
-| Host Name | Moises Mode UHC |
+| Lobby ID | 28519544254445356 |
+| Players | 6/15 |
+| Host Name | Deni |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:31:35 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:34:00 |
 
 
 |  | ot3_gardens_duo |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544251870507 |
-| Players | 3/8 |
-| Host Name | Sunset Raven |
+| Players | 4/8 |
+| Host Name | grind2021 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:29:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544254445356 |
-| Players | 2/15 |
-| Host Name | Цветочек |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:34:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:32:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544254532742 |
+| Players | 1/10 |
+| Host Name | Jardoses |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:34:10 |
 
 
