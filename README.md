@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544176111513 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:52:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544177980426 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GraF044 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:56:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544177114900 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:54:49 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 12:57:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544178201180 |
-| Players | 1/24 |
-| Host Name | 617 agi |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:57:15 |
+| Lobby ID | 28519544178209821 |
+| Players | 1/10 |
+| Host Name | pox na game |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:57:16 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544177262246 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | turnOver! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:55:09 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544178184001 |
+| Lobby ID | 28519544178257376 |
 | Players | 1/10 |
-| Host Name | ◄*‰♥¼♦½♣¾♠*► |
+| Host Name | Lestat |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:57:13 |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:57:23 |
 
 
