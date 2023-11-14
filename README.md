@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544129154131 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:10:07 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:04:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544130339374 |
-| Players | 5/10 |
-| Host Name | PEPPA RAGE |
+| Lobby ID | 28519544128796172 |
+| Players | 14/15 |
+| Host Name | FUEHEHEHEHEHEHE |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:12:47 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:09:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544129155202 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Jugando después de 4 años |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:10:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544126452977 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | EL DIAVLO |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:03:58 |
@@ -77,46 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544129889161 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Aker- |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:11:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544130120240 |
-| Players | 1/15 |
-| Host Name | Xentaiчик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:12:17 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544130248290 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | пепсикольный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:12:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544128563085 |
-| Players | 13/15 |
-| Host Name | depressed￥₳ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:08:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544128796172 |
-| Players | 12/15 |
-| Host Name | FUEHEHEHEHEHEHE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:09:19 |
 
 
 |  | epic_boss_fight_nightmare |
