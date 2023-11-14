@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544393895449 |
-| Players | 12/15 |
-| Host Name | Sorry, I'm toxic |
+| Lobby ID | 28519544485504251 |
+| Players | 3/15 |
+| Host Name | persikoviyles |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:15:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544482636769 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | мирось 200 м от вас |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:13:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544484925010 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | papa jon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:14:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544481880986 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | MiauW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:12:34 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544485157263 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | I bought the bank |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:15:05 |
@@ -125,15 +125,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | samurai |
 | Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:15:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544485358894 |
-| Players | 4/8 |
-| Host Name | White |
-| Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:15:14 |
 
 
