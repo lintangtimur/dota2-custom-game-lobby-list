@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021366688 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ROLANDO MOTA |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544029647855 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Daantz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544029419263 |
-| Players | 8/10 |
-| Host Name | Entrenadors |
+| Lobby ID | 28519544030086804 |
+| Players | 5/15 |
+| Host Name | Murzabood |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:13:33 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:15:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544027224071 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:08:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544030026535 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | P-JACK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544029761042 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:20 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544027936338 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | OrlyOMG |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:09:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544030172902 |
+| Players | 6/10 |
+| Host Name | LeonAIdus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:15:21 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544030086804 |
-| Players | 3/15 |
-| Host Name | Itanimullio |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:15:08 |
+| Lobby ID | 28519544030205624 |
+| Players | 1/15 |
+| Host Name | Order of Melchizedek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:15:25 |
 
 
