@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544312316464 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | JoKoZtA 獨奏 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:16:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544312219873 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Bob The Patata |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:15:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544307205220 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vhiyoulette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:15:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544312485366 |
+| Players | 1/5 |
+| Host Name | <kyROsGG |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:16:16 |
 
 
