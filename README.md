@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544046061967 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Ｍｒ． Ｒｏｂｏｔ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:55:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544047348239 |
-| Players | 2/8 |
-| Host Name | asantoloþ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:58:22 |
+| Lobby ID | 28519544047597883 |
+| Players | 3/10 |
+| Host Name | ladno+terpim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:59:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544047081739 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544047066962 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Пухнастий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544047365078 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Skirpool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:58:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544047190935 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 🥀十億年 💔 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:58 |
@@ -123,9 +123,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544046184597 |
 | Players | 9/10 |
-| Host Name | sphynxy |
+| Host Name | macxvii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:55:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544047666373 |
+| Players | 2/10 |
+| Host Name | asantoloþ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:59:10 |
 
 
 |  | epic_boss_fight_challenger |
