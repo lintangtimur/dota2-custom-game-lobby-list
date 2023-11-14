@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544179137462 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | kura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:59:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544179936279 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SITH ♥THE ACHIEVEMENT HUNTER♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:01:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544179720351 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Scrowney2 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:00:44 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | comendable men |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:59:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544180299965 |
+| Players | 1/5 |
+| Host Name | Rikusa |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:02:06 |
 
 
