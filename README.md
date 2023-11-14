@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544479712588 |
-| Players | 2/8 |
-| Host Name | Be polite |
+| Players | 1/8 |
+| Host Name | todd chavez |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:10:54 |
 
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544480565809 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ..Eren Yeager.. |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:11:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544440675977 |
-| Players | 3/10 |
-| Host Name | panço |
+| Lobby ID | 28519544481094210 |
+| Players | 7/8 |
+| Host Name | b4x4zZz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:11:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544393895449 |
-| Players | 9/15 |
+| Players | 15/15 |
 | Host Name | Sorry, I'm toxic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544444918686 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | JuePaolo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:42:40 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:09:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544479998757 |
-| Players | 11/15 |
-| Host Name | www.twitch.tv/fominini |
+| Lobby ID | 28519544480873606 |
+| Players | 1/8 |
+| Host Name | Puk |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:11:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:11:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544480017998 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Канистрыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:11:08 |
@@ -135,42 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SHMITY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:11:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544467840422 |
-| Players | 6/8 |
-| Host Name | Revenge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:01:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544481094210 |
-| Players | 5/8 |
-| Host Name | b4x4zZz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:11:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544480873606 |
-| Players | 1/8 |
-| Host Name | Puk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:11:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544481270170 |
-| Players | 4/8 |
-| Host Name | knhts |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:12:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -203,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544480091449 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ramson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:11:11 |
@@ -211,10 +175,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544478786298 |
-| Players | 2/5 |
-| Host Name | Gabriel |
-| Region | PWUNICOM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:10:10 |
+| Lobby ID | 28519544481503137 |
+| Players | 3/5 |
+| Host Name | 灵犀一指 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:12:17 |
 
 
