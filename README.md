@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544111754735 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:20 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544112010972 |
-| Players | 1/15 |
-| Host Name | huy292003 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:30:55 |
+| Lobby ID | 28519544112581178 |
+| Players | 1/24 |
+| Host Name | wikiped |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:32:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544112205014 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Jaggerjack |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:21 |
