@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544267718275 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | AMATERASU |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:58:06 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544279286049 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SAHİPKIRAN |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:18:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544279306486 |
-| Players | 14/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:18:41 |
 
 
 |  | epic_boss_fight_normal |
