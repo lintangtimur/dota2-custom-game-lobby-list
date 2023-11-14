@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544235711656 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Ballin Colin |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:58:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544236227825 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:59:17 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Airo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:59:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544236638554 |
+| Players | 1/8 |
+| Host Name | Гематоген |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:00:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,17 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544234666807 |
-| Players | 7/10 |
-| Host Name | Pinus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:56:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28519544236496977 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:59:49 |
