@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544065043511 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | EulerPii |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:42:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544063578593 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Guitir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:38:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544064362116 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DOMINIC S TORENTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:40:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544064478721 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | θ godota2.com giordota.com |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:40:54 |
