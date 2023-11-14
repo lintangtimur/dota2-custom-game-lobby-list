@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544103110126 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:11:04 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:14:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544097546077 |
-| Players | 23/24 |
-| Host Name | ZOXA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:58:32 |
+| Lobby ID | 28519544104341688 |
+| Players | 9/10 |
+| Host Name | moose |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:13:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544102165197 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | DOMINIC S TORENTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:08:57 |
@@ -58,35 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544104341688 |
-| Players | 6/10 |
-| Host Name | moose |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:13:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544104897725 |
-| Players | 2/10 |
-| Host Name | _GrVnD_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:15:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544104954687 |
-| Players | 3/8 |
-| Host Name | Jeanp |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:15:08 |
+| Lobby ID | 28519544105027563 |
+| Players | 1/10 |
+| Host Name | nwolC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:15:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544104692338 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Be Humble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:14:34 |
