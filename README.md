@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:12:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544185144905 |
-| Players | 5/8 |
-| Host Name | El regreso del Gran Pakun |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:13:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544184044912 |
