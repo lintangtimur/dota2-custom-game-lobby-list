@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544573417112 |
-| Players | 9/10 |
-| Host Name | Thawne |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:20:47 |
+| Lobby ID | 28519544554123587 |
+| Players | 3/10 |
+| Host Name | wiwd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:07:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 21:20:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544546832553 |
-| Players | 13/15 |
-| Host Name | young6 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:01:41 |
+| Lobby ID | 28519544575229283 |
+| Players | 1/24 |
+| Host Name | sprklngwtr Nene KATE | 蘇打水 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,37 +112,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544575229283 |
-| Players | 1/24 |
-| Host Name | sprklngwtr Nene KATE | 蘇打水 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:22:04 |
+| Lobby ID | 28519544575562687 |
+| Players | 3/24 |
+| Host Name | danling |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544547487442 |
-| Players | 23/24 |
-| Host Name | LOKI PRIME |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:02:10 |
+| Lobby ID | 28519544575557874 |
+| Players | 1/10 |
+| Host Name | pomodomo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544575588275 |
+| Players | 1/8 |
+| Host Name | ルディオス |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544575300269 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:22:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544575351802 |
-| Players | 1/5 |
-| Host Name | Pod Ksanoksom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:22:09 |
+| Lobby ID | 28519544567326053 |
+| Players | 3/10 |
+| Host Name | SummYourMom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:16:27 |
 
 
