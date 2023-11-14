@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544047066962 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Пухнастий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544046736529 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ✪Ertuğrul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:56:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544047365078 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Skirpool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:58:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544045948889 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 7ovek |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:54:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544047190935 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | 🥀十億年 💔 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:57:58 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544047279262 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Pomeko |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:58:12 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544047954565 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:59:53 |
