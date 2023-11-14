@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
+| Lobby ID | 28519544106991528 |
+| Players | 2/8 |
+| Host Name | stampede |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:19:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
 | Lobby ID | 28519544106580346 |
-| Players | 7/8 |
-| Host Name | 100ideia |
+| Players | 2/8 |
+| Host Name | 69696969696969696969696969696969 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544106865555 |
-| Players | 1/24 |
-| Host Name | Staz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:19:23 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544103110126 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:11:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544106339170 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544106616902 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:50 |
@@ -58,17 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544106626425 |
+| Lobby ID | 28519544106895808 |
 | Players | 2/10 |
-| Host Name | Rofl Chick-Fil-A Copter |
+| Host Name | bob |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:19:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544107028805 |
+| Players | 2/15 |
+| Host Name | -Gowther |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:19:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544107119998 |
+| Players | 1/15 |
+| Host Name | Shroomba |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:18:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:19:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544105588801 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:16:33 |
