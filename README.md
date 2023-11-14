@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544358050454 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | [PickBan] PO FSB RF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:17:42 |
@@ -47,46 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:17:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544353950427 |
-| Players | 19/24 |
-| Host Name | Oversea Sexy Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:12:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544357091455 |
-| Players | 7/10 |
-| Host Name | NicoNicoNiii |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:16:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544357015968 |
-| Players | 10/15 |
-| Host Name | EtisAtisAnimatisEtisAtisAmatis |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:16:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544357088208 |
-| Players | 3/8 |
-| Host Name | Menace2Society |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:16:36 |
+| Lobby ID | 28519544358748508 |
+| Players | 7/15 |
+| Host Name | мегатрон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:18:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544358629790 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Gats |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:18:22 |
