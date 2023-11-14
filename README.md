@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544160997946 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:18:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544162789414 |
-| Players | 5/8 |
-| Host Name | yep |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:22:54 |
+| Lobby ID | 28519544163609331 |
+| Players | 3/10 |
+| Host Name | latengocabezon ♪ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544161534915 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:20:09 |
@@ -45,5 +45,50 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maliketh La Hoja Negra |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:24:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544163557056 |
+| Players | 2/10 |
+| Host Name | San600Sn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544163572139 |
+| Players | 4/10 |
+| Host Name | Dead_Dragon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544159473727 |
+| Players | 23/24 |
+| Host Name | Phill Dz |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:15:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544163641371 |
+| Players | 1/10 |
+| Host Name | MataCholas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544163736618 |
+| Players | 3/15 |
+| Host Name | 暁 | <3 leler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:59 |
 
 
