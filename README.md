@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544056626973 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Filipo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:21:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544057036226 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Sasaum |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:22:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544057203221 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:22:51 |
+| Lobby ID | 28519544057375917 |
+| Players | 5/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:23:17 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544056577465 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Bippo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:21:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544056010239 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 299 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:19:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544057219403 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Weak Moustache |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:22:53 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:18:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544057375917 |
-| Players | 4/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:23:17 |
+| Lobby ID | 28519544057630044 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:23:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544054330971 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:15:42 |
