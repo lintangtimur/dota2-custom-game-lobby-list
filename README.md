@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544247874135 |
-| Players | 4/10 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:21:36 |
+| Lobby ID | 28519544245512896 |
+| Players | 9/10 |
+| Host Name | trash teammate |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:17:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -41,43 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544247965990 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:21:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544247487607 |
-| Players | 13/15 |
-| Host Name | D: |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:20:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544247987967 |
-| Players | 3/15 |
-| Host Name | Luqky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:21:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544248248256 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SodaZ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:22:18 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544247987967 |
+| Players | 7/15 |
+| Host Name | Luqky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:21:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544246038807 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Дрочеслав сын еврея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:18:07 |
