@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544446778468 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | OverNight |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:44:13 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544424086102 |
-| Players | 6/10 |
-| Host Name | shAVA MAX |
+| Lobby ID | 28519544434027110 |
+| Players | 6/8 |
+| Host Name | TIDEHUNTER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:24:44 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:33:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544434028354 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | qqq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:33:24 |
@@ -101,19 +101,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:44:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544446889918 |
+| Players | 1/8 |
+| Host Name | Matye Bal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:44:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544447018231 |
+| Players | 2/10 |
+| Host Name | sxxr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:44:24 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544446820309 |
+| Lobby ID | 28519544447033394 |
 | Players | 1/24 |
-| Host Name | Fearzs |
+| Host Name | * |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:44:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:44:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544447037184 |
+| Players | 1/24 |
+| Host Name | MIXUE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:44:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544441952598 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Scary Carry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:40:10 |
