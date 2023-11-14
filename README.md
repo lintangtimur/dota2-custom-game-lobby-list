@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544127875016 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:07:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544126741652 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Mikan Tsumiki |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:04:38 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544128796172 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | no hables toy tite |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:09:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544129203295 |
-| Players | 5/8 |
-| Host Name | Diamonds & Dancefloor |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:10:14 |
+| Lobby ID | 28519544126452977 |
+| Players | 11/24 |
+| Host Name | EL DIAVLO |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:03:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544128538168 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | cua cua |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:08:43 |
@@ -101,30 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:10:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544129631557 |
+| Players | 4/8 |
+| Host Name | If I lose I'll spit on you |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:11:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544126452977 |
-| Players | 15/24 |
-| Host Name | EL DIAVLO |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:03:58 |
+| Lobby ID | 28519544129627966 |
+| Players | 1/24 |
+| Host Name | turf |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:11:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544129289031 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:10:26 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28519544129554134 |
-| Players | 2/7 |
-| Host Name | 月战老兵 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:11:02 |
 
 
