@@ -58,38 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544343973379 |
-| Players | 13/15 |
-| Host Name | fated |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:00:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544346347027 |
-| Players | 1/8 |
-| Host Name | zxcursed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:03:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28519544346680206 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:04:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544346347027 |
+| Players | 4/8 |
+| Host Name | zxcursed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:03:40 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544347502573 |
-| Players | 1/24 |
+| Lobby ID | 28519544347582877 |
+| Players | 2/24 |
 | Host Name | Jing |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:05:07 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:05:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544347605385 |
+| Players | 2/10 |
+| Host Name | Sucker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:05:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544344561011 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | XL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:01:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544347515634 |
+| Players | 1/10 |
+| Host Name | Люблю лизать пизду |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:05:08 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544347644489 |
+| Players | 1/7 |
+| Host Name | feeder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:05:17 |
 
 
