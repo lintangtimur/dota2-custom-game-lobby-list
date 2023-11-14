@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544460025364 |
-| Players | 8/24 |
-| Host Name | SCUERO EL TERROR DE ILABAYA |
+| Players | 5/24 |
+| Host Name | ▬SÐrawnl ðððBae-- |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:55:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544455919830 |
-| Players | 1/15 |
-| Host Name | PIECE DUCK |
+| Lobby ID | 28519544468258649 |
+| Players | 8/10 |
+| Host Name | дома никого |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:51:49 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:01:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544469047241 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:02:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544469992930 |
+| Players | 1/8 |
+| Host Name | саня соло |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:03:15 |
 
 
 |  | epic_boss_fight_normal |
