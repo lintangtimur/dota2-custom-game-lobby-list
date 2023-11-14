@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544114151199 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | 小心踏得两艘船 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:35:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544112213086 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | No Pertenezco AKI☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544112776358 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Cever |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544112701190 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:27 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544114453865 |
-| Players | 9/15 |
-| Host Name | 20 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:36:22 |
+| Lobby ID | 28519544114742028 |
+| Players | 2/15 |
+| Host Name | Wookie Nipple Pinchy |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:37:01 |
 
 
 |  | epic_boss_fight_nightmare |
