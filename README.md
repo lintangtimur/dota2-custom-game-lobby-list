@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:13:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544215015162 |
-| Players | 6/8 |
-| Host Name | ★ ραяα∂σχ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:16:57 |
+| Lobby ID | 28519544214652563 |
+| Players | 1/15 |
+| Host Name | AristocraT | 生于血液 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:16:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:13:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544214652563 |
-| Players | 1/15 |
-| Host Name | AristocraT | 生于血液 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:16:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544214962604 |
+| Lobby ID | 28519544215153147 |
 | Players | 1/8 |
 | Host Name | ASPEERAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:16:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:17:14 |
 
 
 |  | epic_boss_fight_nightmare |
