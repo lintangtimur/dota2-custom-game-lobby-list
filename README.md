@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544155118183 |
-| Players | 11/15 |
-| Host Name | CAZA CHOTANOS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:06:19 |
+| Lobby ID | 28519544155810601 |
+| Players | 1/8 |
+| Host Name | KVASLOVER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:07:49 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544154707405 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | #### |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:05:27 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ROTA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:07:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544155810601 |
-| Players | 1/8 |
-| Host Name | KVASLOVER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:07:49 |
 
 
