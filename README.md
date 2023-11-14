@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:20:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544431474703 |
-| Players | 1/15 |
-| Host Name | Edward |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:31:12 |
+| Lobby ID | 28519544430572031 |
+| Players | 2/10 |
+| Host Name | NOM NOM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:30:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:31:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544408536641 |
-| Players | 11/15 |
-| Host Name | HoNTrash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
+| Lobby ID | 28519544433223798 |
+| Players | 1/10 |
+| Host Name | ggbly 3414 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:32:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544426658361 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:27:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544432957917 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Hatred |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:32:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544431931121 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Verocia |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:31:36 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RaSp1zDяЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:32:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544433121738 |
+| Players | 4/8 |
+| Host Name | Lotar |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:32:37 |
 
 
 |  | epic_boss_fight_normal |
