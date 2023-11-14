@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544247965990 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:21:47 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544247965585 |
-| Players | 1/15 |
-| Host Name | SodaZ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:21:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28519544247987967 |
 | Players | 3/15 |
 | Host Name | Luqky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:21:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544248248256 |
+| Players | 1/10 |
+| Host Name | SodaZ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:22:18 |
 
 
 |  | epic_boss_fight_nightmare |
