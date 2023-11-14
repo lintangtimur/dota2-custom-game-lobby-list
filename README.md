@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:46:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544294207120 |
-| Players | 22/24 |
-| Host Name | W®13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:45:12 |
+| Lobby ID | 28519544295550571 |
+| Players | 5/8 |
+| Host Name | MakRus |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:47:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544295632089 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Эрнесто Мавроди |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:47:42 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bubbles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:48:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544295550571 |
-| Players | 5/8 |
-| Host Name | MakRus |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:47:33 |
 
 
 |  | epic_boss_fight_nightmare |
