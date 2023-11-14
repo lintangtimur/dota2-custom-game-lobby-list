@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544314128538 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:18:53 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:27:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544320130570 |
-| Players | 7/15 |
-| Host Name | mov1e |
+| Lobby ID | 28519544320423904 |
+| Players | 7/8 |
+| Host Name | Камиль (АВТОБОТ) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:27:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:28:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544313367281 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:17:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544320023269 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:27:49 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:27:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544320640248 |
+| Players | 3/15 |
+| Host Name | ладно |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:28:44 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544314291455 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | yikes` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:19:08 |
@@ -96,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544317935555 |
 | Players | 3/10 |
-| Host Name | YTPO |
+| Host Name | Gluk |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:24:43 |
 
