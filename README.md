@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544141843114 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | >KhoRup..-will< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:37:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544142852159 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | itachi uchiha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:39:37 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:42:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28519544141658897 |
-| Players | 9/10 |
-| Host Name | ang qt qt ko |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:37:06 |
+| Lobby ID | 28519544143788269 |
+| Players | 2/7 |
+| Host Name | DeaDka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:41:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GUILLO_LASSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:41:32 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28519544143788269 |
-| Players | 2/7 |
-| Host Name | DeaDka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:41:39 |
 
 
