@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544459408948 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:54:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544408997171 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | จักรพรรดิ์ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:10:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544460128352 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:55:16 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544461058296 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Отца сало |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:56:01 |
@@ -131,10 +131,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544458488310 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | metHAMphetamine |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:53:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544461371664 |
+| Players | 1/15 |
+| Host Name | Anarmayo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:56:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544461476834 |
+| Players | 2/8 |
+| Host Name | 8 Pounds |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:56:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544424086102 |
+| Players | 2/10 |
+| Host Name | 777 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:24:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544461533977 |
+| Players | 1/15 |
+| Host Name | Водилда по губам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:56:24 |
 
 
 |  | epic_boss_fight_nightmare |
