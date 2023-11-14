@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:48:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544201723992 |
-| Players | 8/10 |
-| Host Name | Ajr |
+| Lobby ID | 28519544202992257 |
+| Players | 3/8 |
+| Host Name | Ven4R_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:49:19 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:52:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544202936571 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ttv/LaPanaderiadeMorgana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:51:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544202992257 |
-| Players | 1/8 |
-| Host Name | Ven4R_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:52:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:51:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544202968772 |
-| Players | 1/5 |
-| Host Name | Rudeus Greyrat |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:51:59 |
 
 
