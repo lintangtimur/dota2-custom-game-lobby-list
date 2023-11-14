@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544433676324 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Прекрасная тварь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:33:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544407306077 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Swap Commander |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:09:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544426658361 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:27:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:31:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544416119132 |
-| Players | 22/24 |
-| Host Name | < blank > |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:17:32 |
+| Lobby ID | 28519544434875054 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:34:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544434028354 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Сын_Маминой_Подру |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:33:24 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mode: skuf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:34:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544427559589 |
+| Players | 5/15 |
+| Host Name | g |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:27:47 |
 
 
 |  | epic_boss_fight_normal |
