@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544067559454 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Maus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:48:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544068042847 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:49:42 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544067997744 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 梅科尔·金塔纳 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:49:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544067650568 |
-| Players | 14/15 |
-| Host Name | Walter-sama |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:48:43 |
 
 
 |  | epic_boss_fight_nightmare |
