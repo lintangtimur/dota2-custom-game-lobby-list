@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544269599467 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | HALIMAW MAINGGIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:01:29 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544269710489 |
-| Players | 1/15 |
-| Host Name | Greta Thunberg |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:01:41 |
+| Lobby ID | 28519544269997012 |
+| Players | 3/15 |
+| Host Name | 33 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:02:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,20 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544269953254 |
-| Players | 1/15 |
-| Host Name | Хуханка Блеба |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:02:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28519544269937544 |
 | Players | 2/15 |
 | Host Name | ) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:02:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544270024911 |
+| Players | 1/10 |
+| Host Name | ДИО БАРАНДО |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:02:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544269079014 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ็ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:00:33 |
