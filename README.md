@@ -29,33 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544306717107 |
-| Players | 13/15 |
-| Host Name | Летчик Зигзаг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:06:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544307035694 |
-| Players | 6/8 |
-| Host Name | Op |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:07:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544306653142 |
-| Players | 11/24 |
-| Host Name | SANTOSO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:06:43 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544307984308 |
@@ -65,12 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:08:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544306050273 |
-| Players | 9/10 |
-| Host Name | Paradiddle |
+| Lobby ID | 28519544306653142 |
+| Players | 13/24 |
+| Host Name | SANTOSO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:05:42 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:06:43 |
 
 
