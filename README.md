@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544188285510 |
-| Players | 7/8 |
-| Host Name | Смурф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:20:08 |
+| Lobby ID | 28519544189644597 |
+| Players | 2/15 |
+| Host Name | Wonk |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:23:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544184692153 |
-| Players | 21/24 |
+| Players | 17/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:12:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544189556061 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:22:59 |
@@ -45,33 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FUCK IT ALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:19:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544189644597 |
-| Players | 1/15 |
-| Host Name | Wonk |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:23:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544189658145 |
-| Players | 1/10 |
-| Host Name | Mark26 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:23:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544187910827 |
-| Players | 7/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:19:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:21:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544189734110 |
-| Players | 1/5 |
-| Host Name | EllMao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:23:23 |
 
 
