@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544034674933 |
-| Players | 9/15 |
-| Host Name | Zen'in |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:31 |
+| Lobby ID | 28519544035222533 |
+| Players | 2/10 |
+| Host Name | Apagón Revolucionario |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:54 |
 
 
 |  | ot3_desert_octet |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034213685 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:25:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544033208454 |
-| Players | 23/24 |
-| Host Name | ElGO TITO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:22:52 |
+| Lobby ID | 28519544035203021 |
+| Players | 1/10 |
+| Host Name | Frayalalal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034219282 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:25:24 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M4xwell |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544035222533 |
-| Players | 1/10 |
-| Host Name | Apagón Revolucionario |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544035203021 |
-| Players | 1/10 |
-| Host Name | Frayalalal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:51 |
 
 
 |  | epic_boss_fight_nightmare |
