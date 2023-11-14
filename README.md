@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544289597116 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544292408907 |
-| Players | 13/15 |
-| Host Name | Северный Человек |
+| Lobby ID | 28519544294023527 |
+| Players | 1/8 |
+| Host Name | Caan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:42:01 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:44:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,14 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | John |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:42:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544293602532 |
-| Players | 2/10 |
-| Host Name | 󠀡󠀡G.O.D |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:44:08 |
 
 
