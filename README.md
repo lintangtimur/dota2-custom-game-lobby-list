@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544164197096 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Loki Laufeyson |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:26:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 12:34:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544167164888 |
-| Players | 21/24 |
-| Host Name | 5 |
+| Lobby ID | 28519544168708095 |
+| Players | 7/15 |
+| Host Name | Vendo Semen Premium :P |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:32:32 |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:35:55 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544168675584 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | agorazein |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:35:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544168708095 |
-| Players | 6/15 |
-| Host Name | Vendo Semen Premium :P |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:35:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:28:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544167098512 |
-| Players | 9/10 |
-| Host Name | Rakukoo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:32:23 |
 
 
