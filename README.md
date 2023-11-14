@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544207292464 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:01:05 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:04:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544208307844 |
-| Players | 2/8 |
-| Host Name | мужики отдыхают |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:03:12 |
+| Lobby ID | 28519544208763392 |
+| Players | 1/10 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:04:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544208385014 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Aerosniker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:03:21 |
