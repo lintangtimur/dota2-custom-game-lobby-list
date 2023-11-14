@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544457418302 |
-| Players | 1/8 |
-| Host Name | МАМА АКРАМНДЖОНА |
+| Lobby ID | 28519544462506158 |
+| Players | 2/8 |
+| Host Name | カフェイン |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:53:03 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:57:12 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544463580607 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Finesse |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:58:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544462853874 |
-| Players | 1/8 |
-| Host Name | radbix |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:57:29 |
+| Lobby ID | 28519544462355964 |
+| Players | 2/15 |
+| Host Name | BASHNASH |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:57:04 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544460128352 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:55:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544460572721 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | чокопай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:55:37 |
@@ -128,31 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:56:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544462506158 |
-| Players | 1/8 |
-| Host Name | カフェイン |
+| Lobby ID | 28519544440675977 |
+| Players | 3/10 |
+| Host Name | panço |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:57:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544462355964 |
-| Players | 2/15 |
-| Host Name | BASHNASH |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:57:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544463577957 |
-| Players | 1/15 |
-| Host Name | ralphhhhhh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:58:05 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
 
 
 |  | epic_boss_fight_nightmare |
