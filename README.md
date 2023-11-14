@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544273928702 |
-| Players | 13/15 |
-| Host Name | Borchic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:09:09 |
+| Lobby ID | 28519544273783979 |
+| Players | 1/24 |
+| Host Name | 牛排三分熟 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:08:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:58:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544271095213 |
-| Players | 7/8 |
-| Host Name | ЖёпПа С РуЧкоЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:04:10 |
+| Lobby ID | 28519544273750261 |
+| Players | 15/24 |
+| Host Name | SANTOSO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:08:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544273750261 |
-| Players | 11/24 |
-| Host Name | SANTOSO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:08:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544273783979 |
-| Players | 1/24 |
-| Host Name | 牛排三分熟 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:08:54 |
 
 
 |  | epic_boss_fight_normal |
