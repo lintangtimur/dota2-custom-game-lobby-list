@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544032014496 |
-| Players | 5/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:19:54 |
+| Lobby ID | 28519544032381674 |
+| Players | 11/15 |
+| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:20:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544032376577 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | FIORY te amo (♡) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:20:49 |
@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544031680880 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:19:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544032228899 |
-| Players | 1/8 |
-| Host Name | 可口 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:20:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544032381674 |
-| Players | 9/15 |
-| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
+| Lobby ID | 28519544032500767 |
+| Players | 3/10 |
+| Host Name | twitch.tv/opt1wus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:20:49 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:21:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544032449076 |
-| Players | 1/24 |
-| Host Name | RyokoOwO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:20:59 |
+| Lobby ID | 28519544031217931 |
+| Players | 9/10 |
+| Host Name | Adriano Imperador |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:17:56 |
 
 
 |  | epic_boss_fight_nightmare |
