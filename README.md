@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544192817927 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Kermit Da Frog |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:30:06 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:32:17 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544194007085 |
-| Players | 1/24 |
-| Host Name | julie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:32:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544194175845 |
-| Players | 1/24 |
-| Host Name | Violet Evergarden |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:33:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544194187359 |
@@ -90,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PIPHELS |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:33:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544194175845 |
+| Players | 3/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:33:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544194336761 |
+| Players | 1/8 |
+| Host Name | Chad Chadinson |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:33:23 |
 
 
 |  | epic_boss_fight_nightmare |
