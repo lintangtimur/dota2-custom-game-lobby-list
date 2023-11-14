@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544334485701 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:48:12 |
@@ -49,29 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544335734411 |
-| Players | 1/8 |
-| Host Name | Illusion |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:49:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544336440215 |
-| Players | 10/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
+| Lobby ID | 28519544336798517 |
+| Players | 3/8 |
+| Host Name | qaz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:50:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544336575450 |
-| Players | 8/10 |
-| Host Name | Holoバカ |
+| Lobby ID | 28519544336776823 |
+| Players | 7/10 |
+| Host Name | няшка) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544336816141 |
+| Players | 7/15 |
+| Host Name | CyberPank |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:51:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:21 |
 
 
 |  | ot3_gardens_duo |
