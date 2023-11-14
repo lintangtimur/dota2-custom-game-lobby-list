@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544059397621 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Order of Melchizedek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:28:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544060507012 |
-| Players | 1/8 |
-| Host Name | lobat00 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:31:05 |
+| Lobby ID | 28519544058545172 |
+| Players | 21/24 |
+| Host Name | You're too close man! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:26:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544060988433 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | TSD.Dean |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:32:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544061021067 |
+| Players | 6/8 |
+| Host Name | 100ideia |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:32:22 |
 
 
 |  | epic_boss_fight_nightmare |
