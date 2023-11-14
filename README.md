@@ -11,58 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:20:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544386144770 |
-| Players | 7/10 |
-| Host Name | marmelad_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:48:10 |
+| Lobby ID | 28519544387572474 |
+| Players | 2/8 |
+| Host Name | twitch.tv/aqqashi |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | X-ART |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544387099602 |
-| Players | 2/10 |
-| Host Name | [PickBan] 1_Papa_Karlo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:49:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544384194035 |
-| Players | 17/24 |
-| Host Name | makasih |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:46:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544387330230 |
-| Players | 1/15 |
-| Host Name | Dlate |
+| Lobby ID | 28519544387605897 |
+| Players | 5/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:49:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544387313140 |
-| Players | 1/15 |
-| Host Name |  |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:49:23 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544386139672 |
-| Players | 9/10 |
-| Host Name | fakeplastictree |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:48:10 |
+| Lobby ID | 28519544381280227 |
+| Players | 8/10 |
+| Host Name | Ἆqὖa✔Minerale™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:43:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544381280227 |
-| Players | 7/10 |
-| Host Name | Ἆqὖa✔Minerale™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:43:09 |
+| Lobby ID | 28519544387484515 |
+| Players | 1/10 |
+| Host Name | JOHN WICK |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:34 |
 
 
