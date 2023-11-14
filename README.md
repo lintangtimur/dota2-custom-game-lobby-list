@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:14:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544185413773 |
-| Players | 6/8 |
-| Host Name | shōgun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:13:46 |
+| Lobby ID | 28519544186992689 |
+| Players | 1/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:17:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544184692153 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:12:12 |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:17:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544186992689 |
-| Players | 1/10 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:17:15 |
 
 
 |  | epic_boss_fight_nightmare |
