@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544310724627 |
-| Players | 1/8 |
-| Host Name | 8Espada |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:27 |
+| Lobby ID | 28519544311138598 |
+| Players | 3/15 |
+| Host Name | TopSy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:14:06 |
 
 
 |  | ot3_desert_octet |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544310473696 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Nest |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544310713099 |
-| Players | 1/24 |
-| Host Name | >ㅆ<  밀랜니엄 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:26 |
+| Lobby ID | 28519544311136409 |
+| Players | 2/8 |
+| Host Name | ДОЕДАЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:14:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544310814004 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:35 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544310972616 |
-| Players | 1/8 |
-| Host Name | CalculuS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:50 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544311026593 |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544311049575 |
-| Players | 1/15 |
-| Host Name | TopSy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:57 |
+| Lobby ID | 28519544311188847 |
+| Players | 1/5 |
+| Host Name | `END |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:14:11 |
 
 
