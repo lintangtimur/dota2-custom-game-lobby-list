@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544109323448 |
-| Players | 1/24 |
-| Host Name | D-MF |
+| Lobby ID | 28519544109711630 |
+| Players | 2/8 |
+| Host Name | Gonza |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:24:52 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:25:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544108984179 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544108331792 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:22:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544109120493 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:25 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544109298788 |
-| Players | 3/15 |
-| Host Name | 299 |
+| Players | 2/15 |
+| Host Name | MR LEL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544109711630 |
-| Players | 1/8 |
-| Host Name | Gonza |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:25:44 |
 
 
