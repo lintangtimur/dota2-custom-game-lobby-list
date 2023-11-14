@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544100886956 |
 | Players | 8/15 |
-| Host Name | pick normal pos4 hero morons) |
+| Host Name | Dota 2 Groomologist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:06:03 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544097546077 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ZOXA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:58:32 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544100924269 |
-| Players | 14/15 |
-| Host Name | ✞CACHERITO DE SUPERWES✞ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:06:08 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544100434910 |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon Baboon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:05:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544101101163 |
-| Players | 1/5 |
-| Host Name | STIG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:06:32 |
 
 
