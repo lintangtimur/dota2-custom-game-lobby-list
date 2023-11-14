@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544107714641 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:21:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544103110126 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:11:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544107860320 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Мефовый король |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:21:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544107485021 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Touhou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:20:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544107028805 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | -Gowther |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:19:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544107119998 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:19:57 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544107988843 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 617 agi |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:21:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544108090529 |
+| Players | 3/8 |
+| Host Name | Manguito |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:22:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544108119422 |
+| Players | 1/15 |
+| Host Name | Fat Command |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:22:10 |
 
 
 |  | epic_boss_fight_nightmare |
