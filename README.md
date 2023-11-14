@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544170710470 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:40:22 |
@@ -59,19 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544171317053 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:41:43 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544171940128 |
+| Players | 1/24 |
+| Host Name | ARi |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:43:06 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544171867926 |
+| Lobby ID | 28519544171956715 |
+| Players | 1/15 |
+| Host Name | Izumi |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:43:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544171962268 |
 | Players | 1/15 |
 | Host Name | Hari Seldon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:42:56 |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:43:09 |
 
 
 |  | epic_boss_fight_nightmare |
