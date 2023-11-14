@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544228391749 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ac7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:43:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544228514454 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:44:09 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:45:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544229434636 |
-| Players | 1/15 |
-| Host Name | Dota 2 Groomologist |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:45:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544229485931 |
@@ -81,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | potito con diarrea |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:46:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544229554686 |
+| Players | 1/10 |
+| Host Name | Saudda |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:46:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544229578988 |
+| Players | 6/24 |
+| Host Name | HALIMAW MAINGGIT |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:46:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deso |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:44:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544229490285 |
-| Players | 1/5 |
-| Host Name | 猛龙不过江 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:46:04 |
 
 
