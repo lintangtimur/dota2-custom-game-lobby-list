@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544215335296 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ASPEERAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:17:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544216675474 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Hastex |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:20:22 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544217069496 |
-| Players | 3/15 |
-| Host Name | Corey |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:21:11 |
+| Lobby ID | 28519544214652563 |
+| Players | 14/15 |
+| Host Name | AristocraT | 生于血液 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:16:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544217150118 |
+| Players | 1/24 |
+| Host Name | Bey |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:21:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dancing with death |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544217158630 |
+| Players | 1/10 |
+| Host Name | alauvient |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:21:22 |
 
 
