@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544452333811 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:48:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544449523833 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ♏ リアス・グレモリー |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:46:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544446085129 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:43:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544450836425 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | пенис banditcamp.com |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:47:36 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:44:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544451809722 |
-| Players | 1/24 |
-| Host Name | MoK |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:48:25 |
+| Lobby ID | 28519544452723360 |
+| Players | 3/15 |
+| Host Name | Globglogabgalab |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:49:10 |
 
 
 |  | ot3_gardens_duo |
@@ -173,10 +173,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:33:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544452715105 |
+| Players | 1/8 |
+| Host Name | Matye Bal |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:49:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544451300796 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:47:59 |
