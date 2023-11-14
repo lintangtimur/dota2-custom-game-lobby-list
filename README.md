@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544063189359 |
-| Players | 8/24 |
+| Players | 4/24 |
 | Host Name | mutterfickeramt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:37:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544064470098 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | VAC auditor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:40:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544064424879 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | --.-- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:40:46 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544064478721 |
-| Players | 4/15 |
-| Host Name | Grimaldus |
+| Players | 3/15 |
+| Host Name | θ godota2.com giordota.com |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:40:54 |
 
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544064577780 |
-| Players | 7/24 |
+| Players | 15/24 |
 | Host Name | 카푸치노군 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:41:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544065007905 |
+| Players | 2/10 |
+| Host Name | FBI368 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:42:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544065043511 |
+| Players | 4/10 |
+| Host Name | EulerPii |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:42:17 |
 
 
 |  | epic_boss_fight_nightmare |
