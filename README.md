@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544141843114 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | >KhoRup..-will< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:37:29 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544142852159 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | itachi uchiha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544140316725 |
-| Players | 14/15 |
-| Host Name | 暁 | <3 leler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:34:18 |
+| Lobby ID | 28519544143137638 |
+| Players | 1/24 |
+| Host Name | juan hit juander™ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:40:14 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544142235813 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Хьюстон я проблем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:38:19 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:37:06 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28519544143058479 |
-| Players | 3/7 |
-| Host Name | Bipolarbear |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:40:04 |
 
 
