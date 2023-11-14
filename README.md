@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544261774477 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Pod DOPINGOM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:47:25 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544261418304 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:46:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544261707986 |
-| Players | 7/8 |
-| Host Name | penrijuleпопукал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:47:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -58,10 +49,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544262672632 |
+| Lobby ID | 28519544262727777 |
 | Players | 1/10 |
-| Host Name | Дрочеслав сын еврея |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:49:02 |
+| Host Name | nurgazhai88 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:49:08 |
 
 
