@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:40:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544375071714 |
-| Players | 21/24 |
-| Host Name | Over Time Kill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:36:37 |
+| Lobby ID | 28519544378667313 |
+| Players | 10/15 |
+| Host Name | KILIMANJARO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544377071673 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:38:45 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:37:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544378667313 |
-| Players | 5/15 |
-| Host Name | KILIMANJARO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:40:26 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544331444952 |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:44:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544378927553 |
-| Players | 2/5 |
-| Host Name | Kasuga Haruna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:40:42 |
 
 
 |  | epic_boss_fight_nightmare |
