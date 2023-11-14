@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544283809835 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ROCK LEE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271109885 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544284417258 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Menace2Society |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:27:49 |
@@ -76,17 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544283604003 |
-| Players | 9/10 |
-| Host Name | Увековечено в пив |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:26:23 |
+| Lobby ID | 28519544284761089 |
+| Players | 6/10 |
+| Host Name | uselessuselessuselessuseless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:28:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544285016704 |
+| Players | 1/8 |
+| Host Name | СХИК2 ВЫШЕЛ!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:28:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544284074804 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dick Iverson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:27:13 |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:27:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544284775139 |
+| Players | 3/5 |
+| Host Name | nurgazhai88 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:28:28 |
 
 
