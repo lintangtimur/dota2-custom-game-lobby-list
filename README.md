@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544355199796 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Vermin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:14:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544355248487 |
-| Players | 8/10 |
-| Host Name | няшка) |
+| Lobby ID | 28519544355383755 |
+| Players | 5/15 |
+| Host Name | [W]hy so [S]erious |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:14:28 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:14:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544353950427 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:12:58 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:12:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544355383755 |
-| Players | 2/15 |
-| Host Name | [W]hy so [S]erious |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:14:37 |
 
 
 |  | epic_boss_fight_normal |
