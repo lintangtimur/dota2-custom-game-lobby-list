@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544054648544 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ronal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:16:29 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:16:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544054942016 |
-| Players | 2/8 |
-| Host Name | LORD CHUPETIN TRUJILLO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:17:14 |
+| Lobby ID | 28519544055170570 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:17:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544054961550 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:17:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544055120309 |
+| Players | 3/10 |
+| Host Name | Apagón Revolucionario |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:17:41 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544054330971 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:15:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544055150756 |
+| Players | 1/5 |
+| Host Name | Peroid. |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:17:45 |
 
 
