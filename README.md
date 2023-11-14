@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544072293023 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544073465079 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:03:04 |
@@ -60,27 +60,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544072558703 |
 | Players | 3/8 |
-| Host Name | MOLLY |
+| Host Name | PTS ENJOYER) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544069486384 |
-| Players | 1/10 |
-| Host Name | Heisenberg |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:53:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544073218999 |
-| Players | 4/10 |
-| Host Name | How Do I Play? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:02:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 7 añitozz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:02:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544073218999 |
+| Players | 5/10 |
+| Host Name | How Do I Play? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:02:27 |
 
 
