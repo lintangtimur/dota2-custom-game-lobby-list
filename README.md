@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544035963014 |
-| Players | 9/15 |
-| Host Name | SaltDaddy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:45 |
+| Lobby ID | 28519544035623614 |
+| Players | 3/24 |
+| Host Name | WhiteFenix |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:28:54 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544035823974 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:29:24 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544035674866 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:29:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544035835055 |
+| Players | 8/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544035754521 |
+| Players | 1/10 |
+| Host Name | Frayalalal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,35 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544035754521 |
-| Players | 1/10 |
-| Host Name | Frayalalal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544035623614 |
-| Players | 3/24 |
-| Host Name | WhiteFenix |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:28:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544035835055 |
-| Players | 5/15 |
-| Host Name | Aesgard |
+| Lobby ID | 28519544036449360 |
+| Players | 4/10 |
+| Host Name | турбо пивняк |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:26 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:30:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544035126559 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:39 |
