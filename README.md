@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544112996097 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | moose |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:33:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544110450128 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:27:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544112213086 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | No Pertenezco AKI☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544112266670 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544110324712 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | W1I |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:27:07 |
@@ -76,38 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544113114744 |
-| Players | 1/15 |
-| Host Name | skeeteronthemic |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:33:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544113122606 |
-| Players | 1/15 |
-| Host Name | Gaudério |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:33:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544113124965 |
-| Players | 1/24 |
-| Host Name | 年 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:33:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28519544113128582 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Dumb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:33:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544113285314 |
+| Players | 1/15 |
+| Host Name | Gaudério |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:33:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544113191739 |
+| Players | 7/15 |
+| Host Name | we lost :( |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:33:33 |
 
 
 |  | epic_boss_fight_nightmare |
