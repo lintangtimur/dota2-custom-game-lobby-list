@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544157723716 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:11:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544157854120 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | skuukzky |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:12:11 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises Mode UHC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:12:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544158268528 |
-| Players | 1/24 |
-| Host Name | 爪乇G卂ㄒ尺0几 :-< |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:13:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544158278044 |
-| Players | 1/15 |
-| Host Name | AVATAAAR |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:13:06 |
 
 
 |  | epic_boss_fight_nightmare |
