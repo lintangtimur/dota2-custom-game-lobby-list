@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544152266756 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | PUCP, 3er año, Ing, pepin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:00:07 |
@@ -45,14 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:02:19 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28519544153628372 |
-| Players | 1/7 |
-| Host Name | Дима_2003 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:03:05 |
 
 
