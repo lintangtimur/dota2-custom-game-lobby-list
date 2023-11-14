@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544304374399 |
 | Players | 3/8 |
-| Host Name | Dill |
+| Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:02:52 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544303475418 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:01:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544305490547 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Nazuno |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:04:46 |
@@ -56,21 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:04:59 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544305029812 |
-| Players | 1/10 |
-| Host Name | Paradiddle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:03:59 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544305446419 |
+| Lobby ID | 28519544305731558 |
 | Players | 1/5 |
 | Host Name | Reaper |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:04:42 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:05:10 |
 
 
