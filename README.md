@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544111754735 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544111980730 |
-| Players | 14/15 |
-| Host Name | sombra verde |
+| Lobby ID | 28519544112213086 |
+| Players | 2/24 |
+| Host Name | No Pertenezco AKI☻ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:30:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544112205014 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Jaggerjack |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:21 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544112213086 |
-| Players | 2/24 |
-| Host Name | No Pertenezco AKI☻ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544112473696 |
-| Players | 1/24 |
-| Host Name | TheWiseTomato |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:31:57 |
 
 
 |  | epic_boss_fight_nightmare |
