@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544077189405 |
-| Players | 3/8 |
-| Host Name | tv/bar_bariska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:12:07 |
+| Lobby ID | 28519544077320043 |
+| Players | 2/8 |
+| Host Name | Kendrick愛生 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:12:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544075895421 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | ieagtonrns |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:08:59 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:06:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544077214933 |
-| Players | 6/8 |
-| Host Name | 爱 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:12:11 |
+| Lobby ID | 28519544077177720 |
+| Players | 4/15 |
+| Host Name | некомформист |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:12:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544076670894 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:10:52 |
@@ -58,19 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544077177720 |
-| Players | 1/15 |
-| Host Name | некомформист |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:12:05 |
+| Lobby ID | 28519544077473556 |
+| Players | 3/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:12:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544075722521 |
-| Players | 8/10 |
-| Host Name | MonaLiar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:08:35 |
+| Lobby ID | 28519544077189405 |
+| Players | 7/8 |
+| Host Name | tv/bar_bariska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:12:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544077501242 |
+| Players | 1/8 |
+| Host Name | xiao prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:12:52 |
 
 
