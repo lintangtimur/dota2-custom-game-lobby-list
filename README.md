@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544137951478 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | hhhjj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:29:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544138215299 |
-| Players | 14/15 |
-| Host Name | Discipline |
+| Lobby ID | 28519544138312329 |
+| Players | 7/24 |
+| Host Name | 123 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:29:54 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:30:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:16:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544138312329 |
-| Players | 11/24 |
-| Host Name | 123 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:30:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544138451323 |
-| Players | 7/10 |
-| Host Name | SPIRIT BRAZZERS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:30:24 |
+| Lobby ID | 28519544139297625 |
+| Players | 3/15 |
+| Host Name | Capybara [52] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:32:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544139143428 |
-| Players | 2/8 |
-| Host Name | Capybara [52] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:31:51 |
+| Lobby ID | 28519544139302139 |
+| Players | 1/8 |
+| Host Name | JUKAL |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:32:11 |
 
 
 |  | epic_boss_fight_nightmare |
