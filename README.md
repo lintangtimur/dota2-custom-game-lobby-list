@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544575098929 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ARAGAPEGO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:21:59 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 21:20:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544315220949 |
-| Players | 7/8 |
-| Host Name | Blackpink |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:20:35 |
+| Lobby ID | 28519544543115904 |
+| Players | 9/24 |
+| Host Name | Brotino |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:58:53 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544554123587 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | wiwd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:07:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544574136233 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Данюсик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:21:17 |
@@ -113,28 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544575562687 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | danling |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:22:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544575557874 |
-| Players | 1/10 |
-| Host Name | pomodomo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:22:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544575588275 |
-| Players | 1/8 |
-| Host Name | ルディオス |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:22:19 |
+| Lobby ID | 28519544575898535 |
+| Players | 3/8 |
+| Host Name | Прекрасная тварь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:22:33 |
 
 
 |  | epic_boss_fight_nightmare |
