@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544179356113 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:59:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544178203035 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Moises Mode UHC |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:57:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544178209821 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:57:16 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:00:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544179822195 |
-| Players | 1/15 |
-| Host Name | No incoming chat |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:00:59 |
 
 
 |  | epic_boss_fight_nightmare |
