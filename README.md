@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544377715310 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | C2H5OH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:39:25 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:38:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544370151512 |
-| Players | 1/8 |
-| Host Name | blank |
+| Lobby ID | 28519544378779579 |
+| Players | 2/15 |
+| Host Name | mr.гр |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:31:17 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544375071714 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Over Time Kill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:36:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544377071673 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:38:45 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544378024609 |
-| Players | 12/15 |
-| Host Name | ... |
+| Lobby ID | 28519544378667313 |
+| Players | 5/15 |
+| Host Name | KILIMANJARO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:39:45 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:44:02 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544378927553 |
+| Players | 2/5 |
+| Host Name | Kasuga Haruna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544375702987 |
-| Players | 9/10 |
-| Host Name | Vhiyoulette |
+| Lobby ID | 28519544379076783 |
+| Players | 1/10 |
+| Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:37:17 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:51 |
 
 
