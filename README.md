@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544033562264 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Paloyoyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:23:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544033208454 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:52 |
@@ -68,46 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544033253368 |
-| Players | 2/8 |
-| Host Name | 可口 |
+| Players | 3/8 |
+| Host Name | endless hard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544033529759 |
-| Players | 11/15 |
-| Host Name | Eddie Meduza |
+| Lobby ID | 28519544033723524 |
+| Players | 4/10 |
+| Host Name | xd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:23:42 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:24:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544033552171 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | I'm Adeerable |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:23:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544033599161 |
-| Players | 4/8 |
-| Host Name | xd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:23:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544033692680 |
-| Players | 1/10 |
-| Host Name | Abyssal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:24:05 |
+| Lobby ID | 28519544033720320 |
+| Players | 1/15 |
+| Host Name | Tarrence12 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:24:09 |
 
 
 |  | epic_boss_fight_nightmare |
