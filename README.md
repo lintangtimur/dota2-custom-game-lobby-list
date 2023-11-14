@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544261774477 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Pod DOPINGOM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:47:25 |
@@ -49,10 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544262727777 |
+| Lobby ID | 28519544262865313 |
 | Players | 1/10 |
+| Host Name | Nyokay :р Нико |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:49:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544262873670 |
+| Players | 1/5 |
 | Host Name | nurgazhai88 |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:49:08 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:49:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544262878875 |
+| Players | 1/10 |
+| Host Name | Dysfun |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:49:24 |
 
 
