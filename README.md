@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544044134018 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SHARK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:50:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544044346683 |
-| Players | 4/8 |
-| Host Name | балуюсь письками |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:50:48 |
+| Lobby ID | 28519544044369473 |
+| Players | 1/8 |
+| Host Name | La Volcano Jaus |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:50:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544041994083 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Помогатор |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:44:56 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:50:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544044369473 |
-| Players | 1/8 |
-| Host Name | La Volcano Jaus |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:50:51 |
 
 
