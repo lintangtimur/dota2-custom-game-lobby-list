@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544217184547 |
-| Players | 14/15 |
-| Host Name | Deimosite |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:21:25 |
+| Lobby ID | 28519544219787353 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:26:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:21:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544217587177 |
-| Players | 13/15 |
-| Host Name | лесная похуистка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:22:15 |
+| Lobby ID | 28519544218007582 |
+| Players | 23/24 |
+| Host Name | MAX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:23:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544218332639 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | zero fucks given |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:23:48 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544219615907 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:26:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544218007582 |
-| Players | 23/24 |
-| Host Name | MAX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:23:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544219787353 |
-| Players | 2/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:26:43 |
 
 
 |  | epic_boss_fight_nightmare |
