@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544286403521 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | mode: TI7 boon hock miracle- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:31:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544289312972 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:36:32 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | today PMA dota |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:36:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544289597116 |
+| Players | 1/8 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
 
 
 |  | epic_boss_fight_challenger |
