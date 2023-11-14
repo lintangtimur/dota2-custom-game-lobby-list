@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544215733452 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:29:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544221944499 |
-| Players | 9/10 |
-| Host Name | РАКЕТНЫЙ ЗАААЛП |
+| Lobby ID | 28519544222746002 |
+| Players | 1/8 |
+| Host Name | Rayug4 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:31:05 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:32:42 |
 
 
 |  | ot3_desert_octet |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544222662351 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Messi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:32:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544222746002 |
-| Players | 1/8 |
-| Host Name | Rayug4 |
+| Lobby ID | 28519544223439924 |
+| Players | 3/10 |
+| Host Name | serega |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:32:42 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:34:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544222223910 |
+| Lobby ID | 28519544223450149 |
 | Players | 1/10 |
-| Host Name | Сергей |
+| Host Name | Louigi (ルイージ) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:31:39 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:34:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544223408550 |
+| Players | 1/5 |
+| Host Name | nurgazhai88 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:34:01 |
 
 
