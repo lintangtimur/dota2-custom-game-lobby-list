@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544164676416 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:27:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544163557056 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | San600Sn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:24:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544167164888 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 5 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:32:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544167098512 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Rakukoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:32:23 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ESQUIZOFRENICO_69 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:32:29 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544167407637 |
+| Players | 1/7 |
+| Host Name | eNerGiZe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:33:03 |
 
 
