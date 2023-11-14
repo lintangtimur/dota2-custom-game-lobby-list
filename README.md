@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544444918686 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | CUM GAMING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:42:40 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544477667460 |
-| Players | 22/24 |
-| Host Name | Ҝ丨几丂卄丨 |
+| Players | 20/24 |
+| Host Name | Herb Pettus |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:09:17 |
 
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:21:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544490109972 |
+| Players | 6/10 |
+| Host Name | dian the psychotic seafood hater |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:18:54 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544491123302 |
-| Players | 1/8 |
-| Host Name | add me if  you speak swahili |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:19:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544491634306 |
-| Players | 16/24 |
-| Host Name | Finesse |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:20:05 |
+| Lobby ID | 28519544490870247 |
+| Players | 4/8 |
+| Host Name | ghostwhite |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:19:30 |
 
 
 |  | ot3_gardens_duo |
@@ -113,43 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544493518710 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | MagiX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:21:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544490109972 |
-| Players | 3/10 |
-| Host Name | dian the psychotic seafood hater |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:18:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544490870247 |
-| Players | 3/8 |
-| Host Name | ЖЕСТКИЙ ПАНК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:19:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544493665391 |
-| Players | 2/8 |
-| Host Name | DROCHILNA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:21:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544490744051 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Da |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:19:24 |
