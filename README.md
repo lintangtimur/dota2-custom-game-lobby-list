@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544310473696 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Nest |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:02 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544311136409 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ДОЕДАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:14:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544310814004 |
-| Players | 9/10 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544307205220 |
-| Players | 4/8 |
-| Host Name | [ZIG]Arthas |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
 
 
 |  | ot3_desert_octet |
@@ -74,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544311188847 |
-| Players | 1/5 |
-| Host Name | `END |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:14:11 |
+| Lobby ID | 28519544307205220 |
+| Players | 4/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544311267908 |
+| Players | 2/8 |
+| Host Name | skittles_ez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:14:18 |
 
 
