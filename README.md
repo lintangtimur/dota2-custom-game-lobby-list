@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544105801311 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:17:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544104691429 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | mymoneywon'tjigglejiggle |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:14:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544106339170 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544106616902 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:50 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544106772976 |
+| Players | 1/8 |
+| Host Name | bob |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:19:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544103110126 |
+| Players | 23/24 |
+| Host Name | BRunzilian |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:11:04 |
 
 
 |  | epic_boss_fight_nightmare |
