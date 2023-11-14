@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544113191739 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | we lost :( |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:33:33 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544110450128 |
-| Players | 21/24 |
-| Host Name | real human bean |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:27:24 |
+| Lobby ID | 28519544114151199 |
+| Players | 2/24 |
+| Host Name | 小心踏得两艘船 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:35:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544112213086 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | No Pertenezco AKI☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544113625086 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:34:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544112776358 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Cever |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544112701190 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544113128582 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Dumb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:33:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544113285314 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | always in LOW forever |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:33:45 |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:35:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544114012136 |
+| Players | 6/15 |
+| Host Name | BTC |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:35:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544113968845 |
-| Players | 1/8 |
-| Host Name | Natso - |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:35:16 |
+| Lobby ID | 28519544114063437 |
+| Players | 4/8 |
+| Host Name | Soul光和红 (GL Guys) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:35:29 |
 
 
 |  | epic_boss_fight_nightmare |
