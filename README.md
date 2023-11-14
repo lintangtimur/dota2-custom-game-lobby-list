@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544184854521 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Star Lord |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:12:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544181337149 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Овечий Насильник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:04:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544183906767 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544184692153 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:12:12 |
@@ -95,26 +95,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544186378233 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ёбырь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:15:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544186687101 |
+| Players | 6/10 |
+| Host Name | Aerosniker |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:16:34 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544186545717 |
+| Lobby ID | 28519544186754094 |
 | Players | 1/24 |
 | Host Name | BBBBBB |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:16:15 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:16:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544186785351 |
+| Players | 1/24 |
+| Host Name | Dwight Whamos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:16:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544184044912 |
-| Players | 1/10 |
-| Host Name | Dysfun |
+| Players | 3/10 |
+| Host Name | PUSSY DESTROYER :"V |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:45 |
 
