@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021366688 |
-| Players | 2/24 |
-| Host Name | Order of Melchizedek |
+| Players | 1/24 |
+| Host Name | ROLANDO MOTA |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544029647855 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Daantz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544029419263 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Entrenadors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:13:33 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544027784965 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Balan Sarroula |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:09:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544029404823 |
-| Players | 14/15 |
-| Host Name | Datedi |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:13:30 |
+| Lobby ID | 28519544030026535 |
+| Players | 1/8 |
+| Host Name | P-JACK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:14:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:09:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544030026535 |
-| Players | 1/8 |
-| Host Name | P-JACK |
+| Lobby ID | 28519544030086804 |
+| Players | 3/15 |
+| Host Name | Itanimullio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:14:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:15:08 |
 
 
