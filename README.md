@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544147048678 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | †Gang BlooD† |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:48:39 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544146879823 |
-| Players | 1/8 |
-| Host Name | CURSE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:48:17 |
+| Lobby ID | 28519544146854233 |
+| Players | 12/15 |
+| Host Name | ROTA |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544146730406 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:57 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:48:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544146854233 |
-| Players | 9/15 |
-| Host Name | ROTA |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:48:13 |
+| Lobby ID | 28519544146809660 |
+| Players | 4/8 |
+| Host Name | LA PICHULA DE JORDI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:07 |
 
 
 |  | epic_boss_fight_nightmare |
