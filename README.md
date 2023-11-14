@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544057036226 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Sasaum |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:22:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544057375917 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:23:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544056674365 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | niger |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:21:31 |
@@ -76,11 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544057219403 |
-| Players | 8/15 |
-| Host Name | Weak Moustache |
+| Lobby ID | 28519544057807462 |
+| Players | 4/15 |
+| Host Name | Skirpool |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:22:53 |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:24:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544057966264 |
+| Players | 2/10 |
+| Host Name | MIGS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:24:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544057976260 |
+| Players | 1/8 |
+| Host Name | PENE  NEGRO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:24:46 |
 
 
 |  | epic_boss_fight_nightmare |
