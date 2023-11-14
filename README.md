@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544177114900 |
-| Players | 6/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:54:49 |
+| Lobby ID | 28519544176373110 |
+| Players | 8/8 |
+| Host Name | One Chance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:53:08 |
 
 
 |  | ot3_desert_octet |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises Mode UHC |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:57:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544178337296 |
-| Players | 14/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:57:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544179491256 |
-| Players | 1/8 |
-| Host Name | Gura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:00:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544176373110 |
-| Players | 8/8 |
-| Host Name | One Chance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:53:08 |
 
 
 |  | epic_boss_fight_nightmare |
