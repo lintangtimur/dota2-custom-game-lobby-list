@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544194175845 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:33:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544195405610 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ✪ SeRenITY Rebirth JH |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:35:42 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544184044912 |
-| Players | 1/10 |
-| Host Name | Dysfun |
+| Players | 3/10 |
+| Host Name | cuE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:45 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544195528610 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Deso |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:35:58 |
