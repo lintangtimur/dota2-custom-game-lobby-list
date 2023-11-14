@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034674933 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Zen'in |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544033090900 |
-| Players | 14/15 |
-| Host Name | 我想静静 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:22:35 |
+| Lobby ID | 28519544034930439 |
+| Players | 2/24 |
+| Host Name | RO8 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544034480438 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | macxvii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544033208454 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:52 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034219282 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:25:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544033720320 |
-| Players | 14/15 |
-| Host Name | Tarrence12 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:24:09 |
+| Lobby ID | 28519544034814269 |
+| Players | 4/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:26:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544034814269 |
-| Players | 3/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:52 |
 
 
