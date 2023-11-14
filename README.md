@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544248958800 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | HashiRama |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:23:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544249737946 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Blackberry Thunder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:25:09 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544251870507 |
-| Players | 3/8 |
-| Host Name | Vermin |
+| Players | 2/8 |
+| Host Name | xxxthankunext |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:29:11 |
 
@@ -83,39 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:28:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544252873174 |
-| Players | 4/8 |
-| Host Name | APA |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:31:05 |
+| Lobby ID | 28519544252816686 |
+| Players | 3/15 |
+| Host Name | Luqky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:30:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544252113587 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SexStyle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:29:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544252746514 |
-| Players | 1/15 |
-| Host Name | EXIT |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:30:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544252816686 |
-| Players | 2/15 |
-| Host Name | Luqky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:30:59 |
 
 
