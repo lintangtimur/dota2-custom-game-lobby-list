@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544140316725 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:34:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544139430382 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544140101935 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Ajax |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544139861131 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:21 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arthurmenos |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:34:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544140688992 |
+| Players | 1/8 |
+| Host Name | писяпоп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:35:04 |
 
 
 |  | epic_boss_fight_nightmare |
