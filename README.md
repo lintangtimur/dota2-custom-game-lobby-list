@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544072293023 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544071749231 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:58:45 |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544072558703 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | MOLLY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544072654480 |
-| Players | 8/15 |
-| Host Name | Yatonto |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:01:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544072659117 |
-| Players | 1/10 |
-| Host Name | Masha |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:01:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544069486384 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | クリシャ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:53:16 |
