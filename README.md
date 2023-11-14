@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544216039660 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:19:04 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:21:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544217421583 |
+| Players | 5/5 |
+| Host Name | Tururú|Mrsl |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:21:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544217486971 |
+| Players | 1/5 |
+| Host Name | 95 регион |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:22:03 |
 
 
