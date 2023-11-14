@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544245512896 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:17:06 |
+| Lobby ID | 28519544247987967 |
+| Players | 9/15 |
+| Host Name | Luqky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:21:49 |
 
 
 |  | ot3_desert_octet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SodaZ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:22:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544247987967 |
-| Players | 7/15 |
-| Host Name | Luqky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:21:49 |
 
 
 |  | epic_boss_fight_nightmare |
