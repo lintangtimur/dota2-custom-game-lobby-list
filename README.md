@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034674933 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Zen'in |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:31 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544034930439 |
-| Players | 2/24 |
-| Host Name | RO8 |
+| Lobby ID | 28519544034650695 |
+| Players | 1/24 |
+| Host Name | Dimval<3 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:09 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544034480438 |
-| Players | 9/10 |
-| Host Name | macxvii |
+| Lobby ID | 28519544034633985 |
+| Players | 6/8 |
+| Host Name | Gadol |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:26:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544033208454 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034219282 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:25:24 |
@@ -77,27 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544034814269 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544034633985 |
-| Players | 5/8 |
-| Host Name | Gadol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:25 |
+| Lobby ID | 28519544034992370 |
+| Players | 1/10 |
+| Host Name | larry capolla 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544034650695 |
-| Players | 1/24 |
-| Host Name | Dimval<3 |
+| Lobby ID | 28519544035003984 |
+| Players | 1/10 |
+| Host Name | Frayalalal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544033720320 |
+| Players | 14/15 |
+| Host Name | Tarrence12 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:24:09 |
 
 
