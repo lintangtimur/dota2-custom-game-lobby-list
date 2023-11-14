@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544241086212 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Влад Темерев prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:08:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544239787404 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Torstol |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:06:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544241159838 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Junya Watanabe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:08:51 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:09:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544241802907 |
+| Players | 2/8 |
+| Host Name | IIiIIiII |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:10:05 |
 
 
 |  | epic_boss_fight_normal |
