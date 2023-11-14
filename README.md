@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544063578593 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Guitir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:38:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544062955577 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:37:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544063716090 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Cheater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:39:00 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544063785838 |
+| Lobby ID | 28519544063863965 |
 | Players | 1/8 |
 | Host Name | МУЧУ POWER!!! |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:39:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544063790176 |
-| Players | 2/10 |
-| Host Name | GG Bond |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:39:11 |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:39:22 |
 
 
 |  | epic_boss_fight_nightmare |
