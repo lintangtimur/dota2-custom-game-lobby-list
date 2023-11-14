@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544083447212 |
-| Players | 7/24 |
+| Players | 16/24 |
 | Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:26:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544085004325 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:30:20 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544085366044 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | VIVA LA 27 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:31:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544085150772 |
+| Players | 7/15 |
+| Host Name | aesthetic af |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:30:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544085068430 |
+| Players | 17/24 |
+| Host Name | Amaraki |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:30:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:26:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544085068430 |
-| Players | 7/24 |
-| Host Name | Amaraki |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:30:29 |
+| Lobby ID | 28519544085668094 |
+| Players | 1/8 |
+| Host Name | nv |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:31:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544085150772 |
-| Players | 4/15 |
-| Host Name | aesthetic af |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:30:40 |
+| Lobby ID | 28519544085711024 |
+| Players | 1/8 |
+| Host Name | ｄｅｍｗｉｎ̷ |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:31:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544084413584 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ω.SiggyIzz.フリッツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:28:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544085466987 |
-| Players | 1/5 |
-| Host Name | 『Kumagawa Misogi』 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:31:23 |
 
 
