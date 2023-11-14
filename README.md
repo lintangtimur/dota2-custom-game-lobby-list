@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544035540549 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544035674866 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:29:02 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544036798590 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:31:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544035754521 |
-| Players | 1/10 |
-| Host Name | Frayalalal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544036812379 |
-| Players | 1/8 |
-| Host Name | NN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:31:54 |
 
 
 |  | ot3_gardens_duo |
@@ -99,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | турбо пивняк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:30:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544036581839 |
-| Players | 1/8 |
-| Host Name | todd chavez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:31:19 |
 
 
 |  | ot3_necropolis_ffa |
