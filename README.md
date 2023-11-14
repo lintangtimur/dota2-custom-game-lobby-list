@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544294023527 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Caan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:44:53 |
@@ -54,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Doo1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544294166256 |
+| Players | 1/15 |
+| Host Name | creep |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:45:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544294207120 |
+| Players | 2/24 |
+| Host Name | W®13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:45:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544294248757 |
+| Players | 1/15 |
+| Host Name | the chains start to crack |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:45:16 |
 
 
 |  | epic_boss_fight_nightmare |
