@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:43:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544145496327 |
-| Players | 4/8 |
-| Host Name | HeyPapi<3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:45:17 |
+| Lobby ID | 28519544146116718 |
+| Players | 3/24 |
+| Host Name | Transcended |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:46:37 |
 
 
 |  | ot3_gardens_duo |
@@ -32,19 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544145985559 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Mai Sakurajima |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:46:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544146228274 |
+| Players | 1/8 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:46:52 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544142852159 |
-| Players | 23/24 |
-| Host Name | Loki Laufeyson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:39:37 |
+| Lobby ID | 28519544146245273 |
+| Players | 1/24 |
+| Host Name | クソクレイジー |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:46:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GUILLO_LASSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:41:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544145907855 |
-| Players | 1/5 |
-| Host Name | DOOM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:46:10 |
 
 
