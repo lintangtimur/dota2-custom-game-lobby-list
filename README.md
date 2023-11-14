@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544157403301 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:11:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544158835750 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:14:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544158906252 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Йаcobs monarch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:14:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544159077123 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Don Quesito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:14:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544159473727 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Phill Dz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:15:39 |
