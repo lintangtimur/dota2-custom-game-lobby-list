@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544294023527 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Caan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:44:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544294461687 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | the chains start to crack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:38 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544294709927 |
+| Players | 1/10 |
+| Host Name | DzhuZo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:46:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544294737910 |
+| Players | 2/10 |
+| Host Name | Патриарх героина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:46:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544292696838 |
@@ -86,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544294402961 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | D1ch |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:32 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544294668567 |
-| Players | 1/7 |
+| Lobby ID | 28519544294767016 |
+| Players | 1/5 |
 | Host Name | 《beLaRuS》 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:46:00 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:46:10 |
 
 
