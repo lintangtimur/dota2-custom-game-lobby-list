@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544521507132 |
-| Players | 8/10 |
-| Host Name | дома никого |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:42:41 |
+| Lobby ID | 28519544524107327 |
+| Players | 1/10 |
+| Host Name | sorriso.sornione |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:44:38 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544523314870 |
-| Players | 3/24 |
+| Players | 12/24 |
 | Host Name | Evol |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:44:02 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:35:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544521481276 |
-| Players | 1/8 |
-| Host Name | ghostwhite |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:42:40 |
+| Lobby ID | 28519544524303489 |
+| Players | 1/24 |
+| Host Name | daed pleier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:44:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544490118242 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:18:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544522796225 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | 346515 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:43:39 |
@@ -76,20 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544520489009 |
-| Players | 7/8 |
-| Host Name | малыш оверсайз |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:41:56 |
+| Lobby ID | 28519544523993428 |
+| Players | 1/8 |
+| Host Name | V I N C E N T |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:44:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544517457539 |
+| Players | 3/10 |
+| Host Name | 最好的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:39:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544517170514 |
-| Players | 14/15 |
-| Host Name | Neurotic |
+| Lobby ID | 28519544509834250 |
+| Players | 6/15 |
+| Host Name | Makar_10 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:39:27 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:33:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544511382502 |
+| Players | 8/24 |
+| Host Name | Weird Fishes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:35:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544523741240 |
+| Players | 13/15 |
+| Host Name | sEMJON |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:44:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,28 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544520540879 |
-| Players | 5/10 |
-| Host Name | cece |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:41:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28519544522278526 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Jardoses |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:43:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544523579888 |
-| Players | 1/5 |
-| Host Name | INOSUKE HASHIBIRA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:44:14 |
 
 
