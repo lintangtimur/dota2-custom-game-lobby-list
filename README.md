@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544160997946 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:18:59 |
@@ -40,10 +40,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544163314320 |
+| Lobby ID | 28519544163413523 |
 | Players | 1/15 |
 | Host Name | 爪乇G卂ㄒ尺0几 :-< |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:24:03 |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:16 |
 
 
