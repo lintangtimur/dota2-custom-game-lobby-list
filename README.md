@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544146245273 |
-| Players | 7/24 |
+| Players | 16/24 |
 | Host Name | クソクレイジー |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:46:54 |
@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544146116718 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:46:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544142235813 |
-| Players | 9/10 |
-| Host Name | Хьюстон я проблем |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:38:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544145985559 |
-| Players | 8/10 |
-| Host Name | Mai Sakurajima |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:46:20 |
 
 
 |  | ot3_desert_octet |
@@ -45,6 +27,60 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544146612862 |
+| Players | 5/10 |
+| Host Name | Entrenadors |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:47:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544146730406 |
+| Players | 2/15 |
+| Host Name | Kirtaph |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:47:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544146689696 |
+| Players | 3/8 |
+| Host Name | overboard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:47:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544146710345 |
+| Players | 1/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:47:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544146780172 |
+| Players | 1/15 |
+| Host Name | Hitler Cat (catsexual) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544146780428 |
+| Players | 1/10 |
+| Host Name | †Gang BlooD† |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:48:03 |
 
 
 |  | epic_boss_fight_nightmare |
