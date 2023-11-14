@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544034650695 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544035540549 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:42 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544035823974 |
-| Players | 7/8 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:24 |
+| Lobby ID | 28519544037006615 |
+| Players | 1/8 |
+| Host Name | ミカサ・アッカーマン |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:32:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544036449360 |
-| Players | 4/10 |
-| Host Name | турбо пивняк |
+| Players | 2/10 |
+| Host Name | ZODIAC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:30:58 |
 
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544037034392 |
+| Players | 1/5 |
+| Host Name | Ðò.óM-Ŧő.őツ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:32:28 |
 
 
