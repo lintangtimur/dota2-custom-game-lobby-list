@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544058545172 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:26:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544057807462 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Skirpool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:24:21 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 10/24 |
-| Host Name | Loki Laufeyson |
+| Players | 7/24 |
+| Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544058924894 |
+| Players | 4/15 |
+| Host Name | 我想静静 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:27:09 |
 
 
 |  | epic_boss_fight_nightmare |
