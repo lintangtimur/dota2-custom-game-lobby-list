@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544027936338 |
-| Players | 2/8 |
-| Host Name | OrlyOMG |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:09:56 |
+| Lobby ID | 28519544028176388 |
+| Players | 17/24 |
+| Host Name | L'ost |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:10:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544027969758 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Grift |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:10:00 |
@@ -92,28 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:10:30 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544028176388 |
-| Players | 13/24 |
-| Host Name | L'ost |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:10:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544028352720 |
-| Players | 8/10 |
-| Host Name | i have no enemies |
+| Lobby ID | 28519544028793703 |
+| Players | 2/10 |
+| Host Name | _GrVnD_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:10:57 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:12:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544028140387 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 321 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:10:26 |
