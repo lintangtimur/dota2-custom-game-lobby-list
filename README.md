@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544260604690 |
-| Players | 1/15 |
-| Host Name | У Ш А Н |
+| Lobby ID | 28519544260639707 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:45:17 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:45:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dill |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:45:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544260710586 |
+| Players | 1/10 |
+| Host Name | Coyote Starrk |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:45:29 |
 
 
 |  | epic_boss_fight_nightmare |
