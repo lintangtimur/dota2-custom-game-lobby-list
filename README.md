@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544426658361 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:27:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544434875054 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:34:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544434320532 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Say |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:33:39 |
@@ -103,29 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544434028354 |
-| Players | 14/15 |
-| Host Name | Сын_Маминой_Подру |
+| Lobby ID | 28519544427559589 |
+| Players | 3/15 |
+| Host Name | g |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:33:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544434757900 |
-| Players | 1/10 |
-| Host Name | GAGAUZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:34:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:27:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544427559589 |
-| Players | 5/15 |
-| Host Name | g |
+| Lobby ID | 28519544408536641 |
+| Players | 4/15 |
+| Host Name | paranoid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:27:47 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544432796316 |
+| Players | 5/10 |
+| Host Name | RaSp1zDяЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:32:21 |
 
 
 |  | epic_boss_fight_normal |
