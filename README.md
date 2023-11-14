@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544089091610 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Arthas Menethil |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:39:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544088932266 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:39:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544088630768 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:38:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544089989589 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:41:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544089801409 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Izumi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:41:05 |
