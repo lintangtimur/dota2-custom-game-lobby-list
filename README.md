@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544403474342 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Пинал твоего деда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:05:45 |
@@ -22,29 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544402100955 |
-| Players | 9/10 |
-| Host Name | TonyMewntaNa! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:04:26 |
+| Lobby ID | 28519544402762001 |
+| Players | 1/10 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:05:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544404377928 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | июнь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:06:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544403625328 |
-| Players | 5/8 |
-| Host Name | кожаный механик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:05:54 |
+| Lobby ID | 28519544400526938 |
+| Players | 2/24 |
+| Host Name | suzy |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:02:54 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544403502918 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Redhardt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:05:47 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | X-ART |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:04:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544400526938 |
-| Players | 2/24 |
-| Host Name | suzy |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:02:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544402762001 |
-| Players | 1/10 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:05:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544401013984 |
-| Players | 23/24 |
-| Host Name | Aon MatSir |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:03:22 |
 
 
 |  | epic_boss_fight_normal |
