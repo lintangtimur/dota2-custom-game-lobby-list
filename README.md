@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544393895449 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | PSG.LGD n3kasinesis# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544400419436 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | JImmy Cooks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:02:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544407056151 |
-| Players | 1/24 |
-| Host Name | X-ART |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:09:08 |
+| Lobby ID | 28519544407147832 |
+| Players | 1/15 |
+| Host Name | Mi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:09:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544407218465 |
+| Players | 1/15 |
+| Host Name | boombox |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:09:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,24 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:46:24 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28519544403580712 |
-| Players | 4/7 |
-| Host Name | GreShnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:05:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544406026436 |
-| Players | 3/10 |
-| Host Name | sleep |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:08:09 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544405306887 |
@@ -155,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:07:29 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544406842434 |
-| Players | 3/7 |
-| Host Name | Василич |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:08:56 |
+| Lobby ID | 28519544406026436 |
+| Players | 3/10 |
+| Host Name | sleep |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:08:09 |
 
 
