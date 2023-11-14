@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544063119994 |
-| Players | 2/8 |
-| Host Name | shika |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:37:32 |
+| Lobby ID | 28519544062476878 |
+| Players | 4/8 |
+| Host Name | Best of Me #Yatoroenjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:35:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544062551259 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Eldarion |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:36:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544062253974 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ggbly 3414 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:35:23 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544062955577 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:37:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544062476878 |
-| Players | 4/8 |
-| Host Name | Best of Me #Yatoroenjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:35:56 |
 
 
 |  | epic_boss_fight_nightmare |
