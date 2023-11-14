@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544113832931 |
-| Players | 6/8 |
-| Host Name | Mr.Lulu^^ |
+| Lobby ID | 28519544114742028 |
+| Players | 11/15 |
+| Host Name | Wookie Nipple Pinchy |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:34:58 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:37:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544114151199 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | 小心踏得两艘船 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:35:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544112213086 |
-| Players | 23/24 |
-| Host Name | No Pertenezco AKI☻ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544113464218 |
-| Players | 1/24 |
-| Host Name | Percibal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:34:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544112776358 |
-| Players | 5/10 |
-| Host Name | Cever |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:32:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544114012136 |
-| Players | 1/15 |
-| Host Name | BTC |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:35:22 |
 
 
 |  | ot3_gardens_duo |
@@ -74,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544114742028 |
-| Players | 7/15 |
-| Host Name | Wookie Nipple Pinchy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:37:01 |
+| Lobby ID | 28519544113464218 |
+| Players | 2/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:34:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544112776358 |
+| Players | 8/10 |
+| Host Name | Cever |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:32:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544114863618 |
+| Lobby ID | 28519544114932430 |
 | Players | 1/8 |
-| Host Name | ＣｒｙｓｔａｌＢｒｏｋｅｎ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:37:17 |
+| Host Name | 3.14P3tka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:37:27 |
 
 
 |  | epic_boss_fight_nightmare |
