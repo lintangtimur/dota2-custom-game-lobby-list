@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544172334404 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ??? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:44:00 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 12:47:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544171940128 |
-| Players | 21/24 |
-| Host Name | ARi |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:43:06 |
+| Lobby ID | 28519544174131487 |
+| Players | 2/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:48:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544168861822 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ArcaN |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:36:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544172900836 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:45:17 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :Xaiko midaX:) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:47:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544174177169 |
+| Players | 1/15 |
+| Host Name | ☢XEROXιllα☢ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:48:09 |
 
 
 |  | epic_boss_fight_nightmare |
