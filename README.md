@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544215768573 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mr Seczo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544217023401 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:21:05 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544218007582 |
-| Players | 23/24 |
-| Host Name | MAX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:23:07 |
+| Lobby ID | 28519544219615907 |
+| Players | 2/24 |
+| Host Name | If you're a crrano I'll ban you |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:26:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544218332639 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | zero fucks given |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:23:48 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544219615907 |
-| Players | 2/24 |
-| Host Name | If you're a crrano I'll ban you |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:26:22 |
+| Lobby ID | 28519544218007582 |
+| Players | 23/24 |
+| Host Name | MAX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:23:07 |
 
 
 |  | epic_boss_fight_nightmare |
