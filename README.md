@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544045415913 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Tamatze |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544045316939 |
-| Players | 16/24 |
-| Host Name | Macho Alfa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:53:14 |
+| Lobby ID | 28519544045699041 |
+| Players | 1/15 |
+| Host Name | гойда Z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:54:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544045334899 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NIDOKING :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544045336079 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Phillips |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:17 |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544045405377 |
-| Players | 1/24 |
-| Host Name | Señora A su hijo lestan pegando |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:53:28 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28519544045346553 |
-| Players | 1/7 |
-| Host Name | Hasta Luego |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:53:19 |
 
 
