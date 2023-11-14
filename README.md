@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544123877219 |
-| Players | 9/24 |
-| Host Name | Just die already |
+| Players | 8/24 |
+| Host Name | DC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:57:57 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544124274324 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:58:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544124541951 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Moises Mode UHC |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:59:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544124700813 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Tyler985 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:59:49 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544124721778 |
-| Players | 6/8 |
-| Host Name | Mandrake |
+| Lobby ID | 28519544124801800 |
+| Players | 1/8 |
+| Host Name | Allen |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:59:52 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:00:04 |
 
 
 |  | epic_boss_fight_nightmare |
