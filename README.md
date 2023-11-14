@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544186378233 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ёбырь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:15:53 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544186687101 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Aerosniker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:16:34 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:16:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544186785351 |
-| Players | 1/24 |
-| Host Name | Dwight Whamos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:16:47 |
+| Lobby ID | 28519544186893458 |
+| Players | 1/10 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:17:01 |
 
 
 |  | epic_boss_fight_nightmare |
