@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544191374218 |
-| Players | 3/8 |
-| Host Name | Death VadeR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:26:58 |
+| Lobby ID | 28519544191442116 |
+| Players | 1/10 |
+| Host Name | Hani |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:27:08 |
 
 
 |  | ot3_gardens_duo |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544191294647 |
 | Players | 2/8 |
-| Host Name | Cum v truciki 2009 |
+| Host Name | Бpaтик cниmи кpecтик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:26:48 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544191335633 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:26:53 |
