@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544275145983 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:11:20 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544274261701 |
-| Players | 7/8 |
-| Host Name | Feelingpeace’s |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:09:45 |
+| Lobby ID | 28519544275526308 |
+| Players | 1/10 |
+| Host Name | Емне Гров |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:12:00 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:11:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544275526308 |
-| Players | 1/10 |
-| Host Name | Емне Гров |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:12:00 |
+| Lobby ID | 28519544275917306 |
+| Players | 1/8 |
+| Host Name | saketshji |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:12:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544273750261 |
-| Players | 23/24 |
-| Host Name | SANTOSO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:08:50 |
+| Lobby ID | 28519544275930096 |
+| Players | 1/8 |
+| Host Name | Саша Яша Лава |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:12:43 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544269079014 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ็ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:00:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544275950023 |
+| Players | 1/10 |
+| Host Name | Ara Niesha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:12:45 |
 
 
