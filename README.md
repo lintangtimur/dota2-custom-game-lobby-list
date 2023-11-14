@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:29:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544137981001 |
-| Players | 14/15 |
-| Host Name | 3AeMe |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:29:24 |
+| Lobby ID | 28519544141274927 |
+| Players | 4/8 |
+| Host Name | LE PUMBE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:36:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544141012091 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:35:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544139430382 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544141190868 |
+| Players | 1/8 |
+| Host Name | DisMoral1ty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:36:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544141263407 |
+| Players | 1/15 |
+| Host Name | Unting |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:36:16 |
 
 
