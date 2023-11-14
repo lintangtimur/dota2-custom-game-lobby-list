@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544025289819 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Kbeza |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:03:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544025463040 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | bb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:03:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544025710456 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | macxvii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:04:26 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [Red[O]ne] |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:04:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544026081587 |
+| Players | 2/10 |
+| Host Name | Carpe Diem. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:05:21 |
 
 
 |  | epic_boss_fight_nightmare |
