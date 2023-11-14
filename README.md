@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544380438851 |
 | Players | 12/15 |
-| Host Name | Zero |
+| Host Name | CupOfTeaHeadass |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:42:16 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544384742893 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Know ur place |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:46:44 |
