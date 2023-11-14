@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544034650695 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544035540549 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:42 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:29:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544035835055 |
-| Players | 14/15 |
-| Host Name | Aesgard |
+| Lobby ID | 28519544036798590 |
+| Players | 2/10 |
+| Host Name | i have no enemies |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:26 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:31:52 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:29:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544036310831 |
-| Players | 8/10 |
-| Host Name | игорь |
+| Lobby ID | 28519544036812379 |
+| Players | 1/8 |
+| Host Name | NN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:30:37 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:31:54 |
 
 
 |  | ot3_gardens_duo |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:31:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544036798590 |
-| Players | 2/10 |
-| Host Name | i have no enemies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:31:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544036812379 |
-| Players | 1/8 |
-| Host Name | NN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:31:54 |
 
 
 |  | epic_boss_fight_nightmare |
