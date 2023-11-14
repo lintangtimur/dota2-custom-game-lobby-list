@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544111980730 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | sombra verde |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544109711630 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | stampede |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:25:44 |
@@ -74,6 +74,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544112177316 |
+| Players | 1/15 |
+| Host Name | Safa- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:31:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544112205899 |
+| Players | 1/24 |
+| Host Name | 关注MyGO!!!!!喵谢谢关注 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:31:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544112205014 |
+| Players | 2/15 |
+| Host Name | Jaggerjack |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:31:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544112213086 |
+| Players | 1/24 |
+| Host Name | No Pertenezco AKI☻ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544111689792 |
@@ -81,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | What the help ? |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544112220747 |
+| Players | 1/10 |
+| Host Name | Yamato- |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:31:23 |
 
 
