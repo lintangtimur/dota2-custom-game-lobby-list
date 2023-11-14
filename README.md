@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021366688 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544025289819 |
-| Players | 6/24 |
+| Players | 15/24 |
 | Host Name | Kbeza |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:03:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544025463040 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | bb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:03:49 |
@@ -60,17 +60,71 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544025497799 |
 | Players | 3/15 |
-| Host Name | Lil Pepe |
+| Host Name | MOSTRO GAMER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:03:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544025374161 |
-| Players | 4/15 |
-| Host Name | Agua |
+| Lobby ID | 28519544025826753 |
+| Players | 1/15 |
+| Host Name | Balan Sarroula |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544025710456 |
+| Players | 5/10 |
+| Host Name | macxvii |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:03:36 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544025643973 |
+| Players | 7/8 |
+| Host Name | вечный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544025855801 |
+| Players | 5/15 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544025917635 |
+| Players | 1/8 |
+| Host Name | [Red[O]ne] |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544025662321 |
+| Players | 2/10 |
+| Host Name | HeyniSS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544025939449 |
+| Players | 1/5 |
+| Host Name | 小哼哼 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:04:59 |
 
 
