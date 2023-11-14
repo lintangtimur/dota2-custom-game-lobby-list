@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544283604003 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Увековечено в пив |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:23 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:45 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544283296125 |
-| Players | 1/10 |
-| Host Name | абвыбвагыагавгву |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:25:50 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544283879139 |
+| Lobby ID | 28519544283948932 |
 | Players | 1/5 |
-| Host Name | pos 3 хозяин крипов |
+| Host Name | F13 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:27:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544283944467 |
+| Players | 2/10 |
+| Host Name | МАКШНАКНЕКС |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:26:53 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:26:59 |
 
 
