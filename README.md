@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544063189359 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | mutterfickeramt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:37:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544063995459 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:39:42 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544064192512 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:40:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544064323689 |
+| Players | 1/8 |
+| Host Name | МУЧУ POWER!!! |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:40:31 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544062973529 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | SnowFire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:37:10 |
