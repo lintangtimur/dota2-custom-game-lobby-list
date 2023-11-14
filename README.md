@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544122062390 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Lulala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:53:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544122328709 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Deciem |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:54:22 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:51:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544120316122 |
-| Players | 14/15 |
-| Host Name | kötsibëu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:49:44 |
+| Lobby ID | 28519544122299703 |
+| Players | 2/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:54:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544122116497 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DON VERGAS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:53:53 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 'HarKz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:54:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544122299703 |
-| Players | 2/24 |
-| Host Name | 乱战先锋专用帐号 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
