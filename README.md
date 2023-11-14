@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544194175845 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:33:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544194616046 |
-| Players | 14/15 |
-| Host Name | Sephiroth |
+| Lobby ID | 28519544195673425 |
+| Players | 3/8 |
+| Host Name | Mastur Beast |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:33:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:36:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544195434216 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Corey |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:35:46 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:35:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544195673425 |
-| Players | 2/8 |
-| Host Name | Mastur Beast |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:36:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544184044912 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | cuE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:45 |
