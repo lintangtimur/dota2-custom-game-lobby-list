@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544230147589 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:47:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544230881182 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:48:48 |
@@ -41,34 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544228514454 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:44:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544231118508 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:49:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544230654074 |
-| Players | 2/10 |
-| Host Name | Moises Mode UHC |
+| Lobby ID | 28519544230650249 |
+| Players | 8/15 |
+| Host Name | BETA |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:48:22 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:48:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544231443058 |
+| Players | 1/24 |
+| Host Name | mode: TI7 boon hock miracle- |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:49:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544230697242 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Nilales |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:48:27 |
@@ -76,35 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544230650249 |
-| Players | 3/15 |
-| Host Name | BETA |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:48:21 |
+| Lobby ID | 28519544231379525 |
+| Players | 7/15 |
+| Host Name | _Cloud_ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:49:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544230069352 |
-| Players | 6/8 |
-| Host Name | pick pudge=mother died |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:47:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544231191651 |
-| Players | 6/15 |
-| Host Name | On the way si Bry! ♩ ♪ ♫ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:49:25 |
+| Lobby ID | 28519544231424968 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:49:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544228491090 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:44:06 |
