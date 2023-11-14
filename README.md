@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544256814368 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:22 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544257237540 |
+| Players | 1/15 |
+| Host Name | conv1k_ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:39:09 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28519544255300531 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544256622341 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:01 |
@@ -76,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544257152012 |
+| Lobby ID | 28519544257223132 |
 | Players | 1/5 |
-| Host Name | YATOGONROG |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:38:59 |
+| Host Name | FAIL DICK БОБРА |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:39:07 |
 
 
