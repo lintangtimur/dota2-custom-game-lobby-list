@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544035222533 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Apagón Revolucionario |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544034650695 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544035623614 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | WhiteFenix |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544035835055 |
+| Players | 1/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:26 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544034633985 |
-| Players | 7/8 |
-| Host Name | Gadol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:25 |
+| Lobby ID | 28519544035823974 |
+| Players | 1/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28519544035728511 |
-| Players | 1/5 |
-| Host Name | ジャガーノート |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:10 |
+| Lobby ID | 28519544035824098 |
+| Players | 3/7 |
+| Host Name | Always |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:24 |
 
 
