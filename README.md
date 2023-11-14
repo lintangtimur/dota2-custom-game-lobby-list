@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544141843114 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | >KhoRup..-will< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:37:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544142852159 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | itachi uchiha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:39:37 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Хьюстон я проблем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:38:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544143340822 |
+| Players | 1/15 |
+| Host Name | 21savage. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:40:41 |
 
 
 |  | epic_boss_fight_nightmare |
