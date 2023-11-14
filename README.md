@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544220721063 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | pearl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:28:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544220326441 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | zxc king tilted ghoul ss+ abuzer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:27:47 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544220241119 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sex??? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:27:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544220931319 |
+| Players | 3/10 |
+| Host Name | Moises Mode UHC |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:29:01 |
 
 
 |  | epic_boss_fight_nightmare |
