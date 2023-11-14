@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544486575559 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | OD Spammer EZ MID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:16:11 |
@@ -59,72 +59,126 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544490118242 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:18:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544501591222 |
-| Players | 10/15 |
-| Host Name | Yuma |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:27:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544497007628 |
-| Players | 5/15 |
-| Host Name | duknoken |
+| Lobby ID | 28519544440675977 |
+| Players | 6/10 |
+| Host Name | АЛЁНА ДАСТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:24:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544504169431 |
+| Players | 1/15 |
+| Host Name | Grift |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:29:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544498173421 |
 | Players | 2/8 |
-| Host Name | JImmy Cooks |
+| Host Name | reyoto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:25:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544503590661 |
-| Players | 4/10 |
-| Host Name | Тупица-Помойник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:29:13 |
+| Lobby ID | 28519544504150380 |
+| Players | 1/15 |
+| Host Name | Romek |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:29:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544503623194 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | piu-piu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:29:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544500502875 |
+| Lobby ID | 28519544495559371 |
+| Players | 3/10 |
+| Host Name | Ralph |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:23:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544490870247 |
+| Players | 4/8 |
+| Host Name | Raketa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:19:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544504036595 |
+| Players | 9/15 |
+| Host Name | ：） |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:29:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544504126215 |
+| Players | 1/24 |
+| Host Name | Midwaysito |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:29:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544492379919 |
+| Players | 9/10 |
+| Host Name | Ed Dubu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:20:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544504579169 |
 | Players | 1/10 |
-| Host Name | RB19 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:26:53 |
+| Host Name | UnclePecos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:29:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544495829648 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Agatha Sheet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:23:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544503994213 |
+| Players | 2/10 |
+| Host Name | Mr.Henky |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:29:32 |
 
 
