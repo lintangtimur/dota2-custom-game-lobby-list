@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544222662351 |
-| Players | 4/15 |
-| Host Name | Messi |
+| Players | 3/15 |
+| Host Name | Luqky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:32:32 |
 
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544223439924 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | serega |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:34:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544223450149 |
-| Players | 1/10 |
-| Host Name | Louigi (ルイージ) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:34:06 |
+| Lobby ID | 28519544223550098 |
+| Players | 4/15 |
+| Host Name | hi |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:34:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544223408550 |
-| Players | 1/5 |
-| Host Name | nurgazhai88 |
+| Lobby ID | 28519544223505097 |
+| Players | 2/10 |
+| Host Name | Сергей |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:34:01 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:34:13 |
 
 
