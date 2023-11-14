@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544191039122 |
-| Players | 1/10 |
-| Host Name | DyslexicStoner240 |
+| Lobby ID | 28519544191374218 |
+| Players | 3/8 |
+| Host Name | Death VadeR |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:26:14 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:26:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544190872961 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | everydayrain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:25:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544187393072 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:18:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544190513267 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Sephiroth |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:25:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544191335633 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:26:53 |
