@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544270710519 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Кик Бутовский |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:03:29 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:02:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544269785903 |
-| Players | 1/8 |
-| Host Name | Peon Redfield |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:01:49 |
+| Lobby ID | 28519544270697980 |
+| Players | 2/10 |
+| Host Name | ДИО БАРАНДО |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:03:27 |
 
 
 |  | ot3_gardens_duo |
@@ -110,13 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:02:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544270697980 |
-| Players | 2/10 |
-| Host Name | ДИО БАРАНДО |
+| Lobby ID | 28519544271047850 |
+| Players | 3/15 |
+| Host Name | Torstol |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544271095213 |
+| Players | 1/8 |
+| Host Name | radbix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:04:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544271109885 |
+| Players | 1/8 |
+| Host Name | Peon Redfield |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:03:27 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
 
 
 |  | epic_boss_fight_normal |
