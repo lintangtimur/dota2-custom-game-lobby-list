@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034674933 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Zen'in |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544034633985 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Gadol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544033208454 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034219282 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:25:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544034814269 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:52 |
@@ -86,27 +86,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544034992370 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | larry capolla 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:19 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544035113214 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544035061172 |
+| Players | 1/8 |
+| Host Name | M4xwell |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:29 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544035003984 |
+| Lobby ID | 28519544035222533 |
+| Players | 1/10 |
+| Host Name | Apagón Revolucionario |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544035203021 |
 | Players | 1/10 |
 | Host Name | Frayalalal |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:20 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544033720320 |
-| Players | 14/15 |
-| Host Name | Tarrence12 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:24:09 |
+| Lobby ID | 28519544035107543 |
+| Players | 1/10 |
+| Host Name | DeltaBlock |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544035126559 |
+| Players | 1/10 |
+| Host Name | How Do I Play? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:39 |
 
 
