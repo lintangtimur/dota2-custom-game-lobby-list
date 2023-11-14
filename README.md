@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544191294647 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Бpaтик cниmи кpecтик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:26:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544192817927 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Kermit Da Frog |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:30:06 |
@@ -23,36 +23,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544190864234 |
-| Players | 5/15 |
-| Host Name | Joshe ▼♥ ♥☻giordota.com |
+| Players | 7/15 |
+| Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:25:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544187393072 |
-| Players | 20/24 |
-| Host Name | Top Knot.Maeghan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:18:08 |
+| Lobby ID | 28519544193018882 |
+| Players | 1/10 |
+| Host Name | Dead_Dragon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:30:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544184044912 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Dysfun |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:10:45 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28519544191922121 |
-| Players | 2/7 |
-| Host Name | momo&peach princess |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:28:10 |
 
 
