@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544277167988 |
-| Players | 14/15 |
-| Host Name | Shadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:53 |
+| Lobby ID | 28519544276661792 |
+| Players | 7/10 |
+| Host Name | Емне Гров |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:13:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544277878522 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | PUDGE |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:16:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544278639317 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Henry Cavill |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:17:30 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544278431356 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | avgn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:17:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544276661792 |
-| Players | 8/10 |
-| Host Name | naga_Invoker |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:13:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:28 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28519544278832272 |
-| Players | 2/5 |
+| Lobby ID | 28519544278936720 |
+| Players | 2/7 |
 | Host Name | Mummar Gaddafi |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:17:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:18:02 |
 
 
