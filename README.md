@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544306191422 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | grek |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:05:57 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:05:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544307032901 |
+| Players | 1/5 |
+| Host Name | Lord Monaco |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:07:21 |
 
 
