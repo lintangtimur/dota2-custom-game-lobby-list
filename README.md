@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544180807860 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ASURA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:03:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544181125940 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | autobots gameplay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:04:03 |
