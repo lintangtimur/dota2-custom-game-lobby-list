@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544112932606 |
-| Players | 3/15 |
-| Host Name | Chefito |
+| Lobby ID | 28519544112996097 |
+| Players | 1/10 |
+| Host Name | Karl_Nesios |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:32:58 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:33:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544110450128 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:27:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544112213086 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | No Pertenezco AKI☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:31:22 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544110324712 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | W1I |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:27:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544112692551 |
-| Players | 1/24 |
-| Host Name | wikiped |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:32:26 |
 
 
 |  | ot3_gardens_duo |
