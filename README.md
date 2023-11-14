@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:28:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544497007628 |
-| Players | 1/15 |
-| Host Name | Настя_Ногти |
+| Lobby ID | 28519544495559371 |
+| Players | 2/10 |
+| Host Name | BalU |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:24:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:23:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544510413412 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Kazakura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:34:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544490118242 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:18:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544510794524 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | blonndin4ik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:34:39 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:31:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544495559371 |
-| Players | 2/10 |
-| Host Name | BalU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:23:08 |
+| Lobby ID | 28519544511382502 |
+| Players | 1/24 |
+| Host Name | thrower |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:35:05 |
 
 
 |  | epic_boss_fight_nightmare |
