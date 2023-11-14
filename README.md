@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544386144770 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | marmelad_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:48:10 |
@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544386558336 |
-| Players | 13/15 |
-| Host Name | eryominandrey |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:48:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544384194035 |
-| Players | 16/24 |
-| Host Name | makasih |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:46:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544387099602 |
@@ -54,6 +36,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [PickBan] 1_Papa_Karlo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:49:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544384194035 |
+| Players | 17/24 |
+| Host Name | makasih |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:46:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544387330230 |
+| Players | 1/15 |
+| Host Name | Dlate |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544387313140 |
+| Players | 1/15 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ἆqὖa✔Minerale™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:43:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544387126744 |
-| Players | 3/5 |
-| Host Name | 灵犀一指 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:49:11 |
 
 
