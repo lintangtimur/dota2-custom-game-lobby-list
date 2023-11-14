@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:35:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544195673425 |
-| Players | 7/8 |
-| Host Name | Mastur Beast |
+| Lobby ID | 28519544196484025 |
+| Players | 1/10 |
+| Host Name | ёбырь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:36:17 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:38:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:33:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544196471504 |
-| Players | 1/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:37:59 |
+| Lobby ID | 28519544196542291 |
+| Players | 1/15 |
+| Host Name | saw a gaw |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:38:08 |
 
 
 |  | epic_boss_fight_nightmare |
