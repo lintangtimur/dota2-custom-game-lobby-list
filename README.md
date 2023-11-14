@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544315309899 |
-| Players | 2/8 |
-| Host Name | intelligent |
+| Lobby ID | 28519544315955086 |
+| Players | 4/15 |
+| Host Name | TANCYU POD BYZOVY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:20:44 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:21:43 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544313367281 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:17:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544313259837 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | Elwecard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:17:30 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tanıdık |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:21:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544315697570 |
-| Players | 1/15 |
-| Host Name | Federall |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:21:19 |
 
 
 |  | epic_boss_fight_nightmare |
