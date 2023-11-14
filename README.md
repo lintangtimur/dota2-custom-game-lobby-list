@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544109154722 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:29 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544108870211 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Fat Command |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:23:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544109120493 |
-| Players | 23/24 |
-| Host Name | >CroW< |
+| Lobby ID | 28519544110255289 |
+| Players | 6/10 |
+| Host Name | Su kachero de |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:24:25 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:26:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544109298788 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | bebrust |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:24:49 |
@@ -95,27 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544110324712 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | W1I |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:27:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544110255289 |
-| Players | 6/10 |
-| Host Name | Su kachero de |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:26:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544110082777 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:26:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544110769060 |
+| Players | 1/5 |
+| Host Name | Arhyel A |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:28:06 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544110824237 |
+| Players | 1/7 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:28:14 |
 
 
