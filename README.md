@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544271917311 |
 | Players | 2/15 |
-| Host Name | D: |
+| Host Name | МокрыйВилли |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:05:37 |
 
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:58:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544270747191 |
-| Players | 7/10 |
-| Host Name | Revoker |
+| Lobby ID | 28519544272542171 |
+| Players | 1/8 |
+| Host Name | < blank > |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:03:33 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:06:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544269146008 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mr Seczo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:00:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544268441498 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:59:25 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271095213 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | radbix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544272538609 |
+| Players | 2/10 |
+| Host Name | nvmnd |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:06:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544272689385 |
+| Players | 2/10 |
+| Host Name | MeekyWard |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:06:58 |
 
 
 |  | epic_boss_fight_normal |
