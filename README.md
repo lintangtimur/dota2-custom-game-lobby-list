@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544141012091 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:35:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544140316725 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:34:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544139430382 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544141415595 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | писяпоп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:36:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544140807303 |
-| Players | 4/8 |
-| Host Name | focusdiscplinifocus |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544141707596 |
-| Players | 1/15 |
-| Host Name | No pain no gain |
+| Lobby ID | 28519544141736319 |
+| Players | 1/24 |
+| Host Name | >CroW< |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:37:13 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:37:16 |
 
 
 |  | epic_boss_fight_nightmare |
