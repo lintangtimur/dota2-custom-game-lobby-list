@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544116004796 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:39:54 |
@@ -20,42 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:45:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544117946119 |
-| Players | 7/8 |
-| Host Name | козырный уголок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:44:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544118116686 |
-| Players | 6/8 |
-| Host Name | don_pepito |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:44:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544118227385 |
-| Players | 9/15 |
-| Host Name | Drake :3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:45:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544118110057 |
-| Players | 6/15 |
-| Host Name | NDD |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:44:44 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544118666974 |
@@ -67,11 +31,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544118681330 |
-| Players | 3/8 |
-| Host Name | Krieg |
+| Lobby ID | 28519544118116686 |
+| Players | 7/8 |
+| Host Name | don_pepito |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:46:01 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:44:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544118227385 |
+| Players | 11/15 |
+| Host Name | Drake :3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:45:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544118110057 |
+| Players | 7/15 |
+| Host Name | NDD |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:44:44 |
 
 
 |  | epic_boss_fight_nightmare |
