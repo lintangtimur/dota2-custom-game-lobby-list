@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544153058442 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Sid, el indomable :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:01:51 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544154421447 |
+| Lobby ID | 28519544154411180 |
 | Players | 1/15 |
-| Host Name | Cococoke |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:04:48 |
+| Host Name | 让皮尔 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:04:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544154366509 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | JUKAL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:04:41 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544154411180 |
-| Players | 3/15 |
-| Host Name | 千キングス ☼ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:04:47 |
+| Lobby ID | 28519544154556783 |
+| Players | 1/15 |
+| Host Name | Cococoke |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:05:06 |
 
 
 |  | epic_boss_fight_nightmare |
