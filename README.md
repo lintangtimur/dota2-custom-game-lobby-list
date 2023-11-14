@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544394883602 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544394032627 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:56:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544395723981 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Yozh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:58:02 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544397056710 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Matye Bal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:59:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544397819029 |
+| Players | 2/8 |
+| Host Name | Clown1k |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:00:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544397900773 |
+| Players | 2/15 |
+| Host Name | Kazakura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:00:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hector Pantollana |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544395685958 |
-| Players | 1/10 |
-| Host Name | MASELANG BAYAGHARI |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:57:59 |
 
 
