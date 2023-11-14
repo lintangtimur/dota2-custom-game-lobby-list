@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544289597116 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544291435280 |
-| Players | 5/15 |
-| Host Name | GOZONE |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:40:18 |
+| Lobby ID | 28519544292358606 |
+| Players | 2/8 |
+| Host Name | Тимофей Святобоб |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:41:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544290731933 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ya 4ert |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:39:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544291948582 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:41:13 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:39:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544292000193 |
-| Players | 1/24 |
-| Host Name | Henry Cavill |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:41:18 |
+| Lobby ID | 28519544292093414 |
+| Players | 5/8 |
+| Host Name | :) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:41:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:41:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544292337117 |
+| Players | 1/10 |
+| Host Name | white light |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:41:54 |
 
 
