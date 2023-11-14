@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544079203200 |
-| Players | 1/10 |
-| Host Name | DiZyyQ |
+| Lobby ID | 28519544079424873 |
+| Players | 3/10 |
+| Host Name | MACJlEHkA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:16:49 |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:17:21 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:13:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544078879565 |
-| Players | 14/24 |
-| Host Name | StrikeD17 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:16:05 |
+| Lobby ID | 28519544079602841 |
+| Players | 1/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:17:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544075061955 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | TwentiOne |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:06:59 |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:16:25 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544079437476 |
+| Players | 2/8 |
+| Host Name | 先生 X |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:17:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544078475864 |
-| Players | 14/15 |
-| Host Name | Dushnila |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:15:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544079334335 |
-| Players | 4/10 |
-| Host Name | ASHCHE LUNA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:17:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544079424873 |
-| Players | 2/10 |
-| Host Name | MACJlEHkA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:17:21 |
+| Lobby ID | 28519544079674955 |
+| Players | 1/15 |
+| Host Name | Shuhky |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:17:55 |
 
 
 |  | epic_boss_fight_challenger |
