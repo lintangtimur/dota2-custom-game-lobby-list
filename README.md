@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544284761089 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:28:26 |
@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:28:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544284074804 |
-| Players | 9/10 |
-| Host Name | Dick Iverson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:27:13 |
+| Lobby ID | 28519544285175646 |
+| Players | 2/8 |
+| Host Name | Andrysha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:29:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544285178164 |
+| Players | 1/15 |
+| Host Name | СХИК2 ВЫШЕЛ!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:29:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544285246288 |
+| Players | 3/15 |
+| Host Name | САСЬВА |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:29:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544284775139 |
+| Players | 3/5 |
+| Host Name | nurgazhai88 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:28:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:27:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544284775139 |
-| Players | 3/5 |
-| Host Name | nurgazhai88 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:28:28 |
 
 
