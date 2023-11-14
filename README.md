@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544090679444 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ᴍʀ ☃☂✈ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:43:04 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544091807101 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | VITO CORLEONE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:45:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544091707207 |
-| Players | 2/10 |
-| Host Name | ЖИВОТНОЕ ZXC 1000-7 |
+| Lobby ID | 28519544092102157 |
+| Players | 4/15 |
+| Host Name | sudo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:45:23 |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:46:16 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mikey |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:45:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544088234150 |
-| Players | 9/10 |
-| Host Name | Submissive and Gankable |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:37:34 |
 
 
 |  | epic_boss_fight_nightmare |
