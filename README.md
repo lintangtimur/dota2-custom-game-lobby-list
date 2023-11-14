@@ -5,28 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544215733452 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544236429791 |
-| Players | 6/8 |
-| Host Name | Airo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:59:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544235361218 |
-| Players | 6/10 |
-| Host Name | PINGA CHUECA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:57:37 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544236227825 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:59:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544237237078 |
+| Players | 1/8 |
+| Host Name | pick pudge=mother died |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544237232805 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544237105115 |
+| Lobby ID | 28519544237233137 |
 | Players | 1/15 |
-| Host Name | かなり正気のピエロ |
+| Host Name | ree3d |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:01:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:56:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544236950193 |
-| Players | 1/5 |
-| Host Name | H3yter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:00:43 |
+| Lobby ID | 28519544236496977 |
+| Players | 9/10 |
+| Host Name | Lose modo show |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:59:49 |
 
 
 |  | epic_boss_fight_nightmare |
