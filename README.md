@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544029647855 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Daantz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544030086804 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Murzabood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:15:08 |
@@ -56,42 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:09:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544030026535 |
-| Players | 7/8 |
-| Host Name | P-JACK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:14:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544029761042 |
-| Players | 7/8 |
-| Host Name | CHILINGUS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:14:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544027936338 |
-| Players | 5/8 |
-| Host Name | OrlyOMG |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:09:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544030172902 |
-| Players | 6/10 |
-| Host Name | LeonAIdus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:15:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544030205624 |
@@ -99,5 +63,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Order of Melchizedek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:15:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544030172902 |
+| Players | 9/10 |
+| Host Name | LeonAIdus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:15:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544027936338 |
+| Players | 7/8 |
+| Host Name | OrlyOMG |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:09:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544030467400 |
+| Players | 1/10 |
+| Host Name | Next |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:16:04 |
 
 
