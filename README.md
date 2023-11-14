@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544066441546 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:45:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544071268753 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Cever |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:57:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544072558703 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | PTS ENJOYER) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:49 |
