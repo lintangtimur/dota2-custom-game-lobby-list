@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544179356113 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:59:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544179137462 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | kura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:59:21 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544178203035 |
-| Players | 5/10 |
-| Host Name | Moises Mode UHC |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:57:15 |
+| Lobby ID | 28519544179936279 |
+| Players | 8/10 |
+| Host Name | SITH ♥THE ACHIEVEMENT HUNTER♥ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:01:15 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544179720351 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Scrowney2 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:00:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544179744148 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:00:48 |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:00:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544179794558 |
-| Players | 1/8 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:00:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544179936279 |
-| Players | 2/10 |
-| Host Name | SITH ♥THE ACHIEVEMENT HUNTER♥ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:01:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544177262246 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | turnOver! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:55:09 |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544179079038 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | comendable men |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:59:13 |
