@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544133047309 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:18:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544133090998 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:18:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544135945554 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Rasputin |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:25:06 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544131914511 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:16:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544135872473 |
-| Players | 4/8 |
-| Host Name | Estoy en Definición (79.5 kg) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:24:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544135472512 |
-| Players | 2/8 |
-| Host Name | Scrowney2 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:24:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544135907058 |
-| Players | 1/10 |
-| Host Name | ...HeRmEssss |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:25:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:25:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544135918325 |
-| Players | 1/15 |
-| Host Name | 爪乇G卂ㄒ尺0几 :-< |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:25:03 |
+| Lobby ID | 28519544135472512 |
+| Players | 4/8 |
+| Host Name | Scrowney2 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:24:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544136042040 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:25:18 |
 
 
 |  | epic_boss_fight_normal |
