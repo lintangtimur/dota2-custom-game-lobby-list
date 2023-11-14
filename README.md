@@ -32,18 +32,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544161534915 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:20:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544163413523 |
-| Players | 1/15 |
-| Host Name | 爪乇G卂ㄒ尺0几 :-< |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:24:16 |
+| Lobby ID | 28519544163492343 |
+| Players | 5/8 |
+| Host Name | Maliketh La Hoja Negra |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:24:26 |
 
 
