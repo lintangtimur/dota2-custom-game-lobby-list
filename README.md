@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544151984156 |
-| Players | 12/15 |
-| Host Name | Dota 2 Groomologist |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:59:29 |
+| Lobby ID | 28519544153573745 |
+| Players | 2/15 |
+| Host Name | Nessper |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:02:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 12:00:07 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544153604128 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:03:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544153275122 |
@@ -36,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:02:19 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28519544153628372 |
+| Players | 1/7 |
+| Host Name | Дима_2003 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:03:05 |
 
 
