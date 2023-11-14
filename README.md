@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544029647855 |
-| Players | 4/24 |
+| Players | 12/24 |
 | Host Name | Daantz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544029419263 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Entrenadors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:13:33 |
@@ -50,46 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544027784965 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Balan Sarroula |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:09:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544029372917 |
-| Players | 1/8 |
-| Host Name | ▼userblod▼ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:13:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544029335154 |
-| Players | 7/8 |
-| Host Name | AbouCoco |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:13:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544029739293 |
-| Players | 5/15 |
-| Host Name | HwH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:14:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544029747602 |
-| Players | 1/8 |
-| Host Name | RYUK |
+| Lobby ID | 28519544029404823 |
+| Players | 14/15 |
+| Host Name | Datedi |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:14:18 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:13:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:14:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544029741788 |
-| Players | 1/10 |
-| Host Name | Harry Potter |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:14:17 |
+| Lobby ID | 28519544027936338 |
+| Players | 6/8 |
+| Host Name | OrlyOMG |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:09:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544030026535 |
+| Players | 1/8 |
+| Host Name | P-JACK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:14:59 |
 
 
