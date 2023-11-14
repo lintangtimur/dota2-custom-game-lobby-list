@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544126741652 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Mikan Tsumiki |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:04:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544130655126 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | no hables toy tite |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:13:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544129660144 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | turf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:11:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544131734166 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:15:51 |
