@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544137951478 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 617 agi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:29:21 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544140688992 |
 | Players | 1/8 |
-| Host Name | писяпоп |
+| Host Name | Isagi Yoichi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:35:04 |
 
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544140316725 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:34:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544140567736 |
-| Players | 1/8 |
-| Host Name | ヤマト |
+| Lobby ID | 28519544140824440 |
+| Players | 4/10 |
+| Host Name | Khalid Kashimiri |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:34:49 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:35:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544139430382 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544140101935 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | Ajax |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544139861131 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:21 |
@@ -85,26 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544140807303 |
-| Players | 6/8 |
-| Host Name | Arthurmenos |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544140824440 |
-| Players | 2/10 |
-| Host Name | Khalid Kashimiri |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:21 |
+| Lobby ID | 28519544141012091 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:35:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544136856674 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:27:02 |
