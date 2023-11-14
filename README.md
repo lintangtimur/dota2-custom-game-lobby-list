@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544332235008 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Buddha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:45:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544331175823 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Tanıdık |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:43:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544328548186 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:39:59 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:45:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544330926862 |
-| Players | 8/10 |
-| Host Name | my heart doesn't exist |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:43:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544332447173 |
@@ -92,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:45:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544331798615 |
-| Players | 7/8 |
-| Host Name | </> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:44:31 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544330764878 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | OID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:43:05 |
@@ -122,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544332650672 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:45:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544332939052 |
+| Players | 1/5 |
+| Host Name | Пиджак |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:46:05 |
 
 
