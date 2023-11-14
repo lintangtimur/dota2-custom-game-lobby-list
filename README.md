@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544141190868 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | DisMoral1ty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:36:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544141012091 |
-| Players | 5/8 |
-| Host Name | El gato con botas |
+| Lobby ID | 28519544141843114 |
+| Players | 1/24 |
+| Host Name | >KhoRup..-will< |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:45 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:37:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,40 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:34:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544140824440 |
-| Players | 7/10 |
-| Host Name | Khalid Kashimiri |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544139430382 |
-| Players | 7/10 |
-| Host Name | flocos |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544141415595 |
-| Players | 2/8 |
-| Host Name | писяпоп |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:36:35 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544141736319 |
-| Players | 1/24 |
+| Players | 10/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:37:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544142056718 |
+| Players | 4/15 |
+| Host Name | Machin :3! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:37:57 |
 
 
 |  | epic_boss_fight_nightmare |
