@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544066441546 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:45:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544071749231 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:58:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544072468853 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Страшнеслав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544071268753 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Cever |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:57:35 |
@@ -65,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:00:49 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544072654480 |
+| Players | 4/15 |
+| Host Name | Yatonto |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:01:03 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544072641410 |
+| Lobby ID | 28519544072659117 |
 | Players | 1/10 |
-| Host Name | Filipo |
+| Host Name | Slyrak |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:01:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544072687048 |
+| Players | 1/8 |
+| Host Name | ´´Eden.*Pavard* |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:01:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544072709681 |
+| Players | 1/10 |
+| Host Name | Drews Almighty |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:01:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:01:12 |
 
 
 |  | epic_boss_fight_nightmare |
