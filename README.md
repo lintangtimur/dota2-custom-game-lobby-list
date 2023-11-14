@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544123674754 |
-| Players | 7/8 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:57:29 |
+| Lobby ID | 28519544125826352 |
+| Players | 2/10 |
+| Host Name | BYSTHOR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:02:31 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544124700813 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | Tyler985 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:59:49 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544125651250 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Junya Watanabe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:02:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544124136769 |
-| Players | 11/15 |
-| Host Name | Ghost in The Shell |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:58:32 |
+| Lobby ID | 28519544125988548 |
+| Players | 1/8 |
+| Host Name | Smash es mi pastor |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:02:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:00:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544125764254 |
+| Players | 6/8 |
+| Host Name | manuel tu rector de chc |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:02:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544125936047 |
+| Players | 1/8 |
+| Host Name | Yair |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:02:46 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544124850854 |
-| Players | 14/15 |
-| Host Name | jtadek |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:00:11 |
+| Lobby ID | 28519544126007302 |
+| Players | 2/15 |
+| Host Name | El gatito erotico |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:02:56 |
 
 
 |  | epic_boss_fight_nightmare |
