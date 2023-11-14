@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544049392036 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | OrlyOMG |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:03:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544049096575 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:02:44 |
@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:02:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544049597251 |
-| Players | 1/15 |
-| Host Name | 太行以西吾之乡 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:03:58 |
+| Lobby ID | 28519544049654776 |
+| Players | 1/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:04:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544049649391 |
+| Players | 1/8 |
+| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:04:05 |
 
 
