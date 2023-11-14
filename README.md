@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544151582679 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:58:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544150966973 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:57:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544146710345 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:54 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544151703779 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | new era |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:58:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544151855318 |
+| Players | 1/10 |
+| Host Name | Eren Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:59:12 |
 
 
