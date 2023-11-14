@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544203799862 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | O'Scully |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:53:45 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544203320269 |
-| Players | 9/10 |
-| Host Name | Tanzende Schatten |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:52:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544204266228 |
-| Players | 5/8 |
-| Host Name | ЭТИЛОВЫЙФУНФУРЬЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:54:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28519544204769115 |
 | Players | 4/10 |
 | Host Name | peredozzz? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:55:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544204266228 |
+| Players | 7/8 |
+| Host Name | ЭТИЛОВЫЙФУНФУРЬЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:54:44 |
 
 
 |  | epic_boss_fight_nightmare |
