@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544103110126 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:11:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544106339170 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544106616902 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:50 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544107202114 |
-| Players | 2/10 |
-| Host Name | Touhou |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:20:07 |
+| Lobby ID | 28519544103224923 |
+| Players | 7/10 |
+| Host Name | sdhij9okpmara15 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:11:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:20:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544106356027 |
-| Players | 14/15 |
-| Host Name | Vlad Pitoon |
+| Lobby ID | 28519544107485021 |
+| Players | 2/10 |
+| Host Name | Touhou |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:18:15 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:20:45 |
 
 
 |  | epic_boss_fight_nightmare |
