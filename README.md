@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544100554322 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:05:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544100637315 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:05:29 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:02:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544100392476 |
-| Players | 22/24 |
-| Host Name | 1223 |
+| Lobby ID | 28519544100924269 |
+| Players | 14/15 |
+| Host Name | ✞CACHERITO DE SUPERWES✞ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:04:56 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:06:08 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon Baboon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:05:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544100924269 |
-| Players | 13/15 |
-| Host Name | ✞CACHERITO DE SUPERWES✞ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:06:08 |
 
 
 |  | epic_boss_fight_normal |
