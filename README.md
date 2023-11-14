@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544311138598 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | TopSy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:14:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544310473696 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Nest |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544307205220 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ELPENETRADOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:14:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544311873431 |
+| Players | 1/15 |
+| Host Name | sprklngwtr Nene KATE | 蘇打水 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:15:17 |
 
 
