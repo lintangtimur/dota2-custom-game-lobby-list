@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544196649007 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:38:22 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544198755355 |
-| Players | 2/8 |
-| Host Name | El Ohanas |
+| Players | 1/8 |
+| Host Name | Scrowney2 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:42:55 |
 
@@ -59,28 +59,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544198596425 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:42:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544199460159 |
+| Players | 6/10 |
+| Host Name | タレント |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:44:27 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544199452344 |
+| Lobby ID | 28519544199630764 |
 | Players | 1/15 |
-| Host Name | Tenryuu Kai |
+| Host Name | [W]hy so [S]erious |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:44:26 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:44:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544199460159 |
+| Lobby ID | 28519544198093547 |
+| Players | 8/10 |
+| Host Name | :Xaiko midaX:) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:41:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544199707501 |
+| Players | 1/15 |
+| Host Name | E.  Crybaby |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:44:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544199716504 |
 | Players | 2/10 |
-| Host Name | タレント |
+| Host Name | РОССИЯ МАТЬ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:44:27 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:45:00 |
 
 
 |  | epic_boss_fight_nightmare |
