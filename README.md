@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544317125096 |
-| Players | 2/10 |
-| Host Name | sxxr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:23:30 |
+| Lobby ID | 28519544318079767 |
+| Players | 6/10 |
+| Host Name | #idinaxyi MaLo9_ToP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:24:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544315579255 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tanıdık |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:21:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544318079767 |
-| Players | 4/10 |
-| Host Name | #idinaxyi MaLo9_ToP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:24:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544318129147 |
-| Players | 2/8 |
-| Host Name | deco27 fan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544318117861 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Banka |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:25:00 |
