@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544026831830 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | BanBan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:07:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544027028683 |
-| Players | 7/10 |
-| Host Name | ℃☼乙ð₳干عŁҌ ( ͡ᵔ. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:07:42 |
+| Lobby ID | 28519544027232771 |
+| Players | 3/8 |
+| Host Name | Rainz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:08:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544026648021 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Buy Dagon to ks plz ty |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:06:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544026981372 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | YGBN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:07:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544026982315 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | ositotao2 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:07:35 |
@@ -101,30 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:08:01 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544025289819 |
+| Players | 22/24 |
+| Host Name | Kbeza |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:03:23 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544027197071 |
+| Lobby ID | 28519544027224071 |
 | Players | 1/10 |
-| Host Name | Natso - |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:08:07 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:08:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544027233812 |
+| Players | 1/10 |
+| Host Name | Asmoday Eternal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:08:13 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544026472809 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Адик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:06:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544027142601 |
-| Players | 1/10 |
-| Host Name | Гадкий Олег |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:07:59 |
 
 
