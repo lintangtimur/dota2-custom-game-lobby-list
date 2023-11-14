@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544035222533 |
-| Players | 8/10 |
-| Host Name | Apagón Revolucionario |
+| Lobby ID | 28519544035963014 |
+| Players | 9/15 |
+| Host Name | SaltDaddy |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:54 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544034650695 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544035540549 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544035113214 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:38 |
@@ -99,33 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:29:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544035963014 |
-| Players | 5/15 |
-| Host Name | SaltDaddy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:29:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544036087718 |
-| Players | 6/8 |
-| Host Name | вечный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:30:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544036167875 |
-| Players | 1/15 |
-| Host Name | 月落临城池 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:30:15 |
 
 
 |  | epic_boss_fight_nightmare |
