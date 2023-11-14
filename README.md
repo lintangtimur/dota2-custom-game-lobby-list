@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544319320053 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Bubbles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:26:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544321692181 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | TheGreatExodius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:30:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544320987074 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | GOZONE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:29:15 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:31:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544323016921 |
-| Players | 6/8 |
-| Host Name | Legend[S.L.L] |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:32:12 |
 
 
 |  | ot3_necropolis_ffa |
