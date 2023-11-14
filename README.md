@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544230881182 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:48:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544228743468 |
-| Players | 1/15 |
-| Host Name | Puri-puri Prisoner |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:44:36 |
+| Lobby ID | 28519544231424968 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:49:53 |
 
 
 |  | ot3_desert_octet |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544230650249 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | BETA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:48:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544231443058 |
-| Players | 1/24 |
-| Host Name | mode: TI7 boon hock miracle- |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:49:55 |
+| Lobby ID | 28519544231539896 |
+| Players | 2/10 |
+| Host Name | Moises Mode UHC |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:50:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544230697242 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nilales |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:48:27 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _Cloud_ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:49:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544231424968 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:49:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544231539896 |
-| Players | 2/10 |
-| Host Name | Moises Mode UHC |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:50:07 |
 
 
 |  | epic_boss_fight_nightmare |
