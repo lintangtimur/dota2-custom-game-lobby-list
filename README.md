@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544254445356 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Deni |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:34:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544254029940 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:33:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544254847142 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:34:45 |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544254669897 |
-| Players | 12/15 |
-| Host Name | dont pick void in my team |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:34:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28519544254757233 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | CyberPank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:34:35 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:32:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544255038841 |
+| Players | 1/10 |
+| Host Name | Desolator. |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:35:06 |
 
 
