@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544133978993 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Gordy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:20:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544133047309 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:18:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544134378841 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 鲁子敬 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:21:45 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544134585397 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 9 - 5 job still beat u |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:22:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544134740580 |
-| Players | 1/5 |
-| Host Name | ROMARIO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:22:33 |
 
 
