@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544452333811 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:48:51 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544453151946 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Mike Robe Eenis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:49:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544437942874 |
-| Players | 7/10 |
-| Host Name | froggrof |
+| Lobby ID | 28519544455140642 |
+| Players | 1/8 |
+| Host Name | Zionists Slayer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:36:45 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:51:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544444918686 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | PRIME TAKERS MVP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:42:40 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544452035199 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | qaz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:48:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544450070004 |
-| Players | 5/8 |
-| Host Name | Rito |
+| Lobby ID | 28519544455068172 |
+| Players | 1/15 |
+| Host Name | Meat Eye |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:46:57 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:51:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544395723981 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Hevil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:58:02 |
