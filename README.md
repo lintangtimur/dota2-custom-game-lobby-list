@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:09:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544407655784 |
-| Players | 2/15 |
-| Host Name | UNLUCK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:09:42 |
+| Lobby ID | 28519544408108507 |
+| Players | 5/8 |
+| Host Name | саша ракета228 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:10:07 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544407581182 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | кожаный механик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:09:38 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544392966861 |
-| Players | 10/15 |
-| Host Name | Detelinara{RUBIN} |
+| Lobby ID | 28519544395723981 |
+| Players | 8/15 |
+| Host Name | Castor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:55:13 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:58:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544408092414 |
+| Players | 1/24 |
+| Host Name | OneEyeKing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:10:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,12 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:09:34 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544407894847 |
-| Players | 1/10 |
-| Host Name | numbness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:09:55 |
+| Lobby ID | 28519544408245484 |
+| Players | 1/5 |
+| Host Name | iT.ChiFox |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:10:15 |
 
 
