@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:42:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544378779579 |
-| Players | 11/15 |
-| Host Name | Mahrtas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:40:33 |
+| Lobby ID | 28519544382319009 |
+| Players | 1/8 |
+| Host Name | БОГ ДОТЫ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:44:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544381162785 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | 百变小樱桃 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:43:02 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | senkinarr |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:37:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544380375371 |
-| Players | 7/8 |
-| Host Name | Argor |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:42:13 |
 
 
 |  | ot3_gardens_duo |
