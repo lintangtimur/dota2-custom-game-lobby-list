@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544123674754 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:57:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544123877219 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | DC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:57:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544124850854 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | jtadek |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:00:11 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544124700813 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Tyler985 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:59:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544125297002 |
+| Players | 4/8 |
+| Host Name | Estoy en Definición (79.5 kg) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:01:17 |
 
 
 |  | epic_boss_fight_nightmare |
