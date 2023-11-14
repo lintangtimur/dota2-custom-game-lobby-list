@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544209377767 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:05:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544210438702 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:07:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544210434461 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | lerbrim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:07:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544211150058 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Nexro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:09:04 |
@@ -69,17 +69,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544211178572 |
 | Players | 1/15 |
-| Host Name | Ceviche.pe |
+| Host Name | Alan Garcia |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:09:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544211179412 |
-| Players | 1/15 |
-| Host Name | 爪乇G卂ㄒ尺0几 :-< |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:09:07 |
 
 
