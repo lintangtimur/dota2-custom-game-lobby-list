@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544035222533 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Apagón Revolucionario |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:54 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544034992370 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | larry capolla 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544035203021 |
-| Players | 1/10 |
-| Host Name | Frayalalal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:51 |
+| Lobby ID | 28519544035674866 |
+| Players | 1/15 |
+| Host Name | RuBeN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:29:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544035113214 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:38 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:28:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544034633985 |
+| Players | 6/8 |
+| Host Name | Gadol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:26:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544035126559 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:39 |
