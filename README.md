@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:26:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544220241119 |
-| Players | 4/10 |
-| Host Name | Sex??? |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:27:37 |
+| Lobby ID | 28519544220453428 |
+| Players | 1/8 |
+| Host Name | 346515 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:28:03 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544217023401 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | TIDEHUNTER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:21:05 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544220326441 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | zxc king tilted ghoul ss+ abuzer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:27:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544220453428 |
-| Players | 1/8 |
-| Host Name | 346515 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:28:03 |
+| Lobby ID | 28519544220642229 |
+| Players | 1/10 |
+| Host Name | btterdo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:28:26 |
 
 
