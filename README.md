@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544180807860 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ASURA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:03:18 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:00:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544181125940 |
+| Players | 1/8 |
+| Host Name | autobots gameplay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:04:03 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544179079038 |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544181064795 |
+| Lobby ID | 28519544181172684 |
 | Players | 1/10 |
 | Host Name | 起个名真纠结 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:03:54 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:04:10 |
 
 
