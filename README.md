@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544062163429 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | mutterfickeramt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:35:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544062356750 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Macho Alfa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:35:38 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:36:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544059924770 |
-| Players | 9/10 |
-| Host Name | takina inoue is not my wife |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:29:38 |
+| Lobby ID | 28519544060988433 |
+| Players | 14/15 |
+| Host Name | TSD.Dean |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:32:18 |
 
 
