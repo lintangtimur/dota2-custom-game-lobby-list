@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544271917311 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | D: |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:05:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544271047850 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Torstol |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544273091465 |
-| Players | 7/8 |
-| Host Name | penrijuleпопукал |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:07:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28519544271109885 |
 | Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544272801207 |
+| Players | 8/10 |
+| Host Name | MeekyWard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:07:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544269079014 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ็ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:00:33 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544272895276 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:07:20 |
