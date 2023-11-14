@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544340623734 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | otGod. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544342686664 |
-| Players | 9/10 |
-| Host Name | Op |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:59:02 |
+| Lobby ID | 28519544344415936 |
+| Players | 1/8 |
+| Host Name | Rae |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:01:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544343973379 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Nocomments.no |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:00:41 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:01:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544344415936 |
-| Players | 1/8 |
-| Host Name | Rae |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:01:14 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544331444952 |
@@ -104,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544344124665 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | Eluneclaw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:00:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544344561011 |
+| Players | 2/10 |
+| Host Name | Aimer-|` |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:01:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544344559465 |
+| Players | 1/5 |
+| Host Name | Thara Frog |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:01:25 |
 
 
