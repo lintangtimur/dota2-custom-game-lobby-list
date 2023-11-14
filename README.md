@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544273863484 |
-| Players | 1/24 |
-| Host Name | Degoii Sz |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:09:02 |
+| Lobby ID | 28519544273928702 |
+| Players | 2/15 |
+| Host Name | Borchic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:09:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544271047850 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Torstol |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544273750261 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | SANTOSO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:08:50 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 牛排三分熟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:08:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544273928702 |
-| Players | 1/15 |
-| Host Name | Borchic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:09:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544273925337 |
-| Players | 1/15 |
-| Host Name | Bloodscourge |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:09:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ็ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:00:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544272895276 |
-| Players | 9/10 |
-| Host Name | Backdoor Enjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:07:20 |
 
 
