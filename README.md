@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544215733452 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544221944499 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | РАКЕТНЫЙ ЗАААЛП |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:31:05 |
@@ -56,37 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:26:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544222662351 |
+| Players | 3/15 |
+| Host Name | Messi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:32:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544222354779 |
+| Lobby ID | 28519544222746002 |
 | Players | 1/8 |
 | Host Name | Rayug4 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:31:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544222540843 |
-| Players | 1/15 |
-| Host Name | Messi |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:32:18 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:32:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544222550402 |
-| Players | 2/8 |
-| Host Name | Тимофей Святобоб |
+| Lobby ID | 28519544221174983 |
+| Players | 6/8 |
+| Host Name | 111 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:32:19 |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:29:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544220685819 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Pinus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:28:31 |
