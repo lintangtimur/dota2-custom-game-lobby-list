@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:48:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544067275628 |
-| Players | 1/24 |
-| Host Name | PicoHBK |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:47:47 |
+| Lobby ID | 28519544067650568 |
+| Players | 5/15 |
+| Host Name | Walter-sama |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:48:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544066905960 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | mutterfickeramt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:46:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544066894270 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:46:51 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:48:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544067650568 |
-| Players | 5/15 |
-| Host Name | Walter-sama |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:48:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544064030486 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544066805807 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Big Poppa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:46:38 |
