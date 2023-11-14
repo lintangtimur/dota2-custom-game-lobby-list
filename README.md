@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544289597116 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544294207120 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:12 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Эрнесто Мавроди |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:47:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544296207948 |
+| Players | 3/15 |
+| Host Name | Bubbles |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:48:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544294402961 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MIMA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544296063493 |
-| Players | 1/5 |
-| Host Name | mqiosex |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:48:27 |
 
 
