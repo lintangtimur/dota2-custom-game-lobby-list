@@ -50,37 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544335734411 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Illusion |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:49:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544336326946 |
-| Players | 6/8 |
-| Host Name | капитан рвоты |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:50:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544336440215 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:50:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544336437658 |
-| Players | 1/15 |
-| Host Name | PARLIAMENT |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:50:51 |
+| Lobby ID | 28519544336575450 |
+| Players | 3/10 |
+| Host Name | Holoバカ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544336562404 |
+| Players | 1/10 |
+| Host Name | Ломаю Лица |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jewish |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:49:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544336582635 |
+| Players | 1/5 |
+| Host Name | 为了希尔瓦娜斯的荣耀 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:51:02 |
 
 
