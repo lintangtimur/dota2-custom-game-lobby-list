@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544116004796 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:39:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544118666974 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Shomas Telby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:45:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544118858643 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | castillo TERRUCONES |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:46:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:47:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544118110057 |
-| Players | 13/15 |
-| Host Name | NDD |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:44:44 |
+| Lobby ID | 28519544119186403 |
+| Players | 2/10 |
+| Host Name | not a player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:47:10 |
 
 
 |  | ot3_gardens_duo |
@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:46:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544119186403 |
-| Players | 2/10 |
-| Host Name | not a player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:47:10 |
+| Lobby ID | 28519544119354946 |
+| Players | 1/15 |
+| Host Name | Gilgalad the Gigachad |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:47:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544116938303 |
-| Players | 1/10 |
-| Host Name | Illusorio |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:42:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544117635316 |
-| Players | 8/10 |
-| Host Name | kesatria kanterbury |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:43:39 |
+| Lobby ID | 28519544119466367 |
+| Players | 1/8 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:47:47 |
 
 
