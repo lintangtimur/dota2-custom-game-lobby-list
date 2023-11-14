@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544164676416 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:27:03 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544164692391 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:27:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544164383758 |
-| Players | 7/8 |
-| Host Name | Chef Nomi |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:26:24 |
+| Lobby ID | 28519544166225992 |
+| Players | 9/10 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:30:27 |
 
 
 |  | ot3_gardens_duo |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544165914605 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ROTA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:29:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544166225992 |
-| Players | 8/10 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:30:27 |
 
 
 |  | epic_boss_fight_nightmare |
