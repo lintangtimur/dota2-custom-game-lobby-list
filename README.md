@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544340622108 |
-| Players | 6/8 |
-| Host Name | n00b |
+| Lobby ID | 28519544341108799 |
+| Players | 5/10 |
+| Host Name | Tanzende Schatten |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:56:22 |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:57:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544340623734 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | otGod. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544340756795 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | USB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:33 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anton.V |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544341109785 |
-| Players | 6/8 |
-| Host Name | Legend[S.L.L] |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:57:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544341108799 |
-| Players | 4/10 |
-| Host Name | Tanzende Schatten |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:57:00 |
 
 
 |  | epic_boss_fight_normal |
