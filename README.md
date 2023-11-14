@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544394883602 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:11 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544393895449 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 76561199152408880 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544396659187 |
-| Players | 1/15 |
-| Host Name | AMBATUKUM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:58:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544396667201 |
+| Lobby ID | 28519544396828068 |
 | Players | 1/8 |
-| Host Name | Dildo shwaggins |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:59:00 |
+| Host Name | The Last INCA |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:59:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544395442767 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hector Pantollana |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:45 |
