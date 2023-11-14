@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544347605385 |
-| Players | 9/10 |
-| Host Name | Sucker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:05:14 |
+| Lobby ID | 28519544350664655 |
+| Players | 1/8 |
+| Host Name | Menace2Society |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:09:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544348796166 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Патриарх героина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:06:43 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:07:59 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544347582877 |
-| Players | 22/24 |
-| Host Name | Jing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:05:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544349679713 |
-| Players | 11/15 |
-| Host Name | I can do it |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:07:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544349183202 |
-| Players | 7/8 |
-| Host Name | pathetic. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:07:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544350597059 |
@@ -94,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544350653930 |
-| Players | 1/15 |
-| Host Name | 蟑螂恶爸 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:09:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544350664655 |
-| Players | 1/8 |
-| Host Name | Menace2Society |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:09:02 |
+| Lobby ID | 28519544349679713 |
+| Players | 13/15 |
+| Host Name | I can do it |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:07:49 |
 
 
 |  | epic_boss_fight_normal |
