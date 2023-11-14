@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544285178164 |
-| Players | 14/15 |
-| Host Name | СХИК2 ВЫШЕЛ!!! |
+| Lobby ID | 28519544286495745 |
+| Players | 3/10 |
+| Host Name | e9RHpG - UA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:29:11 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:31:32 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:31:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544286495745 |
-| Players | 3/10 |
-| Host Name | e9RHpG - UA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:31:32 |
+| Lobby ID | 28519544286886727 |
+| Players | 1/15 |
+| Host Name | /// |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:32:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544286913603 |
+| Players | 1/8 |
+| Host Name | ИВанПотныеЯйца |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:32:16 |
 
 
 |  | epic_boss_fight_challenger |
