@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544502910762 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ELPENETRADOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:28:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544486575559 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | OD Spammer EZ MID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:16:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544490118242 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:18:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544507108020 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | NEeshkereee |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:31:53 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544501395722 |
-| Players | 3/15 |
-| Host Name | KOSTIK VOLKOV |
+| Players | 2/15 |
+| Host Name | Makar_10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:27:33 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544490870247 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Raketa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:19:30 |
@@ -162,6 +162,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 22_elo |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:32:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544505391820 |
+| Players | 9/10 |
+| Host Name | Bitch, I'm Already Dead |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:30:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544440675977 |
+| Players | 3/10 |
+| Host Name | АЛЁНА ДАСТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544498173421 |
+| Players | 3/8 |
+| Host Name | reyoto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:25:08 |
 
 
 |  | epic_boss_fight_nightmare |
