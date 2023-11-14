@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544286403521 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | mode: TI7 boon hock miracle- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:31:22 |
@@ -31,65 +31,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544271109885 |
-| Players | 1/8 |
-| Host Name | Peon Redfield |
+| Lobby ID | 28519544289441958 |
+| Players | 4/8 |
+| Host Name | Yejisaur |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:36:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544288555522 |
-| Players | 7/10 |
-| Host Name | Балдежный Пердеж |
+| Lobby ID | 28519544289270917 |
+| Players | 1/15 |
+| Host Name | pechke |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:36:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544289312972 |
+| Players | 2/15 |
+| Host Name | BYVSHIY HATER RLARLA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:35:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544288378983 |
-| Players | 6/8 |
-| Host Name | radbix |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:34:52 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:36:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544284661213 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Positive mental attitude |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:28:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544289029200 |
-| Players | 1/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:36:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544289089097 |
-| Players | 1/15 |
-| Host Name | Бобёр |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:36:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544289126355 |
-| Players | 2/8 |
-| Host Name | ИВанПотныеЯйца |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:36:12 |
+| Lobby ID | 28519544289446164 |
+| Players | 4/10 |
+| Host Name | today PMA dota |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:36:46 |
 
 
 |  | epic_boss_fight_challenger |
@@ -112,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544288764661 |
-| Players | 1/10 |
-| Host Name | MASELANG BAYAGHARI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:35:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544288906153 |
-| Players | 1/10 |
+| Lobby ID | 28519544289193229 |
+| Players | 2/10 |
 | Host Name | Carry me pls |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:35:48 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:36:19 |
 
 
