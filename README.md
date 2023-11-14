@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544137951478 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | 617 agi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:29:21 |
@@ -38,22 +38,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:34:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544141736319 |
-| Players | 13/24 |
-| Host Name | >CroW< |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:37:16 |
+| Lobby ID | 28519544142306520 |
+| Players | 4/15 |
+| Host Name | KappaRoss |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:38:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544142228716 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:38:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544142235813 |
+| Players | 1/10 |
+| Host Name | Хьюстон я проблем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:38:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544139430382 |
+| Players | 5/10 |
+| Host Name | flocos |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544142498889 |
+| Players | 2/10 |
+| Host Name | anethema |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:38:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544141736319 |
+| Players | 23/24 |
+| Host Name | >CroW< |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:37:16 |
 
 
 |  | epic_boss_fight_nightmare |
