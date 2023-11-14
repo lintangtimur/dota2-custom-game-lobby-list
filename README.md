@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544462506158 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | カフェイン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:57:12 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544462409524 |
-| Players | 7/15 |
-| Host Name | combowombotop |
+| Lobby ID | 28519544462288386 |
+| Players | 6/15 |
+| Host Name | SAYm00N |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:57:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:57:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544444918686 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Silky Johnson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:42:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544440675977 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:39:05 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:55:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544455919830 |
-| Players | 12/15 |
-| Host Name | Ratuti |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:51:49 |
+| Lobby ID | 28519544463982713 |
+| Players | 1/8 |
+| Host Name | 346515 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:58:24 |
 
 
 |  | ot3_gardens_duo |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544461058296 |
-| Players | 2/15 |
-| Host Name | ШИШУЛЯ |
+| Players | 3/15 |
+| Host Name | B |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:56:01 |
 
@@ -130,46 +130,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544393895449 |
-| Players | 9/15 |
-| Host Name | sEMJON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
+| Lobby ID | 28519544464239477 |
+| Players | 1/15 |
+| Host Name | MiserableRabbit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:58:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544463982713 |
-| Players | 1/8 |
-| Host Name | 346515 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:58:24 |
+| Lobby ID | 28519544464735262 |
+| Players | 3/8 |
+| Host Name | живая мертвичина |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:59:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544457116633 |
-| Players | 9/10 |
-| Host Name | Dysfun |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:52:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544459604860 |
-| Players | 8/10 |
-| Host Name | SuperBoneHack |
+| Lobby ID | 28519544464602787 |
+| Players | 1/10 |
+| Host Name | Heen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:54:50 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:58:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544463914077 |
-| Players | 1/5 |
-| Host Name | <ˢᵖᵒᵏᵒʸⁿiᶜʰ> |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:58:21 |
+| Lobby ID | 28519544464673871 |
+| Players | 1/10 |
+| Host Name | Super Saiyan Ultra Instinct |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:58:58 |
 
 
