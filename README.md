@@ -5,88 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544116004796 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:39:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544117812586 |
-| Players | 3/10 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:44:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544118288644 |
-| Players | 1/8 |
-| Host Name | Krieg |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:45:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544116794345 |
-| Players | 12/15 |
-| Host Name | граф де Генерат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:41:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544118227385 |
-| Players | 2/15 |
-| Host Name | Drake :3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:45:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544117136248 |
-| Players | 7/10 |
-| Host Name | iamIBradd™ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:42:30 |
+| Lobby ID | 28519544118494824 |
+| Players | 2/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:45:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544117946119 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | козырный уголок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:44:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544117959197 |
-| Players | 1/15 |
-| Host Name | Trell |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:44:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544115698015 |
-| Players | 8/10 |
-| Host Name | SFz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:39:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544118116686 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | don_pepito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:44:45 |
@@ -94,17 +40,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28519544118227385 |
+| Players | 9/15 |
+| Host Name | Drake :3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:45:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28519544118110057 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | NDD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:44:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544118666974 |
+| Players | 1/15 |
+| Host Name | Shomas Telby |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:45:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544118681330 |
+| Players | 3/8 |
+| Host Name | Krieg |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:46:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544116938303 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Secretary-specific |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:42:03 |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544117228295 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:42:43 |
@@ -122,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544117635316 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | kesatria kanterbury |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:43:39 |
