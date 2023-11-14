@@ -31,44 +31,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544294709927 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:46:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544297087459 |
-| Players | 2/10 |
-| Host Name | ладно |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:50:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544297318884 |
-| Players | 2/8 |
-| Host Name | Waltuh |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:50:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544297081432 |
-| Players | 1/10 |
-| Host Name | AMATERASU |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:50:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28519544297327403 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Erlon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:50:39 |
@@ -83,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:50:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544297318884 |
+| Players | 1/8 |
+| Host Name | Waltuh |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:50:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544292696838 |
@@ -95,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544294402961 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MIMA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:32 |
