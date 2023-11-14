@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544114742028 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Wookie Nipple Pinchy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:37:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544112701190 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:27 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544115153312 |
+| Lobby ID | 28519544115220221 |
 | Players | 1/8 |
-| Host Name | Mr.Lulu^^ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:37:57 |
+| Host Name | benitocamitroncote |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:38:06 |
 
 
 |  | ot3_gardens_duo |
