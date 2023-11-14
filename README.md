@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544257148737 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | I'm Milk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:59 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544258234884 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KURWOK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:40:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544257705202 |
-| Players | 8/15 |
-| Host Name | Ali Abdelaziz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:40:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544258460731 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | мазня говном |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:41:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544258767141 |
+| Players | 3/15 |
+| Host Name | МокрыйВилли |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:41:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544257581252 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Whiteney |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:39:47 |
