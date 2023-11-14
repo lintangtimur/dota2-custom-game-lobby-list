@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544126452977 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | EL DIAVLO |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:03:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544126906676 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | трахаю бухаю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:05:01 |
@@ -40,17 +40,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544126929628 |
-| Players | 1/15 |
-| Host Name | 4erepaha |
+| Lobby ID | 28519544126972054 |
+| Players | 5/15 |
+| Host Name | LA QUE TE TERMINA Y NO TE AVISA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:05:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544126969284 |
+| Players | 2/15 |
+| Host Name | Daja i Konterit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:05:04 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:05:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544127011273 |
+| Players | 1/8 |
+| Host Name | WORK WORK |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:05:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544126415655 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Odracir*MS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:03:53 |
