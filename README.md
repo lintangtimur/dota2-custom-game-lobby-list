@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544401804570 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DoNtCliCKoNThiS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:04:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544392966861 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Gamehong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:55:13 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:02:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544400889121 |
-| Players | 1/8 |
-| Host Name | Luke |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:03:15 |
+| Lobby ID | 28519544402762001 |
+| Players | 1/10 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:05:04 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544401013984 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Aon MatSir |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:03:22 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544398863106 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Flom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:01:14 |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 18:57:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544402019769 |
-| Players | 14/15 |
-| Host Name | OG.Budka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:04:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544402762001 |
-| Players | 1/10 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:05:04 |
+| Lobby ID | 28519544402951128 |
+| Players | 1/8 |
+| Host Name | Dildo shwaggins |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:05:15 |
 
 
 |  | epic_boss_fight_normal |
