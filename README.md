@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544040414049 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | animepic |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:40:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544038658500 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Gisbert of The Light |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:36:33 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:40:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544040392200 |
-| Players | 2/10 |
-| Host Name | Pudge is the main character |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:40:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544040582323 |
-| Players | 1/8 |
-| Host Name | olya petrova |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:41:21 |
+| Lobby ID | 28519544040641769 |
+| Players | 1/24 |
+| Host Name | Lolo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:41:31 |
 
 
 |  | epic_boss_fight_nightmare |
