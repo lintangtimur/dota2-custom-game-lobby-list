@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544263254247 |
-| Players | 1/15 |
-| Host Name | 9 K |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:50:05 |
+| Lobby ID | 28519544263234205 |
+| Players | 1/8 |
+| Host Name | ttw/aiwuxxq |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:50:03 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544261418304 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:46:46 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:49:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544263234205 |
-| Players | 1/8 |
-| Host Name | ttw/aiwuxxq |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:50:03 |
+| Lobby ID | 28519544263337064 |
+| Players | 4/15 |
+| Host Name | Jhek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:50:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Легендарный Жмых |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:50:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544263341200 |
+| Players | 2/10 |
+| Host Name | Dysfun |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:50:14 |
 
 
