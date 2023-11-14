@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544573417112 |
-| Players | 7/10 |
-| Host Name | Thawne |
+| Lobby ID | 28519544574276428 |
+| Players | 2/10 |
+| Host Name | Zoloft |
 | Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:20:47 |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:21:23 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544315220949 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Blackpink |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:20:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544547487442 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | LOKI PRIME |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:02:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544570610694 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Absolute Caustic Grass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:18:47 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 21:18:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544573639742 |
-| Players | 1/15 |
-| Host Name | werttcx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 21:20:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544572865266 |
@@ -99,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Νικόδημος |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 21:20:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544546832553 |
+| Players | 3/15 |
+| Host Name | can,t be stop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:01:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544574136233 |
+| Players | 1/8 |
+| Host Name | Данюсик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:21:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544574208270 |
+| Players | 4/8 |
+| Host Name | ведьмочка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 21:21:20 |
 
 
 |  | epic_boss_fight_nightmare |
