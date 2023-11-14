@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544377715310 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | C2H5OH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:39:25 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544375071714 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Over Time Kill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:36:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544375140656 |
-| Players | 9/10 |
-| Host Name | sxxr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:36:42 |
+| Lobby ID | 28519544378278977 |
+| Players | 3/8 |
+| Host Name | Gats |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544377071673 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:38:45 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544378024609 |
-| Players | 6/15 |
-| Host Name | Argor |
+| Players | 12/15 |
+| Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:39:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544378278977 |
-| Players | 3/8 |
-| Host Name | Gats |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:40:01 |
 
 
 |  | epic_boss_fight_normal |
