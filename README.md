@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544116004796 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:39:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544118666974 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Shomas Telby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:45:59 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544118858643 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | castillo TERRUCONES |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:46:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544118953362 |
-| Players | 6/8 |
-| Host Name | Mister Solidaridad |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:46:38 |
+| Lobby ID | 28519544119074940 |
+| Players | 1/15 |
+| Host Name | 0.0 |
+| Region | Unknown |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:46:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Touhou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:46:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544119074940 |
-| Players | 1/15 |
-| Host Name | 0.0 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:46:54 |
 
 
 |  | epic_boss_fight_nightmare |
