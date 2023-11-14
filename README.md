@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544237237078 |
-| Players | 2/8 |
-| Host Name | ЛЫСЫЙ |
+| Players | 1/8 |
+| Host Name | Sowa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
 
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544237232805 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544233370294 |
+| Players | 24/24 |
+| Host Name | Salival |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 14:53:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544237672516 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:02:08 |
 
 
 |  | epic_boss_fight_normal |
