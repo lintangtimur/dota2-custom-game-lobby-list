@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544171687412 |
-| Players | 9/10 |
-| Host Name | FUCK IT ALL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:42:32 |
+| Lobby ID | 28519544172334404 |
+| Players | 1/15 |
+| Host Name | ??? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:44:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544169178690 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:36:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544170710470 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:40:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544171327212 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:41:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544171962268 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Hari Seldon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:43:09 |
