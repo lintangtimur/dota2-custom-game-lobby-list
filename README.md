@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544256814368 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:22 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544257324417 |
+| Players | 2/10 |
+| Host Name | L u 4 i s t i y   P i r o j o k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:39:19 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544257109602 |
+| Lobby ID | 28519544257302724 |
 | Players | 1/15 |
 | Host Name | 斯米马赛 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:38:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:39:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544257237540 |
-| Players | 1/15 |
-| Host Name | conv1k_ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:39:09 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28519544255300531 |
-| Players | 1/7 |
-| Host Name | Damaged |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:35:35 |
+| Lobby ID | 28519544257318679 |
+| Players | 1/8 |
+| Host Name | FCD.4F |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:39:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:38:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544257223132 |
-| Players | 1/5 |
-| Host Name | FAIL DICK БОБРА |
+| Lobby ID | 28519544257330784 |
+| Players | 1/10 |
+| Host Name | Damaged |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:39:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:39:19 |
 
 
