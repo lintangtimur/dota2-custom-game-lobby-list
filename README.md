@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544340799866 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Anton.V |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544341108799 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Tanzende Schatten |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:57:00 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:57:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544341950696 |
-| Players | 1/15 |
-| Host Name | †._.bank acount._.† |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:58:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:54:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544342096912 |
+| Players | 1/5 |
+| Host Name | gachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:58:16 |
 
 
