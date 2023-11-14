@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544261456225 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Саша Яша Лава |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:46:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544261418304 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:46:46 |
@@ -47,12 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:47:18 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544261774477 |
+| Players | 2/15 |
+| Host Name | Pod DOPINGOM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:47:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544261565314 |
-| Players | 9/10 |
-| Host Name | Vhiyoulette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:47:02 |
+| Lobby ID | 28519544261733928 |
+| Players | 2/10 |
+| Host Name | Deso |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:47:20 |
 
 
