@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544168861822 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ArcaN |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:36:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544174462115 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | The nameless king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:48:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544174519681 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | GATO ACTIVADOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:48:56 |
