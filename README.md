@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544294207120 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:12 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:47:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544294925121 |
-| Players | 1/8 |
-| Host Name | КвадраРобат |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:46:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544295966232 |
-| Players | 1/8 |
-| Host Name | soft skin |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:48:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544292696838 |
@@ -95,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544294402961 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MIMA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544296063493 |
+| Players | 1/5 |
+| Host Name | mqiosex |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:48:27 |
 
 
