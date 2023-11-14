@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544068042847 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:49:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544067637055 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | TANAKA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:48:41 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544066441546 |
-| Players | 3/24 |
-| Host Name | Montie |
+| Players | 2/24 |
+| Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:45:44 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544068156193 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:49:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544067997744 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 梅科尔·金塔纳 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:49:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544068363968 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kendrick愛生 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:50:30 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 34 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:50:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544068571692 |
+| Players | 2/15 |
+| Host Name | Skirpool |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:51:01 |
 
 
 |  | epic_boss_fight_nightmare |
