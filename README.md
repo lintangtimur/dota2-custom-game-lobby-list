@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544275145983 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:11:20 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544275526308 |
-| Players | 1/10 |
-| Host Name | Емне Гров |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:12:00 |
+| Lobby ID | 28519544276794629 |
+| Players | 1/8 |
+| Host Name | False 144hz god |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:12 |
 
 
 |  | ot3_gardens_duo |
@@ -112,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544276801155 |
+| Lobby ID | 28519544276883708 |
 | Players | 1/15 |
-| Host Name | No RaGe No Tilt |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:14:13 |
+| Host Name | Salvador |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544276878470 |
+| Players | 1/15 |
+| Host Name | InterFerent |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544275950023 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ara Niesha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:12:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544276828569 |
+| Players | 1/5 |
+| Host Name | KILLER. 13 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544276891867 |
+| Players | 2/5 |
+| Host Name | АНГЕЛ ПРЕДОХРАНИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:14:23 |
 
 
