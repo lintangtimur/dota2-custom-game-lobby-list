@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544386144770 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | marmelad_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:48:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544386558336 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | eryominandrey |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:48:36 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544384194035 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | makasih |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:46:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544386925473 |
-| Players | 2/8 |
+| Lobby ID | 28519544387099602 |
+| Players | 2/10 |
 | Host Name | [PickBan] 1_Papa_Karlo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 18:48:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ἆqὖa✔Minerale™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:43:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544387126744 |
+| Players | 3/5 |
+| Host Name | 灵犀一指 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:49:11 |
 
 
