@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544136378377 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:26:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544135112149 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | No Pertenezco AKI☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:23:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544133090998 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:18:53 |
@@ -40,56 +40,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544134278396 |
-| Players | 9/10 |
-| Host Name | Junya Watanabe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:21:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544135029816 |
-| Players | 9/15 |
-| Host Name | прочитал = пидop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:23:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28519544136302751 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Chepper :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:25:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544135029816 |
+| Players | 7/15 |
+| Host Name | Kr1cketq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:23:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544136586570 |
+| Players | 1/8 |
+| Host Name | 111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:26:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544131914511 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:16:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544135472512 |
-| Players | 5/8 |
-| Host Name | Scrowney2 |
+| Lobby ID | 28519544136706546 |
+| Players | 2/10 |
+| Host Name | XZane. |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:24:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:26:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544136420233 |
-| Players | 6/8 |
-| Host Name | Pieeer1 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:26:07 |
+| Lobby ID | 28519544136779791 |
+| Players | 1/10 |
+| Host Name | прочитал = пидop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:26:52 |
 
 
 |  | epic_boss_fight_normal |
