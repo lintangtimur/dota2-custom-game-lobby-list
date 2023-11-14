@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271109885 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
@@ -90,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Патриарх героина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:23:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544281824826 |
+| Players | 2/10 |
+| Host Name | naga_Invoker |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:23:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544279338765 |
+| Players | 9/10 |
+| Host Name | positive vibes |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:18:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544281854754 |
+| Players | 1/8 |
+| Host Name | αмι∂αмαяυ |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:23:16 |
 
 
