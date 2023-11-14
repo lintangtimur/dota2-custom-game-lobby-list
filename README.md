@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544097287534 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Robin serio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:57:57 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544097181320 |
-| Players | 2/8 |
-| Host Name | Пивослав Мудрый г |
+| Players | 1/8 |
+| Host Name | ASPEERAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:57:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544096581799 |
-| Players | 1/8 |
-| Host Name | ruby3000 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:56:22 |
+| Lobby ID | 28519544097749391 |
+| Players | 4/15 |
+| Host Name | GERTHERX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:58:59 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544097244282 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | el pakaszzzzzzzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:57:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544097726051 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | LOSBENJAMINS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:58:56 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 09:56:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544097749391 |
-| Players | 4/15 |
-| Host Name | GERTHERX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:58:59 |
+| Lobby ID | 28519544097882947 |
+| Players | 1/8 |
+| Host Name | ruby3000 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:59:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544097887805 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:59:18 |
 
 
 |  | epic_boss_fight_nightmare |
