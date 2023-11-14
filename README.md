@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544381162785 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | เต๋าผสมทราย |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:43:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544378779579 |
+| Players | 13/15 |
+| Host Name | Mahrtas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:40:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544376340215 |
+| Players | 7/10 |
+| Host Name | senkinarr |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:37:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544383395209 |
+| Players | 3/8 |
+| Host Name | БОГ ДОТЫ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:45:20 |
 
 
 |  | epic_boss_fight_normal |
