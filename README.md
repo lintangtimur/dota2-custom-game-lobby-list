@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544338996373 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:54:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544340407848 |
-| Players | 7/15 |
-| Host Name | luthie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:56:05 |
+| Lobby ID | 28519544340724243 |
+| Players | 1/24 |
+| Host Name | NENEK PEYOT PDIP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:56:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544340622108 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | n00b |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:22 |
@@ -59,19 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544340623734 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | otGod. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:56:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544340656372 |
-| Players | 1/8 |
-| Host Name | Legend[S.L.L] |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:56:25 |
+| Lobby ID | 28519544340756795 |
+| Players | 4/15 |
+| Host Name | USB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:56:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544340799866 |
+| Players | 1/15 |
+| Host Name | Anton.V |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:56:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544340407848 |
+| Players | 14/15 |
+| Host Name | luthie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:56:05 |
 
 
 |  | epic_boss_fight_normal |
