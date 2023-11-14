@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544315220949 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | вадим пидор |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:20:35 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544408536641 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Craimer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
@@ -32,55 +32,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544417849124 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ....................... |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:19:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544416421919 |
-| Players | 6/8 |
-| Host Name | Missing you happiness |
+| Lobby ID | 28519544419513455 |
+| Players | 3/10 |
+| Host Name | knight |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:17:49 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:20:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544417600043 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ComebackKing |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:18:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544407306077 |
-| Players | 4/8 |
-| Host Name | freelancer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:09:22 |
+| Lobby ID | 28519544419721744 |
+| Players | 1/10 |
+| Host Name | MAHAN |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:20:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544417922615 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | GOZONE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:19:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544416917117 |
-| Players | 2/8 |
-| Host Name | なkiss me teamな |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:18:16 |
+| Lobby ID | 28519544408997171 |
+| Players | 19/24 |
+| Host Name | K.T.P - Allegrismo fanatico |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:10:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BoR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:55:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544409052684 |
-| Players | 2/8 |
-| Host Name | утяжелитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:11:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544419274312 |
-| Players | 2/10 |
-| Host Name | Ｊａｓｕｓ ｎａｍｅ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:20:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,18 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28519544416755754 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Mori |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:18:07 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544419623684 |
+| Players | 2/5 |
+| Host Name | Прапорщик Шматко |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:20:44 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544419270445 |
+| Lobby ID | 28519544419876491 |
 | Players | 1/10 |
-| Host Name | ZER0|零 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:20:25 |
+| Host Name | love |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:20:58 |
 
 
