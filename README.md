@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544267718275 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | AMATERASU |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:58:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271109885 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -1KSocialCredit |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544280874124 |
-| Players | 9/10 |
-| Host Name | e9RHpG - UA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:21:30 |
 
 
 |  | ot3_gardens_duo |
