@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544034650695 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:26:27 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544034633985 |
-| Players | 7/8 |
-| Host Name | Gadol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:26:25 |
+| Lobby ID | 28519544035061172 |
+| Players | 1/8 |
+| Host Name | M4xwell |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544034213685 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:25:23 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544034219282 |
-| Players | 13/15 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:25:24 |
+| Lobby ID | 28519544035113214 |
+| Players | 2/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:27:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | larry capolla 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:27:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544035113214 |
-| Players | 1/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544035061172 |
-| Players | 1/8 |
-| Host Name | M4xwell |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:27:29 |
 
 
 |  | epic_boss_fight_nightmare |
