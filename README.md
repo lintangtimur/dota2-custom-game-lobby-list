@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:21:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544022308765 |
-| Players | 13/24 |
-| Host Name | Loki Laufeyson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
+| Lobby ID | 28519544058557838 |
+| Players | 1/8 |
+| Host Name | SR.BASTARDO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:26:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544057375917 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:23:17 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:24:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544058545172 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:26:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544058564821 |
+| Players | 1/15 |
+| Host Name | NENE MALO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:26:15 |
 
 
 |  | epic_boss_fight_nightmare |
