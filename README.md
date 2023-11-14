@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544066246417 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:45:15 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:43:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544065532349 |
-| Players | 5/8 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:43:30 |
+| Lobby ID | 28519544066513562 |
+| Players | 4/15 |
+| Host Name | Weak Moustache |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:45:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 08:45:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544066456101 |
-| Players | 1/24 |
-| Host Name | DJ.NVN |
+| Lobby ID | 28519544066545268 |
+| Players | 1/10 |
+| Host Name | JNK |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:45:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544066513562 |
-| Players | 4/15 |
-| Host Name | Weak Moustache |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:45:55 |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:46:00 |
 
 
 |  | epic_boss_fight_nightmare |
