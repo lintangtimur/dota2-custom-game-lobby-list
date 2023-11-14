@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544276883708 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Salvador |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544277167988 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544271109885 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
@@ -83,6 +83,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:16:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544278332045 |
+| Players | 1/8 |
+| Host Name | FullModelAlchemist |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:16:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544278202760 |
+| Players | 1/10 |
+| Host Name | печенье в клетку |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:16:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544278271428 |
+| Players | 1/8 |
+| Host Name | grind2021 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:16:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544278279074 |
+| Players | 2/10 |
+| Host Name | Ta1ler_derd3n 2w |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:16:52 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544267641741 |
@@ -95,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544276946719 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | OID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:14:28 |
@@ -103,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544278019000 |
+| Lobby ID | 28519544278313875 |
 | Players | 1/5 |
-| Host Name | H3yter |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:16:24 |
+| Host Name | KILLER. 13 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:16:56 |
 
 
