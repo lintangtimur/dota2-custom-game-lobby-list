@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544294207120 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544294461687 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | the chains start to crack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:45:38 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544294737910 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Патриарх героина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:46:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544294925121 |
+| Players | 3/8 |
+| Host Name | RACIST ASSHOLE DRIVER 69 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:46:27 |
 
 
 |  | epic_boss_fight_nightmare |
