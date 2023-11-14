@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544066441546 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 08:45:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544072293023 |
-| Players | 21/24 |
-| Host Name | MODO ELDEN LORD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:00:07 |
+| Lobby ID | 28519544071268753 |
+| Players | 10/15 |
+| Host Name | Cever |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 08:57:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,17 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544071268753 |
-| Players | 9/15 |
-| Host Name | Cever |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 08:57:35 |
+| Lobby ID | 28519544073880096 |
+| Players | 2/15 |
+| Host Name | vicjug |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:04:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544073903342 |
+| Players | 2/24 |
+| Host Name | NAYUTA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544073218999 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:02:27 |
