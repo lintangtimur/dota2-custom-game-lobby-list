@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544232803787 |
-| Players | 2/24 |
-| Host Name | Micio |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:52:36 |
+| Lobby ID | 28519544237486727 |
+| Players | 1/15 |
+| Host Name | Медвежуть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:01:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544236227825 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 14:59:17 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544237237078 |
-| Players | 1/8 |
-| Host Name | pick pudge=mother died |
+| Players | 2/8 |
+| Host Name | ЛЫСЫЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
 
@@ -41,17 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544237232805 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kukurudza Striptizerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544237233137 |
-| Players | 1/15 |
-| Host Name | ree3d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:01:17 |
 
@@ -76,28 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544236496977 |
-| Players | 9/10 |
-| Host Name | Lose modo show |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 14:59:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544236841269 |
-| Players | 5/10 |
-| Host Name | Deso |
-| Region | JAPAN |
+| Lobby ID | 28519544236840154 |
+| Players | 2/10 |
+| Host Name | A3 |
+| Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:00:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544236840154 |
-| Players | 2/10 |
-| Host Name | A3 |
-| Region | AUSTRALIA |
+| Lobby ID | 28519544236841269 |
+| Players | 9/10 |
+| Host Name | Deso |
+| Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:00:30 |
 
 
