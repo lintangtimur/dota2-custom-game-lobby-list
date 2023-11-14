@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544311138598 |
-| Players | 10/15 |
-| Host Name | TopSy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:14:06 |
+| Lobby ID | 28519544312316464 |
+| Players | 1/8 |
+| Host Name | JoKoZtA 獨奏 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:16:00 |
 
 
 |  | ot3_desert_octet |
@@ -32,46 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544310473696 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Nest |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:13:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544311136409 |
-| Players | 6/8 |
-| Host Name | ДОЕДАЛА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:14:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544311026593 |
-| Players | 2/24 |
-| Host Name | Leonidas |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:13:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544307205220 |
-| Players | 4/8 |
-| Host Name | [ZIG]Arthas |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544311345677 |
-| Players | 3/10 |
-| Host Name | BRAMBRAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:14:26 |
+| Lobby ID | 28519544312219873 |
+| Players | 3/15 |
+| Host Name | КНИГА |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:15:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,12 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 17:14:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544311873431 |
-| Players | 1/15 |
-| Host Name | sprklngwtr Nene KATE | 蘇打水 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:15:17 |
+| Lobby ID | 28519544307205220 |
+| Players | 5/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:07:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544311345677 |
+| Players | 9/10 |
+| Host Name | BRAMBRAGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:14:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544312186437 |
+| Players | 2/10 |
+| Host Name | Vhiyoulette |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:15:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544312213912 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 17:15:50 |
 
 
