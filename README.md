@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544271917311 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | МокрыйВилли |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:05:37 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544272542171 |
-| Players | 2/8 |
-| Host Name | < blank > |
+| Players | 1/8 |
+| Host Name | qqq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:06:43 |
 
@@ -92,37 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:04:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544271095213 |
-| Players | 7/8 |
-| Host Name | radbix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:04:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544272766117 |
-| Players | 1/8 |
-| Host Name | Жабобляд |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:07:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544272796862 |
-| Players | 2/10 |
-| Host Name | nvmnd |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:07:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544272801207 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | MeekyWard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:07:10 |
@@ -149,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544269079014 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | ็ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:00:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544272895276 |
+| Players | 2/10 |
+| Host Name | Backdoor Enjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:07:20 |
 
 
