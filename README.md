@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544081387797 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | 99 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:21:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544081562405 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | TSD.Dean |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:22:23 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544081759932 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:22:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544081886462 |
+| Players | 1/8 |
+| Host Name | CAHUANA CHUPA PINGA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:23:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544081911746 |
+| Players | 1/24 |
+| Host Name | Waldorf |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:23:11 |
 
 
 |  | epic_boss_fight_challenger |
