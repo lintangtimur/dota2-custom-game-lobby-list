@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:17:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544181337149 |
-| Players | 6/8 |
-| Host Name | Овечий Насильник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:04:33 |
+| Lobby ID | 28519544187393072 |
+| Players | 2/24 |
+| Host Name | ~Djeeta~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:18:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544185915598 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:14:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544184692153 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:12:12 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:15:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544186378233 |
-| Players | 8/10 |
-| Host Name | ёбырь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:15:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544186687101 |
-| Players | 9/10 |
-| Host Name | Aerosniker |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:16:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544187355129 |
@@ -119,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:18:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544187393072 |
-| Players | 1/24 |
-| Host Name | ~Djeeta~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:18:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544187429578 |
-| Players | 1/24 |
-| Host Name | a s p e c k |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:18:13 |
+| Lobby ID | 28519544187433733 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:18:14 |
 
 
 |  | epic_boss_fight_nightmare |
