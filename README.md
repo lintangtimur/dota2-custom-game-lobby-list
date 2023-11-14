@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544486575559 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | OD Spammer EZ MID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:16:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544505572807 |
-| Players | 1/8 |
-| Host Name | малыш оверсайз |
+| Lobby ID | 28519544507038657 |
+| Players | 1/10 |
+| Host Name | UnclePecos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:30:44 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:31:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544506854195 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Missing you happiness |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:31:41 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544506124945 |
-| Players | 3/15 |
-| Host Name | Жак Оакфиелд |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:31:09 |
+| Lobby ID | 28519544497007628 |
+| Players | 7/15 |
+| Host Name | Thug |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:24:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544505391820 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | kol_fnl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:30:35 |
@@ -122,25 +122,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544490870247 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Raketa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:19:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544504150380 |
-| Players | 14/15 |
-| Host Name | Romek |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:29:39 |
+| Lobby ID | 28519544507007161 |
+| Players | 7/8 |
+| Host Name | ArrOw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:31:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544506909364 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Djekaizfeo™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:31:44 |
@@ -155,37 +155,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:31:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544507007161 |
-| Players | 6/8 |
-| Host Name | ArrOw |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:31:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544497007628 |
-| Players | 5/15 |
-| Host Name | Thug |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:24:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544507038657 |
-| Players | 1/10 |
-| Host Name | UnclePecos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:31:50 |
+| Lobby ID | 28519544507358277 |
+| Players | 1/15 |
+| Host Name | 隻眼の王 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:32:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544503994213 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:29:32 |
@@ -198,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:31:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544507081246 |
-| Players | 1/5 |
-| Host Name | гошазоло2008 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:31:52 |
 
 
