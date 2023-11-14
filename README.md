@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544104757260 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Piminchumo...!!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:14:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544105074229 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:15:24 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RoberCu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:16:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544105484113 |
+| Players | 1/10 |
+| Host Name | TS MHR.GG |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:16:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544103224923 |
+| Players | 9/10 |
+| Host Name | sdhij9okpmara15 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:11:19 |
 
 
 |  | epic_boss_fight_nightmare |
