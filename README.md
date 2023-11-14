@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544289597116 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544292408907 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Северный Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:42:01 |
@@ -40,29 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544292337117 |
-| Players | 8/10 |
-| Host Name | white light |
+| Lobby ID | 28519544293396446 |
+| Players | 6/10 |
+| Host Name | GeneralJa'far |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:41:54 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:43:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544290815995 |
-| Players | 18/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:39:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544292774768 |
-| Players | 3/8 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:42:40 |
+| Lobby ID | 28519544293518025 |
+| Players | 1/24 |
+| Host Name | king_z(carry or wk3) |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:44:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БАБИДЖОН ШАУРМА |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:42:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544293036410 |
-| Players | 1/10 |
-| Host Name | Know ur place |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:43:08 |
 
 
