@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 14:18:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544259140225 |
-| Players | 9/10 |
-| Host Name | sxxr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:42:37 |
+| Lobby ID | 28519544260093588 |
+| Players | 1/8 |
+| Host Name | Donnie Darko |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:44:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544259105927 |
-| Players | 7/8 |
-| Host Name | ainta |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:42:34 |
+| Lobby ID | 28519544259988134 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:44:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544259988134 |
+| Lobby ID | 28519544260097275 |
 | Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 15:44:10 |
+| Host Name | Sowa |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 15:44:22 |
 
 
 |  | epic_boss_fight_nightmare |
