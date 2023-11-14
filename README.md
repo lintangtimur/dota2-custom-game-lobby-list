@@ -23,52 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544111754735 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544111795296 |
-| Players | 4/10 |
-| Host Name | PPPollas |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:30:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544111902991 |
-| Players | 2/10 |
-| Host Name | єℓ ρα∂яιησ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:30:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544109013456 |
-| Players | 7/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:24:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544110324712 |
-| Players | 2/8 |
-| Host Name | W1I |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:27:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544111980730 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | sombra verde |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:51 |
@@ -77,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544112010972 |
-| Players | 2/15 |
-| Host Name | Sṃäŕẗṗḧöńệ彡 |
+| Players | 1/15 |
+| Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:30:55 |
 
@@ -90,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | stampede |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:25:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544110324712 |
+| Players | 3/8 |
+| Host Name | W1I |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:27:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544109013456 |
+| Players | 7/8 |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:24:10 |
 
 
 |  | epic_boss_fight_nightmare |
