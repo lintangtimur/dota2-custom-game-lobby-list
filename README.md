@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544115698015 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ShaV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:39:11 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544115337226 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:38:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544116500493 |
-| Players | 5/8 |
-| Host Name | Estoy en Definición (79.5 kg) |
+| Lobby ID | 28519544116549799 |
+| Players | 1/10 |
+| Host Name | iamIBradd™ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:41:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:41:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гpигopий Гopoxocтpeл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:32:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544115446828 |
-| Players | 8/10 |
-| Host Name | ang qt qt ko |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:38:37 |
 
 
