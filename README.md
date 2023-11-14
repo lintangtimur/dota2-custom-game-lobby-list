@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021366688 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Mast3rm1nd |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544040414049 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | animepic |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:40:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544038658500 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Gisbert of The Light |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:36:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544039651604 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Balan Sarroula |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:39:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544040075175 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | goshiu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:40:05 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544040512420 |
-| Players | 3/8 |
-| Host Name | P.U.M.A! |
+| Lobby ID | 28519544040582323 |
+| Players | 1/8 |
+| Host Name | olya petrova |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:41:11 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:41:21 |
 
 
 |  | epic_boss_fight_nightmare |
