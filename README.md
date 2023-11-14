@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544286403521 |
-| Players | 22/24 |
-| Host Name | mode: TI7 boon hock miracle- |
+| Lobby ID | 28519544289597116 |
+| Players | 1/8 |
+| Host Name | Peon Redfield |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:31:22 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544244232817 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Kres |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:14:39 |
@@ -29,46 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544290615777 |
+| Players | 6/15 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:38:51 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544289441958 |
-| Players | 4/8 |
-| Host Name | Yejisaur |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:36:45 |
+| Lobby ID | 28519544290560511 |
+| Players | 1/8 |
+| Host Name | Hierarch Artanis |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:38:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544289446164 |
-| Players | 9/10 |
-| Host Name | today PMA dota |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:36:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544290155846 |
-| Players | 1/8 |
-| Host Name | Hierarch Artanis |
+| Lobby ID | 28519544290662340 |
+| Players | 1/10 |
+| Host Name | Meanflowt da Kill |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:38:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544289597116 |
-| Players | 1/8 |
-| Host Name | Peon Redfield |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:37:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:38:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544289193229 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Carry me pls |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:36:19 |
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544288432668 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EcoHunter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:34:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28519544285943504 |
+| Players | 1/7 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:30:33 |
 
 
