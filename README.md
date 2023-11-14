@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544153058442 |
-| Players | 23/24 |
-| Host Name | Sid, el indomable :v |
+| Lobby ID | 28519544154366509 |
+| Players | 5/8 |
+| Host Name | JUKAL |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:01:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 12:04:41 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544154203401 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:04:19 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544153974723 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 12:03:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544154411180 |
-| Players | 1/15 |
-| Host Name | 让皮尔 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:04:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544154366509 |
-| Players | 5/8 |
-| Host Name | JUKAL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:04:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544154556783 |
-| Players | 1/15 |
-| Host Name | Cococoke |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 12:05:06 |
 
 
 |  | epic_boss_fight_nightmare |
