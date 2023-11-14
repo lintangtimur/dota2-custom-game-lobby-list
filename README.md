@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 10:18:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544114151199 |
-| Players | 23/24 |
-| Host Name | 小心踏得两艘船 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:35:41 |
+| Lobby ID | 28519544115879256 |
+| Players | 2/10 |
+| Host Name | BYSTHOR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:39:36 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544113464218 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:34:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544115220221 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:38:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544115482269 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:38:42 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | THE MF MR.ZOMBIE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:38:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544115790915 |
+| Players | 6/8 |
+| Host Name | manuel tu rector de chc |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:39:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544116004796 |
+| Players | 2/24 |
+| Host Name | Kermit Da Frog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:39:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544112776358 |
+| Players | 9/10 |
+| Host Name | Cever |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:32:37 |
 
 
 |  | epic_boss_fight_nightmare |
