@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544044881869 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sirius/Void |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:52:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544022308765 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:55:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544044900877 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | yo+4pezuñas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:52:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544045013265 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | nlt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:52:29 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544045271959 |
-| Players | 6/15 |
-| Host Name | Chatter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:53:08 |
+| Lobby ID | 28519544045415913 |
+| Players | 5/15 |
+| Host Name | Tamatze |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:53:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544045316939 |
-| Players | 4/24 |
+| Players | 16/24 |
 | Host Name | Macho Alfa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:14 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544045336079 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Phillips |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:53:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544045362506 |
+| Players | 1/10 |
+| Host Name | i have no enemies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:53:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544045405377 |
+| Players | 1/24 |
+| Host Name | Señora A su hijo lestan pegando |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:53:28 |
 
 
 |  | epic_boss_fight_hard |
