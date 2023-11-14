@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544146368388 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544146730406 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544149019052 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | 10 MILLONES DE ACTITUD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:53:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544148568113 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hipnos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:52:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544148938537 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | FUCK IT ALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:52:50 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:53:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544149519943 |
+| Players | 4/8 |
+| Host Name | Yinn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:54:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544143738531 |
@@ -139,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544149446074 |
+| Lobby ID | 28519544149558527 |
 | Players | 2/5 |
-| Host Name | псих :-') |
+| Host Name | Hohland |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:53:56 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:54:10 |
 
 
