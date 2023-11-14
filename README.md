@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544021366688 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ROLANDO MOTA |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544033562264 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Paloyoyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:23:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544033090900 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 我想静静 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:35 |
@@ -41,63 +41,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544033119314 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Filipo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544033904558 |
-| Players | 4/10 |
-| Host Name | xd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:24:36 |
+| Lobby ID | 28519544034213685 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:25:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544033208454 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:22:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544033253368 |
-| Players | 6/8 |
-| Host Name | endless hard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:22:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544033806685 |
-| Players | 4/10 |
-| Host Name | Phantom_ |
+| Lobby ID | 28519544034219282 |
+| Players | 1/15 |
+| Host Name | < blank > |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:24:22 |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:25:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544033720320 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Tarrence12 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 07:24:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544030467400 |
-| Players | 9/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 07:16:04 |
+| Lobby ID | 28519544034248767 |
+| Players | 2/5 |
+| Host Name | kiss-kiss^^) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 07:25:28 |
 
 
