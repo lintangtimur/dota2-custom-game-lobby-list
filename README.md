@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:29:21 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544137981001 |
+| Players | 14/15 |
+| Host Name | 3AeMe |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:29:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544140688992 |
+| Lobby ID | 28519544141012091 |
 | Players | 1/8 |
-| Host Name | Isagi Yoichi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544131914511 |
-| Players | 7/8 |
-| Host Name | JordieLniNO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:16:16 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:35:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544139430382 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:32:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544140101935 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Ajax |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:51 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:33:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544141012091 |
-| Players | 1/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:35:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544136856674 |
-| Players | 9/10 |
-| Host Name | biubiubiup |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:27:02 |
 
 
