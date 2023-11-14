@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544122062390 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Lulala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:53:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544121145296 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | mefedron999 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:51:40 |
@@ -41,43 +41,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544122116497 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | DON VERGAS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:53:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544122233204 |
-| Players | 1/15 |
-| Host Name | Don Capurro |
+| Lobby ID | 28519544122246193 |
+| Players | 2/8 |
+| Host Name | COSMO EL GATO |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:54:09 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:54:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544122241560 |
-| Players | 1/15 |
-| Host Name | HALIMAW MAINGGIT |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:54:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544122232496 |
-| Players | 1/15 |
-| Host Name | 'HarKz |
+| Lobby ID | 28519544122278320 |
+| Players | 2/15 |
+| Host Name | 506 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 10:54:09 |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:54:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544122299703 |
+| Players | 1/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 10:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544122119793 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | g.bayankhishig |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 10:53:54 |
