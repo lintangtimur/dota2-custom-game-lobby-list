@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544317662916 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ❧ƊЯƊЯ ₣₳₦₮₳❧ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:24:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544318079767 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | #idinaxyi MaLo9_ToP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:24:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544313259837 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Eleonora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:17:30 |
@@ -77,17 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544315579336 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | SAHİPKIRAN |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:21:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544315579255 |
-| Players | 7/10 |
-| Host Name | Tanıdık |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:21:09 |
 
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544314291455 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | yikes` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:19:08 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YTPO |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 17:24:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544318117861 |
-| Players | 3/5 |
-| Host Name | Banka |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 14, 2023 17:25:00 |
 
 
