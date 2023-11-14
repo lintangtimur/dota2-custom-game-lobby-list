@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544075040094 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Franchesco virgolini |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:06:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544075061955 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 4 pin plug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:06:59 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544075589673 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | aesthetic af |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:08:15 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544075661867 |
+| Players | 3/8 |
+| Host Name | ELMENTELOCA♪→ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:08:26 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544075209916 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Strawberry |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:07:21 |
