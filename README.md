@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544282706575 |
-| Players | 13/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:24:47 |
+| Lobby ID | 28519544283809835 |
+| Players | 5/24 |
+| Host Name | HALIMAW MAINGGIT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:26:45 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544246649299 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 15:19:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544281385510 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Срань Господня |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:22:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544283604003 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Увековечено в пив |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:23 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:42 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544283809835 |
-| Players | 5/24 |
-| Host Name | HALIMAW MAINGGIT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 16:26:45 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28519544283948932 |
@@ -104,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544283944467 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | МАКШНАКНЕКС |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 16:26:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544284019099 |
+| Players | 1/10 |
+| Host Name | Tiimii ~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:27:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544284074804 |
+| Players | 1/10 |
+| Host Name | Dick Iverson |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 16:27:13 |
 
 
