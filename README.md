@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544204145439 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | ZOXA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 13:54:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544205330875 |
-| Players | 1/8 |
-| Host Name | 167 |
+| Lobby ID | 28519544205537507 |
+| Players | 1/15 |
+| Host Name | Flowex |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:56:58 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:57:24 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 13:55:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544205537507 |
-| Players | 1/15 |
-| Host Name | Flowex |
+| Lobby ID | 28519544205669786 |
+| Players | 3/8 |
+| Host Name | 167 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 13:57:24 |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:57:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544205671629 |
+| Players | 5/10 |
+| Host Name | Rambod D. Luffy |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 13:57:41 |
 
 
 |  | epic_boss_fight_nightmare |
