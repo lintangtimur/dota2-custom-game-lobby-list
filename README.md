@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544393895449 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Sorry, I'm toxic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544483509777 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | カフェイン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:13:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544479252149 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Yo no tengo enemigos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 20:10:32 |
@@ -110,6 +110,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:13:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544485157263 |
+| Players | 2/15 |
+| Host Name | I bought the bank |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:15:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519544485352826 |
+| Players | 1/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:15:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544485358894 |
+| Players | 4/8 |
+| Host Name | White |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:15:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544484569769 |
@@ -119,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 20:14:38 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28519544485052981 |
-| Players | 1/7 |
+| Lobby ID | 28519544485269869 |
+| Players | 1/5 |
 | Host Name | レイヴンヴィクト |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 20:15:00 |
+| Lobby Creation Time | Tuesday, November 14, 2023 20:15:10 |
 
 
