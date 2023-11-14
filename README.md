@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544435803473 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | dotalant |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:34:56 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544435159044 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Олеся Головач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:34:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544426658361 |
-| Players | 21/24 |
-| Host Name | Genie |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:27:00 |
+| Lobby ID | 28519544427559589 |
+| Players | 8/15 |
+| Host Name | g |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:27:47 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544434875054 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:34:08 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:33:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544427559589 |
-| Players | 4/15 |
-| Host Name | g |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:27:47 |
+| Lobby ID | 28519544436277902 |
+| Players | 1/8 |
+| Host Name | Dr.RB |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:35:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:32:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544436280692 |
+| Players | 1/5 |
+| Host Name | KAMUI RAIKI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:35:20 |
 
 
