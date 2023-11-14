@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544081387797 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 99 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:21:59 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544081911746 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Waldorf |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:23:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544081739129 |
-| Players | 9/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:22:48 |
+| Lobby ID | 28519544082704920 |
+| Players | 3/15 |
+| Host Name | CMTRE |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 09:25:01 |
 
 
 |  | ot3_desert_octet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eldarion |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 09:24:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544082705023 |
-| Players | 7/10 |
-| Host Name | 100ideia |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:25:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544082704920 |
-| Players | 2/15 |
-| Host Name | DoT |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 09:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
