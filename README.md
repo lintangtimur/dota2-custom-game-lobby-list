@@ -22,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544431345035 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
+| Lobby ID | 28519544431896530 |
+| Players | 2/8 |
+| Host Name | waiting for death |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:31:05 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:31:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544408997171 |
-| Players | 20/24 |
-| Host Name | zudin2930 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:10:57 |
+| Lobby ID | 28519544393895449 |
+| Players | 13/15 |
+| Host Name | sEMJON |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 18:56:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544426658361 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:27:00 |
@@ -56,31 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 19:31:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544431296930 |
-| Players | 3/10 |
-| Host Name | YeezyBreazy |
+| Lobby ID | 28519544432022163 |
+| Players | 1/24 |
+| Host Name | Black Ghost |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:31:03 |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:31:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544407306077 |
-| Players | 5/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 19:09:22 |
+| Lobby ID | 28519544431931121 |
+| Players | 2/8 |
+| Host Name | Verocia |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:31:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544408536641 |
-| Players | 5/15 |
-| Host Name | S4 |
+| Players | 3/15 |
+| Host Name | Nebuchadnezzar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 19:10:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544424086102 |
+| Players | 5/10 |
+| Host Name | MAMANYA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 19:24:44 |
 
 
 |  | epic_boss_fight_normal |
