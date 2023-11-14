@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544150293851 |
-| Players | 1/8 |
-| Host Name | Магамед Халилов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:55:47 |
+| Lobby ID | 28519544148710574 |
+| Players | 5/10 |
+| Host Name | SPIRIT BRAZZERS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:52:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544146116718 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:46:37 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544150248581 |
-| Players | 1/8 |
-| Host Name | Yinn |
+| Lobby ID | 28519544150120716 |
+| Players | 5/8 |
+| Host Name | >>>L1K4THZU<<< |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:55:41 |
+| Lobby Creation Time | Tuesday, November 14, 2023 11:55:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:47:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544149652668 |
-| Players | 13/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:54:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544148710574 |
-| Players | 4/10 |
-| Host Name | SPIRIT BRAZZERS |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:52:19 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544148938537 |
@@ -92,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 11:52:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544150120716 |
-| Players | 5/8 |
-| Host Name | >>>L1K4THZU<<< |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:55:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544149558527 |
-| Players | 3/5 |
-| Host Name | Hohland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 11:54:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544150155913 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Run and shot=auto win |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 11:55:29 |
