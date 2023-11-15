@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336750443275 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Пьяный дровосек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:45:59 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336748762057 |
-| Players | 14/15 |
-| Host Name | MExaDE |
+| Lobby ID | 28521336751189132 |
+| Players | 4/8 |
+| Host Name | 5 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:44:04 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:46:50 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336749899475 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:45:21 |
@@ -101,30 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:46:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336751189132 |
-| Players | 2/8 |
-| Host Name | 5 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:46:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336750189803 |
-| Players | 2/10 |
-| Host Name | Ленивый |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:45:41 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336751331587 |
+| Lobby ID | 28521336751496893 |
 | Players | 1/5 |
-| Host Name | La_Muerte |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:47:00 |
+| Host Name | YerryLampa |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:47:11 |
 
 
