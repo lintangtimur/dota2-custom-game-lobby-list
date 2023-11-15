@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336846025291 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Cheris Lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:18:03 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336802263708 |
-| Players | 10/15 |
-| Host Name | lechu 2222 gwei |
+| Lobby ID | 28521336848398301 |
+| Players | 6/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:39:28 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:20:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336847667522 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Holoバカ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:19:24 |
@@ -128,22 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:14:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336848398301 |
-| Players | 1/15 |
-| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:20:01 |
+| Lobby ID | 28521336837598027 |
+| Players | 7/10 |
+| Host Name | I Love Low |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:10:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336845575459 |
-| Players | 12/15 |
-| Host Name | САСЬВА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:17:40 |
+| Lobby ID | 28521336848759360 |
+| Players | 2/8 |
+| Host Name | Rina Palenkova |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:20:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:19:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336848534774 |
-| Players | 2/5 |
-| Host Name | Tonic |
+| Lobby ID | 28521336844888739 |
+| Players | 4/10 |
+| Host Name | DayDreamer |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:20:08 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:17:06 |
 
 
