@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336666359371 |
-| Players | 14/15 |
-| Host Name | себас |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:41:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336667244202 |
-| Players | 1/15 |
-| Host Name | Portgas D Ace |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:43:36 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:45:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336668558515 |
+| Players | 1/15 |
+| Host Name | Portgas D Ace |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:46:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336668573376 |
+| Players | 1/15 |
+| Host Name | 死ぬのがいいわ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:46:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336668492881 |
+| Lobby ID | 28521336668583595 |
 | Players | 1/8 |
-| Host Name | Пожилой Дюшес |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:45:54 |
+| Host Name | can't lose |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:46:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336668605514 |
+| Players | 1/15 |
+| Host Name | Ракета по-Сановск |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:46:06 |
 
 
 |  | epic_boss_fight_hard |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336664610496 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | The Rock |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:43 |
