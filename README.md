@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336613457847 |
-| Players | 5/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:00:07 |
+| Lobby ID | 28521336620386356 |
+| Players | 9/15 |
+| Host Name | Asmoder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:14:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336620534586 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Goki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:14:50 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336620233578 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | zapitae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:14:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336620386356 |
-| Players | 11/15 |
-| Host Name | Asmoder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:14:31 |
 
 
