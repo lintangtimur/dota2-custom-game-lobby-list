@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336617293033 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:08:03 |
+| Lobby ID | 28521336618720323 |
+| Players | 1/10 |
+| Host Name | GhasT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:11:05 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:00:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336618465702 |
-| Players | 1/10 |
-| Host Name | GhasT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:10:32 |
+| Lobby ID | 28521336616075867 |
+| Players | 16/24 |
+| Host Name | Gigachad thundercock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:05:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:58:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336616075867 |
-| Players | 16/24 |
-| Host Name | Gigachad thundercock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:05:32 |
+| Lobby ID | 28521336618756644 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:11:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336618584123 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | HaaLand |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:10:47 |
