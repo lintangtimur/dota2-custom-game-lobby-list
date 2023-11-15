@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28521336620534586 |
 | Players | 12/24 |
-| Host Name | Goki |
+| Host Name | MADABO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:14:50 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336620235143 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | emotionless |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:14:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336621364341 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Лил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:16:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336621694386 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:17:13 |
