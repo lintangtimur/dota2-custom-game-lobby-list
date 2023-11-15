@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336697619133 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | swap commends |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:34:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336698091694 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ghost Grave |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:35:45 |
@@ -67,33 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336699931616 |
-| Players | 1/15 |
-| Host Name | buba757 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:38:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336699965993 |
-| Players | 1/15 |
-| Host Name | AKA用爱守护唱歌响亮地LA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:38:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336700081337 |
-| Players | 2/15 |
-| Host Name | Björk Guðmundsdóttir |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:38:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28521336699958889 |
 | Players | 1/15 |
 | Host Name | ✖‿✖•爪卂爪卂 #2 |
@@ -103,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336700115610 |
-| Players | 1/15 |
+| Lobby ID | 28521336700199518 |
+| Players | 2/15 |
 | Host Name | DDX |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:39:00 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:39:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336700081337 |
+| Players | 7/15 |
+| Host Name | Björk Guðmundsdóttir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:38:57 |
 
 
