@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336872234718 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | _b_o_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:39:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336847258594 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Angry Bastard |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:19:04 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:38:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336872325785 |
-| Players | 7/8 |
-| Host Name | шашлычок |
+| Lobby ID | 28521336872823734 |
+| Players | 1/15 |
+| Host Name | Anton.V |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:39:25 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:39:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -117,6 +117,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Slatt amoeba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:33:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336872857646 |
+| Players | 1/8 |
+| Host Name | 389r3h893hj8hi9hncfdicfsde27823g |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:39:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336872913991 |
+| Players | 2/8 |
+| Host Name | potato |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:39:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336855674709 |
+| Players | 15/24 |
+| Host Name | เต๋าผสมทราย |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:26:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336872964786 |
+| Players | 1/10 |
+| Host Name | PhysikerHabenEinenNeuenWegGefund |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:39:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336873035345 |
+| Players | 1/15 |
+| Host Name | Главный в дурке |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:39:59 |
 
 
 |  | epic_boss_fight_normal |
