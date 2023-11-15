@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336605918276 |
-| Players | 13/15 |
-| Host Name | EasY |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:44:19 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336606383272 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | iGotRedEyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:45:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336606541024 |
-| Players | 1/15 |
-| Host Name | себас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:45:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336606548915 |
-| Players | 3/15 |
-| Host Name | Dorito |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:45:38 |
 
 
 |  | epic_boss_fight_challenger |
