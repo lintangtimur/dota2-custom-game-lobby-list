@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336593852649 |
-| Players | 3/8 |
-| Host Name | Calabasas(slowed+reverb) |
+| Players | 4/8 |
+| Host Name | HL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:18:46 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336594004301 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ht |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:19:05 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _.KH._ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:19:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336594415513 |
+| Players | 3/10 |
+| Host Name | DÉJATE QUERER :3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:19:59 |
 
 
