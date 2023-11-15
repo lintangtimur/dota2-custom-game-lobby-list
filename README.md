@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336670511521 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Q17.Larry |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:49:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336671647551 |
-| Players | 1/15 |
-| Host Name | Крали Марко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:51:45 |
+| Lobby ID | 28521336672439784 |
+| Players | 1/8 |
+| Host Name | Titus |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:53:12 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336672343764 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | WelkZXC[SS]ZXC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:53:02 |
