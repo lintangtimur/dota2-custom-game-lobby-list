@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336650087992 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ashes of The Last World |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:11:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336649766571 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ged |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:10:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336646458902 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ุ |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:04:28 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪Лера Ранетка✪ |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:10:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336648109932 |
-| Players | 2/5 |
-| Host Name | dyrachoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:07:35 |
 
 
 |  | epic_boss_fight_nightmare |
