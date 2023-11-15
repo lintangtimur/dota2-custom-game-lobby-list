@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336728598105 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Mishan'ka |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:19:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336729162505 |
+| Players | 1/15 |
+| Host Name | Главный в дурке |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:20:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SAY "ПАЛЯНИЦЯ" OR DIE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:18:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336729117521 |
+| Players | 1/10 |
+| Host Name | ™PAQUER™ YOU™ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:20:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336729207717 |
+| Players | 1/5 |
+| Host Name | Markyjay |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:20:10 |
 
 
