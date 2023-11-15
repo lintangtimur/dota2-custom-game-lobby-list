@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336854716576 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | DG_COACH |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:13 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:14:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336853102034 |
-| Players | 7/8 |
-| Host Name | 魅力 |
+| Lobby ID | 28521336822529976 |
+| Players | 3/15 |
+| Host Name | Detelinara{RUBIN} |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:23:54 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336851475329 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | krakoonity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:22:35 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:19:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336842764044 |
-| Players | 11/15 |
-| Host Name | Enough4today |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:15:19 |
+| Lobby ID | 28521336855565112 |
+| Players | 2/24 |
+| Host Name | Oversea Sexy Guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:25:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336855674709 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:26:00 |
@@ -173,22 +173,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336822529976 |
-| Players | 3/15 |
-| Host Name | Detelinara{RUBIN} |
+| Lobby ID | 28521336850687489 |
+| Players | 9/10 |
+| Host Name | Death |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:21:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336855565112 |
-| Players | 2/24 |
-| Host Name | Oversea Sexy Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:25:54 |
+| Lobby ID | 28521336842090437 |
+| Players | 4/8 |
+| Host Name | цвях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:14:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -212,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336854470349 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:01 |
