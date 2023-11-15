@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336670372034 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Аянами Рей |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:49:24 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336669248695 |
-| Players | 3/24 |
-| Host Name | Make UrSA Great Again ! |
+| Players | 2/24 |
+| Host Name | LAGUM BILAT 51 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:47:19 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336670818541 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | moonlight sunlight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:50:13 |
@@ -85,19 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336670994881 |
+| Lobby ID | 28521336671055940 |
 | Players | 2/10 |
 | Host Name | nWord |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:50:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336670992331 |
-| Players | 1/5 |
-| Host Name | Ashly. |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:50:32 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:50:39 |
 
 
