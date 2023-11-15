@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336694534114 |
-| Players | 12/15 |
-| Host Name | ВлажDick |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:29:50 |
+| Lobby ID | 28521336694861915 |
+| Players | 6/8 |
+| Host Name | 2rbo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:30:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336694819421 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336695199331 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | над колесами |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:57 |
@@ -77,43 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336694683397 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | ExSide- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336694861915 |
-| Players | 4/8 |
-| Host Name | 2rbo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:30:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336695216280 |
-| Players | 2/5 |
-| Host Name | jusplayin |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:30:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336694828303 |
-| Players | 1/10 |
-| Host Name | _.KH._ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:30:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336695181015 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | love |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:55 |
