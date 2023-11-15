@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:14:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336652633383 |
-| Players | 1/8 |
-| Host Name | // |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:16:13 |
+| Lobby ID | 28521336652688587 |
+| Players | 1/24 |
+| Host Name | Yuh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:16:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336651982302 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:14:59 |
