@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336742951931 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Lyoto Machista |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:37:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336744724685 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | hqd со вкусом боли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:39:23 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336743519460 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | miss 2B |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:37:57 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336745605306 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | NoName |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:25 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336743716167 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:11 |
@@ -167,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28521336745967284 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | Александр Сплавы |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:50 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521336746180989 |
+| Players | 2/7 |
+| Host Name | IGWOO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:41:05 |
 
 
