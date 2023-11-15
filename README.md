@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336670701032 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | dooMix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:50:00 |
@@ -99,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tikovka <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:50:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336671248816 |
+| Players | 2/8 |
+| Host Name | Zafatenko |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:51:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336671240844 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:51:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336671271362 |
+| Players | 1/5 |
+| Host Name | Ashly. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:51:03 |
 
 
