@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336677864701 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | xkeimaxx |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:02:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336680480641 |
-| Players | 2/10 |
-| Host Name | so-called animal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:07:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336674775523 |
-| Players | 8/15 |
-| Host Name | dendi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:57:27 |
 
 
 |  | ot3_desert_octet |
@@ -90,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:07:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336674775523 |
+| Players | 9/15 |
+| Host Name | dendi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:57:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336681142007 |
+| Players | 1/8 |
+| Host Name | アブソリュート |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:08:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336681138448 |
+| Players | 1/10 |
+| Host Name | 『Kumagawa Misogi』 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:08:08 |
 
 
