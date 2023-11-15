@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336744247943 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336774151627 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ashes of The Last World |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:11:58 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336774474035 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | g star |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336775695902 |
-| Players | 14/15 |
-| Host Name | Rimad_Ded |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336772083086 |
-| Players | 7/8 |
-| Host Name | Владимир Путин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:09:47 |
 
 
 |  | epic_boss_fight_nightmare |
