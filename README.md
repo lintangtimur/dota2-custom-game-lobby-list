@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336837695716 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | успакойся |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336849638067 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ProstoKrisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:21:03 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336850103485 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | woowowoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:21:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336847258594 |
-| Players | 12/15 |
-| Host Name | Why So Ez? |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:19:04 |
+| Lobby ID | 28521336850077943 |
+| Players | 4/8 |
+| Host Name | Mouse69 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:21:26 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336845681410 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | OmeGaX |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:17:45 |
@@ -86,55 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336847442180 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | swap commends |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:19:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336849560066 |
-| Players | 3/8 |
-| Host Name | мишка фнифнер |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:20:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336850077943 |
-| Players | 3/8 |
-| Host Name | Mouse69 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:21:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336849461797 |
-| Players | 1/15 |
-| Host Name | Argor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:20:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336850279650 |
-| Players | 1/8 |
-| Host Name | Fsg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:21:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336844888739 |
-| Players | 8/10 |
-| Host Name | DayDreamer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:17:06 |
 
 
 |  | epic_boss_fight_normal |
