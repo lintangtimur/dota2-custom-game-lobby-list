@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336585967905 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Mc LOVIN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:01:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336586702133 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:03:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336587581238 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Scrowney2 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336587522526 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Ozzzymandias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:04:56 |
@@ -41,9 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336587536610 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | durd-URUN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:04:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336587662308 |
+| Players | 4/10 |
+| Host Name | xeyz11 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:05:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336587747770 |
+| Players | 1/8 |
+| Host Name | Drago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:05:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336587733210 |
+| Players | 1/5 |
+| Host Name | MiniGod |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:05:23 |
 
 
