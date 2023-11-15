@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336697619133 |
-| Players | 23/24 |
-| Host Name | swap commends |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:34:58 |
+| Lobby ID | 28521336699024983 |
+| Players | 10/15 |
+| Host Name | Chien2rue |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:37:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336700351786 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:39:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336700545250 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | LuddeKudde |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:39:41 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:39:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336699024983 |
-| Players | 10/15 |
-| Host Name | Chien2rue |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:37:16 |
+| Lobby ID | 28521336700990626 |
+| Players | 5/8 |
+| Host Name | hatehatehatehate |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:40:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336700923122 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Твой Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:40:17 |
