@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336800724513 |
-| Players | 6/15 |
-| Host Name | Lyoto Machista |
+| Lobby ID | 28521336806004157 |
+| Players | 5/10 |
+| Host Name | QWERTY |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:38:02 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:42:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336802263708 |
-| Players | 10/15 |
-| Host Name | неумехапелемеха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:39:28 |
+| Lobby ID | 28521336805563210 |
+| Players | 1/24 |
+| Host Name | BROOKLYN T GUY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:42:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,10 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336805248248 |
-| Players | 2/10 |
-| Host Name | I look lonely you can`t fix that |
+| Players | 1/10 |
+| Host Name | Mitch Conner |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:42:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336805515105 |
+| Players | 2/8 |
+| Host Name | hellkitty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:42:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336805642048 |
+| Players | 17/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:42:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336801581371 |
+| Players | 9/15 |
+| Host Name | o0ma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:38:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336786678798 |
+| Players | 4/8 |
+| Host Name | BABO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:24:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336803070116 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 不狂菜狗子 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:40:13 |
@@ -113,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28521336804314691 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | gamospitos |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:41:22 |
