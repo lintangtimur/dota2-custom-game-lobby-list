@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336636863154 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Бавовна оркам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:46:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336634565442 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Cat猫 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:42:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336636923126 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | SosiskaKiller228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:46:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336634838106 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nehuy To Say |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:42:36 |
