@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336687534005 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:17:59 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:18:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336688214023 |
-| Players | 1/15 |
-| Host Name | Поддуриваю |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:19:09 |
+| Lobby ID | 28521336688257332 |
+| Players | 4/10 |
+| Host Name | писи сиси |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:19:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336688202300 |
-| Players | 1/8 |
-| Host Name | Tsuenueyne |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:19:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336688189422 |
-| Players | 1/10 |
-| Host Name | t1g3r |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:19:06 |
+| Lobby ID | 28521336688282347 |
+| Players | 3/8 |
+| Host Name | Shogun Raiden |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:19:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336688209322 |
+| Lobby ID | 28521336688307418 |
 | Players | 1/15 |
-| Host Name | lowqualityhuman |
+| Host Name | На пельменях |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:19:08 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:19:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -130,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336688216613 |
-| Players | 1/10 |
-| Host Name | BigTree |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:19:09 |
+| Lobby ID | 28521336688222999 |
+| Players | 6/10 |
+| Host Name | Nezu Nae Nae |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:19:10 |
 
 
