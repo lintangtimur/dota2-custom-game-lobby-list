@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336624527914 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:22:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336623359427 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:20:36 |
+| Lobby ID | 28521336625242587 |
+| Players | 6/8 |
+| Host Name | no comms |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:24:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pos 1 pma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:24:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336625595703 |
+| Players | 1/24 |
+| Host Name | DraelgNaI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:25:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336625671952 |
+| Players | 1/15 |
+| Host Name | LDLS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:25:15 |
 
 
 |  | epic_boss_fight_nightmare |
