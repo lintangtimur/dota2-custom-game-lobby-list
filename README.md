@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336727907772 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NEeshkereee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:18:26 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:11:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336727808352 |
-| Players | 6/8 |
-| Host Name | waxtep |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:18:18 |
+| Lobby ID | 28521336728392773 |
+| Players | 3/15 |
+| Host Name | MOWFASA |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:19:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336726865406 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | CP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:17:06 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:15:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336727114995 |
-| Players | 2/8 |
-| Host Name | whycutter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:17:25 |
+| Lobby ID | 28521336728598105 |
+| Players | 2/10 |
+| Host Name | Mishan'ka |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:19:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Exp debuff enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:15:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336728249538 |
-| Players | 1/8 |
-| Host Name | legend |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:18:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336728392773 |
-| Players | 4/15 |
-| Host Name | MOWFASA |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:19:04 |
 
 
 |  | epic_boss_fight_nightmare |
