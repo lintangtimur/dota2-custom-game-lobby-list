@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336715774171 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Я тебе не раб |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:02:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336715791778 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 1 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:02:18 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336715889012 |
-| Players | 7/8 |
-| Host Name | NEeshkereee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:02:26 |
+| Lobby ID | 28521336716260587 |
+| Players | 3/8 |
+| Host Name | デ =ק |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:02:57 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336716260587 |
-| Players | 3/8 |
-| Host Name | デ =ק |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:02:57 |
+| Lobby ID | 28521336715322583 |
+| Players | 6/8 |
+| Host Name | Ժe͙ղc͙h͙ìk͙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:01:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:51:25 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336713697621 |
-| Players | 2/5 |
-| Host Name | Shadow Wizard |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:59:22 |
+| Lobby ID | 28521336715197881 |
+| Players | 9/10 |
+| Host Name | EL MENCO CJNG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:01:28 |
 
 
