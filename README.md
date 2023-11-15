@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336581354669 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | -Padrastro 100% |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:51:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336577593014 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Гpигopий Гopoxocтpeл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:03 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336579355289 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | мя. кing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:46:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336581544280 |
-| Players | 1/5 |
-| Host Name | Strawberry Malone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:51:49 |
 
 
