@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336581086900 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:50:47 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336582418973 |
-| Players | 3/15 |
-| Host Name | :qqq! |
+| Players | 1/15 |
+| Host Name | 🌸🐶Milie🌸 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:53:45 |
 
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eating shrimp (in bed) |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:55:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336583315175 |
-| Players | 4/8 |
-| Host Name | ПАЛЫЧ ВРУБАЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:55:45 |
 
 
 |  | epic_boss_fight_nightmare |
