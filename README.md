@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336657995912 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:26:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336658317273 |
-| Players | 14/15 |
-| Host Name | Rick Sanchez |
+| Lobby ID | 28521336658934839 |
+| Players | 4/10 |
+| Host Name | < blank > |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:26:56 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:28:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:28:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336658934839 |
-| Players | 3/10 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:28:06 |
+| Lobby ID | 28521336659366660 |
+| Players | 5/8 |
+| Host Name | KoRo4E Mama TBoя |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:28:55 |
 
 
 |  | epic_boss_fight_nightmare |
