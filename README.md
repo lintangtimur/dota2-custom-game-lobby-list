@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336703273526 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | kLotho' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336703285222 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Abso1ute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:55 |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:40:17 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336701294532 |
-| Players | 1/10 |
-| Host Name | PapaJohari |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:40:51 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28521336703490447 |
-| Players | 2/7 |
-| Host Name | asgvil |
+| Lobby ID | 28521336703620403 |
+| Players | 1/7 |
+| Host Name | 𝖋𝖆𝖑𝖑𝖊𝖓_𝖋 |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:44:14 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:44:26 |
 
 
