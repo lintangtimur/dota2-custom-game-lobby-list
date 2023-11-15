@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336780475312 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ExtaZzZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:18:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336774892936 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | KICK MADARACHYO |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:45 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:19:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336774309801 |
-| Players | 23/24 |
-| Host Name | BROOKLYN T GUY |
+| Lobby ID | 28521336781866330 |
+| Players | 1/8 |
+| Host Name | Мятежный рыцарь к вашим услугам |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:12:08 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336777702726 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | TYCT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:38 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maylo_Bolya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:19:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336781866330 |
-| Players | 1/8 |
-| Host Name | Мятежный рыцарь к вашим услугам |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:19:50 |
 
 
 |  | epic_boss_fight_nightmare |
