@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336610584395 |
-| Players | 3/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
+| Players | 2/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:54:08 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336609661402 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:52:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336610963817 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:54:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336610983341 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:54:58 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28521336602243610 |
-| Players | 3/7 |
-| Host Name | sh00ter |
+| Players | 2/7 |
+| Host Name | ➤ D a a n |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
 
