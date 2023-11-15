@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336781214939 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TvoiTamada |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:19:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336769787530 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SIRIUS-BLACK |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:07:23 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336780475312 |
-| Players | 14/15 |
-| Host Name | ExtaZzZ |
+| Lobby ID | 28521336781814067 |
+| Players | 3/8 |
+| Host Name | Maylo_Bolya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:18:26 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336774892936 |
-| Players | 2/10 |
-| Host Name | KICK MADARACHYO |
+| Players | 1/10 |
+| Host Name | dian the psychotic seafood hater |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:45 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336775695902 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Rimad_Ded |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336781775994 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:19:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336781814067 |
-| Players | 3/8 |
-| Host Name | Maylo_Bolya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:19:47 |
 
 
 |  | epic_boss_fight_nightmare |
