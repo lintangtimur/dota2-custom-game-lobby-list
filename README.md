@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336883997803 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336886705240 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Huknul&Skushal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:50:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336877435431 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:43:29 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336881746744 |
+| Lobby ID | 28521336855674709 |
 | Players | 23/24 |
-| Host Name | 游戏蝗虫农师傅 |
+| Host Name | 非凡之冰霜 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:46:55 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:26:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336887041667 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Flowex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:51:06 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336886491543 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Лавитка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:50:40 |
@@ -139,17 +139,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336855674709 |
-| Players | 20/24 |
-| Host Name | 非凡之冰霜 |
+| Lobby ID | 28521336887355307 |
+| Players | 1/24 |
+| Host Name | Kaiju Sand |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:26:00 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:51:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336884886310 |
+| Players | 13/15 |
+| Host Name | butzig66™ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:49:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336887372179 |
+| Players | 2/8 |
+| Host Name | HELLO.Br0 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:51:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336857771062 |
+| Players | 7/15 |
+| Host Name | Кайбут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:27:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336887497876 |
+| Players | 1/8 |
+| Host Name | SAYFCKME |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:51:28 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336884356418 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Tiger :l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:58 |
@@ -162,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Takoadm |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:50:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336882310359 |
+| Players | 8/10 |
+| Host Name | SINISTER RAMEN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:47:21 |
 
 
