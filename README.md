@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336663025010 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:35:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336664028902 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dildo shwaggins |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:37:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336663248221 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | kLotho' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:36:10 |
