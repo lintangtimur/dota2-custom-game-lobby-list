@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336777702726 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | TYCT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336778478035 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Uomo focaccina |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:16:26 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:17:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336779687437 |
+| Players | 1/15 |
+| Host Name | 尼古丁真 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:17:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336771318428 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336777410931 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:21 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 再见回锅肉 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:17:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336779705551 |
+| Players | 1/10 |
+| Host Name | ZER0|零 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:17:40 |
 
 
