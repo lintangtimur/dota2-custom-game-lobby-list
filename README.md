@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:47:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336706369089 |
+| Players | 1/8 |
+| Host Name | Tadji(k)ILLeR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:48:36 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336702257091 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | La_Muerte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:42:20 |
