@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336725670785 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ЖЕКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:15:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336726594094 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:16:44 |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:17:01 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336724992802 |
-| Players | 2/10 |
-| Host Name | Hapiness |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:14:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336722549408 |
-| Players | 6/10 |
-| Host Name | Çħίℓℓ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:11:28 |
+| Lobby ID | 28521336726865406 |
+| Players | 1/24 |
+| Host Name | CP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:17:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +126,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 灵犀一指 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:16:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336722549408 |
+| Players | 7/10 |
+| Host Name | Çħίℓℓ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:11:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336726943310 |
+| Players | 1/5 |
+| Host Name | Billy Maize |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:17:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336725771892 |
+| Players | 1/5 |
+| Host Name | Kallter_53 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:15:40 |
 
 
