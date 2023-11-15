@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:50:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336644644768 |
-| Players | 14/15 |
-| Host Name | oi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:01:04 |
+| Lobby ID | 28521336646313234 |
+| Players | 1/8 |
+| Host Name | Tikovka <3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:04:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КВАДРАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:02:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336645683076 |
-| Players | 7/8 |
-| Host Name | Shogun Raiden |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:03:01 |
 
 
 |  | epic_boss_fight_nightmare |
