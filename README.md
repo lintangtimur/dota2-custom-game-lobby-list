@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336721650064 |
-| Players | 9/15 |
-| Host Name | Djevodji |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:10:17 |
+| Lobby ID | 28521336722129956 |
+| Players | 1/15 |
+| Host Name | fawkes |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:10:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336720166914 |
-| Players | 4/8 |
-| Host Name | TOXIC_Alex |
+| Players | 1/8 |
+| Host Name | dian the psychotic seafood hater |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:08:16 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336721386132 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | god complex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:09:56 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336722129956 |
+| Lobby ID | 28521336722414999 |
 | Players | 1/15 |
-| Host Name | fawkes |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:10:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336722295603 |
-| Players | 1/10 |
-| Host Name | sphynxy |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:11:08 |
+| Host Name | NIGGA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:11:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Члеонардо dickаприо |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:09:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336722267629 |
-| Players | 1/5 |
-| Host Name | Çħίℓℓ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:11:06 |
 
 
 |  | epic_boss_fight_nightmare |
