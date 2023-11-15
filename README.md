@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:39:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336636923126 |
-| Players | 7/8 |
-| Host Name | SosiskaKiller228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:46:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336637681406 |
-| Players | 8/24 |
-| Host Name | x^n+y^n=z^n |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:47:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336638193833 |
-| Players | 3/10 |
-| Host Name | Denji |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:48:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336634512574 |
@@ -74,20 +47,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:42:01 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336634838106 |
-| Players | 9/10 |
-| Host Name | Nehuy To Say |
+| Lobby ID | 28521336637681406 |
+| Players | 9/24 |
+| Host Name | x^n+y^n=z^n |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:47:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336638193833 |
+| Players | 4/10 |
+| Host Name | Denji |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:42:36 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:48:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336638436055 |
+| Players | 1/15 |
+| Host Name | Родитель 2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:49:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336635091028 |
-| Players | 4/10 |
-| Host Name | Fihed |
+| Players | 2/10 |
+| Host Name | DOTA: The Legend Of Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:43:03 |
 
