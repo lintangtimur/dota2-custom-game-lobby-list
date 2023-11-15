@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336660765967 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 52.FriendlyFuck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:31:31 |
@@ -76,20 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336661242322 |
+| Lobby ID | 28521336661312409 |
 | Players | 1/15 |
-| Host Name | Champ |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:32:24 |
+| Host Name | let me die |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:32:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336661243280 |
+| Lobby ID | 28521336661350645 |
 | Players | 1/15 |
 | Host Name | Borchic |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:32:24 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:32:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336661357005 |
+| Players | 1/15 |
+| Host Name | Syava |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:32:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336661341764 |
+| Players | 1/15 |
+| Host Name | Huvu |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:32:35 |
 
 
 |  | epic_boss_fight_hard |
