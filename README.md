@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336882735156 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lil meow meow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:47:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336883605703 |
-| Players | 9/15 |
+| Players | 5/15 |
 | Host Name | Mekus Mekus mo yan Insan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:23 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336863531643 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Joey De Leon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:32:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336822529976 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Pabaslanderaikan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
@@ -130,17 +130,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336857771062 |
-| Players | 13/15 |
-| Host Name | danyakaa |
+| Lobby ID | 28521336837695716 |
+| Players | 12/15 |
+| Host Name | 30Hz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:27:43 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336884062414 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Finesse |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:44 |
@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336876947241 |
-| Players | 4/10 |
-| Host Name | FUCKING PUSSY |
+| Players | 6/10 |
+| Host Name | Rivergod_Sobek |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:43:06 |
 
@@ -175,20 +175,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336837695716 |
-| Players | 8/15 |
-| Host Name | 30Hz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
+| Lobby ID | 28521336884886310 |
+| Players | 2/15 |
+| Host Name | butzig66™ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:49:24 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336882310359 |
-| Players | 8/10 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:47:21 |
+| Lobby ID | 28521336884878691 |
+| Players | 1/15 |
+| Host Name | FatFknLenny |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:49:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336884356418 |
+| Players | 1/5 |
+| Host Name | Tiger :l |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:48:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,14 +207,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | блэкхол в роддом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:47:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336884356418 |
-| Players | 2/5 |
-| Host Name | rexcor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:48:58 |
 
 
