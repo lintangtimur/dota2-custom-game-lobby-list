@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336774309801 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336777702726 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | TYCT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:38 |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:16:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336779139073 |
-| Players | 1/8 |
-| Host Name | B /mode\ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:17:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336779687437 |
-| Players | 1/15 |
-| Host Name | 尼古丁真 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:17:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336771318428 |
@@ -140,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336777410931 |
-| Players | 7/10 |
-| Host Name | ang qt qt ko |
+| Players | 6/10 |
+| Host Name | อู้วววว นักเก็ตปลา |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28521336779088143 |
-| Players | 1/5 |
-| Host Name | 再见回锅肉 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:17:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336779705551 |
-| Players | 1/10 |
-| Host Name | ZER0|零 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:17:40 |
+| Lobby ID | 28521336779898209 |
+| Players | 1/7 |
+| Host Name | I AM ATOMIC |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:17:51 |
 
 
