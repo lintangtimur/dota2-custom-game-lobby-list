@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336864402085 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | NoFail |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:33:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336860886952 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Lyoto Machista |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:30:16 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336860715200 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:30:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336858334565 |
-| Players | 1/15 |
-| Host Name | P@nic |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:28:10 |
+| Lobby ID | 28521336864960872 |
+| Players | 1/8 |
+| Host Name | ☜☢Legend☢☞ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:33:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336864866483 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Yafu |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336864960872 |
-| Players | 1/8 |
-| Host Name | ☜☢Legend☢☞ |
+| Lobby ID | 28521336861328498 |
+| Players | 6/15 |
+| Host Name | unkown |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:33:33 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:30:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336837695716 |
+| Players | 6/15 |
+| Host Name | Haku |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
 
 
 |  | epic_boss_fight_nightmare |
