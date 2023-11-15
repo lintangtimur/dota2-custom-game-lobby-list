@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336710649905 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:54:57 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336710958723 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | жим штанги пенисо |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:55:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336710950194 |
-| Players | 1/8 |
-| Host Name | кузя лакомкин |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:55:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336711038363 |
-| Players | 5/10 |
+| Players | 2/10 |
 | Host Name | Sleepless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:55:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336711520779 |
+| Players | 2/15 |
+| Host Name | Сократ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:56:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336710597972 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 青椒小新 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:54:52 |
