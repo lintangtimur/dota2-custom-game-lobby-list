@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336777501020 |
-| Players | 1/15 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:15:26 |
+| Lobby ID | 28521336777273319 |
+| Players | 1/8 |
+| Host Name | [Team Sprite] uglyfacekid |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:15:12 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336772322004 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 🍌 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:10:03 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336774151627 |
-| Players | 7/8 |
-| Host Name | Ashes of The Last World |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:11:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336774309801 |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336777273319 |
-| Players | 1/8 |
-| Host Name | [Team Sprite] uglyfacekid |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:15:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336777598696 |
+| Players | 1/5 |
+| Host Name | 再见回锅肉 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:15:32 |
 
 
