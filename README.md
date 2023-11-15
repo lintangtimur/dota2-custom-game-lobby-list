@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336822529976 |
-| Players | 13/15 |
+| Players | 15/15 |
 | Host Name | MimZy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336817183875 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | KaTheDirector |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336826870193 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:01:42 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336824593735 |
-| Players | 3/10 |
-| Host Name | merzost' |
+| Players | 2/10 |
+| Host Name | серега прокуратура |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:59:41 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336823749729 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | YA Y? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:58:56 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336827865459 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | _LEKI_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:02:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336828427780 |
-| Players | 1/24 |
-| Host Name | 兔纸 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:03:04 |
+| Lobby ID | 28521336828666741 |
+| Players | 3/8 |
+| Host Name | maepa |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:03:16 |
 
 
 |  | epic_boss_fight_nightmare |
