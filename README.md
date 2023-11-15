@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336822529976 |
-| Players | 11/15 |
-| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
+| Lobby ID | 28521336819110783 |
+| Players | 12/15 |
+| Host Name | 1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:54:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336820820208 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | kok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:56:19 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28521336817728672 |
 | Players | 9/10 |
-| Host Name | TOP REG in the world |
+| Host Name | osadsky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:33 |
 
@@ -149,16 +149,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336817183875 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Salman (no flame) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336823009499 |
+| Players | 1/10 |
+| Host Name | Смол кокмен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:58:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336816729764 |
+| Players | 20/24 |
+| Host Name | Dawg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:52:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336810208907 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Da |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:46:47 |
