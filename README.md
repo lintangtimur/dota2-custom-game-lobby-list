@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336624596366 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:23:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336624527914 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:22:58 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336625259425 |
-| Players | 1/24 |
-| Host Name | destiny |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:24:27 |
+| Lobby ID | 28521336625377912 |
+| Players | 2/24 |
+| Host Name | DraelgNaI |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:24:41 |
 
 
 |  | epic_boss_fight_nightmare |
