@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336765063914 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Bob |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:02:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336763632292 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:00:51 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336759019008 |
-| Players | 2/15 |
-| Host Name | Яна Мефе |
+| Players | 1/15 |
+| Host Name | камень в почке |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:55:43 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336765039458 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | itami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:02:23 |
