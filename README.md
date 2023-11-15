@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:49:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336674398235 |
-| Players | 2/8 |
-| Host Name | isn't like holding to the center |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:56:50 |
+| Lobby ID | 28521336673793126 |
+| Players | 7/15 |
+| Host Name | MrSuperman|002| |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:55:43 |
 
 
 |  | ot3_desert_octet |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336674118820 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Apxfly |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:56:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336673793126 |
-| Players | 7/15 |
-| Host Name | MrSuperman|002| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:55:43 |
 
 
