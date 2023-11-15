@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336594704656 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TopG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:20:36 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28521336595531178 |
+| Players | 1/7 |
+| Host Name | ~any_dLight |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:22:24 |
 
 
