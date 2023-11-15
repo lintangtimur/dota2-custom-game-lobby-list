@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336697549523 |
-| Players | 1/15 |
-| Host Name | SwampWizarD |
+| Lobby ID | 28521336697739810 |
+| Players | 4/8 |
+| Host Name | Sleepless |
 | Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:34:51 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:35:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336697575228 |
-| Players | 13/15 |
-| Host Name | Luqky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:34:53 |
+| Lobby ID | 28521336697455457 |
+| Players | 1/15 |
+| Host Name | Pussy Destroyer |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:34:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336697498775 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | такая тупая класс |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:34:46 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336697455457 |
+| Lobby ID | 28521336697732182 |
 | Players | 1/15 |
-| Host Name | Pussy Destroyer |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:34:41 |
+| Host Name | worse |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:35:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336697801341 |
+| Players | 1/15 |
+| Host Name | Lik |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:35:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ch1nazez |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:32:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336697789432 |
+| Players | 1/10 |
+| Host Name | DOTA: The Legend Of Miracle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:35:15 |
 
 
