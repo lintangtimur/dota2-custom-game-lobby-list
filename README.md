@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336826017102 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | KRIS JOSKA'YA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:00:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336802263708 |
-| Players | 13/15 |
-| Host Name | Сперма А. Джоли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:39:28 |
+| Lobby ID | 28521336826870193 |
+| Players | 1/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:01:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336820500908 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | solD0ut |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:56:02 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336823749729 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | YA Y? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:58:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336826454285 |
-| Players | 2/8 |
-| Host Name | MoSty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:01:20 |
+| Lobby ID | 28521336825017105 |
+| Players | 17/24 |
+| Host Name | [Komm] イレイナ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:00:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тотем в очко |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:36:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336827019656 |
+| Players | 1/10 |
+| Host Name | TO XERI TOU MIDA |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:01:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336827037094 |
+| Players | 2/5 |
+| Host Name | PyTи |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:01:51 |
 
 
