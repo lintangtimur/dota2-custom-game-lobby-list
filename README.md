@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336671705154 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:51:51 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336672343764 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | WelkZXC[SS]ZXC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:53:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336672614394 |
+| Players | 6/8 |
+| Host Name | Darling |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:53:32 |
 
 
