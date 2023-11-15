@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336807457608 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | FFF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:44:17 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:50:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336813982043 |
-| Players | 7/8 |
-| Host Name | GGG |
+| Lobby ID | 28521336817183875 |
+| Players | 2/10 |
+| Host Name | Salman (no flame) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:50:13 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336815270124 |
-| Players | 8/10 |
-| Host Name | AgroEssence |
+| Lobby ID | 28521336817108715 |
+| Players | 2/10 |
+| Host Name | Lunakisa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:51:23 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336816729764 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dawg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:52:39 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336808651128 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | летуалич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:45:22 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dCAWJIMBVIK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:52:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336817108715 |
-| Players | 2/10 |
-| Host Name | Lunakisa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:53:00 |
 
 
 |  | epic_boss_fight_nightmare |
