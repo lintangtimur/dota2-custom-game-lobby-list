@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336646458902 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Diamond Fish sauce |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:04:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336648513597 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Балдежный Пердеж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:08:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336648188702 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:07:44 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28521336648074293 |
 | Players | 9/15 |
-| Host Name | Kiwiszn |
+| Host Name | АЛЬФА БЕТА ТЁТЯ ШТРИХ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:07:31 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336649222045 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | dead dynasty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:09:42 |
