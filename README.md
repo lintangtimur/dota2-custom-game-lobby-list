@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:54:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336756016343 |
-| Players | 14/15 |
-| Host Name | zzz |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:52:19 |
+| Lobby ID | 28521336758232366 |
+| Players | 15/24 |
+| Host Name | Anantherzine-無盡的 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:54:50 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336755579671 |
-| Players | 7/8 |
-| Host Name | DKT |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:51:49 |
+| Lobby ID | 28521336758135794 |
+| Players | 4/10 |
+| Host Name | Luffy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:54:43 |
 
 
 |  | ot3_gardens_duo |
@@ -74,37 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336758135794 |
-| Players | 3/10 |
-| Host Name | Luffy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:54:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336758232366 |
-| Players | 10/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:54:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336758278069 |
-| Players | 1/8 |
-| Host Name | WAYNE |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:54:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336755378585 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:36 |
