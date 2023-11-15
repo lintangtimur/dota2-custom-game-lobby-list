@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336784515474 |
-| Players | 23/24 |
-| Host Name | Communist Yatoro |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:22:31 |
+| Lobby ID | 28521336796371744 |
+| Players | 6/10 |
+| Host Name | tt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:34:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336795949152 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | zzz |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:33:38 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:32:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336796286233 |
-| Players | 2/24 |
-| Host Name | bakit papa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:33:57 |
+| Lobby ID | 28521336796352770 |
+| Players | 1/8 |
+| Host Name | 01100011110010110011 |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:34:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336794239099 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | sfxooz // сухоза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:32:02 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336796279069 |
-| Players | 2/8 |
-| Host Name | K1yotaka |
+| Lobby ID | 28521336796519829 |
+| Players | 3/8 |
+| Host Name | Kondraty |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:33:56 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:34:09 |
 
 
 |  | epic_boss_fight_nightmare |
