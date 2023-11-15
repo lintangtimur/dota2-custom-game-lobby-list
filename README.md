@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:11:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336742544266 |
-| Players | 6/8 |
-| Host Name | валя самосвал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:36:47 |
+| Lobby ID | 28521336742951931 |
+| Players | 1/15 |
+| Host Name | Lyoto Machista |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:37:17 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336742741688 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:37:01 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336739749538 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:33:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336742951931 |
-| Players | 1/15 |
-| Host Name | Lyoto Machista |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:37:17 |
 
 
 |  | epic_boss_fight_nightmare |
