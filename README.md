@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336612158035 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | FV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336611001972 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:55:01 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336612093506 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Harvester of death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336609661402 |
-| Players | 14/15 |
-| Host Name | Scooter boi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:52:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | takina inoue is not my wife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521336612515788 |
+| Players | 1/7 |
+| Host Name | Clarke |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:58:11 |
 
 
