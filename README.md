@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336608993227 |
-| Players | 5/8 |
-| Host Name | smile |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:48 |
+| Lobby ID | 28521336609085193 |
+| Players | 1/15 |
+| Host Name | Cptn.Canuck |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:50:59 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:44:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336608756171 |
-| Players | 14/15 |
-| Host Name | Grift |
+| Lobby ID | 28521336609437679 |
+| Players | 3/8 |
+| Host Name | Th0rflnn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:18 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:51:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336607626384 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:47:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336608646290 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | El Ohanas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336609072988 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | темнотемнопизда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:58 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336609085193 |
+| Lobby ID | 28521336609661402 |
 | Players | 1/15 |
-| Host Name | Cptn.Canuck |
+| Host Name | Scooter boi |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336609437679 |
-| Players | 2/8 |
-| Host Name | Th0rflnn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:51:44 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:52:13 |
 
 
 |  | epic_boss_fight_nightmare |
