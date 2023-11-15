@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336802263708 |
-| Players | 9/15 |
-| Host Name | я в аду с: |
+| Players | 10/15 |
+| Host Name | Vodoleiy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:39:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336831744499 |
-| Players | 7/8 |
-| Host Name | packu |
+| Lobby ID | 28521336834664099 |
+| Players | 4/10 |
+| Host Name | Bitch, I'm Already Dead |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:05:56 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:08:25 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336825017105 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | лошара133000800вольт500маликпбщх |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:00:04 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336834664099 |
+| Lobby ID | 28521336817183875 |
 | Players | 4/10 |
-| Host Name | Bitch, I'm Already Dead |
+| Host Name | KaTheDirector |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:08:25 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336835598407 |
+| Players | 1/15 |
+| Host Name | Peridot |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:09:13 |
 
 
 |  | epic_boss_fight_nightmare |
