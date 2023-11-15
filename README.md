@@ -14,25 +14,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336657995912 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:26:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336658354438 |
-| Players | 9/10 |
-| Host Name | таутомерия |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:27:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336658317273 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Rick Sanchez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:26:56 |
@@ -40,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336658633670 |
-| Players | 1/8 |
-| Host Name | Аянами Рей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:27:32 |
+| Lobby ID | 28521336658864742 |
+| Players | 2/8 |
+| Host Name | -mabubs616/4 TEAM |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:27:58 |
 
 
 |  | epic_boss_fight_nightmare |
