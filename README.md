@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336668364279 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | solD0ut |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:45:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336668696193 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Agent P |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:16 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336669012802 |
-| Players | 3/15 |
-| Host Name | Ракета по-Сановск |
+| Players | 2/15 |
+| Host Name | KOD❟❛❟ |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:52 |
 
@@ -85,38 +85,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336669065219 |
-| Players | 5/8 |
-| Host Name | NEGIBATOR |
+| Lobby ID | 28521336669149262 |
+| Players | 2/8 |
+| Host Name | New_Tonn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:46:58 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:47:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336669125924 |
-| Players | 8/15 |
-| Host Name | gas station |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:47:05 |
+| Lobby ID | 28521336669248695 |
+| Players | 2/24 |
+| Host Name | Make UrSA Great Again ! |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:47:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336669127561 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | iB.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:47:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336669149262 |
-| Players | 1/8 |
-| Host Name | New_Tonn |
+| Lobby ID | 28521336666271332 |
+| Players | 16/24 |
+| Host Name | Lindvia| ZaiSe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:41:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336669470296 |
+| Players | 2/15 |
+| Host Name | ЖЕКА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:47:07 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:47:44 |
 
 
 |  | epic_boss_fight_hard |
@@ -131,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336664610496 |
-| Players | 4/10 |
-| Host Name | The Rock |
+| Players | 1/10 |
+| Host Name | 極樂蝶 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:43 |
 
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336665486198 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Дрочеслав сын еврея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:20 |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336668996642 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | KillerBee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
