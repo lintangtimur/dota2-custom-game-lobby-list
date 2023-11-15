@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336854707657 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | zzz |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336854716576 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DG_COACH |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336822529976 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | SWAMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336855330494 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Dissmac Volt |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:43 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336855674709 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:26:00 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336842090437 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | цвях |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:14:45 |
@@ -173,28 +173,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:57 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336847442180 |
+| Players | 17/24 |
+| Host Name | Meow Meow |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:19:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336856877932 |
+| Players | 6/8 |
+| Host Name | Лесная братва |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:26:59 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336850130484 |
 | Players | 2/5 |
-| Host Name | GOLD MEMBER |
+| Host Name | Upir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:21:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336853500655 |
+| Lobby ID | 28521336850923545 |
 | Players | 8/10 |
-| Host Name | 600 |
+| Host Name | HI? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:24:14 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:22:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336854470349 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:25:01 |
