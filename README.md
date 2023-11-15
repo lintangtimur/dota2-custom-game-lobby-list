@@ -67,18 +67,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336787469205 |
-| Players | 14/15 |
-| Host Name | boombox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:25:28 |
+| Lobby ID | 28521336785690872 |
+| Players | 13/15 |
+| Host Name | zzz |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:23:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336785473202 |
-| Players | 5/10 |
-| Host Name | Panda |
+| Players | 3/10 |
+| Host Name | i |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:23:29 |
 
@@ -92,40 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:25:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336787280797 |
-| Players | 9/10 |
-| Host Name | Van ♂️ Darkholme |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:25:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336787955473 |
-| Players | 2/10 |
-| Host Name | sf abuzer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:25:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336785690872 |
-| Players | 12/15 |
-| Host Name | oito |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:23:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336787998981 |
-| Players | 3/8 |
-| Host Name | чморики |
+| Lobby ID | 28521336784099950 |
+| Players | 7/15 |
+| Host Name | Безумный Паша |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:25:59 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:22:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:24:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336788120943 |
+| Players | 1/5 |
+| Host Name | [Су-57] - Пивная |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:26:06 |
 
 
