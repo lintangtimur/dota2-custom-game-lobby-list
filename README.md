@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336800724513 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Lyoto Machista |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:38:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336803601876 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Und3rC0ntr0l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:40:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336744247943 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336802208876 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Willl |
 | Region | PWTELECOMGUANGZHOU |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:39:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336802457734 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | bob |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:39:38 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:40:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336801581371 |
+| Players | 3/15 |
+| Host Name | kÉr| |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:38:50 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336795056417 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | {SoA}Fantom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:32:48 |
