@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336599158913 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:30:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336599562632 |
-| Players | 14/15 |
-| Host Name | Хахаль твоей мамы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:30:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336600131067 |
-| Players | 2/15 |
-| Host Name | GOZONE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:32:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | шрек 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:33:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336600131067 |
+| Players | 3/15 |
+| Host Name | GOZONE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:32:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336600821297 |
+| Players | 3/15 |
+| Host Name | EL HOMBRE SIDA !! |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:33:35 |
 
 
 |  | epic_boss_fight_nightmare |
