@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336703273526 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | kLotho' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:54 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:44 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336703663839 |
+| Players | 1/24 |
+| Host Name | 初音真爱粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:44:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336703714254 |
+| Players | 2/10 |
+| Host Name | подпишите отказ от обрезания |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:44:35 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336702257091 |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Твой Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:40:17 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28521336703620403 |
-| Players | 1/7 |
-| Host Name | 𝖋𝖆𝖑𝖑𝖊𝖓_𝖋 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:44:26 |
 
 
