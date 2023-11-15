@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336638552651 |
-| Players | 13/15 |
-| Host Name | Родитель 2 |
+| Lobby ID | 28521336639087331 |
+| Players | 6/15 |
+| Host Name | Хуеземлетряс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:49:35 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:50:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:49:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336639087331 |
-| Players | 3/15 |
-| Host Name | Хуеземлетряс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:50:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336638193833 |
-| Players | 9/10 |
-| Host Name | Denji |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:48:56 |
+| Lobby ID | 28521336639534346 |
+| Players | 3/10 |
+| Host Name | HQD СО ВКУСОМ ПИВА |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:51:25 |
 
 
