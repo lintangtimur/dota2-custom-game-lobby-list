@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336753961696 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Barbie Girl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:49:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336753394503 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Poctuwka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:49:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336752831311 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Barikkel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:48:41 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336754518421 |
-| Players | 1/24 |
-| Host Name | pavellll |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:50:37 |
+| Lobby ID | 28521336754457682 |
+| Players | 2/15 |
+| Host Name | шпрод |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:50:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:49:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336754457682 |
-| Players | 2/15 |
-| Host Name | шпрод |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:50:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336753968224 |
-| Players | 1/10 |
-| Host Name | Aior |
+| Lobby ID | 28521336754659765 |
+| Players | 1/5 |
+| Host Name | La_Muerte |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:49:59 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:50:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:48:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336754555449 |
-| Players | 1/5 |
-| Host Name | La_Muerte |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:50:40 |
+| Lobby ID | 28521336754753129 |
+| Players | 1/10 |
+| Host Name | Aior |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:50:53 |
 
 
