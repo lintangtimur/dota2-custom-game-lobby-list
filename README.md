@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336727907772 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | NEeshkereee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:18:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336728392773 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | MOWFASA |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:19:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336726865406 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | CP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:17:06 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:17:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336725818623 |
-| Players | 9/10 |
-| Host Name | Exp debuff enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:15:44 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336727699527 |
@@ -121,28 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336727440138 |
-| Players | 9/10 |
-| Host Name | Hyper- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:17:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28521336727246213 |
 | Players | 1/10 |
 | Host Name | ™PAQUER™ YOU™ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:17:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336727593286 |
-| Players | 1/5 |
-| Host Name | forever |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:18:01 |
 
 
