@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336754457682 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | шпрод |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:50:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336755190237 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | idfc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336755579671 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | DKT |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:49 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336756016343 |
+| Players | 1/15 |
+| Host Name | zzz |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:52:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336756037533 |
+| Players | 1/8 |
+| Host Name | asura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:52:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336755378585 |
@@ -83,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:36 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336753050098 |
-| Players | 9/10 |
-| Host Name | 3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:48:56 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336755884266 |
+| Lobby ID | 28521336756057942 |
 | Players | 1/5 |
 | Host Name | La_Muerte |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:52:10 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:52:22 |
 
 
