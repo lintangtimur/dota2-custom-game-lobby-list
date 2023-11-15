@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336767061495 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Moonro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:04:32 |
@@ -113,37 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336766722558 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | ЯША БЛЮ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:04:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336766708025 |
-| Players | 10/15 |
-| Host Name | metoda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:04:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336767459520 |
+| Lobby ID | 28521336767615153 |
 | Players | 2/10 |
 | Host Name | マabsoluteマ ϒ♕everlasting hateマ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:04:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336767484085 |
-| Players | 2/8 |
-| Host Name | андертейкер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:04:59 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:05:07 |
 
 
 |  | epic_boss_fight_nightmare |
