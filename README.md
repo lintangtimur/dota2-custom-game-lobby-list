@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336697619133 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | swap commends |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:34:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336698091694 |
-| Players | 9/10 |
-| Host Name | Ghost Grave |
+| Lobby ID | 28521336700351786 |
+| Players | 2/24 |
+| Host Name | Lion el Messi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:35:45 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:39:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336697498775 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | такая тупая класс |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:34:46 |
@@ -68,36 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336700081337 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:38:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336700316426 |
-| Players | 1/15 |
-| Host Name | DDX |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:39:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336700324383 |
-| Players | 1/5 |
-| Host Name | nvg Mayo |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:39:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336700336287 |
-| Players | 1/5 |
-| Host Name | La_Muerte |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:39:21 |
 
 
