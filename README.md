@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336600180793 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | torture me |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:32:12 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anwerd S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:19:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336601106842 |
+| Players | 1/5 |
+| Host Name | ™Infected |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:34:11 |
 
 
