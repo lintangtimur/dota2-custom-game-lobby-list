@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336784515474 |
-| Players | 22/24 |
-| Host Name | 一天不导积阳德，两天不导积积阳阳德 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:22:31 |
+| Lobby ID | 28521336775695902 |
+| Players | 12/15 |
+| Host Name | butcher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:29:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336791067635 |
-| Players | 2/10 |
-| Host Name | k1llen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:28:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336790018161 |
-| Players | 6/8 |
-| Host Name | Inoculisfurorem |
+| Lobby ID | 28521336788963321 |
+| Players | 3/8 |
+| Host Name | Bl1tz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:27:58 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:26:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336791018572 |
+| Players | 10/15 |
+| Host Name | krENDel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:28:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:24:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336775695902 |
-| Players | 14/15 |
-| Host Name | butcher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336791501391 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SASHA_BURIZA |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:29:25 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521336793111076 |
+| Players | 2/7 |
+| Host Name | andrew fuon veri sick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:30:59 |
 
 
