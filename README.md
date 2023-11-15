@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:35:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336698334446 |
-| Players | 7/10 |
-| Host Name | Pimp |
+| Lobby ID | 28521336698064882 |
+| Players | 6/8 |
+| Host Name | baldej |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:36:08 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:35:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336698529811 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Ps1hopat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:36:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336698064882 |
-| Players | 5/8 |
-| Host Name | baldej |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:35:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:35:25 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28521336695955792 |
-| Players | 1/7 |
-| Host Name | ch1nazez |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:32:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336697789432 |
-| Players | 4/10 |
-| Host Name | DOTA: The Legend Of Miracle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:35:15 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28521336698670350 |
@@ -137,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:36:41 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336697789432 |
+| Players | 5/10 |
+| Host Name | DOTA: The Legend Of Miracle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:35:15 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336698737275 |
+| Lobby ID | 28521336698836129 |
 | Players | 1/5 |
 | Host Name | La_Muerte |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:36:47 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:36:57 |
 
 
