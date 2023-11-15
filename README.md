@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336734199021 |
-| Players | 9/10 |
-| Host Name | FRSTCMFRSTSRVD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:26:32 |
+| Lobby ID | 28521336736043890 |
+| Players | 2/8 |
+| Host Name | qwerty |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:28:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336735847040 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | god complex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:37 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:24:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336736043890 |
-| Players | 2/8 |
-| Host Name | qwerty |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:28:52 |
+| Lobby ID | 28521336736563161 |
+| Players | 2/10 |
+| Host Name | yoshimura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:29:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336730907729 |
+| Players | 23/24 |
+| Host Name | -Archadia- |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:22:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZER0|零 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:26:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336736534271 |
+| Players | 1/5 |
+| Host Name | 这个可以有 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:29:29 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28521336736611796 |
+| Players | 2/7 |
+| Host Name | lol |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:29:34 |
 
 
