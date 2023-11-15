@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336586083076 |
-| Players | 7/10 |
-| Host Name | El Inka de Huaycan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:01:53 |
+| Lobby ID | 28521336585567013 |
+| Players | 3/10 |
+| Host Name | Optimal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:00:46 |
 
 
 |  | ot3_desert_octet |
@@ -29,30 +29,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:01:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336583086636 |
-| Players | 13/15 |
-| Host Name | elmanquit |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:55:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336585567013 |
-| Players | 3/10 |
-| Host Name | Optimal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:00:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336586223900 |
-| Players | 2/24 |
-| Host Name | bigboiboi |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:02:10 |
+| Lobby ID | 28521336586362642 |
+| Players | 1/5 |
+| Host Name | o_o!!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:02:28 |
 
 
