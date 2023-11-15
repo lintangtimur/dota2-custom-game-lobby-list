@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336796371744 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | tt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:34:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336795949152 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | zzz |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:33:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336796352770 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 01100011110010110011 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:34:00 |
@@ -94,27 +94,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336794239099 |
-| Players | 7/8 |
-| Host Name | sfxooz // сухоза |
+| Lobby ID | 28521336796640632 |
+| Players | 1/8 |
+| Host Name | Куст жимолости |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:32:02 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:34:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336796519829 |
-| Players | 3/8 |
-| Host Name | Kondraty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:34:09 |
+| Lobby ID | 28521336796635358 |
+| Players | 2/8 |
+| Host Name | Randall |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:34:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336791501391 |
-| Players | 5/10 |
-| Host Name | Coure |
+| Players | 3/10 |
+| Host Name | Kingsman |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:29:25 |
 
