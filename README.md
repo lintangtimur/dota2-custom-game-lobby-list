@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336630769845 |
-| Players | 9/15 |
-| Host Name | Шура-басура |
+| Players | 10/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:35:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336631419570 |
-| Players | 7/10 |
-| Host Name | CANCELUL |
+| Lobby ID | 28521336632319806 |
+| Players | 2/8 |
+| Host Name | Шарій killing spree |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:36:34 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:38:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:37:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336632319806 |
-| Players | 1/8 |
-| Host Name | Шарій killing spree |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:38:08 |
+| Lobby ID | 28521336632384241 |
+| Players | 1/15 |
+| Host Name | Conor McGregor |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:38:14 |
 
 
 |  | epic_boss_fight_nightmare |
