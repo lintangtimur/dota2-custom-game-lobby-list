@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336626184179 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | pos 1 pma |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:26:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336625849011 |
-| Players | 8/10 |
-| Host Name | +79538694802 по номеру |
+| Lobby ID | 28521336626515583 |
+| Players | 1/15 |
+| Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:25:36 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:26:56 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336626297485 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | p.khadunko.21vek.by |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:26:30 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:26:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336626484379 |
-| Players | 1/15 |
-| Host Name | Пенистый |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:26:52 |
 
 
 |  | epic_boss_fight_nightmare |
