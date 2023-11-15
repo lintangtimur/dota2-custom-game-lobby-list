@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336695962109 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:32:13 |
+| Lobby ID | 28521336696319335 |
+| Players | 7/15 |
+| Host Name | Ychus |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:32:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,26 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336694861915 |
-| Players | 7/8 |
-| Host Name | 2rbo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:30:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336696319335 |
-| Players | 6/15 |
-| Host Name | Ychus |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:32:48 |
+| Lobby ID | 28521336696660357 |
+| Players | 2/8 |
+| Host Name | Секс Зависимость |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:33:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336695181015 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | love |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:55 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ch1nazez |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:32:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336696583728 |
-| Players | 1/5 |
-| Host Name | AkdVq |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:33:15 |
 
 
