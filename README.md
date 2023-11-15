@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336822529976 |
-| Players | 13/15 |
-| Host Name | I.Khan.N |
+| Lobby ID | 28521336837695716 |
+| Players | 11/15 |
+| Host Name | успакойся |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:21:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336842090437 |
-| Players | 6/8 |
-| Host Name | цвях |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:14:45 |
+| Lobby ID | 28521336850103485 |
+| Players | 1/24 |
+| Host Name | woowowoo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:21:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336849560066 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | мишка фнифнер |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:20:59 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336847667522 |
-| Players | 7/8 |
-| Host Name | Holoバカ |
+| Lobby ID | 28521336850077943 |
+| Players | 3/8 |
+| Host Name | Mouse69 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:19:24 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:21:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,19 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336850077943 |
-| Players | 3/8 |
-| Host Name | Mouse69 |
+| Lobby ID | 28521336850279650 |
+| Players | 1/8 |
+| Host Name | Fsg |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:21:26 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:21:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336844888739 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:17:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336850130484 |
+| Players | 1/5 |
+| Host Name | GOLD MEMBER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:21:29 |
 
 
