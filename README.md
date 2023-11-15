@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336698091694 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ghost Grave |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:35:45 |
@@ -67,28 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336699958889 |
-| Players | 1/15 |
-| Host Name | ✖‿✖•爪卂爪卂 #2 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:38:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336700199518 |
-| Players | 2/15 |
-| Host Name | DDX |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:39:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28521336700081337 |
-| Players | 7/15 |
-| Host Name | Björk Guðmundsdóttir |
+| Players | 9/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:38:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336700316426 |
+| Players | 1/15 |
+| Host Name | DDX |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:39:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336700324383 |
+| Players | 1/5 |
+| Host Name | nvg Mayo |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:39:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336700336287 |
+| Players | 1/5 |
+| Host Name | La_Muerte |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:39:21 |
 
 
