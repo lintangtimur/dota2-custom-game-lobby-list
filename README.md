@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336733257831 |
-| Players | 7/8 |
-| Host Name | 5 |
+| Lobby ID | 28521336733226148 |
+| Players | 1/8 |
+| Host Name | dsa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:25:21 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:25:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336730907729 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | -Archadia- |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:22:20 |
@@ -112,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336733226148 |
+| Lobby ID | 28521336734068148 |
 | Players | 1/8 |
-| Host Name | dsa |
+| Host Name | profesornemo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:25:18 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:26:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336734150451 |
+| Players | 1/15 |
+| Host Name | S-Rank사냥꾼♡S1nestik |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:26:28 |
 
 
 |  | epic_boss_fight_nightmare |
