@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336745408338 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336745453875 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 01100011110010110011 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:14 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336747430577 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:42:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336748742951 |
-| Players | 1/10 |
-| Host Name | [P_P) |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:44:03 |
+| Lobby ID | 28521336748762057 |
+| Players | 1/15 |
+| Host Name | Olimpioda |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:44:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Black |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:39:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336748928315 |
+| Players | 1/10 |
+| Host Name | Leviathan |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:44:15 |
 
 
