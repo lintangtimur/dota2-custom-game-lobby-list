@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:59:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336643906225 |
-| Players | 14/15 |
-| Host Name | тебе пизда |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:59:40 |
+| Lobby ID | 28521336644546686 |
+| Players | 7/24 |
+| Host Name | BiaoGe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:00:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336640547975 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Goki |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:53:19 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:50:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336644546686 |
-| Players | 3/24 |
-| Host Name | BiaoGe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:00:53 |
+| Lobby ID | 28521336644644768 |
+| Players | 1/15 |
+| Host Name | oi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:01:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zzZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:59:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521336644684617 |
+| Players | 1/7 |
+| Host Name | KapiToshka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:01:08 |
 
 
