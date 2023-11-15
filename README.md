@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336684756730 |
-| Players | 23/24 |
-| Host Name | moonlight sunlight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:13:26 |
+| Lobby ID | 28521336686163304 |
+| Players | 1/8 |
+| Host Name | fake decaff boy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:15:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,55 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336684028640 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | фрин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:12:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336685732273 |
-| Players | 6/8 |
-| Host Name | NEGIBATOR |
+| Lobby ID | 28521336686443276 |
+| Players | 1/10 |
+| Host Name | LARL۞™ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:14:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336685913690 |
-| Players | 1/15 |
-| Host Name | BASHNASH |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:15:17 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:16:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336686243525 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | DrJefi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:15:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336686107190 |
-| Players | 1/15 |
-| Host Name | Sanec4ka |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:15:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336686163304 |
-| Players | 1/8 |
-| Host Name | fake decaff boy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:15:42 |
 
 
 |  | epic_boss_fight_normal |
