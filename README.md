@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336666271332 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Zilla |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:41:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336665608570 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ЖЕКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:34 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336665952398 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ghost Grave |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:41:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336666466673 |
+| Players | 3/10 |
+| Host Name | Br0ker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:42:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336666483118 |
+| Players | 1/15 |
+| Host Name | eblo †666† |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:42:11 |
 
 
 |  | epic_boss_fight_hard |
@@ -101,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:45 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28521336666404642 |
-| Players | 1/5 |
-| Host Name | THE REAPERMUERT  DARK |
+| Lobby ID | 28521336666500448 |
+| Players | 1/7 |
+| Host Name | "The Valya" |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:42:02 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:42:13 |
 
 
