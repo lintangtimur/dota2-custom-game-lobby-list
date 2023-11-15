@@ -49,17 +49,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336664581115 |
-| Players | 5/15 |
-| Host Name | Basghetti Polognese |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:38:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28521336664633816 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | AKashi~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:46 |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336665306354 |
-| Players | 1/5 |
-| Host Name | No MercY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:40:00 |
+| Lobby ID | 28521336665348943 |
+| Players | 1/10 |
+| Host Name | KillerBee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:40:05 |
 
 
