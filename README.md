@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336606383272 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | iGotRedEyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:45:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336606669657 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ХУЛИо |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:45:53 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336606749829 |
+| Lobby ID | 28521336606870473 |
 | Players | 1/8 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:46:03 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:46:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336606911662 |
+| Players | 3/8 |
+| Host Name | knhts |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:46:24 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336606874805 |
+| Players | 1/10 |
+| Host Name | CIRAULO |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:46:19 |
 
 
