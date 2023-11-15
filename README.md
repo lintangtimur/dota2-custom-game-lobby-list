@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336684674916 |
-| Players | 6/15 |
-| Host Name | закись ашота |
+| Players | 5/15 |
+| Host Name | Kawaii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:13:18 |
 
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:13:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336681583966 |
-| Players | 3/5 |
-| Host Name | Reactive |
+| Lobby ID | 28521336685127638 |
+| Players | 2/10 |
+| Host Name | чокопай |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:08:46 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:13:59 |
 
 
