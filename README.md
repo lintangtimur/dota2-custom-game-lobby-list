@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605561086 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:35 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:46:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336606911662 |
-| Players | 3/8 |
-| Host Name | knhts |
+| Lobby ID | 28521336606962937 |
+| Players | 2/15 |
+| Host Name | Litle broki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:46:24 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:46:31 |
 
 
 |  | epic_boss_fight_challenger |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336606874805 |
-| Players | 1/10 |
-| Host Name | CIRAULO |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:46:19 |
 
 
