@@ -59,46 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336795146453 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | CyberPank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:32:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336795876169 |
-| Players | 1/8 |
-| Host Name | 01100011110010110011 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:33:34 |
+| Lobby ID | 28521336795949152 |
+| Players | 1/15 |
+| Host Name | zzz |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:33:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336794794817 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:32:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336775695902 |
-| Players | 14/15 |
-| Host Name | Сперма А. Джоли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336791501590 |
-| Players | 23/24 |
-| Host Name | Loading... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:29:25 |
 
 
 |  | ot3_gardens_duo |
@@ -108,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Basar |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:33:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336790018161 |
+| Players | 7/8 |
+| Host Name | Inoculisfurorem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:27:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:32:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336795904261 |
-| Players | 1/5 |
-| Host Name | `crisvash29`` |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:33:36 |
+| Lobby ID | 28521336796101726 |
+| Players | 1/10 |
+| Host Name | ► Good gay, noob played |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:33:46 |
 
 
