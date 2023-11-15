@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336728392773 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | MExaDE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:19:04 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BLOOD_DJO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:26:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336734668119 |
-| Players | 7/8 |
-| Host Name | Чиназес бой |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:27:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336734800626 |
-| Players | 12/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:27:18 |
 
 
 |  | ot3_necropolis_ffa |
