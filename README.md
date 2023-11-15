@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336585967905 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Mc LOVIN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:01:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336586702133 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:03:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336587581238 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Scrowney2 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:04 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336587747770 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336587886589 |
+| Players | 1/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:05:43 |
 
 
 |  | epic_boss_fight_challenger |
