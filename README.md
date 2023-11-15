@@ -14,37 +14,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336576840974 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:41:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336576500468 |
-| Players | 14/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:40:39 |
+| Lobby ID | 28521336577587909 |
+| Players | 8/10 |
+| Host Name | NemNoG&DarKne$$#h%@ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:43:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336577806875 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | mymoneywon'tjigglejiggle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336577587909 |
-| Players | 6/10 |
-| Host Name | NemNoG&DarKne$$#h%@ |
+| Lobby ID | 28521336577978047 |
+| Players | 5/15 |
+| Host Name | Daja i Konterit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:43:03 |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:43:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336577992084 |
+| Players | 3/24 |
+| Host Name | Cancell ^^ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:43:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гpигopий Гopoxocтpeл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336577859508 |
-| Players | 1/5 |
-| Host Name | Argx1123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:43:40 |
 
 
