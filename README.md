@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:09:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336836502495 |
-| Players | 8/10 |
-| Host Name | boring |
+| Lobby ID | 28521336838146914 |
+| Players | 6/15 |
+| Host Name | AKashi~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:09:59 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:23 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336837695716 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ладно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:10:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336837990330 |
-| Players | 4/8 |
-| Host Name | я псих сори) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:11:15 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336817183875 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KaTheDirector |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336835317465 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Hello |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:08:58 |
@@ -158,9 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336835095969 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | меня била мать |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:08:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336838208425 |
+| Players | 1/5 |
+| Host Name | Уютный Кобанчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:27 |
 
 
