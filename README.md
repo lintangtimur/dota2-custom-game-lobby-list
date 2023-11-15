@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336701812256 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | HOONIGAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:41:39 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:28:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336699024983 |
-| Players | 14/15 |
-| Host Name | Chien2rue |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:37:16 |
+| Lobby ID | 28521336702662151 |
+| Players | 1/8 |
+| Host Name | Missing you happiness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:42:58 |
 
 
 |  | ot3_gardens_duo |
