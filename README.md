@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336745453875 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 01100011110010110011 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336749325901 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | посмотреть |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:44:42 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336748762057 |
-| Players | 1/15 |
-| Host Name | Olimpioda |
+| Players | 5/15 |
+| Host Name | MExaDE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:44:04 |
 
@@ -99,32 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | андертейкер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:44:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336744460260 |
-| Players | 6/10 |
-| Host Name | Black |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:39:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336748956789 |
-| Players | 1/5 |
-| Host Name | as |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:44:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336749394620 |
-| Players | 1/10 |
-| Host Name | JOHN WICK |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:44:46 |
 
 
