@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336675469744 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:58:33 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:59:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336674775523 |
-| Players | 14/15 |
-| Host Name | eternity is awesome |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:57:27 |
+| Lobby ID | 28521336677133726 |
+| Players | 1/8 |
+| Host Name | STOP POSTING ABOUT BALLER |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:01:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336676791411 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:00:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336677133726 |
-| Players | 1/8 |
-| Host Name | STOP POSTING ABOUT BALLER |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:01:37 |
 
 
 |  | epic_boss_fight_challenger |
