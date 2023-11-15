@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336624155356 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:22:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336626841913 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:27:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336626297485 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | p.khadunko.21vek.by |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:26:30 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336626894488 |
-| Players | 3/8 |
-| Host Name | Отдамся за шаурму |
+| Players | 2/8 |
+| Host Name | Мохнатое Колесо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:27:42 |
 
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336626913136 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Хуеземлетряс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:27:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336627239495 |
+| Players | 1/10 |
+| Host Name | misha_mavashi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:28:23 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28521336627216653 |
+| Players | 1/7 |
+| Host Name | ➤ D a a n |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:28:20 |
 
 
