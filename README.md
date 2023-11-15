@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336744247943 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336802208876 |
-| Players | 2/15 |
-| Host Name | Willl |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:39:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336813448616 |
-| Players | 7/10 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:49:44 |
+| Lobby ID | 28521336820500908 |
+| Players | 2/10 |
+| Host Name | solD0ut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:56:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336820429167 |
+| Players | 7/15 |
+| Host Name | trinazonas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:55:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336813982043 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | catbot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:50:13 |
@@ -101,13 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:54:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336820500120 |
+| Players | 2/8 |
+| Host Name | ☢DesertHaze☢ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:56:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336808651128 |
+| Players | 8/10 |
+| Host Name | Junya Watanabe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:45:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336820429167 |
-| Players | 1/15 |
-| Host Name | KOD❟❛❟ |
+| Lobby ID | 28521336820639717 |
+| Players | 5/15 |
+| Host Name | EC2 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:56:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336817728672 |
+| Players | 9/10 |
+| Host Name | enjoy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:55:58 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:33 |
 
 
 |  | epic_boss_fight_nightmare |
