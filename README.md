@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336889086595 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Anton.V |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:52:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336886705240 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Tankist132 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:50:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336880805703 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | [bk._.] servero el guardian |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:46:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336893908033 |
-| Players | 8/24 |
+| Players | 18/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:56:27 |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336901107253 |
-| Players | 7/10 |
-| Host Name | FEOFAN |
+| Lobby ID | 28521336899278738 |
+| Players | 4/10 |
+| Host Name | лунтик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:02:08 |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:00:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336863531643 |
-| Players | 2/24 |
-| Host Name | Black Lodge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:32:24 |
+| Lobby ID | 28521336896620651 |
+| Players | 5/15 |
+| Host Name | Vlazhno |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:58:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,28 +137,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 21:02:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336899278738 |
-| Players | 4/10 |
-| Host Name | лунтик |
+| Lobby ID | 28521336887845210 |
+| Players | 3/8 |
+| Host Name | warthefuck :3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:00:42 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:51:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336902804389 |
-| Players | 4/10 |
-| Host Name | SprintMaster |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:03:29 |
+| Lobby ID | 28521336822529976 |
+| Players | 4/15 |
+| Host Name | NEKO|HENTAI🐾 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336899851006 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Luc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:01:09 |
@@ -167,8 +167,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336900135344 |
-| Players | 2/10 |
-| Host Name | (DarGoS) |
+| Players | 1/10 |
+| Host Name | Drax54 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:01:22 |
 
@@ -176,9 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336900227301 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | mak |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:01:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336903258531 |
+| Players | 1/5 |
+| Host Name | Jhon Smith |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:03:50 |
 
 
