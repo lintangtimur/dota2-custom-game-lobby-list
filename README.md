@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336816589628 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Why So Ez? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:52:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336816729764 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Dawg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:52:39 |
@@ -128,15 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:45:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336817418939 |
-| Players | 5/8 |
-| Host Name | горячий борщ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:53:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336817544044 |
@@ -144,6 +135,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pohuy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336817728672 |
+| Players | 2/10 |
+| Host Name | mortra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336817723507 |
+| Players | 1/15 |
+| Host Name | Rσσ§†êr |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336801581371 |
+| Players | 3/15 |
+| Host Name | Діма Бампер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:38:50 |
 
 
 |  | epic_boss_fight_nightmare |
