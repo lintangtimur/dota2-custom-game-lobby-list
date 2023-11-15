@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336883997803 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:41 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336882735156 |
-| Players | 6/8 |
-| Host Name | Lil meow meow |
+| Lobby ID | 28521336878812728 |
+| Players | 6/10 |
+| Host Name | КотЭ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:47:41 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:44:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336877435431 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:43:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336883605703 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mekus Mekus mo yan Insan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336881957764 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | MrBuba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:47:05 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336863531643 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Joey De Leon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:32:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336822529976 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Pabaslanderaikan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:57:51 |
@@ -130,38 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336837695716 |
-| Players | 12/15 |
-| Host Name | 30Hz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
+| Lobby ID | 28521336884886310 |
+| Players | 4/15 |
+| Host Name | butzig66™ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:49:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336884062414 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Finesse |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336876947241 |
-| Players | 6/10 |
-| Host Name | Rivergod_Sobek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:43:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336884471893 |
-| Players | 3/8 |
-| Host Name | Zxc Гуль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:49:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -173,22 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:49:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336884886310 |
-| Players | 2/15 |
-| Host Name | butzig66™ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:49:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336884878691 |
-| Players | 1/15 |
-| Host Name | FatFknLenny |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:49:23 |
+| Lobby ID | 28521336884471893 |
+| Players | 4/8 |
+| Host Name | Zxc Гуль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:49:04 |
 
 
 |  | epic_boss_fight_normal |
