@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336663025010 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:35:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336664028902 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dildo shwaggins |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:37:37 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336664486499 |
-| Players | 1/15 |
-| Host Name | lechu 2222 gwei |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:38:29 |
+| Lobby ID | 28521336664633816 |
+| Players | 3/15 |
+| Host Name | AKashi~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:38:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Basghetti Polognese |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336664633816 |
-| Players | 3/15 |
-| Host Name | AKashi~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:38:46 |
 
 
 |  | epic_boss_fight_hard |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336664610496 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | No MercY |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:43 |
