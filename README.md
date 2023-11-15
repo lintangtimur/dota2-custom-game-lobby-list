@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336605925486 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ILose |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:44:20 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605561086 |
-| Players | 21/24 |
-| Host Name | Eren Yeager |
+| Players | 20/24 |
+| Host Name | itachi uchiha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:35 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336606383272 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | iGotRedEyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:45:17 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336606669657 |
-| Players | 2/15 |
-| Host Name | ХУЛИо |
+| Players | 1/15 |
+| Host Name | Лавашъ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:45:53 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336606962937 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Djevodji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:46:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28521336602243610 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
