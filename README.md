@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336728392773 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | MOWFASA |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:19:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336730243699 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DarkPanda |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:21:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336729162505 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Главный в дурке |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:20:06 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:21:37 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336730547424 |
+| Players | 3/15 |
+| Host Name | Haigh in the Shkaigh |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:21:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336729264257 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:21:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336730610668 |
+| Players | 1/10 |
+| Host Name | блэкхол в роддом |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:21:57 |
 
 
