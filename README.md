@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336653788184 |
-| Players | 4/8 |
-| Host Name | [ZIG]Arthas |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:18:27 |
+| Lobby ID | 28521336656399663 |
+| Players | 1/8 |
+| Host Name | baldej |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:23:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336655893390 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Confucius |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:22:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336655448110 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | BiaoGe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:21:34 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336656286865 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 6_6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:23:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336656399663 |
-| Players | 1/8 |
-| Host Name | baldej |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:23:21 |
 
 
 |  | epic_boss_fight_nightmare |
