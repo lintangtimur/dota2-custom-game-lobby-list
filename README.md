@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336713934963 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Said-Energizer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:59:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336713285520 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | szunari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:58:46 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:00:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336714369122 |
-| Players | 1/15 |
-| Host Name | Doma^Sama |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:00:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336714458858 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:00:26 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336708255877 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | M!XerOk |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:51:25 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shadow Wizard |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:59:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336713269985 |
-| Players | 9/10 |
-| Host Name | mrllano |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:58:45 |
 
 
