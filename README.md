@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336704814673 |
-| Players | 5/10 |
-| Host Name | TOXIC_Alex |
+| Players | 2/10 |
+| Host Name | Maleyvich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:46:14 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336703663839 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:44:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336704072531 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:45:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336704530542 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Папучи Винициано |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:45:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336704619068 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:45:56 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tv/swedenstrong |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:46:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336705138266 |
+| Players | 1/8 |
+| Host Name | !krooglick |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:46:44 |
 
 
 |  | epic_boss_fight_normal |
