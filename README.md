@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336707161143 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:49:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:50:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336708014024 |
+| Players | 2/8 |
+| Host Name | baldej |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:51:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336707848594 |
+| Lobby ID | 28521336708080806 |
 | Players | 1/15 |
-| Host Name | Haigh in the Shkaigh |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:50:49 |
+| Host Name | Willl |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:51:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336705943444 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:47:57 |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lThe Boys:Dl |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:48:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336708113366 |
+| Players | 1/5 |
+| Host Name | La_Muerte |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:51:13 |
 
 
