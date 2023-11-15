@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336670372034 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Аянами Рей |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:49:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336669248695 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Make UrSA Great Again ! |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:47:19 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336670701032 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | dooMix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:50:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336670769902 |
-| Players | 1/8 |
-| Host Name | luha |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:50:08 |
 
 
 |  | ot3_desert_octet |
@@ -94,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336670880578 |
+| Lobby ID | 28521336670994881 |
 | Players | 2/10 |
 | Host Name | nWord |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:50:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336670992331 |
+| Players | 1/5 |
+| Host Name | Ashly. |
 | Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:50:20 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:50:32 |
 
 
