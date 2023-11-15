@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336666271332 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Stewie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:41:47 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:43:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336667324089 |
-| Players | 8/10 |
-| Host Name | kara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:43:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336664028902 |
-| Players | 3/8 |
-| Host Name | can't lose |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:37:37 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28521336657772579 |
@@ -92,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:20 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336668101083 |
-| Players | 2/7 |
-| Host Name | Bipolarbear |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:45:11 |
+| Lobby ID | 28521336668152223 |
+| Players | 1/5 |
+| Host Name | шаданакар |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:45:17 |
 
 
