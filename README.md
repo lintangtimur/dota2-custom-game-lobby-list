@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336751982349 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Sisyphus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:47:43 |
@@ -83,21 +83,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:45:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336752195659 |
-| Players | 1/10 |
-| Host Name | 5 pos only |
+| Lobby ID | 28521336745408338 |
+| Players | 23/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:40:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336752386784 |
+| Players | 2/8 |
+| Host Name | обезьянище |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:47:58 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:48:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336752447876 |
+| Players | 1/15 |
+| Host Name | butcher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:48:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336751518026 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:47:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336752474396 |
+| Players | 1/5 |
+| Host Name | La_Muerte |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:48:17 |
 
 
