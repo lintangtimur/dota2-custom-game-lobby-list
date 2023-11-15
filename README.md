@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336608646290 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El Ohanas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605621393 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336602898801 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:37:59 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336612355137 |
+| Players | 1/15 |
+| Host Name | WIZARD |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:57:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336612120475 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Конфетка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336612306041 |
+| Players | 2/10 |
+| Host Name | takina inoue is not my wife |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:57:44 |
 
 
