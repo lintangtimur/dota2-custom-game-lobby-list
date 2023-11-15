@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336612158035 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | FV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336610983341 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:54:58 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336611783765 |
+| Lobby ID | 28521336612093506 |
 | Players | 1/10 |
-| Host Name | Silver X |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:56:38 |
+| Host Name | Harvester of death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:57:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:54:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336612093506 |
-| Players | 1/10 |
-| Host Name | Harvester of death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:57:17 |
+| Lobby ID | 28521336612625554 |
+| Players | 1/8 |
+| Host Name | Silver X |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:58:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:44 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336612515788 |
-| Players | 1/7 |
-| Host Name | Clarke |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:58:11 |
+| Lobby ID | 28521336612560424 |
+| Players | 1/5 |
+| Host Name | Okira |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:58:16 |
 
 
