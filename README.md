@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336932616106 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Murgath |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:26:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336932755627 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Mr. Nobody |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:26:43 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 21:27:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336932366653 |
-| Players | 5/10 |
-| Host Name | шпигун Буданов |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:26:26 |
+| Lobby ID | 28521336929696103 |
+| Players | 5/8 |
+| Host Name | Dominic Decoco |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:24:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336883997803 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Aki ゲーマー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:41 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336932253277 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | P-sune 666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:26:21 |
@@ -149,37 +149,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336888987684 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Frozenmilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:52:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336933274333 |
-| Players | 1/15 |
-| Host Name | 𝕻𝖗𝖎𝖛𝖆𝖙𝖊𝕽 |
+| Lobby ID | 28521336907932344 |
+| Players | 8/24 |
+| Host Name | H1RO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:27:07 |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:07:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336932744957 |
-| Players | 1/8 |
-| Host Name | ГИНЕКОЛОГ |
+| Lobby ID | 28521336928594772 |
+| Players | 2/8 |
+| Host Name | beligorod |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:26:43 |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:23:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336907932344 |
-| Players | 9/24 |
-| Host Name | H1RO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:07:31 |
+| Lobby ID | 28521336933350087 |
+| Players | 3/8 |
+| Host Name | potato |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:27:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336924972211 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Tiger :l |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:20:46 |
@@ -216,14 +216,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heheehe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:27:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336928058817 |
-| Players | 9/10 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:23:09 |
 
 
