@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336691798746 |
-| Players | 6/10 |
-| Host Name | KaTheDirector |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:25:12 |
+| Lobby ID | 28521336692895711 |
+| Players | 1/15 |
+| Host Name | ОГРЫЗОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:27:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336692563475 |
-| Players | 9/10 |
-| Host Name | kLotho' |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:26:30 |
+| Lobby ID | 28521336690017400 |
+| Players | 11/24 |
+| Host Name | amrhulst |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:22:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Волк с лузстрик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:26:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336690017400 |
-| Players | 12/24 |
-| Host Name | amrhulst |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:22:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336692621959 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:26:36 |
