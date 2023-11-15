@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336844437647 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:16:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336845681410 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MrBuba |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:17:45 |
@@ -146,19 +146,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:55:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336802263708 |
+| Players | 14/15 |
+| Host Name | Exhausted 420 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:39:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336845837158 |
-| Players | 5/8 |
-| Host Name | TO BE HAPPY |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:17:53 |
+| Lobby ID | 28521336845965193 |
+| Players | 4/8 |
+| Host Name | Hook )-------> |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:18:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336846025291 |
+| Players | 2/8 |
+| Host Name | Cheris Lee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:18:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336842764044 |
+| Players | 4/15 |
+| Host Name | TS.$ULTVN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:15:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336844888739 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:17:06 |
