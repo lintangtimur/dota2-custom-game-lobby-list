@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336689527092 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:21:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336690017400 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | amrhulst |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:22:12 |
