@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336620235143 |
-| Players | 7/8 |
-| Host Name | emotionless |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:14:12 |
+| Lobby ID | 28521336622566047 |
+| Players | 1/8 |
+| Host Name | Doge |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:19:00 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336620534586 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | MADABO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:14:50 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Осама бен срайда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:18:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336622566047 |
-| Players | 5/8 |
-| Host Name | smash es mi pastor |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:19:00 |
 
 
 |  | epic_boss_fight_nightmare |
