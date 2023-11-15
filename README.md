@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336713934963 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Said-Energizer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:59:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336715791778 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 1 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:02:18 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336715889012 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | NEeshkereee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:02:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336716221841 |
+| Players | 1/24 |
+| Host Name | The not to be named one |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:02:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336716260587 |
+| Players | 3/8 |
+| Host Name | デ =ק |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:02:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shadow Wizard |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:59:22 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28521336716161384 |
-| Players | 2/7 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:02:49 |
 
 
