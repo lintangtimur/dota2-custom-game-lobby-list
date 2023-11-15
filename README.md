@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336694884399 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | exthious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336694534114 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ВлажDick |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:29:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336695199331 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | над колесами |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336694683397 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ExSide- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:05 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336689127204 |
-| Players | 1/5 |
-| Host Name | Xat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:20:43 |
+| Lobby ID | 28521336695216280 |
+| Players | 2/5 |
+| Host Name | jusplayin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:30:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | love |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:30:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336695216280 |
-| Players | 1/5 |
-| Host Name | jusplayin |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:30:58 |
 
 
