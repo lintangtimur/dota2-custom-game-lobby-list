@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336675469744 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:58:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336676058958 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Optimal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:59:35 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336670511521 |
-| Players | 3/15 |
-| Host Name | Clownself |
+| Players | 1/15 |
+| Host Name | YES |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:49:40 |
 
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:00:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336677133726 |
+| Players | 1/8 |
+| Host Name | STOP POSTING ABOUT BALLER |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:01:37 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28521336675881574 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:59:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336676476923 |
-| Players | 1/10 |
-| Host Name | я не хочу просыпа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:00:22 |
 
 
