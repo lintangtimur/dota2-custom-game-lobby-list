@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336890373352 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | P-sune 666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:53:44 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336863531643 |
-| Players | 5/24 |
-| Host Name | L |
+| Players | 6/24 |
+| Host Name | crazy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:32:24 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336879043019 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ZaZu _MT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:44:45 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28521336886705240 |
 | Players | 3/8 |
-| Host Name | чемпион бытия |
+| Host Name | Gliknot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:50:50 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336891972490 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Lorny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:54:58 |
@@ -146,10 +146,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:39:21 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336892840429 |
+| Players | 1/15 |
+| Host Name | Чернушка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:55:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336888870420 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hakai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:52:33 |
