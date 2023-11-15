@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336592467603 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | フランシュチョウ-ゾン |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:15:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336595901648 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | темнотемнопизда |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:23:11 |
@@ -23,10 +23,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336592322913 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:15:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336596743805 |
+| Players | 6/8 |
+| Host Name | Tigrillo is back |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:24:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336596690380 |
+| Players | 4/10 |
+| Host Name | 110 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:24:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336596844563 |
+| Players | 2/8 |
+| Host Name | Everything Is Fine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:25:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336596842755 |
+| Players | 1/8 |
+| Host Name | массаж простаты? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:25:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336596847174 |
+| Players | 1/15 |
+| Host Name | себас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:25:11 |
 
 
 |  | epic_boss_fight_hard |
