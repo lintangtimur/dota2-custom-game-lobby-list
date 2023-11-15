@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:11:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336741073805 |
-| Players | 13/15 |
-| Host Name | popka |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:35:01 |
+| Lobby ID | 28521336742247653 |
+| Players | 6/24 |
+| Host Name | TakeMeAway |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:36:25 |
 
 
 |  | ot3_gardens_duo |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336741853545 |
-| Players | 6/24 |
-| Host Name | TakeMeAway |
+| Lobby ID | 28521336740737247 |
+| Players | 7/10 |
+| Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:35:57 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336739749538 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:33:26 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336741133212 |
-| Players | 2/8 |
-| Host Name | qwerty |
+| Lobby ID | 28521336742260141 |
+| Players | 3/8 |
+| Host Name | ビザを取得する |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:35:05 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:36:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336742044495 |
-| Players | 2/8 |
-| Host Name | валя самосвал |
+| Lobby ID | 28521336742175996 |
+| Players | 6/8 |
+| Host Name | бананчики |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:36:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336740737247 |
-| Players | 6/10 |
-| Host Name | She looks like starry sky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:34:37 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:36:20 |
 
 
 |  | epic_boss_fight_nightmare |
