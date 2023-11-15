@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336697619133 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:34:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336699539429 |
+| Players | 1/15 |
+| Host Name | ✖‿✖•爪卂爪卂 #2 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:38:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336697789432 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:35:15 |
