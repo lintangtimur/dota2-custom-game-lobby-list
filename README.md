@@ -74,31 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336739082474 |
-| Players | 4/8 |
-| Host Name | Feelingpeace’s |
+| Lobby ID | 28521336740429330 |
+| Players | 6/15 |
+| Host Name | AKashi~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:32:37 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336739749538 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:33:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336740553716 |
+| Players | 2/10 |
+| Host Name | Nukenin |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:24 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336740398898 |
+| Lobby ID | 28521336740559897 |
 | Players | 1/15 |
-| Host Name | Scoots |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:34:12 |
+| Host Name | TakeMeAway |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:24 |
 
 
 |  | epic_boss_fight_nightmare |
