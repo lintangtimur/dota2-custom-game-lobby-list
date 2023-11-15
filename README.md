@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336609085193 |
-| Players | 13/15 |
-| Host Name | Cptn.Canuck |
+| Lobby ID | 28521336608646290 |
+| Players | 2/8 |
+| Host Name | El Ohanas |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:59 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:50:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605621393 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336610322451 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GentlemanDante |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:53:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336610584395 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:54:08 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336608646290 |
+| Lobby ID | 28521336610856438 |
 | Players | 1/8 |
-| Host Name | El Ohanas |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:04 |
+| Host Name | Negrolas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:54:42 |
 
 
 |  | epic_boss_fight_challenger |
