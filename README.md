@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336744247943 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:49 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336810627413 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | sf abuzer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:47:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336817183875 |
-| Players | 9/10 |
-| Host Name | Salman (no flame) |
+| Lobby ID | 28521336813982043 |
+| Players | 5/8 |
+| Host Name | GGG |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:50:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336818199527 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Killua[RU] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:58 |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dimval<3 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:54:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336819110783 |
-| Players | 7/15 |
-| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:54:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336813982043 |
-| Players | 5/8 |
-| Host Name | GGG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:50:13 |
 
 
 |  | epic_boss_fight_nightmare |
