@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336663025010 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:35:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336665608570 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ЖЕКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336664610496 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | The Rock |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:38:43 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дрочеслав сын еврея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336665707174 |
+| Players | 1/10 |
+| Host Name | KillerBee |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:40:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336665707627 |
+| Players | 1/10 |
+| Host Name | ZER0|零 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:40:45 |
 
 
