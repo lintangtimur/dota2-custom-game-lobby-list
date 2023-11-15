@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336622117919 |
-| Players | 13/15 |
-| Host Name | Pilɡrəm |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:18:05 |
+| Lobby ID | 28521336623433224 |
+| Players | 1/10 |
+| Host Name | 释放你的灵魂 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:20:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336621017963 |
-| Players | 9/10 |
-| Host Name | ∝  → 3 Knives Knight | |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:15:49 |
+| Lobby ID | 28521336623236839 |
+| Players | 2/24 |
+| Host Name | †_† |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336622982670 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 111111111111111111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:19:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336623051550 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Denji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:19:59 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bünyamin button |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336623236839 |
-| Players | 3/24 |
-| Host Name | †_† |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336623433224 |
-| Players | 1/10 |
-| Host Name | 释放你的灵魂 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:20:45 |
 
 
 |  | epic_boss_fight_nightmare |
