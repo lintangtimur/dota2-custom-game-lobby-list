@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336668351547 |
-| Players | 1/10 |
-| Host Name | полотенце |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:45:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336669992464 |
-| Players | 1/10 |
-| Host Name | i |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:48:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336669470296 |
-| Players | 12/15 |
-| Host Name | ЖЕКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:47:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336669248695 |
-| Players | 1/24 |
-| Host Name | Make UrSA Great Again ! |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:47:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336669992464 |
+| Players | 1/10 |
+| Host Name | i |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:48:42 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336669127561 |
@@ -83,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:47:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336670079418 |
-| Players | 1/10 |
-| Host Name | solD0ut |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:48:52 |
+| Lobby ID | 28521336669248695 |
+| Players | 3/24 |
+| Host Name | Make UrSA Great Again ! |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:47:19 |
 
 
 |  | epic_boss_fight_hard |
@@ -104,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336665486198 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Дрочеслав сын еврея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:40:20 |
