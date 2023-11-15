@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336612631860 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Umbral Resident |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:58:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336613457847 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:00:07 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336616075867 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:05:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336618063734 |
-| Players | 5/8 |
-| Host Name | no comms |
+| Lobby ID | 28521336619475630 |
+| Players | 7/15 |
+| Host Name | на опыте |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:09:41 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:12:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:11:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336619546114 |
+| Players | 5/8 |
+| Host Name | ☭ Oh no Hermano ☭ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:12:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336618584123 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | HaaLand |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:10:47 |
