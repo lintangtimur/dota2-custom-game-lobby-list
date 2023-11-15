@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336663330253 |
-| Players | 1/15 |
-| Host Name | Hallow Down#kose madare khamenei |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:36:19 |
+| Lobby ID | 28521336663790769 |
+| Players | 4/15 |
+| Host Name | CSO |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:37:11 |
 
 
 |  | ot3_necropolis_ffa |
