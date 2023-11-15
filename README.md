@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336785796324 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:23:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336787858505 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:25:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336775695902 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | butcher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336788741174 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 0 ошибок |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:26:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336788899852 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | YOU'RE ALIVE? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:26:53 |
@@ -119,12 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:26:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336788920127 |
-| Players | 2/10 |
-| Host Name | Mr |
+| Lobby ID | 28521336788963321 |
+| Players | 1/8 |
+| Host Name | asura |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:26:54 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:26:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336785690872 |
+| Players | 15/15 |
+| Host Name | QR-Cock |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:23:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336789150988 |
+| Players | 1/5 |
+| Host Name | Love-Is Gone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:27:07 |
 
 
