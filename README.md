@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336586702133 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:03:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336587662308 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | xeyz11 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:14 |
@@ -59,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336587747770 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:25 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28521336587733210 |
-| Players | 1/5 |
-| Host Name | MiniGod |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:05:23 |
+| Lobby ID | 28521336587761701 |
+| Players | 2/7 |
+| Host Name | ST10 |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:05:27 |
 
 
