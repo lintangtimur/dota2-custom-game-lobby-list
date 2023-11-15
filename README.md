@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336741073805 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:35:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336740737247 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Calabasas(slowed+reverb) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:34:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336739749538 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:33:26 |
@@ -108,6 +108,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NEeshkereee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:34:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336735847040 |
+| Players | 7/8 |
+| Host Name | КОММЕРС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:28:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336741577664 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:35:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336741598102 |
+| Players | 1/8 |
+| Host Name | я нуб ты труп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:35:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336740623016 |
+| Players | 2/8 |
+| Host Name | 0% winrate |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336739875630 |
+| Players | 9/10 |
+| Host Name | mon4ter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:33:35 |
 
 
 |  | epic_boss_fight_nightmare |
