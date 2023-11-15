@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336743756929 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Sanctus Animus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:14 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336742741688 |
-| Players | 7/10 |
-| Host Name | trash teammate |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:37:01 |
+| Lobby ID | 28521336743833804 |
+| Players | 2/10 |
+| Host Name | A1000DY SH1ГARAM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:38:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336743519460 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Костыль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:37:57 |
