@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28521336694217471 |
 | Players | 3/8 |
-| Host Name | мяКИШ |
+| Host Name | bring back arcane blink |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:29:18 |
 
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:20:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336692621959 |
-| Players | 9/10 |
-| Host Name | CLLOSEHEIMER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:26:36 |
 
 
