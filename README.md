@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336628529793 |
-| Players | 12/15 |
-| Host Name | Вахуе допиваю чай |
+| Lobby ID | 28521336630448806 |
+| Players | 5/10 |
+| Host Name | carryplayer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:30:55 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:34:42 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Шарій killing spree |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:34:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336630448806 |
-| Players | 5/10 |
-| Host Name | carryplayer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:34:42 |
 
 
 |  | epic_boss_fight_hard |
