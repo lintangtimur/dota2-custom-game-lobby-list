@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336589322217 |
-| Players | 1/15 |
-| Host Name | NyxHero |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:08:53 |
+| Lobby ID | 28521336589372639 |
+| Players | 4/15 |
+| Host Name | Ali Abdelaziz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:08:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336589133269 |
-| Players | 4/24 |
+| Players | 12/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:08:28 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:08:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336589452960 |
+| Players | 1/15 |
+| Host Name | MEYTALLL |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:09:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336588017204 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:06:00 |
