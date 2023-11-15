@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336582418973 |
-| Players | 1/15 |
-| Host Name | 🌸🐶Milie🌸 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:53:45 |
+| Lobby ID | 28521336583086636 |
+| Players | 8/15 |
+| Host Name | eating shrimp (in bed) |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:55:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336583086636 |
-| Players | 7/15 |
-| Host Name | eating shrimp (in bed) |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:55:14 |
+| Lobby ID | 28521336583496277 |
+| Players | 1/15 |
+| Host Name | 先杀我队友 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:56:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336582942347 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | dyyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:54:55 |
