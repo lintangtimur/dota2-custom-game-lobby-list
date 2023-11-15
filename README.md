@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336638193833 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Denji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:48:56 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336638552642 |
-| Players | 1/15 |
-| Host Name | O'Scully |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:49:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28521336638552651 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Родитель 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:49:35 |
