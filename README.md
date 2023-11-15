@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336816589628 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Why So Ez? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:52:32 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336817723507 |
-| Players | 1/15 |
-| Host Name | Rσσ§†êr |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:53:32 |
+| Lobby ID | 28521336817728672 |
+| Players | 2/10 |
+| Host Name | mortra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:53:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336810080677 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | IIiIIiII |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:46:40 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336801581371 |
-| Players | 9/15 |
-| Host Name | Діма Бампер |
+| Players | 7/15 |
+| Host Name | успакойся |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:38:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336817728672 |
-| Players | 2/10 |
-| Host Name | mortra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:53:33 |
 
 
 |  | epic_boss_fight_nightmare |
