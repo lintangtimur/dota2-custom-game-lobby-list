@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336612631860 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Umbral Resident |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:58:25 |
@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605621393 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336619050284 |
-| Players | 8/10 |
-| Host Name | сиськи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:11:47 |
+| Lobby ID | 28521336613457847 |
+| Players | 5/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:00:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336619994462 |
-| Players | 2/10 |
-| Host Name | слишком легко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:13:42 |
+| Lobby ID | 28521336620534586 |
+| Players | 2/24 |
+| Host Name | lolnope |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:14:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,36 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336620386356 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Asmoder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:14:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336613457847 |
-| Players | 5/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:00:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336620534586 |
-| Players | 1/24 |
-| Host Name | Dâu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:14:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336618584123 |
-| Players | 9/10 |
-| Host Name | HaaLand |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:10:47 |
+| Lobby ID | 28521336620587587 |
+| Players | 1/10 |
+| Host Name | Лил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:14:56 |
 
 
