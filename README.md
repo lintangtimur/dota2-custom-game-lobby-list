@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336641093388 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | itachi prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:54:21 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336643389910 |
-| Players | 1/15 |
-| Host Name | кто такой felicia? |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:58:43 |
+| Lobby ID | 28521336643906225 |
+| Players | 2/15 |
+| Host Name | тебе пизда |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:59:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336640547975 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Goki |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:53:19 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Акадий Передозов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:57:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336643940877 |
+| Players | 1/10 |
+| Host Name | zzZ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:59:44 |
 
 
