@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336828938973 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | pohuy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:03:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336826870193 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:01:42 |
@@ -92,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:59:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336829433300 |
+| Players | 7/15 |
+| Host Name | AKashi~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:03:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336829497907 |
+| Players | 4/8 |
+| Host Name | maepa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:04:00 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336824593735 |
-| Players | 9/10 |
-| Host Name | серега прокуратура |
+| Lobby ID | 28521336810627413 |
+| Players | 2/10 |
+| Host Name | sf abuzer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:59:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336825017105 |
-| Players | 23/24 |
-| Host Name | [Komm] イレイナ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:00:04 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:47:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336827833963 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | TO XERI TOU MIDA |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:02:33 |
@@ -131,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336827942636 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | × WΛSTΣD × |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:02:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336829374971 |
+| Players | 2/5 |
+| Host Name | насяльника |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:03:53 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521336829573527 |
+| Players | 1/7 |
+| Host Name | Clarke |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:04:04 |
 
 
