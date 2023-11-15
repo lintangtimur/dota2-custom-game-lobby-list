@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336713934963 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Said-Energizer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:59:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336713285520 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | szunari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:58:46 |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:00:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336714290707 |
-| Players | 1/8 |
-| Host Name | Пряня enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:00:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336714311083 |
-| Players | 1/24 |
-| Host Name | 哥要开始强力的牛生了 |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:00:14 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336714307003 |
+| Lobby ID | 28521336714369122 |
 | Players | 1/15 |
-| Host Name | Страшнеслав |
+| Host Name | Doma^Sama |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:00:13 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:00:19 |
 
 
 |  | epic_boss_fight_normal |
