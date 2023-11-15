@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336586702133 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:03:11 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kill? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:12:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336591125110 |
+| Players | 2/10 |
+| Host Name | 『Kumagawa Misogi』 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:12:51 |
 
 
