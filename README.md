@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336745453875 |
-| Players | 7/8 |
+| Players | 3/8 |
 | Host Name | 01100011110010110011 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336744013349 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:38:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336745379352 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | zzz |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:40:09 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336744289722 |
-| Players | 14/15 |
-| Host Name | ghoul 1000 - 7 |
+| Lobby ID | 28521336747430577 |
+| Players | 1/15 |
+| Host Name | Shade1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:38:52 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:42:32 |
 
 
 |  | epic_boss_fight_nightmare |
