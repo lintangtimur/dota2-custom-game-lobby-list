@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336626609456 |
-| Players | 12/15 |
-| Host Name | Haku |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:27:07 |
+| Lobby ID | 28521336629708259 |
+| Players | 3/10 |
+| Host Name | nesenia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:33:13 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336628508909 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | сучка |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:30:52 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мамка Стиффлера |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:32:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336629708259 |
-| Players | 2/10 |
-| Host Name | nesenia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:33:13 |
 
 
 |  | epic_boss_fight_hard |
