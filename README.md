@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336583032823 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | зверёныш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:55:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336582613988 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | LiLkUrSo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:54:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336583086636 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | dumkuntmagee |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:55:14 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336583625545 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | (/_-) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:56:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336584773479 |
+| Players | 3/24 |
+| Host Name | eating shrimp (in bed) |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:59:01 |
 
 
 |  | epic_boss_fight_nightmare |
