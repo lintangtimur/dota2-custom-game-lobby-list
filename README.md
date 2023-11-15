@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:15:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336593322858 |
-| Players | 11/15 |
-| Host Name | Cheater |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:17:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336594646342 |
-| Players | 2/8 |
-| Host Name | TioClokcWerkXD |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:20:29 |
+| Lobby ID | 28521336594771701 |
+| Players | 4/10 |
+| Host Name | PhysikerHabenEinenNeuenWegGefund |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:20:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336594771701 |
-| Players | 3/10 |
-| Host Name | PhysikerHabenEinenNeuenWegGefund |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:20:45 |
+| Lobby ID | 28521336595004606 |
+| Players | 1/10 |
+| Host Name | TioClokcWerkXD |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:21:15 |
 
 
 |  | epic_boss_fight_hard |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336594068500 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | _.KH._ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:19:14 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336594704656 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | TopG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:20:36 |
