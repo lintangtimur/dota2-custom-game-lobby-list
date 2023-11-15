@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336577992084 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Cancell ^^ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:57 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336577806875 |
-| Players | 10/24 |
-| Host Name | Johnny Dang |
+| Players | 8/24 |
+| Host Name | Mrs Poopoo Lu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:33 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336579466326 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | :scythephόriâ 力 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:47:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336579218979 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | посмотреть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:46:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336579709097 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Pygalo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:47:44 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336579782430 |
+| Lobby ID | 28521336579856341 |
+| Players | 2/8 |
+| Host Name | Antisocial_ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:48:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336579861734 |
 | Players | 1/8 |
-| Host Name | Marci Lover69 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:47:54 |
+| Host Name | リル・レキャム・プー |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:48:05 |
 
 
 |  | epic_boss_fight_nightmare |
