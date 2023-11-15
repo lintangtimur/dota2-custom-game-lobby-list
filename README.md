@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336623236839 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336933708628 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Канистрыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:27:27 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336911993517 |
-| Players | 4/8 |
-| Host Name | ThE FirsT MooN |
+| Lobby ID | 28521336933970683 |
+| Players | 3/8 |
+| Host Name | FuckingPeople |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:10:41 |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:27:39 |
 
 
 |  | ot3_desert_octet |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336933350087 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | potato |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:27:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336929696103 |
-| Players | 6/8 |
-| Host Name | Dominic Decoco |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:24:24 |
+| Lobby ID | 28521336888987684 |
+| Players | 10/24 |
+| Host Name | Frozenmilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:52:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336907932344 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:07:31 |
@@ -113,46 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336924039958 |
-| Players | 2/15 |
-| Host Name | Nameless King |
+| Players | 3/15 |
+| Host Name | ™☢  nero_demon  ☢ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:20:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336934262063 |
-| Players | 2/8 |
-| Host Name | yan1k |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:27:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336933970683 |
-| Players | 3/8 |
-| Host Name | FuckingPeople |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:27:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336921170997 |
-| Players | 9/10 |
-| Host Name | Shzam |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:17:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336888987684 |
-| Players | 9/24 |
-| Host Name | Frozenmilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:52:39 |
 
 
 |  | ot3_gardens_duo |
@@ -185,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336924972211 |
-| Players | 2/5 |
-| Host Name | Tiger :l |
+| Players | 1/5 |
+| Host Name | pwnyouevryday |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:20:46 |
 
@@ -194,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336933216156 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | heheehe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:27:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336934298029 |
-| Players | 2/5 |
-| Host Name | tokyoKioto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 21:27:54 |
 
 
