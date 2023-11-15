@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336756695112 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:53:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336755579671 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DKT |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336735624471 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | OmeGaX |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336756037533 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | asura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:52:20 |
@@ -94,37 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336756500134 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:52:52 |
+| Lobby ID | 28521336757314841 |
+| Players | 3/8 |
+| Host Name | Сварщик-3godota2.com |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:53:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336755378585 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:36 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336756234117 |
-| Players | 9/10 |
-| Host Name | Rebecca |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:52:34 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336757194321 |
+| Lobby ID | 28521336757261670 |
 | Players | 1/5 |
 | Host Name | La_Muerte |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:53:39 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:53:44 |
 
 
