@@ -31,29 +31,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336605925486 |
-| Players | 1/10 |
-| Host Name | Ｂｌａｎｃａｎｉｅｖ e |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:44:20 |
+| Lobby ID | 28521336610322451 |
+| Players | 3/10 |
+| Host Name | шрек 2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:53:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336609437679 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Th0rflnn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:51:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336607626384 |
-| Players | 16/24 |
-| Host Name | Nadia Omara |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:47:55 |
+| Lobby ID | 28521336608728166 |
+| Players | 1/8 |
+| Host Name | Litle broki |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:50:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,30 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336610466633 |
+| Players | 1/24 |
+| Host Name | Negrolas |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:53:54 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336608728166 |
-| Players | 1/8 |
-| Host Name | Litle broki |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336609072988 |
-| Players | 13/15 |
-| Host Name | темнотемнопизда |
+| Lobby ID | 28521336610505953 |
+| Players | 6/8 |
+| Host Name | Unlimitless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:50:58 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:53:59 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28521336602243610 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | sh00ter |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336610494968 |
+| Players | 1/5 |
+| Host Name | ZXCпалкой в жопе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:53:57 |
 
 
