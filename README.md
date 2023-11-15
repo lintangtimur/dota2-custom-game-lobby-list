@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336680840223 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | над колесами |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:07:44 |
@@ -77,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336674775523 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | dendi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:57:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336681142007 |
-| Players | 1/8 |
-| Host Name | アブソリュート |
+| Lobby ID | 28521336681265833 |
+| Players | 1/5 |
+| Host Name | СуньХуйВЧай |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:08:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336681138448 |
-| Players | 1/10 |
-| Host Name | 『Kumagawa Misogi』 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:08:08 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:08:19 |
 
 
