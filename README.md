@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336763642865 |
-| Players | 6/8 |
-| Host Name | Волк с луз стрик |
+| Lobby ID | 28521336768205590 |
+| Players | 5/10 |
+| Host Name | Влад Картофель |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:00:52 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:05:44 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336759019008 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Сократ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:55:43 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336765120751 |
-| Players | 7/8 |
-| Host Name | Maxi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:02:28 |
+| Lobby ID | 28521336768220932 |
+| Players | 1/15 |
+| Host Name | Samღღღღღ♡ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:05:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336764763363 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:02:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336768203107 |
+| Players | 1/10 |
+| Host Name | sorriso.sornione |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:05:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336768335617 |
+| Players | 4/8 |
+| Host Name | KoRo4E Mama TBoя |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:05:52 |
 
 
 |  | epic_boss_fight_nightmare |
