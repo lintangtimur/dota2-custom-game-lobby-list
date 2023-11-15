@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:11:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336740303852 |
-| Players | 5/8 |
-| Host Name | Poctuwka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:34:06 |
+| Lobby ID | 28521336741073805 |
+| Players | 7/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:35:01 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336740737247 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Calabasas(slowed+reverb) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:34:37 |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336739749538 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:33:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336738781122 |
-| Players | 9/10 |
-| Host Name | Shut_666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:32:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336740725839 |
-| Players | 1/8 |
-| Host Name | NEeshkereee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:34:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336741073805 |
-| Players | 5/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:35:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | qwerty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:35:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336740725839 |
+| Players | 1/8 |
+| Host Name | NEeshkereee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:36 |
 
 
 |  | epic_boss_fight_nightmare |
