@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:39:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336634512574 |
-| Players | 23/24 |
-| Host Name | 神楽坂一二三乃愛美癒 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:42:01 |
+| Lobby ID | 28521336638821791 |
+| Players | 1/10 |
+| Host Name | kto myaukaet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:50:06 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:47:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336638193833 |
-| Players | 9/10 |
-| Host Name | Denji |
+| Lobby ID | 28521336638884844 |
+| Players | 1/24 |
+| Host Name | FronSide |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:48:56 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:50:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336638552651 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Родитель 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:49:35 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:49:55 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336638821791 |
-| Players | 1/10 |
-| Host Name | kto myaukaet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:50:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336635091028 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:43:03 |
