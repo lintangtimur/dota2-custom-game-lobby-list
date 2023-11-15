@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336592411635 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ArcaN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:15:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336592467603 |
-| Players | 21/24 |
-| Host Name | jgjnujkmo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:15:45 |
+| Lobby ID | 28521336595081101 |
+| Players | 2/15 |
+| Host Name | Я |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:21:25 |
 
 
 |  | ot3_desert_octet |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PhysikerHabenEinenNeuenWegGefund |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:20:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336595081101 |
-| Players | 2/15 |
-| Host Name | бананчик |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:21:25 |
 
 
 |  | epic_boss_fight_hard |
