@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336603304931 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | l1ghtning |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:38:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336601783784 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | vac_banichik (russ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:35:37 |
@@ -47,21 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:39:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336601775707 |
-| Players | 9/10 |
-| Host Name | NemNoG&DarKne$$#h%@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:35:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336603609825 |
-| Players | 1/5 |
-| Host Name | o_o!!! |
+| Lobby ID | 28521336603671233 |
+| Players | 4/24 |
+| Host Name | Danger Line |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:39:29 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:39:37 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521336602243610 |
+| Players | 6/7 |
+| Host Name | Lose modo show |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
 
 
