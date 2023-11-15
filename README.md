@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:22:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336784099950 |
-| Players | 13/15 |
-| Host Name | Безумный Паша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:22:06 |
+| Lobby ID | 28521336786106423 |
+| Players | 1/8 |
+| Host Name | Chayen nomsod |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:24:07 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336785260229 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Voland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:23:16 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:23:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336785926488 |
-| Players | 1/24 |
-| Host Name | En Taro Oliveira.cn |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:23:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336785923679 |
-| Players | 3/8 |
-| Host Name | DDreams.Matiskadi.1XBET |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:23:57 |
+| Lobby ID | 28521336777702726 |
+| Players | 12/15 |
+| Host Name | DFePa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:15:38 |
 
 
 |  | epic_boss_fight_nightmare |
