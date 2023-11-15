@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336616659278 |
-| Players | 13/15 |
-| Host Name | InFernaL |
+| Lobby ID | 28521336619201648 |
+| Players | 5/8 |
+| Host Name | abezyana |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:06:44 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:12:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336618063734 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | no comms |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:09:41 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | сиськи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:11:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336619280823 |
+| Players | 1/15 |
+| Host Name | Animazzy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:12:16 |
 
 
 |  | epic_boss_fight_nightmare |
