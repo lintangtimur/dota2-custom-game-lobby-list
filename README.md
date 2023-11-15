@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336654572626 |
-| Players | 3/15 |
-| Host Name | VvV |
+| Players | 6/15 |
+| Host Name | Osamu Khalisov |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:19:56 |
 
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336654584665 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ROCK HARD |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:19:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336654653182 |
+| Players | 2/10 |
+| Host Name | Urahara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:20:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:14:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336654605053 |
-| Players | 1/10 |
-| Host Name | устал выигрывать |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:19:59 |
 
 
