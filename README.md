@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336623433224 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 释放你的灵魂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336622982670 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | 111111111111111111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:19:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336623051550 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Denji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:19:59 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336623204941 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 5 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336624106647 |
-| Players | 1/15 |
-| Host Name | 酱油钻野 亲妈立即死亡 |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:22:08 |
+| Lobby ID | 28521336624155356 |
+| Players | 3/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:22:14 |
 
 
 |  | epic_boss_fight_nightmare |
