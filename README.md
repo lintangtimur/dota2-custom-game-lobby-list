@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336656399663 |
-| Players | 6/8 |
-| Host Name | baldej |
+| Lobby ID | 28521336657480228 |
+| Players | 5/15 |
+| Host Name | Хахаль твоей мамы |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:23:21 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:25:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336654584665 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ROCK HARD |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:19:57 |
@@ -36,24 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RIMING |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:25:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336657480228 |
-| Players | 4/15 |
-| Host Name | Хахаль твоей мамы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:25:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336657345806 |
-| Players | 1/8 |
-| Host Name | mk`f1zzy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:25:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,21 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:23:16 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28521336657609645 |
+| Lobby ID | 28521336657772579 |
 | Players | 1/7 |
 | Host Name | 鲁子敬 |
 | Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:25:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336657605201 |
-| Players | 2/5 |
-| Host Name | буст до рекрута |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:25:36 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:25:56 |
 
 
