@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336653788184 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:18:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336653208383 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Confucius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:17:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336652688587 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Yuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:16:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336654028982 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Fuсhik |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:18:56 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336652145372 |
+| Lobby ID | 28521336651239814 |
 | Players | 14/15 |
-| Host Name | Justin Weaver |
+| Host Name | белый чел |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:15:17 |
+| Lobby Creation Time | Wednesday, November 15, 2023 16:13:32 |
 
 
 |  | epic_boss_fight_nightmare |
