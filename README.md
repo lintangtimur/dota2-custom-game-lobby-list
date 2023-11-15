@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336613457847 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:00:07 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:12:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336619546114 |
-| Players | 7/8 |
-| Host Name | ☭ Oh no Hermano ☭ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:12:48 |
+| Lobby ID | 28521336619994462 |
+| Players | 2/10 |
+| Host Name | слишком легко |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:13:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336618584123 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | HaaLand |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:10:47 |
