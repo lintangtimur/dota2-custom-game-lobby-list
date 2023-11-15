@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336659917553 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DENDI REP 1:1 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:29:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336723071484 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:12:10 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336722866706 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | dian the psychotic seafood hater |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:11:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336724260806 |
+| Players | 4/15 |
+| Host Name | Ни дня без дрочки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:13:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336723342312 |
+| Players | 10/15 |
+| Host Name | =f |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:12:31 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,27 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336722673499 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tete |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:11:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336722778909 |
-| Players | 1/5 |
-| Host Name | Thara Frog |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:11:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336724188141 |
-| Players | 1/5 |
-| Host Name | Водочка Путина |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:13:36 |
 
 
