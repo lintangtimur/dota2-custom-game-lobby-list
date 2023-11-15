@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336766722558 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ЯША БЛЮ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:04:10 |
@@ -122,17 +122,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336766708025 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | metoda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:04:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336766853586 |
+| Players | 1/8 |
+| Host Name | Hate. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:04:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336766944189 |
+| Players | 1/10 |
+| Host Name | Moonro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:04:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336755378585 |
-| Players | 7/10 |
-| Host Name | GreShnik |
+| Players | 6/10 |
+| Host Name | Большое Финишное |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:51:36 |
 
@@ -162,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trafalgar Law |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:04:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336766762337 |
-| Players | 2/5 |
-| Host Name | lol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:04:13 |
 
 
