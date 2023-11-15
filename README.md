@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336608646290 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | El Ohanas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:04 |
@@ -67,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336610856438 |
+| Lobby ID | 28521336610963817 |
 | Players | 1/8 |
-| Host Name | Negrolas |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:54:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336610983341 |
+| Players | 1/24 |
+| Host Name | Ohayo! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:54:42 |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:54:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336611001972 |
+| Players | 1/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:55:01 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sh00ter |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:36:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521336610923984 |
+| Players | 1/10 |
+| Host Name | Конфетка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:54:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336611021569 |
+| Players | 1/5 |
+| Host Name | S.G |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:55:03 |
 
 
