@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336806650311 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Ghost_Rotaidalg_USSR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:43:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336809946087 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:46:33 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:39:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336810390100 |
-| Players | 1/24 |
-| Host Name | Sol[A]ce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:46:57 |
+| Lobby ID | 28521336811724539 |
+| Players | 2/8 |
+| Host Name | SAYm00N |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:48:10 |
 
 
 |  | ot3_gardens_duo |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336806214140 |
-| Players | 9/15 |
-| Host Name | Sh0cK |
+| Lobby ID | 28521336811842413 |
+| Players | 4/15 |
+| Host Name | Shade1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:43:07 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:48:17 |
 
 
 |  | ot3_gardens_duo |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336810946988 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | dubas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:47:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336811768455 |
+| Players | 3/15 |
+| Host Name | 7 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:48:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336811908893 |
+| Players | 1/8 |
+| Host Name | PSG.LGD Ame |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:48:20 |
 
 
 |  | epic_boss_fight_nightmare |
