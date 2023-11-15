@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336770933364 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:08:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336774151627 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Ashes of The Last World |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:11:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336774309801 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:08 |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KICK MADARACHYO |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336772083086 |
-| Players | 6/8 |
-| Host Name | Владимир Путин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:09:47 |
 
 
 |  | epic_boss_fight_nightmare |
