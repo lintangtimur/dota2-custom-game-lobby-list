@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336805515105 |
-| Players | 2/8 |
-| Host Name | hellkitty |
+| Players | 1/8 |
+| Host Name | Rayug4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:42:29 |
 
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336805642048 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:42:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336801581371 |
-| Players | 9/15 |
-| Host Name | o0ma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:38:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336786678798 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | BABO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:24:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336806214140 |
+| Players | 1/15 |
+| Host Name | СТАРИЧОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:43:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gamospitos |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:41:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336806221905 |
+| Players | 1/5 |
+| Host Name | KiriЕШka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:43:08 |
 
 
