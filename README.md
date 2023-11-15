@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336709142541 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | текіла сансет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:52:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:51:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336710568312 |
-| Players | 1/8 |
-| Host Name | d1xE |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:54:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336708782062 |
-| Players | 5/10 |
-| Host Name | Exp debuff enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:52:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336710649905 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:54:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336710851706 |
+| Players | 2/8 |
+| Host Name | dom1br0s |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:55:15 |
 
 
 |  | epic_boss_fight_normal |
