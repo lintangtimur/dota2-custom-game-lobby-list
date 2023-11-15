@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605621393 |
-| Players | 4/24 |
-| Host Name | swap commends |
+| Players | 3/24 |
+| Host Name | cry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:42 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336627756474 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | BSJ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:29:24 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336626297485 |
-| Players | 14/15 |
-| Host Name | p.khadunko.21vek.by |
+| Lobby ID | 28521336628508909 |
+| Players | 3/8 |
+| Host Name | сучка |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:26:30 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:30:52 |
 
 
 |  | ot3_desert_octet |
@@ -68,28 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336626609456 |
-| Players | 7/15 |
+| Players | 3/15 |
 | Host Name | Haku |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:27:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336628508909 |
-| Players | 2/8 |
-| Host Name | сучка |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:30:52 |
+| Lobby ID | 28521336628983518 |
+| Players | 1/24 |
+| Host Name | Jing |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:31:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336626913136 |
-| Players | 13/15 |
-| Host Name | Хуеземлетряс |
+| Lobby ID | 28521336626297485 |
+| Players | 14/15 |
+| Host Name | p.khadunko.21vek.by |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:26:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336629034755 |
+| Players | 6/10 |
+| Host Name | Unlimitless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:27:44 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:31:54 |
 
 
 |  | epic_boss_fight_hard |
