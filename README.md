@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336773709508 |
-| Players | 5/10 |
-| Host Name | ABOBA BOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:11:30 |
+| Lobby ID | 28521336771163228 |
+| Players | 7/10 |
+| Host Name | idfc |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:08:49 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336735624471 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | OmeGaX |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336774309801 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521336773874404 |
-| Players | 7/8 |
-| Host Name | Abso1ute |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:11:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336774474035 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | g star |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:18 |
@@ -121,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336774465265 |
-| Players | 2/8 |
-| Host Name | Veenix |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:12:18 |
+| Lobby ID | 28521336774592787 |
+| Players | 3/8 |
+| Host Name | domino |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:12:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336774892936 |
+| Players | 2/10 |
+| Host Name | KICK MADARACHYO |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:12:45 |
 
 
 |  | epic_boss_fight_nightmare |
