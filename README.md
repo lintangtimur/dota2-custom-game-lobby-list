@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336725818623 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Exp debuff enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:15:44 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:15:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336723342312 |
-| Players | 14/15 |
-| Host Name | goodessboy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:12:31 |
+| Lobby ID | 28521336726485444 |
+| Players | 2/8 |
+| Host Name | начальник доты |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:16:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336726811952 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | CyberPank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:17:01 |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336727082998 |
-| Players | 2/8 |
-| Host Name | Инфузopия лoббинкa |
+| Lobby ID | 28521336727114995 |
+| Players | 3/8 |
+| Host Name | whycutter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:17:22 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:17:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336726485444 |
-| Players | 2/8 |
-| Host Name | начальник доты |
+| Lobby ID | 28521336727242958 |
+| Players | 3/8 |
+| Host Name | DDreams.Matiskadi.1XBET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:16:36 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:17:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -157,19 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336727075983 |
+| Lobby ID | 28521336727141726 |
 | Players | 1/5 |
-| Host Name | EMPERATOOR_No1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:17:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336727104798 |
-| Players | 1/5 |
-| Host Name | E.schrodinger's cat |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:17:24 |
+| Host Name | FledgeRaid |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:17:27 |
 
 
