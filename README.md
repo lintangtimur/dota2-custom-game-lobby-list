@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336921170997 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Shzam |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:17:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336924180609 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | h3po444 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:20:09 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336883997803 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Aki ゲーマー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:48:41 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336924863666 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 21 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:20:41 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336924423129 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Space |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:20:20 |
@@ -176,10 +176,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336917227850 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Maxim Lavrov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 21:14:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336921902601 |
+| Players | 1/8 |
+| Host Name | d0bry-j |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:18:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336925263504 |
+| Players | 1/15 |
+| Host Name | MoNsTeR! |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:21:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336925367372 |
+| Players | 1/15 |
+| Host Name | MntSTAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 21:21:05 |
 
 
 |  | epic_boss_fight_nightmare |
