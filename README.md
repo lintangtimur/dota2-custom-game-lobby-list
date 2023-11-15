@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336837683318 |
-| Players | 2/15 |
-| Host Name | папино пиво |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:10:59 |
+| Lobby ID | 28521336838416830 |
+| Players | 1/15 |
+| Host Name | Главный в дурке |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336835743637 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ghost_Rotaidalg_USSR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:09:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336838146914 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | AKashi~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:11:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336837695716 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ладно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
@@ -128,22 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:53:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336835317465 |
-| Players | 9/10 |
-| Host Name | Hello |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:08:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336837696409 |
-| Players | 1/10 |
-| Host Name | Çħίℓℓ |
+| Lobby ID | 28521336838348656 |
+| Players | 3/8 |
+| Host Name | REYSKYWALKER! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:34 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 20:08:47 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336838208425 |
-| Players | 1/5 |
-| Host Name | Уютный Кобанчик |
+| Lobby ID | 28521336837696409 |
+| Players | 3/10 |
+| Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:11:27 |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:11:00 |
 
 
