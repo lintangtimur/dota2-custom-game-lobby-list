@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336704814673 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | UuduuZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:46:14 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:46:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336704134503 |
-| Players | 8/10 |
-| Host Name | Світляр |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:45:12 |
+| Lobby ID | 28521336705425007 |
+| Players | 1/15 |
+| Host Name | ♡●結婚式の日に●♡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:47:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336705216132 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | idc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:46:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336704619068 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:45:56 |
@@ -92,20 +92,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:46:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336705425007 |
-| Players | 1/15 |
-| Host Name | ♡●結婚式の日に●♡ |
+| Lobby ID | 28521336705607294 |
+| Players | 1/8 |
+| Host Name | NEeshkereee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:47:10 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:47:26 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28521336702257091 |
-| Players | 2/5 |
-| Host Name | rar |
+| Players | 1/5 |
+| Host Name | La_Muerte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:42:20 |
 
