@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336780475312 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | ExtaZzZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:18:26 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336781721787 |
-| Players | 1/24 |
-| Host Name | 太田 |
+| Lobby ID | 28521336781751982 |
+| Players | 1/8 |
+| Host Name | Костян (Мосол) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:19:41 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336777702726 |
+| Players | 14/15 |
+| Host Name | TYCT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:15:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336775695902 |
+| Players | 13/15 |
+| Host Name | Rimad_Ded |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336781775994 |
+| Players | 5/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336781709046 |
+| Lobby ID | 28521336781814067 |
 | Players | 3/8 |
-| Host Name | DEREKTOR |
+| Host Name | Maylo_Bolya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336781866330 |
+| Players | 1/8 |
+| Host Name | Мятежный рыцарь к вашим услугам |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:19:40 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:50 |
 
 
 |  | epic_boss_fight_nightmare |
