@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 13:41:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336577587909 |
-| Players | 8/10 |
-| Host Name | NemNoG&DarKne$$#h%@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:43:03 |
+| Lobby ID | 28521336577992084 |
+| Players | 4/24 |
+| Host Name | Cancell ^^ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:43:57 |
 
 
 |  | ot3_desert_octet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daja i Konterit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521336577992084 |
-| Players | 3/24 |
-| Host Name | Cancell ^^ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:43:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336578116478 |
-| Players | 1/15 |
-| Host Name | EL SAURON DE LA CUMBIA |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:44:14 |
 
 
 |  | epic_boss_fight_nightmare |
