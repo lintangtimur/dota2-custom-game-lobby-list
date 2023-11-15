@@ -23,18 +23,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336586548970 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Prigovor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:02:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336586633341 |
-| Players | 9/15 |
-| Host Name | F33l Lik3 Dyin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:03:03 |
 
 
