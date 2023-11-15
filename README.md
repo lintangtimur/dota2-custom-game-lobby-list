@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:22:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336786106423 |
-| Players | 1/8 |
-| Host Name | Chayen nomsod |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:24:07 |
+| Lobby ID | 28521336786431959 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:24:27 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336784515474 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 一天不导积阳德，两天不导积积阳阳德 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:22:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336785690872 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | zzz |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:23:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336785796324 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:23:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336777702726 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | DFePa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:15:38 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:24:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336775695902 |
-| Players | 13/15 |
-| Host Name | Rimad_Ded |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
+| Lobby ID | 28521336786402537 |
+| Players | 1/24 |
+| Host Name | SSK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:24:25 |
 
 
 |  | epic_boss_fight_nightmare |
