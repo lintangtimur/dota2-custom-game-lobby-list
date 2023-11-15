@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336846025291 |
-| Players | 4/8 |
-| Host Name | [RB] Комиссар Жибер |
+| Players | 2/8 |
+| Host Name | flow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:18:03 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336851007946 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Feelingpeace’s |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:22:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336802263708 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | lechu 2222 gwei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:39:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336850761153 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Zzz negr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:22:00 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336849638067 |
-| Players | 13/15 |
-| Host Name | ProstoKrisa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:21:03 |
+| Lobby ID | 28521336847258594 |
+| Players | 10/15 |
+| Host Name | Why So Ez? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 20:19:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,19 +149,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336845582666 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | i |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 20:17:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336847258594 |
-| Players | 11/15 |
-| Host Name | Why So Ez? |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 20:19:04 |
 
 
 |  | epic_boss_fight_normal |
