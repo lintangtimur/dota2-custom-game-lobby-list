@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 19:42:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336806586599 |
-| Players | 1/8 |
-| Host Name | Dildo shwaggins |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:43:28 |
+| Lobby ID | 28521336806214140 |
+| Players | 13/15 |
+| Host Name | СТАРИЧОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:43:07 |
 
 
 |  | ot3_gardens_duo |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WestBang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:43:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336806214140 |
-| Players | 8/15 |
-| Host Name | СТАРИЧОК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:43:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Satan |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:37:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521336806495151 |
-| Players | 1/5 |
-| Host Name | KiriЕШka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:43:23 |
 
 
 |  | epic_boss_fight_hard |
