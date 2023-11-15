@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336703273526 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | kLotho' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336703285222 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Abso1ute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336703163651 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Maleyvich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:43:44 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | подпишите отказ от обрезания |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:44:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521336703825833 |
+| Players | 1/15 |
+| Host Name | Tōshirō Hitsugaya |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:44:45 |
 
 
 |  | epic_boss_fight_normal |
