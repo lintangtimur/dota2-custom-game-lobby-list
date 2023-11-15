@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28521336702257091 |
 | Players | 2/5 |
-| Host Name | La_Muerte |
+| Host Name | antut™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:42:20 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336705943444 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:47:57 |
