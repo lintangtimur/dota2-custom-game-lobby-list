@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336633345948 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:39:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336636923126 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SosiskaKiller228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:46:29 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Callin më |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:47:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336637691365 |
+| Players | 1/24 |
+| Host Name | 聚光灯往哪儿打 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:47:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336637681406 |
+| Players | 1/24 |
+| Host Name | 🄱.🄱.🄱 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:47:57 |
 
 
 |  | epic_boss_fight_nightmare |
