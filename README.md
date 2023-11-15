@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336689527092 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:21:23 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:21:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336689190192 |
-| Players | 1/15 |
-| Host Name | Сперма А. Джоли |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:20:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336689767271 |
-| Players | 4/10 |
-| Host Name | Blackout |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:21:48 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336690017400 |
@@ -83,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:22:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336689923573 |
-| Players | 1/10 |
-| Host Name | jusplayin |
+| Lobby ID | 28521336689767271 |
+| Players | 7/10 |
+| Host Name | Blackout |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:22:03 |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:21:48 |
 
 
 |  | epic_boss_fight_normal |
