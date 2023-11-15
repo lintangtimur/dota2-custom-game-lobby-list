@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336609085193 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336607626384 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:47:55 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:52:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336607631172 |
-| Players | 9/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:47:56 |
 
 
 |  | epic_boss_fight_challenger |
