@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336709842094 |
-| Players | 1/8 |
-| Host Name | xdxdxxdddd))( |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:53:45 |
+| Lobby ID | 28521336709142541 |
+| Players | 8/15 |
+| Host Name | текіла сансет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:52:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 17:52:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336709142541 |
-| Players | 6/15 |
-| Host Name | текіла сансет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:52:44 |
+| Lobby ID | 28521336710649905 |
+| Players | 1/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 17:54:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336705943444 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:47:57 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lThe Boys:Dl |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 15, 2023 17:48:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336707346887 |
-| Players | 9/10 |
-| Host Name | fakeplastictree |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 17:50:06 |
 
 
 |  | epic_boss_fight_nightmare |
