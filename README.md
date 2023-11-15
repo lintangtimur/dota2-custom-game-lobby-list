@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336605561086 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:43:35 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336605918276 |
-| Players | 3/15 |
-| Host Name | YEEZER |
+| Players | 7/15 |
+| Host Name | EasY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:44:19 |
 
