@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336634600471 |
-| Players | 12/15 |
-| Host Name | pOg |
+| Lobby ID | 28521336635092424 |
+| Players | 4/8 |
+| Host Name | no comms |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:42:11 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:43:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336634321599 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ОбдристышDota |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:41:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336634337331 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Шарій killing spree |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:41:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336634864236 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Pilɡrəm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:42:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336634838106 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Nehuy To Say |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:42:36 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28521336635049324 |
+| Lobby ID | 28521336635091028 |
 | Players | 1/10 |
-| Host Name | Xiao |
+| Host Name | Abrahamovicz |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:42:59 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:43:03 |
 
 
