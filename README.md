@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336638884844 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | dazal 2-2-2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 15:50:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336646313234 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Tikovka <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:04:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336646438971 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Мыслант Гигисли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:04:26 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336646458902 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Diamond Fish sauce |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:04:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521336644529374 |
-| Players | 9/10 |
-| Host Name | CLLOSEHEIMER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:00:51 |
 
 
 |  | epic_boss_fight_normal |
