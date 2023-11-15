@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336771163228 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | idfc |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:08:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336770933364 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:08:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336774151627 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ashes of The Last World |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:11:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336774474035 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | g star |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:18 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KICK MADARACHYO |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:12:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336772083086 |
+| Players | 6/8 |
+| Host Name | Владимир Путин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:09:47 |
 
 
 |  | epic_boss_fight_nightmare |
