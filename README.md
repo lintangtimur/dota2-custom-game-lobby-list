@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336587747770 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336586702133 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:03:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521336587581238 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Scrowney2 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:05:04 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:06:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521336586548970 |
+| Players | 7/8 |
+| Host Name | Prigovor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:02:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336588017204 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:06:00 |
