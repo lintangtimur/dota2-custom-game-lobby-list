@@ -32,9 +32,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336603544882 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:39:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521336603596402 |
+| Players | 1/24 |
+| Host Name | duramen |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:39:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521336601775707 |
+| Players | 9/10 |
+| Host Name | NemNoG&DarKne$$#h%@ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:35:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28521336603609825 |
+| Players | 1/5 |
+| Host Name | o_o!!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:39:29 |
 
 
