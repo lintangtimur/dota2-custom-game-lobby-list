@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336612158035 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | FV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336602898801 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:37:59 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:50:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336612093506 |
-| Players | 1/10 |
-| Host Name | Harvester of death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:57:17 |
+| Lobby ID | 28521336612777762 |
+| Players | 1/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 15, 2023 14:58:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 14:58:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521336612777762 |
-| Players | 1/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 15, 2023 14:58:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336612120475 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Конфетка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:21 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336612306041 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | takina inoue is not my wife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 14:57:44 |
