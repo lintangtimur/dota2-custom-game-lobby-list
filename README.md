@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336579204672 |
-| Players | 1/15 |
-| Host Name | Willl |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:46:37 |
+| Lobby ID | 28521336581086900 |
+| Players | 6/24 |
+| Host Name | Fitzcarraldo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:50:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 13:43:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336581086900 |
-| Players | 5/24 |
-| Host Name | Fitzcarraldo |
+| Lobby ID | 28521336581354669 |
+| Players | 1/8 |
+| Host Name | -Padrastro 100% |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 15, 2023 13:50:47 |
+| Lobby Creation Time | Wednesday, November 15, 2023 13:51:23 |
 
 
 |  | epic_boss_fight_nightmare |
