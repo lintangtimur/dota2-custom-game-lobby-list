@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336629708259 |
-| Players | 8/10 |
-| Host Name | nesenia |
+| Lobby ID | 28521336630221032 |
+| Players | 2/8 |
+| Host Name | Пивослав Мудрый г |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:33:13 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:34:16 |
 
 
 |  | ot3_desert_octet |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28521336629995875 |
+| Lobby ID | 28521336630317255 |
 | Players | 1/5 |
 | Host Name | S.G |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 15:33:47 |
+| Lobby Creation Time | Wednesday, November 15, 2023 15:34:28 |
 
 
