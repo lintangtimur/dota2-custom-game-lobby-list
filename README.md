@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521336778825811 |
-| Players | 2/8 |
-| Host Name | 사이타마 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:16:47 |
+| Lobby ID | 28521336781214939 |
+| Players | 1/8 |
+| Host Name | TvoiTamada |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:10 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336775695902 |
-| Players | 14/15 |
-| Host Name | Rimad_Ded |
+| Lobby ID | 28521336780475312 |
+| Players | 10/15 |
+| Host Name | ExtaZzZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:13:35 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:18:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336780381992 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Acordan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:18:20 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521336780475312 |
-| Players | 6/15 |
-| Host Name | ExtaZzZ |
+| Lobby ID | 28521336781350062 |
+| Players | 3/15 |
+| Host Name | Wendy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 19:18:26 |
+| Lobby Creation Time | Wednesday, November 15, 2023 19:19:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521336771318428 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Любимые дрова |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 19:08:59 |
