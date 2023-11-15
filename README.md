@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 15:20:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336740623016 |
-| Players | 3/8 |
-| Host Name | 0% winrate |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:34:29 |
+| Lobby ID | 28521336741577664 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:35:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521336741073805 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | popka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:35:01 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 18:28:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521336740429330 |
-| Players | 14/15 |
-| Host Name | AKashi~ |
+| Lobby ID | 28521336741853545 |
+| Players | 6/24 |
+| Host Name | TakeMeAway |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:34:15 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:35:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336739749538 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 18:33:26 |
@@ -121,20 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521336741577664 |
-| Players | 3/10 |
-| Host Name | trash teammate |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:35:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521336739875630 |
-| Players | 9/10 |
-| Host Name | mon4ter |
+| Lobby ID | 28521336740737247 |
+| Players | 7/10 |
+| Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 15, 2023 18:33:35 |
+| Lobby Creation Time | Wednesday, November 15, 2023 18:34:37 |
 
 
 |  | epic_boss_fight_nightmare |
