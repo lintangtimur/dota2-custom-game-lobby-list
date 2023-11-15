@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521336653503564 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | let's win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:17:54 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:14:59 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28521336653711487 |
-| Players | 1/7 |
-| Host Name | Clarke |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 15, 2023 16:18:18 |
 
 
