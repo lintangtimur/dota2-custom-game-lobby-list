@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403524080 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Mr Meseeks |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930399221463 |
-| Players | 23/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:40:00 |
+| Lobby ID | 28522930403795748 |
+| Players | 4/8 |
+| Host Name | Grimorum ~_^ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:52:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930402582554 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Acil Stark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930403123512 |
-| Players | 8/10 |
-| Host Name | Pescadero |
+| Lobby ID | 28522930403887038 |
+| Players | 6/24 |
+| Host Name | EL_DELICIOSO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:50:37 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:52:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930403795748 |
-| Players | 3/8 |
-| Host Name | Grimorum ~_^ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:52:26 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930403887038 |
-| Players | 5/24 |
-| Host Name | EL_DELICIOSO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:52:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930403999814 |
-| Players | 2/8 |
-| Host Name | ロンリー |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:53:00 |
+| Lobby ID | 28522930404051640 |
+| Players | 2/24 |
+| Host Name | mamheeen |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:53:08 |
 
 
 |  | epic_boss_fight_normal |
