@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930424333783 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:47:14 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:48:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930424287622 |
-| Players | 14/15 |
-| Host Name | Dwarnik |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:47:07 |
+| Lobby ID | 28522930425268446 |
+| Players | 2/8 |
+| Host Name | Diamonds & Dancefloor |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:49:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:43 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930425330730 |
+| Players | 1/24 |
+| Host Name | no masteries |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:49:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930424177392 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930424899209 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:48:44 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Laucs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930425243330 |
-| Players | 1/5 |
-| Host Name | 『Kumagawa Misogi』 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:49:41 |
 
 
