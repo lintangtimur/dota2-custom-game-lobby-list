@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930929139576 |
-| Players | 1/24 |
-| Host Name | Mr.Pickles |
+| Lobby ID | 28522930931211354 |
+| Players | 3/15 |
+| Host Name | Xiao BB |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 22:43:43 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:45:36 |
 
 
 |  | ot3_desert_octet |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 22:38:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930929797571 |
-| Players | 7/8 |
-| Host Name | owl demons |
+| Lobby ID | 28522930916448382 |
+| Players | 6/10 |
+| Host Name | Любава |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:44:18 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:32:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930930163735 |
-| Players | 7/10 |
-| Host Name | I FEEL LIKE GOD |
+| Lobby ID | 28522930930285570 |
+| Players | 4/10 |
+| Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:44:38 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930926970534 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | (/_-) |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 22:41:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930928511091 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 22:43:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930926791426 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | kisper |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 22:41:36 |
@@ -110,22 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 22:44:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930919126194 |
+| Players | 14/15 |
+| Host Name | Trigger finger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:34:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930931049596 |
+| Players | 1/15 |
+| Host Name | ุexw_onoma |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 22:45:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930930865343 |
-| Players | 5/8 |
-| Host Name | Lotar |
+| Lobby ID | 28522930931414144 |
+| Players | 1/8 |
+| Host Name | VanDaMus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:45:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930930285570 |
-| Players | 2/10 |
-| Host Name | uselessuselessuselessuseless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:44:45 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:45:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,28 +149,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930929737870 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | !!SuperHero$$ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 22:44:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930921747280 |
-| Players | 8/10 |
-| Host Name | Loc Dog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:37:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930930631828 |
-| Players | 1/5 |
-| Host Name | 21savage. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 22:45:04 |
 
 
 |  | epic_boss_fight_nightmare |
