@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337419238269 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:33:39 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 08:34:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337419533959 |
-| Players | 14/15 |
-| Host Name | flowa |
+| Lobby ID | 28521337419559666 |
+| Players | 4/8 |
+| Host Name | PTS ENJOYER) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:34:30 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:34:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NIDOKING :3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:34:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337419559666 |
-| Players | 4/8 |
-| Host Name | PTS ENJOYER) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:34:34 |
 
 
 |  | epic_boss_fight_normal |
