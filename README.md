@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930441841869 |
-| Players | 13/15 |
-| Host Name | Sofuer |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:33:35 |
+| Lobby ID | 28522930444400312 |
+| Players | 1/15 |
+| Host Name | 三杯冰美式 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Thursday, November 16, 2023 11:39:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930444069222 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Ban¡¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930440902295 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Darling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:31:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930443296726 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:36:51 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930444350401 |
-| Players | 2/15 |
-| Host Name | БРАТИК (ОЛЕГ) |
+| Players | 6/15 |
+| Host Name | Block |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:56 |
 
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | քֆɢ.ʟɢɖ♫B®∆¥∆n♫ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930444390215 |
+| Players | 3/24 |
+| Host Name | Neko |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 11:39:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930444451936 |
+| Players | 2/24 |
+| Host Name | toidi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:39:08 |
 
 
 |  | epic_boss_fight_nightmare |
