@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930506755311 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | hayo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:18:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930506505420 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | лесбиянское гомо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:17:45 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930508038386 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:21:23 |
