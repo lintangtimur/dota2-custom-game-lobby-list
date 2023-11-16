@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930531656612 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | watch me die rebellious all mute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:15:15 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:17:32 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930532990711 |
+| Players | 1/24 |
+| Host Name | russkoe pole eksperimentov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:18:09 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930532662484 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930532762219 |
-| Players | 1/10 |
-| Host Name | ➤ D a a n |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 15:17:39 |
 
 
