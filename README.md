@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337422679417 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Dorian |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:43:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337421885027 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 1mmolationstayhc |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:41:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337421616895 |
-| Players | 14/15 |
-| Host Name | Пенистый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:40:23 |
+| Lobby ID | 28521337422957026 |
+| Players | 1/10 |
+| Host Name | КРИП КРИПОЧЕК |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 08:44:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337422076942 |
-| Players | 9/10 |
-| Host Name | GuITaR |
+| Lobby ID | 28521337422957314 |
+| Players | 3/10 |
+| Host Name | ikta solork |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:41:41 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:44:08 |
 
 
 |  | epic_boss_fight_challenger |
