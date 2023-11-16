@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930504818710 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:13:43 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gervonta davis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:15:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930506425223 |
+| Players | 1/10 |
+| Host Name | K292 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 14:17:33 |
 
 
 |  | epic_boss_fight_nightmare |
