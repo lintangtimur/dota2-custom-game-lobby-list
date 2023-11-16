@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930530941302 |
-| Players | 9/10 |
-| Host Name | Кибок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:13:42 |
+| Lobby ID | 28522930532262492 |
+| Players | 3/24 |
+| Host Name | EL TIO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930517621326 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Sr.L |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:43:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930528983378 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:26 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930532063314 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ДИО БАРАНДО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930532066572 |
-| Players | 1/15 |
-| Host Name | Твой батя |
+| Lobby ID | 28522930532448820 |
+| Players | 1/24 |
+| Host Name | Thegwaaarh |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:16:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:16:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930529024898 |
-| Players | 7/10 |
-| Host Name | ( °Д°) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:09:31 |
+| Lobby ID | 28522930532180063 |
+| Players | 1/10 |
+| Host Name | ➤ D a a n |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 15:16:22 |
 
 
 |  | epic_boss_fight_nightmare |
