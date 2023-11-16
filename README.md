@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930410203793 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:09:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930411758038 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | BC.EG |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:13:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930412015608 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | :) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:14:37 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:11:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930411901190 |
-| Players | 1/15 |
-| Host Name | J&T Elong Maa |
+| Lobby ID | 28522930405276159 |
+| Players | 22/24 |
+| Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:14:20 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:22 |
 
 
 |  | ot3_gardens_duo |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nya arigato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:14:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930412128104 |
+| Players | 2/8 |
+| Host Name | COVID 19 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 10:14:54 |
 
 
 |  | epic_boss_fight_normal |
