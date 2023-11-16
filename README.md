@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337398304665 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:33:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337399863554 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | TI_ Polux_Troy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:37:48 |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЧВК Единая Россия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:35:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337399974861 |
+| Players | 1/15 |
+| Host Name | Puppey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:38:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337399994804 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:38:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337400026423 |
+| Players | 1/10 |
+| Host Name | Ainhoa Martina Catalina |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:38:16 |
 
 
 |  | epic_boss_fight_nightmare |
