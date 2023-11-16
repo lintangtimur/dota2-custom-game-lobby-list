@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930542185136 |
-| Players | 17/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:37:32 |
+| Lobby ID | 28522930544222621 |
+| Players | 3/10 |
+| Host Name | ябеда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:41:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,14 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nhe4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:41:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930544222621 |
-| Players | 2/10 |
-| Host Name | ябеда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:41:53 |
 
 
