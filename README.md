@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930552013638 |
-| Players | 14/15 |
-| Host Name | Triplesixgods |
+| Lobby ID | 28522930552859232 |
+| Players | 7/8 |
+| Host Name | Matye Bal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:58:33 |
+| Lobby Creation Time | Thursday, November 16, 2023 16:00:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930551817421 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:58:08 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aki ゲーマー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:59:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930552859232 |
-| Players | 5/8 |
-| Host Name | Matye Bal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:00:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930548967997 |
-| Players | 9/10 |
-| Host Name | I ATE NOTHING |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:52:06 |
 
 
 |  | epic_boss_fight_challenger |
