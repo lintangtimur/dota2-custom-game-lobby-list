@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337401897077 |
-| Players | 5/15 |
-| Host Name | darkwolf2108 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:41 |
+| Lobby ID | 28521337401999806 |
+| Players | 1/24 |
+| Host Name | SaltDaddy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:43:59 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337401708096 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mr.Popo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:43:08 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337401293290 |
+| Lobby ID | 28521337401854779 |
 | Players | 14/15 |
-| Host Name | nacko LoaL |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:41:55 |
+| Host Name | 50.Centaur |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:43:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337401319493 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Silent |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:42:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337401737180 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Bajando Pepian |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:43:13 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:43:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521337401854779 |
-| Players | 5/15 |
-| Host Name | 50.Centaur |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521337400124578 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:33 |
