@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930531656612 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | watch me die rebellious all mute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:15:15 |
@@ -59,36 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930532711309 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | cruis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:17:32 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930532990711 |
-| Players | 1/24 |
-| Host Name | russkoe pole eksperimentov |
+| Lobby ID | 28522930532086771 |
+| Players | 3/10 |
+| Host Name | kymhnju |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:18:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930532662484 |
-| Players | 1/5 |
-| Host Name | @FIONA SZE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:17:26 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:16:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930532086771 |
-| Players | 4/10 |
-| Host Name | kymhnju |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:16:10 |
+| Lobby ID | 28522930533041022 |
+| Players | 1/10 |
+| Host Name | @FIONA SZE |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 15:18:15 |
 
 
