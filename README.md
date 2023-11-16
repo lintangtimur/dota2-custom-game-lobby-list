@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930650631155 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | врагов не всегда 5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 18:43:42 |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 18:40:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930650531083 |
-| Players | 8/10 |
-| Host Name | barashka09 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:43:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930650633348 |
-| Players | 14/15 |
-| Host Name | 죄송합니다 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:43:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930650727907 |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BIG GUN DON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 18:43:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930651034122 |
+| Players | 1/10 |
+| Host Name | Mr.BLAKE |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 18:44:10 |
 
 
 |  | epic_boss_fight_normal |
