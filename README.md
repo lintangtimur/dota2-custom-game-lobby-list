@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930485307970 |
-| Players | 3/24 |
-| Host Name | Nonlinear operator |
+| Players | 2/24 |
+| Host Name | Naxima |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930555449427 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | [PIVO] zygota's PIROWYBUCH! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930560369120 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:15:49 |
@@ -50,37 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930559955674 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:14:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930560641685 |
-| Players | 1/8 |
-| Host Name | 老司机 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 16:16:23 |
+| Lobby ID | 28522930560664314 |
+| Players | 6/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 16:16:26 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930560627362 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | цвях |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 16:16:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930560664314 |
-| Players | 1/15 |
-| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
+| Lobby ID | 28522930560709423 |
+| Players | 1/8 |
+| Host Name | kalyan75 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:16:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930560749358 |
+| Players | 1/24 |
+| Host Name | Mangolier |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:16:26 |
+| Lobby Creation Time | Thursday, November 16, 2023 16:16:37 |
 
 
 |  | epic_boss_fight_nightmare |
