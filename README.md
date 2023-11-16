@@ -32,64 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974744758734 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | CeLeRoN |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 05:35:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28523974745762253 |
-| Players | 12/15 |
-| Host Name | CHETUMAE |
+| Lobby ID | 28523974747745503 |
+| Players | 6/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:37:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28523974746962688 |
-| Players | 7/8 |
-| Host Name | SIDERAL FRIO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:39:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28523974747304451 |
-| Players | 6/15 |
-| Host Name | radagastr666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:40:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28523974746981641 |
-| Players | 8/10 |
-| Host Name | ⸸ Mahyarci2 ⸸ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:39:47 |
+| Lobby Creation Time | Friday, November 17, 2023 05:41:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974747325518 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:40:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974739378570 |
-| Players | 9/10 |
-| Host Name | How Do I Play? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 05:24:42 |
+| Lobby ID | 28523974747304451 |
+| Players | 13/15 |
+| Host Name | radagastr666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:40:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974747975328 |
+| Players | 1/15 |
+| Host Name | TIREN GG!! xD |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 05:41:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jinx(Duke Nukem Enjoyer) |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 05:40:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974747793190 |
+| Players | 2/10 |
+| Host Name | Mihail |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 05:41:29 |
 
 
