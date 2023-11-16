@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:55:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930496026034 |
-| Players | 8/10 |
-| Host Name | Russian Gay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:52:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930497126790 |
-| Players | 1/8 |
-| Host Name | WindRuineR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:54:53 |
+| Lobby ID | 28522930497394372 |
+| Players | 5/24 |
+| Host Name | BROOKLYN T GUY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:55:31 |
 
 
 |  | ot3_gardens_duo |
@@ -71,15 +62,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 2/10 |
 | Host Name | K292 |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 13:55:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930497394372 |
-| Players | 3/24 |
-| Host Name | BROOKLYN T GUY |
-| Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:55:31 |
 
 
