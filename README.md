@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930939690792 |
-| Players | 4/8 |
-| Host Name | мудак |
+| Lobby ID | 28522930938845798 |
+| Players | 6/8 |
+| Host Name | 33.WQE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:53:22 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:52:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930942918458 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | i always comeback |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 22:56:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930940598138 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | YEAH RIGHT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 22:54:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930930271547 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | CyBeR |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 22:44:44 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930938181957 |
+| Lobby ID | 28522930943573290 |
 | Players | 9/10 |
-| Host Name | HOLY FVCK |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, November 16, 2023 22:51:58 |
+| Host Name | Уебан S класса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930942848878 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Нафотомоядевушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 22:56:20 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930941990851 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | お前ら大嫌いだ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 22:55:31 |
@@ -166,11 +166,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930868562625 |
-| Players | 13/15 |
-| Host Name | prime YYYEBOK |
+| Lobby ID | 28522930935657699 |
+| Players | 11/15 |
+| Host Name | JIeoHuD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:52:28 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:49:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -182,28 +182,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 22:55:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930920770783 |
-| Players | 14/15 |
-| Host Name | qLimaX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:36:16 |
+| Lobby ID | 28522930943549048 |
+| Players | 6/10 |
+| Host Name | ДенискаЗИКСЕ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930943925745 |
+| Players | 6/8 |
+| Host Name | SALMAS |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930943563962 |
+| Players | 1/24 |
+| Host Name | romchyg |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930943443167 |
-| Players | 6/10 |
-| Host Name | kabslock |
+| Lobby ID | 28522930938181957 |
+| Players | 7/10 |
+| Host Name | HOLY FVCK |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, November 16, 2023 22:51:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930942393535 |
+| Players | 14/15 |
+| Host Name | Ziemniak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:55:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930943811808 |
+| Players | 2/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 22:56:54 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930943845594 |
+| Players | 2/24 |
+| Host Name | Jason Lee |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930943921919 |
+| Players | 2/8 |
+| Host Name | COVID 19 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930921747280 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Не ной |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 22:37:07 |
@@ -212,9 +266,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930942869057 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | G |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 22:56:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930943651463 |
+| Players | 1/5 |
+| Host Name | Xedin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930943659028 |
+| Players | 1/5 |
+| Host Name | PlayingTheAngel |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 22:57:06 |
 
 
