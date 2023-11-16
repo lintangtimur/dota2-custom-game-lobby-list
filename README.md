@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930460590241 |
 | Players | 3/24 |
-| Host Name | Lorito roier |
+| Host Name | Bundefora |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:20:38 |
 
@@ -67,15 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930461270794 |
-| Players | 1/8 |
-| Host Name | члены?пробовал! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:22:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28522930457464522 |
 | Players | 7/8 |
 | Host Name | niger |
@@ -85,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930461192659 |
-| Players | 7/8 |
-| Host Name | $H0rTy |
+| Lobby ID | 28522930461642121 |
+| Players | 1/8 |
+| Host Name | sunmxtd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:22:12 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:23:22 |
 
 
 |  | epic_boss_fight_nightmare |
