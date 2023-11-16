@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480466913 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Main Ganchito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930483629278 |
-| Players | 7/10 |
-| Host Name | Ахмаддулла |
+| Lobby ID | 28522930485000472 |
+| Players | 1/15 |
+| Host Name | RinWay |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:20:41 |
+| Lobby Creation Time | Thursday, November 16, 2023 13:24:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930483956618 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:21:30 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:22:17 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930484909129 |
-| Players | 1/24 |
-| Host Name | 饿了饿了 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:23:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930484972939 |
@@ -72,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930485041222 |
+| Players | 1/10 |
+| Host Name | hellcaste |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:24:15 |
 
 
 |  | epic_boss_fight_nightmare |
