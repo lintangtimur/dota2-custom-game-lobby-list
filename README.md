@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:05:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930407775869 |
-| Players | 14/15 |
-| Host Name | ЛШДДУК |
+| Lobby ID | 28522930409587818 |
+| Players | 3/8 |
+| Host Name | nv |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:03:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:08:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930405276159 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:56:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930408082520 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | bola bolita bola bolaza |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:03:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930408371995 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | "†YoNhACoffIN†"†RAmPaSSO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:04:47 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:07:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930409587818 |
-| Players | 2/8 |
-| Host Name | nv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:08:06 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930388274949 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930406137259 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:58:44 |
