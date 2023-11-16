@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930444069222 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Ban¡¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930444451936 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:39:08 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930440902295 |
 | Players | 5/8 |
-| Host Name | Северный Человек |
+| Host Name | ♥ НИЗКИЙ ГОЛОС, Ж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:31:07 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930444350401 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Block |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:56 |
