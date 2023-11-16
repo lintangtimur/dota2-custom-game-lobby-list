@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930554931328 |
-| Players | 1/15 |
-| Host Name | i am noob |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 16, 2023 16:04:37 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28522930552809546 |
@@ -67,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930554922256 |
-| Players | 1/10 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:04:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28522930554922628 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Implacable |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:04:36 |
