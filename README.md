@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930471013995 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | whitegrizzly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:47:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930468397105 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Alaq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:41:08 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930472566189 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:52:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930472597907 |
+| Players | 3/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:52:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930472609480 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 12:52:09 |
 
 
 |  | epic_boss_fight_challenger |
