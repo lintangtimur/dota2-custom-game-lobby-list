@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931037805431 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:34:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522931041887327 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | hyko |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:38:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931033669623 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | busco el ban para dejar el dota |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 17, 2023 00:30:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522931041761145 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | halal player |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 17, 2023 00:38:32 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522931042083139 |
-| Players | 1/8 |
-| Host Name | vertolet_helicopter |
+| Players | 4/8 |
+| Host Name | СЕЛЕЗЕНКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 00:38:52 |
 
@@ -104,25 +104,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522931029799948 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Bot |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 00:25:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522931005258578 |
-| Players | 10/10 |
-| Host Name | ЯDeRNЫй |
+| Lobby ID | 28522931042259810 |
+| Players | 1/15 |
+| Host Name | Irif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:00:21 |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522931042379523 |
+| Players | 5/8 |
+| Host Name | MrOtec |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522931042388848 |
+| Players | 1/8 |
+| Host Name | 我是神 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522931042495005 |
+| Players | 1/8 |
+| Host Name | Bibliokiller |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:19 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522931039145055 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | nOdEn |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 17, 2023 00:35:47 |
