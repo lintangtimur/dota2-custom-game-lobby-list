@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930557530556 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | naladhipa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:10:01 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930554216367 |
-| Players | 2/15 |
-| Host Name | sleepy space cat |
+| Players | 3/15 |
+| Host Name | nReal |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 16:08:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930557489862 |
-| Players | 14/15 |
-| Host Name | BYVSHIY HATER RLARLA |
+| Lobby ID | 28522930558999792 |
+| Players | 5/10 |
+| Host Name | Spit in my face |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:09:56 |
+| Lobby Creation Time | Thursday, November 16, 2023 16:13:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 16:12:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930559047703 |
+| Players | 1/15 |
+| Host Name | 76561198204787636 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 16:13:11 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930558999792 |
-| Players | 5/10 |
-| Host Name | Spit in my face |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:13:05 |
+| Lobby ID | 28522930559093765 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 16:13:16 |
 
 
 |  | epic_boss_fight_nightmare |
