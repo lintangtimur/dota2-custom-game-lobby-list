@@ -20,51 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930498075349 |
-| Players | 21/24 |
-| Host Name | Cheer up ^^ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:57:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930499805801 |
-| Players | 3/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 14:01:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930503142868 |
-| Players | 5/15 |
-| Host Name | Нафотомоядевушка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:09:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930502441957 |
-| Players | 1/15 |
-| Host Name | HOLY FVCK |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 14:07:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930503296671 |
-| Players | 9/24 |
-| Host Name | 暴走的小喵 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 14:10:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930502596921 |
@@ -74,13 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 14:08:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930499805801 |
+| Players | 2/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 14:01:28 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930503461289 |
-| Players | 1/15 |
-| Host Name | "Gowther" |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 14:10:27 |
+| Lobby ID | 28522930503142868 |
+| Players | 6/15 |
+| Host Name | Нафотомоядевушка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 14:09:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930503496123 |
+| Players | 2/15 |
+| Host Name | 阳与月歌 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, November 16, 2023 14:10:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930503296671 |
+| Players | 9/24 |
+| Host Name | 暴走的小喵 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 14:10:03 |
 
 
 |  | epic_boss_fight_nightmare |
