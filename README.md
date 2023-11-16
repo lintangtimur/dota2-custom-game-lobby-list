@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930528621067 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | /*BoDYa_DiLDER*/ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930528384028 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | I bought the bank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930528779128 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | мой дом это ветер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:59 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930528934149 |
-| Players | 1/10 |
-| Host Name | MATACONEROS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 15:09:19 |
+| Lobby ID | 28522930528983378 |
+| Players | 3/24 |
+| Host Name | 蓝胖舌吻双头龙 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:09:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930527268408 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930529024898 |
+| Players | 1/10 |
+| Host Name | ( °Д°) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:09:31 |
 
 
