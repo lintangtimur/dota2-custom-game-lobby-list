@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930553829168 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:02:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930554028858 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PUDGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 16:02:45 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Implacable |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 16, 2023 16:00:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930553369213 |
-| Players | 2/10 |
-| Host Name | Kannon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:01:23 |
 
 
