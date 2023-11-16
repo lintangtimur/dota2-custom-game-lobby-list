@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930477193646 |
-| Players | 2/8 |
-| Host Name | XQC!! |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:04:08 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930478960376 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:08:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930478907808 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | L |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:08:35 |
