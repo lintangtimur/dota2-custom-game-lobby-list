@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 3/24 |
-| Host Name | eFFinG.Techno |
+| Players | 2/24 |
+| Host Name | poo-zinping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337423228797 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Merc |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:44:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433211837 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
@@ -76,38 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930434227896 |
-| Players | 11/15 |
-| Host Name | ShamWow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:13:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28522930434243278 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Shadow Song_333 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:13:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930434915896 |
-| Players | 1/8 |
-| Host Name | Minero de bonsay |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:15:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930434922792 |
-| Players | 1/15 |
-| Host Name | ТРАХТРАХЫЧ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 11:15:24 |
 
 
 |  | epic_boss_fight_nightmare |
