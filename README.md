@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930376473321 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 08:47:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930377110437 |
-| Players | 11/15 |
+| Players | 15/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:47:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930378147059 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | IDONTKNOWHOWTOPLAYTHISGAME |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:48:32 |
@@ -101,28 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 08:48:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930378459076 |
-| Players | 4/24 |
-| Host Name | 4.0 |
+| Lobby ID | 28522930378574903 |
+| Players | 1/10 |
+| Host Name | Zeraus♥ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:48:51 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:48:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930378468468 |
+| Lobby ID | 28522930378626943 |
 | Players | 1/15 |
-| Host Name | NYCWallCrawler |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 08:48:51 |
+| Host Name | ADI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 08:49:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930377795102 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 08:48:07 |
