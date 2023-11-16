@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930654361828 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 18:47:59 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930652081458 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Monkey D. Luffy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 18:45:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930655289762 |
+| Players | 3/10 |
+| Host Name | 大大hate myself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 18:49:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ВуншПунш |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 18:28:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930651776082 |
-| Players | 9/10 |
-| Host Name | Martiros |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:45:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930654961273 |
-| Players | 2/5 |
-| Host Name | dyrachoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:48:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930655224977 |
-| Players | 1/5 |
-| Host Name | antut™ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 18:48:57 |
 
 
