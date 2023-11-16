@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337401737180 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Bajando Pepian |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:43:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337401840114 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | NIDOKING :3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:43:31 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Brightside |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:44:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337402412385 |
+| Players | 2/10 |
+| Host Name | alonneh |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:45:12 |
 
 
 |  | epic_boss_fight_nightmare |
