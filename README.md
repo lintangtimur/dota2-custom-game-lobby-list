@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930417666458 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | LLEGO TU CARRY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:29:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930415689115 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 617 agi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930417987060 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Lapixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:30 |
