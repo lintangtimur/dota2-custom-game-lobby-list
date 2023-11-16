@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930511587610 |
-| Players | 1/8 |
-| Host Name | Пауэр |
+| Lobby ID | 28522930511499968 |
+| Players | 14/15 |
+| Host Name | ’Mr . Big |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:29:52 |
+| Lobby Creation Time | Thursday, November 16, 2023 14:29:40 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930504818710 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:13:43 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930511117378 |
-| Players | 11/24 |
+| Players | 23/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:28:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930511499968 |
-| Players | 9/15 |
-| Host Name | ’Mr . Big |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:29:40 |
+| Lobby ID | 28522930511922512 |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 14:30:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InDiGo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:28:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930511938268 |
+| Players | 1/10 |
+| Host Name | KillerBee |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 14:30:42 |
 
 
