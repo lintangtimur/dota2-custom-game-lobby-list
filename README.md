@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930400740577 |
-| Players | 14/15 |
-| Host Name | граф де Генерат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:44:09 |
+| Lobby ID | 28522930395776897 |
+| Players | 23/24 |
+| Host Name | Yuh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:30:51 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930400238819 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930402074381 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Paxlee |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:47:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930401124495 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Rockefeller |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:45:11 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930401667407 |
-| Players | 1/8 |
-| Host Name | YAPEA 1 SOL Y FEDEO 994950885 |
+| Lobby ID | 28522930402282015 |
+| Players | 3/8 |
+| Host Name | 愛刀塔 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:46:41 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:48:18 |
 
 
 |  | ot3_gardens_duo |
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Piu Piu Gaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:46:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930395776897 |
-| Players | 23/24 |
-| Host Name | Yuh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 09:30:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930402282015 |
-| Players | 2/8 |
-| Host Name | 愛刀塔 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:48:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930400137602 |
-| Players | 9/10 |
-| Host Name | Смотрите кирпич |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:42:30 |
 
 
 |  | epic_boss_fight_normal |
