@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930396954412 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | JustGetAHouse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:34:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930397417162 |
-| Players | 2/15 |
-| Host Name | no, just no |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:35:11 |
+| Lobby ID | 28522930397198761 |
+| Players | 6/8 |
+| Host Name | QUERIENDO GANAR GRATIS x.x |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:34:39 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930396304074 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:32:17 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930397198761 |
-| Players | 6/8 |
-| Host Name | QUERIENDO GANAR GRATIS x.x |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:34:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930396872641 |
-| Players | 11/15 |
-| Host Name | ez mid |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:33:49 |
 
 
 |  | epic_boss_fight_normal |
