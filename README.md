@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930457306051 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Nessper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:12:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930455784753 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Eld |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:08:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930457377537 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Machín Alberto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:12:17 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930456836067 |
 | Players | 6/24 |
-| Host Name | Lindvia| ZaiSe |
+| Host Name | ttao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:10:50 |
 
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:12:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930457464522 |
+| Players | 1/8 |
+| Host Name | niger |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 12:12:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930457499065 |
+| Players | 4/8 |
+| Host Name | MKZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:12:36 |
 
 
 |  | epic_boss_fight_nightmare |
