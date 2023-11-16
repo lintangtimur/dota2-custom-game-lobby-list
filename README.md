@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930603998502 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | SodaZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 17:37:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930721408215 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 19:54:50 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930722142940 |
-| Players | 8/10 |
-| Host Name | Ghost Grave |
+| Lobby ID | 28522930722735914 |
+| Players | 6/10 |
+| Host Name | i have no enemies |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:55:28 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930721833908 |
-| Players | 3/24 |
-| Host Name | Hróðgeirr |
+| Players | 1/24 |
+| Host Name | Prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:55:12 |
 
@@ -101,37 +101,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:54:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930721604593 |
-| Players | 1/8 |
-| Host Name | 76561198203261364 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:55:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930722489566 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:55:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930722488642 |
-| Players | 1/24 |
-| Host Name | Carwyn |
+| Lobby ID | 28522930715159482 |
+| Players | 7/10 |
+| Host Name | black enegry drink |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:55:46 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:49:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930722878463 |
+| Players | 2/15 |
+| Host Name | bagyl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930722813975 |
+| Players | 3/8 |
+| Host Name | katharsis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930722844915 |
+| Players | 1/8 |
+| Host Name | (/_-) |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930720109259 |
+| Players | 7/8 |
+| Host Name | w1tz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:53:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930720881196 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:54:22 |
@@ -140,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930721294605 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Bruce Lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:54:44 |
@@ -149,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930721938091 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:55:17 |
