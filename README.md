@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930546808232 |
-| Players | 23/24 |
-| Host Name | x^n+y^n=z^n |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:47:27 |
+| Lobby ID | 28522930548888750 |
+| Players | 1/24 |
+| Host Name | equilibrium |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:51:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930548888750 |
-| Players | 1/24 |
-| Host Name | equilibrium |
+| Lobby ID | 28522930549229506 |
+| Players | 1/8 |
+| Host Name | Inoculisfurorem |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:51:55 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:52:39 |
 
 
 |  | epic_boss_fight_normal |
