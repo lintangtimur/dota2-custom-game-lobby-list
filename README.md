@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433620624 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:12:02 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930432942790 |
-| Players | 6/8 |
-| Host Name | Nocturne |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:10:13 |
+| Lobby ID | 28522930434510837 |
+| Players | 5/8 |
+| Host Name | AbouCoco |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:14:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433211837 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930434227896 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ShamWow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:13:36 |
@@ -94,29 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930434510837 |
-| Players | 5/8 |
-| Host Name | AbouCoco |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:14:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930434876812 |
+| Lobby ID | 28522930434915896 |
 | Players | 1/8 |
-| Host Name | null |
+| Host Name | Minero de bonsay |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:15:17 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:15:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930434879927 |
-| Players | 1/10 |
+| Lobby ID | 28522930434922792 |
+| Players | 1/15 |
 | Host Name | ТРАХТРАХЫЧ |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 11:15:18 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:15:24 |
 
 
 |  | epic_boss_fight_nightmare |
