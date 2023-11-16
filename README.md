@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930527787844 |
-| Players | 22/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:06:48 |
+| Lobby ID | 28522930528557106 |
+| Players | 6/24 |
+| Host Name | Quatach-ichl |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 15:08:30 |
 
 
 |  | ot3_desert_octet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930528071231 |
+| Lobby ID | 28522930528621067 |
 | Players | 1/8 |
 | Host Name | /*BoDYa_DiLDER*/ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:07:25 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:08:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fred |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:43:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930528154476 |
-| Players | 1/15 |
-| Host Name | Bambolbol |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:07:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930527268408 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:40 |
