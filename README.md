@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930661560613 |
-| Players | 4/8 |
-| Host Name | СЕЛЕЗЕНКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:56:06 |
+| Lobby ID | 28522930661221192 |
+| Players | 2/10 |
+| Host Name | [PickBan] PO FSB RF |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 18:55:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930655830825 |
-| Players | 23/24 |
-| Host Name | Kjdgreat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 18:49:39 |
+| Lobby ID | 28522930661192058 |
+| Players | 14/15 |
+| Host Name | Apollo's boy |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 18:55:42 |
 
 
 |  | ot3_desert_octet |
@@ -50,37 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930659243427 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | FEOFAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 18:53:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930660879230 |
+| Players | 9/10 |
+| Host Name | L u 4 i s t i y   P i r o j o k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 18:55:21 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930656873217 |
-| Players | 7/8 |
-| Host Name | Matye Bal |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 18:50:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930661192058 |
-| Players | 7/15 |
-| Host Name | Apollo's boy |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 18:55:42 |
+| Lobby ID | 28522930662221436 |
+| Players | 2/8 |
+| Host Name | Подсирала |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 18:56:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930661221192 |
-| Players | 2/10 |
-| Host Name | [PickBan] PO FSB RF |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 18:55:44 |
+| Lobby ID | 28522930662244177 |
+| Players | 1/10 |
+| Host Name | Scorpion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 18:56:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ВуншПунш |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 18:28:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930660476858 |
-| Players | 5/10 |
-| Host Name | 不狂菜狗子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 18:54:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930661720338 |
-| Players | 1/5 |
-| Host Name | 5150vato |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:56:17 |
 
 
