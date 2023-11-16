@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 00:44:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522931049577675 |
+| Players | 7/10 |
+| Host Name | Waitless |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 00:46:55 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522931050531495 |
-| Players | 4/15 |
-| Host Name | xny星星 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 17, 2023 00:47:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522931050531286 |
-| Players | 1/24 |
-| Host Name | MrSuperman|002| |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 17, 2023 00:47:57 |
+| Lobby ID | 28522931050068171 |
+| Players | 14/15 |
+| Host Name | КМС по водному |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 00:47:27 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 00:47:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522931047205700 |
-| Players | 8/10 |
-| Host Name | Гульсина |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 17, 2023 00:44:22 |
+| Lobby ID | 28522931042661223 |
+| Players | 1/8 |
+| Host Name | hypnospiria |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:30 |
 
 
 |  | ot3_gardens_duo |
@@ -104,46 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931050290495 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | WanShot |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:47:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522931049577675 |
-| Players | 3/10 |
-| Host Name | Waitless |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 00:46:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522931042661223 |
-| Players | 1/8 |
-| Host Name | hypnospiria |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 17, 2023 00:39:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522931050100884 |
-| Players | 4/8 |
-| Host Name | ToughSpirit |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 17, 2023 00:47:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522931050068171 |
-| Players | 1/15 |
-| Host Name | КМС по водному |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 00:47:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522931048883530 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | AI Medium BoT |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 17, 2023 00:46:10 |
