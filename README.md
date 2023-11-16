@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930555208656 |
-| Players | 13/24 |
+| Players | 21/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930555449427 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Thumbiceq |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:41 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930554216367 |
-| Players | 8/15 |
-| Host Name | -=SHeFF=- |
+| Players | 9/15 |
+| Host Name | Амбассадор тильта |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930555044984 |
+| Lobby ID | 28522930547389426 |
 | Players | 4/8 |
-| Host Name | giving girls cocain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:04:51 |
+| Host Name | iB.Rock |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930553829168 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:02:20 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930555608238 |
+| Lobby ID | 28522930555975583 |
 | Players | 2/15 |
-| Host Name | Artimizi 死 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 16:06:02 |
+| Host Name | aWarDeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:06:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930547389426 |
-| Players | 7/8 |
-| Host Name | iB.Rock |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
+| Lobby ID | 28522930556051523 |
+| Players | 2/8 |
+| Host Name | MAHAN |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 16:06:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930555330575 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Loc Dog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:26 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930555758157 |
+| Players | 8/10 |
+| Host Name | Implacable |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 16:06:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930555903160 |
+| Players | 1/5 |
+| Host Name | Чупяпё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:06:38 |
 
 
