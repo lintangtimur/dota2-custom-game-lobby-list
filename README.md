@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337414281299 |
-| Players | 9/10 |
-| Host Name | ิ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:19:29 |
+| Lobby ID | 28521337415080386 |
+| Players | 2/10 |
+| Host Name | єℓ ρα∂яιησ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:21:45 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337412574094 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:14:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337414268080 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | Mate To-Mate |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:19:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337413849416 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 08:18:16 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337414928116 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | URO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:21:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337415009787 |
-| Players | 1/8 |
-| Host Name | Hamlet |
+| Lobby ID | 28521337413624531 |
+| Players | 22/24 |
+| Host Name | Blank |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:21:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337415036287 |
-| Players | 1/8 |
-| Host Name | СпинингРыбыОнлай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:21:37 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:17:38 |
 
 
 |  | epic_boss_fight_nightmare |
