@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930829933278 |
-| Players | 7/8 |
-| Host Name | with coming |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:21:43 |
+| Lobby ID | 28522930831645935 |
+| Players | 1/8 |
+| Host Name | Глеб_Блег |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 21:23:04 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930830938003 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Нафотомоядевушка |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 21:22:31 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 21:19:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930830958317 |
-| Players | 6/8 |
-| Host Name | Dostoevsky |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 21:22:31 |
+| Lobby ID | 28522930799095986 |
+| Players | 7/10 |
+| Host Name | Exalted |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:57:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930827391438 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ExiS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 21:19:43 |
@@ -140,16 +140,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930801325008 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | FoUsTy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:59:15 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930831636509 |
+| Players | 4/8 |
+| Host Name | За Моноліт |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 21:23:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930825847432 |
+| Players | 9/10 |
+| Host Name | нежный дефрелю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 21:18:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930818308520 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 21:12:38 |
