@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930454599826 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 102 eggs in spanish |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:04:58 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:08:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930455990425 |
+| Players | 1/15 |
+| Host Name | KIRITO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:08:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930449188911 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Master Bay |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:08:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930455961080 |
-| Players | 4/5 |
-| Host Name | Wh1teTiger |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 12:08:32 |
 
 
