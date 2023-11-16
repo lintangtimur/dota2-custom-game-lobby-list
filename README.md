@@ -29,49 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28523974750482755 |
-| Players | 3/8 |
-| Host Name | Casa Matusita Lujan Carrion |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:47:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28523974750303116 |
-| Players | 8/10 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:46:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28523974749576582 |
-| Players | 6/8 |
-| Host Name | ? поз Няша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:45:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974749543874 |
-| Players | 7/15 |
-| Host Name | 4:20 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:45:08 |
+| Lobby ID | 28523974750934972 |
+| Players | 5/15 |
+| Host Name | Школа бокса ДНР |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 05:47:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28523974750443191 |
-| Players | 1/8 |
-| Host Name | Menace2Society |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:46:55 |
+| Lobby ID | 28523974750757624 |
+| Players | 4/24 |
+| Host Name | -OWEN-伏黒刀司 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 05:47:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 05:46:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28523974750269555 |
-| Players | 5/15 |
-| Host Name | Тюбик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:46:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28523974750578641 |
+| Lobby ID | 28523974750902502 |
 | Players | 1/24 |
-| Host Name | Zent@ |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 17, 2023 05:47:12 |
+| Host Name | Tom |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 05:47:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28523974750443191 |
+| Players | 1/8 |
+| Host Name | Menace2Society |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:46:55 |
 
 
 |  | epic_boss_fight_nightmare |
