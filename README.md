@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 14:01:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930499061608 |
-| Players | 21/24 |
-| Host Name | kiw kiw CUKURUK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 13:59:38 |
+| Lobby ID | 28522930500118215 |
+| Players | 1/15 |
+| Host Name | Mo' Cake |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 14:02:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,19 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:58:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930500118215 |
-| Players | 1/15 |
-| Host Name | Mo' Cake |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 14:02:14 |
+| Lobby ID | 28522930500302362 |
+| Players | 1/24 |
+| Host Name | style |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 14:02:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930499061608 |
+| Players | 23/24 |
+| Host Name | kiw kiw CUKURUK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:59:38 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930496252710 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | animal mother |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:52:43 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930497294165 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:55:17 |
