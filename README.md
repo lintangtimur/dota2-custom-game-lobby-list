@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930410994728 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | penny lover |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:11:56 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930411901190 |
-| Players | 3/15 |
-| Host Name | ハゲマント |
+| Players | 1/15 |
+| Host Name | J&T Elong Maa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:14:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930411981938 |
+| Players | 1/10 |
+| Host Name | nya arigato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:14:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930411811107 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | in |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 10:14:05 |
