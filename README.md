@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930437060411 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | DX7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:20:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930431987671 |
-| Players | 22/24 |
-| Host Name | Plastic Pop can |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
+| Lobby ID | 28522930437622722 |
+| Players | 3/15 |
+| Host Name | Piminchumo...!!! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:22:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433620624 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:12:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930436818734 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | ϟ♰tꬰmლχ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:20:21 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:21:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930437741676 |
+| Players | 5/8 |
+| Host Name | リル・レキャム・プー |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:22:44 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930437592556 |
-| Players | 2/15 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:22:22 |
+| Lobby ID | 28522930437782706 |
+| Players | 1/15 |
+| Host Name | poypoy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:22:50 |
 
 
 |  | epic_boss_fight_nightmare |
