@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480466913 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Main Ganchito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:38 |
@@ -14,64 +14,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930485000472 |
-| Players | 1/15 |
+| Players | 13/15 |
 | Host Name | RinWay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930483956618 |
-| Players | 2/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 13:21:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930483679200 |
-| Players | 4/8 |
-| Host Name | My Way |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:20:48 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930484300122 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:22:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930484257554 |
-| Players | 1/24 |
-| Host Name | Cancell ^^ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:22:17 |
+| Lobby ID | 28522930483679200 |
+| Players | 6/8 |
+| Host Name | My Way |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:20:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930484972939 |
-| Players | 1/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:24:04 |
+| Lobby ID | 28522930485232848 |
+| Players | 6/8 |
+| Host Name | Sad Clown((( |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 13:24:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930485041222 |
-| Players | 1/10 |
-| Host Name | hellcaste |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:24:15 |
+| Lobby ID | 28522930485307970 |
+| Players | 1/24 |
+| Host Name | Nonlinear operator |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
 |  | epic_boss_fight_nightmare |
