@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930496888022 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Star Lord |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:54:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930497269065 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:55:13 |
@@ -50,34 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930497394372 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:55:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930497392652 |
-| Players | 9/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 13:55:31 |
+| Lobby ID | 28522930498629816 |
+| Players | 1/15 |
+| Host Name | , |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:58:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930498661839 |
+| Players | 1/15 |
+| Host Name | DC |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 13:58:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930497868567 |
-| Players | 7/8 |
-| Host Name | WindRuineR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:56:41 |
+| Lobby ID | 28522930498671758 |
+| Players | 3/8 |
+| Host Name | RANGER:AZUL/godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 13:58:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930496252710 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | animal mother |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:52:43 |
