@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930793566937 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Deztract |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:53:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930804737878 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 21:01:56 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930807472798 |
-| Players | 6/8 |
-| Host Name | pos1. |
+| Lobby ID | 28522930803863814 |
+| Players | 3/8 |
+| Host Name | TRa666Evill |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:04:05 |
+| Lobby Creation Time | Thursday, November 16, 2023 21:01:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930787077506 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | LA FEED ES LO MAS LINDO DE LA VI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 20:48:10 |
@@ -65,67 +65,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 21:03:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930808441878 |
-| Players | 6/8 |
-| Host Name | Якубович |
+| Lobby ID | 28522930809654541 |
+| Players | 2/10 |
+| Host Name | ryodanenjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:04:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930805181417 |
-| Players | 3/8 |
-| Host Name | Amigo |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 16, 2023 21:02:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930799914969 |
-| Players | 14/24 |
-| Host Name | ICE BEAR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:58:09 |
+| Lobby Creation Time | Thursday, November 16, 2023 21:05:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930801012146 |
-| Players | 3/15 |
-| Host Name | Wiesław Binarny 내가 먹을 |
+| Lobby ID | 28522930809422450 |
+| Players | 6/15 |
+| Host Name | Doggernaut |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:59:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 21:05:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930809414414 |
+| Players | 1/15 |
+| Host Name | Главный в дурке |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 21:05:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930809369872 |
+| Players | 3/8 |
+| Host Name | ʍąʍì |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 21:05:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930806737148 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 21:03:30 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930807197099 |
-| Players | 9/10 |
-| Host Name | her smile was everything *=*??? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:03:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930808955625 |
-| Players | 3/8 |
-| Host Name | Egoist |
+| Lobby ID | 28522930806369974 |
+| Players | 1/8 |
+| Host Name | РУС УБИЙЦА ЯЩЕРОВ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:05:15 |
+| Lobby Creation Time | Thursday, November 16, 2023 21:03:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930797538900 |
+| Players | 6/10 |
+| Host Name | 征服者Sayonara999<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:56:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930809858713 |
+| Players | 1/15 |
+| Host Name | I bought the bank |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 21:05:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,15 +164,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:55:03 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28522930808981827 |
-| Players | 2/7 |
-| Host Name | Anh/// # |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 21:05:16 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930807627439 |
@@ -175,19 +175,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930807516434 |
-| Players | 1/10 |
-| Host Name | PowderX Jinx |
+| Lobby ID | 28522930809554372 |
+| Players | 2/10 |
+| Host Name | [CrispyChicken] |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 21:04:07 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28522930808928751 |
-| Players | 1/7 |
-| Host Name | Red_Rebel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:05:14 |
+| Lobby Creation Time | Thursday, November 16, 2023 21:05:43 |
 
 
