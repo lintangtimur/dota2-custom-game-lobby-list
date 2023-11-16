@@ -83,3 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:20:30 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930483784702 |
+| Players | 6/10 |
+| Host Name | lupanamaingatrasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:21:04 |
+
+
