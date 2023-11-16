@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974761778818 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Arthas Menethil |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 06:11:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974699807873 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:13:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974761188967 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | $ sudo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 06:09:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974760169525 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | HASBULLA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 06:07:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974760278174 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 06:07:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974761241645 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 06:09:53 |
@@ -104,10 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974761752203 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | FOXHOUND |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 06:11:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28523974761990207 |
+| Players | 2/8 |
+| Host Name | Prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 06:11:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974762106561 |
+| Players | 2/15 |
+| Host Name | GG Bond |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 06:11:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974760931309 |
+| Players | 14/15 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 06:09:12 |
 
 
 |  | epic_boss_fight_normal |
