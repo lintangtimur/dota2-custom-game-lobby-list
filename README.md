@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930730690680 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:02:26 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930733854705 |
-| Players | 13/15 |
-| Host Name | лошара133000800вольт500маликпбщх |
+| Lobby ID | 28522930739810488 |
+| Players | 3/15 |
+| Host Name | Легенда |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:05:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:09:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930736773560 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | GOZONE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:07:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930739190868 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 20:09:28 |
@@ -121,26 +121,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930735220673 |
-| Players | 3/8 |
-| Host Name | zapitae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:06:08 |
+| Lobby ID | 28522930739786878 |
+| Players | 5/8 |
+| Host Name | ryodanenjoyer |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 20:09:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930738430141 |
-| Players | 3/10 |
-| Host Name | Doro_T |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:08:49 |
+| Lobby ID | 28522930740072163 |
+| Players | 5/15 |
+| Host Name | Acordan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:10:12 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28522930726516770 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Explorer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:59:11 |
