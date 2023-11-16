@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930400064259 |
-| Players | 23/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:42:17 |
+| Lobby ID | 28522930403524080 |
+| Players | 4/15 |
+| Host Name | Mr Meseeks |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:51:42 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930402582554 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Acil Stark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403112274 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | LganteKLK-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:35 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930403205718 |
+| Lobby ID | 28522930402282015 |
 | Players | 7/8 |
-| Host Name | 愛刀塔 |
+| Host Name | carl |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:50:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930403524080 |
-| Players | 1/15 |
-| Host Name | Mr Meseeks |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:51:42 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:48:18 |
 
 
 |  | epic_boss_fight_normal |
