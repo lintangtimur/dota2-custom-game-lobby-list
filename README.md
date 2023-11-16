@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930402282015 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 愛刀塔 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:48:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930400064259 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930399221463 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:40:00 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Acil Stark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930402930833 |
+| Players | 1/10 |
+| Host Name | Pepe El Grillo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:50:05 |
 
 
 |  | epic_boss_fight_normal |
