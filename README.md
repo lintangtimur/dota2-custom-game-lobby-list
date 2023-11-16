@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930395776897 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Yuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:51 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930399163416 |
-| Players | 7/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:39:51 |
+| Lobby ID | 28522930400801643 |
+| Players | 1/8 |
+| Host Name | ScorpioN |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:44:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930399710801 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:41:20 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POISON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930400801643 |
-| Players | 1/8 |
-| Host Name | ScorpioN |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:44:19 |
 
 
 |  | epic_boss_fight_normal |
