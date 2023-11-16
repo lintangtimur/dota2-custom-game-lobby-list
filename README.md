@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930410507125 |
-| Players | 23/24 |
-| Host Name | Andresx1x |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
+| Lobby ID | 28522930416719642 |
+| Players | 2/8 |
+| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:27:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930415689115 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:14 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930416702752 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Хьюстон я проблем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:27:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930416719642 |
-| Players | 1/8 |
-| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Lobby ID | 28522930416950731 |
+| Players | 1/24 |
+| Host Name | EMOCHU:3 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:27:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930415913499 |
-| Players | 13/15 |
-| Host Name | Твоя MILFa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:24:51 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:27:40 |
 
 
 |  | epic_boss_fight_nightmare |
