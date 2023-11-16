@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337406660818 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | M V P Giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:57:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337406725973 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GhosTNeal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:57:44 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | can't |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:57:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337405699127 |
+| Players | 7/8 |
+| Host Name | BomBiTa |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:54:45 |
 
 
 |  | epic_boss_fight_nightmare |
