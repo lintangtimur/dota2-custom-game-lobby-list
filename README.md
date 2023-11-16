@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522931052105401 |
-| Players | 8/10 |
-| Host Name | Frisson |
+| Lobby ID | 28522931052545897 |
+| Players | 4/10 |
+| Host Name | hate me for your pain. |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 00:49:39 |
+| Lobby Creation Time | Friday, November 17, 2023 00:50:07 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930990552832 |
-| Players | 14/15 |
-| Host Name | ♥♦Jackpot♣♠ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:44:36 |
+| Lobby ID | 28522931052526075 |
+| Players | 1/15 |
+| Host Name | ЖМЯКЖМЯК!! |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 17, 2023 00:50:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522931052344208 |
-| Players | 6/8 |
-| Host Name | Ferguson♥ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 17, 2023 00:49:54 |
+| Lobby ID | 28522931052418579 |
+| Players | 5/8 |
+| Host Name | Zionists Slayer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 00:49:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931049718371 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Super Position |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 00:47:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931050290495 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | WanShot |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:47:41 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522931041297212 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ???% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 00:38:03 |
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 00:49:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930969872463 |
-| Players | 5/15 |
-| Host Name | ➳ᴹᴿ PrOcSiK ꔪＯP |
+| Lobby ID | 28522931052550534 |
+| Players | 1/8 |
+| Host Name | KDA is what? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:23:12 |
+| Lobby Creation Time | Friday, November 17, 2023 00:50:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522931031046835 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Антигерой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 00:27:16 |
@@ -148,19 +148,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522931052418579 |
+| Lobby ID | 28522931049945925 |
 | Players | 1/8 |
-| Host Name | Zionists Slayer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 00:49:59 |
+| Host Name | CryForTheMoon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 00:47:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522931052706739 |
+| Players | 2/10 |
+| Host Name | PerTzo |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 17, 2023 00:50:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522931052749074 |
+| Players | 1/24 |
+| Host Name | X-ART |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 17, 2023 00:50:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522931051523020 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Yasper Moglot |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 17, 2023 00:49:01 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28522931052773632 |
+| Players | 1/7 |
+| Host Name | Zaraki Kenpachi - 11th |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 17, 2023 00:50:22 |
 
 
