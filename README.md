@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337395561714 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:25:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337397102580 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:29:46 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:26:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337397379035 |
-| Players | 5/8 |
-| Host Name | flirting with death |
+| Lobby ID | 28521337397456579 |
+| Players | 2/15 |
+| Host Name | KPS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:30:34 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:30:48 |
 
 
 |  | epic_boss_fight_nightmare |
