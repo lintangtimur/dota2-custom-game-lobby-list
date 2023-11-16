@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930392106656 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ALUMINIOS REALES GAAAAAAA |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:57 |
@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930391876157 |
-| Players | 23/24 |
-| Host Name | ULTRON MEGAINDUSTRIES |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:20:21 |
+| Lobby ID | 28522930392589713 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:22:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930392635681 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | YA NO HACKEO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:22:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930392436746 |
-| Players | 7/8 |
-| Host Name | Ghosty ❤ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:21:50 |
 
 
 |  | ot3_gardens_duo |
@@ -56,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:21:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930392561839 |
-| Players | 14/15 |
-| Host Name | Chien2rue |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:22:10 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930392589713 |
+| Lobby ID | 28522930392967545 |
 | Players | 1/8 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:22:14 |
+| Host Name | NIDOKING :3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:23:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930392979639 |
+| Players | 1/24 |
+| Host Name | jamdaddy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:23:17 |
 
 
 |  | epic_boss_fight_normal |
