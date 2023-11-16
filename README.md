@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930438260799 |
-| Players | 24/24 |
+| Players | 20/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:24:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930444080391 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:27 |
