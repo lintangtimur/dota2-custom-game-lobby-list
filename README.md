@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:34:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930421318824 |
+| Players | 2/10 |
+| Host Name | ppm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:39:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930419565437 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:34:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930421363915 |
+| Players | 1/5 |
+| Host Name | Enie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:39:31 |
 
 
