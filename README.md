@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930485307970 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Naxima |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930752129557 |
-| Players | 14/15 |
-| Host Name | Ballscratcher69 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:20:11 |
+| Lobby ID | 28522930784462813 |
+| Players | 2/8 |
+| Host Name | Matye Bal |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 20:46:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930776615485 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:39:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930766932285 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Abu obaida |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 16, 2023 20:32:12 |
@@ -92,40 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:42:51 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930782180772 |
-| Players | 17/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:44:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930784014265 |
-| Players | 2/15 |
-| Host Name | посмотреть |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:45:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930780974088 |
-| Players | 9/15 |
-| Host Name | Tiimmy Turner |
+| Lobby ID | 28522930764461691 |
+| Players | 11/15 |
+| Host Name | Screeny |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:43:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930782010466 |
-| Players | 6/8 |
-| Host Name | zapitae |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 20:44:10 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:30:14 |
 
 
 |  | epic_boss_fight_normal |
