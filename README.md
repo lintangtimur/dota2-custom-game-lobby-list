@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:27:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930537740326 |
-| Players | 7/10 |
-| Host Name | tieteilijä |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:28:31 |
+| Lobby ID | 28522930538369206 |
+| Players | 1/15 |
+| Host Name | MrIBigBang |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 15:29:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Syn.v2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:28:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930538369206 |
-| Players | 2/15 |
-| Host Name | MrIBigBang |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 15:29:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930537868871 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MASELANG BAYAGHARI |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 15:28:48 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Твой Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:28:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930536831490 |
-| Players | 9/10 |
-| Host Name | hehehe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:26:31 |
 
 
