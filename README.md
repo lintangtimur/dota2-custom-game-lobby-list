@@ -31,47 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930695703747 |
-| Players | 9/10 |
-| Host Name | Приятный парень. |
+| Lobby ID | 28522930701412230 |
+| Players | 3/10 |
+| Host Name | EL STEFANO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:31:11 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:36:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930700083474 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:35:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930697782090 |
-| Players | 22/24 |
-| Host Name | A.Y. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:33:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930701565432 |
-| Players | 6/8 |
-| Host Name | Тайно Дёрнул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:36:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930701056878 |
-| Players | 2/10 |
-| Host Name | ♏ リアス・グレモリー |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:36:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,6 +58,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
+| Lobby ID | 28522930701565432 |
+| Players | 6/8 |
+| Host Name | Тайно Дёрнул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:36:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
 | Lobby ID | 28522930700959930 |
 | Players | 3/8 |
 | Host Name | wendy syndrome |
@@ -94,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930701412230 |
+| Lobby ID | 28522930702320100 |
 | Players | 2/10 |
-| Host Name | EL STEFANO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:36:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930685859161 |
-| Players | 14/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 19:21:34 |
+| Host Name | ♏ リアス・グレモリー |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:37:26 |
 
 
 |  | epic_boss_fight_normal |
