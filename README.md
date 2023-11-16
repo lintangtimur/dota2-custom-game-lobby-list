@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930526019122 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:02:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930526792564 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Kiwiszn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:04:38 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Griefer Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930527530782 |
-| Players | 4/8 |
-| Host Name | ЗИГ ХАЙП |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:06:14 |
 
 
 |  | epic_boss_fight_nightmare |
