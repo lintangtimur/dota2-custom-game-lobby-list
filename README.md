@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930417896487 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | mr beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930417666458 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | LLEGO TU CARRY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:29:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930415689115 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | 617 agi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:14 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930418248819 |
-| Players | 1/10 |
-| Host Name | TYKE MAYSON OR DİN VİSİEL |
+| Players | 2/10 |
+| Host Name | Buğra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:31:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930417213252 |
-| Players | 1/15 |
-| Host Name | UuduuZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:28:23 |
+| Lobby ID | 28522930418714941 |
+| Players | 7/8 |
+| Host Name | Lord Valdomero |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:32:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930417910462 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 葉王・朝倉 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:18 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930417923310 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | DARKITOS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930417987060 |
-| Players | 9/10 |
-| Host Name | Lapixiris |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:30:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930417996565 |
-| Players | 1/10 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:30:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930418443466 |
-| Players | 3/15 |
-| Host Name | Jaggerjack |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:31:44 |
 
 
 |  | ot3_necropolis_ffa |
