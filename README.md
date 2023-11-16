@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337400383101 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | D_y  lml D"%"#& WTF |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:39:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337400453674 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:39:30 |
@@ -83,30 +83,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337400740703 |
-| Players | 1/10 |
-| Host Name | Bordo |
+| Lobby ID | 28521337400785810 |
+| Players | 1/24 |
+| Host Name | mefedron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:40:20 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:40:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337400733956 |
-| Players | 2/10 |
-| Host Name | ВОЛОДЯ ГУЧЧИ |
+| Lobby ID | 28521337400769800 |
+| Players | 5/10 |
+| Host Name | nether |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:40:19 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:40:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337399863554 |
+| Players | 7/8 |
+| Host Name | ME LEDER |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:37:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521337400124578 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521337400777673 |
+| Players | 1/10 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:40:26 |
 
 
