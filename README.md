@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930494839532 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | OnDraXL ❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:49:07 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930495909323 |
+| Lobby ID | 28522930495924833 |
 | Players | 1/10 |
-| Host Name | Russian Gay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:51:51 |
+| Host Name | E.  Crybaby |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 13:51:53 |
 
 
