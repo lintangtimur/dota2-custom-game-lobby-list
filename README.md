@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337400129168 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | stop hitting yourself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337400383101 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | D_y  lml D"%"#& WTF |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:39:18 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:36:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337400769800 |
-| Players | 9/10 |
-| Host Name | nether |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:40:25 |
+| Lobby ID | 28521337398304665 |
+| Players | 22/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:33:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337400875639 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Red Jhon |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:40:43 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337399994804 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337398723090 |
-| Players | 22/24 |
-| Host Name | el jugador mas toxico de Dota2 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:34:29 |
+| Lobby ID | 28521337401055949 |
+| Players | 2/10 |
+| Host Name | GG Bond |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Thursday, November 16, 2023 07:41:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521337400124578 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:33 |
