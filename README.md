@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930820983157 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | PSG.LGBT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 21:14:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930822609169 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | cb|fh99^ #bruce lee mit rücken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 21:16:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930820669079 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 21:14:29 |
@@ -112,28 +112,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930823704232 |
-| Players | 3/8 |
-| Host Name | Extremely motivated |
+| Lobby ID | 28522930823937381 |
+| Players | 1/8 |
+| Host Name | -mabubs616/4 TEAM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 21:16:51 |
+| Lobby Creation Time | Thursday, November 16, 2023 21:17:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930807472798 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | YUI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 21:04:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930823867198 |
+| Players | 1/8 |
+| Host Name | PerTzo |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 21:16:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930824218673 |
+| Players | 6/8 |
+| Host Name | MAESTRO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 21:17:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930818308520 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 21:12:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930823874698 |
+| Players | 1/5 |
+| Host Name | MOWHMD |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 21:16:59 |
 
 
