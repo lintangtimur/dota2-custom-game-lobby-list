@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930534806193 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:22:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930532262492 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | EL TIO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930535175769 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | PaneSin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:22:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930535815527 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Lil meow meow |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:24:18 |
