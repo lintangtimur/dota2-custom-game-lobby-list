@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:59:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930554541211 |
-| Players | 2/8 |
-| Host Name | ♤SVINOPAS415PRIME♤ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:03:49 |
+| Lobby ID | 28522930554639984 |
+| Players | 2/10 |
+| Host Name | Nhe4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:04:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930554216367 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | жабанчик |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930554571671 |
-| Players | 4/8 |
-| Host Name | ni hao epta |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:03:53 |
 
 
 |  | epic_boss_fight_challenger |
