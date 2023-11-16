@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930460585766 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:20:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930465928609 |
-| Players | 9/15 |
-| Host Name | Irif |
+| Lobby ID | 28522930466486260 |
+| Players | 2/10 |
+| Host Name | kindamental |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:34:44 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:36:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930465352919 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:33:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930465008430 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:32:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930466274524 |
-| Players | 9/10 |
+| Players | 5/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:35:36 |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:36:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930466486260 |
-| Players | 2/10 |
-| Host Name | kindamental |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:36:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930466326533 |
-| Players | 3/8 |
-| Host Name | ARMANDO_JC |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:35:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930466632806 |
-| Players | 2/8 |
-| Host Name | Pasa la coca CTMR!!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:36:31 |
+| Lobby ID | 28522930463664635 |
+| Players | 22/24 |
+| Host Name | awtsu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:28:44 |
 
 
 |  | epic_boss_fight_nightmare |
