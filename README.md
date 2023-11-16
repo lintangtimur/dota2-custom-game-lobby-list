@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930453614894 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [TмR] maravisha |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:02:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930454591917 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Brainstorm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:04:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930455273633 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 年轻人不气盛叫年轻人吗 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:06:44 |
