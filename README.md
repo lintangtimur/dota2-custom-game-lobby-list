@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930528621067 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | /*BoDYa_DiLDER*/ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930528384028 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | I bought the bank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:07 |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930528779128 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | мой дом это ветер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930526291230 |
-| Players | 9/10 |
-| Host Name | HarBonDioxide |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:03:34 |
+| Lobby ID | 28522930528888582 |
+| Players | 1/15 |
+| Host Name | Cptn.Canuck |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 15:09:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930528934149 |
+| Players | 1/10 |
+| Host Name | MATACONEROS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 15:09:19 |
 
 
 |  | epic_boss_fight_nightmare |
