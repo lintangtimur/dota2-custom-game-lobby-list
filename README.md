@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930676053775 |
-| Players | 7/10 |
-| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:11:45 |
+| Lobby ID | 28522930676476430 |
+| Players | 12/24 |
+| Host Name | จักรพรรดิ์ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:12:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930675892617 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Shernnika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:11:36 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930675706049 |
-| Players | 7/8 |
-| Host Name | NN |
+| Lobby ID | 28522930676914240 |
+| Players | 1/8 |
+| Host Name | -mabubs616/4 TEAM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:11:24 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:12:39 |
 
 
 |  | ot3_gardens_duo |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930672964667 |
-| Players | 12/15 |
-| Host Name | nurov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:08:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930676476430 |
-| Players | 5/24 |
-| Host Name | จักรพรรดิ์ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:12:12 |
+| Lobby ID | 28522930677092244 |
+| Players | 4/15 |
+| Host Name | :( |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:12:50 |
 
 
 |  | epic_boss_fight_challenger |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:11:54 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930676528651 |
-| Players | 1/7 |
-| Host Name | hat |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 19:12:15 |
+| Lobby ID | 28522930676579385 |
+| Players | 2/10 |
+| Host Name | Trafalgar Law |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:12:18 |
 
 
