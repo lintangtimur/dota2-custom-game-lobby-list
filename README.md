@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930539841244 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:32:37 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930540185414 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 15:33:20 |
+| Lobby ID | 28522930540324606 |
+| Players | 7/10 |
+| Host Name | Датракиец |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 15:33:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 32 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:32:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930540324606 |
-| Players | 5/10 |
-| Host Name | Датракиец |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 15:33:38 |
 
 
 |  | epic_boss_fight_nightmare |
