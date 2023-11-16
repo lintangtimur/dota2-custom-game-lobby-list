@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337390949318 |
-| Players | 2/10 |
-| Host Name | Jora Napasov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:12:23 |
+| Lobby ID | 28521337390909470 |
+| Players | 6/24 |
+| Host Name | •Crazy Life• ☻ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:12:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337389348421 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Supai |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:07:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337390502837 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | supp farming = afk |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:11:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337390657405 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | stop hitting yourself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:11:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337390872757 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | [А]льфа Караул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:12:09 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:11:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337390909470 |
-| Players | 4/24 |
-| Host Name | •Crazy Life• ☻ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:12:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337391123564 |
-| Players | 3/8 |
-| Host Name | Z1fvge |
+| Lobby ID | 28521337391192129 |
+| Players | 1/10 |
+| Host Name | tw.tv/distortionkick |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:12:53 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:13:05 |
 
 
 |  | epic_boss_fight_nightmare |
