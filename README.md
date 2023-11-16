@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930723320324 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:56:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930715438593 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Амням не ебался |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:49:29 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930722142940 |
-| Players | 8/10 |
-| Host Name | УдаР 3 тонны |
+| Players | 3/10 |
+| Host Name | Mitch Conner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:55:28 |
 
@@ -122,36 +122,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930723528297 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Спейсер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:56:41 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930725223126 |
+| Players | 4/24 |
+| Host Name | Кирюша Гвоздодер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:58:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930722878463 |
+| Players | 9/15 |
+| Host Name | NBO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930722735914 |
+| Players | 8/10 |
+| Host Name | Hróðgeirr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930721614791 |
+| Lobby ID | 28522930722813975 |
 | Players | 7/8 |
-| Host Name | Chkae Kmao |
+| Host Name | katharsis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:55:01 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:56:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930721938091 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:55:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930724279620 |
-| Players | 1/5 |
-| Host Name | King Of Uruk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:57:22 |
 
 
