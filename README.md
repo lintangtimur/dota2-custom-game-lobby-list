@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930528621067 |
-| Players | 7/8 |
-| Host Name | AkiStarFOX |
+| Lobby ID | 28522930529507229 |
+| Players | 5/10 |
+| Host Name | Qank |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:08:38 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:10:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930517621326 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Fred |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:43:54 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930528888582 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930529507229 |
-| Players | 3/10 |
-| Host Name | Qank |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:10:36 |
 
 
 |  | epic_boss_fight_nightmare |
