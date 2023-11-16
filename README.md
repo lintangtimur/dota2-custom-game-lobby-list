@@ -2,40 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930472942957 |
-| Players | 13/15 |
-| Host Name | cbx Compendium sucks |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:53:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930472597907 |
-| Players | 7/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:52:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930468397105 |
-| Players | 5/8 |
-| Host Name | cneuwsy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:41:08 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930472566189 |
-| Players | 7/10 |
-| Host Name | Moisés Overloaded (+2) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:52:03 |
+| Lobby ID | 28522930473310878 |
+| Players | 3/10 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:54:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930472729511 |
+| Players | 7/24 |
+| Host Name | Faerie Dragon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:52:29 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:52:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930472729511 |
-| Players | 4/24 |
-| Host Name | Faerie Dragon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:52:29 |
+| Lobby ID | 28522930472566189 |
+| Players | 8/10 |
+| Host Name | Moisés Overloaded (+2) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:52:03 |
 
 
 |  | epic_boss_fight_nightmare |
