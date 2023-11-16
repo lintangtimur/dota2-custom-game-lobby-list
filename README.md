@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930407775869 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ЛШДДУК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:03:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930408957771 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ✪ Aespa Giselle# MireSka |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:06:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930408082520 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | bola bolita bola bolaza |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:03:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930409356214 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | :) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:07:27 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930407900560 |
-| Players | 13/15 |
-| Host Name | Monero |
+| Players | 14/15 |
+| Host Name | июнь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:03:29 |
 
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Seravee |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:07:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930409587818 |
+| Players | 2/8 |
+| Host Name | nv |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:08:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930409658507 |
+| Players | 2/10 |
+| Host Name | ロンリー |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:08:18 |
 
 
 |  | epic_boss_fight_normal |
