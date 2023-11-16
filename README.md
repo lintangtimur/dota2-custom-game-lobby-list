@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930400740577 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930400238819 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930400801643 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930400781440 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | POISON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:15 |
