@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480466913 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Main Ganchito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930478493534 |
-| Players | 9/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 13:07:30 |
+| Lobby ID | 28522930480415037 |
+| Players | 2/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:12:30 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480160591 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ACC for practice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:11:51 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Phill Dz |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930480415037 |
-| Players | 2/24 |
-| Host Name | Percibal |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:12:30 |
 
 
 |  | epic_boss_fight_nightmare |
