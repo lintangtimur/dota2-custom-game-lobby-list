@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930735793781 |
+| Lobby ID | 28522930730654963 |
 | Players | 9/10 |
-| Host Name | mentallyscaredpsychoshizodepress |
+| Host Name | 1KlasNumberOne |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:06:36 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:02:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:38:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930730690680 |
-| Players | 16/24 |
-| Host Name | gilfoyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:02:26 |
+| Lobby ID | 28522930736589347 |
+| Players | 3/8 |
+| Host Name | Eleum Loyce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:07:16 |
 
 
 |  | ot3_desert_octet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930733854705 |
-| Players | 9/15 |
-| Host Name | лошара133000800вольт500маликпбщх |
+| Lobby ID | 28522930736773560 |
+| Players | 1/15 |
+| Host Name | GOZONE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:05:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:07:25 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:02:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930735220673 |
-| Players | 5/8 |
-| Host Name | ryodanenjoyer |
+| Lobby ID | 28522930736415226 |
+| Players | 4/10 |
+| Host Name | Sucker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:06:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:07:07 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930736266992 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | ilyushenka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:07:00 |
@@ -131,63 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930736165512 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | В доме 8/16 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:06:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930736589347 |
-| Players | 3/8 |
-| Host Name | Eleum Loyce |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:07:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930736415226 |
-| Players | 2/10 |
-| Host Name | Sucker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:07:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930733179251 |
-| Players | 2/5 |
-| Host Name | wendy.torangga |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:04:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930735195042 |
-| Players | 6/10 |
-| Host Name | Shyshy |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 20:06:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930736534935 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | ko ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:07:13 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930736623311 |
-| Players | 2/5 |
-| Host Name | lolipop23K |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:07:18 |
+| Lobby ID | 28522930735195042 |
+| Players | 8/10 |
+| Host Name | Shyshy |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 20:06:06 |
 
 
