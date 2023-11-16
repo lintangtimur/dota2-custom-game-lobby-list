@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930479896523 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | itachi uchiha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:11:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930478493534 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | K292 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:07:30 |
