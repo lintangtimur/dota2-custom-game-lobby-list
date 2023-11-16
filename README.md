@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930394872510 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | PROBANDO ANDO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:28:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930395496379 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Pool Hermano |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:05 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930395529484 |
-| Players | 1/10 |
-| Host Name | То, как она шлёпае |
+| Players | 2/10 |
+| Host Name | Dead_Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:11 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930395076753 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Momam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:28:58 |
