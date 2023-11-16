@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930480415037 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930482560489 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:17:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480466913 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:38 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:16:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930483249272 |
-| Players | 2/10 |
-| Host Name | кикнyли из цepкви |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:19:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930483201556 |
@@ -103,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930483246628 |
-| Players | 1/8 |
-| Host Name | Dartanian |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:19:44 |
+| Lobby ID | 28522930481597380 |
+| Players | 7/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:15:30 |
 
 
 |  | epic_boss_fight_hard |
@@ -128,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:17:55 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930483140439 |
-| Players | 1/5 |
-| Host Name | JetStream |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 13:19:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930483285523 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:19:49 |
