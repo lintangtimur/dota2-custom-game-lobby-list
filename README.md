@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930495924833 |
-| Players | 9/10 |
-| Host Name | Zalec Frey |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 13:51:53 |
+| Lobby ID | 28522930501079730 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 14:04:36 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930500639219 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | P$ixoPAT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:03:31 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930500302362 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:02:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930501079730 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 14:04:36 |
 
 
 |  | epic_boss_fight_nightmare |
