@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930413843684 |
-| Players | 12/15 |
-| Host Name | FoxIn |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:19:17 |
+| Lobby ID | 28522930414592582 |
+| Players | 14/15 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:21:17 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930412810849 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:16:40 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930412399313 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930413652974 |
-| Players | 22/24 |
-| Host Name | Dash'God |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:18:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930414374703 |
-| Players | 1/10 |
-| Host Name | Chamin (Alias la rata) XD (FV) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:20:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930414592582 |
-| Players | 10/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:21:17 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:21:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930414288217 |
-| Players | 1/5 |
-| Host Name | Matheus (Farcrad) |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 10:20:28 |
+| Lobby ID | 28522930414374703 |
+| Players | 3/10 |
+| Host Name | Chamin (Alias la rata) XD (FV) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:20:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930414763471 |
+| Players | 1/15 |
+| Host Name | ...50 Cent... |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:21:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930412907697 |
+| Players | 2/10 |
+| Host Name | Death Is My Bitch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:16:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28522930412907697 |
-| Players | 2/10 |
-| Host Name | Death Is My Bitch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:16:56 |
+| Lobby ID | 28522930414755279 |
+| Players | 2/5 |
+| Host Name | "ZÉZÃO" |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 10:21:42 |
 
 
