@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930444739569 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Neko |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:39:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930444451936 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:39:08 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930443874388 |
-| Players | 2/8 |
-| Host Name | YURNERO |
+| Players | 1/8 |
+| Host Name | Rarity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:03 |
 
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930440902295 |
+| Lobby ID | 28522930444686062 |
 | Players | 7/8 |
-| Host Name | ♥ НИЗКИЙ ГОЛОС, Ж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:31:07 |
+| Host Name | Andresosky |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 11:39:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 永遠- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:39:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930444686062 |
-| Players | 5/8 |
-| Host Name | Andresosky |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 11:39:34 |
 
 
 |  | epic_boss_fight_nightmare |
