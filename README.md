@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930414789780 |
-| Players | 9/15 |
-| Host Name | ...50 Cent... |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:21:48 |
+| Lobby ID | 28522930415015327 |
+| Players | 3/10 |
+| Host Name | Chunkymonkey01 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:22:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930412370342 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:30 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:21:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930414374703 |
-| Players | 9/10 |
-| Host Name | Kvn |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:20:42 |
+| Lobby ID | 28522930415031966 |
+| Players | 1/15 |
+| Host Name | RAMPAGE |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 10:22:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930412399313 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:34 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930414967073 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SCR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:22:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930414910629 |
-| Players | 1/15 |
-| Host Name | Darkness |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 10:22:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930414997884 |
-| Players | 1/24 |
-| Host Name | J.r |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:22:21 |
+| Lobby ID | 28522930410507125 |
+| Players | 23/24 |
+| Host Name | Andresx1x |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
 
 
 |  | epic_boss_fight_nightmare |
