@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:53:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930495344871 |
-| Players | 1/10 |
-| Host Name | Zalec Frey |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 13:50:25 |
+| Lobby ID | 28522930496937792 |
+| Players | 6/8 |
+| Host Name | ☭ Oh no Hermano ☭ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:54:26 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930496026034 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Russian Gay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:52:08 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930494839532 |
-| Players | 17/24 |
-| Host Name | eudaemon |
+| Players | 18/24 |
+| Host Name | Frozenmilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:49:07 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930496888022 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Star Lord |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:54:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930496252710 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | animal mother |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:52:43 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:52:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930497012099 |
+| Players | 1/10 |
+| Host Name | 起个名真纠结 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 13:54:37 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28522930497013477 |
+| Players | 1/7 |
+| Host Name | Эхослэм>блинк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:54:37 |
 
 
