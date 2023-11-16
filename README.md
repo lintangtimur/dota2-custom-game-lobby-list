@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930419206183 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Stunning Garry |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:33:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930419327602 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | :) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:34:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930419125825 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Monero |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:33:35 |
@@ -50,27 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930419404990 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | bobel constructor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:34:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930419029958 |
-| Players | 23/24 |
-| Host Name | Ban¡¡¡ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:33:20 |
+| Lobby ID | 28522930419494120 |
+| Players | 1/15 |
+| Host Name | ☛ RONIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:34:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930417420794 |
-| Players | 9/10 |
-| Host Name | NezukoChannnnn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:28:57 |
+| Lobby ID | 28522930419565437 |
+| Players | 1/10 |
+| Host Name | свиня джакузі |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:34:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930419549463 |
+| Players | 1/5 |
+| Host Name | 阿修罗 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:34:42 |
 
 
