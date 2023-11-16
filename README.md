@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337389348421 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Supai |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:07:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337390502837 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | supp farming = afk |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:11:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337390657405 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | stop hitting yourself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:11:31 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:10:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337389967772 |
-| Players | 23/24 |
-| Host Name | SeT |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:09:37 |
+| Lobby ID | 28521337390872757 |
+| Players | 4/15 |
+| Host Name | [А]льфа Караул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:12:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:11:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337390865093 |
-| Players | 2/10 |
-| Host Name | ロンリー |
+| Lobby ID | 28521337390909470 |
+| Players | 2/24 |
+| Host Name | •Crazy Life• ☻ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:12:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337390937036 |
+| Players | 4/8 |
+| Host Name | ₥ɄĐⱤɆ₵ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:12:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:12:21 |
 
 
 |  | epic_boss_fight_nightmare |
