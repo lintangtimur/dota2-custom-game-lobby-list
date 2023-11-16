@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930454599826 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | 102 eggs in spanish |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:04:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930456344042 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Akeami |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:09:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930455115578 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | mantisoficial |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 12:06:18 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ★|RoyalPain|★ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:09:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930456590156 |
+| Players | 1/15 |
+| Host Name | -_- |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:10:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930456588443 |
+| Players | 1/15 |
+| Host Name | Ace in the Hole |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:10:11 |
 
 
 |  | epic_boss_fight_nightmare |
