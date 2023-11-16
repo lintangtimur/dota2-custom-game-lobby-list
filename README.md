@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930422725963 |
-| Players | 9/10 |
-| Host Name | Rofl Chick-Fil-A Copter |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:42:54 |
+| Lobby ID | 28522930423452227 |
+| Players | 2/15 |
+| Host Name | boOM!jiNdev1L. ~ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:44:51 |
 
 
 |  | ot3_desert_octet |
@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930423419372 |
-| Players | 1/8 |
-| Host Name | ASPEERAN |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 16, 2023 10:44:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930423014901 |
-| Players | 2/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:43:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930423194253 |
-| Players | 3/10 |
-| Host Name | Fattory |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:44:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930423067999 |
@@ -74,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930423452227 |
-| Players | 2/15 |
-| Host Name | boOM!jiNdev1L. ~ |
+| Lobby ID | 28522930423014901 |
+| Players | 3/24 |
+| Host Name | Yonwalther |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:44:51 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:43:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930423194253 |
+| Players | 4/10 |
+| Host Name | Fattory |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:44:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930423476107 |
+| Lobby ID | 28522930423544928 |
 | Players | 1/8 |
-| Host Name | 哥哥看我头像 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, November 16, 2023 10:44:55 |
+| Host Name | ASPEERAN |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 10:45:06 |
 
 
 |  | epic_boss_fight_nightmare |
