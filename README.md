@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930482303020 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:17:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480466913 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:38 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930482157983 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:16:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930483201556 |
-| Players | 1/8 |
-| Host Name | Di5ablex |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:19:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:15:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930483469726 |
+| Players | 1/15 |
+| Host Name | beamspeaker |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:20:16 |
 
 
 |  | epic_boss_fight_hard |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930482534700 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SnowFire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:17:55 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930483285523 |
-| Players | 4/10 |
-| Host Name | Lose modo show |
+| Players | 1/10 |
+| Host Name | Tururú|Mrsl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:19:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930483412375 |
+| Players | 1/5 |
+| Host Name | MyM_R@zer.mania |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:20:08 |
 
 
