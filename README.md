@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930531656612 |
-| Players | 7/8 |
-| Host Name | watch me die rebellious all mute |
+| Lobby ID | 28522930532711309 |
+| Players | 10/15 |
+| Host Name | cruis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:15:15 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:17:32 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930528983378 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:26 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ДИО БАРАНДО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930532711309 |
-| Players | 6/15 |
-| Host Name | cruis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:17:32 |
 
 
 |  | epic_boss_fight_nightmare |
