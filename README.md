@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | eFFinG.Techno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930431949658 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PALESTINO2000 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930432902473 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ParadiseJohn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433211837 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:06:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930433312227 |
-| Players | 1/10 |
-| Host Name | my face is sexy |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 11:11:13 |
 
 
