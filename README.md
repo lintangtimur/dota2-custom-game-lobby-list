@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974740830472 |
-| Players | 7/8 |
-| Host Name | ZenDyyy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 17, 2023 05:27:28 |
+| Lobby ID | 28523974741570116 |
+| Players | 1/15 |
+| Host Name | finn |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 05:28:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974739236761 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PUGtamare |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:24:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974740876504 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Liam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 05:27:33 |
@@ -68,36 +68,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974739397627 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | EL MATA CURIERS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:24:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28523974741335274 |
+| Players | 4/8 |
+| Host Name | Акула |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:28:26 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974739693182 |
-| Players | 8/10 |
-| Host Name | ঔৣ♡AmyÇat♡💖 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:25:18 |
+| Lobby ID | 28523974741305789 |
+| Players | 2/10 |
+| Host Name | loser |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 17, 2023 05:28:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28523974741479425 |
+| Players | 6/10 |
+| Host Name | Джони Две Куртки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:28:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974741074229 |
-| Players | 7/15 |
-| Host Name | kuni lover |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:27:56 |
+| Lobby ID | 28523974738372247 |
+| Players | 14/15 |
+| Host Name | 123123 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 05:22:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28523974739378570 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 05:24:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974741434381 |
+| Players | 6/10 |
+| Host Name | crocodile |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:28:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974741556836 |
+| Players | 1/10 |
+| Host Name | d1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:28:52 |
 
 
