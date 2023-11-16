@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930415609033 |
-| Players | 9/10 |
-| Host Name | caracal |
+| Lobby ID | 28522930410507125 |
+| Players | 18/24 |
+| Host Name | Andresx1x |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:24:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930412370342 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930415689115 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:14 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RAMPAGE |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930410507125 |
-| Players | 18/24 |
-| Host Name | Andresx1x |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
 
 
 |  | epic_boss_fight_nightmare |
