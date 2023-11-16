@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337421667593 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Larcade |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:40:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337421051694 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:38:47 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337421721562 |
-| Players | 1/15 |
-| Host Name | XAVIIII111 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:40:41 |
+| Lobby ID | 28521337421616895 |
+| Players | 4/15 |
+| Host Name | Пенистый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:40:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337420795276 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 08:38:04 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337421410975 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AXE-KUN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:39:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521337421616895 |
-| Players | 1/15 |
-| Host Name | Пенистый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:40:23 |
 
 
 |  | epic_boss_fight_challenger |
