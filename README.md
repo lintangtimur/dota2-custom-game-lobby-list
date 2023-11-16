@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337406950461 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:58:25 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337407516232 |
-| Players | 4/8 |
-| Host Name | студия артемия ле |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:00:04 |
+| Lobby ID | 28521337407847316 |
+| Players | 2/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 08:01:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337406795905 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ВЛАСТЕЛИН КРИПОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:57:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337407128491 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ...... |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:58:56 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:58:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337407124842 |
-| Players | 2/10 |
-| Host Name | Darth Dafty |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:58:55 |
 
 
 |  | epic_boss_fight_nightmare |
