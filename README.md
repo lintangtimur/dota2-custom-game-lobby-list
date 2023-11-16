@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930393063998 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | xpratf |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:23:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930393783634 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Deimos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:25:27 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:25:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930394027754 |
+| Players | 1/8 |
+| Host Name | Bibliokiller |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:26:07 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930388274949 |
@@ -77,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930389889692 |
-| Players | 2/10 |
-| Host Name | Countess of Lyon |
+| Players | 1/10 |
+| Host Name | Вениамин Рапира |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:15:32 |
 
