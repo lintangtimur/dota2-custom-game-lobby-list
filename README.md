@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:23:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930393280112 |
+| Players | 6/8 |
+| Host Name | I'mS oFuckiNg B ad |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:24:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930393305451 |
+| Players | 1/24 |
+| Host Name | ZZZZZZZZ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:24:11 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930388274949 |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:16:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930390747932 |
-| Players | 9/10 |
-| Host Name | Jebong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 09:17:38 |
 
 
