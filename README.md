@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930451042283 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Old friend |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:55:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930452458292 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ♥ НИЗКИЙ ГОЛОС, Ж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:59:22 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930453618136 |
-| Players | 3/15 |
-| Host Name | Whiskas Renacido <3 |
+| Players | 1/15 |
+| Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:02:25 |
 
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sband_Mirand |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:02:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930453681940 |
+| Players | 1/15 |
+| Host Name | satorugojo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:02:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930452431310 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:59:18 |
