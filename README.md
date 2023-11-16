@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930470563375 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | посмотреть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:46:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930468397105 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Alaq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:41:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930469983774 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:45:16 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:47:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930471397921 |
-| Players | 1/8 |
-| Host Name | Rafta® |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:48:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930470321841 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:46:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930471510065 |
+| Players | 1/10 |
+| Host Name | Foozler |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:49:17 |
 
 
