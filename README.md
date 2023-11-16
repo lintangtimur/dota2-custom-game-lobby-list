@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974708362837 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Ceeword |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 04:27:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974699807873 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:13:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974711425811 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Dark |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 04:32:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974711371024 |
-| Players | 6/15 |
+| Players | 2/15 |
 | Host Name | pietrako |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 17, 2023 04:32:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974711315233 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Đ∑ĄĐ ĬŅŠĬĐ∑ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 04:32:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974711758198 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Sunshine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:33:22 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974711796251 |
-| Players | 4/8 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Lobby ID | 28523974712232500 |
+| Players | 5/8 |
+| Host Name | Вадик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 04:33:26 |
+| Lobby Creation Time | Friday, November 17, 2023 04:34:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28523974712249313 |
+| Players | 1/24 |
+| Host Name | Maldack |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 17, 2023 04:34:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974711970350 |
+| Lobby ID | 28523974712283748 |
 | Players | 1/15 |
-| Host Name | Dobler |
+| Host Name | ✙SheJero✙ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 04:33:44 |
+| Lobby Creation Time | Friday, November 17, 2023 04:34:17 |
 
 
 |  | epic_boss_fight_hard |
