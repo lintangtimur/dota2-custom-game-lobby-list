@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337387833840 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | jean_sixx |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:03:43 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337389580304 |
-| Players | 6/8 |
-| Host Name | Ebrio4u |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:08:31 |
+| Lobby ID | 28521337389348421 |
+| Players | 8/24 |
+| Host Name | L'ost |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 07:07:51 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337389446731 |
-| Players | 14/15 |
-| Host Name | ]¦•¦BoDo]¦•¦[™ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:08:08 |
+| Lobby ID | 28521337389703980 |
+| Players | 3/15 |
+| Host Name | я смогу победить |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:08:51 |
 
 
 |  | ot3_gardens_duo |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ิ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:06:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521337384181147 |
-| Players | 23/24 |
-| Host Name | Martin-Luther-King. |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 06:55:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521337389348421 |
-| Players | 8/24 |
-| Host Name | L'ost |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 07:07:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521337389703980 |
-| Players | 1/15 |
-| Host Name | я смогу победить |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:08:51 |
 
 
 |  | epic_boss_fight_nightmare |
