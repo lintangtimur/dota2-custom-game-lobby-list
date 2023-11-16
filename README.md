@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 22:38:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930929441116 |
-| Players | 1/15 |
-| Host Name | Jabroni |
+| Lobby ID | 28522930929797571 |
+| Players | 4/8 |
+| Host Name | owl demons |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:43:59 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930929435515 |
-| Players | 5/15 |
-| Host Name | Sssycak [CZE] |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 22:43:59 |
+| Lobby ID | 28522930930163735 |
+| Players | 2/10 |
+| Host Name | I FEEL LIKE GOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930917575238 |
-| Players | 2/8 |
-| Host Name | Gogy |
+| Players | 1/8 |
+| Host Name | ДАША ДВА БАШАCS.PRO |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 16, 2023 22:33:27 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930928511091 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 22:43:09 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930926791426 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | kisper |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 22:41:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930925520813 |
-| Players | 9/10 |
-| Host Name | Веселый бухляшь |
+| Lobby ID | 28522930910855841 |
+| Players | 2/8 |
+| Host Name | 2pik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 22:40:28 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:27:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930929644402 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Te@M $PIRIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 22:44:10 |
@@ -122,10 +122,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930920770783 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | FoUsTy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 22:36:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930929700183 |
+| Players | 1/15 |
+| Host Name | VimeBash |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930929903054 |
+| Players | 9/10 |
+| Host Name | ONyx* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930930271547 |
+| Players | 1/24 |
+| Host Name | CyBeR |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930930285570 |
+| Players | 2/10 |
+| Host Name | uselessuselessuselessuseless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,12 +173,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 22:26:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930929236624 |
-| Players | 1/5 |
-| Host Name | nOdEn |
+| Lobby ID | 28522930929737870 |
+| Players | 2/10 |
+| Host Name | !!SuperHero$$ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 16, 2023 22:43:48 |
+| Lobby Creation Time | Thursday, November 16, 2023 22:44:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930921747280 |
+| Players | 8/10 |
+| Host Name | Loc Dog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 22:37:07 |
 
 
