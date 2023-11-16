@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974739236761 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | PUGtamare |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:24:25 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 05:26:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974740579360 |
-| Players | 2/10 |
-| Host Name | loser |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 17, 2023 05:26:59 |
+| Lobby ID | 28523974740259507 |
+| Players | 11/15 |
+| Host Name | манук9н |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:26:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,28 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 05:25:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974740259507 |
-| Players | 3/15 |
-| Host Name | манук9н |
+| Lobby ID | 28523974740736573 |
+| Players | 6/10 |
+| Host Name | nazi tinker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:26:23 |
+| Lobby Creation Time | Friday, November 17, 2023 05:27:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974740536840 |
+| Lobby ID | 28523974740722667 |
 | Players | 2/10 |
-| Host Name | Rodip it |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 17, 2023 05:26:54 |
+| Host Name | StarWay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:27:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28523974739722611 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Alainzzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:25:22 |
