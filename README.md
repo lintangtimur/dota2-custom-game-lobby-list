@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930460099039 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Kez1rE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:19:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930459398333 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Лучше не станет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:17:33 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930458997843 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:16:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930460476487 |
-| Players | 1/8 |
-| Host Name | como es posible tu proceso xdd |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:20:20 |
+| Lobby ID | 28522930460585766 |
+| Players | 3/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:20:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:20:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930460585766 |
-| Players | 2/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:20:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930449188911 |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:17:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28522930460733553 |
-| Players | 1/5 |
+| Lobby ID | 28522930460773309 |
+| Players | 1/7 |
 | Host Name | AI Medium BoT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:21:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:21:06 |
 
 
