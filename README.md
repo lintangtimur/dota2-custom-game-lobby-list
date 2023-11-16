@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930505869532 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | tieteilijä |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:16:13 |
@@ -67,24 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930506538979 |
-| Players | 2/10 |
-| Host Name | Вадик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:17:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930506575322 |
-| Players | 2/15 |
-| Host Name | 祖传小号之孤儿院历险记 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Thursday, November 16, 2023 14:17:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28522930506637274 |
 | Players | 2/10 |
 | Host Name | K292 |
@@ -92,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 14:18:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930506805418 |
+| Players | 3/8 |
+| Host Name | курва бобэр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 14:18:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930504928977 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Heng |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 14:13:59 |
