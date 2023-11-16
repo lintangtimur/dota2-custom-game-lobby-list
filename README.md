@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930506755311 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:18:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930506505420 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:17:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930506805418 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | курва бобэр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:18:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930507081323 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | 旋转跳跃我吃枪线 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 14:19:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930504928977 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Heng |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 14:13:59 |
