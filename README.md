@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930423452227 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | boOM!jiNdev1L. ~ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:44:51 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930423067999 |
-| Players | 13/15 |
-| Host Name | 111111111111111111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:43:49 |
+| Lobby ID | 28522930423871261 |
+| Players | 1/8 |
+| Host Name | De Tin Marín |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:45:59 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:45:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930423871261 |
-| Players | 1/8 |
-| Host Name | De Tin Marín |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:45:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930422609204 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:42:36 |
