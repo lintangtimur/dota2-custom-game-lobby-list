@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930561321546 |
-| Players | 2/15 |
-| Host Name | Cptn.Canuck |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:17:47 |
+| Lobby ID | 28522930574693450 |
+| Players | 6/15 |
+| Host Name | зритель аниме |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 16:44:20 |
 
 
 |  | ot3_desert_octet |
@@ -29,102 +29,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930561389660 |
-| Players | 9/24 |
-| Host Name | xJw |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:17:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930560369120 |
-| Players | 2/15 |
-| Host Name | BUTUH DANA CEPAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:15:49 |
+| Lobby ID | 28522930574088125 |
+| Players | 7/15 |
+| Host Name | Thumbiceq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:43:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930560664314 |
-| Players | 10/15 |
-| Host Name | tin tin |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:16:26 |
+| Lobby ID | 28522930573631809 |
+| Players | 6/8 |
+| Host Name | puce4ku |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 16:42:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930561853738 |
+| Lobby ID | 28522930574781166 |
+| Players | 6/10 |
+| Host Name | kurwa morska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:44:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930575033667 |
 | Players | 2/10 |
-| Host Name | Датракиец |
+| Host Name | HappyM_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:45:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930575543288 |
+| Players | 1/10 |
+| Host Name | Revoker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:46:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930575595290 |
+| Players | 1/15 |
+| Host Name | Bruty |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 16:18:53 |
+| Lobby Creation Time | Thursday, November 16, 2023 16:46:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930561427669 |
-| Players | 3/8 |
-| Host Name | x/y |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:18:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930561850192 |
-| Players | 5/8 |
-| Host Name | one vs the world |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:18:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930562007561 |
-| Players | 4/8 |
-| Host Name | FeS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:19:12 |
+| Lobby ID | 28522930575619546 |
+| Players | 1/15 |
+| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 16:46:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930561140096 |
-| Players | 3/10 |
-| Host Name | Sanguinius |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:17:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930561669272 |
-| Players | 9/10 |
-| Host Name | MM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:18:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930561823474 |
-| Players | 3/5 |
-| Host Name | 13 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:18:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930561945573 |
-| Players | 1/5 |
-| Host Name | THE REAPERMUERT  DARK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:19:04 |
+| Lobby ID | 28522930575057183 |
+| Players | 2/10 |
+| Host Name | ang qt qt ko |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 16:45:04 |
 
 
