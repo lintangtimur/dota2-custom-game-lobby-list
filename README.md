@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337388718525 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Maedread |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:06:07 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 06:29:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337388556079 |
-| Players | 7/8 |
-| Host Name | Stingray |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:05:40 |
+| Lobby ID | 28521337389446731 |
+| Players | 8/15 |
+| Host Name | ]¦•¦BoDo]¦•¦[™ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:08:08 |
 
 
 |  | ot3_gardens_duo |
@@ -95,25 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337389373689 |
-| Players | 5/8 |
-| Host Name | Ebrio4u |
+| Players | 4/8 |
+| Host Name | M-God |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:07:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337389446731 |
-| Players | 2/15 |
-| Host Name | ]¦•¦BoDo]¦•¦[™ |
+| Lobby ID | 28521337384181147 |
+| Players | 23/24 |
+| Host Name | Martin-Luther-King. |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 06:55:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521337389536185 |
+| Players | 1/24 |
+| Host Name | benito camelo |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:08:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:08:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521337388970049 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | vibe dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:06:49 |
