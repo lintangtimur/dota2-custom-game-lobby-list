@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:55:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930428655399 |
-| Players | 4/8 |
-| Host Name | Ginhão |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 10:58:44 |
+| Lobby ID | 28522930428232438 |
+| Players | 13/15 |
+| Host Name | Brownie |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:57:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930427505035 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | 🍌 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:55:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930430051923 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Tony |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:02:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930429841005 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:01:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930430309695 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Q12 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:03:08 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930430333190 |
-| Players | 1/15 |
-| Host Name | UuduuZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:03:11 |
+| Lobby ID | 28522930430373404 |
+| Players | 2/15 |
+| Host Name | ЕГЭ Маров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:03:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930429639548 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ⰿ�NoobTank�Ⰿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:01:21 |
