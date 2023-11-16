@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337411483294 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | allmute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:11:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337411233488 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Wanna Die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:10:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337411501136 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | señor gaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:11:33 |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | easy life |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:12:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337411965119 |
-| Players | 4/10 |
-| Host Name | Durotan |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:12:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521337411564904 |
-| Players | 1/5 |
-| Host Name | La urraca |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:11:44 |
 
 
