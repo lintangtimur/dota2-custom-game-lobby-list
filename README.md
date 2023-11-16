@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930475481052 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Dicrocelum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:59:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930474896231 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:58:05 |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930475471420 |
-| Players | 1/10 |
+| Lobby ID | 28522930475491043 |
+| Players | 2/10 |
 | Host Name | ЧУХАН |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:59:36 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:59:39 |
 
 
