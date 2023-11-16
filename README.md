@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974713200944 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | imissue |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 17, 2023 04:35:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974719332789 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | asami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 04:46:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974719401045 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Shellby Nikole |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 04:46:54 |
@@ -95,28 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974719414838 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Voland |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 04:46:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28523974719504517 |
+| Players | 2/10 |
+| Host Name | ✪Ertuğrul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 04:47:05 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28523974719470862 |
+| Lobby ID | 28523974719521935 |
 | Players | 1/24 |
-| Host Name | PUTO EL QUE LO LEA |
+| Host Name | Hachiman |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 04:47:01 |
+| Lobby Creation Time | Friday, November 17, 2023 04:47:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974719468654 |
-| Players | 2/8 |
-| Host Name | ВладикТурбина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 04:47:01 |
+| Lobby ID | 28523974719566289 |
+| Players | 2/10 |
+| Host Name | КОКЛЫ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 17, 2023 04:47:12 |
 
 
 |  | epic_boss_fight_nightmare |
