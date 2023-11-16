@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974753258040 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 05:52:48 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974751334557 |
-| Players | 4/15 |
-| Host Name | Sirzechs |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 05:48:43 |
+| Lobby ID | 28523974754034383 |
+| Players | 1/15 |
+| Host Name | Чернушка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:54:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974753437304 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:53:11 |
@@ -59,27 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974753863885 |
-| Players | 2/24 |
-| Host Name | nvxe |
+| Players | 6/24 |
+| Host Name | SASASASA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:54:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974753763426 |
-| Players | 2/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:53:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28523974753827135 |
-| Players | 4/8 |
-| Host Name | PUPS |
+| Lobby ID | 28523974754053467 |
+| Players | 9/15 |
+| Host Name | MavDrac |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:54:01 |
+| Lobby Creation Time | Friday, November 17, 2023 05:54:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974754006292 |
+| Players | 14/15 |
+| Host Name | worldwide |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:54:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974754195824 |
+| Players | 1/15 |
+| Host Name | RVMIRXZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:54:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974754248866 |
+| Players | 1/10 |
+| Host Name | Essa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:54:56 |
 
 
