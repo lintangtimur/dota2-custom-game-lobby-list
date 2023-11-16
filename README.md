@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:34:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930441015329 |
-| Players | 13/15 |
-| Host Name | Fitty_spenc |
+| Lobby ID | 28522930442143717 |
+| Players | 7/24 |
+| Host Name | B2 |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 11:31:25 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:34:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:33:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930442143717 |
-| Players | 7/24 |
-| Host Name | B2 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 11:34:22 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930438486054 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930440043879 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | [L_s]To4ek?Po4ek? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:28:51 |
