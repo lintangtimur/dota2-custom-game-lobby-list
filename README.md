@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930446052208 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Demon |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:42:37 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930446062232 |
 | Players | 1/24 |
-| Host Name | GL |
+| Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:42:39 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:44:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930438260799 |
-| Players | 22/24 |
-| Host Name | MyFuture |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:24:06 |
+| Lobby ID | 28522930447046047 |
+| Players | 1/15 |
+| Host Name | ChipySmith |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 11:45:09 |
 
 
 |  | epic_boss_fight_nightmare |
