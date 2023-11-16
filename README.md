@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930460585766 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:20:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930464074210 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Ебур Оссию |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:29:49 |
@@ -47,30 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:18:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930464730021 |
-| Players | 1/10 |
-| Host Name | lockdwn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:31:34 |
+| Lobby ID | 28522930465008430 |
+| Players | 3/24 |
+| Host Name | roswel |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:32:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930464799920 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | REX |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:31:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930465265883 |
+| Players | 1/8 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:33:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930462522426 |
-| Players | 2/10 |
-| Host Name | eternal despair デ怒anxiety怒デ lepr |
+| Players | 1/10 |
+| Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:25:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930465272227 |
+| Players | 1/10 |
+| Host Name | eternal despair デ怒anxiety怒デ lepr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:33:01 |
 
 
