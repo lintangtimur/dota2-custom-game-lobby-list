@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930534806193 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:22:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930535815527 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Lil meow meow |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:24:18 |
