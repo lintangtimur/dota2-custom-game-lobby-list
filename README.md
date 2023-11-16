@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930474087645 |
-| Players | 1/24 |
-| Host Name | 617 agi |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 12:55:58 |
+| Lobby ID | 28522930475248943 |
+| Players | 1/10 |
+| Host Name | TheGreatExodius |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:59:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930474248049 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | leave if u see p2w |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:56:23 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Noa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:55:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930475248943 |
-| Players | 1/10 |
-| Host Name | TheGreatExodius |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:59:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:58:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930475325539 |
+| Players | 1/10 |
+| Host Name | ЧУХАН |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:59:14 |
 
 
