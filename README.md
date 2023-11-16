@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337401354149 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | руский?В ПАКЕТ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:42:06 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337401751485 |
-| Players | 11/15 |
-| Host Name | мой кайф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:16 |
+| Lobby ID | 28521337401897077 |
+| Players | 5/15 |
+| Host Name | darkwolf2108 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:43:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337401293290 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:41:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337401319493 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | Silent |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:42:00 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337401854779 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:43:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337401877856 |
-| Players | 2/8 |
-| Host Name | S_BEKA_S |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:38 |
 
 
 |  | epic_boss_fight_nightmare |
