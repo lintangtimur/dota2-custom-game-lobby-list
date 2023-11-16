@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337396351161 |
-| Players | 6/8 |
-| Host Name | C2H5OH |
+| Lobby ID | 28521337395947796 |
+| Players | 2/10 |
+| Host Name | ... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:27:34 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:26:23 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337395561714 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:25:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337397102580 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:29:46 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥-℉ïŘ€Mă₦-♥ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:26:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337395947796 |
-| Players | 2/10 |
-| Host Name | ... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:26:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337396515403 |
-| Players | 7/8 |
-| Host Name | Canela pasión |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:28:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521337397275294 |
-| Players | 1/15 |
-| Host Name | gizil_kush |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 16, 2023 07:30:16 |
 
 
 |  | epic_boss_fight_nightmare |
