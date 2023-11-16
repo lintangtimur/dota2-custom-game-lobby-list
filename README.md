@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930417910462 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 葉王・朝倉 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930417987060 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Lapixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:30 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | фарм 24/7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:31:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930418288290 |
-| Players | 3/8 |
-| Host Name | K4bhal |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 10:31:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930412907697 |
-| Players | 9/10 |
-| Host Name | EMPERATOOR_No1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:16:56 |
 
 
 |  | epic_boss_fight_nightmare |
