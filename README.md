@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930447994546 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:47:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930450506908 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Zeldris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:54:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930450358078 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:53:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930449451997 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Grizzlyattack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:51:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930451010818 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 𝖔v𝖊𝖗𝖉𝖔𝕾𝖊 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:55:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930451024324 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | leo222(ベース) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:55:35 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930450988407 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:55:30 |
