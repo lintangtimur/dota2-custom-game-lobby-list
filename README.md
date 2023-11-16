@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930509317740 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | kiw kiw CUKURUK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:24:28 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | el chorry |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:27:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930510461936 |
+| Players | 3/10 |
+| Host Name | TriHard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 14:27:12 |
 
 
