@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930442175064 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:34:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930442143717 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | B2 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:34:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930440043879 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | [L_s]To4ek?Po4ek? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:28:51 |
