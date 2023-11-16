@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930732463713 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Президент Лп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:03:51 |
@@ -51,16 +51,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930730690680 |
 | Players | 7/24 |
-| Host Name | sprklngwtr Nene KATE | 蘇打水 |
+| Host Name | MUOM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:02:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930732902886 |
+| Lobby ID | 28522930732920431 |
 | Players | 2/8 |
-| Host Name | солевой магнат |
+| Host Name | мазня говном |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:04:13 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930726076584 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:58:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930730402564 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | GREYRAT016 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 20:02:13 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930731971587 |
+| Lobby ID | 28522930733313721 |
 | Players | 5/10 |
-| Host Name | Op |
+| Host Name | Спейсер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:03:27 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:04:33 |
 
 
 |  | ot3_gardens_duo |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930732691483 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | zxc NEO MUFFIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:04:02 |
@@ -140,34 +140,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930732833240 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:04:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930732920431 |
-| Players | 2/8 |
-| Host Name | мазня говном |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:04:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930722878463 |
-| Players | 11/15 |
-| Host Name | SARS COVid 19 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:56:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930721938091 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:55:17 |
@@ -185,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930730570219 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Finn |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 20:02:21 |
@@ -193,10 +175,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28522930731228236 |
-| Players | 2/5 |
-| Host Name | !🙂 |
+| Lobby ID | 28522930733179251 |
+| Players | 3/5 |
+| Host Name | YEAH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:04:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930733653730 |
+| Players | 1/5 |
+| Host Name | Кефтеме |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:02:51 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:04:50 |
 
 
