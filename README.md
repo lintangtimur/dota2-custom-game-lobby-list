@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930466819030 |
-| Players | 14/15 |
-| Host Name | GrandMagus.Rubick |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:37:00 |
+| Lobby ID | 28522930468086299 |
+| Players | 2/10 |
+| Host Name | K292 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:40:20 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930465352919 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:33:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930466981748 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Explorer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:37:26 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930467538024 |
-| Players | 6/8 |
-| Host Name | money dealer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:38:54 |
+| Lobby ID | 28522930468156230 |
+| Players | 1/8 |
+| Host Name | COSMO EL GATO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:40:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930468086299 |
-| Players | 2/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:40:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930462522426 |
-| Players | 1/10 |
-| Host Name | Kover |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:25:41 |
+| Lobby ID | 28522930468159427 |
+| Players | 1/24 |
+| Host Name | tenia futuro hasta que dotee |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:40:31 |
 
 
 |  | epic_boss_fight_nightmare |
