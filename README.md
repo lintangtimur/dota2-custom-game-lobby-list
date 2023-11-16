@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930539841244 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:32:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930540964791 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | y0ngG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:34:59 |
@@ -58,29 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930540964693 |
+| Lobby ID | 28522930541119945 |
 | Players | 1/8 |
-| Host Name | A1000DY SH1ГARAM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:34:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930541064679 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 15:35:11 |
+| Host Name | kayipbekovplay |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:35:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930541094059 |
+| Lobby ID | 28522930541172938 |
+| Players | 1/15 |
+| Host Name | Gig ** |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 15:35:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930541183808 |
 | Players | 1/15 |
 | Host Name | Oleg Lymar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:35:15 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:35:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:31:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930541138597 |
+| Players | 1/5 |
+| Host Name | i am legend |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 15:35:21 |
 
 
