@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930472789816 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:52:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930473433284 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | липтон с мятой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:54:19 |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930473499068 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | andrei maserati |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:54:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930472942957 |
+| Players | 14/15 |
+| Host Name | cbx Compendium sucks |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:53:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930473635414 |
+| Players | 1/15 |
+| Host Name | sprklngwtr Nene KATE | 蘇打水 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:54:49 |
 
 
 |  | epic_boss_fight_nightmare |
