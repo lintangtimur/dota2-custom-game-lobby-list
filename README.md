@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930432709273 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | boOM!jiNdev1L. ~ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:09:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431867175 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:20 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930433300220 |
+| Players | 6/8 |
+| Host Name | LordFaky |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:11:11 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930431720717 |
@@ -92,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:06:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930433236751 |
-| Players | 1/5 |
+| Lobby ID | 28522930433312227 |
+| Players | 1/10 |
 | Host Name | my face is sexy |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 11:11:01 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:11:13 |
 
 
