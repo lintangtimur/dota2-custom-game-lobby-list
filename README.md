@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974763651585 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | calla kchera |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 06:15:12 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 06:13:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974763329360 |
-| Players | 7/8 |
-| Host Name | Xeal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 06:14:29 |
+| Lobby ID | 28523974764003353 |
+| Players | 3/15 |
+| Host Name | KollegeSchnuerrSchuhh |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 06:15:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974763261713 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 06:14:20 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 06:15:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974763732289 |
-| Players | 6/10 |
-| Host Name | ITS_SHOWTIME |
+| Lobby ID | 28523974764035159 |
+| Players | 2/8 |
+| Host Name | NotTryHard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 06:15:23 |
+| Lobby Creation Time | Friday, November 17, 2023 06:16:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974764091655 |
+| Players | 1/15 |
+| Host Name | nobita gozu |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 06:16:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974764147135 |
+| Players | 1/15 |
+| Host Name | 01 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 06:16:18 |
 
 
