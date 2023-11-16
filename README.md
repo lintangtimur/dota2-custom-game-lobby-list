@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930702595073 |
-| Players | 3/15 |
-| Host Name | Lazy 死在里面 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 19:37:41 |
+| Lobby ID | 28522930699799639 |
+| Players | 8/10 |
+| Host Name | 777 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:35:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930701412230 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | EL STEFANO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:36:35 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:36:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930701565432 |
-| Players | 6/8 |
-| Host Name | Тайно Дёрнул |
+| Lobby ID | 28522930702956605 |
+| Players | 2/10 |
+| Host Name | Popig Immortal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:36:44 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:38:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930684832230 |
+| Players | 14/15 |
+| Host Name | HighOne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:20:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SAY "ПАЛЯНИЦЯ" OR DIE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 19:37:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930702797448 |
-| Players | 1/10 |
-| Host Name | Jet |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:37:53 |
 
 
