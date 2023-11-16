@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930444069222 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Ban¡¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930444451936 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:39:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930444353361 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | քֆɢ.ʟɢɖ♫B®∆¥∆n♫ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:38:57 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 永遠- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:39:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930445511792 |
+| Players | 1/8 |
+| Host Name | MAPACHE_$INC0LA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:41:21 |
 
 
 |  | epic_boss_fight_nightmare |
