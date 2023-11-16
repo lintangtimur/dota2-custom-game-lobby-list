@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930546033956 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:45:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930548356026 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:50:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930547389426 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | King |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930548557376 |
-| Players | 1/8 |
-| Host Name | THC Spirit |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 15:51:13 |
+| Lobby ID | 28522930548806159 |
+| Players | 3/8 |
+| Host Name | 𓆩 𓆪psyhodeath |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:51:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gladik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:49:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930548590870 |
-| Players | 1/10 |
-| Host Name | Lilit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:51:17 |
 
 
