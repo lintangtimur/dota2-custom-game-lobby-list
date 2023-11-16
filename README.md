@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930776615485 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:39:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930792041916 |
-| Players | 14/15 |
-| Host Name | Это ты пернул? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:52:03 |
+| Lobby ID | 28522930793184566 |
+| Players | 2/24 |
+| Host Name | jIHad |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:52:56 |
 
 
 |  | ot3_gardens_duo |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:41:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930792576437 |
-| Players | 6/8 |
-| Host Name | Якубович |
+| Lobby ID | 28522930793372749 |
+| Players | 6/10 |
+| Host Name | Sucker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:52:28 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:53:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930782010466 |
-| Players | 1/8 |
-| Host Name | Deztract |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 20:44:10 |
+| Lobby ID | 28522930793566937 |
+| Players | 4/8 |
+| Host Name | Samarskiy traktorniy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:53:14 |
 
 
 |  | ot3_desert_octet |
@@ -101,12 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:48:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930793440301 |
+| Players | 8/15 |
+| Host Name | поз 3;няша() |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:53:08 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930782313897 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | igorkorolev517 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:44:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930793333541 |
+| Players | 3/10 |
+| Host Name | DayDreamer |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 20:53:03 |
 
 
