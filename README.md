@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930388008193 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:10:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930390892739 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mr.Popo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:17:59 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930391129294 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:18:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930389927572 |
-| Players | 7/8 |
-| Host Name | Yeezuss愛生 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:15:38 |
+| Lobby ID | 28522930390854141 |
+| Players | 7/15 |
+| Host Name | Maus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:17:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930388141890 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:11:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930390423638 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:16:50 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930390610542 |
 | Players | 6/10 |
-| Host Name | Старый спорт здес |
+| Host Name | Barbie Girl |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:17:19 |
 
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930390854141 |
-| Players | 7/15 |
-| Host Name | Maus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:17:53 |
+| Lobby ID | 28522930391324627 |
+| Players | 2/15 |
+| Host Name | Danipros |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:19:00 |
 
 
 |  | epic_boss_fight_normal |
