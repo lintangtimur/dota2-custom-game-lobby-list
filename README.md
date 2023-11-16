@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930490549049 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:38:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930492027268 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:41:59 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930494012125 |
-| Players | 1/10 |
-| Host Name | twitch.tv/pahanpacana |
+| Players | 4/10 |
+| Host Name | tupachill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:47:01 |
 
@@ -54,5 +54,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lala♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:45:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930494026117 |
+| Players | 4/15 |
+| Host Name | amarres de amor al 922589589 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:47:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930494074178 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:47:11 |
 
 
