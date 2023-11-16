@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337404550219 |
-| Players | 11/15 |
-| Host Name | Дам в рот +79092765851 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:51:22 |
+| Lobby ID | 28521337404774006 |
+| Players | 2/10 |
+| Host Name | Sigma |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:52:01 |
 
 
 |  | ot3_desert_octet |
@@ -41,26 +41,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337404508894 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Grebby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:51:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337404250176 |
-| Players | 18/24 |
-| Host Name | 123 |
+| Lobby ID | 28521337404719273 |
+| Players | 5/10 |
+| Host Name | JonalCs |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:50:29 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:51:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337404641184 |
-| Players | 4/15 |
-| Host Name | Armando casas ♥ |
+| Players | 2/15 |
+| Host Name | ÅŁƒaiƦ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:51:38 |
 
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337404416403 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:50:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337404713166 |
-| Players | 2/10 |
-| Host Name | T |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:51:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337404719273 |
-| Players | 2/10 |
-| Host Name | JonalCs |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:51:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337404774006 |
-| Players | 2/10 |
-| Host Name | Sigma |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:52:01 |
 
 
 |  | epic_boss_fight_nightmare |
