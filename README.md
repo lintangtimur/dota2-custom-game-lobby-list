@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930530662480 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | || |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:13:07 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:13:42 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930531436345 |
-| Players | 1/24 |
-| Host Name | 壊れた少年 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:14:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930527268408 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:40 |
@@ -77,36 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930529024898 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ( °Д°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930530243769 |
-| Players | 1/10 |
-| Host Name | KILLER. 13 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:12:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930530907467 |
-| Players | 1/10 |
-| Host Name | Paradiddle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:13:38 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28522930531383849 |
-| Players | 1/7 |
-| Host Name | Два отчима |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:14:40 |
 
 
