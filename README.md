@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930458239899 |
-| Players | 5/10 |
-| Host Name | Nart |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:14:32 |
+| Lobby ID | 28522930459268207 |
+| Players | 14/15 |
+| Host Name | Discipline |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:17:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930457977760 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:13:50 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930459268207 |
-| Players | 6/15 |
-| Host Name | Discipline |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:17:12 |
+| Lobby ID | 28522930459931766 |
+| Players | 1/15 |
+| Host Name | Mr.WorldCatcher |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 12:18:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930459924076 |
+| Players | 1/24 |
+| Host Name | I'm Eating Pusxy Like it's oreos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:18:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930456248926 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | AHyperDuck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:09:17 |
