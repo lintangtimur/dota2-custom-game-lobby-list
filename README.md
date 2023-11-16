@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930543012700 |
-| Players | 11/15 |
-| Host Name | the bald god |
+| Lobby ID | 28522930543404092 |
+| Players | 7/8 |
+| Host Name | Matye Bal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:39:18 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:40:08 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930542185136 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:37:32 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No T1 in TI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:39:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930543463410 |
+| Players | 2/8 |
+| Host Name | абезяна чичичи продавала кирпичи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:40:16 |
 
 
 |  | epic_boss_fight_nightmare |
