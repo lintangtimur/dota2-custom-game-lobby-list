@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337418130691 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:30:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521336668995196 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Shadeslayer |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337419413985 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | nether |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:34:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337419297575 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | L |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:33:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337419536593 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | NIDOKING :3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:34:30 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337419559666 |
-| Players | 4/8 |
-| Host Name | just a game/=) |
+| Players | 3/8 |
+| Host Name | PTS ENJOYER) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:34:34 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337419711517 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | whyouSmi1Le |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:34:59 |
