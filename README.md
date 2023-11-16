@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930383721586 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | потужний кебаб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:59:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930383912182 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Pierde alianza, pierde mi famili |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:00:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930384059906 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | EL CORTA NALGAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:00:42 |
