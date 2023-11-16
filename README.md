@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930434243278 |
-| Players | 10/15 |
-| Host Name | Shadow Song_333 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:13:39 |
+| Lobby ID | 28522930435744754 |
+| Players | 4/10 |
+| Host Name | Licht |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:17:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | poo-zinping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -32,25 +32,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930435090890 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Er |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:15:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930435705845 |
+| Players | 2/15 |
+| Host Name | Mr Cold ☺ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:17:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930433689789 |
-| Players | 7/8 |
-| Host Name | Rarity |
+| Lobby ID | 28522930435849280 |
+| Players | 1/8 |
+| Host Name | Legna |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:17:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930435718051 |
+| Players | 2/10 |
+| Host Name | наказатель |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:12:14 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:17:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930433980384 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:12:59 |
