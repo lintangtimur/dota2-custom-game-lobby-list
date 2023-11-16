@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:55:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930404921866 |
-| Players | 9/10 |
-| Host Name | Fattory |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:55:26 |
+| Lobby ID | 28522930405456686 |
+| Players | 7/8 |
+| Host Name | Diamonds & Dancefloor |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930405413362 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | no, just no |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:56:44 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:55:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930405234123 |
-| Players | 11/15 |
-| Host Name | no hables toy tite |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:56:15 |
+| Lobby ID | 28522930405748787 |
+| Players | 2/10 |
+| Host Name | caracal |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:57:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930405276159 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:56:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930405456686 |
-| Players | 1/8 |
-| Host Name | Diamonds & Dancefloor |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:56:51 |
+| Lobby ID | 28522930404832554 |
+| Players | 9/10 |
+| Host Name | Spice Melange Joe Biden |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:55:12 |
 
 
 |  | epic_boss_fight_normal |
