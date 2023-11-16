@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930547389426 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Darling |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:57:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930551478230 |
-| Players | 14/15 |
-| Host Name | // |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:57:26 |
+| Lobby ID | 28522930552403538 |
+| Players | 1/24 |
+| Host Name | Aki ゲーマー |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:59:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930552437418 |
+| Players | 3/8 |
+| Host Name | wht r u lookin at? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 15:59:26 |
 
 
 |  | epic_boss_fight_nightmare |
