@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337415903949 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ВЛАСТЕЛИН КРИПОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:24:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337415598764 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Apagón Revolucionario |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:23:15 |
@@ -32,18 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337415717967 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:23:34 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337412312939 |
-| Players | 9/10 |
-| Host Name | Calabreso |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 08:13:51 |
+| Lobby ID | 28521337416501063 |
+| Players | 2/24 |
+| Host Name | Leonidas |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 08:25:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337416542538 |
+| Players | 1/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:25:57 |
 
 
