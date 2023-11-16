@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930422878665 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | mode: TI7 boon hock miracle- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930422725963 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:42:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930421777871 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | d_e_o |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:40:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930422374002 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | El Pejerrete |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:42:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930422331321 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Femme Fatale |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:41:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930422796474 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | СТАРИЧОК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:05 |
