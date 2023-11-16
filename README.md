@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930685859161 |
-| Players | 14/15 |
+| Players | 11/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 19:21:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930697269485 |
-| Players | 1/8 |
-| Host Name | Matye Bal |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 19:32:41 |
+| Lobby ID | 28522930689363503 |
+| Players | 12/15 |
+| Host Name | hazinaft |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:25:01 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930697782090 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | A.Y. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:33:10 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930690948591 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Estatua da Havan |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 19:26:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930697803237 |
-| Players | 4/8 |
-| Host Name | (/_-) |
+| Lobby ID | 28522930696470213 |
+| Players | 6/10 |
+| Host Name | Kharamun |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:33:11 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:31:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:34:03 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930695703747 |
-| Players | 6/10 |
-| Host Name | Stinkytoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:31:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930698866550 |
@@ -101,65 +92,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:34:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930696470213 |
-| Players | 5/10 |
-| Host Name | Kharamun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:31:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930690410484 |
-| Players | 9/10 |
-| Host Name | Dexter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:26:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930698698403 |
-| Players | 1/8 |
-| Host Name | ЖЕНЯ ЁМАЁ) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:34:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930689363503 |
-| Players | 14/15 |
-| Host Name | GIHCHAHЫHHHH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:25:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930698902628 |
-| Players | 4/8 |
-| Host Name | КОЛ-ВО ОШИБОК:0 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 19:34:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930698948627 |
-| Players | 5/8 |
-| Host Name | Lewin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:34:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930696803929 |
-| Players | 3/10 |
-| Host Name | SAY "ПАЛЯНИЦЯ" OR DIE |
+| Players | 1/10 |
+| Host Name | RAYAK |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:32:14 |
 
@@ -167,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930697587615 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | heheehe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:32:59 |
