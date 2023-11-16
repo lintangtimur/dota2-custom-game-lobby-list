@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930453379906 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:01:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930453614894 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Sband_Mirand |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:02:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930454166290 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:03:53 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 102 eggs in spanish |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:04:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930454650142 |
+| Players | 2/10 |
+| Host Name | Ashen- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:05:06 |
 
 
 |  | epic_boss_fight_nightmare |
