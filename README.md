@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337392573862 |
-| Players | 2/15 |
-| Host Name | The Spiked Spaghetti |
+| Players | 1/15 |
+| Host Name | Stivhen |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:16:43 |
 
@@ -40,60 +40,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337392265771 |
-| Players | 9/10 |
-| Host Name | Entrenadors |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:15:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521337393375720 |
-| Players | 2/15 |
-| Host Name | FULL MOON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:18:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337391853093 |
-| Players | 7/8 |
-| Host Name | PanConPejerrey |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 07:14:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521337393060314 |
-| Players | 4/24 |
-| Host Name | Maligno |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:18:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337392423469 |
-| Players | 9/10 |
-| Host Name | ♦♣Aaron♠♥ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:16:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337392947239 |
-| Players | 6/8 |
-| Host Name | ПОКИДЬОК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:17:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28521337393372630 |
 | Players | 1/10 |
 | Host Name | GuITaR |
@@ -103,11 +49,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337393386390 |
-| Players | 1/15 |
-| Host Name | sagarjakka023 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 07:19:00 |
+| Lobby ID | 28521337393375720 |
+| Players | 3/15 |
+| Host Name | Pozzi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:18:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337391853093 |
+| Players | 6/8 |
+| Host Name | PanConPejerrey |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 07:14:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521337393060314 |
+| Players | 5/24 |
+| Host Name | Maligno |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:18:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337393423671 |
+| Players | 5/10 |
+| Host Name | Janmix |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:19:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337392947239 |
+| Players | 6/8 |
+| Host Name | ПОКИДЬОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:17:46 |
 
 
 |  | epic_boss_fight_nightmare |
