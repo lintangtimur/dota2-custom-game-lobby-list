@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930417896487 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | mr beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930418248819 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ПОКИДЬОК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:31:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930417987060 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Lapixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:30 |
@@ -85,17 +85,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930418368837 |
-| Players | 3/8 |
-| Host Name | darkwaz11 |
+| Lobby ID | 28522930418415478 |
+| Players | 1/8 |
+| Host Name | kalolo98 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 10:31:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930418404359 |
+| Players | 1/8 |
+| Host Name | Ｍｕｄｌｌｏ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 10:31:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930418416410 |
+| Players | 1/8 |
+| Host Name | фарм 24/7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:31:33 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:31:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930418443466 |
+| Players | 1/15 |
+| Host Name | Jaggerjack |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:31:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930412907697 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | EMPERATOOR_No1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:16:56 |
