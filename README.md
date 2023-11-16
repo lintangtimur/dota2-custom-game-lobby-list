@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930392106656 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ALUMINIOS REALES GAAAAAAA |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930393063998 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | xpratf |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:23:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930392295198 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sparatun o.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:21:27 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930393075619 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Uero-Ro |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:23:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930393528979 |
-| Players | 1/24 |
-| Host Name | ZZZZZZZZ |
+| Lobby ID | 28522930392635681 |
+| Players | 9/10 |
+| Host Name | YA NO HACKEO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:24:46 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:22:22 |
 
 
 |  | epic_boss_fight_normal |
