@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930651159911 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Madam_Broshkina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 18:44:19 |
@@ -32,37 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930647524238 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | PlusYz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 18:40:02 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930650727907 |
-| Players | 7/8 |
-| Host Name | BIG GUN DON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:43:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930651034122 |
-| Players | 1/10 |
-| Host Name | Mr.BLAKE |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 18:44:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930651506335 |
-| Players | 2/15 |
-| Host Name | ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 18:44:43 |
+| Lobby ID | 28522930651836443 |
+| Players | 5/15 |
+| Host Name | zxcv |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 18:45:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930651971593 |
+| Players | 1/24 |
+| Host Name | я не смог........... |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 18:45:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 18:41:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930651776082 |
+| Players | 1/10 |
+| Host Name | Martiros |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 18:45:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930651926648 |
+| Players | 1/5 |
+| Host Name | BlackJack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 18:45:12 |
 
 
