@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930408811886 |
-| Players | 9/10 |
-| Host Name | qowemxqwbeqiwvcruyez.wekq´wekqwp |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:05:57 |
+| Lobby ID | 28522930409526050 |
+| Players | 7/15 |
+| Host Name | Seravee |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:07:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930405276159 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:56:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930408957771 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ✪ Aespa Giselle# MireSka |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:06:21 |
@@ -41,46 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930408993912 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ollanta Humala |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:06:27 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930408082520 |
-| Players | 23/24 |
-| Host Name | bola bolita bola bolaza |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:03:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930409356214 |
-| Players | 5/10 |
-| Host Name | :) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:07:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930408371995 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | "†YoNhACoffIN†"†RAmPaSSO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:04:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930409526050 |
-| Players | 5/15 |
-| Host Name | Seravee |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:07:55 |
+| Lobby ID | 28522930409356214 |
+| Players | 2/10 |
+| Host Name | :) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:07:27 |
 
 
 |  | epic_boss_fight_normal |
