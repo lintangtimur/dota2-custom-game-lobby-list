@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930450358078 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:53:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930449705029 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | DOMINIC S TORENTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:52:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930449199329 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | x0x0x0 4ever |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:50:48 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 4 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:50:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930450474720 |
+| Players | 1/15 |
+| Host Name | Mamink mink |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:54:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930450506908 |
+| Players | 1/15 |
+| Host Name | Zeldris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:54:17 |
 
 
 |  | epic_boss_fight_nightmare |
