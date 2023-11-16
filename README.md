@@ -22,73 +22,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930674679392 |
-| Players | 7/10 |
-| Host Name | Maganahi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:10:19 |
+| Lobby ID | 28522930676053775 |
+| Players | 4/10 |
+| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:11:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930671913732 |
-| Players | 19/24 |
-| Host Name | aubangurmom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:07:25 |
+| Lobby ID | 28522930675892617 |
+| Players | 4/10 |
+| Host Name | Shernnika |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:11:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930659635932 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Boxodon |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 18:53:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930675122148 |
-| Players | 7/15 |
-| Host Name | Hyper Aggressive Maniac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:10:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930675614878 |
-| Players | 1/10 |
-| Host Name | Mulya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:11:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930675645703 |
-| Players | 1/8 |
-| Host Name | Daedalus |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:11:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930671747022 |
-| Players | 9/15 |
-| Host Name | Semen Cumov |
+| Lobby ID | 28522930675706049 |
+| Players | 6/8 |
+| Host Name | NN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:07:14 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:11:24 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28522930672436912 |
+| Lobby ID | 28522930676196699 |
 | Players | 1/7 |
-| Host Name | 鲁子敬 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, November 16, 2023 19:07:58 |
+| Host Name | baconcitos |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 19:11:54 |
 
 
