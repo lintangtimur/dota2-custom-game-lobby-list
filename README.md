@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337396351161 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | C2H5OH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:27:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337396029773 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | HiNt |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:26:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337395947796 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:26:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337396515403 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:28:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337396641485 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Дам в рот +79092765851 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:28:24 |
