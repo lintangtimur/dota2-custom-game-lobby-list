@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930417666458 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | LLEGO TU CARRY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:29:38 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930415689115 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | 617 agi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930416702752 |
-| Players | 7/8 |
-| Host Name | allmute |
+| Lobby ID | 28522930418248819 |
+| Players | 1/10 |
+| Host Name | ПОКИДЬОК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:27:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:31:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930417910462 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 葉王・朝倉 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:18 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930418242194 |
+| Players | 2/15 |
+| Host Name | Jaggerjack |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:31:12 |
 
 
 |  | epic_boss_fight_nightmare |
