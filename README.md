@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930383629365 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | daddy's little slug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:59:38 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930383139406 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ASYCEM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:58:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930383861751 |
-| Players | 7/8 |
-| Host Name | PinguinoParador |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:00:13 |
 
 
 |  | ot3_gardens_duo |
