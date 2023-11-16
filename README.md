@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930424333783 |
-| Players | 14/15 |
-| Host Name | dllm |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:47:14 |
+| Lobby ID | 28522930425379267 |
+| Players | 1/24 |
+| Host Name | SedMan |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:50:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930424559191 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:47:51 |
@@ -56,49 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930425176697 |
-| Players | 3/8 |
-| Host Name | cachorrao |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:49:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930425258016 |
-| Players | 1/15 |
-| Host Name | Niñoblis Tu Terror +.+ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:49:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930425330730 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930424177392 |
-| Players | 9/10 |
-| Host Name | Waui |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:46:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930424899209 |
-| Players | 4/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:48:44 |
+| Lobby ID | 28522930425258016 |
+| Players | 2/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:49:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Laucs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930424899209 |
+| Players | 4/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 10:48:44 |
 
 
