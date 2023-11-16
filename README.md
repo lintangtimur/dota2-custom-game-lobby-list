@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930438260799 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:24:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930440120477 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:29:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930439688317 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ЕВРЕЙ В ТУРБИНЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:27:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930440342521 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | mr beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:29:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930440372083 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:29:43 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:22:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930440653889 |
+| Players | 1/15 |
+| Host Name | FQNGOD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:30:28 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930438486054 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:24:41 |
