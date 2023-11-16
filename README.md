@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337409854719 |
+| Lobby ID | 28521337411017173 |
 | Players | 8/10 |
-| Host Name | Mr.Popo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:06:49 |
+| Host Name | Смотрите кирпич |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:10:10 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 15, 2023 16:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337410386613 |
-| Players | 13/15 |
-| Host Name | Scooter boi |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 08:08:20 |
+| Lobby ID | 28521337411020737 |
+| Players | 2/8 |
+| Host Name | LuN4t1c |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:10:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337410146999 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Silent |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:07:39 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337409785690 |
-| Players | 14/15 |
-| Host Name | PAPARRONNI.TL |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:06:37 |
+| Lobby ID | 28521337411055871 |
+| Players | 2/15 |
+| Host Name | MoNsTeR! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:10:16 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Free Palestine |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 08:09:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337411017173 |
-| Players | 1/10 |
-| Host Name | Смотрите кирпич |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:10:10 |
 
 
 |  | epic_boss_fight_nightmare |
