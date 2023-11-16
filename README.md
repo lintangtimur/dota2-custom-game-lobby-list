@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930676476430 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | จักรพรรดิ์ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:12:12 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930676914240 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | -mabubs616/4 TEAM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:12:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930677092244 |
-| Players | 9/15 |
-| Host Name | :( |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:12:50 |
+| Lobby ID | 28522930678211049 |
+| Players | 3/10 |
+| Host Name | GG.dyrachyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:13:56 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trafalgar Law |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:12:18 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28522930678344493 |
+| Players | 4/7 |
+| Host Name | DavidWayne |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:14:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28522930678569862 |
+| Players | 1/7 |
+| Host Name | prince of darkness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:14:17 |
 
 
