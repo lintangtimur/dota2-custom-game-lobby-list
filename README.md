@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930436818734 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | ϟ♰tꬰmლχ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:20:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930437249024 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Dartanian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:21:28 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930437423283 |
-| Players | 1/15 |
-| Host Name | Karkarov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:21:55 |
+| Lobby ID | 28522930437592556 |
+| Players | 2/15 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 11:22:22 |
 
 
 |  | epic_boss_fight_nightmare |
