@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:40:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930400475244 |
-| Players | 8/10 |
-| Host Name | Moisés Overloaded (+2) |
+| Lobby ID | 28522930401124495 |
+| Players | 2/15 |
+| Host Name | Rockefeller |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:43:25 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:45:11 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930400651820 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:43:54 |
