@@ -50,63 +50,90 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974702160450 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | click |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:17:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974697799057 |
-| Players | 20/24 |
-| Host Name | Who cares! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 04:10:07 |
+| Lobby ID | 28523974702764537 |
+| Players | 2/10 |
+| Host Name | Медоед |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 04:18:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974702243946 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Clark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 04:17:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974702254043 |
-| Players | 8/15 |
-| Host Name | niQ66 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 04:17:20 |
+| Lobby ID | 28523974702581845 |
+| Players | 3/8 |
+| Host Name | Cazador de causas |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 17, 2023 04:17:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974702515677 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | lm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 04:17:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28523974702777590 |
+| Players | 2/10 |
+| Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 04:18:11 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974702052638 |
-| Players | 7/8 |
-| Host Name | Вадик |
+| Lobby ID | 28523974702821674 |
+| Players | 3/8 |
+| Host Name | 15% |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 04:18:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28523974702822210 |
+| Players | 1/10 |
+| Host Name | ++DIOS DEL OLIMPO++ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 04:18:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974697162262 |
+| Players | 9/10 |
+| Host Name | k17SUNE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 04:17:00 |
+| Lobby Creation Time | Friday, November 17, 2023 04:09:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28523974702581845 |
-| Players | 1/8 |
-| Host Name | Cazador de causas |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 17, 2023 04:17:52 |
+| Lobby ID | 28523974702774493 |
+| Players | 1/10 |
+| Host Name | LMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 04:18:11 |
 
 
