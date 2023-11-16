@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930391876157 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930390854141 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Maus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:17:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930392033591 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:45 |
