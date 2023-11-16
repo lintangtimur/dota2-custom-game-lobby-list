@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930390958440 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | pPOLAR |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:18:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930389927572 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Yeezuss愛生 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:15:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930390423638 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:16:50 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:16:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930390610542 |
-| Players | 8/10 |
-| Host Name | Старый спорт здес |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:17:19 |
+| Lobby ID | 28522930390983734 |
+| Players | 1/15 |
+| Host Name | 良い肩 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:18:11 |
 
 
 |  | ot3_desert_octet |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Popo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:17:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930390983734 |
-| Players | 1/15 |
-| Host Name | 良い肩 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 09:18:11 |
 
 
 |  | epic_boss_fight_normal |
