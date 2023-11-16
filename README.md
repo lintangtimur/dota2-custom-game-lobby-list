@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337412574094 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:14:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337414268080 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Mate To-Mate |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:19:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337413849416 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 08:18:16 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337413624531 |
-| Players | 22/24 |
-| Host Name | Blank |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:17:38 |
+| Lobby ID | 28521337414674847 |
+| Players | 2/10 |
+| Host Name | DeepThroat the Boot! SNACkGod |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 08:20:37 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337414178664 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:19:12 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337413363126 |
-| Players | 7/8 |
-| Host Name | Taison V. Akhal |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:16:53 |
+| Lobby ID | 28521337414750109 |
+| Players | 3/8 |
+| Host Name | areyouhappy? |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 08:20:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337414674847 |
-| Players | 2/10 |
-| Host Name | DeepThroat the Boot! SNACkGod |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 08:20:37 |
+| Lobby ID | 28521337413624531 |
+| Players | 23/24 |
+| Host Name | Blank |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:17:38 |
 
 
 |  | epic_boss_fight_nightmare |
