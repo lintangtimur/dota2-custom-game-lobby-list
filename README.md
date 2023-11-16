@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930736165512 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | В доме 8/16 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:06:55 |
@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:38:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930738017259 |
+| Players | 1/8 |
+| Host Name | Bert0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:08:28 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930729795323 |
-| Players | 13/15 |
-| Host Name | Mouches Volantes |
+| Lobby ID | 28522930736266992 |
+| Players | 14/15 |
+| Host Name | ilyushenka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:01:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930732833240 |
-| Players | 18/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:04:09 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:07:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930736773560 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | GOZONE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:07:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930726076584 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:58:50 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:02:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930737575598 |
-| Players | 7/8 |
-| Host Name | Helter Skelter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:08:06 |
+| Lobby ID | 28522930738734550 |
+| Players | 2/24 |
+| Host Name | 1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:09:05 |
 
 
 |  | ot3_desert_octet |
@@ -119,22 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:05:25 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930738851838 |
+| Players | 2/10 |
+| Host Name | Neomeanmachine |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 20:09:11 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930738017259 |
-| Players | 1/8 |
-| Host Name | Bert0 |
+| Lobby ID | 28522930735220673 |
+| Players | 5/8 |
+| Host Name | ryodanenjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:08:28 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:06:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930738342346 |
-| Players | 1/15 |
-| Host Name | Mashuka |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 20:08:45 |
+| Lobby ID | 28522930733854705 |
+| Players | 7/15 |
+| Host Name | лошара133000800вольт500маликпбщх |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:05:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:08:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28522930735195042 |
-| Players | 8/10 |
-| Host Name | Shyshy |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 20:06:06 |
+| Lobby ID | 28522930738980342 |
+| Players | 1/5 |
+| Host Name | StillSearching |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 20:09:17 |
 
 
 |  | epic_boss_fight_hard |
