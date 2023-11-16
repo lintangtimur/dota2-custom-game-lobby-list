@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337409854719 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mr.Popo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:06:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337410386613 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:08:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337409558681 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:05:57 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337410069438 |
-| Players | 6/8 |
-| Host Name | SCP |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:07:26 |
+| Lobby ID | 28521337410840438 |
+| Players | 1/8 |
+| Host Name | Legendary Raccoon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:09:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Free Palestine |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 08:09:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337410779470 |
-| Players | 3/8 |
-| Host Name | MI MID Y HC SON KKS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:09:29 |
 
 
 |  | epic_boss_fight_nightmare |
