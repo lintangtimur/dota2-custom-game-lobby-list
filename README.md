@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930542343563 |
-| Players | 1/15 |
-| Host Name | 13abyNiNoo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 15:37:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930542185136 |
-| Players | 8/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:37:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930541842039 |
@@ -56,19 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:36:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930542958489 |
-| Players | 5/8 |
-| Host Name | Quatach-ichl |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 16, 2023 15:39:11 |
+| Lobby ID | 28522930542185136 |
+| Players | 13/24 |
+| Host Name | Anantherzine-無盡的 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:37:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930542287207 |
+| Players | 12/15 |
+| Host Name | NeoSem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:37:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930543012700 |
+| Players | 1/15 |
+| Host Name | the bald god |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:39:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930541705505 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:36:32 |
