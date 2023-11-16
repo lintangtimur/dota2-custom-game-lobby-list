@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930776635278 |
-| Players | 16/24 |
-| Host Name | Nerfstyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:39:54 |
+| Lobby ID | 28522930777465487 |
+| Players | 3/8 |
+| Host Name | Murgath |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 16, 2023 20:40:33 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930777824656 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Fattory |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:40:51 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:32:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930767862525 |
-| Players | 9/10 |
-| Host Name | Lifealope |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 20:32:57 |
+| Lobby ID | 28522930778740496 |
+| Players | 4/24 |
+| Host Name | 行き当たりばったりしている |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:41:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,55 +85,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930776845845 |
-| Players | 8/10 |
-| Host Name | GTG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:40:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28522930746688192 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | shzu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:15:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930777465487 |
-| Players | 1/8 |
-| Host Name | Murgath |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 20:40:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930777157339 |
-| Players | 7/8 |
-| Host Name | Svpoff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:40:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930753063941 |
-| Players | 8/15 |
-| Host Name | Mouches Volantes |
+| Lobby ID | 28522930778859595 |
+| Players | 14/15 |
+| Host Name | Dominus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:20:57 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:41:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930779017473 |
+| Players | 1/8 |
+| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 20:41:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930771997533 |
+| Players | 5/8 |
+| Host Name | Tishe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:36:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930776652629 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ko ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:39:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930772263825 |
+| Players | 10/10 |
+| Host Name | Fujikami |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:36:26 |
 
 
