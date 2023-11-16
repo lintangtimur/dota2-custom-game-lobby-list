@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930393075619 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Uero-Ro |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:23:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930393280112 |
-| Players | 7/8 |
-| Host Name | I'mS oFuckiNg B ad |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:24:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930393375273 |
-| Players | 3/8 |
-| Host Name | K4bhal |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 09:24:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28522930390135807 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:16:07 |
