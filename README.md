@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930417896487 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | mr beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930416702752 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | allmute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:27:00 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930417923310 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DARKITOS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:30:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930417987060 |
+| Players | 1/10 |
+| Host Name | Lapixiris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:30:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930417996565 |
+| Players | 1/10 |
+| Host Name | Tucan Mistico :v |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:30:32 |
 
 
 |  | epic_boss_fight_nightmare |
