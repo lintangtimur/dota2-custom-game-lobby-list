@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 20:39:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930795909545 |
-| Players | 9/15 |
-| Host Name | Finesse |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 20:55:03 |
+| Lobby ID | 28522930793566937 |
+| Players | 1/8 |
+| Host Name | Deztract |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:53:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930796381727 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Cocksmen Advance! |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 20:55:25 |
@@ -59,55 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930794283733 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | YoBro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 20:53:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930779017473 |
-| Players | 7/8 |
-| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 20:41:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930788970758 |
-| Players | 21/24 |
-| Host Name | nV- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:49:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930796818029 |
-| Players | 1/8 |
-| Host Name | all good |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:55:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930787077506 |
-| Players | 3/24 |
-| Host Name | LA FEED ES LO MAS LINDO DE LA VI |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 20:48:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930796371324 |
-| Players | 6/10 |
-| Host Name | КYRКА❤❤❤❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:55:25 |
 
 
 |  | ot3_desert_octet |
@@ -122,10 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930796776750 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Afterdark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:55:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930796818029 |
+| Players | 1/8 |
+| Host Name | all good |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:55:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930787077506 |
+| Players | 4/24 |
+| Host Name | LA FEED ES LO MAS LINDO DE LA VI |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 20:48:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930796371324 |
+| Players | 9/10 |
+| Host Name | КYRКА❤❤❤❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:55:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930797312579 |
+| Players | 4/10 |
+| Host Name | Tanıdık |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:56:09 |
 
 
 |  | epic_boss_fight_normal |
