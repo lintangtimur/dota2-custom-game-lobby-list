@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930746688192 |
-| Players | 5/10 |
-| Host Name | ape_together_stronk |
+| Lobby ID | 28522930769965929 |
+| Players | 3/8 |
+| Host Name | ʍąʍì |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:15:42 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:34:37 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930768395216 |
-| Players | 1/15 |
-| Host Name | wp |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:33:22 |
+| Lobby ID | 28522930769489519 |
+| Players | 1/10 |
+| Host Name | FRSTCMFRSTSRVD |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:34:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930769114108 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Wukash |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 20:33:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930767862525 |
-| Players | 5/10 |
+| Players | 2/10 |
 | Host Name | Lifealope |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 20:32:57 |
@@ -58,91 +58,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930765189254 |
-| Players | 1/8 |
-| Host Name | Камень |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 16, 2023 20:30:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930764463859 |
-| Players | 7/10 |
-| Host Name | ТРенер |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 20:30:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930768559133 |
-| Players | 1/15 |
-| Host Name | Tekota |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 20:33:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930767311736 |
-| Players | 11/24 |
-| Host Name | Ted |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:32:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930753063941 |
-| Players | 4/15 |
-| Host Name | Hailmary |
+| Lobby ID | 28522930769468478 |
+| Players | 2/8 |
+| Host Name | 艾米 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:20:57 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:34:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930770185704 |
+| Players | 4/15 |
+| Host Name | Afterdark |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 20:34:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930754050287 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | Смурф на фп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 20:21:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930759561519 |
-| Players | 3/8 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:26:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930769436175 |
-| Players | 2/8 |
-| Host Name | no comms |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:34:12 |
+| Lobby ID | 28522930767311736 |
+| Players | 21/24 |
+| Host Name | Ted |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:32:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930768049746 |
-| Players | 7/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:33:05 |
+| Lobby ID | 28522930756892932 |
+| Players | 9/10 |
+| Host Name | shushkan |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 20:24:07 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28522930766365490 |
-| Players | 2/7 |
-| Host Name | 333 |
+| Players | 1/7 |
+| Host Name | CAPYBARA CAPYBARA CAPYBARA |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 20:31:45 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28522930770380213 |
+| Players | 1/7 |
+| Host Name | 333 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 20:34:56 |
 
 
