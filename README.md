@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930445879035 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | dilemma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:42:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930446062232 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:42:39 |
