@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930533823305 |
-| Players | 2/8 |
-| Host Name | ЧВК СРАЛКИНО |
+| Players | 1/8 |
+| Host Name | Khelgi....khelgi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:19:57 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930532262492 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | EL TIO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
