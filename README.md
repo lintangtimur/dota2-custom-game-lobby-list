@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930450506908 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Zeldris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:54:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930450358078 |
-| Players | 23/24 |
-| Host Name | La Concha De Tu Madre |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:53:53 |
+| Lobby ID | 28522930451842222 |
+| Players | 5/15 |
+| Host Name | MR LEL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:57:46 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930451042283 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Old friend |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:55:38 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:50:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930451842222 |
-| Players | 2/15 |
-| Host Name | MR LEL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:57:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930449188911 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930450988407 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:55:30 |
