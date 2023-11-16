@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930459268207 |
-| Players | 14/15 |
-| Host Name | Discipline |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:17:12 |
+| Lobby ID | 28522930460006472 |
+| Players | 3/10 |
+| Host Name | $H0rTy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:19:07 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.WorldCatcher |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 12:18:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930459924076 |
-| Players | 1/24 |
-| Host Name | I'm Eating Pusxy Like it's oreos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:18:54 |
 
 
 |  | epic_boss_fight_nightmare |
