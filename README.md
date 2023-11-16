@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930714726270 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Tanıdık |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:48:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930713860122 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | БООТУР |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 19:48:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930712219660 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Yobi D.ディ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:46:34 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930715689883 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Shem-ha-Mephorash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:49:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930710803875 |
-| Players | 8/10 |
-| Host Name | Born from blood dies from cringe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:45:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -146,6 +137,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:43:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930716114315 |
+| Players | 1/15 |
+| Host Name | САСЬВА |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 19:50:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930716176588 |
+| Players | 4/8 |
+| Host Name | Ramirok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:50:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930715565864 |
@@ -153,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Muichiro |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 19:49:36 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28522930716075562 |
+| Players | 3/7 |
+| Host Name | The_Saboter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 19:50:03 |
 
 
