@@ -76,11 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930537687770 |
+| Lobby ID | 28522930537740326 |
+| Players | 1/10 |
+| Host Name | tieteilijä |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:28:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930537746496 |
+| Players | 1/10 |
+| Host Name | kyle-desu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:28:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930537753995 |
+| Players | 2/8 |
+| Host Name | z00z |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:28:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930537758722 |
 | Players | 1/10 |
 | Host Name | Syn.v2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:28:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930537783198 |
+| Players | 1/10 |
+| Host Name | (/_-) |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 15:28:24 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:28:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930537541431 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | MASELANG BAYAGHARI |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 15:28:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930537713114 |
-| Players | 2/5 |
-| Host Name | Моисей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:28:28 |
 
 
