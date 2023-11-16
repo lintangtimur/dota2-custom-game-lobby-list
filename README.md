@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 19:03:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930668949283 |
-| Players | 9/10 |
-| Host Name | Op |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:04:16 |
+| Lobby ID | 28522930670786974 |
+| Players | 1/15 |
+| Host Name | 4/5 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 19:06:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930669239989 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Inoculisfurorem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:04:35 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930670389296 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | bankai minazuki |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:05:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930670624726 |
-| Players | 3/8 |
-| Host Name | ale?> |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 19:06:02 |
+| Lobby ID | 28522930670723465 |
+| Players | 2/15 |
+| Host Name | 爪乇G卂ㄒ尺0几 :-< |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, November 16, 2023 19:06:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930670801262 |
+| Players | 2/15 |
+| Host Name | печенье в клетку |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 16, 2023 19:06:14 |
 
 
 |  | epic_boss_fight_nightmare |
