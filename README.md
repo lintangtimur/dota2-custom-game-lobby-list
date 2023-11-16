@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930457977760 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:13:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930458434809 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Северный Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:15:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930456836067 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ttao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:10:50 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930459268207 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Discipline |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:17:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930459347984 |
-| Players | 1/15 |
-| Host Name | Avvakir |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:17:25 |
+| Lobby ID | 28522930459400664 |
+| Players | 1/8 |
+| Host Name | Madafacar |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:17:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930459398333 |
+| Players | 1/8 |
+| Host Name | Лучше не станет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:17:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AHyperDuck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:09:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930459375951 |
+| Players | 1/5 |
+| Host Name | 猛龙不过江 |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, November 16, 2023 12:17:29 |
 
 
