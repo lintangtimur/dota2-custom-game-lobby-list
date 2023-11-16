@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:13:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930458434809 |
-| Players | 13/15 |
-| Host Name | Северный Человек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:15:02 |
+| Lobby ID | 28522930459400664 |
+| Players | 1/8 |
+| Host Name | Madafacar |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:17:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Discipline |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:17:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930459400664 |
-| Players | 1/8 |
-| Host Name | Madafacar |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:17:33 |
 
 
 |  | epic_boss_fight_nightmare |
