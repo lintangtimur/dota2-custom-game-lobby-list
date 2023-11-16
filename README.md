@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930438260799 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:24:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930441762056 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:33:22 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:32:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930441505045 |
-| Players | 1/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:32:42 |
+| Lobby ID | 28522930442038382 |
+| Players | 1/15 |
+| Host Name | MIKEY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:34:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:33:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930442052021 |
+| Players | 2/10 |
+| Host Name | 🍌 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:34:08 |
 
 
 |  | epic_boss_fight_normal |
