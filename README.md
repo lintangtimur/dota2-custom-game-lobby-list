@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | eFFinG.Techno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337423228797 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Merc |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:44:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433211837 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930433586213 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Sunset |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:11:57 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fattory |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:14:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930431720717 |
-| Players | 4/5 |
-| Host Name | Hoo Lee Sheet |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:06:56 |
 
 
 |  | epic_boss_fight_nightmare |
