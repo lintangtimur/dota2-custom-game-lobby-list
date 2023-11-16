@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930393754787 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 4ecTHocTb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:25:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930394751799 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:28:06 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:31:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930395467407 |
-| Players | 2/8 |
-| Host Name | iseedeadpeople |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:30:01 |
+| Lobby ID | 28522930395843610 |
+| Players | 3/15 |
+| Host Name | areyouhappy? |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 16, 2023 09:31:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930395843610 |
-| Players | 3/15 |
-| Host Name | areyouhappy? |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 09:31:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930395862206 |
-| Players | 2/15 |
-| Host Name | Atomic |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 09:31:05 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930388274949 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930395541795 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ℒ☺ℓḯη∂їґ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:13 |
