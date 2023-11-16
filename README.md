@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930553829168 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:02:20 |
+| Lobby ID | 28522930554639984 |
+| Players | 2/10 |
+| Host Name | Nhe4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:04:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,29 +47,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930554639984 |
-| Players | 2/10 |
-| Host Name | Nhe4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:04:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930554766121 |
-| Players | 1/15 |
-| Host Name | i am noob |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 16, 2023 16:04:18 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28522930552809546 |
-| Players | 2/7 |
-| Host Name | mode: haram |
+| Players | 1/7 |
+| Host Name | 佐々木 小次郎 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 16, 2023 16:00:13 |
 
