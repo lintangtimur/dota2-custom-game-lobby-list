@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930494134472 |
-| Players | 1/15 |
-| Host Name | OnDraXL ❤ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 13:47:20 |
+| Lobby ID | 28522930494074178 |
+| Players | 6/8 |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:47:11 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930494012125 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | tupachill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:47:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930494074178 |
-| Players | 4/8 |
-| Host Name | Kärss |
+| Lobby ID | 28522930494827508 |
+| Players | 1/15 |
+| Host Name | Максик Дубоёб |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 13:47:11 |
+| Lobby Creation Time | Thursday, November 16, 2023 13:49:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930494825377 |
+| Players | 1/15 |
+| Host Name | DomiGrom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:49:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930494839532 |
+| Players | 1/24 |
+| Host Name | OnDraXL ❤ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:49:07 |
 
 
 |  | epic_boss_fight_nightmare |
