@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930379941296 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | То, как она шлёпае |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:51:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930381978383 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | aaroneverr |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:55:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930379816726 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Hellsatano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:50:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930382058455 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Ricochet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:55:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930382192726 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:56:01 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930382298623 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Chen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 08:56:16 |
