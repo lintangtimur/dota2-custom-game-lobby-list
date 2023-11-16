@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930428641702 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ₭ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:58:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930427973282 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:56:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930427924933 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Toji |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:56:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930428220559 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MR LEL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:57:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930428316139 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | why my teammates are always bad |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:57:50 |
