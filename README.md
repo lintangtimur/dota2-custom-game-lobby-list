@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930995774784 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Back to you |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 23:50:07 |
@@ -20,37 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930995096274 |
-| Players | 2/15 |
-| Host Name | ◉ ᴀᴍᴇɴᴏꜱɪꜱ • |
+| Lobby ID | 28522930996544080 |
+| Players | 4/8 |
+| Host Name | noop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 23:50:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930994803007 |
+| Players | 7/24 |
+| Host Name | Mr.Pickles |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 23:49:24 |
+| Lobby Creation Time | Thursday, November 16, 2023 23:49:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930995723865 |
-| Players | 1/15 |
-| Host Name | Solo Leveling |
+| Lobby ID | 28522930995895868 |
+| Players | 10/15 |
+| Host Name | Жадность |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:50:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930995391987 |
-| Players | 8/10 |
-| Host Name | The Devil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:49:43 |
+| Lobby Creation Time | Thursday, November 16, 2023 23:50:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930993544702 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Nutribun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 23:47:45 |
@@ -59,82 +59,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930995043787 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Sleepless |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 23:49:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930995289796 |
-| Players | 6/8 |
-| Host Name | пикну рики |
+| Lobby ID | 28522930996348469 |
+| Players | 2/10 |
+| Host Name | TakkaEND |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:49:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930995253753 |
-| Players | 4/8 |
-| Host Name | 100% ayac?cho :v |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 23:49:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930994803007 |
-| Players | 4/24 |
-| Host Name | Mr.Pickles |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 23:49:05 |
+| Lobby Creation Time | Thursday, November 16, 2023 23:50:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930995568515 |
+| Lobby ID | 28522930992409582 |
+| Players | 7/10 |
+| Host Name | КУРЮ АНУСОМ И ЖОПА В ТУМАНЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 23:46:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930989574674 |
+| Players | 13/15 |
+| Host Name | Mouches Volantes |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 23:43:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930996294769 |
 | Players | 1/10 |
-| Host Name | Freker ♦ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 23:49:54 |
+| Host Name | rafzZ~ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 23:50:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930995661914 |
+| Lobby ID | 28522930969872463 |
 | Players | 9/15 |
-| Host Name | The Chonkus |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 23:50:00 |
+| Host Name | DMiller |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 23:23:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930995810123 |
+| Lobby ID | 28522930996492990 |
 | Players | 1/8 |
-| Host Name | 🇸🇿🇻🇦🇻🇮🇧🇱 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:50:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930995876926 |
-| Players | 4/10 |
-| Host Name | eastgoth |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:50:14 |
+| Host Name | XS гуль |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 23:50:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930995895868 |
+| Lobby ID | 28522930996589853 |
 | Players | 1/15 |
-| Host Name | Жадность |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 23:50:15 |
+| Host Name | Boris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 23:51:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930996606864 |
+| Players | 3/8 |
+| Host Name | Dartan |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 23:51:01 |
 
 
 |  | epic_boss_fight_challenger |
@@ -149,9 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930993142690 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ginger or Ni...r? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 23:47:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930996155117 |
+| Players | 1/5 |
+| Host Name | MX player |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 23:50:32 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28522930996640892 |
+| Players | 1/7 |
+| Host Name | Sp1S3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 23:51:03 |
 
 
