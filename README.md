@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337404508894 |
-| Players | 12/15 |
-| Host Name | Grebby |
+| Lobby ID | 28521337405266144 |
+| Players | 4/8 |
+| Host Name | Litle broki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:51:15 |
+| Lobby Creation Time | Thursday, November 16, 2023 07:53:28 |
 
 
 |  | ot3_gardens_duo |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | S H I K A R I |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:52:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337405239336 |
-| Players | 1/8 |
-| Host Name | Kony- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:53:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337405266144 |
-| Players | 1/8 |
-| Host Name | Litle broki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:53:28 |
 
 
 |  | epic_boss_fight_nightmare |
