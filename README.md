@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930556917980 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ROCK HARD |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 16:08:45 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 16:09:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930557037746 |
-| Players | 1/8 |
-| Host Name | Afghanistan |
+| Lobby ID | 28522930558495807 |
+| Players | 3/10 |
+| Host Name | lord |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:09:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 16:12:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -79,15 +79,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby ID | 28522930558493438 |
 | Players | 1/8 |
 | Host Name | Inoculisfurorem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 16:12:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930558495807 |
-| Players | 3/10 |
-| Host Name | lord |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 16:12:02 |
 
