@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930472942957 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | cbx Compendium sucks |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:53:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930472789816 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:52:38 |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930472729511 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Faerie Dragon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:52:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930472888686 |
-| Players | 1/10 |
-| Host Name | я не хочу просыпа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:52:54 |
 
 
