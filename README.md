@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431628103 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Grey Light |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:06:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930431400987 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | VicennialTunic6 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:06:04 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930430212835 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Old friend |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:02:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930431249130 |
-| Players | 9/10 |
-| Host Name | SUN ♥ |
+| Lobby ID | 28522930431657649 |
+| Players | 6/15 |
+| Host Name | Xiao BB |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:05:38 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:06:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:06:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930431657649 |
-| Players | 3/15 |
-| Host Name | Xiao BB |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:06:46 |
+| Lobby ID | 28522930431867175 |
+| Players | 1/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 11:07:20 |
 
 
 |  | epic_boss_fight_challenger |
