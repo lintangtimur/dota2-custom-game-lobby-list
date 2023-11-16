@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930473310878 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:54:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930472729511 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Faerie Dragon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:52:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930473433284 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | липтон с мятой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:54:19 |
@@ -41,37 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930473499068 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | andrei maserati |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:54:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930472942957 |
-| Players | 14/15 |
-| Host Name | cbx Compendium sucks |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:53:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930473635414 |
-| Players | 1/15 |
-| Host Name | sprklngwtr Nene KATE | 蘇打水 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:54:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930473708180 |
-| Players | 1/8 |
-| Host Name | PATROCLO CHIPI |
+| Lobby ID | 28522930473740635 |
+| Players | 2/8 |
+| Host Name | Natiraff |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:55:00 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:55:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930473826822 |
+| Players | 3/15 |
+| Host Name | Kumiko-Chan |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:55:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930473813943 |
+| Players | 2/15 |
+| Host Name | bug |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:55:15 |
 
 
 |  | epic_boss_fight_nightmare |
