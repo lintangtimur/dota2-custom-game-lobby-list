@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433620624 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:12:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930437861701 |
-| Players | 13/15 |
-| Host Name | Discipline |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 11:23:03 |
+| Lobby ID | 28522930438239029 |
+| Players | 1/24 |
+| Host Name | hayo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:24:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930438156722 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | SkyShadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:23:49 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:23:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930438239029 |
-| Players | 1/24 |
-| Host Name | hayo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:24:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930437433211 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Izumiiiiiiiiii<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:21:57 |
