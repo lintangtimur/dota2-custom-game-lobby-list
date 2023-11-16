@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337409376768 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Xavier Bigot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:05:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337409558681 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:05:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337409606917 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | McLoVin ◢ ◤ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:06:06 |
