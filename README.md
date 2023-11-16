@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930528888582 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930528983378 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930530484266 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Do you feel mandingo`s dick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:12:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930527268408 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:40 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:12:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930530769458 |
-| Players | 1/5 |
-| Host Name | 5150vato |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:13:22 |
 
 
