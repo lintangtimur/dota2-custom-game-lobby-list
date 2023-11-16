@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930415689115 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:24:14 |
@@ -38,40 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:27:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930417187849 |
-| Players | 10/15 |
-| Host Name | Paxlee |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:28:19 |
+| Lobby ID | 28522930417541092 |
+| Players | 4/8 |
+| Host Name | Лотус не купили.... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:29:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930417213252 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | UuduuZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:28:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930417473674 |
-| Players | 2/10 |
-| Host Name | Валера Хроносфер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:29:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930417484843 |
-| Players | 1/24 |
-| Host Name | 🐼𝓙𝓊𝓝𝒾𝓞𝓇🐼 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:29:08 |
+| Lobby ID | 28522930416431031 |
+| Players | 13/15 |
+| Host Name | OfficialKTChubs |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:26:15 |
 
 
 |  | epic_boss_fight_nightmare |
