@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930468945936 |
 | Players | 3/15 |
-| Host Name | Paul Thomas Anderson |
+| Host Name | Si te exitas eres exitoso |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:42:34 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930469440680 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Членовещатель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:43:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930468992303 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Твоя бывшая |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:42:41 |
