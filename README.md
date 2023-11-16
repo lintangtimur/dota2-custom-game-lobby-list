@@ -83,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:02:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930430224725 |
-| Players | 2/8 |
-| Host Name | falcon |
+| Lobby ID | 28522930430309695 |
+| Players | 3/24 |
+| Host Name | Q12 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:02:54 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:03:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930430333190 |
+| Players | 1/15 |
+| Host Name | UuduuZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:03:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930429639548 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Ⰿ�NoobTank�Ⰿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:01:21 |
