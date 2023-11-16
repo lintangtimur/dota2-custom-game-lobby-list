@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:55:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930472789816 |
-| Players | 18/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:52:38 |
+| Lobby ID | 28522930474694590 |
+| Players | 2/10 |
+| Host Name | Мама Гладиатора |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:57:33 |
 
 
 |  | ot3_desert_octet |
@@ -49,19 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930473740635 |
-| Players | 1/8 |
-| Host Name | Natiraff |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:55:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28522930473433284 |
 | Players | 6/8 |
 | Host Name | липтон с мятой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:54:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930474681360 |
+| Players | 1/10 |
+| Host Name | WagnerExsorcismGroup[WEG] |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 12:57:31 |
 
 
