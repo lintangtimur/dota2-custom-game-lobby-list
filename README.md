@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337408570991 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:03:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337408945972 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | jhon kenedy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:04:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337408754249 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | katolic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:03:41 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337409170706 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | トゥエンティ-ファース |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:04:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337409282733 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:05:10 |
 
 
 |  | epic_boss_fight_nightmare |
