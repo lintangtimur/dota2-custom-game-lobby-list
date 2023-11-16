@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930480466913 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Main Ganchito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930484097596 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Bundestagswal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:21:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930483679200 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | My Way |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:20:48 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930480704047 |
+| Lobby ID | 28522930484300122 |
 | Players | 1/24 |
-| Host Name | God save the King |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 13:13:15 |
+| Host Name | BROOKLYN T GUY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:22:23 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:21:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930484496859 |
+| Players | 1/15 |
+| Host Name | Молочко Айран |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:22:53 |
 
 
 |  | epic_boss_fight_hard |
