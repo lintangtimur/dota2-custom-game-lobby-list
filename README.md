@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930433799140 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | [PRO]fanador |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:12:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | eFFinG.Techno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433211837 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930433586213 |
-| Players | 7/8 |
-| Host Name | Sunset |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:11:57 |
+| Lobby ID | 28522930434540783 |
+| Players | 2/10 |
+| Host Name | Fattory |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:14:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930434227896 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ShamWow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:13:36 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AbouCoco |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:14:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930434540783 |
-| Players | 2/10 |
-| Host Name | Fattory |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:14:26 |
 
 
 |  | epic_boss_fight_nightmare |
