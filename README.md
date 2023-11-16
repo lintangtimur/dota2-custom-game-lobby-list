@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930387613555 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Litle broki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:09:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930386747486 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:07:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930387834775 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | merho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:10:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930388008193 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:10:56 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SERVICIO SEXUAL 985011229 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:10:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930388141890 |
+| Players | 1/24 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:11:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930388188181 |
+| Players | 1/24 |
+| Host Name | terry |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:11:25 |
 
 
 |  | epic_boss_fight_nightmare |
