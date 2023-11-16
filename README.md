@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930427505035 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 🍌 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:55:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930428232438 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Brownie |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:57:37 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930428220559 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MR LEL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:57:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930428292762 |
-| Players | 1/24 |
-| Host Name | castillo TERRUCONES |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:57:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ₭ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:57:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930428216166 |
+| Players | 1/8 |
+| Host Name | "Lol/0u.u" |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:57:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930428393176 |
+| Players | 1/24 |
+| Host Name | castillo TERRUCONES |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:58:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930428373073 |
+| Players | 1/10 |
+| Host Name | Miggu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:57:59 |
 
 
