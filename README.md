@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930404674848 |
-| Players | 7/8 |
-| Host Name | CerafiNN |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:54:48 |
+| Lobby ID | 28522930404979115 |
+| Players | 6/24 |
+| Host Name | ULTRON MEGAINDUSTRIES |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:55:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930404921866 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Fattory |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:55:26 |
@@ -32,19 +32,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930404898885 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | охота крепкое |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:55:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930405234123 |
+| Players | 9/15 |
+| Host Name | no hables toy tite |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930405230711 |
+| Players | 2/8 |
+| Host Name | Su |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:15 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930404979115 |
-| Players | 5/24 |
-| Host Name | ULTRON MEGAINDUSTRIES |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 09:55:34 |
+| Lobby ID | 28522930405276159 |
+| Players | 1/24 |
+| Host Name | BUTUH DANA CEPAT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930402582554 |
+| Players | 23/24 |
+| Host Name | Acil Stark |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930405413362 |
+| Players | 7/15 |
+| Host Name | no, just no |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930403887038 |
+| Players | 18/24 |
+| Host Name | Perro chusco |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:52:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930405456686 |
+| Players | 1/8 |
+| Host Name | LA VERSATILIDAD DE LA CALLE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:56:51 |
 
 
 |  | epic_boss_fight_normal |
