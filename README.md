@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:56:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930408371995 |
-| Players | 14/15 |
-| Host Name | "†YoNhACoffIN†"†RAmPaSSO |
+| Lobby ID | 28522930408957771 |
+| Players | 1/8 |
+| Host Name | ✪ Aespa Giselle# MireSka |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:04:47 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:06:21 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:03:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930408957771 |
-| Players | 1/8 |
-| Host Name | ✪ Aespa Giselle# MireSka |
+| Lobby ID | 28522930409356214 |
+| Players | 2/10 |
+| Host Name | :) |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:06:21 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:07:27 |
 
 
 |  | epic_boss_fight_normal |
