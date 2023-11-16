@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974616934576 |
-| Players | 1/15 |
-| Host Name | Hola Cindy XD |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 02:28:55 |
+| Lobby ID | 28523974621432969 |
+| Players | 2/10 |
+| Host Name | 100% |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 02:32:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974614636844 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | schizokid |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 17, 2023 02:26:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974620399092 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | masex |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 17, 2023 02:32:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974619972327 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | Buğra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 02:31:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974618582062 |
-| Players | 8/24 |
+| Players | 18/24 |
 | Host Name | Without Desire |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 02:30:25 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974621101330 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | rafzZ~ |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 17, 2023 02:32:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28523974610212058 |
-| Players | 9/10 |
-| Host Name | Un cadeau |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 02:21:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28523974615152182 |
-| Players | 9/15 |
-| Host Name | YanBragin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 02:27:09 |
 
 
 |  | ot3_gardens_duo |
@@ -137,22 +119,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 02:26:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974615152182 |
+| Players | 12/15 |
+| Host Name | Animaki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 02:27:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974621218910 |
-| Players | 5/8 |
-| Host Name | What's my problem? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 02:32:47 |
+| Lobby ID | 28523974621618963 |
+| Players | 1/8 |
+| Host Name | ~{ ■} |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 02:33:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974614772358 |
+| Players | 14/15 |
+| Host Name | 50.Centaur |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 02:26:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974621317678 |
-| Players | 2/10 |
-| Host Name | ChilD SnaTcHeR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 02:32:52 |
+| Lobby ID | 28523974620487160 |
+| Players | 7/10 |
+| Host Name | lioN. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 02:32:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,15 +171,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vts77 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 02:30:52 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28523974619936275 |
-| Players | 4/7 |
-| Host Name | MR_Grav1ty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 02:31:37 |
 
 
 |  | epic_boss_fight_nightmare |
