@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930427924933 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ESTOY EN MI PRIME |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:56:47 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930428316139 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ₭ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:57:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930428216166 |
-| Players | 1/8 |
-| Host Name | "Lol/0u.u" |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:57:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930428393176 |
+| Lobby ID | 28522930428467515 |
 | Players | 1/24 |
 | Host Name | castillo TERRUCONES |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:58:02 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:58:14 |
 
 
 |  | epic_boss_fight_nightmare |
