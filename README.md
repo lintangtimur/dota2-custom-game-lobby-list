@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974678206901 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | xVisuals |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 03:40:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974678959299 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | KiW3^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 03:41:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974677432763 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 03:39:22 |
@@ -114,9 +114,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28523974679140302 |
 | Players | 4/15 |
-| Host Name | ведьмочка |
+| Host Name | ツKheyzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 03:41:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28523974679244631 |
+| Players | 4/8 |
+| Host Name | fedozy no muted |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 03:42:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28523974679288410 |
+| Players | 2/10 |
+| Host Name | Фанат Мишани |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 03:42:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28523974679371685 |
+| Players | 2/8 |
+| Host Name | YouScaredMe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 03:42:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +171,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 03:39:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974679249232 |
+| Players | 1/10 |
+| Host Name | Le Cerf |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 03:42:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28523974679380564 |
+| Players | 1/5 |
+| Host Name | Подводник |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 03:42:14 |
 
 
