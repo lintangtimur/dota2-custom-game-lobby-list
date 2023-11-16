@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930420327752 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LilaLouSi@rkardo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:36:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930419871437 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Pos 69 or grief |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:35:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930420988378 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:38:32 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:34:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930421131158 |
-| Players | 2/10 |
-| Host Name | eternal despair デ怒anxiety怒デ lepr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:38:55 |
 
 
