@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930392106656 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ALUMINIOS REALES GAAAAAAA |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930391876157 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930392436746 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:21:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930392295198 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sparatun o.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:21:27 |
