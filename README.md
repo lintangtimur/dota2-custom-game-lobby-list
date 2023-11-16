@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930466274524 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:35:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930466476875 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ashen- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:36:07 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:25:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930467039380 |
-| Players | 1/5 |
-| Host Name | SayaJagoDota |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:37:35 |
 
 
