@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337421616895 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Пенистый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:40:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337422075985 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | iamIBradd™ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:41:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337422003061 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Qalile |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:41:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337422091368 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ppm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:41:43 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:40:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28521337422262744 |
+| Players | 2/10 |
+| Host Name | [L_s]To4ek?Po4ek? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:42:12 |
 
 
