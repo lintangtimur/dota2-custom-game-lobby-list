@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403329640 |
-| Players | 4/15 |
-| Host Name | Prime |
+| Players | 3/15 |
+| Host Name | НЕ ЗАБЫВАЙ СВОИ К |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:10 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403153077 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Salmon |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930403795748 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Grimorum ~_^ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:52:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930402582554 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Acil Stark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930403887038 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:52:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930403524080 |
-| Players | 14/15 |
-| Host Name | Mr Meseeks |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:51:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930403392952 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | C K I A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:21 |
