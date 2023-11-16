@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403329640 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Luxfeero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930400064259 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930399221463 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:40:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403112274 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | LganteKLK-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:35 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930403205718 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 愛刀塔 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930403469881 |
+| Players | 5/8 |
+| Host Name | 強いpunk"ич |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:51:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 再见回锅肉 |
 | Region | PWUNICOM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:11:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930403392952 |
+| Players | 2/10 |
+| Host Name | C K I A |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:51:21 |
 
 
