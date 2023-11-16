@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930681452224 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | 大大hate myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 19:17:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930683278286 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930659635932 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Boxodon |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 16, 2023 18:53:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930679303909 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | trey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 19:15:01 |
@@ -58,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930681191865 |
-| Players | 12/15 |
-| Host Name | Бабуиныч |
+| Lobby ID | 28522930683585537 |
+| Players | 3/15 |
+| Host Name | P-sune 666 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 19:16:54 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:19:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930682724823 |
-| Players | 6/8 |
-| Host Name | K1ssLyak |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 16, 2023 19:18:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930683513055 |
-| Players | 1/5 |
-| Host Name | iLUMiNATi |
+| Lobby ID | 28522930676476430 |
+| Players | 23/24 |
+| Host Name | 别问，问就是菜 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 19:19:14 |
+| Lobby Creation Time | Thursday, November 16, 2023 19:12:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930684243193 |
+| Players | 1/10 |
+| Host Name | <ˢᵖᵒᵏᵒʸⁿiᶜʰ> |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 19:19:57 |
 
 
