@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930528888582 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:13 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930530484266 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Do you feel mandingo`s dick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:12:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930530662480 |
+| Players | 2/8 |
+| Host Name | || |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:13:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930527268408 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:40 |
