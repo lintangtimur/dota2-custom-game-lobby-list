@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930424333783 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:47:14 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:29 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930425258016 |
+| Players | 1/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:49:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930424177392 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Laucs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930425243330 |
+| Players | 1/5 |
+| Host Name | 『Kumagawa Misogi』 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 10:49:41 |
 
 
