@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930459056419 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | EL TIO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:16:39 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:18:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930460036202 |
+| Players | 1/24 |
+| Host Name | I'm Eating Pusxy Like it's oreos |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 12:19:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930460062773 |
+| Players | 1/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:19:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930449188911 |
@@ -81,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ꞦꝺꞗɨהВТорбеP7a8r<3 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:50:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930456248926 |
-| Players | 9/10 |
-| Host Name | AHyperDuck |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:09:17 |
 
 
 |  | epic_boss_fight_normal |
