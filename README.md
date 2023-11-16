@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337400596727 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PinguinoParador |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:39:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337401082216 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:41:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337401354149 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | руский?В ПАКЕТ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:42:06 |
