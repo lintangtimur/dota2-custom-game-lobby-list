@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930511922512 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | about to suicide |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:30:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930504818710 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 14:13:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930512005264 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Bắt Con Cọp |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 16, 2023 14:30:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930512753747 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ’Mr . Big |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:32:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930512859961 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | 电死了三个憨批 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:32:54 |
