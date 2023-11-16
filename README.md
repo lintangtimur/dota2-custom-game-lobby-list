@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930469889697 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:45:01 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | awtsu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:44:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930472229388 |
-| Players | 1/24 |
-| Host Name | Kromeshnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:51:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:49:49 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28522930472275652 |
+| Players | 1/7 |
+| Host Name | Death Is My Bitch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:51:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930472288321 |
+| Players | 2/5 |
+| Host Name | MyM_R@zer.mania |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:51:19 |
 
 
