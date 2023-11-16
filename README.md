@@ -31,38 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930476559020 |
-| Players | 1/8 |
-| Host Name | TAI LUNG |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:02:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930476762768 |
-| Players | 1/24 |
-| Host Name | & |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:02:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28522930476772889 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | L |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 13:03:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930476812463 |
-| Players | 1/15 |
-| Host Name | lilsaint |
+| Lobby ID | 28522930476762768 |
+| Players | 2/24 |
+| Host Name | & |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 13:03:07 |
+| Lobby Creation Time | Thursday, November 16, 2023 13:02:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930476881397 |
+| Players | 1/24 |
+| Host Name | xJw |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 13:03:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930476886671 |
+| Players | 1/8 |
+| Host Name | TAI LUNG |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:03:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930475911763 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:00:45 |
