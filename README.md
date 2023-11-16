@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930541710995 |
-| Players | 1/10 |
-| Host Name | Revoker |
+| Lobby ID | 28522930541783549 |
+| Players | 10/15 |
+| Host Name | Oleg Lymar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:36:33 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:36:42 |
 
 
 |  | ot3_desert_octet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:36:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930541783549 |
-| Players | 8/15 |
-| Host Name | Oleg Lymar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:36:42 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930541138597 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930541705505 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:36:32 |
