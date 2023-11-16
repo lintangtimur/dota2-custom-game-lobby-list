@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930456457966 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:09:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930456836067 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Lindvia| ZaiSe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:10:50 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930456588443 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Ace in the Hole |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:10:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930457203915 |
-| Players | 1/15 |
-| Host Name | slaine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:11:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930456590156 |
-| Players | 14/15 |
-| Host Name | -_- |
+| Lobby ID | 28522930457291479 |
+| Players | 1/8 |
+| Host Name | Professor |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 12:10:11 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:12:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930457306051 |
+| Players | 1/15 |
+| Host Name | Luxfeero |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 12:12:06 |
 
 
 |  | epic_boss_fight_nightmare |
