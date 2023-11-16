@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930438260799 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:24:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930440120477 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:29:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930439688317 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | BED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:27:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930440724610 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | YURNERO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:30:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930441015329 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Fitty_spenc |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:31:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930441378994 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:32:23 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 11:32:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930441565443 |
-| Players | 1/15 |
-| Host Name | PaneSin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:32:51 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930438486054 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:24:41 |
