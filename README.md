@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974713200944 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ПРОСТО КЕН |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 17, 2023 04:35:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974713991522 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 04:37:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974714168996 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | depressyajenko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:37:34 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974714277772 |
-| Players | 3/8 |
-| Host Name | MAPACHE_$INC0LA |
+| Lobby ID | 28523974714480131 |
+| Players | 5/8 |
+| Host Name | xxxx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 04:38:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974714416473 |
+| Players | 3/15 |
+| Host Name | кикнyли из цepкви |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 04:38:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28523974713018468 |
+| Players | 9/10 |
+| Host Name | WINDAR |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 04:37:46 |
+| Lobby Creation Time | Friday, November 17, 2023 04:35:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MyShow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:37:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28523974714354512 |
-| Players | 1/5 |
-| Host Name | ■ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 04:37:54 |
 
 
