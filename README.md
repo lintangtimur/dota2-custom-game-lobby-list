@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930485307970 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Naxima |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974743683036 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | 4 U LIL B*TCH |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:33:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974741992578 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Сталин 63 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:29:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974743886030 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:33:30 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974743847463 |
-| Players | 5/15 |
-| Host Name | erfan |
+| Players | 3/15 |
+| Host Name | Abyssal |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 17, 2023 05:33:26 |
 
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28523974743980056 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | pavlent1yo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:33:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974744073854 |
-| Players | 5/15 |
-| Host Name | YO PINGA LOCA |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:33:53 |
+| Lobby ID | 28523974744581088 |
+| Players | 5/8 |
+| Host Name | METANIN KÖPEGİ YUNUZZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 05:34:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28523974744143491 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | ЧУБАККА ЕБЁТ ВАС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:34:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974744187599 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Тюбик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 05:34:07 |
@@ -110,21 +110,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 05:34:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28523974744444668 |
+| Players | 2/8 |
+| Host Name | толянчик трактор |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 17, 2023 05:34:38 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974744218412 |
-| Players | 5/15 |
-| Host Name | flaMe- |
+| Lobby ID | 28523974744584337 |
+| Players | 1/15 |
+| Host Name | 24 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 05:34:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974744551617 |
+| Players | 4/15 |
+| Host Name | Kinmekki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 05:34:11 |
+| Lobby Creation Time | Friday, November 17, 2023 05:34:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28523974739378570 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 05:24:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28523974744244667 |
+| Players | 2/10 |
+| Host Name | AGENT U |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:34:14 |
 
 
