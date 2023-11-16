@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930540738675 |
-| Players | 8/10 |
-| Host Name | panic attack |
+| Lobby ID | 28522930541246068 |
+| Players | 1/8 |
+| Host Name | MIYACOLAMI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:34:30 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:35:34 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:32:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930540776825 |
-| Players | 1/10 |
-| Host Name | Revoker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:34:35 |
+| Lobby ID | 28522930541506147 |
+| Players | 1/15 |
+| Host Name | ciuperc |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 15:36:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:35:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930541246068 |
-| Players | 1/8 |
-| Host Name | MIYACOLAMI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:35:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930541454031 |
-| Players | 2/15 |
-| Host Name | Oleg Lymar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:36:00 |
+| Lobby ID | 28522930541519546 |
+| Players | 1/15 |
+| Host Name | Dr.Stop |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 16, 2023 15:36:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28522930539385435 |
-| Players | 8/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 15:31:40 |
+| Lobby ID | 28522930541470968 |
+| Players | 1/7 |
+| Host Name | Leysritt | アホイ! |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 15:36:03 |
 
 
 |  | epic_boss_fight_normal |
