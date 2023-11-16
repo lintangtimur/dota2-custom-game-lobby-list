@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930512753747 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ’Mr . Big |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:32:39 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930512859961 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 电死了三个憨批 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:32:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930512840783 |
-| Players | 4/8 |
-| Host Name | жопный мотылёк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:32:51 |
+| Lobby ID | 28522930513229948 |
+| Players | 1/15 |
+| Host Name | Echo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 14:33:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930511110255 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | InDiGo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:28:45 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KillerBee |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 16, 2023 14:30:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930513185916 |
+| Players | 2/10 |
+| Host Name | Cpt. Douchebag |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 14:33:40 |
 
 
