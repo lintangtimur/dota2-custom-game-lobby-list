@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930391876157 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930392039984 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | "†YoNhACoffIN†"†RAmPaSSO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:46 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930392295198 |
+| Players | 1/10 |
+| Host Name | Sparatun o.0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:21:27 |
 
 
 |  | epic_boss_fight_normal |
@@ -60,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28522930389889692 |
 | Players | 2/10 |
-| Host Name | Вениамин Рапира |
+| Host Name | Countess of Lyon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:15:32 |
 
