@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930422878665 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | mode: TI7 boon hock miracle- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930422725963 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:42:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930421777871 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | d_e_o |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:40:38 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:42:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930422331321 |
-| Players | 11/15 |
-| Host Name | Femme Fatale |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:41:56 |
+| Lobby ID | 28522930423014901 |
+| Players | 1/24 |
+| Host Name | Yonwalther |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:43:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:43:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930423067999 |
+| Players | 1/15 |
+| Host Name | 4ecTHocTb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:43:49 |
 
 
 |  | epic_boss_fight_nightmare |
