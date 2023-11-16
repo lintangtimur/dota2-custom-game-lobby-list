@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930554216367 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | йогурт |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930552809546 |
-| Players | 1/7 |
-| Host Name | 佐々木 小次郎 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 16:00:13 |
+| Lobby ID | 28522930555044984 |
+| Players | 2/8 |
+| Host Name | giving girls cocain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:04:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930554922628 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Implacable |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:04:36 |
