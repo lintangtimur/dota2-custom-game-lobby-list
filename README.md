@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930445772410 |
-| Players | 7/8 |
-| Host Name | Rarity |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 11:41:57 |
+| Lobby ID | 28522930447046047 |
+| Players | 1/15 |
+| Host Name | ChipySmith |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 11:45:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930446052208 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Demon |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:42:37 |
@@ -59,52 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930446062232 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:42:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930446840392 |
-| Players | 1/24 |
-| Host Name | PaneSin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:44:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930447046047 |
-| Players | 1/15 |
-| Host Name | ChipySmith |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 11:45:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930438260799 |
-| Players | 23/24 |
-| Host Name | MyFuture |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:24:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930447341946 |
-| Players | 1/15 |
-| Host Name | champkku555 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 11:45:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930446747211 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Heng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:44:23 |
