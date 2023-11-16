@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403524080 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Mr Meseeks |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:42 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930403112274 |
-| Players | 14/15 |
-| Host Name | LganteKLK-giordota.com |
+| Lobby ID | 28522930403387027 |
+| Players | 1/8 |
+| Host Name | Grimorum ~_^ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:50:35 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:51:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930403123512 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:37 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930403387027 |
-| Players | 1/8 |
-| Host Name | Grimorum ~_^ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:51:20 |
 
 
 |  | epic_boss_fight_normal |
