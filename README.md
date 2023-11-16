@@ -59,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930545666622 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | HEART |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:45:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930544222621 |
+| Players | 7/10 |
+| Host Name | ябеда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:41:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930545842124 |
+| Players | 1/8 |
+| Host Name | Tikovka <3 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 15:45:22 |
 
 
