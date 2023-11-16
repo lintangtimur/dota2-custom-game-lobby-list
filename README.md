@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | eFFinG.Techno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431867175 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930433689789 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Rarity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:12:14 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:06:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930433980384 |
+| Players | 1/10 |
+| Host Name | How Do I Play? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 11:12:59 |
 
 
