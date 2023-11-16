@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930556917980 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ROCK HARD |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 16:08:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930557750931 |
+| Players | 2/10 |
+| Host Name | Gini |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 16:10:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:26 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28522930555350368 |
-| Players | 1/10 |
-| Host Name | Paxultek |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 16:05:29 |
+| Lobby ID | 28522930557744940 |
+| Players | 2/5 |
+| Host Name | Мишка пыхтит |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 16:10:28 |
 
 
 |  | epic_boss_fight_nightmare |
