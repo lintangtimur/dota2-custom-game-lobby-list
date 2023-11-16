@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930456457966 |
-| Players | 7/8 |
-| Host Name | waiting for death |
+| Lobby ID | 28522930457306051 |
+| Players | 3/15 |
+| Host Name | Nessper |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:09:51 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:12:06 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:08:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930453618136 |
-| Players | 14/15 |
-| Host Name | xd |
+| Lobby ID | 28522930457368340 |
+| Players | 3/8 |
+| Host Name | Void.B clue# |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:02:25 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:12:16 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930456588443 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Ace in the Hole |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:10:11 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:12:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930457306051 |
-| Players | 1/15 |
-| Host Name | Luxfeero |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 12:12:06 |
 
 
 |  | epic_boss_fight_nightmare |
