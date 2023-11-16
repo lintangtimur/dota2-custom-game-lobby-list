@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337415752477 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:23:40 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337415717967 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:23:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337414281299 |
+| Players | 9/10 |
+| Host Name | ิ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:19:29 |
 
 
 |  | epic_boss_fight_nightmare |
