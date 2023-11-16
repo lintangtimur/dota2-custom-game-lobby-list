@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930383139406 |
-| Players | 14/15 |
-| Host Name | ASYCEM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:58:23 |
+| Lobby ID | 28522930385103687 |
+| Players | 2/15 |
+| Host Name | Blackcock |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:03:21 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930385040649 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 4✧*& |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:03:11 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:02:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930385103687 |
-| Players | 2/15 |
-| Host Name | Blackcock |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:03:21 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930384606000 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:02:03 |
