@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930399325917 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Buğra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:40:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930399710801 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:41:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930399221463 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:40:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930400475244 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:43:25 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930400740577 |
+| Players | 1/15 |
+| Host Name | граф де Генерат |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:44:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930400781440 |
+| Players | 1/8 |
+| Host Name | POISON |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:44:15 |
 
 
 |  | epic_boss_fight_normal |
