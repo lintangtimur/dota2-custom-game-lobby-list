@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930427039419 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Beluga |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:54:28 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930427866731 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MR LEL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:56:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930425962232 |
-| Players | 14/15 |
-| Host Name | ЛШДДУК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:51:38 |
+| Lobby ID | 28522930428049094 |
+| Players | 7/8 |
+| Host Name | リル・レキャム・プー |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:57:07 |
 
 
 |  | ot3_desert_octet |
