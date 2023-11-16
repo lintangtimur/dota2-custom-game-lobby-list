@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930480415037 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 13:12:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930482157983 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:16:57 |
@@ -92,6 +92,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:15:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930483201556 |
+| Players | 1/8 |
+| Host Name | Di5ablex |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:19:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930483234642 |
+| Players | 3/8 |
+| Host Name | ME KACHE A LA BRI YYYYYYYYYY? |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 13:19:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930483246628 |
+| Players | 1/8 |
+| Host Name | Dartanian |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 13:19:44 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28522930481961465 |
@@ -104,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930482534700 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SnowFire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:17:55 |
@@ -113,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930483140439 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | JetStream |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 13:19:27 |
