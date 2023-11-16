@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930469889697 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:45:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930469983774 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 12:45:16 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:47:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930471397921 |
+| Players | 1/8 |
+| Host Name | Rafta® |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:48:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930470321841 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:46:09 |
