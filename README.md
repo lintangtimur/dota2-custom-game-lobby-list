@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930410900556 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Stunning Garry |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:11:41 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930410190547 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:09:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930411073286 |
-| Players | 3/10 |
-| Host Name | 🦀 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:12:09 |
 
 
