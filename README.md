@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930431987671 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | eFFinG.Techno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:07:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930433211837 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 11:10:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930434227896 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ShamWow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:13:36 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shadow Song_333 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:13:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930434510837 |
+| Players | 5/8 |
+| Host Name | AbouCoco |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:14:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930434540783 |
+| Players | 2/10 |
+| Host Name | Fattory |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 11:14:26 |
 
 
 |  | epic_boss_fight_normal |
