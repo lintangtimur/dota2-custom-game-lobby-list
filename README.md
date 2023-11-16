@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522931014308712 |
-| Players | 6/10 |
-| Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
+| Players | 5/10 |
+| Host Name | Thanatos |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 00:09:48 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522931016322694 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Willow |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:11:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931018580906 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:14:15 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931011885032 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | age of man |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 00:07:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522931019048316 |
-| Players | 7/10 |
-| Host Name | ска башка чешется |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:14:45 |
+| Lobby ID | 28522931014206309 |
+| Players | 7/15 |
+| Host Name | MERCURY104 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 00:09:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522931018455272 |
-| Players | 5/8 |
-| Host Name | TAGANROGTOKYO |
+| Lobby ID | 28522931019403990 |
+| Players | 1/8 |
+| Host Name | Ибан Тяй |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:14:07 |
+| Lobby Creation Time | Friday, November 17, 2023 00:15:07 |
 
 
 |  | ot3_gardens_duo |
@@ -101,22 +101,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 00:14:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522931019509620 |
+| Players | 6/15 |
+| Host Name | 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 00:15:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522931019338037 |
+| Players | 2/10 |
+| Host Name | РАБМЕН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 00:15:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522931019472109 |
+| Players | 2/10 |
+| Host Name | The Last to Die |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 17, 2023 00:15:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522931010158297 |
+| Players | 22/24 |
+| Host Name | Mr.Pickles |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 00:05:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522931019452534 |
+| Players | 2/10 |
+| Host Name | GEORGIY |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 17, 2023 00:15:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522931015120945 |
+| Players | 1/10 |
+| Host Name | Hikolisi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 00:10:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522931019577600 |
+| Players | 2/8 |
+| Host Name | qwerty |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 17, 2023 00:15:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522931013808007 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | kaaa |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 17, 2023 00:09:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522931005258578 |
-| Players | 7/10 |
-| Host Name | [NVK] Робин Бобин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:00:21 |
 
 
 |  | epic_boss_fight_nightmare |
