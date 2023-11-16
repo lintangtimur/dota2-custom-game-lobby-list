@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974732440385 |
-| Players | 6/10 |
-| Host Name | rafzZ~ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 17, 2023 05:11:20 |
+| Lobby ID | 28523974732183144 |
+| Players | 2/10 |
+| Host Name | OJO CHUECO |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 05:10:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974732147238 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 05:10:46 |
@@ -56,31 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 05:10:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28523974732836273 |
+| Players | 10/15 |
+| Host Name | беспроводной душ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:12:06 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974732183144 |
-| Players | 2/10 |
-| Host Name | OJO CHUECO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 05:10:50 |
+| Lobby ID | 28523974732844677 |
+| Players | 4/10 |
+| Host Name | letiphantom |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 17, 2023 05:12:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974732527759 |
-| Players | 7/15 |
-| Host Name | Verocia |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 17, 2023 05:11:30 |
+| Lobby ID | 28523974732889941 |
+| Players | 4/15 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:12:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974732705181 |
-| Players | 4/10 |
-| Host Name | ⁶gotori⁹ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 17, 2023 05:11:51 |
+| Lobby ID | 28523974732937953 |
+| Players | 5/15 |
+| Host Name | Interpol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 05:12:18 |
 
 
 |  | epic_boss_fight_nightmare |
