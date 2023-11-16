@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930410507125 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 102 eggs in spanish |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930413652974 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Dash'God |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:18:48 |
