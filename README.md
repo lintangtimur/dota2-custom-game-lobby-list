@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930422878665 |
-| Players | 23/24 |
-| Host Name | mode: TI7 boon hock miracle- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:43:19 |
+| Lobby ID | 28522930425433913 |
+| Players | 14/15 |
+| Host Name | Crazy Maiden^.^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:50:12 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930425258016 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Niñoblis Tu Terror +.+ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:49:43 |
@@ -80,15 +80,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 4/10 |
 | Host Name | Apagón Revolucionario |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 10:50:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930425433913 |
-| Players | 14/15 |
-| Host Name | Crazy Maiden^.^ |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:50:12 |
 
 
