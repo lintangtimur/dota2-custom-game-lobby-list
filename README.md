@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337412131932 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:13:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337413081308 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Do$viduli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:04 |
@@ -41,10 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337413082187 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | JJB神 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337413177930 |
+| Players | 5/15 |
+| Host Name | Dream |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:16:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337413284176 |
+| Players | 2/10 |
+| Host Name | 借 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:16:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337413308269 |
+| Players | 1/8 |
+| Host Name | fake decaff boy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:16:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337413363126 |
+| Players | 1/8 |
+| Host Name | Taison V. Akhal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:16:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:13:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521337413082023 |
-| Players | 4/10 |
-| Host Name | avoid me |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 08:16:04 |
 
 
