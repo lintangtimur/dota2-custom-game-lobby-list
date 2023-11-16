@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930383912182 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Pierde alianza, pierde mi famili |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:00:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930382765126 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:57:27 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930382557972 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | areyouhappy? |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 16, 2023 08:56:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930384523745 |
+| Players | 3/8 |
+| Host Name | ЛУЧШИЙ КАПИТАН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 09:01:51 |
 
 
 |  | epic_boss_fight_challenger |
