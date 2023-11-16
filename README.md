@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930400740577 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930400238819 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930401124495 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Rockefeller |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:45:11 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:11:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930400651820 |
-| Players | 4/5 |
-| Host Name | Hoo Lee Sheet |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:43:54 |
+| Lobby ID | 28522930401611486 |
+| Players | 1/10 |
+| Host Name | ang qt qt ko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 09:46:31 |
 
 
