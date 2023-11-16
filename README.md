@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930539115810 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DOMINIC S TORENTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:31:09 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Syn.v2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:28:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28522930537297256 |
+| Players | 22/24 |
+| Host Name | ^.^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:27:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930537697482 |
+| Players | 6/8 |
+| Host Name | the bald god |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 16, 2023 15:28:25 |
 
 
 |  | epic_boss_fight_nightmare |
