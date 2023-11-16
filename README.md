@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930421810056 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Моржогр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:40:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930422058476 |
-| Players | 4/24 |
+| Players | 15/24 |
 | Host Name | castillo TERRUCONES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:41:18 |
@@ -41,27 +41,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930422068637 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:41:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930422180159 |
-| Players | 1/8 |
-| Host Name | Rilax |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:41:35 |
+| Lobby ID | 28522930422331321 |
+| Players | 2/15 |
+| Host Name | Femme Fatale |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 10:41:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930422115021 |
-| Players | 1/10 |
-| Host Name | Finn |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 16, 2023 10:41:26 |
+| Lobby ID | 28522930422334143 |
+| Players | 1/15 |
+| Host Name | 三杯冰美式 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Thursday, November 16, 2023 10:41:57 |
 
 
