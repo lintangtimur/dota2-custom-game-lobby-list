@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930509317740 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | kiw kiw CUKURUK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:24:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930510007171 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Do you feel mandingo`s dick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:26:07 |
