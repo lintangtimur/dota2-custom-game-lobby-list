@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930527060847 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Griefer Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 15:05:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930526792564 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Kiwiszn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:04:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930527787844 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:06:48 |
