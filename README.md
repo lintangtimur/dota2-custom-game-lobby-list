@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337390909470 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:12:16 |
@@ -47,51 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:15:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337392179972 |
-| Players | 6/8 |
-| Host Name | AdAndRoll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:15:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337391853093 |
-| Players | 2/8 |
-| Host Name | PanConPejerrey |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 07:14:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337392508310 |
-| Players | 2/10 |
-| Host Name | Stunning Garry |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:16:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28521337392423469 |
-| Players | 7/10 |
-| Host Name | Janmix |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:16:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28521337392450595 |
-| Players | 4/15 |
-| Host Name | Shadow |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 07:16:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337392668514 |
@@ -101,10 +56,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:16:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337391853093 |
+| Players | 3/8 |
+| Host Name | PanConPejerrey |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 07:14:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337392508310 |
+| Players | 3/10 |
+| Host Name | Stunning Garry |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:16:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521337392725604 |
+| Players | 6/24 |
+| Host Name | Itachi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 07:17:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337392450595 |
+| Players | 5/15 |
+| Host Name | Shadow |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 07:16:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337392703366 |
+| Players | 3/15 |
+| Host Name | 100% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 07:17:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521337389348421 |
+| Players | 23/24 |
+| Host Name | Supai |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 16, 2023 07:07:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521337391836003 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:14:50 |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:16:34 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28521337392809527 |
+| Players | 1/7 |
+| Host Name | 猛龙不过江 |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, November 16, 2023 07:17:23 |
 
 
