@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930528621067 |
-| Players | 2/8 |
-| Host Name | /*BoDYa_DiLDER*/ |
+| Players | 3/8 |
+| Host Name | AkiStarFOX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:08:38 |
 
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28522930529507229 |
+| Players | 3/10 |
+| Host Name | Qank |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:10:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930527268408 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930529024898 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ( °Д°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:31 |
