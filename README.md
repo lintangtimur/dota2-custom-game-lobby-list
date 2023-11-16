@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931037805431 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:34:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522931041887327 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | hyko |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:38:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931033669623 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | busco el ban para dejar el dota |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 17, 2023 00:30:00 |
@@ -68,90 +68,99 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522931034329386 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | llevatela !!! amarraqueta |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 17, 2023 00:30:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522931027037994 |
+| Players | 9/15 |
+| Host Name | DeBo4ka_C_XaPaKTePoM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 00:23:04 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522931038675016 |
+| Lobby ID | 28522931039029003 |
 | Players | 6/10 |
-| Host Name | 1KlasNumberOne |
+| Host Name | Feedel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:35:17 |
+| Lobby Creation Time | Friday, November 17, 2023 00:35:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522931041761145 |
-| Players | 8/15 |
-| Host Name | halal player |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 17, 2023 00:38:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522931042083139 |
-| Players | 4/8 |
-| Host Name | СЕЛЕЗЕНКА |
+| Lobby ID | 28522931025876937 |
+| Players | 4/15 |
+| Host Name | Znoose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:38:52 |
+| Lobby Creation Time | Friday, November 17, 2023 00:21:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522931029799948 |
-| Players | 6/15 |
-| Host Name | Bot |
+| Players | 5/15 |
+| Host Name | sav4ge |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 17, 2023 00:25:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522931042727129 |
+| Players | 2/8 |
+| Host Name | Green_grany |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522931042661223 |
+| Players | 2/8 |
+| Host Name | Popig Immortal |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522931042259810 |
+| Lobby ID | 28522931042660428 |
 | Players | 1/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:39:04 |
+| Host Name | GEGE UNITED CITY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522931042379523 |
-| Players | 5/8 |
-| Host Name | MrOtec |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 00:39:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522931042388848 |
-| Players | 1/8 |
-| Host Name | 我是神 |
+| Lobby ID | 28522931042806420 |
+| Players | 2/10 |
+| Host Name | IIIHyPoK |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, November 17, 2023 00:39:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522931042495005 |
-| Players | 1/8 |
-| Host Name | Bibliokiller |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 00:39:19 |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:39 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522931039145055 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | nOdEn |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 17, 2023 00:35:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522931042878881 |
+| Players | 1/5 |
+| Host Name | ☛†THE GOD† |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 00:39:44 |
 
 
