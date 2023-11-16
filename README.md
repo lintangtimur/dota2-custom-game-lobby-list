@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337401354149 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | руский?В ПАКЕТ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:42:06 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337401999806 |
-| Players | 1/24 |
-| Host Name | SaltDaddy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:59 |
+| Lobby ID | 28521337401737180 |
+| Players | 5/24 |
+| Host Name | Bajando Pepian |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:43:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 07:36:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337401854779 |
-| Players | 14/15 |
-| Host Name | 50.Centaur |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:34 |
+| Lobby ID | 28521337401840114 |
+| Players | 2/8 |
+| Host Name | NIDOKING :3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:43:31 |
 
 
 |  | ot3_gardens_duo |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337401628955 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | TINKI WINKI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:42:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28521337401737180 |
-| Players | 2/24 |
-| Host Name | Bajando Pepian |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337401840114 |
-| Players | 2/8 |
-| Host Name | NIDOKING :3 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:43:31 |
 
 
 |  | epic_boss_fight_nightmare |
