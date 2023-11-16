@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930376473321 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 08:47:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930385779258 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:05:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930386279916 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:06:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930386541676 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | toxic skies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:07:05 |
