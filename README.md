@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930513754785 |
-| Players | 6/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:34:58 |
+| Lobby ID | 28522930523388001 |
+| Players | 20/24 |
+| Host Name | awtsu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 14:57:04 |
 
 
 |  | ot3_desert_octet |
@@ -20,111 +20,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930504818710 |
-| Players | 5/24 |
-| Host Name | soy serrano, y que? |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 14:13:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930512005264 |
-| Players | 1/24 |
-| Host Name | 内恰第三，乐扣第四 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 14:30:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930504014305 |
-| Players | 1/24 |
-| Host Name | Система |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:11:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930513854933 |
-| Players | 2/10 |
-| Host Name | Snakes |
+| Lobby ID | 28522930521156003 |
+| Players | 1/8 |
+| Host Name | Лучше не станет |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 14:35:12 |
+| Lobby Creation Time | Thursday, November 16, 2023 14:52:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28522930517621326 |
+| Players | 1/15 |
+| Host Name | Fred |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 14:43:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930513305484 |
+| Lobby ID | 28522930525424519 |
 | Players | 1/8 |
-| Host Name | SodaZ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 16, 2023 14:33:57 |
+| Host Name | SSS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:01:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930512859961 |
-| Players | 22/24 |
-| Host Name | 电死了三个憨批 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 14:32:54 |
+| Lobby ID | 28522930525073962 |
+| Players | 7/10 |
+| Host Name | (/_-) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 15:00:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930513229948 |
-| Players | 7/15 |
-| Host Name | Echo |
+| Lobby ID | 28522930523602392 |
+| Players | 9/10 |
+| Host Name | Imjustabear™ |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 14:33:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930513712678 |
-| Players | 2/15 |
-| Host Name | aWarDeeee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:34:52 |
+| Lobby Creation Time | Thursday, November 16, 2023 14:57:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28522930511110255 |
-| Players | 3/10 |
-| Host Name | InDiGo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:28:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930513385243 |
-| Players | 2/5 |
-| Host Name | G!14*Арик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:34:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930513185916 |
-| Players | 6/10 |
-| Host Name | Cpt. Douchebag |
+| Lobby ID | 28522930525541367 |
+| Players | 1/10 |
+| Host Name | HarBonDioxide |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 14:33:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930513979038 |
-| Players | 1/5 |
-| Host Name | 月战老兵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 14:35:29 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:01:56 |
 
 
