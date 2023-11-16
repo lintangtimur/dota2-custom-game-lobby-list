@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930410203793 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:09:46 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930411157057 |
-| Players | 7/8 |
-| Host Name | Tu PapiRikimaru |
+| Lobby ID | 28522930412015608 |
+| Players | 4/24 |
+| Host Name | :) |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:12:23 |
+| Lobby Creation Time | Thursday, November 16, 2023 10:14:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:09:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28522930411811107 |
-| Players | 3/5 |
-| Host Name | in |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 16, 2023 10:14:05 |
 
 
