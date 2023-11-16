@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337418130691 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:30:31 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337419238269 |
-| Players | 8/10 |
-| Host Name | merenge |
+| Lobby ID | 28521337420438556 |
+| Players | 2/10 |
+| Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:33:39 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:37:04 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337419711517 |
-| Players | 7/8 |
-| Host Name | whyouSmi1Le |
+| Lobby ID | 28521337419536593 |
+| Players | 4/8 |
+| Host Name | NIDOKING :3 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:34:59 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:34:30 |
 
 
 |  | ot3_gardens_duo |
@@ -67,19 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337419299339 |
-| Players | 14/15 |
-| Host Name | QNMLGB101 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 08:33:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337419536593 |
-| Players | 2/8 |
-| Host Name | NIDOKING :3 |
+| Lobby ID | 28521337420475160 |
+| Players | 1/15 |
+| Host Name | MOTICUCO $><$ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:34:30 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:37:10 |
 
 
