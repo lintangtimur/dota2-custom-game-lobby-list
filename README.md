@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930531656612 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | watch me die rebellious all mute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:15:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930528983378 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:09:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930532448820 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Thegwaaarh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:58 |
