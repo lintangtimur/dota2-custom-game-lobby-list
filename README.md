@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930508453170 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Єгор КОНТРОБАНДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:22:22 |
@@ -47,49 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 14:11:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930508706180 |
-| Players | 4/10 |
-| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 14:22:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930509205769 |
+| Lobby ID | 28522930509249669 |
 | Players | 2/15 |
-| Host Name | Pe[Dark]giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 14:24:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930508487525 |
-| Players | 14/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 14:22:27 |
+| Host Name | shwed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 14:24:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930509201655 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 14:24:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930509216003 |
-| Players | 1/15 |
-| Host Name | keeeng04 |
+| Lobby ID | 28522930509317740 |
+| Players | 8/24 |
+| Host Name | kiw kiw CUKURUK |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 14:24:13 |
+| Lobby Creation Time | Thursday, November 16, 2023 14:24:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930508773225 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | chocolate icecream |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:23:09 |
