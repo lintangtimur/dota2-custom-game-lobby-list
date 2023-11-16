@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337421667593 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Larcade |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:40:32 |
@@ -41,28 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337420795276 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 08:38:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337421410975 |
-| Players | 5/8 |
-| Host Name | AXE-KUN |
+| Lobby ID | 28521337422075985 |
+| Players | 2/10 |
+| Host Name | iamIBradd™ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:39:48 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:41:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337422003061 |
+| Players | 3/15 |
+| Host Name | Qalile |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 08:41:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28521337421927072 |
+| Lobby ID | 28521337422076942 |
 | Players | 1/10 |
-| Host Name | fan4ez |
+| Host Name | GuITaR |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:41:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337422091368 |
+| Players | 5/10 |
+| Host Name | ppm |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:41:16 |
+| Lobby Creation Time | Thursday, November 16, 2023 08:41:43 |
 
 
 |  | epic_boss_fight_challenger |
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:40:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521337421903456 |
-| Players | 1/10 |
-| Host Name | GFYS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:41:12 |
 
 
