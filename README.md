@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930453614894 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | [TмR] maravisha |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:02:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930453379906 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:01:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930454591917 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Brainstorm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:04:57 |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930449188911 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Ewrty |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 16, 2023 11:50:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28522930455904216 |
-| Players | 1/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 12:08:23 |
+| Lobby ID | 28522930455928884 |
+| Players | 1/5 |
+| Host Name | Master Bay |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 12:08:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930455961080 |
+| Players | 4/5 |
+| Host Name | Wh1teTiger |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 16, 2023 12:08:32 |
 
 
