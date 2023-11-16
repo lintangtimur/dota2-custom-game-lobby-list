@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930547389426 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Darling |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930485307970 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930532262492 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Soolarツ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 15:16:33 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930549422649 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:53:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930551478230 |
-| Players | 13/15 |
-| Host Name | // |
+| Lobby ID | 28522930551817421 |
+| Players | 3/10 |
+| Host Name | Ajr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:57:26 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:58:08 |
 
 
 |  | ot3_gardens_duo |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930551576118 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | 永恒.T-Rex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 15:57:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930551817421 |
-| Players | 1/10 |
-| Host Name | Ajr |
+| Lobby ID | 28522930552013638 |
+| Players | 5/15 |
+| Host Name | Triplesixgods |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:58:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:58:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930548967997 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | I ATE NOTHING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 15:52:06 |
