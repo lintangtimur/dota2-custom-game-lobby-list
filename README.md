@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930403329640 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Luxfeero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:51:10 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930402582554 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Acil Stark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:49:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930403387027 |
-| Players | 1/8 |
-| Host Name | Grimorum ~_^ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:51:20 |
+| Lobby ID | 28522930403178296 |
+| Players | 2/10 |
+| Host Name | Zugzwang |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:50:46 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:50:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930403178296 |
-| Players | 2/10 |
-| Host Name | Zugzwang |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:50:46 |
+| Lobby ID | 28522930403790356 |
+| Players | 1/24 |
+| Host Name | Perro chusco |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:52:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930403795748 |
+| Players | 1/8 |
+| Host Name | Grimorum ~_^ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:52:26 |
 
 
 |  | epic_boss_fight_normal |
