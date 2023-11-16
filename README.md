@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930413885307 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | faloopi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:19:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930410507125 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | 102 eggs in spanish |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930412810849 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:16:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930412399313 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:34 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930413652974 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Dash'God |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:18:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930414048261 |
-| Players | 9/10 |
-| Host Name | 🍌 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:19:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930412467807 |
-| Players | 5/8 |
-| Host Name | you are my rival |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:15:45 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 10:20:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930412467807 |
+| Players | 6/8 |
+| Host Name | you are my rival |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:15:45 |
 
 
 |  | epic_boss_fight_normal |
