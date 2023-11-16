@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28521337412131932 |
-| Players | 14/15 |
-| Host Name | HaileN- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 08:13:23 |
+| Lobby ID | 28521337413308269 |
+| Players | 3/8 |
+| Host Name | fake decaff boy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:16:43 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337412574094 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:14:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337413363126 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Taison V. Akhal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337413177930 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:21 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 借 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28521337413308269 |
-| Players | 2/8 |
-| Host Name | fake decaff boy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 08:16:43 |
 
 
 |  | epic_boss_fight_nightmare |
