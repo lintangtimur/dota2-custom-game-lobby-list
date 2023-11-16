@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28523974699807873 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 17, 2023 04:13:21 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974710226176 |
-| Players | 2/10 |
-| Host Name | ma1n1k |
+| Lobby ID | 28523974710735798 |
+| Players | 9/10 |
+| Host Name | Фанат Мишани |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 04:30:42 |
+| Lobby Creation Time | Friday, November 17, 2023 04:31:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28523974707758065 |
-| Players | 1/15 |
-| Host Name | SenbonZakura Kageyoshi |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 17, 2023 04:26:30 |
+| Lobby ID | 28523974709019839 |
+| Players | 17/24 |
+| Host Name | 󠁳 p0Ketzma |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 17, 2023 04:28:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,36 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28523974709775606 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 17, 2023 04:29:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974709019839 |
-| Players | 12/24 |
-| Host Name | 󠁳 p0Ketzma |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 04:28:37 |
+| Lobby ID | 28523974710739094 |
+| Players | 4/8 |
+| Host Name | 54lowpurpp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 17, 2023 04:31:35 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974710414255 |
-| Players | 1/5 |
-| Host Name | RenTao |
+| Lobby ID | 28523974710983805 |
+| Players | 2/10 |
+| Host Name | Пахну слабостью |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 04:31:01 |
+| Lobby Creation Time | Friday, November 17, 2023 04:32:00 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28523974710810762 |
+| Players | 2/7 |
+| Host Name | pure clown |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 17, 2023 04:31:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28523974710527220 |
+| Lobby ID | 28523974710945059 |
 | Players | 1/10 |
-| Host Name | LMA |
+| Host Name | breakdown |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 04:31:13 |
+| Lobby Creation Time | Friday, November 17, 2023 04:31:56 |
 
 
