@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930512467809 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | тел ми вай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:31:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930512859961 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 电死了三个憨批 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:32:54 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Echo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 14:33:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930513305484 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 16, 2023 14:33:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 14:33:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930513331216 |
+| Players | 1/5 |
+| Host Name | 月战老兵 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Thursday, November 16, 2023 14:34:00 |
 
 
