@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930749051029 |
-| Players | 14/15 |
-| Host Name | Cypher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:17:39 |
+| Lobby ID | 28522930749524844 |
+| Players | 2/24 |
+| Host Name | poo-zinping |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:18:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930748958522 |
+| Lobby ID | 28522930746688192 |
 | Players | 1/10 |
-| Host Name | mmmMMM |
+| Host Name | 热性与你的妈妈 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:17:35 |
+| Lobby Creation Time | Thursday, November 16, 2023 20:15:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522930745572999 |
 | Players | 8/15 |
-| Host Name | Mafiato |
+| Host Name | JIJA |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 20:14:47 |
 
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930726076584 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 16, 2023 19:58:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930730654963 |
-| Players | 7/10 |
-| Host Name | Parpy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:02:25 |
+| Lobby ID | 28522930746356112 |
+| Players | 23/24 |
+| Host Name | Spongebob |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 20:15:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 20:15:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930746356112 |
-| Players | 22/24 |
-| Host Name | Spongebob |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 20:15:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930746688192 |
-| Players | 1/10 |
-| Host Name | 热性与你的妈妈 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 20:15:42 |
 
 
 |  | epic_boss_fight_nightmare |
