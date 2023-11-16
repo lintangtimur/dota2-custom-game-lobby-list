@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930410507125 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 102 eggs in spanish |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 10:10:37 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930412128104 |
-| Players | 6/8 |
-| Host Name | COVID 19 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 16, 2023 10:14:54 |
+| Lobby ID | 28522930413251856 |
+| Players | 3/10 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 10:17:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930413251856 |
-| Players | 2/10 |
-| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 10:17:50 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930388274949 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930412435368 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Heng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:15:40 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930412907697 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:16:56 |
