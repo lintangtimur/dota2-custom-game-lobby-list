@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930395776897 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Yuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:30:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930400226426 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | SmokingCascade |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 09:42:44 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930399710801 |
-| Players | 14/15 |
-| Host Name | HaileN- |
+| Lobby ID | 28522930400781440 |
+| Players | 2/8 |
+| Host Name | POISON |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:41:20 |
+| Lobby Creation Time | Thursday, November 16, 2023 09:44:15 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930400475244 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:43:25 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 09:44:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930400781440 |
-| Players | 2/8 |
-| Host Name | POISON |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:44:15 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930388274949 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28522930400651820 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:43:54 |
