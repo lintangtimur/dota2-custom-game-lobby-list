@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337409558681 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:05:57 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337409953087 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | БОБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:07:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337410069438 |
+| Players | 1/8 |
+| Host Name | SCP |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:07:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28521337410128980 |
+| Players | 1/15 |
+| Host Name | DarkFlameMaster |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:07:36 |
 
 
 |  | epic_boss_fight_nightmare |
