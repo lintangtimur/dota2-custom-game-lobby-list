@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930468397105 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Alaq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 12:41:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930469889697 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:45:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930470321841 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Lose modo show |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:46:09 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kaela Kovalskia |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 16, 2023 12:49:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28522930471719320 |
+| Players | 1/10 |
+| Host Name | 山上徹也 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 12:49:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28522930471731383 |
+| Players | 1/5 |
+| Host Name | Minim0 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 12:49:51 |
 
 
