@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522931053341463 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Buğra |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 17, 2023 00:50:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28522931053346145 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:50:59 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 17, 2023 00:48:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522931027037994 |
-| Players | 6/15 |
-| Host Name | Ось |
+| Lobby ID | 28522931038675016 |
+| Players | 6/10 |
+| Host Name | B.i.AM.BATMAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:23:04 |
+| Lobby Creation Time | Friday, November 17, 2023 00:35:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522931050290495 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | WanShot |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 17, 2023 00:47:41 |
@@ -130,28 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522931042083139 |
-| Players | 2/8 |
-| Host Name | hypnospiria |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:38:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522931038675016 |
-| Players | 3/10 |
-| Host Name | B.i.AM.BATMAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 00:35:17 |
+| Lobby ID | 28522931054177176 |
+| Players | 4/8 |
+| Host Name | zarema_95 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 17, 2023 00:51:53 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28522931053859840 |
-| Players | 3/7 |
-| Host Name | @eunbining0904 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 17, 2023 00:51:33 |
+| Lobby ID | 28522931054503428 |
+| Players | 1/7 |
+| Host Name | Essa |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 17, 2023 00:52:15 |
 
 
