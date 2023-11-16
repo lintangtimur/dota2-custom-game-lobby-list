@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930510161789 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Wukash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 14:26:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28522930510395875 |
+| Players | 1/8 |
+| Host Name | el chorry |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 14:27:02 |
 
 
