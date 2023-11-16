@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930560090540 |
-| Players | 1/8 |
-| Host Name | vomiand |
+| Players | 5/8 |
+| Host Name | Zafatenko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 16:15:15 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930555449427 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Thumbiceq |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 16:05:41 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930554216367 |
-| Players | 9/15 |
-| Host Name | nReal |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 16, 2023 16:03:08 |
+| Lobby ID | 28522930560369120 |
+| Players | 1/15 |
+| Host Name | BUTUH DANA CEPAT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 16, 2023 16:15:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930559955674 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | please dont ban AA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:14:59 |
@@ -59,27 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930560011233 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 16:15:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930560125909 |
-| Players | 1/15 |
-| Host Name | ПобеДИЛДО |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:15:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28522930556410287 |
-| Players | 8/10 |
-| Host Name | . Skye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 16, 2023 16:07:41 |
 
 
