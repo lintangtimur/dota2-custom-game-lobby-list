@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337413308269 |
-| Players | 3/8 |
-| Host Name | fake decaff boy |
+| Players | 2/8 |
+| Host Name | R |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:43 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337413363126 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Taison V. Akhal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337413082187 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | JJB神 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337413177930 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337413284176 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 借 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 08:16:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337413598789 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ??? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 08:17:34 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 08:17:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28521337413663507 |
+| Players | 1/8 |
+| Host Name | fake decaff boy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 16, 2023 08:17:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28521337413656068 |
+| Players | 1/24 |
+| Host Name | charlyw |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 08:17:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28521337412312939 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 08:13:51 |
