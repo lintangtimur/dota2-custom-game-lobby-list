@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337395947796 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | II |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:26:23 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28521337397879721 |
-| Players | 22/24 |
-| Host Name | nudlelay |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:32:01 |
+| Lobby ID | 28521337398304665 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:33:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337396127976 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ♥-℉ïŘ€Mă₦-♥ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:26:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28521337398037688 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Lee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 07:32:29 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337398072407 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Robert J. Openheineken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:32:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28521337398304157 |
+| Players | 1/10 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 16, 2023 07:33:15 |
 
 
 |  | epic_boss_fight_nightmare |
