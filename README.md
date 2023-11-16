@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930392129594 |
-| Players | 2/10 |
-| Host Name | Ебаные овощи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:21:00 |
+| Lobby ID | 28522930392106656 |
+| Players | 2/8 |
+| Host Name | ALUMINIOS REALES GAAAAAAA |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 16, 2023 09:20:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930392074987 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930391876157 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:21 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28522930390854141 |
-| Players | 13/15 |
-| Host Name | Maus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 09:17:53 |
+| Lobby ID | 28522930392039984 |
+| Players | 3/15 |
+| Host Name | "†YoNhACoffIN†"†RAmPaSSO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 09:20:46 |
 
 
 |  | ot3_gardens_duo |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moisés Overloaded (+2) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 09:20:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28522930392039984 |
-| Players | 1/15 |
-| Host Name | "†YoNhACoffIN†"†RAmPaSSO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 09:20:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930392106656 |
-| Players | 1/8 |
-| Host Name | ALUMINIOS REALES GAAAAAAA |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 16, 2023 09:20:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28522930389889692 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Вениамин Рапира |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 09:15:32 |
