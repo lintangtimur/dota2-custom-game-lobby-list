@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 15:45:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28522930548356026 |
-| Players | 14/15 |
-| Host Name | [w]Easy |
+| Lobby ID | 28522930549229506 |
+| Players | 1/8 |
+| Host Name | Inoculisfurorem |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:50:46 |
+| Lobby Creation Time | Thursday, November 16, 2023 15:52:39 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | King |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 16, 2023 15:48:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28522930549229506 |
-| Players | 1/8 |
-| Host Name | Inoculisfurorem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 15:52:39 |
 
 
 |  | epic_boss_fight_normal |
