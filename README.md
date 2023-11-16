@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28522930427505035 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 🍌 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 10:55:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930426794413 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 10:53:49 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 10:56:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28522930427973282 |
-| Players | 22/24 |
-| Host Name | Rize - 気 |
+| Lobby ID | 28522930429841005 |
+| Players | 1/10 |
+| Host Name | PATO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 10:56:55 |
+| Lobby Creation Time | Thursday, November 16, 2023 11:01:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ⛩🖤𝕴𝖙𝖆𝖈𝖍𝖎 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 11:01:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28522930429841005 |
-| Players | 1/10 |
-| Host Name | PATO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 11:01:53 |
 
 
 |  | epic_boss_fight_nightmare |
