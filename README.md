@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28522930465352919 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 12:33:14 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 16, 2023 12:29:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28522930467628954 |
-| Players | 7/8 |
-| Host Name | SUNAT |
+| Lobby ID | 28522930468238194 |
+| Players | 1/24 |
+| Host Name | Percibal |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:39:08 |
+| Lobby Creation Time | Thursday, November 16, 2023 12:40:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,17 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28522930468156230 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | COSMO EL GATO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 12:40:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930468159427 |
-| Players | 1/24 |
-| Host Name | tenia futuro hasta que dotee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 16, 2023 12:40:31 |
 
