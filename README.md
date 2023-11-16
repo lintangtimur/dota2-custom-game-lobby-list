@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28521337401082216 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 16, 2023 07:41:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28521337380875094 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 06:47:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28521337399272004 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ZoSo |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 16, 2023 07:36:04 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28521337401539749 |
+| Lobby ID | 28521337401628955 |
 | Players | 1/15 |
-| Host Name | БОТ(!%:) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:42:39 |
+| Host Name | TINKI WINKI |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 16, 2023 07:42:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 16, 2023 07:38:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28521337400777673 |
-| Players | 1/10 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 16, 2023 07:40:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28521337401582789 |
-| Players | 1/5 |
-| Host Name | k3v1n19 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 16, 2023 07:42:46 |
 
 
