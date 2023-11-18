@@ -4,118 +4,100 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974818859412 |
-| Players | 6/10 |
-| Host Name | katar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 08:31:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28523974819222906 |
-| Players | 1/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 17, 2023 08:32:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28522930485307970 |
-| Players | 4/24 |
-| Host Name | Naxima |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 16, 2023 13:24:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28523974818066255 |
-| Players | 2/8 |
-| Host Name | tv/bar_bariska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 08:29:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28523974816673350 |
-| Players | 18/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 08:26:06 |
+| Lobby ID | 28525770128041146 |
+| Players | 2/10 |
+| Host Name | MEGURU |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 18, 2023 09:07:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28523974819480791 |
-| Players | 3/15 |
-| Host Name | WasaBi |
+| Lobby ID | 28525770127811563 |
+| Players | 7/15 |
+| Host Name | MI PRIMERA CHAMBA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 18, 2023 09:06:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28525770124617701 |
+| Players | 10/24 |
+| Host Name | DY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 18, 2023 08:59:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28525770118292588 |
+| Players | 1/24 |
+| Host Name | ♛✪★ DrakoCaTT ❤★♛✪ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 17, 2023 08:33:08 |
+| Lobby Creation Time | Saturday, November 18, 2023 08:45:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28523974819184839 |
-| Players | 9/10 |
-| Host Name | Smail |
+| Lobby ID | 28525770128061465 |
+| Players | 7/10 |
+| Host Name | Carolina |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 17, 2023 08:32:22 |
+| Lobby Creation Time | Saturday, November 18, 2023 09:07:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28525770127923551 |
+| Players | 2/10 |
+| Host Name | Откройте пж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 18, 2023 09:06:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28523974819219037 |
-| Players | 20/24 |
-| Host Name | ConsiderDeath2 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 08:32:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28523974819308096 |
-| Players | 2/15 |
-| Host Name | KA LE |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 08:32:41 |
+| Lobby ID | 28525770127585425 |
+| Players | 12/24 |
+| Host Name | real human bean |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 18, 2023 09:06:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28523974819576493 |
-| Players | 2/8 |
-| Host Name | LesS |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 17, 2023 08:33:22 |
+| Lobby ID | 28525770127720593 |
+| Players | 6/8 |
+| Host Name | UNHOLY DE HELL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 18, 2023 09:06:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28525770128147707 |
+| Players | 1/15 |
+| Host Name | Robert J. Openheineken |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 18, 2023 09:07:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28525770128206630 |
+| Players | 4/8 |
+| Host Name | codebreaker |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 18, 2023 09:07:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28523974819260667 |
-| Players | 1/10 |
-| Host Name | Ah finally.. an exit~ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 17, 2023 08:32:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28523974819474789 |
-| Players | 1/10 |
-| Host Name | nooo |
+| Lobby ID | 28525770127110997 |
+| Players | 3/10 |
+| Host Name | Raiden Ei |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 08:33:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28523974819490615 |
-| Players | 1/10 |
-| Host Name | 3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 17, 2023 08:33:09 |
+| Lobby Creation Time | Saturday, November 18, 2023 09:05:04 |
 
 
