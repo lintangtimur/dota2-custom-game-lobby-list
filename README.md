@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122890099794 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | EL DIOS DEL CHESS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:28:44 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122890191390 |
 | Players | 2/10 |
-| Host Name | TEPUNTEO |
+| Host Name | æ Haku æ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:28:56 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122889774146 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | не могу выиграть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:27:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122889795918 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | -_^ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:28:01 |
@@ -49,19 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122889838711 |
-| Players | 7/8 |
-| Host Name | kid kadi |
+| Lobby ID | 28530122890652859 |
+| Players | 2/8 |
+| Host Name | Челены? Распробовал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:28:07 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:30:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122888511379 |
-| Players | 7/10 |
-| Host Name | jest dobroi voly |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:25:01 |
+| Lobby ID | 28530122890696690 |
+| Players | 3/8 |
+| Host Name | Gaara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:30:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122890649716 |
+| Players | 1/5 |
+| Host Name | Maestro Splinter |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:30:00 |
 
 
