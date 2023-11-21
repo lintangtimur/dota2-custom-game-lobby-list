@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122846814930 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | spd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:59:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122843996912 |
-| Players | 6/8 |
-| Host Name | VoDka-KimimarO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:53:58 |
+| Lobby ID | 28530122847122409 |
+| Players | 9/15 |
+| Host Name | Not Robin (Robin) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:59:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122844903753 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Verocia |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:55:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122846983649 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | bryzgi ponosa |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:59:27 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vlad III. Drăculea |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:59:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122847122409 |
-| Players | 4/15 |
-| Host Name | Not Robin (Robin) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:59:43 |
 
 
 |  | epic_boss_fight_nightmare |
