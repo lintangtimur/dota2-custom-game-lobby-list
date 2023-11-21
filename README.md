@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122115805971 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Dance |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:28:27 |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122111929722 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:19:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122114554744 |
-| Players | 8/10 |
-| Host Name | Moisés |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:25:38 |
+| Lobby ID | 28530122116239198 |
+| Players | 3/24 |
+| Host Name | Smoke weed every Day |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:29:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122114738990 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
+| Lobby ID | 28530122112763243 |
+| Players | 7/8 |
+| Host Name | Sad Clown((( |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:26:03 |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:21:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122112886679 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | AMOK ¯\_(ツ)_/¯ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:21:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122114534500 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 瀨嘢 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:25:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122114689565 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:25:56 |
