@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122864223017 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:32:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122855635905 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:16:03 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122862434330 |
-| Players | 2/10 |
-| Host Name | Su kachero de |
+| Players | 1/10 |
+| Host Name | †~Tatsuya~†giordota.com |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:29:27 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122863548303 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:31:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122862942068 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Verocia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:30:26 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:30:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122864311453 |
-| Players | 2/8 |
-| Host Name | ron罗尼 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:33:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122864326254 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MilQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:33:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122864367627 |
+| Players | 3/15 |
+| Host Name | Gungnir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:33:16 |
 
 
 |  | epic_boss_fight_nightmare |
