@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:18:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122782441261 |
-| Players | 23/24 |
-| Host Name | Miller |
+| Lobby ID | 28530122784769241 |
+| Players | 2/10 |
+| Host Name | MilQ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:19:06 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:22:15 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122782258515 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | SleepLess |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:18:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122784720641 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | [FufelZ]CreepStatMen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:22:11 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jest dobroi voly |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:20:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122784720978 |
-| Players | 1/5 |
-| Host Name | Glory to Ukraine |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:22:11 |
 
 
