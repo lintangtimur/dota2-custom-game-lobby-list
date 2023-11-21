@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122766363899 |
-| Players | 1/24 |
-| Host Name | cashel ziggy |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:57:45 |
+| Lobby ID | 28530122775520838 |
+| Players | 2/15 |
+| Host Name | Funky Bastard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:09:52 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122772088487 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | 타타형 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:05:18 |
@@ -74,11 +74,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:07:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122775446310 |
-| Players | 1/8 |
-| Host Name | slainsnail |
+| Lobby ID | 28530122775455854 |
+| Players | 11/15 |
+| Host Name | Soos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:09:47 |
 
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:02:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122775551120 |
-| Players | 1/15 |
-| Host Name | Sasha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:09:55 |
+| Lobby ID | 28530122775490589 |
+| Players | 4/8 |
+| Host Name | Krosher |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:09:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -144,42 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cypher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:09:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122772541695 |
-| Players | 23/24 |
-| Host Name | Rho AIas외로운 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:05:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122775455854 |
-| Players | 10/15 |
-| Host Name | Soos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:09:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122775490589 |
-| Players | 4/8 |
-| Host Name | Krosher |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:09:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122775520838 |
-| Players | 2/15 |
-| Host Name | Funky Bastard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:09:52 |
 
 
 |  | epic_boss_fight_hard |
