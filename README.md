@@ -29,33 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 14:11:52 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122135440406 |
-| Players | 16/24 |
-| Host Name | Theforehead |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:11:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122136219102 |
-| Players | 5/8 |
-| Host Name | HusnutDoterskii |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:12:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122136652506 |
-| Players | 1/15 |
-| Host Name | Paul Thomas Anderson |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:13:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122136739491 |
@@ -65,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 14:13:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122131961356 |
-| Players | 23/24 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:03:43 |
+| Lobby ID | 28530122136219102 |
+| Players | 6/8 |
+| Host Name | HusnutDoterskii |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:12:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122136199017 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:12:38 |
@@ -85,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122136806125 |
-| Players | 1/10 |
+| Lobby ID | 28530122137205030 |
+| Players | 2/10 |
 | Host Name | trance |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:13:52 |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:14:43 |
 
 
