@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122257639177 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Wiz [a] rd- |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:55:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122258693100 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:57:27 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122257488435 |
-| Players | 3/24 |
-| Host Name | Irif |
+| Players | 2/24 |
+| Host Name | m |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:55:40 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122260325729 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | ☯︎M多 BoY |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:59:51 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122260408928 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | вели |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:59:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122260942670 |
+| Players | 3/8 |
+| Host Name | пёс патрон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:00:45 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SpacePanda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:00:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122260521744 |
-| Players | 1/10 |
-| Host Name | John Cynar |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:00:08 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122260593707 |
-| Players | 1/7 |
-| Host Name | SOWA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:00:14 |
 
 
