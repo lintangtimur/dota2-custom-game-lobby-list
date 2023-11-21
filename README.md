@@ -13,47 +13,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122242235586 |
-| Players | 7/10 |
-| Host Name | Leave Live a Light on |
+| Lobby ID | 28530122243363853 |
+| Players | 3/10 |
+| Host Name | dead blonde |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:32:13 |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:34:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122242670654 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | opium bird🕊 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:32:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122242815726 |
-| Players | 4/8 |
-| Host Name | Luckyman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:33:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122243170494 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:33:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122243234744 |
-| Players | 3/8 |
-| Host Name | Djaminson bone |
+| Lobby ID | 28530122243465475 |
+| Players | 1/24 |
+| Host Name | CHUPE DE CONCHAS NEGRAS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:34:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122243536374 |
+| Players | 3/10 |
+| Host Name | Jameson Bond |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:33:49 |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:34:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122238577852 |
-| Players | 4/5 |
-| Host Name | UnspOken |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:26:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28530122243160749 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | djs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:33:42 |
