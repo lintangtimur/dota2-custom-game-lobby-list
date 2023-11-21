@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122322208221 |
-| Players | 3/8 |
-| Host Name | Papa Getto |
+| Lobby ID | 28530122322037813 |
+| Players | 2/8 |
+| Host Name | абезяна чичичи продавала кирпичи |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:18:09 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:17:57 |
 
 
 |  | ot3_desert_octet |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122320808956 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Phạm Ngọc Hân |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:16:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122321819257 |
-| Players | 14/15 |
-| Host Name | САСЬВА |
+| Lobby ID | 28530122322545151 |
+| Players | 3/10 |
+| Host Name | Tentek balaqai |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:17:43 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:18:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122320935827 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | pure codeine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:16:44 |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:10:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122322484051 |
+| Players | 9/15 |
+| Host Name | ’Mr . Big |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:18:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122322037813 |
-| Players | 2/8 |
-| Host Name | абезяна чичичи продавала кирпичи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:17:57 |
+| Lobby ID | 28530122322643561 |
+| Players | 6/8 |
+| Host Name | Raptorman26 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:18:38 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122322321370 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | TI CHE ALE ~AQQQQQQQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:18:16 |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122322380854 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 。。。。。。。。。 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:18:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122322488300 |
+| Players | 1/10 |
+| Host Name | bse4poli |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:18:28 |
 
 
