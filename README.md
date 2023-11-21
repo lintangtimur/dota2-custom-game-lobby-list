@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122279512264 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Amigo do Xuxa |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:26:31 |
@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122272286262 |
-| Players | 19/24 |
+| Players | 16/24 |
 | Host Name | m1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:16:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122280954424 |
-| Players | 13/15 |
-| Host Name | Rinald |
+| Lobby ID | 28530122282396248 |
+| Players | 6/8 |
+| Host Name | РАЗКАГИРОВАЛСЯ2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:28:26 |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:30:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122280232565 |
-| Players | 8/10 |
-| Host Name | -20 enjoyer |
+| Lobby ID | 28530122281711103 |
+| Players | 5/10 |
+| Host Name | Чувствую smooth criminal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:27:29 |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:29:26 |
 
 
 |  | ot3_gardens_duo |
@@ -47,31 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:29:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122280854503 |
-| Players | 19/24 |
-| Host Name | < blank > |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:28:18 |
+| Lobby ID | 28530122282593033 |
+| Players | 8/15 |
+| Host Name | toomanyman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:30:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122281557180 |
-| Players | 2/15 |
-| Host Name | Agentsmrt |
+| Players | 3/15 |
+| Host Name | YES |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:29:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122281711103 |
-| Players | 3/10 |
-| Host Name | Чувствую smooth criminal |
+| Lobby ID | 28530122282790998 |
+| Players | 1/15 |
+| Host Name | накурин) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:29:26 |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:30:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122282865895 |
+| Players | 3/8 |
+| Host Name | пёс патрон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:30:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deads |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:29:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122282727354 |
+| Players | 2/10 |
+| Host Name | Eijun |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:30:45 |
 
 
