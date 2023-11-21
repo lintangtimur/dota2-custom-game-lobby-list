@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:08:27 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122315881757 |
-| Players | 1/24 |
-| Host Name | Jerry |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:11:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122316191180 |
-| Players | 7/8 |
-| Host Name | batcat |
+| Lobby ID | 28530122316466965 |
+| Players | 4/8 |
+| Host Name | Кабан_Пумба) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:11:24 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:11:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122316944191 |
+| Players | 1/24 |
+| Host Name | NIKI |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:12:16 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:10:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122316777418 |
+| Players | 2/10 |
+| Host Name | ахуеный ник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:12:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122316772684 |
+| Players | 1/10 |
+| Host Name | Tiang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:12:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122316466965 |
-| Players | 4/8 |
-| Host Name | Кабан_Пумба) |
+| Lobby ID | 28530122316868299 |
+| Players | 2/8 |
+| Host Name | копчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:11:43 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:12:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:06:41 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122316615742 |
-| Players | 1/10 |
-| Host Name | 。。。。。。。。。 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:11:53 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122315752555 |
 | Players | 2/5 |
-| Host Name | бабулю не трогай |
+| Host Name | Волосатая Киска( |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:10:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122316836507 |
+| Players | 1/10 |
+| Host Name | 。。。。。。。。。 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:12:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122316916907 |
+| Players | 1/5 |
+| Host Name | クッパ姫私の嫁 |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:12:14 |
 
 
