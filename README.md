@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122190769118 |
-| Players | 10/15 |
-| Host Name | YurGe |
+| Lobby ID | 28530122192364468 |
+| Players | 2/10 |
+| Host Name | kindamental |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:01:09 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:04:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122191550416 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ДОЕДАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:02:36 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122192246312 |
-| Players | 1/24 |
-| Host Name | Salival |
+| Players | 2/24 |
+| Host Name | era |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:03:54 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122188331416 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mekus Mekus 143 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:56:32 |
