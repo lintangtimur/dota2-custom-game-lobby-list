@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530121987757728 |
-| Players | 7/10 |
-| Host Name | C-KAN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:42:25 |
+| Lobby ID | 28530121988618341 |
+| Players | 1/24 |
+| Host Name | Afterdark |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:44:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530018569423336 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | DrDisconnect |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 07:22:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530121964866170 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | RoaRking |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 07:51:46 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530121987572462 |
-| Players | 10/24 |
-| Host Name | NIX fury |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:41:58 |
+| Lobby ID | 28530121988662779 |
+| Players | 1/24 |
+| Host Name | dIngDong |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:44:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530121988225883 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | xdxdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:43:31 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 08:42:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530121987260323 |
-| Players | 6/8 |
-| Host Name | Tryhard |
+| Lobby ID | 28530121988319584 |
+| Players | 14/15 |
+| Host Name | numb the pain |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:41:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530121987566366 |
-| Players | 2/8 |
-| Host Name | Calla kchera |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:41:57 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:43:44 |
 
 
 |  | epic_boss_fight_nightmare |
