@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122268309427 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | YoBro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:11:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122270347855 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | червяк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:14:07 |
@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 17:55:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122269083918 |
-| Players | 8/10 |
-| Host Name | няшка) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:12:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122269963883 |
-| Players | 3/8 |
-| Host Name | Missing you happiness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:13:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122268878252 |
-| Players | 6/8 |
-| Host Name | ★ ραяα∂σχ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:12:05 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122269827193 |
@@ -76,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122270329332 |
-| Players | 1/8 |
-| Host Name | Sapaledi4 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:14:06 |
+| Lobby ID | 28530122269963883 |
+| Players | 7/8 |
+| Host Name | Missing you happiness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:13:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122269244156 |
-| Players | 8/10 |
-| Host Name | raru |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:12:36 |
+| Lobby ID | 28530122271180278 |
+| Players | 1/8 |
+| Host Name | AVO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:15:17 |
 
 
 |  | epic_boss_fight_challenger |
