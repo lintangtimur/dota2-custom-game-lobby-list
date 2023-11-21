@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122895372648 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | MenetiL- |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:41:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122895320673 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Єбать |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:41:06 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122894205473 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | CHACAL de misterio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:38:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122895458359 |
-| Players | 3/15 |
-| Host Name | Cänsërbërö |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:41:25 |
+| Lobby ID | 28530122893101425 |
+| Players | 6/10 |
+| Host Name | Pinto Bean |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:35:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122895453817 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | twitch.tv/newmaxs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:41:25 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122895542700 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Maté A Kenny |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:41:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122893101425 |
-| Players | 9/10 |
-| Host Name | Pinto Bean |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:35:48 |
 
 
 |  | epic_boss_fight_nightmare |
