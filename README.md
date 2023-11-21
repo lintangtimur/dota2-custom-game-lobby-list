@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122173483574 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Sayonara- SeeSaw |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:28:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122175516153 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | baldej |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:32:12 |
@@ -32,10 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122175118770 |
-| Players | 2/24 |
+| Players | 13/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:31:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122175640767 |
+| Players | 1/8 |
+| Host Name | DEM20111102 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:32:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122175645828 |
+| Players | 4/8 |
+| Host Name | waiting for death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:32:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122175917612 |
+| Players | 1/15 |
+| Host Name | raddan通 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:32:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -47,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:25:47 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122172673308 |
-| Players | 3/5 |
-| Host Name | беня |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:26:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122175376161 |
-| Players | 1/10 |
-| Host Name | Muhammad Sumbul |
+| Lobby ID | 28530122175632574 |
+| Players | 3/10 |
+| Host Name | looks stupid but works |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:31:56 |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:32:25 |
 
 
