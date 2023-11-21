@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122169191066 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:19:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122173157754 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:27:36 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122173576698 |
+| Lobby ID | 28530122173862933 |
 | Players | 1/15 |
 | Host Name | hiro |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:28:25 |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:28:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122173855267 |
+| Players | 2/15 |
+| Host Name | Спиди Гонзалес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:28:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122173025615 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | No Jam Hyung |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:27:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122174025236 |
+| Players | 1/5 |
+| Host Name | pake ko sayo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:29:18 |
 
 
