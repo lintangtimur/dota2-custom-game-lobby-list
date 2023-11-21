@@ -29,40 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 17:10:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122229191869 |
-| Players | 9/10 |
-| Host Name | ~Sqm |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:10:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122230522988 |
-| Players | 4/8 |
-| Host Name | Double exe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:12:54 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122228680029 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:09:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122230522988 |
+| Players | 5/8 |
+| Host Name | Double exe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:12:54 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122231150403 |
-| Players | 1/15 |
-| Host Name | CK |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:13:57 |
+| Lobby ID | 28530122231259043 |
+| Players | 12/15 |
+| Host Name | bust/debust v ls |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:14:08 |
 
 
 |  | epic_boss_fight_nightmare |
