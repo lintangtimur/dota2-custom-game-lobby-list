@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122880334626 |
-| Players | 8/15 |
-| Host Name | zzz |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:06:49 |
+| Lobby ID | 28530122880523112 |
+| Players | 4/10 |
+| Host Name | SDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:07:14 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122880875047 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Луз-Режусь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:08:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122880467205 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Calabreso |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:07:07 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122880875845 |
-| Players | 1/8 |
-| Host Name | Челены? Распробовал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:08:00 |
+| Lobby ID | 28530122881085996 |
+| Players | 2/8 |
+| Host Name | мыланус |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:08:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122881051587 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | typical tsundere |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:08:24 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122880854650 |
-| Players | 2/5 |
-| Host Name | БОТ Ники |
+| Players | 1/5 |
+| Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:07:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122881045786 |
-| Players | 1/5 |
+| Lobby ID | 28530122881072454 |
+| Players | 1/10 |
+| Host Name | Let them cook. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:08:26 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122881134976 |
+| Players | 1/7 |
 | Host Name | KING  CRIMSON |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:08:23 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:08:35 |
 
 
