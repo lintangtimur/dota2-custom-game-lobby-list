@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122120264779 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:38:20 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 13:40:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122126981080 |
-| Players | 1/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Lobby ID | 28530122126908256 |
+| Players | 1/8 |
+| Host Name | fd-god |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:52:53 |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:52:44 |
 
 
 |  | ot3_gardens_duo |
@@ -38,57 +38,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 13:52:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122125148369 |
-| Players | 12/15 |
-| Host Name | Puupen Farten |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:48:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122126756698 |
-| Players | 7/15 |
-| Host Name | Nunes |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:52:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122126519020 |
-| Players | 3/8 |
-| Host Name | бамбалейло куколд |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:51:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122126190363 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:51:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122127239005 |
+| Players | 1/15 |
+| Host Name | ЮраТеньЧернобыля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:53:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122126908256 |
-| Players | 1/8 |
-| Host Name | fd-god |
+| Lobby ID | 28530122126519020 |
+| Players | 6/8 |
+| Host Name | бамбалейло куколд |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:52:44 |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:51:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122125932201 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:50:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122127162946 |
+| Players | 2/10 |
+| Host Name | Гpигopий Гopoxocтpeл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:53:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122127296100 |
+| Players | 1/5 |
+| Host Name | _flamingo_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:53:35 |
 
 
