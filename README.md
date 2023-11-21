@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122425547548 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:57:05 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122426708853 |
-| Players | 10/15 |
-| Host Name | пт на сиськи! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:58:06 |
+| Lobby ID | 28530122427764945 |
+| Players | 1/15 |
+| Host Name | Splodge63 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:59:02 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122423333203 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:55:09 |
@@ -86,45 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122427115011 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | попа жопа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:58:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122427448591 |
-| Players | 1/15 |
-| Host Name | MechaNOX |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:58:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122427348623 |
+| Lobby ID | 28530122427611240 |
 | Players | 2/10 |
-| Host Name | LGD.jiangfong.naitougaming |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:58:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122427588462 |
-| Players | 1/10 |
-| Host Name | Kiyotaka Ayanokoji |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:58:53 |
+| Host Name | ☻ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:58:54 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122427555698 |
+| Lobby ID | 28530122427982236 |
 | Players | 1/5 |
-| Host Name | Silentfall |
+| Host Name | o_o!!! |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:58:51 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:59:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122427961781 |
+| Players | 2/5 |
+| Host Name | DJ KHALED |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:59:13 |
 
 
