@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122859316413 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | РУКОПАШНЫЙ СЕКС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:23:18 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122860030154 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Ha_Ku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:24:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122859476218 |
-| Players | 20/24 |
-| Host Name | учат играть на 5к |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:23:37 |
+| Lobby ID | 28530122859629101 |
+| Players | 6/8 |
+| Host Name | BROOKLYN |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:23:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122859751616 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:24:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122860148609 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 20th Century |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:24:56 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Verocia |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:26:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122859629101 |
-| Players | 6/8 |
-| Host Name | BROOKLYN |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:23:55 |
 
 
 |  | ot3_jungle_quintet |
