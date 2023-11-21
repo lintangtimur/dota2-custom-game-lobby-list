@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122851312272 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | MEMPHISCULT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:45 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122848419976 |
-| Players | 13/15 |
-| Host Name | сосал |
+| Lobby ID | 28530122851507989 |
+| Players | 3/8 |
+| Host Name | Gigachad |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:02:13 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:08:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122851152604 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:27 |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122851276506 |
-| Players | 6/8 |
-| Host Name | Prince |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:07:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122851430623 |
-| Players | 4/8 |
-| Host Name | Брюква |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:07:59 |
+| Lobby ID | 28530122850651112 |
+| Players | 9/10 |
+| Host Name | Ash |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:06:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122851201452 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | R Y U K O |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:32 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28530122851549012 |
+| Players | 2/7 |
+| Host Name | Солнышко |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:08:12 |
 
 
