@@ -2,46 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122876083225 |
-| Players | 6/24 |
-| Host Name | учат играть на 5к |
+| Lobby ID | 28530122877561976 |
+| Players | 1/8 |
+| Host Name | Vanya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:57:36 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:00:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122877288318 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | da |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:00:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122873070895 |
-| Players | 13/15 |
-| Host Name | HGTS |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:51:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122877210070 |
-| Players | 6/10 |
-| Host Name | не могу выиграть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:00:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122876485096 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:58:28 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122875306265 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | (DarGoS) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:55:56 |
