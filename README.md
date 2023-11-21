@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122168149794 |
-| Players | 4/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:17:45 |
+| Lobby ID | 28530122171648586 |
+| Players | 1/8 |
+| Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:24:40 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:23:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122170529706 |
-| Players | 14/15 |
-| Host Name | Fa1ry |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:22:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122171304998 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | aoek moment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:24:00 |
@@ -67,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122170405888 |
-| Players | 8/10 |
-| Host Name | ДревнийРус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:22:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28530122170749167 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Ako si Luffy tangina mo ka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:22:53 |
