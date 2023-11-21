@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 14:48:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122155770252 |
-| Players | 1/8 |
-| Host Name | 리이나 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:52:40 |
+| Lobby ID | 28530122156516339 |
+| Players | 9/15 |
+| Host Name | Unknown Pleasures |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:54:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122155795077 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:52:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122156659400 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Gamer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:54:28 |
@@ -67,24 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122156465318 |
-| Players | 8/10 |
-| Host Name | robot_papich |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:54:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122156516339 |
-| Players | 8/15 |
-| Host Name | Unknown Pleasures |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:54:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28530122156870273 |
 | Players | 2/10 |
 | Host Name | CANCELUL |
@@ -92,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 14:54:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122157412304 |
+| Players | 6/8 |
+| Host Name | TheSnottyMidget |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:55:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122157407045 |
+| Players | 1/8 |
+| Host Name | Colours |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:55:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122155925268 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | No Jam Hyung |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:52:59 |
