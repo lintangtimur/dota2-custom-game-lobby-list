@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122202770887 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Reinhardt |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:23:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122208290119 |
-| Players | 9/10 |
-| Host Name | ДУКАЛИС ЗАБИВНОЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:33:20 |
+| Lobby ID | 28530122209029833 |
+| Players | 13/15 |
+| Host Name | maybe good team |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:34:41 |
 
 
 |  | ot3_desert_octet |
@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122208904193 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ZxcUrsa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:34:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122208441975 |
-| Players | 14/15 |
-| Host Name | Матье Бал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:33:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122209029833 |
-| Players | 6/15 |
-| Host Name | maybe good team |
+| Lobby ID | 28530122209320221 |
+| Players | 1/8 |
+| Host Name | LoPiKtOlik |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:34:41 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:35:12 |
 
 
 |  | epic_boss_fight_challenger |
