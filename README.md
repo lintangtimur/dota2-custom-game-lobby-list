@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122821641798 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:15:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122833883925 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:36:08 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:39:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122837125068 |
-| Players | 13/15 |
-| Host Name | Ann B |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:41:44 |
+| Lobby ID | 28530122837102345 |
+| Players | 2/8 |
+| Host Name | Tinky Winky |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:41:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122836254305 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | NoName |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:40:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122836587687 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hopeツ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:40:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122836993775 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | SpliNteR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:41:31 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122837102345 |
-| Players | 1/8 |
-| Host Name | Tinky Winky |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:41:42 |
+| Lobby ID | 28530122837294363 |
+| Players | 2/8 |
+| Host Name | 111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:42:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122837363566 |
+| Players | 3/8 |
+| Host Name | Umicron_ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:42:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122837378145 |
+| Players | 5/15 |
+| Host Name | Lost Heart 💔 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:42:11 |
 
 
 |  | epic_boss_fight_nightmare |
