@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122202770887 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Sisa Missigs |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:23:12 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 16:24:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122204326217 |
-| Players | 9/10 |
-| Host Name | Dead Inside |
+| Lobby ID | 28530122204909769 |
+| Players | 7/8 |
+| Host Name | Бабах Бесланов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:26:03 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:27:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,29 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 16:26:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122204481754 |
-| Players | 1/15 |
-| Host Name | MR.CHIKI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:26:20 |
+| Lobby ID | 28530122205180196 |
+| Players | 3/10 |
+| Host Name | ВÂŖŠΪЌ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:27:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122204911091 |
-| Players | 2/15 |
-| Host Name | kk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:27:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122204909769 |
-| Players | 2/8 |
-| Host Name | Бабах Бесланов |
+| Players | 12/15 |
+| Host Name | Dude |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:27:07 |
 
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:25:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122205308051 |
+| Players | 1/10 |
+| Host Name | MIMA |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:27:51 |
 
 
