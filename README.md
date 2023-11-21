@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122821641798 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:15:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122837932979 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Луз-Режусь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:43:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122838076632 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | ЛАДОШКИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:43:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122836587687 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Hopeツ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:40:48 |
@@ -65,29 +65,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:43:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122835779588 |
-| Players | 9/10 |
-| Host Name | Murdoc |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:39:24 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122838432356 |
+| Lobby ID | 28530122838533585 |
 | Players | 4/8 |
-| Host Name | Parsifal |
+| Host Name | saneking mentality |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:44:01 |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:44:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122838468658 |
 | Players | 1/24 |
-| Host Name | EL CARRY POTTER |
+| Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:44:05 |
 
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122834600539 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:37:21 |
