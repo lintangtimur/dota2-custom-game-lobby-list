@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122303125614 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Asar1x6 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:56:05 |
@@ -23,34 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122305220555 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:58:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122302379046 |
-| Players | 20/24 |
-| Host Name | Tamiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:55:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122305441856 |
-| Players | 4/8 |
-| Host Name | PVPR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:58:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122305136789 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | rguy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:58:29 |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HighOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:58:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122305877782 |
+| Players | 2/24 |
+| Host Name | Say my name |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:59:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | patzora eimai o mpampas sou |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:56:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122303154682 |
+| Players | 8/10 |
+| Host Name | SnowFire |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:56:07 |
 
 
