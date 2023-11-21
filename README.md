@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122197543382 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:13:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122199205609 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Лиза на аве |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:16:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122199775215 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:17:42 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ω.SiggyIzz.フリッツ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:16:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122200463395 |
-| Players | 1/5 |
-| Host Name | Yandere Lord |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:18:58 |
 
 
