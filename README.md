@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122362946639 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Keep Silent^ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:00:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122363438709 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Злата самосвал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:00:34 |
@@ -83,33 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:55:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122363199550 |
-| Players | 8/15 |
-| Host Name | Окун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:00:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122363466093 |
-| Players | 1/8 |
-| Host Name | Лавандовый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:00:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122363558770 |
-| Players | 2/10 |
-| Host Name | Drainedgod |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:00:40 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122363584076 |
@@ -119,39 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:00:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122361786118 |
-| Players | 14/15 |
-| Host Name | lmtys |
+| Lobby ID | 28530122363558770 |
+| Players | 4/10 |
+| Host Name | Drainedgod |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:58:59 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:00:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122364167904 |
+| Players | 4/8 |
+| Host Name | фанат спирит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:01:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122363130338 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:00:16 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122361438662 |
-| Players | 9/10 |
-| Host Name | FREEZE* |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:58:39 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122363793915 |
-| Players | 1/5 |
-| Host Name | ****** |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:00:54 |
+| Lobby ID | 28530122364230015 |
+| Players | 4/5 |
+| Host Name | yAzee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:01:19 |
 
 
