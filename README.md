@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122851568029 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | xd. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:08:15 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:06:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122851140650 |
-| Players | 13/15 |
-| Host Name | UR'SUS |
+| Lobby ID | 28530122851919462 |
+| Players | 5/10 |
+| Host Name | gay-mer_Daniel |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:07:26 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:08:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122851152604 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122851919462 |
-| Players | 3/10 |
-| Host Name | gay-mer_Daniel |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:08:55 |
 
 
 |  | epic_boss_fight_nightmare |
