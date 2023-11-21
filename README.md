@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530121995061338 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Dron |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:59:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530121994246933 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Kurokawa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:57:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530121964866170 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 07:51:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530121995269414 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Maple |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 09:00:20 |
@@ -56,39 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 08:57:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530121995178335 |
-| Players | 4/10 |
-| Host Name | katar |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 09:00:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530121995200115 |
-| Players | 12/15 |
-| Host Name | ITS_SHOWTIME |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 09:00:10 |
+| Lobby ID | 28530121995670087 |
+| Players | 2/15 |
+| Host Name | 3  ositos |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:01:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530121995217775 |
-| Players | 9/10 |
-| Host Name | adriwazaxd |
+| Lobby ID | 28530121995662550 |
+| Players | 6/10 |
+| Host Name | Chiquitin Medalles |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 09:00:12 |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:01:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530121994110075 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Soljaster |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:57:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530121995787504 |
+| Players | 1/10 |
+| Host Name | I SEE YOU!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:01:37 |
 
 
