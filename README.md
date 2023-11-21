@@ -2,174 +2,111 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28525772977426960 |
-| Players | 6/24 |
-| Host Name | ♥Tocoshly♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 20, 2023 19:55:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28525772269447784 |
-| Players | 10/15 |
-| Host Name | я люблю Машу |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 20, 2023 00:39:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28525772250804472 |
-| Players | 1/8 |
-| Host Name | Shrek |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 20, 2023 00:22:23 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28525773010432531 |
-| Players | 8/10 |
-| Host Name | ɨʍʍօʀȶǟʟ |
+| Lobby ID | 28530121978483229 |
+| Players | 9/10 |
+| Host Name | SOS[I] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 20, 2023 20:22:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28525773000297527 |
-| Players | 1/10 |
-| Host Name | Kael |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 20, 2023 20:14:26 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:20:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28525772926348702 |
+| Lobby ID | 28530018552145400 |
 | Players | 1/15 |
-| Host Name | FriedSprite |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 20, 2023 19:07:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28525773009175910 |
-| Players | 11/15 |
-| Host Name | Mèo Hồng |
+| Host Name | PND.Wilarson |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 20, 2023 20:21:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28525773010539140 |
-| Players | 7/15 |
-| Host Name | godrick the golden |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 20, 2023 20:22:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28525773010641173 |
-| Players | 2/8 |
-| Host Name | Matye Bal |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 20, 2023 20:22:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28525772994841892 |
-| Players | 2/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 20, 2023 20:10:01 |
+| Lobby Creation Time | Tuesday, November 21, 2023 06:44:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28525773010650873 |
-| Players | 1/24 |
-| Host Name | Yuki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 20, 2023 20:22:48 |
+| Lobby ID | 28530018569423336 |
+| Players | 6/24 |
+| Host Name | DrDisconnect |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 07:22:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28525773008789316 |
-| Players | 1/10 |
-| Host Name | Larry Capija |
+| Lobby ID | 28530121964866170 |
+| Players | 14/24 |
+| Host Name | RoaRking |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 07:51:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530121979475883 |
+| Players | 3/8 |
+| Host Name | unicornparadise |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:22:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530121979020732 |
+| Players | 5/15 |
+| Host Name | Babu Santana |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:21:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530121979014763 |
+| Players | 10/24 |
+| Host Name | Mr. HDHQ |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 20, 2023 20:21:18 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:21:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28525773002052569 |
-| Players | 5/10 |
-| Host Name | Сквиртуоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 20, 2023 20:15:52 |
+| Lobby ID | 28530121979176855 |
+| Players | 4/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:22:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28525773011125895 |
-| Players | 1/10 |
-| Host Name | wersus absolut??? |
+| Lobby ID | 28530121979139633 |
+| Players | 3/15 |
+| Host Name | PMA | LaiLai or Die |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 20, 2023 20:23:11 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:22:02 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28525772989661790 |
-| Players | 4/7 |
-| Host Name | KingBoB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 20, 2023 20:05:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28525773004164445 |
-| Players | 6/10 |
-| Host Name | Hatred |
+| Lobby ID | 28530121979725401 |
+| Players | 2/15 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 20, 2023 20:17:35 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:23:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530121979750371 |
+| Players | 1/8 |
+| Host Name | corx |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:23:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28525773009021115 |
-| Players | 1/10 |
-| Host Name | Arigato2u |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 20, 2023 20:21:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28525773008017797 |
-| Players | 5/10 |
-| Host Name | Hello |
+| Lobby ID | 28530121978786818 |
+| Players | 2/10 |
+| Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 20, 2023 20:20:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28525773011042734 |
-| Players | 1/5 |
-| Host Name | / |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 20, 2023 20:23:07 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:21:18 |
 
 
