@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122833084948 |
-| Players | 7/8 |
-| Host Name | 疲れた神 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:34:46 |
+| Lobby ID | 28530122833808004 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:36:00 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:35:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122833487388 |
-| Players | 8/10 |
-| Host Name | JoJogan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:35:27 |
+| Lobby ID | 28530122833879305 |
+| Players | 3/15 |
+| Host Name | KICK MADARACHYO |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:36:07 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122833180597 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | alpaco |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:34:56 |
@@ -67,38 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122833218290 |
-| Players | 14/15 |
-| Host Name | MavDrac |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:35:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122833353510 |
-| Players | 2/10 |
-| Host Name | bigger thën everything |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:35:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28530122833383928 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Sitru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:35:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122833808004 |
-| Players | 1/8 |
-| Host Name | BigKing Assault Mode |
+| Lobby ID | 28530122833883925 |
+| Players | 2/24 |
+| Host Name | SeT |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:36:00 |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:36:08 |
 
 
 |  | epic_boss_fight_nightmare |
