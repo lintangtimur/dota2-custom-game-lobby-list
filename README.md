@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122856134621 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Глубокослав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:17:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122855627418 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | TikiTiki a la Pantalla :V |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:16:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122856452697 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | G_G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:17:39 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:16:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122856326364 |
-| Players | 1/8 |
-| Host Name | (-_-)乂0_0乂 |
+| Lobby ID | 28530122856675268 |
+| Players | 3/10 |
+| Host Name | GyL < |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:17:24 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:18:05 |
 
 
 |  | ot3_desert_octet |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122855906887 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Stunodevoli |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:16:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122856308778 |
-| Players | 7/8 |
-| Host Name | ★∣ GOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:17:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122856675268 |
-| Players | 3/10 |
-| Host Name | GyL < |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:18:05 |
 
 
 |  | ot3_gardens_duo |
