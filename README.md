@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122793864238 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Yedolf Westler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:34:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122793959100 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | похуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:34:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122793612205 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Anal♣Abyss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:34:28 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122792833899 |
+| Lobby ID | 28530122794031222 |
 | Players | 2/8 |
-| Host Name | Время подумать |
+| Host Name | Vitrex1111 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:35:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122794153200 |
+| Players | 6/10 |
+| Host Name | Harkeu Kamui |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:33:22 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:35:14 |
 
 
 |  | epic_boss_fight_nightmare |
