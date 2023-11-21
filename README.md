@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122224229984 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:01:52 |
@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 17:16:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122228680029 |
-| Players | 19/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:09:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122232480066 |
-| Players | 11/15 |
-| Host Name | 大大大Allah Ak Bar大大大 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:16:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122232490202 |
@@ -54,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Pollo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:16:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122232480066 |
+| Players | 14/15 |
+| Host Name | 大大大Allah Ak Bar大大大 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:16:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122233057273 |
+| Players | 1/24 |
+| Host Name | 不和小人一般见识 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 17:11:53 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28530122231597499 |
-| Players | 9/10 |
-| Host Name | Whiteney |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:14:43 |
+| Lobby ID | 28530122232934744 |
+| Players | 2/7 |
+| Host Name | Кайрат Еичи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:16:58 |
 
 
 |  | epic_boss_fight_normal |
