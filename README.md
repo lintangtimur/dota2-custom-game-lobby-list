@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122873070895 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | HGTS |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:51:10 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122876126365 |
-| Players | 9/10 |
-| Host Name | Saul Goodman |
+| Lobby ID | 28530122877210070 |
+| Players | 2/10 |
+| Host Name | не могу выиграть |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:57:41 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:00:02 |
 
 
 |  | ot3_desert_octet |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122876083225 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | учат играть на 5к |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:57:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122877179452 |
+| Players | 2/10 |
+| Host Name | Balagur |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:59:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:59:39 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122877164366 |
-| Players | 1/7 |
-| Host Name |  |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:59:55 |
 
 
