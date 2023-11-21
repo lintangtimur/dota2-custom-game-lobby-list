@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122007617137 |
-| Players | 9/10 |
-| Host Name | Yamil :D |
+| Lobby ID | 28530122008094257 |
+| Players | 16/24 |
+| Host Name | ◥꧁དℭ℟Åℤ¥༒₭Ï |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 09:25:20 |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:26:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122008034122 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | NothingsBr |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 21, 2023 09:26:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122007178845 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | vicjug |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 09:24:25 |
@@ -38,28 +38,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 07:51:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122008094257 |
-| Players | 5/24 |
-| Host Name | ◥꧁དℭ℟Åℤ¥༒₭Ï |
+| Lobby ID | 28530122008627718 |
+| Players | 4/8 |
+| Host Name | BROOKLYN |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 09:26:18 |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:27:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122008387630 |
-| Players | 1/24 |
-| Host Name | ミク ♪ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 09:26:55 |
+| Lobby ID | 28530122008627702 |
+| Players | 5/8 |
+| Host Name | dowerk |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:27:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122008785981 |
+| Players | 1/10 |
+| Host Name | $CashMoneyMoleMan$ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:27:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122003812434 |
+| Players | 6/8 |
+| Host Name | El Gotto Cuba |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 21, 2023 09:17:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122008138316 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Eijun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 09:26:24 |
