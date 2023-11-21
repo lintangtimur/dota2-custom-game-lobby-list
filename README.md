@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122224229984 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:01:52 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122227929256 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Drake Ramoray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:08:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122227181277 |
-| Players | 9/10 |
-| Host Name | mguu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:07:02 |
+| Lobby ID | 28530122227693592 |
+| Players | 1/8 |
+| Host Name | Kairos.Sushi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:07:56 |
 
 
 |  | ot3_gardens_duo |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122226867240 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:06:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122227693592 |
-| Players | 1/8 |
-| Host Name | Kairos.Sushi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:07:56 |
+| Lobby ID | 28530122228169291 |
+| Players | 5/15 |
+| Host Name | Rambolio |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:08:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122226645758 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Eddie.Lin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:06:07 |
