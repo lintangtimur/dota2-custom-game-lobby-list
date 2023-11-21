@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530121978483229 |
-| Players | 9/10 |
-| Host Name | SOS[I] |
+| Lobby ID | 28530121979725401 |
+| Players | 3/15 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:20:37 |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:23:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530018569423336 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | DrDisconnect |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 07:22:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530121979014763 |
-| Players | 10/24 |
+| Players | 19/24 |
 | Host Name | Mr. HDHQ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:21:46 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530121979139633 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | PMA | LaiLai or Die |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:22:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530121979725401 |
-| Players | 2/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:23:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530121979750371 |
-| Players | 1/8 |
-| Host Name | corx |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 08:23:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 08:21:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530121979833811 |
+| Players | 1/5 |
+| Host Name | OnceAndFutureAlice |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 08:23:36 |
 
 
