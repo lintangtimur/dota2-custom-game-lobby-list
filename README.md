@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122214362965 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:44:26 |
@@ -23,19 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122202770887 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | nyems reid |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:23:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122215989748 |
+| Players | 10/15 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:47:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122215399290 |
-| Players | 7/8 |
-| Host Name | kvch |
+| Lobby ID | 28530122216147330 |
+| Players | 1/8 |
+| Host Name | Kairos.Sushi |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:47:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122216201333 |
+| Players | 4/10 |
+| Host Name | CrazyWolf |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:46:18 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:47:44 |
 
 
 |  | epic_boss_fight_challenger |
@@ -60,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122214554007 |
 | Players | 2/10 |
-| Host Name | rbg |
+| Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:44:47 |
 
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | {SoA}Fantom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:46:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122215916583 |
-| Players | 3/10 |
-| Host Name | kait |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:47:14 |
 
 
