@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122804142163 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:49:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122805190215 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Greg |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:51:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122805346089 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | хеллоу мир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:51:18 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122805802945 |
-| Players | 1/8 |
+| Lobby ID | 28530122805947753 |
+| Players | 4/8 |
 | Host Name | naswuai崩壊 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:51:57 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:52:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122803182430 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ezmurf |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:48:11 |
