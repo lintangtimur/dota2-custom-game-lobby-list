@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122403779867 |
-| Players | 1/8 |
-| Host Name | Feelingpeace’s |
+| Players | 4/8 |
+| Host Name | Dino Spumoni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:37:43 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122393906654 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:28:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122372968006 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:09:29 |
@@ -74,28 +74,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:34:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122403462301 |
-| Players | 7/10 |
-| Host Name | gokirus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:37:26 |
+| Lobby ID | 28530122404224955 |
+| Players | 1/24 |
+| Host Name | ᴉɐɹ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:38:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122403902356 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Sanguinius |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:37:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122403462301 |
+| Players | 9/10 |
+| Host Name | gokirus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:37:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122404297984 |
+| Players | 5/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:38:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122404321639 |
+| Players | 4/8 |
+| Host Name | Andestr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:38:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122404380098 |
+| Players | 2/15 |
+| Host Name | 月下 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:38:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122402440904 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:36:31 |
