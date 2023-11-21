@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122248660254 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | xooos ☛☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:42:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122251028194 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | Kawazaki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:45:58 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 私を殺して |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:45:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122247410653 |
+| Players | 14/15 |
+| Host Name | twitch.tv/lone_strider |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:40:25 |
 
 
 |  | epic_boss_fight_challenger |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Whiteney |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:43:32 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122251164761 |
+| Players | 1/7 |
+| Host Name | II |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:46:11 |
 
 
