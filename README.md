@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122169899712 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:21:13 |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:23:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122168149794 |
-| Players | 7/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:17:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122171794129 |
-| Players | 13/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:24:57 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122172225955 |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ako si Luffy tangina mo ka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:22:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122172408103 |
+| Players | 2/5 |
+| Host Name | Wxxdcttr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:26:09 |
 
 
