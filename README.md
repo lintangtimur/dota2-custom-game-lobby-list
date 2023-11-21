@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122718719380 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Dark[O]ne |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:59:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122717998135 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:58:16 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122719316662 |
-| Players | 1/15 |
-| Host Name | Keal Kneegus |
+| Lobby ID | 28530122719505430 |
+| Players | 5/15 |
+| Host Name | I'm just happy boi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 01:59:51 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:00:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122719450434 |
-| Players | 3/8 |
-| Host Name | ZXC ABSOLUTE |
+| Lobby ID | 28530122719433493 |
+| Players | 4/10 |
+| Host Name | димass |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:00:00 |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:59:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122719430887 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | .KarmA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:59:59 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122719433493 |
-| Players | 2/10 |
-| Host Name | димass |
+| Lobby ID | 28530122719588461 |
+| Players | 6/10 |
+| Host Name | Illusion |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:00:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122716406730 |
+| Players | 11/15 |
+| Host Name | Агент габена |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 01:59:59 |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:56:21 |
 
 
 |  | epic_boss_fight_normal |
