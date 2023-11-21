@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122413794830 |
-| Players | 2/8 |
-| Host Name | bingleng |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:46:44 |
+| Lobby ID | 28530122413921807 |
+| Players | 4/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:46:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122409378932 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Xiao BB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:42:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122413230228 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | Пролетариат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:46:14 |
@@ -76,17 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122413921807 |
-| Players | 2/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:46:51 |
+| Lobby ID | 28530122414367471 |
+| Players | 1/24 |
+| Host Name | Rexxar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122414431210 |
+| Players | 2/8 |
+| Host Name | life is lost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122414448193 |
+| Players | 2/15 |
+| Host Name | 月下 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122410111443 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Akaza |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:43:26 |
@@ -95,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122411750548 |
-| Players | 4/10 |
-| Host Name | SEvodichroi |
+| Players | 2/10 |
+| Host Name | The Four Legs |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:44:53 |
 
