@@ -4,29 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122195249148 |
-| Players | 7/10 |
-| Host Name | Balagur |
+| Lobby ID | 28530122196020507 |
+| Players | 2/10 |
+| Host Name | Jon Pall Sigmarsson |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:09:25 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:10:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122193140664 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | zenzy |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:05:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122195602680 |
-| Players | 1/24 |
-| Host Name | Хaoсит  Untimely |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:10:04 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 16:03:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122194800047 |
-| Players | 14/15 |
-| Host Name | Я не Гритос |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:08:35 |
+| Lobby ID | 28530122195944830 |
+| Players | 2/8 |
+| Host Name | Ky6ukHy6uk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:10:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122194956319 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Butterfly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:08:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122195655698 |
-| Players | 1/5 |
-| Host Name | ZEFIRKA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:10:10 |
 
 
