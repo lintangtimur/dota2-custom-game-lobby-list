@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122695236468 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Чимис - YT |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:31:31 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122692433336 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:28:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122688447302 |
-| Players | 13/15 |
-| Host Name | Tzzzz |
+| Lobby ID | 28530122695865008 |
+| Players | 1/24 |
+| Host Name | -_^ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 01:23:45 |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:32:14 |
 
 
 |  | ot3_gardens_duo |
@@ -68,37 +68,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122694714160 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Curivo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:30:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122695273603 |
-| Players | 11/15 |
-| Host Name | zxcBodyan777 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 01:31:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122695394864 |
-| Players | 7/10 |
-| Host Name | JoJogan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 01:31:42 |
+| Lobby ID | 28530122695834423 |
+| Players | 5/10 |
+| Host Name | bUBu |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:32:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122691854418 |
+| Players | 12/15 |
+| Host Name | .................. |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:27:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122695488787 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fair*Play |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:31:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122695698071 |
+| Players | 1/10 |
+| Host Name | eglute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:32:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122696019051 |
+| Players | 2/8 |
+| Host Name | ZITRACKS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 01:32:24 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122694611650 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | hand1made |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:30:48 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28530122695667608 |
-| Players | 1/7 |
-| Host Name | Drink Dota Play Vodka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 01:32:01 |
 
 
