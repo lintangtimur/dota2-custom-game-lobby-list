@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122382170425 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ☠︎☠︎☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:17:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122383128084 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | мастер деная слав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:18:47 |
@@ -65,30 +65,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:21:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122387009759 |
-| Players | 2/5 |
-| Host Name | Abandoned |
+| Lobby ID | 28530122387132292 |
+| Players | 1/8 |
+| Host Name | Я ПАНК! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122387164146 |
+| Players | 1/8 |
+| Host Name | Damaroo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:22:21 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122387252577 |
+| Players | 2/8 |
+| Host Name | Говночуп(Мазно) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122387374485 |
+| Players | 2/10 |
+| Host Name | 1monthbusiness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122387565178 |
+| Players | 5/15 |
+| Host Name | я не играю в доту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122385603222 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:21:04 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122386571137 |
-| Players | 1/7 |
-| Host Name | Marshal Moon |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:21:57 |
+| Lobby ID | 28530122387635483 |
+| Players | 1/5 |
+| Host Name | -_-Не11р-Ме-_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:56 |
 
 
