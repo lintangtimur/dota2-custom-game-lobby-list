@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122216201333 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CrazyWolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:47:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122216147330 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Kairos.Sushi |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:47:38 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122216526828 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | MavDrac |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:48:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122216530117 |
-| Players | 1/15 |
-| Host Name | я не люблю холодец |
+| Lobby ID | 28530122216835254 |
+| Players | 1/8 |
+| Host Name | Ideality |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:48:19 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:48:53 |
 
 
 |  | epic_boss_fight_challenger |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122215305302 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | {SoA}Fantom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:46:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122214554007 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:44:47 |
