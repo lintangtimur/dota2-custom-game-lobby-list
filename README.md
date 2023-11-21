@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122302801706 |
 | Players | 2/15 |
-| Host Name | ’Mr . Big |
+| Host Name | Sepultura |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:55:42 |
 
@@ -14,34 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122300496544 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Rododendron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:52:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122302164626 |
-| Players | 1/24 |
-| Host Name | overflow |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:54:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122299080860 |
-| Players | 9/10 |
-| Host Name | GeneralJa'far |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:51:15 |
+| Lobby ID | 28530122303125614 |
+| Players | 4/8 |
+| Host Name | Ranchodas shmaldas chanchad |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:56:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122302379046 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Tamiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:55:12 |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 。。。。。。。。。 |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:53:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122303154682 |
+| Players | 1/10 |
+| Host Name | SnowFire |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:56:07 |
 
 
