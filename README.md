@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122801780531 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | SoulKing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:46:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122801937885 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | CraVb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:46:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122797383044 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:39:49 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:46:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122801070262 |
-| Players | 8/15 |
-| Host Name | Darth Dafty |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:45:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122802301066 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | OsoPanda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:46:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122802389351 |
+| Players | 2/15 |
+| Host Name | никита |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:47:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ezmurf |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:46:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122802370815 |
+| Players | 1/10 |
+| Host Name | MyriPlay |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:47:01 |
 
 
