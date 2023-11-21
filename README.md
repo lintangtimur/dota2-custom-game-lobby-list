@@ -4,38 +4,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122167709967 |
-| Players | 4/8 |
-| Host Name | Nhe4 |
+| Lobby ID | 28530122168677991 |
+| Players | 3/8 |
+| Host Name | Eleum Loyce |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:16:53 |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:18:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122167024242 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:15:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122159844595 |
-| Players | 1/24 |
-| Host Name | 盛世美颜蔡徐坤 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:01:00 |
+| Lobby ID | 28530122168225559 |
+| Players | 3/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:17:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122168149794 |
-| Players | 3/8 |
-| Host Name | Dereck Zoolander. |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:17:45 |
+| Lobby ID | 28530122168375654 |
+| Players | 1/15 |
+| Host Name | Anime girl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:18:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -54,23 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:11:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122166969287 |
-| Players | 5/10 |
-| Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:15:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122167622637 |
-| Players | 1/5 |
-| Host Name | Arthander |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:16:43 |
 
 
