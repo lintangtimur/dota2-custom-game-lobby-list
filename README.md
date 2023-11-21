@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122516077517 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Дауби Даубиев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:17:25 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122520938206 |
-| Players | 2/15 |
-| Host Name | Kenny |
+| Players | 3/15 |
+| Host Name | Пенное АУЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:22:03 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122520427714 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | MERCURY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:21:34 |
@@ -65,10 +65,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:22:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122521013702 |
+| Players | 1/15 |
+| Host Name | Mike¼- |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:22:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122521013641 |
+| Players | 1/24 |
+| Host Name | Remina  「  Hellstar  」 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:22:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122521025776 |
+| Players | 1/8 |
+| Host Name | NotTryHard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:22:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122521121654 |
+| Players | 1/8 |
+| Host Name | Shooting Star |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:22:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122518597705 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:19:49 |
