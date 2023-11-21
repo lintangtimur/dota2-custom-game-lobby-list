@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122724213319 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Flare★ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:05:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122726033440 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Devil Eyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:07:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122714645157 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Rin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 01:54:14 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 02:04:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122725124334 |
-| Players | 9/10 |
-| Host Name | eglute |
+| Lobby ID | 28530122726140631 |
+| Players | 1/15 |
+| Host Name | Mouches Volantes |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:07:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122726398850 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:06:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122725645296 |
-| Players | 8/10 |
-| Host Name | Aeasor |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:07:19 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:08:13 |
 
 
 |  | ot3_desert_octet |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122726101301 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | chmo ebanoe# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:07:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122726116988 |
-| Players | 1/8 |
-| Host Name | Krosher |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:07:53 |
 
 
 |  | epic_boss_fight_nightmare |
