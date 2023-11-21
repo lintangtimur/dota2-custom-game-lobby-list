@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122169899712 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:21:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122173157754 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:27:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122171222966 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Theforehead |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:23:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122173067178 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | 21 ravage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:27:26 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122173483574 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | I'm Ana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:28:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122173576698 |
+| Players | 1/15 |
+| Host Name | hiro |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:28:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No Jam Hyung |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:27:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122173448532 |
-| Players | 1/5 |
-| Host Name | Бензол |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:28:10 |
 
 
