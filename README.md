@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122382170425 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ☠︎☠︎☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:17:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122386351787 |
-| Players | 1/15 |
-| Host Name | Isiah |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:21:45 |
+| Lobby ID | 28530122383128084 |
+| Players | 2/10 |
+| Host Name | мастер деная слав |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:18:47 |
 
 
 |  | ot3_desert_octet |
@@ -49,37 +49,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122386216758 |
-| Players | 5/10 |
-| Host Name | ЧудесаNa'viражах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:21:38 |
+| Lobby ID | 28530122386904100 |
+| Players | 1/10 |
+| Host Name | Смотрите кирпич |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122386573519 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | biacat0 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:21:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122383037998 |
-| Players | 9/10 |
-| Host Name | Биджонатор |
+| Lobby ID | 28530122387009759 |
+| Players | 2/5 |
+| Host Name | Abandoned |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:18:42 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:22:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122385603222 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:21:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122386571137 |
+| Players | 1/7 |
+| Host Name | Marshal Moon |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:21:57 |
 
 
