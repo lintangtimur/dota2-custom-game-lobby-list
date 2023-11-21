@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:39:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122187755423 |
-| Players | 5/8 |
-| Host Name | Th0rflnn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:55:27 |
+| Lobby ID | 28530122188673102 |
+| Players | 8/15 |
+| Host Name | Grizzlyattack |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:57:11 |
 
 
 |  | ot3_desert_octet |
@@ -47,37 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:55:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122188673102 |
-| Players | 1/15 |
-| Host Name | Grizzlyattack |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:57:11 |
+| Lobby ID | 28530122188941802 |
+| Players | 1/10 |
+| Host Name | 346515 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:57:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122186435654 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | OXOTHuK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:52:56 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122187762359 |
-| Players | 2/5 |
-| Host Name | ГОГЛЕ ДРУГ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:55:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122188331416 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mekus Mekus 143 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:56:32 |
