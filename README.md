@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122755312386 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:43:26 |
@@ -23,37 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122760105097 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Tetsu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:49:37 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122761572928 |
+| Players | 9/10 |
+| Host Name | AgReSSiF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:51:31 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122761355452 |
-| Players | 9/15 |
-| Host Name | мусор |
+| Lobby ID | 28530122762189211 |
+| Players | 3/15 |
+| Host Name | Принц-паук |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:51:14 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:52:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122761858061 |
-| Players | 2/15 |
-| Host Name | 4✧*& |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:51:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122761699403 |
-| Players | 3/24 |
-| Host Name | саша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:51:40 |
+| Lobby ID | 28530122762018499 |
+| Players | 5/8 |
+| Host Name | gpk prime |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:52:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122761572928 |
-| Players | 6/10 |
-| Host Name | AgReSSiF |
+| Lobby ID | 28530122762200232 |
+| Players | 2/10 |
+| Host Name | Chico divertido |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:51:31 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:52:19 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28530122760376074 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:49:58 |
