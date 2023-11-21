@@ -23,46 +23,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122202770887 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | nyems reid |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:23:12 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122214433243 |
-| Players | 1/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:44:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122215170662 |
-| Players | 1/8 |
-| Host Name | coffinfeeder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:45:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122215202575 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | KaYaBa AkIhIkO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:45:57 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122215340908 |
+| Players | 1/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:46:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122215214716 |
+| Lobby ID | 28530122215282042 |
 | Players | 1/15 |
-| Host Name | (* ￣3)(ε￣ *) |
+| Host Name | Velkin |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:45:58 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:46:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122215399290 |
+| Players | 2/8 |
+| Host Name | coffinfeeder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:46:18 |
 
 
 |  | epic_boss_fight_challenger |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:44:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122215305302 |
+| Players | 1/5 |
+| Host Name | {SoA}Fantom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:46:08 |
 
 
