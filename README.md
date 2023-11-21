@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 13:13:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122115805971 |
-| Players | 5/8 |
-| Host Name | Dance |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:28:27 |
+| Lobby ID | 28530122116239198 |
+| Players | 5/24 |
+| Host Name | minmin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:29:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,38 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122116239198 |
-| Players | 3/24 |
-| Host Name | Smoke weed every Day |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:29:24 |
+| Lobby ID | 28530122116855319 |
+| Players | 1/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:30:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122112763243 |
-| Players | 7/8 |
-| Host Name | Sad Clown((( |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:21:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122112886679 |
-| Players | 13/15 |
-| Host Name | AMOK ¯\_(ツ)_/¯ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:21:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122114534500 |
-| Players | 19/24 |
-| Host Name | 瀨嘢 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:25:36 |
+| Lobby ID | 28530122116907098 |
+| Players | 2/8 |
+| Host Name | никс ассаса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:30:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 13:18:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122114689565 |
-| Players | 9/10 |
-| Host Name | Danh hài Vân Sơn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:25:56 |
+| Lobby ID | 28530122116537724 |
+| Players | 1/5 |
+| Host Name | 1000-6 #bloodrust |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:30:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122115100396 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dysfun |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:26:51 |
