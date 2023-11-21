@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122887085545 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | DrDisconnect |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:21:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122886561990 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:20:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122889126279 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DoomRamon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:26:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122888501545 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | ♡ただＭ ｏ ｅ甘い♡ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:25:00 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122888930570 |
-| Players | 8/10 |
-| Host Name | KrBk Бодян Чучваров |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:26:00 |
+| Lobby ID | 28530122889045271 |
+| Players | 4/10 |
+| Host Name | Луз-Режусь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:26:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122888942128 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Ντίνος |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:26:02 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | не могу выиграть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:26:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122889045271 |
-| Players | 2/10 |
-| Host Name | Луз-Режусь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:26:16 |
 
 
 |  | epic_boss_fight_nightmare |
