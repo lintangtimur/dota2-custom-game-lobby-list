@@ -2,46 +2,46 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122065185752 |
-| Players | 6/8 |
-| Host Name | 8 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:33:12 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122065957761 |
-| Players | 6/10 |
-| Host Name | El Che |
+| Lobby ID | 28530122066857939 |
+| Players | 2/10 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:36:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122066428248 |
+| Players | 6/8 |
+| Host Name | el pelado de brazzer |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:34:55 |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:35:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122065302228 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | Huvu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:33:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122065043802 |
-| Players | 19/24 |
-| Host Name | EL TITI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:32:53 |
+| Lobby ID | 28530122066382425 |
+| Players | 7/15 |
+| Host Name | Sakirious |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:35:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122060767091 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:23:35 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 11:35:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122066382425 |
-| Players | 3/15 |
-| Host Name | Sakirious |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:35:51 |
+| Lobby ID | 28530122066840246 |
+| Players | 2/24 |
+| Host Name | Bonitos y gorditos hijos de puta |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:36:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122066913006 |
+| Players | 1/8 |
+| Host Name | qU1Ts |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:37:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122065529633 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Hasta La Vista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:33:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122066903656 |
+| Players | 3/7 |
+| Host Name | Машенька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:36:59 |
 
 
