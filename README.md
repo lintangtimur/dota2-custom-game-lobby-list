@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:07:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122371407577 |
-| Players | 1/10 |
-| Host Name | Героиновая потас |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:08:01 |
+| Lobby ID | 28530122370918231 |
+| Players | 15/24 |
+| Host Name | Rick & Clancy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:07:34 |
 
 
 |  | ot3_desert_octet |
@@ -58,35 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122369706156 |
-| Players | 13/15 |
-| Host Name | хохолопитек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:06:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122370918231 |
-| Players | 14/24 |
-| Host Name | Rick & Clancy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:07:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122371313967 |
-| Players | 4/8 |
-| Host Name | будешь? |
+| Lobby ID | 28530122371523349 |
+| Players | 2/15 |
+| Host Name | MechaNOX |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:07:56 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:08:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122364357196 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Fogg_soglasen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:01:26 |
@@ -99,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NDA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:02:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122368631315 |
-| Players | 4/5 |
-| Host Name | Pale Pea |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:05:27 |
 
 
