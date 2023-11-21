@@ -5,64 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122601961823 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:47:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122604866405 |
-| Players | 9/15 |
-| Host Name | Альберт Гавнов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:50:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122604966072 |
-| Players | 6/8 |
-| Host Name | Lotar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:50:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122604732951 |
-| Players | 3/8 |
-| Host Name | DEPILATEE Y EMPAPATEE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:50:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122604568118 |
-| Players | 8/24 |
-| Host Name | Araki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:50:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122605223273 |
-| Players | 4/10 |
-| Host Name | AltQQ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:50:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122605255536 |
-| Players | 1/15 |
-| Host Name | Ninjinha10 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:50:53 |
 
 
 |  | ot3_desert_octet |
@@ -77,10 +23,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122605377946 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Buu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:51:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122604732951 |
+| Players | 3/8 |
+| Host Name | DEPILATEE Y EMPAPATEE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:50:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122604568118 |
+| Players | 9/24 |
+| Host Name | Araki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:50:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122605223273 |
+| Players | 7/10 |
+| Host Name | AltQQ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:50:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122605442158 |
+| Players | 7/15 |
+| Host Name | E`SGEIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:51:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122605551623 |
+| Players | 1/10 |
+| Host Name | Ninjinha10 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:51:13 |
 
 
 |  | epic_boss_fight_nightmare |
