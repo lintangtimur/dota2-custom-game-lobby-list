@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122756792873 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:45:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122753604838 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Maragato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:41:16 |
@@ -50,37 +50,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122752331647 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:39:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122756792229 |
-| Players | 5/8 |
-| Host Name | Демон спермоед |
+| Lobby ID | 28530122757372346 |
+| Players | 2/10 |
+| Host Name | xVisuals |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:45:21 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:46:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122756572871 |
-| Players | 14/15 |
-| Host Name | CyberJesus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:45:04 |
+| Lobby ID | 28530122757298018 |
+| Players | 1/15 |
+| Host Name | zzz |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:46:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122757250755 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | jetto sentouki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:45:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122757421574 |
+| Players | 1/8 |
+| Host Name | Waltuh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:46:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122757482376 |
+| Players | 3/8 |
+| Host Name | chidori |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:46:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122757480936 |
+| Players | 6/8 |
+| Host Name | error |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:46:14 |
 
 
 |  | epic_boss_fight_normal |
