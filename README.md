@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122329945152 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | мой кайф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:26:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122329573660 |
-| Players | 1/15 |
-| Host Name | Fantazia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:26:12 |
+| Lobby ID | 28530122331251089 |
+| Players | 4/24 |
+| Host Name | bababee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:28:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122329732983 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ./ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:26:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122330276161 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | i need money DROP.SKIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:26:58 |
@@ -92,31 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:27:47 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122331232438 |
-| Players | 1/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:27:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122327209516 |
-| Players | 9/10 |
-| Host Name | patzora eimai o mpampas sou |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:23:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122329256989 |
+| Lobby ID | 28530122330566356 |
 | Players | 1/10 |
-| Host Name | jened |
+| Host Name | sun and moon |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:25:52 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:27:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -130,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122330566356 |
+| Lobby ID | 28530122329256989 |
 | Players | 1/10 |
-| Host Name | sun and moon |
+| Host Name | jened |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:27:16 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:25:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122331565611 |
+| Players | 1/10 |
+| Host Name | EJL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:28:20 |
 
 
