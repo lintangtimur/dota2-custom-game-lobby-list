@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122272286262 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | m1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:16:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122280954424 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Rinald |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:28:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122279928688 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:27:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122280854503 |
-| Players | 5/24 |
+| Players | 13/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:28:18 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:28:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122275395674 |
-| Players | 9/10 |
-| Host Name | Rox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:21:02 |
+| Lobby ID | 28530122281557180 |
+| Players | 1/15 |
+| Host Name | Agentsmrt |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:29:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | prô GAMERε |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:27:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122281431201 |
+| Players | 1/10 |
+| Host Name | Deads |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:29:04 |
 
 
