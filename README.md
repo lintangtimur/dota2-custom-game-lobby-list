@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122169191066 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:19:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122184002987 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | iB.Rock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:48:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122183979713 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | < blank > |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:48:19 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122184306021 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:48:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122181916343 |
-| Players | 14/15 |
-| Host Name | зажим яйцами |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:44:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122183410892 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | BW_BoSs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:47:14 |
@@ -86,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122183454851 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Zero Two |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:47:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122184791375 |
+| Players | 1/5 |
+| Host Name | 斯诺星薛凯琪 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:49:52 |
 
 
