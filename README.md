@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:21:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122173157754 |
-| Players | 8/10 |
-| Host Name | . |
+| Lobby ID | 28530122173855267 |
+| Players | 5/15 |
+| Host Name | Спиди Гонзалес |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:27:36 |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:28:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122174340640 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Дура |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:29:55 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I'm Ana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:28:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122173862933 |
-| Players | 1/15 |
-| Host Name | hiro |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:28:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122173855267 |
-| Players | 4/15 |
-| Host Name | Спиди Гонзалес |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:28:57 |
 
 
 |  | epic_boss_fight_normal |
