@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:19:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122169899712 |
-| Players | 8/10 |
-| Host Name | SenorMouse |
+| Lobby ID | 28530122173483574 |
+| Players | 4/15 |
+| Host Name | I'm Ana |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:21:13 |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:28:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122173855267 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Спиди Гонзалес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:28:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122174340640 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Дура |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:29:55 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122173361991 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:28:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122173483574 |
-| Players | 5/15 |
-| Host Name | I'm Ana |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:28:14 |
+| Lobby ID | 28530122174713865 |
+| Players | 1/10 |
+| Host Name | laughter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:30:38 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122173025615 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | No Jam Hyung |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:27:21 |
