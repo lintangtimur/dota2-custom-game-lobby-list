@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122731977912 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Axebul |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:14:50 |
@@ -20,55 +20,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 02:15:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122731758384 |
-| Players | 1/8 |
-| Host Name | Hope |
+| Lobby ID | 28530122735397132 |
+| Players | 1/15 |
+| Host Name | M.R-YoEL |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:14:35 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:18:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122735903419 |
+| Players | 2/10 |
+| Host Name | --->TYT<--- |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:19:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122735385835 |
-| Players | 8/15 |
-| Host Name | avoid me |
+| Lobby ID | 28530122736254318 |
+| Players | 2/15 |
+| Host Name | Abradolf Lincler |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:18:54 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:19:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122735607082 |
-| Players | 5/8 |
-| Host Name | }I{yI{ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:19:10 |
+| Lobby ID | 28530122731734737 |
+| Players | 3/8 |
+| Host Name | ME LLEGA AL PINCHO TU MMR |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:14:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122735426554 |
-| Players | 1/8 |
-| Host Name | Dig Bick |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:18:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122734444953 |
-| Players | 6/8 |
-| Host Name | ペーパークリップ |
+| Lobby ID | 28530122735064575 |
+| Players | 4/8 |
+| Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:17:47 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:18:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122731097813 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ♚Vladimir♚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:13:48 |
@@ -77,46 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122733117183 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:16:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122731734737 |
-| Players | 4/8 |
-| Host Name | ME LLEGA AL PINCHO TU MMR |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:14:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122735324308 |
-| Players | 2/15 |
-| Host Name | stail. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:18:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122735397132 |
-| Players | 1/15 |
-| Host Name | la rata  GoDota2.com |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:18:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122735533131 |
-| Players | 2/10 |
-| Host Name | ^_^ :D |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:19:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | <blank> |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:15:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122735676711 |
+| Players | 1/5 |
+| Host Name | Satanas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:19:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122735723960 |
+| Players | 1/10 |
+| Host Name | d1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:19:18 |
 
 
