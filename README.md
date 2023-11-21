@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122324362674 |
-| Players | 1/8 |
-| Host Name | Pakazs de dia pajas de noche |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:20:32 |
+| Lobby ID | 28530122327135640 |
+| Players | 3/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:23:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122325377263 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | fd-god |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:21:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122326515286 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | sound off |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:22:53 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:21:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122325803088 |
-| Players | 6/10 |
-| Host Name | I coulda glowed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:22:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122326438560 |
-| Players | 7/8 |
-| Host Name | автобот |
+| Lobby ID | 28530122327434746 |
+| Players | 4/8 |
+| Host Name | PVPR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 19:22:48 |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:23:54 |
 
 
 |  | epic_boss_fight_challenger |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:19:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122327209516 |
+| Players | 1/10 |
+| Host Name | patzora eimai o mpampas sou |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:23:39 |
 
 
