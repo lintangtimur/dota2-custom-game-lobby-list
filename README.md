@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122629431044 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Dᴀᴍᴇ Dᴀᴍᴇ |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:17:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122626234002 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | A J A T U S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:14:13 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 00:17:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122631480084 |
-| Players | 7/8 |
-| Host Name | Трамадол Марихуа |
+| Lobby ID | 28530122630637524 |
+| Players | 13/15 |
+| Host Name | 3X³+C |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:19:56 |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:19:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122632116465 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | M_U_G_I_V_A_R_A |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:20:38 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122631337787 |
+| Lobby ID | 28530122630331734 |
 | Players | 2/8 |
-| Host Name | "Misha" :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:19:46 |
+| Host Name | Silvester VStallovoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:18:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,49 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 00:18:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122630331734 |
-| Players | 1/8 |
-| Host Name | Silvester VStallovoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:18:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122630442206 |
-| Players | 9/10 |
-| Host Name | ЧВК Фембойчик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:18:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122631317088 |
-| Players | 2/8 |
-| Host Name | enemy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:19:45 |
+| Lobby ID | 28530122632569179 |
+| Players | 3/10 |
+| Host Name | "Misha" :3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:21:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122630637524 |
-| Players | 10/15 |
-| Host Name | 3X³+C |
+| Lobby ID | 28530122629836955 |
+| Players | 11/15 |
+| Host Name | arn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:19:00 |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:18:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122631192627 |
-| Players | 3/8 |
-| Host Name | Barsykke_ня |
+| Lobby ID | 28530122631480084 |
+| Players | 7/8 |
+| Host Name | dimasik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:19:37 |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:19:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122629776044 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | k17SUNE |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:18:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122626327236 |
-| Players | 1/5 |
-| Host Name | alejandrocubano0815 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:14:19 |
 
 
