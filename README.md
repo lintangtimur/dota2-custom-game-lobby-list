@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122864223017 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:32:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122865017031 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | zxcgnida |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:34:34 |
@@ -65,30 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:36:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122866237847 |
-| Players | 3/15 |
-| Host Name | pipupussy catty |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:37:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122866231562 |
-| Players | 1/15 |
-| Host Name | Petardo*Пыжик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:37:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122866258626 |
-| Players | 5/8 |
-| Host Name | La Zorrilla |
+| Players | 1/8 |
+| Host Name | Sempt Junior |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:37:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122866307031 |
+| Players | 4/15 |
+| Host Name | immalgamma |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:37:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122866306862 |
+| Players | 2/10 |
+| Host Name | EL MENCO CJNG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:37:09 |
 
 
