@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 14:52:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122154020771 |
-| Players | 1/8 |
-| Host Name | Belifan |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:49:10 |
+| Lobby ID | 28530122156870273 |
+| Players | 4/10 |
+| Host Name | CANCELUL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:54:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122153500137 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | BlackShooter |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:48:06 |
@@ -32,72 +32,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122156516339 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Unknown Pleasures |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:54:11 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122155795077 |
-| Players | 22/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:52:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122156659400 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Gamer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:54:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122156375836 |
-| Players | 1/8 |
-| Host Name | Бабах Бесланов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:53:54 |
+| Lobby ID | 28530122157802281 |
+| Players | 1/5 |
+| Host Name | MaCO |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:56:45 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122156870273 |
-| Players | 2/10 |
-| Host Name | CANCELUL |
+| Lobby ID | 28530122157838275 |
+| Players | 2/5 |
+| Host Name | DOTA II |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:54:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122157412304 |
-| Players | 6/8 |
-| Host Name | TheSnottyMidget |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:55:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122157407045 |
-| Players | 1/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:55:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122155925268 |
-| Players | 8/10 |
-| Host Name | No Jam Hyung |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:52:59 |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:56:49 |
 
 
