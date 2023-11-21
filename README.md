@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:26:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122286674772 |
-| Players | 11/15 |
-| Host Name | Roland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:35:49 |
+| Lobby ID | 28530122284999583 |
+| Players | 6/10 |
+| Host Name | Zip Zap |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:33:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122286277547 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | D͙I͙L͙L͙I͙N͙G͙E͙R͙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:35:19 |
@@ -32,19 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122283222174 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | DelphiniumSTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:31:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122284999583 |
-| Players | 8/10 |
-| Host Name | Zip Zap |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:33:42 |
+| Lobby ID | 28530122285214983 |
+| Players | 13/15 |
+| Host Name | ✪Deffx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:33:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122287190679 |
+| Players | 9/15 |
+| Host Name | быдло |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:36:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122287179684 |
+| Players | 1/15 |
+| Host Name | червяк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:36:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -58,19 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122285825083 |
+| Lobby ID | 28530122287661248 |
 | Players | 1/10 |
 | Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:34:45 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122287043331 |
-| Players | 1/7 |
-| Host Name | UnspOken |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:36:16 |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:37:02 |
 
 
