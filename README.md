@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122220273693 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:54:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122224229984 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:01:52 |
@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122232704484 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | ДУКАЛИС ЗАБИВНОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:16:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122232490202 |
-| Players | 1/15 |
-| Host Name | El Pollo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:16:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122232480066 |
-| Players | 14/15 |
-| Host Name | 大大大Allah Ak Bar大大大 |
+| Lobby ID | 28530122233326599 |
+| Players | 1/8 |
+| Host Name | Бабах Бесланов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:16:12 |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122233154423 |
+| Players | 3/8 |
+| Host Name | wwwwwwwwwwwwwwwwww. |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:20 |
 
 
 |  | ot3_desert_octet |
@@ -56,30 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 17:17:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122233475391 |
+| Players | 7/8 |
+| Host Name | let me sup or lose 100% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122233482629 |
+| Players | 1/15 |
+| Host Name | vi.m |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122233494533 |
+| Players | 5/8 |
+| Host Name | Legend[S.L.L] |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122229942389 |
-| Players | 1/10 |
+| Lobby ID | 28530122233387689 |
+| Players | 2/10 |
 | Host Name | CLLOSEHEIMER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:11:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28530122232934744 |
-| Players | 2/7 |
-| Host Name | Кайрат Еичи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:16:58 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:43 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122232052482 |
+| Lobby ID | 28530122233545415 |
 | Players | 1/5 |
-| Host Name | grand magus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:15:29 |
+| Host Name | бабулю не трогай |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:17:59 |
 
 
