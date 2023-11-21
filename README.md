@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122413921807 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:46:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122409378932 |
-| Players | 13/15 |
-| Host Name | Xiao BB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:42:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122413230228 |
-| Players | 10/15 |
-| Host Name | Пролетариат |
+| Lobby ID | 28530122414713912 |
+| Players | 6/8 |
+| Host Name | Chill |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:46:14 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122414937983 |
+| Players | 4/10 |
+| Host Name | Matie Ball |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122383311810 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | SUNAT |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:18:57 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:24:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122413606261 |
-| Players | 6/8 |
-| Host Name | ) |
+| Lobby ID | 28530122414462246 |
+| Players | 8/10 |
+| Host Name | sunflower? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:46:34 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:20 |
 
 
 |  | ot3_desert_octet |
@@ -83,39 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:47:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122414431210 |
-| Players | 2/8 |
-| Host Name | life is lost |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:47:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122414448193 |
-| Players | 2/15 |
-| Host Name | 月下 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:47:19 |
+| Lobby ID | 28530122415140378 |
+| Players | 5/15 |
+| Host Name | sonic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122410111443 |
-| Players | 7/10 |
-| Host Name | Akaza |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:43:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122411750548 |
+| Lobby ID | 28530122414681334 |
 | Players | 2/10 |
-| Host Name | The Four Legs |
+| Host Name | モンスター |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:44:53 |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:47:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122415281652 |
+| Players | 1/5 |
+| Host Name | Kiras |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 20:48:03 |
 
 
