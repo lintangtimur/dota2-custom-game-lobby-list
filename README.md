@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122893101425 |
-| Players | 8/10 |
-| Host Name | Pinto Bean |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:35:48 |
+| Lobby ID | 28530122894861133 |
+| Players | 2/10 |
+| Host Name | Ana Konda |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:40:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122893942976 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | шалена піська |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:37:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122894205473 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | CHACAL de misterio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:38:28 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 06:39:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122894904339 |
+| Players | 2/15 |
+| Host Name | shmunky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:40:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122894589667 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Lich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:39:22 |
