@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122873052299 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Lapox007 :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:51:08 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122872935914 |
 | Players | 4/8 |
-| Host Name | Aint Gonna Suck Itself |
+| Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:50:53 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122873249829 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Fred |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:51:33 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122873979151 |
-| Players | 3/10 |
-| Host Name | real hasta mañana |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:53:06 |
+| Lobby ID | 28530122874032195 |
+| Players | 1/10 |
+| Host Name | MagoDaZona |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:53:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122874051577 |
+| Players | 1/10 |
+| Host Name | Batal |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:53:15 |
 
 
 |  | epic_boss_fight_challenger |
