@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122104818545 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:03:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122107439077 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Ejboss (the real one) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:09:26 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122104655070 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:02:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122108135135 |
-| Players | 14/15 |
-| Host Name | baoeq |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:11:01 |
+| Lobby ID | 28530122108853733 |
+| Players | 2/10 |
+| Host Name | kto myaukaet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:12:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. #НАГЛЫЙ# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:08:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122108600699 |
+| Players | 1/5 |
+| Host Name | _flamingo_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:12:05 |
 
 
