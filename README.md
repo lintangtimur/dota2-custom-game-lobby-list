@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122838662619 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mango is Love |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:44:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122838468658 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:44:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122839485925 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Gang my dick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:45:53 |
@@ -83,19 +83,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:46:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122839592090 |
-| Players | 4/10 |
-| Host Name | La Zorrilla |
+| Lobby ID | 28530122839708022 |
+| Players | 1/8 |
+| Host Name | Шлюхахахаха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:46:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122839729440 |
+| Players | 1/15 |
+| Host Name | -[Xius |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:46:05 |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:46:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122839747800 |
+| Players | 1/24 |
+| Host Name | 1 vs 9 dalbaebov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:46:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122838373967 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | BlessRNG |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:43:55 |
