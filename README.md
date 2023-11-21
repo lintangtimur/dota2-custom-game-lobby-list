@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122560746279 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Gray |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:01:45 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122560507232 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:01:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122561664333 |
-| Players | 2/24 |
-| Host Name | Chronicle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:02:42 |
+| Lobby ID | 28530122562273558 |
+| Players | 3/8 |
+| Host Name | Vinan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:03:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122559165156 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:00:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122560646178 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Blizzard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:01:38 |
@@ -94,10 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122561964914 |
-| Players | 2/10 |
-| Host Name | Водитель по губам |
+| Lobby ID | 28530122555518419 |
+| Players | 9/10 |
+| Host Name | Misho |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:56:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122561945304 |
+| Players | 8/10 |
+| Host Name | Kinder$urprice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:03:02 |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:03:00 |
 
 
