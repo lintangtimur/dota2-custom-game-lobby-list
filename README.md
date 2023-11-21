@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122141173372 |
-| Players | 9/15 |
-| Host Name | TurgutTaner |
+| Lobby ID | 28530122141063573 |
+| Players | 9/10 |
+| Host Name | глаза сушит |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:22:57 |
+| Lobby Creation Time | Tuesday, November 21, 2023 14:22:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122141720294 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:24:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122139655288 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | incognito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:19:49 |
@@ -41,27 +41,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122139222721 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 14:18:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122141063573 |
-| Players | 3/10 |
-| Host Name | глаза сушит |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:22:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122138874537 |
-| Players | 9/10 |
-| Host Name | Fozzzey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 14:18:11 |
 
 
