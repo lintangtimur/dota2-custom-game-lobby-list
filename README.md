@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122886324701 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | webeo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:20:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122886808844 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:21:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122887221545 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:22:03 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122886974770 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Antidepressant |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:21:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122886787611 |
-| Players | 7/10 |
-| Host Name | DoomRamon |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:21:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122887057029 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ♥Ricky Regal♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:21:41 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Miggu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:22:38 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122887643189 |
+| Players | 3/7 |
+| Host Name | chelik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:23:02 |
 
 
