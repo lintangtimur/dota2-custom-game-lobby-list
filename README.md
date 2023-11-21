@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122881631838 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:09:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122881454271 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | DrEaMmyZ.LovE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:09:17 |
@@ -67,20 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122880334626 |
-| Players | 14/15 |
-| Host Name | zzz |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:06:49 |
+| Lobby ID | 28530122881847196 |
+| Players | 1/15 |
+| Host Name | Más Narnia |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:10:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122881869265 |
+| Players | 1/8 |
+| Host Name | Aker- |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:10:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122881881245 |
+| Players | 2/10 |
+| Host Name | Pinto Bean |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:10:13 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122881360335 |
+| Lobby ID | 28530122881713895 |
 | Players | 1/5 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:09:05 |
+| Host Name | ADR |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:09:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122881616867 |
+| Lobby ID | 28530122881886402 |
 | Players | 1/5 |
-| Host Name | YAW4R |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:09:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122881713895 |
-| Players | 1/5 |
-| Host Name | ADR |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:09:51 |
+| Host Name | 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:10:14 |
 
 
