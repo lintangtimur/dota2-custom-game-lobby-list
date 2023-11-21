@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122875245529 |
+| Lobby ID | 28530122875542100 |
 | Players | 3/8 |
-| Host Name | Вечное цукуёми |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:55:48 |
+| Host Name | :/ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:56:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 05:51:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122875486560 |
-| Players | 1/24 |
-| Host Name | [PFG]KiwiM8 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:56:19 |
+| Lobby ID | 28530122874259655 |
+| Players | 11/15 |
+| Host Name | ZoSo |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:53:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122875343561 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | jolly |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:56:00 |
@@ -49,28 +49,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122874862697 |
-| Players | 13/24 |
-| Host Name | booster de orelias e çarnas |
+| Lobby ID | 28530122875701007 |
+| Players | 1/24 |
+| Host Name | Mondongo |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:54:59 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:56:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122875450207 |
-| Players | 6/15 |
-| Host Name | Dragon |
+| Lobby ID | 28530122875723266 |
+| Players | 1/15 |
+| Host Name | by///Kwazzy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:56:14 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:56:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122875731545 |
+| Players | 1/10 |
+| Host Name | Note |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:56:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122875306265 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | (DarGoS) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:55:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122875555818 |
+| Players | 3/5 |
+| Host Name | Only Carry |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:56:28 |
 
 
