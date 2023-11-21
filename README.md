@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122116239198 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | minmin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:29:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122116855319 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:30:45 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122116907098 |
-| Players | 2/8 |
-| Host Name | никс ассаса |
+| Players | 1/8 |
+| Host Name | Арсаланжап |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:30:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122117069978 |
+| Players | 4/15 |
+| Host Name | 100 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:31:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 13:18:03 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122115100396 |
+| Players | 5/10 |
+| Host Name | Dysfun |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:26:51 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122116537724 |
-| Players | 1/5 |
-| Host Name | 1000-6 #bloodrust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:30:03 |
+| Lobby ID | 28530122117334401 |
+| Players | 2/5 |
+| Host Name | heraldplay |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:31:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122115100396 |
-| Players | 3/10 |
-| Host Name | Dysfun |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:26:51 |
+| Lobby ID | 28530122117340504 |
+| Players | 1/10 |
+| Host Name | ุ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:31:50 |
 
 
