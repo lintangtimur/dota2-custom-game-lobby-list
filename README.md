@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122840339541 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mata limeños |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:47:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122840590116 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | ☺ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:47:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122840508123 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:47:43 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:47:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122840635818 |
-| Players | 7/8 |
-| Host Name | чуня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:47:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122840630328 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | shoe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:47:56 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122838373967 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BlessRNG |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:43:55 |
@@ -104,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122840189059 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | Внученька |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:47:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122840884381 |
+| Players | 2/10 |
+| Host Name | Barbarossa Ci.ko |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:48:23 |
 
 
