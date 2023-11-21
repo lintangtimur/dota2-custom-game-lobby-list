@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122212189286 |
-| Players | 7/15 |
-| Host Name | Северный Человек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:40:28 |
+| Lobby ID | 28530122213335483 |
+| Players | 1/24 |
+| Host Name | Nabung = Istri Cosplay |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:42:33 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122211858731 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Бабах Бесланов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:39:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122210396482 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | bro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:37:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122212306177 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ｲ´ム´乇 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:40:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122212790493 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:41:34 |
@@ -58,20 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122210602088 |
+| Lobby ID | 28530122213440227 |
 | Players | 1/15 |
-| Host Name | PAN CON HUEVO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:37:33 |
+| Host Name | Gay Fish |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:42:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122202770887 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | S |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:23:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122213261225 |
+| Players | 2/10 |
+| Host Name | Лиза на аве |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:42:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122207661620 |
+| Players | 15/24 |
+| Host Name | Absmuui |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:32:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -83,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 16:30:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28530122209774555 |
-| Players | 9/10 |
-| Host Name | Kiddo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:36:02 |
+| Lobby ID | 28530122212770988 |
+| Players | 2/7 |
+| Host Name | Manul |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:41:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122211790554 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Гpигopий Гopoxocтpeл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:39:44 |
@@ -104,27 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122212187157 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Rox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:40:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122212156497 |
-| Players | 1/5 |
-| Host Name | Anal Kardinal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:40:24 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122212770988 |
-| Players | 2/7 |
-| Host Name | Manul |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:41:32 |
 
 
