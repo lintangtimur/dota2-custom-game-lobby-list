@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122886187602 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Lord Gaben |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:19:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122884830873 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Abyssal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:16:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122885518003 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | アレクシス |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:18:15 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122886324701 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | bobkchero |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:20:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122886428552 |
+| Players | 2/15 |
+| Host Name | Walter-sama |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:20:16 |
 
 
