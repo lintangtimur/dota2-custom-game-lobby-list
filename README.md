@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122169061806 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CANCELUL |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:19:35 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:17:45 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122167024242 |
+| Players | 23/24 |
+| Host Name | Anantherzine-無盡的 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:15:31 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122168375654 |
-| Players | 13/15 |
-| Host Name | Anime girl |
+| Lobby ID | 28530122170529706 |
+| Players | 6/15 |
+| Host Name | Fa1ry |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:18:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122169192992 |
-| Players | 7/8 |
-| Host Name | dyma2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:19:50 |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:22:27 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:19:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122167024242 |
-| Players | 19/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:15:31 |
+| Lobby ID | 28530122169192992 |
+| Players | 7/8 |
+| Host Name | dyma2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:19:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -74,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:14:50 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122170359577 |
-| Players | 1/5 |
-| Host Name | ツ The Hunter  ︻デ 一 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:22:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122170405888 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | ДревнийРус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:22:13 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122170445821 |
-| Players | 1/7 |
-| Host Name | ГРаФ ТраХУлА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:22:17 |
+| Lobby ID | 28530122170749167 |
+| Players | 1/10 |
+| Host Name | Ako si Luffy tangina mo ka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:22:53 |
 
 
