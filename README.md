@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122791758036 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Fartoвый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:31:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122788925787 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 요니 .수아나 .팜파 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:27:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122791655068 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | wooo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:31:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122789975259 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | La Fre@k (nova) |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:29:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122790313562 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Sant1s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:29:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122791058294 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | [W] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:30:54 |
@@ -121,10 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122791871816 |
-| Players | 1/10 |
-| Host Name | never felt so bad |
+| Lobby ID | 28530122791928375 |
+| Players | 2/10 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:32:02 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:32:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122791979833 |
+| Players | 1/15 |
+| Host Name | AKashi~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:32:11 |
 
 
