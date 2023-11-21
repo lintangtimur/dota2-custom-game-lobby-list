@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122890099794 |
-| Players | 3/15 |
-| Host Name | EL DIOS DEL CHESS |
+| Players | 2/15 |
+| Host Name | Ayer Fue Mi Dia!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:28:44 |
 
@@ -56,21 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 06:30:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122890696690 |
-| Players | 3/8 |
-| Host Name | Gaara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:30:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122890649716 |
-| Players | 1/5 |
-| Host Name | Maestro Splinter |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:30:00 |
+| Lobby ID | 28530122890767968 |
+| Players | 1/10 |
+| Host Name | Shinzou wo Sasageyo! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:30:17 |
 
 
