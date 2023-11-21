@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122807771378 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Mike Tyson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:54:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122796147296 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Eagle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:38:04 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122807760286 |
+| Lobby ID | 28530122804825236 |
 | Players | 9/10 |
-| Host Name | ayawaska |
+| Host Name | Hans Zimmer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:54:47 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:50:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122807884465 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Piskonyh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:54:58 |
@@ -104,16 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122807888903 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Густоблюй Мокрот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:54:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122807906871 |
+| Players | 3/8 |
+| Host Name | RaMi4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:55:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122807936980 |
+| Players | 6/8 |
+| Host Name | Аomine daiki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:55:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122805400058 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | necro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:51:23 |
