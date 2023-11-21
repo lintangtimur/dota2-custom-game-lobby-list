@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122773114245 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:06:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122769296117 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | Maragato |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:01:37 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:11:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122770844923 |
-| Players | 21/24 |
-| Host Name | BoB LeE SwaGgeR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:03:40 |
+| Lobby ID | 28530122778480789 |
+| Players | 1/8 |
+| Host Name | V1bet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:13:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122776778727 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | YO FABRICIO CHETUMARE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:11:32 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122777831974 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Hunter |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:12:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122778029719 |
-| Players | 4/10 |
-| Host Name | ディラキョウ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:13:12 |
+| Lobby ID | 28530122777953851 |
+| Players | 1/15 |
+| Host Name | 悪魔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:13:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122777090996 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:11:57 |
@@ -113,36 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122776705291 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 🎼ϯ°Иķχ Ѧ Ƶɨž°ϯ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:11:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122778417975 |
+| Players | 2/10 |
+| Host Name | wooo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:13:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122777953851 |
-| Players | 2/15 |
-| Host Name | 悪魔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:13:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122777994116 |
-| Players | 7/8 |
-| Host Name | }I{yI{ |
+| Lobby ID | 28530122778239849 |
+| Players | 10/15 |
+| Host Name | 09 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:13:10 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:13:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122778111874 |
-| Players | 2/5 |
-| Host Name | Renggis |
+| Lobby ID | 28530122770844923 |
+| Players | 23/24 |
+| Host Name | จักรพรรดิ์ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:13:19 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:03:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122778160073 |
+| Players | 3/10 |
+| Host Name | Epicose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:13:23 |
 
 
