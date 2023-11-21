@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122842243292 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Shadeyyen |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:50:49 |
@@ -29,49 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:50:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122842061544 |
-| Players | 9/10 |
-| Host Name | Artorias |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:50:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122842713928 |
-| Players | 6/8 |
-| Host Name | 💚🐢ⒷⒶⓃⒶⓃⒶ🐢 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:51:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122843383301 |
-| Players | 3/8 |
-| Host Name | Luffyルフィ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:52:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122843325021 |
-| Players | 2/10 |
-| Host Name | apa jr. |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:52:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122843033782 |
-| Players | 2/24 |
-| Host Name | W.Guillermo |
+| Lobby ID | 28530122843515519 |
+| Players | 1/8 |
+| Host Name | † Ĝ҉ Ǻ҉ Ӎ҉ Ế҉ Ʀ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:52:14 |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:53:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:52:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122843383301 |
+| Players | 2/8 |
+| Host Name | Luffyルフィ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:52:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122843325021 |
+| Players | 5/10 |
+| Host Name | apa jr. |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:52:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122843033782 |
+| Players | 3/24 |
+| Host Name | W.Guillermo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:52:14 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122843233414 |
-| Players | 10/15 |
-| Host Name | Gandola |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:52:35 |
+| Lobby ID | 28530122843541485 |
+| Players | 3/15 |
+| Host Name | Jasper |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:53:08 |
 
 
 |  | epic_boss_fight_challenger |
