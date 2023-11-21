@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122429317185 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | El más mejor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:00:27 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122429603131 |
-| Players | 2/8 |
-| Host Name | ради чего? |
+| Players | 3/8 |
+| Host Name | radbix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:00:42 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122429812430 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | BEST PMA AWARD |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:00:54 |
@@ -95,9 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122428266918 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Kiyotaka Ayanokoji |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 20:59:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122429994261 |
+| Players | 1/10 |
+| Host Name | JL'Esperance |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:01:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122430147974 |
+| Players | 1/10 |
+| Host Name | Ryujiin.GG [ Buunja ] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:01:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122430089578 |
+| Players | 2/10 |
+| Host Name | эскортница Тайле |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:01:09 |
 
 
