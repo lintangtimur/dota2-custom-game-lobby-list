@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122822987561 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WHAT XUXA FUE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:18:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122823887935 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Максим Артурович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:19:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122823368487 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | el amOroSsO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:18:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122823669230 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ДАВИД |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:19:06 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122822224714 |
-| Players | 2/8 |
-| Host Name | @REPLIKSHOES |
+| Players | 1/8 |
+| Host Name | Lily |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:16:48 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122824205595 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | итс файн |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:19:58 |
@@ -76,19 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122823983017 |
-| Players | 13/15 |
-| Host Name | LoLkoSKILL |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:19:36 |
+| Lobby ID | 28530122824602965 |
+| Players | 7/15 |
+| Host Name | KOL9 POT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:20:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122824389214 |
+| Lobby ID | 28530122824626099 |
+| Players | 4/10 |
+| Host Name | SQUEEZY BALVANKIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:20:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122824814960 |
+| Players | 2/8 |
+| Host Name | я не играю в доту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:20:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122824686747 |
 | Players | 2/10 |
-| Host Name | Dissmac Volt |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:20:16 |
+| Host Name | sacmadic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:20:45 |
 
 
