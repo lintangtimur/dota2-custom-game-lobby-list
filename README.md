@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:46:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122544465800 |
-| Players | 9/10 |
-| Host Name | Винокурщик Бананас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:45:02 |
+| Lobby ID | 28530122546574846 |
+| Players | 2/15 |
+| Host Name | 著名五星上将 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:47:10 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122545410034 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Indian Yuragi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:45:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122545376847 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | maku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:45:57 |
@@ -119,24 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:45:30 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122545672637 |
-| Players | 1/10 |
-| Host Name | Machine being |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:46:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122543081731 |
-| Players | 8/8 |
-| Host Name | PSG.LGD Ame |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:43:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122546215379 |
@@ -146,21 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:46:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122546446555 |
-| Players | 3/8 |
-| Host Name | manualbanned |
+| Lobby ID | 28530122546586208 |
+| Players | 2/10 |
+| Host Name | Eleum Loyce |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:47:02 |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:47:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122545592106 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:46:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122544897826 |
+| Players | 9/10 |
+| Host Name | Maharaja Lawana |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:45:28 |
 
 
