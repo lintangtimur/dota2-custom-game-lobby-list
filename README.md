@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122224229984 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:01:52 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122226016277 |
-| Players | 3/10 |
-| Host Name | Yatoro(Smurf) |
+| Players | 2/10 |
+| Host Name | Тележка |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:05:00 |
 
@@ -38,6 +38,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 17:04:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122223951839 |
+| Players | 9/10 |
+| Host Name | Shintarō |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:01:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122226099920 |
+| Players | 1/8 |
+| Host Name | BullZen |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:05:09 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122225979112 |
@@ -45,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ssw.80 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:04:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122223751265 |
-| Players | 7/10 |
-| Host Name | Muzan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:01:01 |
 
 
