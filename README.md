@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122794031222 |
-| Players | 3/8 |
-| Host Name | Vitrex1111 |
+| Players | 2/8 |
+| Host Name | kngTiago10 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:35:04 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122781910743 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:18:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122793167349 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Daantz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:33:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122794311559 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | magnus did nothing wrong |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:35:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122791727644 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Maхмуд FAIL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:31:50 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122793496713 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | aaroneverr |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:34:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122794221913 |
-| Players | 7/10 |
-| Host Name | Солевой Стример |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:35:20 |
+| Lobby ID | 28530122794838460 |
+| Players | 3/15 |
+| Host Name | The Lorax |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:36:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122794304938 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | саша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:35:27 |
