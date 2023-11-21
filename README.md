@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122293534089 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Райан Гослинг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:44:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122293584741 |
-| Players | 2/15 |
-| Host Name | FaCtor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:44:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122293882550 |
-| Players | 1/8 |
-| Host Name | Bangkongsrr |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:44:49 |
 
 
 |  | ot3_desert_octet |
@@ -83,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:44:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122293882550 |
+| Players | 1/8 |
+| Host Name | Bangkongsrr |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:44:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122292679960 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:43:18 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝓚𝓐𝓖𝓔𝓡𝓞𝓩𝓐 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:44:13 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122294008473 |
+| Players | 1/7 |
+| Host Name | Death Is My Bitch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:44:59 |
 
 
