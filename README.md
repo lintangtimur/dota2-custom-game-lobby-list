@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122204326217 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Dead Inside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:26:03 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122204471459 |
-| Players | 2/8 |
-| Host Name | Sunflower |
+| Players | 1/8 |
+| Host Name | Инфузopия лoббинкa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:26:19 |
 
@@ -58,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122204588657 |
-| Players | 12/15 |
-| Host Name | real? |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:26:32 |
+| Lobby ID | 28530122204911091 |
+| Players | 2/15 |
+| Host Name | kk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:27:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122204909769 |
+| Players | 2/8 |
+| Host Name | Бабах Бесланов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:27:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122204236299 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:25:54 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122204819674 |
-| Players | 1/7 |
-| Host Name | Ильдар АвтоПроёб |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:26:57 |
 
 
