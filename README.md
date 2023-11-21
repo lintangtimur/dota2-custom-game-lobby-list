@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122120264779 |
-| Players | 3/8 |
-| Host Name | 123 |
+| Players | 2/8 |
+| Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:38:20 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122124081015 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Nutribun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:46:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122122977589 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Puchito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:44:18 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122124532901 |
-| Players | 10/15 |
-| Host Name | ClutchZ |
+| Lobby ID | 28530122125148369 |
+| Players | 4/15 |
+| Host Name | Puupen Farten |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 13:47:35 |
+| Lobby Creation Time | Tuesday, November 21, 2023 13:48:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122122746801 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fogg_soglasen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 13:43:48 |
