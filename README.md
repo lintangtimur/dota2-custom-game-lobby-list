@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122077550626 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | 一块 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:00:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122076482078 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:58:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122074141341 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:52:52 |
@@ -41,45 +41,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122077535813 |
-| Players | 2/15 |
-| Host Name | Валера_009 |
+| Players | 4/15 |
+| Host Name | 迪马是个笨蛋 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:00:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122077632369 |
-| Players | 6/15 |
-| Host Name | The pope´s mom |
+| Lobby ID | 28530122077963778 |
+| Players | 4/24 |
+| Host Name | _____________ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:00:48 |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:01:34 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122077199102 |
-| Players | 1/7 |
-| Host Name | Kiokasuyetsu |
+| Lobby ID | 28530122077836574 |
+| Players | 5/24 |
+| Host Name | Yamcha Cepeda Martínez |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:59:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122077327691 |
-| Players | 1/10 |
-| Host Name | Cerberus_7 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:00:06 |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:01:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122077464043 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:00:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122077976470 |
+| Players | 1/10 |
+| Host Name | Cerberus_7 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:01:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122078129243 |
+| Players | 1/5 |
+| Host Name | GUILLO_LASSO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:01:57 |
 
 
