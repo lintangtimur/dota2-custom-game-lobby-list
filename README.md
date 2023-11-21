@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122229191869 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ~Sqm |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:10:31 |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122230522988 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Double exe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:12:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122230181269 |
-| Players | 9/15 |
-| Host Name | Fungus the Bogeyman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:12:18 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122228680029 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:09:37 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122230350922 |
-| Players | 1/7 |
-| Host Name | ꀤꋊꌚꍏꋊꍟ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:12:36 |
+| Lobby ID | 28530122231150403 |
+| Players | 1/15 |
+| Host Name | CK |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:13:57 |
 
 
 |  | epic_boss_fight_nightmare |
