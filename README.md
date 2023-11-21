@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122495903820 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:58:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122495788216 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | El más mejor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:58:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122500104573 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Mike¼- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:02:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122499346328 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Грубиян? Ажумання |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:02:04 |
@@ -128,6 +128,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:02:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122500587813 |
+| Players | 5/8 |
+| Host Name | ... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:03:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122495647647 |
+| Players | 6/8 |
+| Host Name | Feelingpeace’s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:58:44 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122493162488 |
@@ -148,10 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122500423739 |
+| Lobby ID | 28530122500643784 |
 | Players | 1/5 |
-| Host Name | FATEA |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:03:03 |
+| Host Name | Shmily |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:03:15 |
 
 
