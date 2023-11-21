@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122179403665 |
 | Players | 5/15 |
-| Host Name | Ёмайха Ёмасо |
+| Host Name | Умный, по горшкам дежурный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:39:42 |
 
