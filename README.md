@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122096449335 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | 6dog |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:43:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122093870590 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | 2ez4bruneezy |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:37:46 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122096502159 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | AMOR FATI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:43:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122092774502 |
-| Players | 14/24 |
-| Host Name | Yuki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:35:15 |
+| Lobby ID | 28530122096617486 |
+| Players | 1/15 |
+| Host Name | meeto meeto meeto :3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:44:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122095968774 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:42:38 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122096144208 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | JimPark |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:43:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122096971675 |
+| Players | 2/15 |
+| Host Name | 九歌 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:44:55 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122096193043 |
+| Lobby ID | 28530122096970243 |
 | Players | 1/24 |
-| Host Name | Lada niva 4 life! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:43:09 |
+| Host Name | Flamma Avis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:44:55 |
 
 
 |  | epic_boss_fight_nightmare |
