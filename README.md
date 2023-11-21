@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122549997290 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | LITTLE PUDGE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:50:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122550470842 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Tanıdık |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:51:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122550446935 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | MrOtec |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:51:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122542139086 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:42:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122550568378 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:51:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122550722786 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:51:23 |
@@ -101,28 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:50:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122551216527 |
-| Players | 4/10 |
-| Host Name | Tayler Derden |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:51:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122549907768 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | MID IDC MUTE ALL |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:50:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122551549168 |
+| Players | 2/10 |
+| Host Name | АТАМАН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:52:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122551548631 |
+| Players | 2/8 |
+| Host Name | not human (животное) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:52:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122549773215 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:50:24 |
