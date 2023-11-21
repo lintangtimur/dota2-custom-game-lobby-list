@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122663912405 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:55:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122666000293 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | kindamental |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:58:03 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122665679354 |
-| Players | 14/15 |
-| Host Name | ГОЙ?ДА. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:57:41 |
+| Lobby ID | 28530122665977283 |
+| Players | 7/15 |
+| Host Name | Sanctus Animus |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:58:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122665959415 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Elwynn |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 00:58:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122665977283 |
-| Players | 4/15 |
-| Host Name | Sanctus Animus |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 00:58:01 |
+| Lobby ID | 28530122666078639 |
+| Players | 2/10 |
+| Host Name | \\\😈Rostelecom😈//// |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:58:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122666028383 |
+| Players | 2/10 |
+| Host Name | pozo mrda ?? |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:58:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122666161837 |
+| Players | 1/24 |
+| Host Name | Ntz.Galford.24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 00:58:13 |
 
 
 |  | epic_boss_fight_nightmare |
