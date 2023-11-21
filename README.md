@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122799563542 |
-| Players | 1/8 |
-| Host Name | 𝖒𝖆𝖑𝖔𝖞𝖛𝖆 |
+| Lobby ID | 28530122808521381 |
+| Players | 4/8 |
+| Host Name | Максим Артурович |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:42:57 |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:55:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122808530719 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | молчание бурят |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:55:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122796147296 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Eagle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:38:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122807283561 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Dll.2.0 You Can (Not) Advance |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:54:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122808529527 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:55:55 |
@@ -92,39 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:55:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122808398669 |
-| Players | 6/8 |
-| Host Name | [Б.О.М.Ж.И.]нубасик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:55:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122808521381 |
-| Players | 4/8 |
-| Host Name | Максим Артурович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:55:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122808626456 |
-| Players | 6/8 |
-| Host Name | }I{yI{ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:56:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122805400058 |
-| Players | 9/10 |
-| Host Name | necro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:51:23 |
+| Lobby ID | 28530122808775802 |
+| Players | 1/5 |
+| Host Name | Maa ye maare |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:56:17 |
 
 
