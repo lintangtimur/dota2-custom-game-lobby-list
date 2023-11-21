@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122548459414 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Грешник / Sinner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:49:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122548228225 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Indian Yuragi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:48:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122549276181 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | динь динь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:49:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122542139086 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ULTRON MEGAINDUSTRIES |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:42:42 |
@@ -65,60 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:49:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122548172963 |
-| Players | 1/15 |
-| Host Name | 🅑🅛🅐🅒🅚🅟🅐🅝 |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:48:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122548359334 |
-| Players | 1/15 |
-| Host Name | BERSERK |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:48:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122548809171 |
-| Players | 8/10 |
-| Host Name | ♏ リアス・グレモリー |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:49:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122548984341 |
-| Players | 2/15 |
-| Host Name | kkkkkkkkkk |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:49:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122549188373 |
-| Players | 1/8 |
-| Host Name | qq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:49:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122549206010 |
-| Players | 1/8 |
-| Host Name | MARATKINGzzz |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:49:49 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122549407016 |
@@ -126,6 +72,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 敢不敢跟我比划比划 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:50:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122549188373 |
+| Players | 6/8 |
+| Host Name | qq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:49:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122549477341 |
+| Players | 1/8 |
+| Host Name | PlAyEr 9k |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:50:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122548984341 |
+| Players | 6/15 |
+| Host Name | kkkkkkkkkk |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:49:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122549740334 |
+| Players | 3/15 |
+| Host Name | coffee for your head |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:50:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 22:49:08 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122549366002 |
-| Players | 1/7 |
-| Host Name | Blednaowca |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 22:49:59 |
+| Lobby ID | 28530122549700646 |
+| Players | 3/10 |
+| Host Name | dyyn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:50:20 |
 
 
