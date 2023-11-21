@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122336416226 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Под мыло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:33:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122352888846 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | абезяна чичичи продавала кирпичи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:50:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122353163439 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:50:36 |
@@ -74,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 19:50:43 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122353748207 |
+| Players | 2/10 |
+| Host Name | LARVELL JONES |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:51:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122353917058 |
+| Players | 2/10 |
+| Host Name | Иван Курапов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:51:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122349760648 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Юрыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:47:13 |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shiro |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 19:50:54 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28530122353866479 |
+| Players | 1/7 |
+| Host Name | Eustia |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 19:51:17 |
 
 
