@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122882716390 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Kill 'Em All |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:12:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122881881245 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Pinto Bean |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:10:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122882544364 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Amira |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:11:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122882777986 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | G_G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:12:12 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122883145240 |
-| Players | 1/15 |
-| Host Name | Доминик де Коку |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:13:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122883172299 |
-| Players | 3/8 |
-| Host Name | iliya Royal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:13:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122883177817 |
-| Players | 1/24 |
-| Host Name | Rew |
+| Lobby ID | 28530122883185315 |
+| Players | 3/15 |
+| Host Name | PapSmear |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:13:06 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:13:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122883226907 |
+| Players | 1/15 |
+| Host Name | EL PAPA NATAS. |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:13:12 |
 
 
 |  | epic_boss_fight_nightmare |
