@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122178191875 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | God save the King |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:37:22 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122178834854 |
-| Players | 7/15 |
-| Host Name | SpliNteR |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:38:36 |
+| Lobby ID | 28530122179403665 |
+| Players | 5/15 |
+| Host Name | Ёмайха Ёмасо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:39:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122179067905 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:39:03 |
