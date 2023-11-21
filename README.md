@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 20:09:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122439522998 |
-| Players | 9/10 |
-| Host Name | e9RHpG - UA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:09:26 |
+| Lobby ID | 28530122440357969 |
+| Players | 5/24 |
+| Host Name | Gachor™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:10:10 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122440044132 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | САСЬВА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:09:53 |
@@ -85,28 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122440152655 |
+| Lobby ID | 28530122440269228 |
 | Players | 1/24 |
-| Host Name | Hamizan Collapse |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:09:59 |
+| Host Name | NARBERAL GAMA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:10:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122436697558 |
-| Players | 8/10 |
-| Host Name | nyThanh |
+| Lobby ID | 28530122440570772 |
+| Players | 1/24 |
+| Host Name | KOKO GAMING |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:06:58 |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:10:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122439205269 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | М |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:09:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122440380281 |
+| Players | 1/10 |
+| Host Name | KinDerJoY |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:10:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122440574302 |
+| Players | 1/5 |
+| Host Name | iam  blue |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:10:21 |
 
 
