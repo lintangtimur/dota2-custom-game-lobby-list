@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122750951030 |
-| Players | 14/15 |
-| Host Name | aaroneverr |
+| Lobby ID | 28530122754111608 |
+| Players | 1/10 |
+| Host Name | moddd |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:37:56 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:41:54 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122750467890 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:37:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122754087748 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | qwerty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:41:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122753754948 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | DDreams.Matiskadi.1XBET |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 02:41:27 |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 02:41:00 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122754111608 |
-| Players | 1/10 |
-| Host Name | moddd |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:41:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122745814059 |
-| Players | 8/10 |
-| Host Name | BMW |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:31:35 |
+| Lobby ID | 28530122754271898 |
+| Players | 2/10 |
+| Host Name | Gore |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:42:06 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122754227772 |
+| Lobby ID | 28530122754293237 |
 | Players | 1/5 |
-| Host Name | ESPADA NEGATIV |
+| Host Name | омэрэканскей гон |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 02:42:03 |
+| Lobby Creation Time | Wednesday, November 22, 2023 02:42:08 |
 
 
