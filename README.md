@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122893600929 |
-| Players | 9/15 |
-| Host Name | zzz |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:36:59 |
+| Lobby ID | 28530122893224262 |
+| Players | 14/15 |
+| Host Name | dllm |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:36:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122892964319 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | vN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:35:28 |
@@ -29,66 +29,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 06:35:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122893572087 |
-| Players | 21/24 |
-| Host Name | ★彡[ʏᴜᴜ]彡★ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:36:55 |
+| Lobby ID | 28530122893942976 |
+| Players | 2/8 |
+| Host Name | шалена піська |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:37:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122892845260 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:35:12 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122894205473 |
+| Players | 2/24 |
+| Host Name | Yamcha Cepeda Martínez |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:38:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122894303424 |
+| Players | 2/8 |
+| Host Name | j a n i c k |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:38:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122893224262 |
-| Players | 7/15 |
-| Host Name | dllm |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:36:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122893850733 |
-| Players | 2/8 |
-| Host Name | ryomen |
+| Lobby ID | 28530122893600929 |
+| Players | 13/15 |
+| Host Name | zzz |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:37:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122894111506 |
-| Players | 4/8 |
-| Host Name | McLoVin ◢ ◤ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:38:15 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28530122894048354 |
-| Players | 1/7 |
-| Host Name | TimMoon |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:38:05 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:36:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122892647358 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | BlessRNG |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:34:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122894346065 |
+| Players | 1/5 |
+| Host Name | PanSeco.• |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:38:48 |
 
 
