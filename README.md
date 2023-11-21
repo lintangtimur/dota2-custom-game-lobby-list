@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122052140471 |
-| Players | 6/15 |
-| Host Name | Captain Kirkland Signature |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:03:57 |
+| Lobby ID | 28530122052983844 |
+| Players | 1/15 |
+| Host Name | FranJoGa |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:05:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122051103259 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | TitinN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:01:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122049770899 |
-| Players | 22/24 |
-| Host Name | Flyfriend28 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 10:58:22 |
+| Lobby ID | 28530122052678121 |
+| Players | 2/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:05:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 11:04:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122052401049 |
-| Players | 1/8 |
-| Host Name | MOTOMAMI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 11:04:33 |
+| Lobby ID | 28530122052857768 |
+| Players | 1/24 |
+| Host Name | Yuki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 11:05:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122051060943 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 11:01:24 |
