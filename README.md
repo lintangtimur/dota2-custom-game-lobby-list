@@ -13,56 +13,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122894303424 |
-| Players | 7/8 |
-| Host Name | j a n i c k |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:38:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122894861133 |
-| Players | 3/10 |
-| Host Name | Ana Konda |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:40:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122894988116 |
-| Players | 9/10 |
-| Host Name | SUIIIIIIIII |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:40:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122894795699 |
-| Players | 1/24 |
-| Host Name | Lord Duterte |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:39:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122894205473 |
-| Players | 15/24 |
-| Host Name | CHACAL de misterio |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:38:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28530122895251400 |
 | Players | 1/8 |
 | Host Name | Shogun Raiden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:40:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122894861133 |
+| Players | 4/10 |
+| Host Name | Ana Konda |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:40:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122895372648 |
+| Players | 2/15 |
+| Host Name | MenetiL- |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:41:13 |
 
 
 |  | ot3_gardens_duo |
@@ -74,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 06:41:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122895317474 |
-| Players | 3/15 |
-| Host Name | Cänsërbërö |
+| Lobby ID | 28530122894205473 |
+| Players | 18/24 |
+| Host Name | CHACAL de misterio |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:41:06 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:38:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122894589667 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Lich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:39:22 |
