@@ -24,18 +24,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122595621293 |
 | Players | 6/24 |
-| Host Name | el_nonek™ |
+| Host Name | sun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:40:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122592279923 |
-| Players | 21/24 |
-| Host Name | FPS is just a number |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:36:17 |
+| Lobby ID | 28530122595699269 |
+| Players | 5/8 |
+| Host Name | [LT]smelikovrussia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:40:11 |
 
 
 |  | ot3_gardens_duo |
@@ -47,29 +47,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 23:40:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122596404871 |
-| Players | 1/24 |
-| Host Name | all team or feed |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:40:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122595699269 |
-| Players | 4/8 |
-| Host Name | [LT]smelikovrussia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:40:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122594449705 |
-| Players | 8/10 |
-| Host Name | Yasper阿爾伯特.HOTDOG |
+| Players | 9/10 |
+| Host Name | Адмирал генерал |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:38:45 |
 
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122596268638 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | UTюG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:40:47 |
@@ -92,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 23:40:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28530122596367276 |
-| Players | 1/5 |
-| Host Name | x'KOSCHEI'x |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:40:53 |
+| Lobby ID | 28530122596615770 |
+| Players | 2/7 |
+| Host Name | eclipse |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:41:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122596531623 |
+| Players | 4/10 |
+| Host Name | Hey What Happened |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:41:03 |
 
 
