@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122851568029 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | xd. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:08:15 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122851919462 |
-| Players | 6/10 |
-| Host Name | gay-mer_Daniel |
+| Players | 7/10 |
+| Host Name | 伊戈爾邁斯特 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:08:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122851170766 |
-| Players | 13/15 |
-| Host Name | Потрошитель |
+| Lobby ID | 28530122852220116 |
+| Players | 9/15 |
+| Host Name | weSs |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:07:29 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:09:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122851838751 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | i lost her |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:08:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122851152604 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:27 |
@@ -94,28 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122852109330 |
-| Players | 3/8 |
-| Host Name | 322 |
+| Lobby ID | 28530122852224053 |
+| Players | 1/8 |
+| Host Name | Hope |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:09:17 |
+| Lobby Creation Time | Wednesday, November 22, 2023 05:09:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122851201452 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | R Y U K O |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 05:07:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122849425678 |
-| Players | 4/5 |
-| Host Name | ☛†THE GOD† |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 05:04:09 |
 
 
