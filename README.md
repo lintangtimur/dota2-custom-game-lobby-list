@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:00:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122811098884 |
-| Players | 7/8 |
-| Host Name | L on Fire |
+| Lobby ID | 28530122812595981 |
+| Players | 1/10 |
+| Host Name | ЭЛЬ ПРИМООО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:59:47 |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:02:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122796147296 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Eagle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:38:04 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 04:00:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122812573106 |
+| Players | 1/10 |
+| Host Name | 健一白浜 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:01:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122812661993 |
+| Players | 1/8 |
+| Host Name | jox_skill |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:02:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122812339784 |
-| Players | 13/15 |
-| Host Name | Kammellone |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:01:38 |
+| Lobby ID | 28530122812691733 |
+| Players | 1/15 |
+| Host Name | The Lorax |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:02:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | necro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:01:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122809140992 |
+| Players | 9/10 |
+| Host Name | ЧИСТО БОНУСОМ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:56:50 |
 
 
