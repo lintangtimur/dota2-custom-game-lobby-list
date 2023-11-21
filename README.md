@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122901267097 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:55:54 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122902043692 |
-| Players | 13/15 |
-| Host Name | GXLD |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:57:52 |
+| Lobby ID | 28530122900873923 |
+| Players | 11/15 |
+| Host Name | ZoSo |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:54:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122902123989 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | K1 CESAR |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:58:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122902202489 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Oleg Lymar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:58:16 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 06:58:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122900873923 |
-| Players | 11/15 |
-| Host Name | ZoSo |
+| Lobby ID | 28530122902528759 |
+| Players | 1/5 |
+| Host Name | |ＳＳＪ_４| |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:54:53 |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:59:05 |
 
 
