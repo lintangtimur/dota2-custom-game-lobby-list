@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122901267097 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:55:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122901510958 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Recep Tayyip Erdoğan |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:56:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122901629372 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:56:49 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122900734554 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Jesus Christ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:54:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122901733958 |
+| Players | 1/5 |
+| Host Name | Æ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:57:05 |
 
 
