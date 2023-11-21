@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122254375217 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:51:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122254630455 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | дьявол |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:51:23 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jeehee Δ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:50:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122254910374 |
-| Players | 3/15 |
-| Host Name | sleepy space cat |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:51:49 |
 
 
 |  | epic_boss_fight_challenger |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CCsenior |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:49:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122252636741 |
-| Players | 2/5 |
-| Host Name | {SoA}Fantom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 17:48:24 |
 
 
