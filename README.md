@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122495144252 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Creep |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:58:17 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122492372520 |
-| Players | 4/8 |
-| Host Name | Enbilulugugal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:55:48 |
+| Lobby ID | 28530122502646506 |
+| Players | 3/8 |
+| Host Name | Бомбил Ирак 9 лет |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:05:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122502343056 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | linedie |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:04:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122498504955 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 22:01:19 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 21:59:58 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122502751223 |
+| Players | 2/24 |
+| Host Name | ▲Pochi-ta ポチタ▼ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:05:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122502840084 |
+| Players | 1/24 |
+| Host Name | ฺNP ENJOYER |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:05:15 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122493162488 |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Ricky Regal♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:56:31 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28530122502793914 |
+| Players | 1/7 |
+| Host Name | roma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 22:05:13 |
 
 
