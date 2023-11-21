@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122190769118 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | YurGe |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:01:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122191550416 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ДОЕДАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:02:36 |
@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:56:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122190319702 |
+| Players | 14/15 |
+| Host Name | daproof |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:00:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122188331416 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mekus Mekus 143 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:56:32 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122191456439 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | StelioKontos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:02:26 |
