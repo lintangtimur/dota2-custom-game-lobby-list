@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122592027100 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | B E R S E R K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:36:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122595621293 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | sun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:40:05 |
@@ -56,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 23:43:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122599278780 |
+| Players | 5/10 |
+| Host Name | noob pro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:44:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122599345532 |
+| Players | 4/8 |
+| Host Name | zitrax mode 吸pain吸 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:44:10 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122597027805 |
@@ -63,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eclipse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 23:41:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122598740471 |
-| Players | 2/10 |
-| Host Name | fashionista |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:43:29 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28530122596615770 |
-| Players | 2/7 |
-| Host Name | シタ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:41:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28530122599250918 |
-| Players | 1/7 |
-| Host Name | supahclarke |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, November 21, 2023 23:44:03 |
+| Lobby ID | 28530122596615770 |
+| Players | 2/7 |
+| Host Name | シタ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 23:41:08 |
 
 
