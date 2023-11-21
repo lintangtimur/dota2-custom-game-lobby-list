@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122202770887 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Reinhardt |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:23:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122210020278 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | ##### |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:36:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122207661620 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | sap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:32:11 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 16:36:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122209939380 |
-| Players | 9/10 |
-| Host Name | carol christian поел |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:36:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122210703459 |
+| Lobby ID | 28530122211173975 |
 | Players | 7/8 |
-| Host Name | AdamPride |
+| Host Name | VanGoghYa (Вайбмен) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 16:37:45 |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:38:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,6 +63,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PAN CON HUEVO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 16:37:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122211158602 |
+| Players | 2/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:38:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122211257202 |
+| Players | 1/24 |
+| Host Name | ุexw_onoma |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:38:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122211339884 |
+| Players | 2/10 |
+| Host Name | Shintarō |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:38:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122211356913 |
+| Players | 1/8 |
+| Host Name | ｲ´ム´乇 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 16:38:57 |
 
 
 |  | epic_boss_fight_challenger |
