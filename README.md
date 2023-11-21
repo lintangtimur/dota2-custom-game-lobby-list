@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122879069962 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Fanss |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:04:04 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122879121457 |
 | Players | 3/8 |
-| Host Name | jox_skill |
+| Host Name | (-_-)乂0_0乂 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:04:11 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122879191482 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | public enemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:04:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122879214556 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Alirezaleon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:04:23 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Максим Артурович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:04:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122879455328 |
+| Players | 2/10 |
+| Host Name | Атаквейшен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 06:04:55 |
 
 
