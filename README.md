@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122248744579 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | СЪЕЛ ВСЮ БИБЛИОТЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:42:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122248660254 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Paj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:42:22 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIОрея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 17:41:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122249255708 |
+| Players | 1/5 |
+| Host Name | ambatukam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 17:43:17 |
 
 
