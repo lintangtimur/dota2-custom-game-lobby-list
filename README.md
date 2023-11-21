@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122460738649 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | アンドリュー |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:28:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122443644325 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | vash lujan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:13:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122458512223 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:26:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122460540614 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | дмитрий якимов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:27:49 |
@@ -77,25 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122457878905 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Creep |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:25:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122447925677 |
-| Players | 2/15 |
-| Host Name | Slick Sloth |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:16:46 |
+| Lobby ID | 28530122460899262 |
+| Players | 1/8 |
+| Host Name | 682 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:28:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122460978987 |
+| Players | 1/24 |
+| Host Name | please dont ban AA |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:28:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122460049608 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | TOROTOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:27:24 |
