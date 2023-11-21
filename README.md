@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122179067905 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:39:03 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122189295241 |
-| Players | 1/15 |
-| Host Name | meta angel |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:58:23 |
+| Lobby ID | 28530122189246424 |
+| Players | 13/15 |
+| Host Name | [HeyJoe] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:58:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122188049054 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:56:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122189169875 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Matye Bal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:58:09 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122189246424 |
-| Players | 5/15 |
-| Host Name | [HeyJoe] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:58:18 |
+| Lobby ID | 28530122189461143 |
+| Players | 1/15 |
+| Host Name | 1500 de conducta |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:58:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122188331416 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mekus Mekus 143 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:56:32 |
