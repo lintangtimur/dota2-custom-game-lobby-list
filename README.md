@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:46:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122295569101 |
-| Players | 7/10 |
-| Host Name | Op |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:46:55 |
+| Lobby ID | 28530122296469391 |
+| Players | 6/15 |
+| Host Name | Chien2rue |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:48:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:44:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122295975135 |
-| Players | 13/15 |
-| Host Name | el turistico |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:47:25 |
+| Lobby ID | 28530122292408007 |
+| Players | 9/10 |
+| Host Name | Måneskin |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:42:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122294431869 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | leave if u see p2w |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:45:31 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 18:47:53 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122294008473 |
-| Players | 4/7 |
-| Host Name | Death Is My Bitch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:44:59 |
+| Lobby ID | 28530122296331082 |
+| Players | 2/5 |
+| Host Name | СлаймСвоимиРукам |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 18:47:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sonrisa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 18:47:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122296331082 |
-| Players | 1/5 |
-| Host Name | СлаймСвоимиРукам |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 18:47:51 |
 
 
