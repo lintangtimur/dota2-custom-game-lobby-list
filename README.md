@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 21:44:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122479990608 |
-| Players | 6/10 |
-| Host Name | бай май шеги бааа |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:44:54 |
+| Lobby ID | 28530122481266767 |
+| Players | 2/8 |
+| Host Name | Snobias |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:46:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122478239094 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | TRAKKAAAA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:43:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122476377325 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | loda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:41:44 |
@@ -50,72 +50,81 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122480110494 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Ohhh.. You Touch My Tralala |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:45:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122477885436 |
-| Players | 6/8 |
-| Host Name | MentiSan |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:43:03 |
+| Lobby ID | 28530122480779163 |
+| Players | 6/15 |
+| Host Name | Triplesixgods |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:45:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122478643844 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | LeJhem |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:43:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122389584526 |
-| Players | 23/24 |
-| Host Name | Reinhardt |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 20:24:43 |
+| Lobby ID | 28530122480729682 |
+| Players | 1/10 |
+| Host Name | Aeasor |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:45:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122480392136 |
-| Players | 3/8 |
-| Host Name | 杜氏 |
+| Lobby ID | 28530122481342063 |
+| Players | 1/10 |
+| Host Name | I.M.Sin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:45:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122476645713 |
-| Players | 8/10 |
-| Host Name | Дорума |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:41:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122476918610 |
-| Players | 2/10 |
-| Host Name | クリシャ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 21:42:12 |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:46:05 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122479834011 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | DIОрея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 21:44:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122476918610 |
+| Players | 4/10 |
+| Host Name | クリシャ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:42:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122481046333 |
+| Players | 3/10 |
+| Host Name | SuBaRoiD |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:45:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122481305128 |
+| Players | 1/10 |
+| Host Name | CCO UKRAINE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 21:46:03 |
 
 
