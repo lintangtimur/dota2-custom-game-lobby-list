@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122799563542 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Максим Артурович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:42:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122795227439 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | roy |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:36:45 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 03:39:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122799297063 |
-| Players | 13/15 |
-| Host Name | ★∣ GOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:42:34 |
+| Lobby ID | 28530122799699688 |
+| Players | 1/8 |
+| Host Name | M i a m i |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 03:43:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122798426536 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Sid, el indomable :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:41:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122798299261 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | joga lindo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:41:08 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122799476955 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | apa jr. |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:42:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122799656571 |
-| Players | 3/8 |
-| Host Name | У меня болит голо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 03:43:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122796203111 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 03:38:08 |
