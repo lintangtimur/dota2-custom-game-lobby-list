@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122160739277 |
-| Players | 2/8 |
-| Host Name | NVV |
+| Players | 7/8 |
+| Host Name | xzf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:02:51 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122159844595 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 盛世美颜蔡徐坤 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:01:00 |
@@ -50,27 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122159823036 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:00:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122161595984 |
+| Players | 3/8 |
+| Host Name | Feelingpeace’s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:04:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122160283790 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mekus Mekus 143 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:01:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122160640163 |
-| Players | 2/5 |
-| Host Name | Love-Is Gone |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:02:39 |
 
 
