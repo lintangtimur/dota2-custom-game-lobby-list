@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122181550231 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | TSpirit.January |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 21, 2023 15:43:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122181664915 |
-| Players | 1/24 |
-| Host Name | Lenathea |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:43:59 |
+| Lobby ID | 28530122182350428 |
+| Players | 1/8 |
+| Host Name | mizarik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:45:15 |
 
 
 |  | ot3_desert_octet |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:39:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122181035500 |
-| Players | 7/8 |
-| Host Name | Eleum Loyce |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:42:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122180291183 |
-| Players | 8/10 |
-| Host Name | ДИО БАРАНДО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:41:24 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122181916343 |
@@ -65,12 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 21, 2023 15:44:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122180291183 |
+| Players | 9/10 |
+| Host Name | ДИО БАРАНДО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:41:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122182194788 |
+| Players | 1/10 |
+| Host Name | Hani |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:44:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28530122182162361 |
-| Players | 2/5 |
-| Host Name | Закись Ашота |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 21, 2023 15:44:55 |
+| Lobby ID | 28530122182323762 |
+| Players | 1/5 |
+| Host Name | ツ The Hunter  ︻デ 一 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 21, 2023 15:45:12 |
 
 
