@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122844809304 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:55:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122845191201 |
-| Players | 9/10 |
-| Host Name | nlt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:56:09 |
+| Lobby ID | 28530122844949267 |
+| Players | 5/8 |
+| Host Name | Khan |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:55:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122845559950 |
-| Players | 12/15 |
-| Host Name | Soos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:56:50 |
+| Lobby ID | 28530122845793830 |
+| Players | 6/8 |
+| Host Name | Jaa'm |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 04:57:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 04:53:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122844949267 |
-| Players | 5/8 |
-| Host Name | Khan |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 04:55:42 |
 
 
 |  | epic_boss_fight_nightmare |
