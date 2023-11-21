@@ -2,29 +2,29 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122082964399 |
-| Players | 5/8 |
-| Host Name | GohanXD |
+| Lobby ID | 28530122083528966 |
+| Players | 3/10 |
+| Host Name | Teniente roca |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:12:50 |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:14:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122082569964 |
-| Players | 17/24 |
-| Host Name | MERLYN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:11:56 |
+| Lobby ID | 28530122083635831 |
+| Players | 4/15 |
+| Host Name | Trell |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 21, 2023 12:14:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122083293498 |
-| Players | 3/8 |
-| Host Name | L |
+| Players | 1/8 |
+| Host Name | pick pudge=mother died |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:13:32 |
 
@@ -49,17 +49,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122079253446 |
-| Players | 6/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 21, 2023 12:04:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28530122082888864 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Blednaowca |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 21, 2023 12:12:40 |
