@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:06:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598599457705 |
-| Players | 22/24 |
-| Host Name | RyQゆた |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:17:05 |
+| Lobby ID | 28531598602780139 |
+| Players | 3/10 |
+| Host Name | GG I want  to win a play |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:24:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598602092513 |
 | Players | 13/15 |
-| Host Name | Амбассадор тильта |
+| Host Name | л)))х)д)бля)олаъхах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:22:45 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598601554206 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | The 4th Hokage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598601727950 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Revoker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598601382194 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598602692863 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Namelessking25 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:24:04 |
