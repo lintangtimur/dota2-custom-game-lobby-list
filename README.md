@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598450053532 |
-| Players | 14/15 |
-| Host Name | Hxksl  (1) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:29:33 |
+| Lobby ID | 28531598450382472 |
+| Players | 10/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:30:20 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598450376578 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Mclovin |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:30:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598447254214 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:23:17 |
@@ -86,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449515979 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:28:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598450382472 |
-| Players | 10/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:30:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598451164616 |
-| Players | 1/8 |
-| Host Name | Tu no me matas y yo no te mato |
+| Lobby ID | 28531598450365585 |
+| Players | 7/8 |
+| Host Name | Rem is life<3 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:32:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598451213219 |
-| Players | 1/8 |
-| Host Name | Засланный казаче |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:32:21 |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:30:17 |
 
 
