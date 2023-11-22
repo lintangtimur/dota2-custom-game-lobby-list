@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598544939196 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | COCO BASILE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:12:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598546020082 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | [Inserte Nombre Gozu] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:15:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598544600429 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Qaz |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:11:44 |
