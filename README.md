@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:01:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598771708885 |
-| Players | 2/8 |
-| Host Name | илюша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:09:58 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598771365324 |
@@ -81,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 子临 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:09:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598771711350 |
-| Players | 12/15 |
-| Host Name | Gogâie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:09:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598771989029 |
-| Players | 4/8 |
-| Host Name | Æ F3#BroRust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:10:17 |
 
 
