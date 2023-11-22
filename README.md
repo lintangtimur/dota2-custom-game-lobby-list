@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598533761616 |
-| Players | 8/10 |
-| Host Name | Noy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:47:33 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598534750417 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | No name |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:49:41 |
@@ -22,11 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598535435164 |
+| Lobby ID | 28531598535511820 |
 | Players | 1/10 |
 | Host Name | Gintoki |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:51:13 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:51:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598535517186 |
+| Players | 1/10 |
+| Host Name | @FIONA SZE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:51:24 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598534583023 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ’Mr . Big |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:49:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598535054558 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:50:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598535182930 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:50:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598534879421 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | LA LEYENDA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:49:59 |
