@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598452990183 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Aquiles Castro |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:36:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449345687 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:27:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598454043336 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | er |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:39:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598454411672 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Douma |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:40:19 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:36:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598452184430 |
-| Players | 8/10 |
-| Host Name | Kachosnift |
+| Lobby ID | 28531598453635015 |
+| Players | 15/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:34:46 |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:38:25 |
 
 
 |  | ot3_desert_octet |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZAGREUS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:40:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598453635015 |
-| Players | 15/15 |
-| Host Name | ♁＊＊ SIA ＊＊ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:38:25 |
 
 
