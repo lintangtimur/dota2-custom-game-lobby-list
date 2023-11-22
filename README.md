@@ -5,16 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598606866771 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:33:07 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598607876532 |
+| Players | 1/5 |
+| Host Name | Fake_Gamer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:35:06 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598601382194 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:13 |
@@ -47,37 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:30:13 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598606048750 |
-| Players | 21/24 |
-| Host Name | DraelgNaI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:31:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598607033414 |
-| Players | 10/15 |
-| Host Name | еблантус |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:33:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598607603710 |
-| Players | 1/24 |
-| Host Name | ТрАФка |
+| Lobby ID | 28531598607924335 |
+| Players | 1/15 |
+| Host Name | D34th |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:34:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:35:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598603012409 |
-| Players | 18/24 |
+| Players | 15/24 |
 | Host Name | 腹有诗书气自华 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:24:47 |
