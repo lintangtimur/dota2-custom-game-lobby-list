@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122912579851 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Y U M A |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:24:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122913228156 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Franchesca Maldini |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:26:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122913317394 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:26:38 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | エッラ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:20:11 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28530122913459708 |
-| Players | 1/7 |
-| Host Name | Kanan sa kaliwa |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:27:00 |
 
 
