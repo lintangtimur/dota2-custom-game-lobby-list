@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598888384447 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | oninoninonino~ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:04:27 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598886602899 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:02:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598893780157 |
-| Players | 20/24 |
-| Host Name | asaka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:09:12 |
+| Lobby ID | 28531598895892278 |
+| Players | 5/15 |
+| Host Name | 200 IQ Player |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:11:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598895431931 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Мармелад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:10:39 |
@@ -104,27 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598895212949 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Koni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:10:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598895257745 |
-| Players | 1/10 |
-| Host Name | Moby |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:10:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598895892278 |
-| Players | 2/15 |
-| Host Name | 200 IQ Player |
+| Lobby ID | 28531598896147293 |
+| Players | 4/8 |
+| Host Name | Espada.NNR |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:11:03 |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:11:16 |
 
 
