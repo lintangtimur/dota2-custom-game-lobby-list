@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598623969405 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MR_JOPPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:08:04 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ThiNk Pe ChaTo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:01:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598623734225 |
-| Players | 14/15 |
-| Host Name | Яспер Моглот (Dutch) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:07:35 |
 
 
