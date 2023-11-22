@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598847891287 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:27:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598860887198 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:39:36 |
@@ -81,41 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tom McGrady |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:08:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598860915757 |
-| Players | 9/10 |
-| Host Name | The Devil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:39:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598861537560 |
-| Players | 2/8 |
-| Host Name | Say Yes To Heaven |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:40:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598862135344 |
-| Players | 6/15 |
-| Host Name | MILES MORALES |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:40:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598862692544 |
-| Players | 1/8 |
-| Host Name | Ohhh.. You Touch My Tralala |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:41:15 |
 
 
