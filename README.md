@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598615571922 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:50:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598610251763 |
-| Players | 23/24 |
-| Host Name | swap commends |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:40:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598616530385 |
-| Players | 1/8 |
-| Host Name | ghoul |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:52:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,21 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:54:00 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598615625734 |
-| Players | 1/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:50:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598617688184 |
+| Lobby ID | 28531598616530385 |
 | Players | 1/8 |
-| Host Name | Manilas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:55:02 |
+| Host Name | ghoul |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:52:36 |
 
 
