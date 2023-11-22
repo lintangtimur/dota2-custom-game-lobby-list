@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598555490274 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:37:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598555346397 |
-| Players | 14/15 |
-| Host Name | S.A.W |
+| Lobby ID | 28531598556346168 |
+| Players | 1/24 |
+| Host Name | Hachiman |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:36:40 |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:39:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598554289741 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:34:11 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598556353414 |
-| Players | 3/8 |
-| Host Name | EL REAL  FELIPE |
+| Players | 2/8 |
+| Host Name | GOAT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:39:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598556425528 |
+| Players | 2/10 |
+| Host Name | Shearinex |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:39:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598553253727 |
+| Players | 7/8 |
+| Host Name | Rarity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:45 |
 
 
