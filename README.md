@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:28:25 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598634136711 |
-| Players | 9/10 |
-| Host Name | CLLOSEHEIMER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:28:23 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598635899552 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598632398656 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | prime style sh1nzo metavision |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:24:57 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598636426397 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Я НЕ Yatoro | 致命的 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:32:54 |
