@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598972569904 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:20:52 |
@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598975910994 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Phaequel |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:24:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598974207892 |
+| Players | 2/5 |
+| Host Name | 1 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:22:29 |
 
 
 |  | ot3_gardens_duo |
@@ -47,20 +56,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 22:20:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598975129814 |
-| Players | 7/8 |
-| Host Name | radbix |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:23:23 |
+| Lobby ID | 28531598975837817 |
+| Players | 7/10 |
+| Host Name | Gehenna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:24:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598973889482 |
 | Players | 8/24 |
-| Host Name | MAGA x алаха нет |
+| Host Name | Soma Mikolofitia |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:22:10 |
 
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598974792686 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:23:03 |
@@ -85,55 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598974765418 |
-| Players | 1/15 |
-| Host Name | Imagio |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:23:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531598973136133 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598975055461 |
-| Players | 7/10 |
-| Host Name | дайте 20 мин кача |
+| Lobby ID | 28531598976382570 |
+| Players | 4/8 |
+| Host Name | i'm so tired |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:23:19 |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:24:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598976401647 |
+| Players | 1/24 |
+| Host Name | LazyMeow |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:24:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598974235172 |
-| Players | 13/15 |
-| Host Name | TerraLecs |
+| Players | 14/15 |
+| Host Name | H.E. Pennypacker |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:22:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598975837817 |
-| Players | 2/10 |
-| Host Name | Gehenna |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:24:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598976115995 |
-| Players | 1/24 |
-| Host Name | Pakitas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:24:21 |
 
 
