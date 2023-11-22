@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598634434158 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Смотрите кирпич |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:28:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598635338044 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WAYNE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:30:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598634853764 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:29:47 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:31:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598628598483 |
-| Players | 7/8 |
-| Host Name | peru=feed |
+| Lobby ID | 28531598636092346 |
+| Players | 1/15 |
+| Host Name | SOLO PMA , SOLO WINNER |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:17:22 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:32:15 |
 
 
