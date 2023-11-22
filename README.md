@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598519107160 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GOD in$iDe❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:19 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:16:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598515083663 |
-| Players | 22/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:05:06 |
+| Lobby ID | 28531598517635562 |
+| Players | 9/10 |
+| Host Name | Pocoyo el Recioo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:10:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598519219157 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Rati |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598519185112 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Kurokawa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598519263738 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ethan's friend |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:42 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598519424662 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:15:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598519984646 |
-| Players | 1/24 |
-| Host Name | Poz |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:16:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598517635562 |
-| Players | 8/10 |
-| Host Name | Pocoyo el Recioo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:10:57 |
 
 
 |  | ot3_necropolis_ffa |
