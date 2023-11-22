@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598529325658 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:37:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598529586639 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | 腹有诗书气自华 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:38:15 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598530243372 |
-| Players | 6/8 |
-| Host Name | Yo  + 4 inutiles |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:39:43 |
+| Lobby ID | 28531598530806527 |
+| Players | 2/8 |
+| Host Name | RYUK |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:40:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598528831816 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:36:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598529519051 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | zzz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:38:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598528918022 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:36:44 |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yiyi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:40:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598530806527 |
-| Players | 1/8 |
-| Host Name | RYUK |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:40:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598530856405 |
-| Players | 6/8 |
-| Host Name | Rem |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:41:04 |
 
 
