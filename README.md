@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598476366814 |
-| Players | 9/10 |
-| Host Name | AVO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:34:01 |
+| Lobby ID | 28531598477157179 |
+| Players | 1/10 |
+| Host Name | Pablo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:35:55 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598475658170 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | not a good player.. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:35:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598477157179 |
-| Players | 2/10 |
-| Host Name | Pablo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:35:55 |
 
 
