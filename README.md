@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:39:01 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598748974622 |
-| Players | 2/7 |
-| Host Name | гей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:41:59 |
+| Lobby ID | 28531598749091575 |
+| Players | 1/10 |
+| Host Name | PowderX Jinx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:42:08 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598748537866 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | you son of birch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:41:25 |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:41:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598749000433 |
-| Players | 1/8 |
+| Lobby ID | 28531598749139057 |
+| Players | 1/24 |
 | Host Name | F-A-Y-D-A-R-E TONY |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:42:01 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:42:11 |
 
 
