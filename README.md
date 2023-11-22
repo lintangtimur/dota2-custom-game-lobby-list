@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122908241437 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Walter-sama |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122906634924 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:09:38 |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122907662614 |
-| Players | 12/15 |
-| Host Name | The Lorax |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:12:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122908430306 |
-| Players | 9/10 |
-| Host Name | курильный демон |
+| Lobby ID | 28530122908871305 |
+| Players | 4/10 |
+| Host Name | 나는 폴리나를 사랑한다 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:14:05 |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:15:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122908247882 |
-| Players | 9/10 |
-| Host Name | EL REAL  FELIPE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:13:36 |
+| Lobby ID | 28530122908876555 |
+| Players | 1/24 |
+| Host Name | WSWSWSWSWSWSWS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:15:13 |
 
 
 |  | epic_boss_fight_normal |
