@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598478040111 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | YongChunLuKan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:38:04 |
@@ -50,18 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598478042137 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Clarity addict |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:38:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598469411367 |
-| Players | 23/24 |
-| Host Name | x |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:17:26 |
+| Lobby ID | 28531598478440394 |
+| Players | 2/15 |
+| Host Name | "†YoNhACoffIN†"†RAmPaSSO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:39:02 |
 
 
