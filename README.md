@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598864839705 |
-| Players | 8/10 |
-| Host Name | Big Gringo |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:43:11 |
+| Lobby ID | 28531598873070026 |
+| Players | 2/10 |
+| Host Name | blinkey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:50:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598865541282 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Aight, Bet! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:43:50 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:47:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598873070026 |
-| Players | 2/10 |
-| Host Name | blinkey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:50:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598873627225 |
-| Players | 1/10 |
-| Host Name | GuNsMoKE |
+| Lobby ID | 28531598873800435 |
+| Players | 1/5 |
+| Host Name | Naa sa bisayawa ang yawa |
 | Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:51:10 |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:51:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598870303351 |
+| Players | 9/10 |
+| Host Name | Cpt. Douchebag |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:48:09 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598866866231 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Stonehoof |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:45:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598871200559 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:48:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598873475412 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Gold rune(воняет) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:51:02 |
@@ -112,37 +112,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598868860212 |
-| Players | 4/8 |
-| Host Name | Zohan |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:46:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598872829427 |
-| Players | 9/10 |
-| Host Name | You will die |
+| Lobby ID | 28531598873709792 |
+| Players | 3/8 |
+| Host Name | BarBarik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:50:27 |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:51:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598873860392 |
+| Players | 3/8 |
+| Host Name | Даша сосет хуй))) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:51:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598872886990 |
-| Players | 5/10 |
-| Host Name | 子临 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:50:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598872887436 |
-| Players | 3/24 |
-| Host Name | 戯作 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:50:30 |
+| Lobby ID | 28531598873864211 |
+| Players | 1/10 |
+| Host Name | Mazamorrita :) |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:51:23 |
 
 
