@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598945492224 |
+| Players | 1/10 |
+| Host Name | DOPE |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:55:25 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598941413038 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598943734516 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Yr1k1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:53:47 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598943628846 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | LORD.MOCOS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:53:41 |
@@ -68,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598940926377 |
-| Players | 4/15 |
-| Host Name | ISRAELITA DE INKASEXXX |
+| Players | 2/15 |
+| Host Name | Te KCHO y Me llevan Preso :v |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:51:12 |
 
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598942194756 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:52:22 |
@@ -101,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:54:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598945056848 |
-| Players | 5/10 |
-| Host Name | Буба |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:55:00 |
+| Lobby ID | 28531598945459998 |
+| Players | 1/15 |
+| Host Name | 五香毛蛋曾阿牛 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:55:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598943782720 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Sanctus Animus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:53:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598945367373 |
+| Players | 2/8 |
+| Host Name | SMt5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:55:18 |
 
 
