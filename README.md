@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598658382831 |
-| Players | 4/10 |
-| Host Name | Skills in Pills |
+| Players | 3/10 |
+| Host Name | marcibeacoup |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:15:02 |
 
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akaza |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:15:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598658962349 |
-| Players | 1/5 |
-| Host Name | О |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:16:08 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598618734419 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Erudite ツ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598655726105 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:10:03 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598652510304 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:03:59 |
@@ -113,27 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598658977500 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | idc mmr play 4pohui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:16:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598658990985 |
-| Players | 1/8 |
-| Host Name | джонни депп |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:16:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598655981531 |
-| Players | 7/8 |
-| Host Name | Бабах Бесланов |
+| Lobby ID | 28531598657275200 |
+| Players | 9/10 |
+| Host Name | NEW MIRACLE ! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:10:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:12:58 |
 
 
