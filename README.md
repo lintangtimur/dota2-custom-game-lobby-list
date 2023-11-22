@@ -29,40 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:27 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598728050241 |
-| Players | 19/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:13:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598729864702 |
-| Players | 6/10 |
-| Host Name | tv/swedenstrong |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:16:14 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598730491168 |
-| Players | 10/15 |
-| Host Name | Cat |
+| Lobby ID | 28531598727387954 |
+| Players | 15/15 |
+| Host Name | Cheshire_cat |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:17:07 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:12:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598730540909 |
-| Players | 1/10 |
+| Lobby ID | 28531598730865867 |
+| Players | 1/8 |
 | Host Name | already cache |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:17:11 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:17:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598731126922 |
+| Players | 1/24 |
+| Host Name | KopiO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:18:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598730763496 |
+| Players | 3/8 |
+| Host Name | Ubuntu |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:17:30 |
 
 
 |  | ot3_desert_octet |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Silver 神 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:17:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598730877753 |
+| Players | 5/10 |
+| Host Name | KekwMeow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:17:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598730920429 |
+| Players | 1/15 |
+| Host Name | 一只大菜鸡 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:17:43 |
 
 
