@@ -29,31 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:15:29 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531598777851068 |
-| Players | 2/7 |
-| Host Name | eeBOLeeT |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:17:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598778089516 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | "Virone" Comrade |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:17:18 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531598778225293 |
-| Players | 1/7 |
-| Host Name | Assassin |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:17:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598776365502 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Your mom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:15:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598777625187 |
-| Players | 8/15 |
-| Host Name | sos! my carry died |
+| Lobby ID | 28531598778201968 |
+| Players | 2/10 |
+| Host Name | Димидрол |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:16:46 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:17:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,30 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:16:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598776494658 |
-| Players | 1/24 |
-| Host Name | Spongebob |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:15:28 |
+| Lobby ID | 28531598778466801 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:17:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598777111437 |
-| Players | 2/8 |
-| Host Name | позитивный игрок |
+| Players | 3/8 |
+| Host Name | Тинкер Сергей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:16:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598778201968 |
-| Players | 2/10 |
-| Host Name | Димидрол |
+| Lobby ID | 28531598778699339 |
+| Players | 2/15 |
+| Host Name | TEEHEE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:17:26 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:18:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598778687436 |
+| Players | 1/15 |
+| Host Name | nuTs |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:17:59 |
 
 
