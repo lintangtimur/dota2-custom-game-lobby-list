@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:12:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598669725552 |
-| Players | 7/8 |
-| Host Name | Метка Дрилла |
+| Lobby ID | 28531598670604844 |
+| Players | 4/10 |
+| Host Name | beps |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:36:21 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598658076699 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Чак-Чак Норрис |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:37:39 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598670604844 |
-| Players | 2/10 |
-| Host Name | beps |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:38:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598670669241 |
+| Lobby ID | 28531598670704392 |
 | Players | 1/8 |
-| Host Name | Azusa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:38:08 |
+| Host Name | bllashka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:11 |
 
 
