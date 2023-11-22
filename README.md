@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598907405841 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | blinkey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:21:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598916890308 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Chen |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598915458424 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | GantZ' |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:28:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598917130968 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Извиняйся |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598898388975 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | FaLcArIuS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:13:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598916903645 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | DonkayPunch Q(Q'-')!! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598916329695 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Tom McGrady |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:11 |
