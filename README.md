@@ -56,31 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598779681418 |
-| Players | 12/15 |
-| Host Name | Monolitik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598780302916 |
+| Lobby ID | 28531598780699971 |
 | Players | 1/8 |
-| Host Name | кЪваршня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:50 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:20:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598780483987 |
-| Players | 8/10 |
-| Host Name | ТЯЖЁЛЫЙ ЛЮКС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:20:02 |
+| Lobby ID | 28531598780630057 |
+| Players | 4/10 |
+| Host Name | 老铅笔 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:20:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598780713805 |
+| Players | 3/24 |
+| Host Name | Yuusei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:20:17 |
 
 
 |  | ot3_desert_octet |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daddy's Finger |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598780630057 |
-| Players | 1/10 |
-| Host Name | 老铅笔 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:20:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598780657389 |
-| Players | 1/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:20:14 |
 
 
