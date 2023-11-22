@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:04:19 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598543201088 |
-| Players | 1/5 |
-| Host Name | КТО ТАМ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:08:35 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598542584055 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | harosh ponosovich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:07:12 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598541378756 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Lulalelilo |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:04:32 |
@@ -59,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598543262488 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:08:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598541947029 |
-| Players | 22/24 |
-| Host Name | ♣«L­­»evi♣ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:05:48 |
+| Lobby ID | 28531598538683293 |
+| Players | 5/8 |
+| Host Name | BarBarik |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:58:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598541581485 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | PoonDip |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:05:00 |
@@ -86,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598543813464 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Brainstorm |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:09:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598544005525 |
+| Players | 1/15 |
+| Host Name | ttao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:10:22 |
 
 
