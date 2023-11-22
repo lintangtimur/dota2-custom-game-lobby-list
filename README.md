@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598753522044 |
-| Players | 9/10 |
-| Host Name | Капитан Зaлупa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:47:46 |
+| Lobby ID | 28531598758753835 |
+| Players | 1/10 |
+| Host Name | 印度代购神药专卖 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:52:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598758753835 |
-| Players | 1/10 |
-| Host Name | 印度代购神药专卖 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:54:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598759217733 |
-| Players | 13/15 |
-| Host Name | TEEHEE |
+| Lobby ID | 28531598760098393 |
+| Players | 2/5 |
+| Host Name | BefitPaladin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:54:53 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:55:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598759725811 |
+| Players | 1/24 |
+| Host Name | apTeom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:55:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598754026428 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:48:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598759403894 |
-| Players | 1/10 |
-| Host Name | КРАСАВЧИИИИИК!!! |
+| Lobby ID | 28531598759892959 |
+| Players | 5/15 |
+| Host Name | Satana |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:55:07 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:55:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598757487528 |
-| Players | 21/24 |
-| Host Name | Serrito |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:52:43 |
+| Lobby ID | 28531598760090798 |
+| Players | 1/24 |
+| Host Name | highbrow |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:55:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598759997356 |
+| Players | 2/8 |
+| Host Name | sluker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:55:51 |
 
 
