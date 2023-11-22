@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598526349392 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:30:54 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598527511659 |
-| Players | 2/24 |
-| Host Name | Tom McGrady |
+| Players | 1/24 |
+| Host Name | Taweret |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:33:32 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598527232117 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:32:54 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598528028825 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:34:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598528157919 |
+| Players | 2/10 |
+| Host Name | Dissolve |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:35:01 |
 
 
