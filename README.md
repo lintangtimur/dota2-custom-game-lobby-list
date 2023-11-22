@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598972569904 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:20:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598972748632 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | vicderrR.D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:03 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 22:22:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598974470989 |
-| Players | 1/24 |
-| Host Name | Samuuuuuu☺ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:22:45 |
+| Lobby ID | 28531598974792686 |
+| Players | 1/15 |
+| Host Name | Solo Leveling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:23:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 22:15:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598973436315 |
-| Players | 6/8 |
-| Host Name | [LT]smelikovrussia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:21:43 |
+| Lobby ID | 28531598974765418 |
+| Players | 1/15 |
+| Host Name | Imagio |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:23:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598973136133 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:26 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598974235172 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | TerraLecs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:22:31 |
