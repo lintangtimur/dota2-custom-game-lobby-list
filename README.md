@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598511861627 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Smogi4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:57:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598510634266 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:54:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598509146759 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:51:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598511355334 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dissolve |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598512580315 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:59:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598512338569 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:58:47 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598512835219 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PTS ENJOYER) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:59:54 |
