@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598814939763 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | うちはオビト |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:25 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598810082938 |
-| Players | 22/24 |
-| Host Name | Офисный стиляга |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:51:37 |
+| Lobby ID | 28531598815699788 |
+| Players | 1/24 |
+| Host Name | Just die already |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:57:10 |
 
 
 |  | ot3_gardens_duo |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598815305970 |
-| Players | 1/15 |
-| Host Name | DVMN神 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:56:47 |
+| Lobby ID | 28531598815612776 |
+| Players | 6/8 |
+| Host Name | EVian |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:57:05 |
 
 
 |  | ot3_desert_octet |
@@ -132,17 +132,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598809742118 |
 | Players | 10/15 |
-| Host Name | Malcroine |
+| Host Name | WoW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:51:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598815612776 |
-| Players | 2/8 |
-| Host Name | EVian |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:57:05 |
 
 
