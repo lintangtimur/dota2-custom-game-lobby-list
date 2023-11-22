@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598788062561 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ... |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:28:28 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598780699971 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:20:16 |
+| Lobby ID | 28531598790572949 |
+| Players | 1/15 |
+| Host Name | The Indomitable Human Spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:31:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:27:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598790517616 |
-| Players | 2/8 |
-| Host Name | Пожилой Дюшес |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:31:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598790072337 |
-| Players | 4/15 |
-| Host Name | Gogâie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:30:40 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598789124590 |
@@ -112,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598790572949 |
-| Players | 1/15 |
-| Host Name | The Indomitable Human Spirit |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:31:13 |
+| Lobby ID | 28531598790072337 |
+| Players | 7/15 |
+| Host Name | Gogâie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:30:40 |
 
 
