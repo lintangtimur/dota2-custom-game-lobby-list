@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598562889166 |
-| Players | 2/24 |
-| Host Name | ARi |
+| Players | 1/24 |
+| Host Name | †_† |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:54:15 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:02:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598564057460 |
-| Players | 13/15 |
-| Host Name | Reddy |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:57:01 |
+| Lobby ID | 28531598566533319 |
+| Players | 2/10 |
+| Host Name | Tá muito branco meu filho! |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:02:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598565381621 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Fer_Luque1696 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:00:09 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gays_Tapo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:01:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598566533319 |
-| Players | 2/10 |
-| Host Name | Tá muito branco meu filho! |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:02:54 |
 
 
