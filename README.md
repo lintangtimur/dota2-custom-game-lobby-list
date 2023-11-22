@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122931563892 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | НЕЖНЫЙ ВАЙБ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:14:57 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i have no enemies |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:21:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122931875003 |
-| Players | 14/15 |
-| Host Name | KorbenDallas |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:15:47 |
 
 
