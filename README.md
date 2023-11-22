@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:36:49 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598670154704 |
-| Players | 1/5 |
-| Host Name |  FenriR |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:37:10 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598667673014 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598668811621 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Natural |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:34:38 |
@@ -68,18 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598669725552 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Метка Дрилла |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:36:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598667286782 |
-| Players | 2/8 |
-| Host Name | нет |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:31:48 |
+| Lobby ID | 28531598658076699 |
+| Players | 20/24 |
+| Host Name | [TGP] T-Virus |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598670242348 |
+| Players | 1/15 |
+| Host Name | W̷.̷A̷.̷R̷_̷a̷n̷g̷e̷l |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:37:19 |
 
 
