@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598630333103 |
-| Players | 1/10 |
-| Host Name | JOSEP |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:20:50 |
+| Lobby ID | 28531598630472530 |
+| Players | 3/8 |
+| Host Name | spokoinx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:21:06 |
 
 
 |  | ot3_gardens_duo |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:09:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598630472530 |
-| Players | 1/8 |
-| Host Name | spokoinx |
+| Lobby ID | 28531598630575450 |
+| Players | 1/10 |
+| Host Name | trash teammate |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:21:06 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:21:18 |
 
 
