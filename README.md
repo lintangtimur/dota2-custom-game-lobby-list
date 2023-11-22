@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122920402335 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | MANGO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:45:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122920176030 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | солитер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:44:44 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122920593037 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ☼ A P O L O ☼ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:45:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122918869583 |
+| Players | 14/15 |
+| Host Name | Mongolier |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LUWEN DEKU |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:18:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122919580557 |
-| Players | 9/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:43:10 |
 
 
