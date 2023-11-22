@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598509016784 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CapTaIN SuNNY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:50:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598511236349 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | mauri |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598511358623 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | msun_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598510629281 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | CHUM IS FUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:54:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598510124081 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ravenpoe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:53:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598510857549 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | САНЯ ШАНЕЛЬ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:55:20 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598509115296 |
-| Players | 7/15 |
-| Host Name | Douma |
+| Players | 8/15 |
+| Host Name | -a |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:51:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598510022925 |
-| Players | 14/15 |
-| Host Name | Tawyll |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:53:18 |
+| Lobby ID | 28531598511585231 |
+| Players | 2/10 |
+| Host Name | bot<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:57:03 |
 
 
 |  | ot3_desert_octet |
