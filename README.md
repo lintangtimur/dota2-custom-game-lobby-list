@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598580230071 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CAPYBARA CAPYBARA CAPYBARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:34:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598580621606 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:35:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598579791928 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:33:29 |
@@ -85,8 +85,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28531598581434089 |
+| Players | 1/15 |
+| Host Name | Steel Ball Run |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:37:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598581406106 |
+| Players | 1/15 |
+| Host Name | McDi |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:37:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28531598580226123 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Webeando |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:34:29 |
