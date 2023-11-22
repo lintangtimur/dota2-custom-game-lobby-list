@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598619393462 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:58:36 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598619185817 |
-| Players | 23/24 |
-| Host Name | Me? |
+| Lobby ID | 28531598615571922 |
+| Players | 15/24 |
+| Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:58:11 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:50:36 |
 
 
 |  | ot3_desert_octet |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Savolnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:00:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598615571922 |
-| Players | 18/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:50:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598620441446 |
-| Players | 1/15 |
-| Host Name | JIeoHuD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:00:52 |
 
 
