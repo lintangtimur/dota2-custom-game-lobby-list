@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598448338200 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Tike Myson |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:25:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598449762870 |
-| Players | 2/10 |
-| Host Name | БЛЮДЦЕ С ДЫРКОЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:28:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -47,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 07:50:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598447382990 |
-| Players | 13/15 |
-| Host Name | THE RIDDLE |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:23:33 |
+| Lobby ID | 28531598450142857 |
+| Players | 2/8 |
+| Host Name | LJ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:29:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449176832 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | .l. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:27:32 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598450053532 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Hxksl  (1) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:29:33 |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:28:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598450142857 |
-| Players | 2/8 |
-| Host Name | LJ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:29:45 |
+| Lobby ID | 28531598450288039 |
+| Players | 1/15 |
+| Host Name | Bluedemon |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:30:06 |
 
 
