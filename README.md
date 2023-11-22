@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598697714195 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:27:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598705243162 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:39:24 |
@@ -67,26 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598705334951 |
-| Players | 9/10 |
-| Host Name | Bestie |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:39:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598705124628 |
-| Players | 1/8 |
-| Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:39:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531598705691864 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | xanax |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:40:07 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598705703289 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Anlatov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:40:08 |
