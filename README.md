@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598894445950 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 303 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:09:46 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598893780157 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | asaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:09:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598893638461 |
-| Players | 9/10 |
-| Host Name | Kharamun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:09:04 |
+| Lobby ID | 28531598891733632 |
+| Players | 23/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:07:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598894670890 |
-| Players | 2/15 |
-| Host Name | KRAKEN |
+| Players | 3/15 |
+| Host Name | Mouches Volantes |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:09:58 |
 
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:07:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598894865103 |
-| Players | 2/24 |
-| Host Name | 阿鹿 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:10:09 |
+| Lobby ID | 28531598895092178 |
+| Players | 2/10 |
+| Host Name | Nich |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:10:21 |
 
 
