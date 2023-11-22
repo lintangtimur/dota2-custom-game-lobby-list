@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598572827522 |
-| Players | 9/10 |
-| Host Name | CAPYBARA CAPYBARA CAPYBARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:17:28 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598568789522 |
@@ -20,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:10 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598575112091 |
+| Players | 2/10 |
+| Host Name | Mr.Fat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:22:41 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598574391659 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Feb |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:21:02 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:21:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598574388382 |
-| Players | 7/10 |
-| Host Name | God Bless the Mafia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:21:01 |
+| Lobby ID | 28531598575153123 |
+| Players | 1/24 |
+| Host Name | Nezuko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:22:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598568997439 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
@@ -67,19 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598574920912 |
-| Players | 1/15 |
-| Host Name | Tioshadow |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:22:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531598574721766 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Thor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:21:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598570718088 |
+| Players | 22/24 |
+| Host Name | El racista de la FIEE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:12:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598575139568 |
+| Players | 2/24 |
+| Host Name | ТУРБОШИЗОЙД |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:22:44 |
 
 
