@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598824379878 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:05:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598826973718 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Vachupa |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:08:15 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598826943102 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Damaroo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:08:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598827359457 |
-| Players | 1/24 |
-| Host Name | Tempeste |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:08:37 |
 
 
 |  | ot3_desert_octet |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Siopaolicius |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:08:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598824360267 |
-| Players | 14/15 |
-| Host Name | Noblesse |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:05:43 |
 
 
