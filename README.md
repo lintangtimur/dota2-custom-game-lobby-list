@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122931363671 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | artemw34567 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:14:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598442600751 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Di ka mabibitin sa Eng Bee Tin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:18:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598445345074 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Quagmire |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:20:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598443800677 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name |             |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:18:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598442808445 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SI Te MAto eres CAbro |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:18:10 |
@@ -94,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28530122931744756 |
-| Players | 12/15 |
-| Host Name | Rango |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:15:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598446549282 |
-| Players | 1/8 |
-| Host Name | Carbron |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:21:57 |
+| Lobby ID | 28530122931875003 |
+| Players | 14/15 |
+| Host Name | KorbenDallas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:15:47 |
 
 
