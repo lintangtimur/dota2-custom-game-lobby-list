@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598916890308 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Chen |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:41 |
@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:28:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598915837854 |
-| Players | 1/24 |
-| Host Name | irealGrinya |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:28:45 |
+| Lobby ID | 28531598917130968 |
+| Players | 6/10 |
+| Host Name | Извиняйся |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:29:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598917158867 |
+| Lobby ID | 28531598915860086 |
 | Players | 1/8 |
-| Host Name | Alaq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:29:55 |
+| Host Name | guts |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:28:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598898388975 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | FaLcArIuS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:13:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598916903645 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | DonkayPunch Q(Q'-')!! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:42 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mango is Love |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:29:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598915860086 |
-| Players | 1/8 |
-| Host Name | guts |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:28:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598917130968 |
-| Players | 4/10 |
-| Host Name | Извиняйся |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:29:54 |
 
 
