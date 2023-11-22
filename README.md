@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598641678152 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Loading |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:43:08 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:41:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598641974707 |
-| Players | 1/24 |
-| Host Name | Syberian Huskar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:43:42 |
+| Lobby ID | 28531598642325695 |
+| Players | 9/10 |
+| Host Name | smegma enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:44:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598641520831 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | DENY YOUR FUN |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598641533904 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:51 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598631045583 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:22:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598642325695 |
-| Players | 3/10 |
-| Host Name | smegma enjoyer |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:44:24 |
 
 
