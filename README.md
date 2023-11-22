@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598510629281 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:54:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598527297363 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Come On Larvae Let's Go Party |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:33:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598527829861 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | GhosTNeal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:34:16 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598528157919 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Dissolve |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:35:01 |
