@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598650167882 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Головосоввание |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:59:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598647657308 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598650312519 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | みあもとむさし |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:59:51 |
