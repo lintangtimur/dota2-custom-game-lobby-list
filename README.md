@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598721368481 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:04:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598722674813 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | TheRealBubmels |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:06:01 |
@@ -58,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598722808237 |
+| Lobby ID | 28531598722847082 |
 | Players | 1/15 |
-| Host Name | Austin Powers |
+| Host Name | Natsubi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:06:12 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:06:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598722939421 |
+| Players | 1/10 |
+| Host Name | huy292003 |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:06:23 |
 
 
