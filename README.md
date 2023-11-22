@@ -4,29 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598554565387 |
-| Players | 9/10 |
-| Host Name | Akaza |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:34:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598554038987 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Dysfun |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:33:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598553344348 |
-| Players | 7/10 |
-| Host Name | DOMINICA MELLET |
+| Lobby ID | 28531598555346397 |
+| Players | 12/15 |
+| Host Name | S.A.W |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:31:57 |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:36:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598554946934 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Тележка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:35:44 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598554289741 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:34:11 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598555065245 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:36:01 |
@@ -76,19 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598554559790 |
-| Players | 8/15 |
-| Host Name | goblin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:34:49 |
+| Lobby ID | 28531598555400951 |
+| Players | 2/15 |
+| Host Name | charefpc500 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:36:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598555152808 |
+| Lobby ID | 28531598555490274 |
 | Players | 1/8 |
-| Host Name | Aker- |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:36:13 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:37:01 |
 
 
