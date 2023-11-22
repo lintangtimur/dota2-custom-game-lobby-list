@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598617980395 |
-| Players | 9/10 |
-| Host Name | mybiiru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:55:39 |
+| Lobby ID | 28531598619293774 |
+| Players | 1/10 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:58:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598618662739 |
-| Players | 9/10 |
-| Host Name | Eleum Loyce |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:57:05 |
+| Lobby ID | 28531598619393462 |
+| Players | 3/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:58:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598619185817 |
-| Players | 1/24 |
+| Players | 8/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:58:11 |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598618734419 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Erudite ツ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598618434121 |
-| Players | 4/8 |
-| Host Name | My Death! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:56:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598619118692 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Шпион Григорий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:58:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598619522741 |
+| Players | 1/24 |
+| Host Name | murad |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:58:53 |
 
 
