@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598775761915 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | cRaZy_fLo |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:38 |
@@ -24,18 +24,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598776148040 |
 | Players | 1/5 |
-| Host Name | ПОХМЕЛЬЕ |
+| Host Name | DIОрея |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:15:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598775407301 |
-| Players | 8/10 |
-| Host Name | Ｍ８ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:14:13 |
+| Lobby ID | 28531598775940615 |
+| Players | 2/8 |
+| Host Name | EL REAL  FELIPE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:14:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598771365324 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 子临 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:09:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598775523252 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Guf jif |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:21 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598775430277 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | shigetsuga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598775940615 |
-| Players | 1/8 |
-| Host Name | EL REAL  FELIPE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:14:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598776143735 |
-| Players | 1/24 |
-| Host Name | Dota 2½ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:15:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598775927330 |
-| Players | 2/8 |
-| Host Name | twelve |
+| Lobby ID | 28531598774229527 |
+| Players | 14/15 |
+| Host Name | DetNice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:14:49 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:12:54 |
 
 
