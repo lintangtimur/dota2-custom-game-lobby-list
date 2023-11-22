@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598771818672 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | chyrkiha_myhamed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:10:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598772831757 |
+| Players | 1/10 |
+| Host Name | Отошёл покурить |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:11:17 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598769739960 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:07:39 |
