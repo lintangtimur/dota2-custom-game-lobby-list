@@ -14,17 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598689079154 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | GreShnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:12:07 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531598689087992 |
-| Players | 2/7 |
-| Host Name | voldemar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:07 |
 
@@ -41,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598687428592 |
-| Players | 17/24 |
-| Host Name | Eren Yeager |
+| Players | 22/24 |
+| Host Name | BEEBS IM OVER HERE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:09:09 |
 
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598689052028 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ИМЯ ПРОФИЛЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:04 |
