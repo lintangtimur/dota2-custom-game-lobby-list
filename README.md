@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598546020082 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | [Inserte Nombre Gozu] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:15:01 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598546790363 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Pochison |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:16:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598547293509 |
+| Players | 6/15 |
+| Host Name | BAKE |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:17:59 |
 
 
