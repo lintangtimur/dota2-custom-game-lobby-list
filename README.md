@@ -11,10 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:43:34 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598559366612 |
+| Players | 1/10 |
+| Host Name | vova-kravtsov-2024 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:46:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598556811574 |
+| Players | 9/10 |
+| Host Name | Maeeeeeeeeeeng |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:40:07 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598557216780 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ZZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:41:04 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598558990970 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:45:10 |
