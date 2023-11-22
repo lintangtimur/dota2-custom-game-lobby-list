@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598524160534 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tsukasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:25:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598527316576 |
-| Players | 1/5 |
-| Host Name | ⛧BurrFox⛧ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:33:06 |
 
 
 |  | ot3_gardens_duo |
@@ -50,34 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598526983236 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | cujdk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:32:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598525291786 |
-| Players | 23/24 |
-| Host Name | fatantogod |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:28:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598525784540 |
-| Players | 7/8 |
-| Host Name | Alyssa Rayne |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:29:36 |
+| Lobby ID | 28531598527553980 |
+| Players | 1/8 |
+| Host Name | GlipGal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:33:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598527511659 |
+| Players | 1/24 |
+| Host Name | Tom McGrady |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:33:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598527297363 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Come On Larvae Let's Go Party |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:33:03 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DonkayPunch Q(Q'-')!! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:32:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598527447630 |
+| Players | 4/10 |
+| Host Name | EBRam |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:33:24 |
 
 
