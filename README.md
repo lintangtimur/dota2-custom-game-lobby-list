@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598594533651 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:06:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598605357555 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | ДРАКОН-ЧЕРЕПАХА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:29:51 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ReLu D' Soto |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:30:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598605788358 |
+| Players | 4/8 |
+| Host Name | EL CONQUISTADOR DE LA 27 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:30:48 |
 
 
