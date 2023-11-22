@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598711136582 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Бабушка в кедах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:48:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598711325427 |
-| Players | 1/10 |
-| Host Name | Bear Grylls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:49:00 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598710238629 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | Azalea |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:47:18 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598710518867 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | СаняКомпьютер |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:47:44 |
