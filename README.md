@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598658382831 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Skills in Pills |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:15:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598658599591 |
-| Players | 1/5 |
+| Lobby ID | 28531598658696616 |
+| Players | 1/10 |
 | Host Name | Akaza |
 | Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:15:27 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:15:38 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:57:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598657275200 |
-| Players | 9/10 |
-| Host Name | kto myaukaet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:12:58 |
+| Lobby ID | 28531598658437868 |
+| Players | 1/24 |
+| Host Name | Sunlover |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:15:09 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:03:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598657655784 |
-| Players | 7/15 |
-| Host Name | aWarDeeee |
+| Lobby ID | 28531598658737773 |
+| Players | 3/10 |
+| Host Name | Eleum Loyce |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:13:39 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:15:42 |
 
 
 |  | ot3_gardens_duo |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598658278289 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Kesh_JR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:14:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598658437868 |
-| Players | 1/24 |
-| Host Name | Sunlover |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:15:09 |
 
 
