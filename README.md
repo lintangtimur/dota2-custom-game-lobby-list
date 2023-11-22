@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598621464650 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 印度代购神药专卖 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:02:58 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598621834865 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Harvester of death |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:03:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598620737202 |
-| Players | 11/15 |
-| Host Name | Gogâie |
+| Lobby ID | 28531598622044888 |
+| Players | 3/8 |
+| Host Name | JERENGA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:01:29 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:04:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598621101626 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:02:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598620739699 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:01:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598621673994 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | don't let it break you |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:03:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598618434121 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | kn9z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:56:36 |
