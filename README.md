@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598601382194 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598608882745 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:37:14 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598605519768 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ReLu D' Soto |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:30:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598608372212 |
-| Players | 13/15 |
-| Host Name | Toretto_DI |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:36:09 |
+| Lobby ID | 28531598609530218 |
+| Players | 4/8 |
+| Host Name | Gerya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:38:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598608545843 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ghoul |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:36:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598609094209 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Harvester of death |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:37:41 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mese kir |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:38:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598609424375 |
-| Players | 1/8 |
-| Host Name | Tikovka <3 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:38:22 |
 
 
