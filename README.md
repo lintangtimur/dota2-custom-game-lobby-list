@@ -11,22 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598582599554 |
-| Players | 9/10 |
-| Host Name | Raikenzi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:39:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598583735612 |
-| Players | 6/10 |
-| Host Name | Месси |
+| Lobby ID | 28531598584003818 |
+| Players | 12/15 |
+| Host Name | OG |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:42:25 |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:43:01 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598583764025 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:42:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598584003818 |
-| Players | 6/15 |
-| Host Name | DreamingCat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:43:01 |
 
 
