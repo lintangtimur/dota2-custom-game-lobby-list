@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598886602899 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:02:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598887663039 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Собачий кайф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:03:48 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598887755484 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:03:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598888085620 |
-| Players | 1/24 |
-| Host Name | Your mom |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:04:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598888118385 |
-| Players | 1/15 |
-| Host Name | Sproud |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:04:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -144,5 +126,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:04:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598888392363 |
+| Players | 1/24 |
+| Host Name | Your mom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:04:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598888384447 |
+| Players | 1/15 |
+| Host Name | oninoninonino~ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:04:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598888386801 |
+| Players | 1/15 |
+| Host Name | JiN- |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:04:27 |
 
 
