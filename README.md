@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598493217692 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:13:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598493354363 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TE MATO Y ME ESCAPO. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:13:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598493735400 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ;) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:14:42 |
