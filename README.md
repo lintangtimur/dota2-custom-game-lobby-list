@@ -14,28 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598634136711 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:28:23 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598635899552 |
+| Players | 1/5 |
+| Host Name | ♡♡♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:31:53 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598634434158 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Смотрите кирпич |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:28:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598634918159 |
-| Players | 13/15 |
-| Host Name | Kiwiszn |
+| Lobby ID | 28531598635338044 |
+| Players | 3/8 |
+| Host Name | WAYNE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:29:55 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:30:45 |
 
 
 |  | ot3_desert_octet |
@@ -68,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598634853764 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:29:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598635661284 |
+| Players | 4/15 |
+| Host Name | антошка_картошка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:31:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598635338044 |
-| Players | 3/8 |
-| Host Name | Uum Cuique |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:30:45 |
+| Lobby ID | 28531598628598483 |
+| Players | 5/8 |
+| Host Name | peru=feed |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:17:22 |
 
 
