@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598677212881 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:17 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598678827745 |
+| Lobby ID | 28531598679284753 |
 | Players | 1/10 |
 | Host Name | Иван Ящерица |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:53:17 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:54:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:47:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598676973052 |
-| Players | 21/24 |
-| Host Name | 不和小人一般见识 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:49:51 |
+| Lobby ID | 28531598679116924 |
+| Players | 5/15 |
+| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:53:49 |
 
 
 |  | ot3_desert_octet |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:52:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598679116924 |
-| Players | 5/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:53:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598679205197 |
-| Players | 1/15 |
-| Host Name | A |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:53:59 |
 
 
