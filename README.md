@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598780305084 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:19:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598780014586 |
-| Players | 8/10 |
-| Host Name | МЭЙБИ БЭЙБИ СУКА!! |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780713805 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Yuusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:17 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598781918970 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | DDreams.Matiskadi.1XBET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:21:39 |
