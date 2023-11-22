@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598856969789 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ШМАРОКРАД |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:36:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598860915757 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | The Devil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:39:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598862135344 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | MILES MORALES |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:40:44 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598862461512 |
-| Players | 5/8 |
-| Host Name | Asriel Dreemurr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:41:02 |
+| Lobby ID | 28531598862692544 |
+| Players | 1/8 |
+| Host Name | Ohhh.. You Touch My Tralala |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:41:15 |
 
 
