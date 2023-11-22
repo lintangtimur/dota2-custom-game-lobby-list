@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598578188849 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SummYourMom |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598590150257 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Глубокослав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:56:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598582697168 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | -50°thecoldone |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:40:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598590593441 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:57:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598590296626 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | God Bless the Mafia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:57:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598589182111 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:54:34 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Order of Melchizedek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:58:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598591359005 |
+| Players | 3/8 |
+| Host Name | The 4th Hokage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:59:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598591622102 |
+| Players | 4/8 |
+| Host Name | CHAMO COBRA CUPO 123 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:00:02 |
 
 
