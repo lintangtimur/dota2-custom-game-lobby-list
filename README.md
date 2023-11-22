@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 09:44:30 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598480992819 |
-| Players | 1/5 |
-| Host Name | ♿ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:45:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598480422519 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | PinguinoParador |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:43:45 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598480033880 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Takashi |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:42:49 |
@@ -68,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598480910562 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ̷ʳᵉᵖᵗ¹ˡᵒᵘᵈ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:44:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598481023814 |
-| Players | 1/15 |
-| Host Name | Fushiguro |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:45:12 |
+| Lobby ID | 28531598481084633 |
+| Players | 1/10 |
+| Host Name | Carbron |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:45:20 |
 
 
