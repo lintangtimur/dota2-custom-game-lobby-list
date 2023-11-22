@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598665739482 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CAM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:28:54 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598664435613 |
 | Players | 3/5 |
-| Host Name | Lolol |
+| Host Name | JJKEY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:26:25 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598663816480 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | hotmilk |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:25:16 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:28:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598667057576 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:31:23 |
+| Lobby ID | 28531598667401807 |
+| Players | 3/10 |
+| Host Name | 𓆩 𓆪psyhodeath |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:32:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598666401543 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Lune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:30:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598666873046 |
-| Players | 7/8 |
-| Host Name | драный сурикат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:31:02 |
 
 
 |  | ot3_necropolis_ffa |
