@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598680735903 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | UA l makson |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:56:49 |
@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:17 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598682200159 |
+| Players | 3/10 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:59:30 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598675899381 |
@@ -29,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:47:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598681819768 |
-| Players | 1/15 |
-| Host Name | AltaS_K.H.Dazz |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:58:49 |
+| Lobby ID | 28531598682250111 |
+| Players | 2/8 |
+| Host Name | хеллоу мир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:59:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598681440278 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Анал из жопы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:58:07 |
@@ -56,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:52 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598681025959 |
-| Players | 22/24 |
-| Host Name | Rimurudeness |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:57:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598681857816 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | D!va |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:58:53 |
