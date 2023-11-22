@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598795566944 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Tom McGrady |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:36:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598795036126 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Theforehead |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:35:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598796028638 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Yuki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:37:03 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598796387880 |
-| Players | 1/8 |
-| Host Name | gokirus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:37:26 |
+| Lobby ID | 28531598797148379 |
+| Players | 4/8 |
+| Host Name | bolshoy JOHNy |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:38:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598796469868 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Annette |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:37:31 |
