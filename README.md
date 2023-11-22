@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:17:53 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598497763630 |
+| Players | 1/5 |
+| Host Name | stynx*** |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:24:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598497057881 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598497648589 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Mr.Lulu^^ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:23:45 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598497296362 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:22:55 |
