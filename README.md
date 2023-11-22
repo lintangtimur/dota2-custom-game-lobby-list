@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598704893878 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | looks stupid but works |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:38:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598693158296 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | CRIMINAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:19:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598697714195 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:27:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598705955069 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Rimurudeness |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:40:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598705703289 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Anlatov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:40:08 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OkiTon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:40:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598706353770 |
+| Players | 3/15 |
+| Host Name | weow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:41:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598706383021 |
+| Players | 3/8 |
+| Host Name | PrOyAx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:41:13 |
 
 
