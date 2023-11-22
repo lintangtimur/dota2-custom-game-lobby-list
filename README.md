@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598538683293 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | BarBarik |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:58:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598541378756 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Lulalelilo |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:04:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598541207842 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:04:10 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598541868058 |
-| Players | 4/8 |
-| Host Name | RYUK |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:05:37 |
+| Lobby ID | 28531598542215884 |
+| Players | 3/8 |
+| Host Name | todd chavez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:06:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598542292470 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:06:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598541947029 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ♣«L­­»evi♣ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:05:48 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598542215884 |
-| Players | 2/8 |
-| Host Name | todd chavez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:06:23 |
+| Lobby ID | 28531598542524505 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:07:04 |
 
 
