@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598674817939 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | attvre(high ego player(egoisto)) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:45:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598674623132 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | sleepy space cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:45:28 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:46:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598674976593 |
+| Players | 3/15 |
+| Host Name | кавасаки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:46:08 |
 
 
