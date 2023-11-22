@@ -22,17 +22,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598569317062 |
-| Players | 1/10 |
-| Host Name | animal mother |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:09:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598569415334 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:09:36 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598568664180 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | †_† |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:07:53 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598568774918 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:08 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598568634979 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | goenbro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:07:48 |
@@ -94,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598569338245 |
-| Players | 6/8 |
-| Host Name | LilaLouSi@rkardo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:09:26 |
+| Lobby ID | 28531598569547214 |
+| Players | 4/8 |
+| Host Name | katagiri |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:09:54 |
 
 
 |  | ot3_gardens_duo |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:09:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598569547214 |
-| Players | 3/8 |
-| Host Name | katagiri |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:09:54 |
+| Lobby ID | 28531598569715225 |
+| Players | 1/15 |
+| Host Name | Wip |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:10:18 |
 
 
