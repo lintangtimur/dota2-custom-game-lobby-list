@@ -4,17 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598801336097 |
-| Players | 8/10 |
-| Host Name | 不狂菜狗子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:42:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598799994758 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 臭鱼烂虾 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:41:14 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780478693 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Mathametamine |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:01 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598795566944 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Tom McGrady |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:36:33 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598787801933 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:28:11 |
@@ -65,37 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:44:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598803911232 |
-| Players | 1/15 |
-| Host Name | рокаю камо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:45:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598802952698 |
-| Players | 1/15 |
-| Host Name | *******life |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:44:19 |
+| Lobby ID | 28531598804160068 |
+| Players | 8/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:45:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598801286406 |
-| Players | 5/8 |
-| Host Name | POPULAR FORCE |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:42:35 |
+| Lobby ID | 28531598804312734 |
+| Players | 1/8 |
+| Host Name | todd chavez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:45:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598803629694 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | 4r†33m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:45:02 |
