@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598486482459 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | kelbull |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:58:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598486224507 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:57:31 |
@@ -41,27 +41,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598485732902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sancocho |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:56:20 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598485519295 |
+| Players | 23/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:55:50 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598485238923 |
-| Players | 8/15 |
-| Host Name | 33 |
+| Lobby ID | 28531598486745337 |
+| Players | 6/15 |
+| Host Name | Sunacchi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:55:10 |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:58:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598486599746 |
+| Players | 4/10 |
+| Host Name | Убимуби Осас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:58:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598485519295 |
-| Players | 21/24 |
-| Host Name | Percibal |
+| Lobby ID | 28531598484322553 |
+| Players | 19/24 |
+| Host Name | ---XD--- |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:55:50 |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:52:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598486687209 |
+| Players | 1/24 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:58:36 |
 
 
