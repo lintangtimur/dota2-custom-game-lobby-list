@@ -11,30 +11,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:00:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598720153001 |
-| Players | 13/15 |
-| Host Name | . |
+| Lobby ID | 28531598721353551 |
+| Players | 1/10 |
+| Host Name | apTeom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:02:20 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:04:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598721368481 |
+| Players | 1/24 |
+| Host Name | Asam Garam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:04:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598715432496 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:55:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598720342937 |
-| Players | 7/8 |
-| Host Name | PhysikerHabenEinenNeuenWegGefund |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:02:36 |
 
 
