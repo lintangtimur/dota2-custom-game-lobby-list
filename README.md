@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598475335254 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Lifealope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:31:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598475681147 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | MONDONGO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:22 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598475019445 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | |D|I|S|C|O| |P|O|T|A|T|O| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:30:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598475660166 |
-| Players | 1/8 |
-| Host Name | want3d |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598475658170 |
-| Players | 8/24 |
-| Host Name | Potatoes gonna potate! |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598475840425 |
-| Players | 1/15 |
-| Host Name | Moonlight |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:32:44 |
 
 
 |  | ot3_desert_octet |
@@ -108,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598475658170 |
+| Players | 7/24 |
+| Host Name | Potatoes gonna potate! |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598475840425 |
+| Players | 2/15 |
+| Host Name | Moonlight |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:32:44 |
 
 
