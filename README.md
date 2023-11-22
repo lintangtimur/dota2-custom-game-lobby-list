@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598601382194 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598608882745 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:37:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598608372212 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Toretto_DI |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:36:09 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mese kir |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:38:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598609424375 |
+| Players | 1/8 |
+| Host Name | Tikovka <3 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:38:22 |
 
 
