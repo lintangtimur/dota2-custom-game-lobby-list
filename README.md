@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122928497675 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:06:51 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122928638925 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Chawas Shelby |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:07:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122927808306 |
-| Players | 21/24 |
-| Host Name | Poomp |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:05:01 |
+| Lobby ID | 28530122929529890 |
+| Players | 8/10 |
+| Host Name | Sephiroth |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:09:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122928363354 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:06:29 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122929171005 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Prof. Gertiks |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:08:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122929253132 |
-| Players | 2/8 |
-| Host Name | qupa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:08:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122929390119 |
-| Players | 1/8 |
-| Host Name | )))) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:09:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122928072704 |
-| Players | 9/10 |
-| Host Name | Matsuri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:05:42 |
 
 
 |  | epic_boss_fight_nightmare |
