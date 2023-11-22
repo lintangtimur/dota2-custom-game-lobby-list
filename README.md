@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598474022040 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | J1M |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:28:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598474492711 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:29:29 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:29:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598474767217 |
+| Players | 2/15 |
+| Host Name | Колдун ебанный |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:30:09 |
 
 
