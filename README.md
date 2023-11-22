@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598584930672 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:45:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598588531228 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | O$IDE MUFFLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:53:07 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598588462289 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:52:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598588902944 |
-| Players | 1/8 |
-| Host Name | .... |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:53:56 |
 
 
