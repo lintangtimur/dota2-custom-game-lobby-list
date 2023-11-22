@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598860887198 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:39:36 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598827553741 |
-| Players | 2/24 |
-| Host Name | Platinum |
+| Players | 1/24 |
+| Host Name | Tom McGrady |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:08:48 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598860915757 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | The Devil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:39:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598861307704 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | itensy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:39:59 |
