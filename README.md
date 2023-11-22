@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122904333169 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Гена зигомет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:03:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122904158971 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | G_G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:03:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122903721703 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | i was better but i fell in love |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:02:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122904064279 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | #MeDicenElRashoo ϟ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:03:03 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122904061231 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:03:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122904527971 |
+| Players | 1/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:04:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122902705155 |
-| Players | 7/10 |
-| Host Name | القلب لايختار, هو |
+| Players | 6/10 |
+| Host Name | Bullet ඞ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 06:59:32 |
 
