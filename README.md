@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598483889652 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:51:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598484299534 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ]_eXoes__Xex__.."> |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:52:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598484322553 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | [A]kke |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:52:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598484328987 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | CHUM IS FUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:52:57 |
@@ -121,17 +121,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598484407551 |
-| Players | 1/10 |
-| Host Name | inyourdream |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:53:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531598484414458 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | doN't sTop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:53:10 |
