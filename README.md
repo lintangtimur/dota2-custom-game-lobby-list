@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598445345074 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Quagmire |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:20:14 |
@@ -96,7 +96,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28530122931744756 |
 | Players | 4/15 |
-| Host Name | blint |
+| Host Name | Rango |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:15:27 |
 
