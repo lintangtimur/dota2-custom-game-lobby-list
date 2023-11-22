@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598516593712 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:08:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598517078357 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:40 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598515645656 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Tá muito branco meu filho! |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:06:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598516127722 |
-| Players | 9/15 |
-| Host Name | Stunning Garry |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:07:28 |
+| Lobby ID | 28531598514737533 |
+| Players | 6/8 |
+| Host Name | Lion the onLIONe |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:04:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598517159943 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598515083663 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:05:06 |
@@ -74,39 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598515239687 |
-| Players | 13/15 |
-| Host Name | RuBeN |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:05:27 |
+| Lobby ID | 28531598516808954 |
+| Players | 1/10 |
+| Host Name | Mindcore |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:09:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598516088799 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | 123123 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:07:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598516808954 |
-| Players | 3/10 |
-| Host Name | waiza |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:09:02 |
+| Lobby ID | 28531598514013522 |
+| Players | 14/15 |
+| Host Name | Asaく |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:02:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598517285425 |
-| Players | 1/24 |
-| Host Name | Mizuki |
+| Lobby ID | 28531598517376164 |
+| Players | 2/24 |
+| Host Name | Shadow Walker |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:10:09 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:10:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598517635562 |
+| Players | 1/10 |
+| Host Name | да |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:10:57 |
 
 
