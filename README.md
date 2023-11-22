@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:41:21 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598795692733 |
-| Players | 9/10 |
-| Host Name | Haiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:36:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780478693 |
@@ -83,42 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:28:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598796709106 |
-| Players | 7/10 |
-| Host Name | 子临 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:37:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598799756857 |
-| Players | 3/24 |
-| Host Name | Tempeste |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:40:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598799111178 |
-| Players | 8/10 |
-| Host Name | Belzaro |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:40:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598799571570 |
-| Players | 2/10 |
-| Host Name | rrrrmurrrrr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:40:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598800551788 |
@@ -128,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:41:49 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598799756857 |
+| Players | 5/24 |
+| Host Name | Tempeste |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:40:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598799895974 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ~migi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:41:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598799571570 |
+| Players | 2/10 |
+| Host Name | rrrrmurrrrr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:40:47 |
 
 
