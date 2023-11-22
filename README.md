@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598515645656 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tá muito branco meu filho! |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:06:22 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598516690051 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | yarikkes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:08:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598516763578 |
-| Players | 1/8 |
-| Host Name | ITS_SHOWTIME |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:08:56 |
+| Lobby ID | 28531598516808954 |
+| Players | 2/10 |
+| Host Name | waiza |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:09:02 |
 
 
