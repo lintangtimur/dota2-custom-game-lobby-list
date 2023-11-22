@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:14:46 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598546141596 |
-| Players | 1/5 |
-| Host Name | Parps |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:15:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598544939196 |
-| Players | 2/8 |
-| Host Name | Getter Emperor |
+| Players | 1/8 |
+| Host Name | COCO BASILE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:12:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598541378756 |
-| Players | 21/24 |
-| Host Name | Lulalelilo |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:04:32 |
+| Lobby ID | 28531598546020082 |
+| Players | 2/24 |
+| Host Name | [Inserte Nombre Gozu] |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:15:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598544600429 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Qaz |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:11:44 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598545638276 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | want3d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:14:06 |
@@ -77,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598546041158 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | Caramelbear |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:15:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598546020082 |
-| Players | 2/24 |
-| Host Name | [Inserte Nombre Gozu] |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:15:01 |
 
 
