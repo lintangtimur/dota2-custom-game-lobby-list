@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598570684555 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | We Are Electric |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:12:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598568603860 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Sheduconda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:07:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598570024162 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:11:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598569715225 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Wip |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:10:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598570718088 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:12:37 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | K292 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:11:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598570947241 |
+| Players | 1/8 |
+| Host Name | RUINA Бессмертная |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:13:10 |
 
 
