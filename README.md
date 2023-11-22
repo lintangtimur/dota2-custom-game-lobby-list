@@ -29,28 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:26:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598915279213 |
-| Players | 1/5 |
-| Host Name | Лучший в жизни |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:28:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598913661870 |
-| Players | 1/8 |
-| Host Name | dzhakhparov997 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:26:50 |
+| Lobby ID | 28531598915458424 |
+| Players | 1/24 |
+| Host Name | GantZ' |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:28:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598913461467 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | pwningdude |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:26:39 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598909119294 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Jeehee Δ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:22:48 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598910470296 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | God Bless the Mafia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:24:00 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598914794873 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | paranoid hopelessァ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:27:50 |
@@ -122,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598914839042 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | kripachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:27:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598915431653 |
+| Players | 1/24 |
+| Host Name | Tom McGrady |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:28:23 |
 
 
