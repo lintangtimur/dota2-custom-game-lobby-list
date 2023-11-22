@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598584665464 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | あなたの番です |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:44:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598586336743 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Бенджамин ФRUNклин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598584930672 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:45:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598584731414 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 110 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:44:39 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598586583244 |
-| Players | 1/15 |
-| Host Name | ☯︎M多 BoY |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:48:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598586609893 |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ReLu D' Soto |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598587062347 |
+| Players | 2/15 |
+| Host Name | Puri-puri Prisoner |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:49:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598587094958 |
+| Players | 1/10 |
+| Host Name | asantoloþ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:49:51 |
 
 
