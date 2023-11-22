@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598651186347 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Eleum Loyce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:01:29 |
@@ -47,21 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598647657308 |
-| Players | 22/24 |
-| Host Name | Eren Yeager |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:54:43 |
+| Lobby ID | 28531598651661621 |
+| Players | 1/15 |
+| Host Name | Ёмайха Ёмасо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:02:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598650312519 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | みあもとむさし |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:59:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598651664803 |
+| Players | 1/15 |
+| Host Name | Schele Dakduif |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:02:24 |
 
 
