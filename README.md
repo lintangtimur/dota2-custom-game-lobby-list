@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:36:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598628414167 |
+| Players | 3/8 |
+| Host Name | JERENGA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:17:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598628166587 |
-| Players | 1/15 |
-| Host Name | ... |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:16:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598623453743 |
-| Players | 20/24 |
-| Host Name | W®13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:07:01 |
+| Lobby ID | 28531598628449937 |
+| Players | 3/15 |
+| Host Name | stuck.run.sink.die |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:17:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598624751250 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Экинуй Сенгаี้ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:09:39 |
@@ -87,35 +87,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598628386895 |
 | Players | 2/15 |
-| Host Name | jesgri |
+| Host Name | Дупонюх |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:16:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598628414167 |
-| Players | 3/8 |
-| Host Name | JERENGA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:17:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598628433248 |
-| Players | 2/8 |
-| Host Name | Estriper |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:17:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598628449937 |
-| Players | 3/15 |
-| Host Name | stuck.run.sink.die |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:17:05 |
 
 
