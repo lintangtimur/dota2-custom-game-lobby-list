@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598658076699 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Чак-Чак Норрис |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598670415819 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Ychus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:37:39 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598670604844 |
+| Players | 2/10 |
+| Host Name | beps |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598670546385 |
-| Players | 2/8 |
-| Host Name | araigness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:37:54 |
+| Lobby ID | 28531598670669241 |
+| Players | 1/8 |
+| Host Name | Azusa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:08 |
 
 
