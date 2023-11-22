@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598519107160 |
-| Players | 9/10 |
-| Host Name | GOD in$iDe❤ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:14:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598520169846 |
 | Players | 3/10 |
 | Host Name | Blednaowca |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598519042468 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 葉王・朝倉 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:10 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598519219157 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Rati |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:35 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598519185112 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kurokawa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:31 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598520381575 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:17:19 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598520571197 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | tenia futuro hasta que dotee |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:17:45 |
@@ -103,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598520651849 |
-| Players | 1/24 |
-| Host Name | КУКУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:17:57 |
+| Lobby ID | 28531598520667537 |
+| Players | 2/24 |
+| Host Name | real human bean |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:17:59 |
 
 
