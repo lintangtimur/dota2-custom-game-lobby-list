@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:17:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598777638723 |
-| Players | 1/8 |
-| Host Name | Медовая шЫрина RIP |
+| Lobby ID | 28531598778699339 |
+| Players | 10/15 |
+| Host Name | TEEHEE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:16:47 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:18:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Тинкер Сергей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:16:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598778699339 |
-| Players | 6/15 |
-| Host Name | TEEHEE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:18:00 |
 
 
