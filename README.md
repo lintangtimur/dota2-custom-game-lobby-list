@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598780588596 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Daddy's Finger |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780713805 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Yuusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:17 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598781473307 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 老铅笔 |
 | Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:21:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598781472451 |
-| Players | 1/10 |
-| Host Name | КИНГКОНГ12 |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:21:09 |
 
 
