@@ -5,16 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598473482434 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | KillerBee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:27:04 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598474878590 |
+| Players | 1/10 |
+| Host Name | Jesus Christ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:30:26 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598474022040 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | J1M |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:28:22 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598474492711 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:29:29 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598473874655 |
+| Lobby ID | 28531598474682042 |
 | Players | 1/8 |
-| Host Name | метадоновый пёс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:28:00 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:29:57 |
 
 
 |  | ot3_desert_octet |
@@ -74,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 09:29:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598474682042 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:29:57 |
+| Lobby ID | 28531598475004220 |
+| Players | 2/10 |
+| Host Name | Колдун ебанный |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:30:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598474767217 |
-| Players | 2/15 |
-| Host Name | Колдун ебанный |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:30:09 |
+| Lobby ID | 28531598475019445 |
+| Players | 1/15 |
+| Host Name | |D|I|S|C|O| |P|O|T|A|T|O| |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:30:46 |
 
 
