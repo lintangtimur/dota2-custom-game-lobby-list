@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598667673014 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Geniones |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:32:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598672914577 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Apxfly |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:42:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598672177134 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Detelinara{RUBIN} |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:40:57 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598658076699 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Araki |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598673212324 |
-| Players | 1/8 |
-| Host Name | rolgee |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:42:51 |
 
 
