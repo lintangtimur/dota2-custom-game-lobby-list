@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598669976010 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | PowderX Jinx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:36:49 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531598670475911 |
+| Players | 1/7 |
+| Host Name | Raven |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:37:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:32:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598668811621 |
-| Players | 21/24 |
-| Host Name | Natural |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:34:38 |
+| Lobby ID | 28531598670472671 |
+| Players | 1/10 |
+| Host Name | [TGP] T-Virus |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:37:45 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598669725552 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Метка Дрилла |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:36:21 |
@@ -68,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598658076699 |
-| Players | 20/24 |
-| Host Name | [TGP] T-Virus |
+| Players | 19/24 |
+| Host Name | Чак-Чак Норрис |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598670242348 |
-| Players | 1/15 |
-| Host Name | W̷.̷A̷.̷R̷_̷a̷n̷g̷e̷l |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:37:19 |
+| Lobby ID | 28531598670415819 |
+| Players | 9/15 |
+| Host Name | Ychus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:37:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598670546385 |
+| Players | 2/8 |
+| Host Name | araigness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:37:54 |
 
 
