@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:30:37 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598701391620 |
+| Players | 1/5 |
+| Host Name | stardenburdenhardenbart |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598693158296 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598701186185 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Displex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:32:50 |
@@ -72,5 +81,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | todd chavez |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:30:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598701319083 |
+| Players | 1/24 |
+| Host Name | Zero SUGAR |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598701320967 |
+| Players | 1/8 |
+| Host Name | dqwa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598701424904 |
+| Players | 1/15 |
+| Host Name | Dota veteran |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:13 |
 
 
