@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598696473824 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:24:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598697026155 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 𝙩 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:25:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598696387708 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | PIZDYK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:24:48 |
