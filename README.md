@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:08:35 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598543843483 |
-| Players | 1/5 |
-| Host Name | HEE HEE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:10:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598542584055 |
