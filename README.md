@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598683276848 |
-| Players | 23/24 |
-| Host Name | 吃宝 |
+| Lobby ID | 28531598685711333 |
+| Players | 1/8 |
+| Host Name | Hi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:01:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:06:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:06:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598685711333 |
-| Players | 1/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:06:03 |
 
 
