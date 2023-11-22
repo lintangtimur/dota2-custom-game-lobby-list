@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598946461312 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | GigachaD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:56:18 |
@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598947291185 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Kiyotaka Ayanokoji |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:57:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598947517286 |
-| Players | 2/5 |
-| Host Name | Я легенда бравла |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:57:16 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598944601000 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Mene |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:54:35 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598946614714 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | JEFF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:56:26 |
@@ -76,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598940926377 |
-| Players | 1/15 |
-| Host Name | FEDEAR ES MI PA..... |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:51:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531598946623701 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ZZZZZZZZZZZZ!!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:56:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598947511980 |
-| Players | 1/24 |
-| Host Name | BAGREZUKO |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:57:15 |
+| Lobby ID | 28531598947677981 |
+| Players | 1/15 |
+| Host Name | FEDEAR ES MI PA..... |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:57:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598947720625 |
+| Players | 1/15 |
+| Host Name | The not to be named one |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:57:27 |
 
 
