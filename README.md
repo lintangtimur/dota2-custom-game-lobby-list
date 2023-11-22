@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 22:17:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598969274812 |
-| Players | 8/10 |
-| Host Name | 34 |
+| Lobby ID | 28531598967807554 |
+| Players | 10/15 |
+| Host Name | darkness空虚 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:17:41 |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:16:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598969010345 |
-| Players | 7/8 |
-| Host Name | Murphy's Law |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:17:26 |
+| Lobby ID | 28531598968711364 |
+| Players | 14/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:17:08 |
 
 
 |  | ot3_desert_octet |
@@ -90,50 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Willl |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:16:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598967807554 |
-| Players | 6/15 |
-| Host Name | darkness空虚 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:16:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598968711364 |
-| Players | 10/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:17:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598969484664 |
-| Players | 1/8 |
-| Host Name | Ящер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:17:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598969530329 |
-| Players | 3/8 |
-| Host Name | kagura bachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:17:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598969762809 |
-| Players | 3/8 |
-| Host Name | 喜来乐 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:18:09 |
 
 
