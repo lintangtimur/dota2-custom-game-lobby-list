@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598780227576 |
-| Players | 9/10 |
-| Host Name | Alfy Fox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598784187935 |
 | Players | 1/10 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:24:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598785040020 |
+| Players | 1/5 |
+| Host Name | ПОХМЕЛЬЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:25:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598783068683 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Malcroine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:22:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598783928024 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Четверка Уебище |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:23:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598784000760 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:24:01 |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Лавитка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:24:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598784496269 |
-| Players | 4/8 |
-| Host Name | 777 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:24:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598784593864 |
-| Players | 7/8 |
-| Host Name | 老铅笔 |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:24:40 |
 
 
