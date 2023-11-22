@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598878804599 |
-| Players | 8/10 |
-| Host Name | heheehe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:55:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598878469415 |
-| Players | 5/10 |
-| Host Name | Aight, Bet! |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:55:32 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598880627691 |
@@ -29,13 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:57:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598881132115 |
-| Players | 2/8 |
-| Host Name | Fzforza(-1k) |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:57:56 |
+| Lobby ID | 28531598878469415 |
+| Players | 9/10 |
+| Host Name | Aight, Bet! |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:55:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598878804599 |
+| Players | 9/10 |
+| Host Name | heheehe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:55:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598881248666 |
+| Players | 6/15 |
+| Host Name | 76561199152408880 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:58:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598880367608 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:57:13 |
@@ -83,48 +83,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:51:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598881505943 |
-| Players | 1/15 |
-| Host Name | \\\\\\\\\\\\\\\\\\\\\ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:58:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598879212828 |
-| Players | 9/24 |
-| Host Name | ~ XyZ ~ |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:56:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598880128100 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Randall |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:57:01 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598879212828 |
+| Players | 8/24 |
+| Host Name | ~ XyZ ~ |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:56:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598881248666 |
+| Lobby ID | 28531598882052391 |
 | Players | 2/15 |
-| Host Name | 76561199152408880 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:58:02 |
+| Host Name | Sanctus Animus |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:58:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598881589298 |
-| Players | 3/10 |
+| Lobby ID | 28531598882135609 |
+| Players | 4/10 |
+| Host Name | Adonai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:58:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598882241411 |
+| Players | 3/8 |
 | Host Name | RyanCooper |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:58:22 |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:58:56 |
 
 
