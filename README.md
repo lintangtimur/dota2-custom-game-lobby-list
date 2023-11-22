@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598971003932 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Гадкий Олег |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:19:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598972569904 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:20:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598972748632 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | vicderrR.D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598972414052 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Taison v. Akhal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:20:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598972336726 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | [JIuoHeS]™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:20:39 |
@@ -95,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598971436148 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:19:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598972917173 |
+| Players | 1/15 |
+| Host Name | Little Baby Fiu Fiu |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:21:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598973045680 |
+| Players | 4/8 |
+| Host Name | i love big burger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:21:21 |
 
 
