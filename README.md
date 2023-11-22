@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598664435613 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Lolol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:26:25 |
@@ -22,35 +22,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598664831586 |
+| Lobby ID | 28531598664864218 |
 | Players | 1/10 |
-| Host Name | G |
+| Host Name | Plaridel |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:27:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598664809843 |
-| Players | 3/8 |
-| Host Name | RDV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:27:08 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:27:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598658076699 |
-| Players | 22/24 |
-| Host Name | swap commends |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
+| Lobby ID | 28531598664522523 |
+| Players | 1/24 |
+| Host Name | Eren Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:26:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598664614241 |
+| Players | 1/15 |
+| Host Name | Winner mindset |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:26:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598664276172 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Бабах Бесланов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:26:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598663961938 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Плющ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:25:33 |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Smoke weed every Day |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598664522523 |
-| Players | 1/24 |
-| Host Name | Eren Yeager |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:26:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598664614241 |
-| Players | 1/15 |
-| Host Name | Winner mindset |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:26:46 |
 
 
