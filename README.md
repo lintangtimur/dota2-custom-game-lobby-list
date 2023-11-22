@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598693158296 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | CRIMINAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:19:15 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:27:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598702372972 |
-| Players | 14/15 |
-| Host Name | Gogâie |
+| Lobby ID | 28531598703136948 |
+| Players | 2/8 |
+| Host Name | DullBoyEp |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:34:46 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:36:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598699008312 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | kerry mccoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:29:12 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | todd chavez |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:30:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598703136948 |
-| Players | 1/8 |
-| Host Name | DullBoyEp |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:36:00 |
 
 
