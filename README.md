@@ -58,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598650312519 |
-| Players | 7/8 |
-| Host Name | amogus |
+| Lobby ID | 28531598652079296 |
+| Players | 1/8 |
+| Host Name | Matye Bal |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:59:51 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:03:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598652089766 |
+| Players | 2/10 |
+| Host Name | 私は愛されたい |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:03:12 |
 
 
