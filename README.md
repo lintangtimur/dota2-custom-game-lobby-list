@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598924364713 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | PieForFun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:36:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598924190311 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Every Day The Same |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:36:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598924395879 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | сырники |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:36:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598921927711 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ...50 Cent... |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598924019823 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Giovanni Giorgio |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:36:00 |
@@ -113,9 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598919957448 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Invaders Must Die |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:32:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598923573384 |
+| Players | 2/8 |
+| Host Name | малафей сергеев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:35:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598925237973 |
+| Players | 2/8 |
+| Host Name | МИНИСТР ПИВА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:37:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598925304134 |
+| Players | 2/10 |
+| Host Name | Eleum Loyce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:37:08 |
 
 
