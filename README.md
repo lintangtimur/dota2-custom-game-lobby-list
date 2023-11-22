@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598911179696 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:24:38 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598913555660 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | эпл воч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:26:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598913573991 |
-| Players | 1/24 |
-| Host Name | HashiRama |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:26:45 |
+| Lobby ID | 28531598909119294 |
+| Players | 5/10 |
+| Host Name | Jeehee Δ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:22:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598898388975 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | FaLcArIuS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:13:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598913461467 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | pwningdude |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:26:39 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ExSide- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:26:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598909119294 |
-| Players | 5/10 |
-| Host Name | Jeehee Δ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:22:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598913892991 |
-| Players | 9/15 |
-| Host Name | Яспер Моглот (Dutch) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:27:02 |
 
 
