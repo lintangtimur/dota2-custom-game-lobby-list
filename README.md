@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122908241437 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Walter-sama |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:35 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122908939224 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Вахуе допиваю чай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:15:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122907976109 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | XFullHouse |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:12:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122908924529 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:15:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122908285272 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122908247882 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:36 |
