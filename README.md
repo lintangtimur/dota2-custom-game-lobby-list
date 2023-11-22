@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598946461312 |
-| Players | 6/10 |
-| Host Name | GigachaD |
+| Players | 5/10 |
+| Host Name | Addan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:56:18 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598950621718 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Deads |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:00:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598950807734 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Greywalker |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:00:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598951386474 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:00:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598951926336 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | lilDODIK GRANDMASTER |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:01:22 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asda |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:01:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598952221851 |
-| Players | 1/8 |
-| Host Name | бомбардирОчка |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:01:39 |
 
 
