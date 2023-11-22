@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598773881375 |
-| Players | 9/10 |
-| Host Name | marcibeacoup |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:12:30 |
+| Lobby ID | 28531598775761915 |
+| Players | 1/10 |
+| Host Name | cRaZy_fLo |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:14:38 |
 
 
 |  | epic_boss_fight_hard |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:13:34 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598775761915 |
-| Players | 1/10 |
-| Host Name | cRaZy_fLo |
+| Lobby ID | 28531598776148040 |
+| Players | 1/5 |
+| Host Name | ПОХМЕЛЬЕ |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:14:38 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:15:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598775407301 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ｍ８ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:13 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598775430277 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | shigetsuga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598775919921 |
-| Players | 1/24 |
-| Host Name | Star |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:14:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598776143735 |
+| Players | 1/24 |
+| Host Name | Dota 2½ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:15:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598775927330 |
+| Players | 2/8 |
+| Host Name | twelve |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:14:49 |
 
 
