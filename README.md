@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598734043902 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Чумной_Док |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:22:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598734578367 |
-| Players | 1/10 |
-| Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:22:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598733573887 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PIPÍ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:21:26 |
@@ -67,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598733906194 |
-| Players | 12/15 |
-| Host Name | Le Chocolat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:21:54 |
+| Lobby ID | 28531598734711472 |
+| Players | 1/15 |
+| Host Name | YEEZER |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:23:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598734674532 |
+| Lobby ID | 28531598734801714 |
 | Players | 1/15 |
-| Host Name | Gareth Southgate |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:22:59 |
+| Host Name | мускат орехов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:23:09 |
 
 
