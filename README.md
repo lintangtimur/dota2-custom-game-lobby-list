@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:58:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598564725354 |
-| Players | 1/8 |
-| Host Name | Rainz |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:58:35 |
+| Lobby ID | 28531598564840199 |
+| Players | 2/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:58:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598563122291 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:54:48 |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:54:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598564829192 |
-| Players | 1/24 |
-| Host Name | MankoS~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:58:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598564840199 |
-| Players | 1/24 |
-| Host Name | Lulalelilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:58:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598564869480 |
-| Players | 2/10 |
-| Host Name | Yatoro(Smurf) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:58:56 |
+| Lobby ID | 28531598564945515 |
+| Players | 1/8 |
+| Host Name | Rainz |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:59:07 |
 
 
