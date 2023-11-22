@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598535182930 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:50:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598538093571 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Vlad Pitoon |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:57:15 |
