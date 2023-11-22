@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531598517666207 |
-| Players | 1/7 |
-| Host Name | 16 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:11:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598517078357 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598517159943 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:51 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598517635562 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:10:57 |
