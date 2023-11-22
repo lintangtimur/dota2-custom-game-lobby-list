@@ -77,28 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598948720551 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BAGREZUKO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:58:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598948939356 |
-| Players | 8/10 |
-| Host Name | DAEMON |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:58:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598951026439 |
-| Players | 7/8 |
-| Host Name | と戦うと戦う |
+| Lobby ID | 28531598951548660 |
+| Players | 1/8 |
+| Host Name | skyvovkerlol |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:00:32 |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:01:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598951386474 |
+| Players | 7/15 |
+| Host Name | Mouches Volantes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:00:52 |
 
 
 |  | ot3_gardens_duo |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 22:00:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598951386474 |
-| Players | 2/15 |
-| Host Name | Mouches Volantes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:00:52 |
+| Lobby ID | 28531598951659115 |
+| Players | 1/10 |
+| Host Name | El Yuki |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:01:07 |
 
 
