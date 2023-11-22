@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598473482434 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | KillerBee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:27:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598475865204 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:48 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598476737058 |
-| Players | 1/10 |
-| Host Name | Firtl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:34:54 |
+| Lobby ID | 28531598476430082 |
+| Players | 8/10 |
+| Host Name | bigtula |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:34:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598475658170 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:34:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598476430082 |
-| Players | 8/10 |
-| Host Name | bigtula |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:34:10 |
 
 
