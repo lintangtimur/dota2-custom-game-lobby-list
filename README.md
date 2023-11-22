@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:44:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598581166404 |
-| Players | 7/8 |
-| Host Name | Sucly[PROS] :) |
+| Lobby ID | 28531598584930672 |
+| Players | 1/24 |
+| Host Name | El racista de la FIEE |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:36:36 |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:45:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:42:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598583764025 |
-| Players | 9/10 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:42:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598584930672 |
-| Players | 1/24 |
-| Host Name | El racista de la FIEE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:45:06 |
 
 
