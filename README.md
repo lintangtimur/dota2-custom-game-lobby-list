@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598507334776 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | dare |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:46:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598507019752 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | O Pai |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:46:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598506868869 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 401 : Not Found |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:45:41 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:46:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598507153324 |
-| Players | 7/8 |
-| Host Name | Arcane Blink <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:46:22 |
+| Lobby ID | 28531598507543913 |
+| Players | 1/15 |
+| Host Name | 恻隐 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:47:17 |
 
 
