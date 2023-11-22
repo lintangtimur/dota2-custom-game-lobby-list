@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:09:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598847184185 |
-| Players | 9/10 |
-| Host Name | CHIVAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:27:01 |
+| Lobby ID | 28531598848978709 |
+| Players | 1/8 |
+| Host Name | Grimorum ~_^ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:28:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598830306552 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:11:25 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598827553741 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:08:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598849183729 |
-| Players | 1/15 |
-| Host Name | Umbrella |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:28:52 |
+| Lobby ID | 28531598847891287 |
+| Players | 2/24 |
+| Host Name | Sopita |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:27:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:25:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598847891287 |
-| Players | 2/24 |
-| Host Name | Sopita |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:27:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598848978709 |
-| Players | 1/8 |
-| Host Name | Grimorum ~_^ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:28:41 |
+| Lobby ID | 28531598849375763 |
+| Players | 2/10 |
+| Host Name | F-16 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:29:02 |
 
 
