@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598843553269 |
-| Players | 1/5 |
-| Host Name | NothingToplay |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:23:41 |
+| Lobby ID | 28531598843810031 |
+| Players | 4/10 |
+| Host Name | nyThanh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:23:55 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598828452042 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | IsILdor |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:09:40 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:00:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598839598251 |
-| Players | 23/24 |
-| Host Name | ArakuTiki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:20:05 |
+| Lobby ID | 28531598843765955 |
+| Players | 4/10 |
+| Host Name | Delirium |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:23:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598839003794 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | BIG SLAMA DJAMA! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:19:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598843640692 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ☩FiseN☩ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:23:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598841166101 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:21:31 |
@@ -158,37 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598830306552 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | MK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:11:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598841285283 |
-| Players | 9/10 |
-| Host Name | Nich |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:21:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598843304219 |
-| Players | 5/15 |
-| Host Name | Dissmac Volt |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:23:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598843673624 |
-| Players | 2/10 |
-| Host Name | Deaggo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:23:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -200,12 +173,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:23:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598843765955 |
-| Players | 1/10 |
-| Host Name | Delirium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:23:53 |
+| Lobby ID | 28531598843304219 |
+| Players | 9/15 |
+| Host Name | Dissmac Volt |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:23:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598843959899 |
+| Players | 1/24 |
+| Host Name | goenbro |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:24:04 |
 
 
