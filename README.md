@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598505714775 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Kevy |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:42:53 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ВОНЮЧАЯ_ЖОПА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:43:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598506161718 |
-| Players | 1/15 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:43:59 |
 
 
