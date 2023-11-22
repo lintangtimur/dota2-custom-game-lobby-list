@@ -14,26 +14,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598684923801 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | R Y U K O |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:04:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598684148840 |
-| Players | 8/10 |
-| Host Name | Dota Matthäus |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:03:11 |
+| Lobby ID | 28531598683147638 |
+| Players | 7/8 |
+| Host Name | voeblan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:01:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598685043636 |
-| Players | 5/10 |
-| Host Name | B.i.AM.BATMAN |
+| Players | 4/10 |
+| Host Name | ... |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:04:50 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:01:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598684035664 |
-| Players | 13/15 |
-| Host Name | БОРЫЧ ТАЙМ БУЛЬВА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:02:59 |
+| Lobby ID | 28531598685073231 |
+| Players | 1/8 |
+| Host Name | torr__r |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:04:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GostRed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:04:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598683147638 |
-| Players | 7/8 |
-| Host Name | voeblan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:01:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598685073231 |
-| Players | 1/8 |
-| Host Name | torr__r |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:04:53 |
 
 
