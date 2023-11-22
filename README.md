@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598511236349 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | mauri |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:13 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598512394926 |
+| Players | 1/10 |
+| Host Name | Heen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:58:55 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598511861627 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Smogi4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:57:41 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598511548546 |
-| Players | 4/24 |
-| Host Name | PIPHELS |
+| Players | 8/24 |
+| Host Name | PEPSI MAN |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:58 |
 
@@ -59,45 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598511355334 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dissolve |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598510857549 |
-| Players | 8/10 |
-| Host Name | САНЯ ШАНЕЛЬ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:55:20 |
+| Lobby ID | 28531598512290997 |
+| Players | 1/8 |
+| Host Name | Enjoy dota, enjoy |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:58:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598510925297 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:55:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598509115296 |
-| Players | 13/15 |
-| Host Name | -a |
+| Lobby ID | 28531598512338569 |
+| Players | 2/10 |
+| Host Name | XxTuviejoxX |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:51:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598512072801 |
-| Players | 1/8 |
-| Host Name | Enjoy dota, enjoy |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:58:11 |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:58:47 |
 
 
