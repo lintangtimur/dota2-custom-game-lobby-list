@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598465384387 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:07:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598465267372 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:07:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598460774823 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:55:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598465474537 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 萧瑟 HLA Jeans  Lindaestrell |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:07:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598465649017 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Chosuke |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:08:10 |
