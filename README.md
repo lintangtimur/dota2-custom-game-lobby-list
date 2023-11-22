@@ -65,3 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:55:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598618175359 |
+| Players | 1/15 |
+| Host Name | Abobus |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:56:04 |
+
+
