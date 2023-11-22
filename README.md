@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598693158296 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | CRIMINAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:19:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598703865603 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:37:11 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598699433896 |
-| Players | 6/15 |
-| Host Name | ＧｅｎｔｌｅＨａｎｄｓ　星​空 |
+| Players | 3/15 |
+| Host Name | † Omega-Black † |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:29:54 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598704179103 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Le Chocolat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:37:42 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598704157245 |
-| Players | 1/24 |
-| Host Name | 1 of 1 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:37:40 |
+| Lobby ID | 28531598699008312 |
+| Players | 23/24 |
+| Host Name | kerry mccoy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:29:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598704111896 |
-| Players | 7/8 |
-| Host Name | VellStan |
+| Lobby ID | 28531598704426479 |
+| Players | 4/8 |
+| Host Name | naiziizian |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:37:35 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:38:05 |
 
 
