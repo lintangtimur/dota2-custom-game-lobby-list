@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598640245707 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kunde |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:40:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598642690767 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | KeFiR4iK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:45:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598642927328 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | LINTER |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:45:34 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Амбассадор тильта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:45:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598631045583 |
+| Players | 22/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:22:14 |
 
 
