@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598701424904 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Dota veteran |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:33:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598699433896 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ＧｅｎｔｌｅＨａｎｄｓ　星​空 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:29:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598699008312 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | kerry mccoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:29:12 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | todd chavez |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:30:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598701319083 |
-| Players | 1/24 |
-| Host Name | Zero SUGAR |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:33:03 |
 
 
 |  | ot3_necropolis_ffa |
