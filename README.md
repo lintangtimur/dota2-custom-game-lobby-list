@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598491776835 |
 | Players | 2/15 |
-| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
+| Host Name | Бобровая струя |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:10:17 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598490051505 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Pomeko |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:06:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598491887939 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:10:33 |
