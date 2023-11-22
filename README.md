@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598533761616 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Noy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:47:33 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598533508011 |
-| Players | 23/24 |
-| Host Name | real human bean |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:46:59 |
+| Lobby ID | 28531598534970850 |
+| Players | 8/24 |
+| Host Name | 'Lazy 雨' |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:50:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598531528468 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Bắt Con Cọp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:42:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598534372503 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Cooliophil |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:48:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598534879421 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | LogLin |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:49:59 |
