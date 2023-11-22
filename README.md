@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598804543683 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ani 木 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:45:59 |
@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:49:39 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598808592271 |
-| Players | 1/10 |
-| Host Name | sun and moon |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:50:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598808550833 |
-| Players | 3/8 |
-| Host Name | алмата нахуй |
+| Lobby ID | 28531598808017849 |
+| Players | 6/8 |
+| Host Name | toxic + critic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:50:04 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:49:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598808288952 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | DimASS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:49:48 |
@@ -86,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598806333017 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:47:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598808017849 |
-| Players | 6/8 |
-| Host Name | toxic + critic |
+| Lobby ID | 28531598808799624 |
+| Players | 1/15 |
+| Host Name | miron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:49:31 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:50:19 |
 
 
