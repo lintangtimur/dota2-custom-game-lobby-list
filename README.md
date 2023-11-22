@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598795566944 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Tom McGrady |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:36:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598787801933 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:28:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598802742710 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:44:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598806333017 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:47:48 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598807199595 |
-| Players | 1/15 |
-| Host Name | Упал на Кручатова |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:48:41 |
+| Lobby ID | 28531598807450701 |
+| Players | 4/15 |
+| Host Name | Axel |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:48:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:48:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598807450701 |
-| Players | 2/15 |
+| Lobby ID | 28531598807681986 |
+| Players | 2/8 |
 | Host Name | Smurfing Not Allowed |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:48:56 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:49:11 |
 
 
