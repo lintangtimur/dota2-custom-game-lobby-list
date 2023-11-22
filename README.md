@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598568789522 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ЧЕЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:10 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:27:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598577608020 |
-| Players | 13/15 |
-| Host Name | ’Mr . Big |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:28:26 |
+| Lobby ID | 28531598579255741 |
+| Players | 2/10 |
+| Host Name | 0.01 percent |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:32:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598568997439 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598578577797 |
-| Players | 2/8 |
-| Host Name | B U D H H A |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:30:41 |
+| Lobby ID | 28531598579622968 |
+| Players | 1/10 |
+| Host Name | лавэ звонит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:33:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598577791403 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ARi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:28:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598579255741 |
-| Players | 1/10 |
-| Host Name | huy292003 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:32:15 |
 
 
