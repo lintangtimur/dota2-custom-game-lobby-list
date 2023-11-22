@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598797491689 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Трамадол Марихуа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:38:36 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598797715750 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | чучмек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:38:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598797936838 |
+| Players | 4/10 |
+| Host Name | ORTORTORT |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:39:04 |
 
 
