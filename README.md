@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:28:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598923573384 |
-| Players | 1/8 |
-| Host Name | ATR.SoCooL |
+| Lobby ID | 28531598925396651 |
+| Players | 12/15 |
+| Host Name | 76561199152408880 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:35:36 |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:37:13 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598925447698 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 777 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:37:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598921927711 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ...50 Cent... |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:09 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598919957448 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Invaders Must Die |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:32:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598925396651 |
-| Players | 4/15 |
-| Host Name | 76561199152408880 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:37:13 |
+| Lobby ID | 28531598925694704 |
+| Players | 1/24 |
+| Host Name | 阿鹿 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:37:29 |
 
 
