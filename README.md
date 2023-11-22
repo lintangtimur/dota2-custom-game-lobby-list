@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122930366217 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Rille |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:11:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122930656316 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ok |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:12:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122930542138 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | my name jeff |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:12:18 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 21 Savage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:12:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122930785403 |
+| Players | 3/10 |
+| Host Name | Spieß voran |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:12:56 |
 
 
 |  | epic_boss_fight_normal |
