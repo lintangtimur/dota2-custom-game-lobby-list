@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:40:07 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598557796509 |
+| Players | 1/5 |
+| Host Name | ЧЕЛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:42:23 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598556968905 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Timber Aguilar |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:40:29 |
