@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598456343446 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | XFullHouse |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:45:02 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:47:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598456645191 |
-| Players | 8/10 |
-| Host Name | Estriper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:45:47 |
+| Lobby ID | 28531598457502207 |
+| Players | 1/8 |
+| Host Name | JOAKING |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:47:53 |
 
 
 |  | ot3_gardens_duo |
