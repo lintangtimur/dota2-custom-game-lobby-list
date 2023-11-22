@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598530546819 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:40:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598528831816 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:36:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598528918022 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:36:44 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wums |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:38:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598531528468 |
+| Players | 3/24 |
+| Host Name | Bắt Con Cọp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:42:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598529586639 |
+| Players | 23/24 |
+| Host Name | 腹有诗书气自华 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:38:15 |
 
 
