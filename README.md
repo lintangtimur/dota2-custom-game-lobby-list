@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122927689587 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Яйцеслав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:04:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122926827912 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:02:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122927596419 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Zero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:04:28 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122926068282 |
-| Players | 23/24 |
-| Host Name | D4RKY1$U$ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:00:26 |
+| Lobby ID | 28530122927867307 |
+| Players | 1/24 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:05:10 |
 
 
 |  | ot3_gardens_duo |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122927808306 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:05:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122927908643 |
+| Players | 1/10 |
+| Host Name | manerov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:05:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | miguel |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:05:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122924918073 |
+| Players | 9/10 |
+| Host Name | Slava_Ukraine |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:57:19 |
 
 
