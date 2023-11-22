@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122909706702 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | lowfunk |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:17:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122909711212 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:17:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122910079216 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Scr33nP33k |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:18:21 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122908285272 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28530122910382473 |
-| Players | 1/15 |
-| Host Name | 99999999999999999999999999 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:19:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LUWEN DEKU |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:18:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28530122910421283 |
+| Players | 1/5 |
+| Host Name | Tardcore Pornography |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:19:14 |
 
 
