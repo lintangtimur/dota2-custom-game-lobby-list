@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598667673014 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Geniones |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:32:32 |
@@ -68,46 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598670604844 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | beps |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:38:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598658076699 |
-| Players | 22/24 |
-| Host Name | 悪魔 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598670415819 |
-| Players | 13/15 |
-| Host Name | Ychus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:37:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598670704392 |
-| Players | 1/8 |
-| Host Name | bllashka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:38:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598670826537 |
-| Players | 1/10 |
-| Host Name | Apxfly |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:38:25 |
 
 
 |  | ot3_gardens_duo |
@@ -117,5 +81,59 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eleum Loyce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:38:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598671055733 |
+| Players | 1/8 |
+| Host Name | TMS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598670867964 |
+| Players | 2/24 |
+| Host Name | Azusa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598670826537 |
+| Players | 3/10 |
+| Host Name | Apxfly |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598658076699 |
+| Players | 23/24 |
+| Host Name | 悪魔 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598671021452 |
+| Players | 3/10 |
+| Host Name | нет |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:38:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598671162317 |
+| Players | 1/15 |
+| Host Name | JOSKIY.JOSKIY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:39:03 |
 
 
