@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598634087393 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:28:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598633258639 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:26:39 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598633872365 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | 怖いですよね？ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:27:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598634434158 |
+| Players | 1/10 |
+| Host Name | Смотрите кирпич |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:28:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598634498143 |
+| Players | 4/8 |
+| Host Name | джонни депп |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:29:06 |
 
 
