@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:04:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598895359695 |
-| Players | 1/10 |
-| Host Name | 乃卂丂ㄒ丨卂几 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:10:35 |
+| Lobby ID | 28531598892092417 |
+| Players | 2/8 |
+| Host Name | Лоб Селёдки |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:07:42 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598895892278 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 200 IQ Player |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:11:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598895431931 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Мармелад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:10:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598888219000 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:04:18 |
@@ -90,32 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nich |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:10:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598892092417 |
-| Players | 2/8 |
-| Host Name | Лоб Селёдки |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:07:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598895212949 |
-| Players | 7/8 |
-| Host Name | Koni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:10:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598896147293 |
-| Players | 4/8 |
-| Host Name | Espada.NNR |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:11:16 |
 
 
