@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598766603269 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | janter prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:03:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598768063705 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Recommend me a good audiobook |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:05:40 |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:05:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598768148688 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:05:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598768194151 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | YaPh3tS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:05:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598768332980 |
+| Players | 1/24 |
+| Host Name | (x_x) |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:05:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598768396324 |
+| Players | 3/10 |
+| Host Name | Я МЕНЕДЕЖЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:06:04 |
 
 
