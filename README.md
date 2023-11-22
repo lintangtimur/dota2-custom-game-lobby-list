@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598494626916 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:16:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598494824994 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:17:16 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:20:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598496066500 |
-| Players | 8/10 |
-| Host Name | Tá muito branco meu filho! |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:20:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598496336405 |
@@ -94,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598496486323 |
-| Players | 1/15 |
-| Host Name | i caNT lose |
+| Lobby ID | 28531598496557564 |
+| Players | 3/15 |
+| Host Name | Godo |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:21:05 |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:21:15 |
 
 
