@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:29:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598450786443 |
-| Players | 9/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
+| Lobby ID | 28531598451898991 |
+| Players | 4/15 |
+| Host Name | Leo <3 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:31:19 |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:34:03 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449176832 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | .l. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:27:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598451629631 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | lost the spark in my eyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:33:22 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449515979 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:28:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598451898991 |
-| Players | 3/15 |
-| Host Name | Leo <3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:34:03 |
 
 
