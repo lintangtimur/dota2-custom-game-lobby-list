@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:36:47 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598863899398 |
+| Players | 1/5 |
+| Host Name | DIОрея |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:42:20 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598822794093 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598863333488 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Piwi |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:41:49 |
@@ -90,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Антигерой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:41:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598863880115 |
+| Players | 1/24 |
+| Host Name | BMZ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:42:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598863914198 |
+| Players | 1/24 |
+| Host Name | FQNGOD |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:42:21 |
 
 
