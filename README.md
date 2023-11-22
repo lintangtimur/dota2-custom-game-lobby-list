@@ -50,25 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598464618003 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | bigtula |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:05:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598464649028 |
-| Players | 1/15 |
-| Host Name | baoeq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:05:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598464675415 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:05:47 |
