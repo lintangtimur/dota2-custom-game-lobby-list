@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598567687253 |
 | Players | 3/10 |
-| Host Name | Incognito_Gaming |
+| Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:05:37 |
 
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598568789522 |
-| Players | 3/5 |
-| Host Name | ДЕД Афанасий |
+| Players | 1/5 |
+| Host Name | ЧЕЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:10 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598568664180 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | †_† |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:07:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598568774918 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598569338245 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | LilaLouSi@rkardo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:09:26 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598569547214 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | katagiri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:09:54 |
