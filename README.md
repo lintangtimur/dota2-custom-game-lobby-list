@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598589330153 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:54:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598582697168 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | -50°thecoldone |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:40:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598589437480 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Июльский Дождь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:55:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598589280960 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:54:48 |
