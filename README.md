@@ -2,31 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598695317689 |
-| Players | 3/5 |
-| Host Name | VidoQ† |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:22:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598696473824 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:24:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598696556477 |
-| Players | 1/10 |
-| Host Name | warh0use |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:25:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598695766633 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Nezgo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:23:45 |
@@ -76,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598696454714 |
-| Players | 1/8 |
+| Lobby ID | 28531598696654278 |
+| Players | 2/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:24:55 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:25:15 |
 
 
