@@ -38,10 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:14:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598729864702 |
+| Players | 4/10 |
+| Host Name | tv/swedenstrong |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:16:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598728050241 |
+| Players | 16/24 |
+| Host Name | 123456 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:13:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598730204125 |
+| Players | 1/15 |
+| Host Name | www.twitch.tv/fominini |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:16:43 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598728947914 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Лютый понос |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:14:55 |
@@ -49,19 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598728050241 |
-| Players | 15/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:13:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598729864702 |
-| Players | 2/10 |
-| Host Name | tv/swedenstrong |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:16:14 |
+| Lobby ID | 28531598730358396 |
+| Players | 1/24 |
+| Host Name | Silver 神 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:16:56 |
 
 
