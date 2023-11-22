@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:40:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598556968905 |
-| Players | 7/8 |
-| Host Name | Timber Aguilar |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:40:29 |
+| Lobby ID | 28531598557216780 |
+| Players | 13/24 |
+| Host Name | ZZZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:41:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598556475085 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:39:20 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ArcaN |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:33:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598557216780 |
-| Players | 13/24 |
-| Host Name | ZZZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:41:04 |
 
 
