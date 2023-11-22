@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598475865204 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:48 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598469411367 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | x |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:17:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598476474048 |
-| Players | 9/15 |
-| Host Name | Рапунцель |
+| Lobby ID | 28531598476737058 |
+| Players | 1/10 |
+| Host Name | Firtl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:34:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:34:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598475658170 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598476430082 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | bigtula |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:34:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598476737058 |
-| Players | 1/10 |
-| Host Name | Firtl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:34:54 |
 
 
