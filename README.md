@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598457806149 |
+| Lobby ID | 28531598456351009 |
 | Players | 8/10 |
-| Host Name | Илюня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:48:34 |
+| Host Name | GuITaR |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:45:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598458139366 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Scintist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:49:21 |
@@ -104,27 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598457625323 |
-| Players | 15/24 |
+| Players | 23/24 |
 | Host Name | ℑH么ϟᏒ ツ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:48:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598458408555 |
-| Players | 3/8 |
-| Host Name | Garabato BOSS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:50:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598458456309 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | quatro сinco seis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:50:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598458515734 |
+| Players | 1/10 |
+| Host Name | Saskya de Freitas Moreira |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:50:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598457806149 |
+| Players | 9/10 |
+| Host Name | Илюня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:48:34 |
 
 
