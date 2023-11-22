@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:40:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598639850982 |
-| Players | 9/10 |
-| Host Name | xeyz11 |
+| Lobby ID | 28531598640712109 |
+| Players | 14/15 |
+| Host Name | kura |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:39:38 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:41:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,12 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:41:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598641490383 |
+| Players | 3/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:42:46 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598640712109 |
-| Players | 12/15 |
-| Host Name | kura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:41:17 |
+| Lobby ID | 28531598641520831 |
+| Players | 3/15 |
+| Host Name | smegma enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:42:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598641522486 |
+| Players | 1/24 |
+| Host Name | Michael Scott |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:42:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598641533904 |
+| Players | 2/10 |
+| Host Name | Shearinex |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:42:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598641594289 |
+| Players | 1/24 |
+| Host Name | xJw |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:42:58 |
 
 
