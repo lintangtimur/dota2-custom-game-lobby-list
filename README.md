@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598735513863 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:24:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598737826792 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | .SEN. |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:27:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598737122743 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:26:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598737174399 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | AdamPride |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:26:25 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598736477664 |
-| Players | 3/24 |
-| Host Name | Sign the Contract Big Boy |
+| Players | 2/24 |
+| Host Name | คุวยไรโยม |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:25:28 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598738121196 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Sorte |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:27:43 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:27:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598738373640 |
+| Players | 1/8 |
+| Host Name | УZБЕK_KILLЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:28:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598738358706 |
+| Players | 1/24 |
+| Host Name | Ghost_Rotaidalg_USSR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:28:02 |
 
 
