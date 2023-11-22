@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598719130947 |
 | Players | 5/10 |
-| Host Name | Fatalb0nds |
+| Host Name | ID : T41104 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:00:51 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598719430950 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Recommend me a good audiobook |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:01:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598718992396 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | fructachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:00:38 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:01:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598717270957 |
-| Players | 8/10 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:58:05 |
+| Lobby ID | 28531598715893157 |
+| Players | 22/24 |
+| Host Name | Chronicle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:55:59 |
 
 
