@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598649399122 |
-| Players | 1/5 |
-| Host Name | 呆槑呆 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:58:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598647424987 |
@@ -20,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:15 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598650112659 |
+| Players | 1/10 |
+| Host Name | G |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:59:28 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598648995435 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:57:18 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Фистинг души |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:57:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598649370372 |
-| Players | 5/8 |
-| Host Name | wadadadawdadawdad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:58:02 |
 
 
