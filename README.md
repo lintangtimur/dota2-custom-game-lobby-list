@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598653650924 |
 | Players | 6/10 |
-| Host Name | ЛОУ ПОРЯДА КИНГ |
+| Host Name | sphynxy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:06:09 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598654095667 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:06:58 |
