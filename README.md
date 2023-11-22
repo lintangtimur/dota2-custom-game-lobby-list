@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598533566362 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:47:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598532703427 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | EgorVor228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:45:10 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:54:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598536443178 |
-| Players | 23/24 |
-| Host Name | EduBan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:53:30 |
+| Lobby ID | 28531598535880544 |
+| Players | 14/15 |
+| Host Name | homemade lobotomy^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:52:13 |
 
 
 |  | ot3_gardens_duo |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | потужний кебаб |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:55:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598537527004 |
-| Players | 1/15 |
-| Host Name | eternal despair雨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:55:58 |
 
 
