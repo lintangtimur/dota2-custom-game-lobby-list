@@ -20,6 +20,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:35:04 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598743843156 |
+| Players | 1/5 |
+| Host Name | 这个可以有 |
+| Region | Unknown |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:35:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598743835157 |
+| Players | 1/5 |
+| Host Name | CringeCat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:35:21 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598738358706 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598743429066 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | КРАСАВЧИИИИИК!!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:34:49 |
@@ -56,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:35:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598743679673 |
-| Players | 3/8 |
-| Host Name | Deadass |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:35:09 |
+| Lobby ID | 28531598741097311 |
+| Players | 7/10 |
+| Host Name | Саком раком |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:31:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598741097311 |
-| Players | 9/10 |
-| Host Name | Саком раком |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:31:45 |
+| Lobby ID | 28531598743801916 |
+| Players | 2/10 |
+| Host Name | so sussy nihao? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:35:19 |
 
 
