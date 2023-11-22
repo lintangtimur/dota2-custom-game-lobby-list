@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598509016784 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | CapTaIN SuNNY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:50:49 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531598510486798 |
+| Players | 2/7 |
+| Host Name | stanley |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:54:26 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598510035460 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:53:20 |
@@ -32,54 +41,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598509263694 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Daryl |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:51:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598506868869 |
-| Players | 21/24 |
-| Host Name | 401 : Not Found |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:45:41 |
+| Lobby ID | 28531598510124081 |
+| Players | 3/8 |
+| Host Name | ravenpoe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:53:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598509146759 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:51:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598509765985 |
-| Players | 8/10 |
-| Host Name | Entrenadors |
+| Lobby ID | 28531598510517488 |
+| Players | 1/15 |
+| Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:52:40 |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:54:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598510022925 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Tawyll |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:53:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598510124081 |
-| Players | 2/8 |
-| Host Name | ravenpoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:53:33 |
+| Lobby ID | 28531598510629281 |
+| Players | 1/15 |
+| Host Name | CHUM IS FUM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:54:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598510634266 |
+| Players | 4/24 |
+| Host Name | > |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:54:48 |
 
 
