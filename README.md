@@ -20,19 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 09:10:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598466528951 |
-| Players | 4/8 |
-| Host Name | kelthusadELpro |
+| Lobby ID | 28531598467182008 |
+| Players | 1/5 |
+| Host Name | 3 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:10:20 |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:11:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598466995636 |
+| Players | 6/24 |
+| Host Name | Jake |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:11:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598465224745 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | zenzy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:07:07 |
@@ -41,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598466202147 |
-| Players | 6/15 |
-| Host Name | PIECE DUCK |
+| Players | 3/15 |
+| Host Name | GXLD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:09:31 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598460774823 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:55:55 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598465146075 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 🥀Xx_монстр_xX🥀 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:06:56 |
@@ -77,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598466526531 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | @lexkill.com... |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:10:19 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598465649017 |
-| Players | 14/15 |
-| Host Name | Chosuke |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:08:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598466614932 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Estriper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:10:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598465474537 |
-| Players | 23/24 |
-| Host Name | 萧瑟 HLA Jeans  Lindaestrell |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:07:44 |
 
 
