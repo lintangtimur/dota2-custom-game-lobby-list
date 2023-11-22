@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598599457705 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:17:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598598764743 |
-| Players | 11/15 |
-| Host Name | AK |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:15:35 |
+| Lobby ID | 28531598601764834 |
+| Players | 2/24 |
+| Host Name | blessed observed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:22:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598601657493 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tempache |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598597191127 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | denitrox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:12:11 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598601554206 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | The 4th Hokage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598601727950 |
+| Players | 1/10 |
+| Host Name | Revoker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:21:58 |
 
 
