@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598481591452 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | use voice communication please |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:46:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598482292569 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | sindi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:48:12 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598478040111 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | YongChunLuKan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:38:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598482320021 |
-| Players | 2/10 |
-| Host Name | クjosssukeク |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:48:16 |
+| Lobby ID | 28531598482542099 |
+| Players | 9/15 |
+| Host Name | underr. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:48:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598482026097 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ǝʞıN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:47:35 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598481581182 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | ;) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:46:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598482542099 |
-| Players | 3/15 |
-| Host Name | underr. |
+| Lobby ID | 28531598482632241 |
+| Players | 1/8 |
+| Host Name | Socrates official |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:48:45 |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:48:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598482639509 |
+| Players | 2/10 |
+| Host Name | クjosssukeク |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:48:58 |
 
 
