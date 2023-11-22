@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598633797162 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Gaben Nice CS2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:27:43 |
@@ -59,45 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598631417371 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | hazkem |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:22:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598633599358 |
-| Players | 3/8 |
-| Host Name | EVian |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:27:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598633256018 |
-| Players | 2/10 |
-| Host Name | MAMYT PAXAL |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:26:39 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598633872365 |
-| Players | 3/15 |
-| Host Name | Searching for a Dream |
+| Players | 4/15 |
+| Host Name | 怖いですよね？ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:27:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598633921454 |
-| Players | 1/15 |
-| Host Name | Gerald Undersun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:27:58 |
 
 
