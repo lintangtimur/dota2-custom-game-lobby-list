@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598647424987 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Dysfun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598653032296 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | SodaZ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:04:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598653551365 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ДЕСАКСИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:05:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598652416019 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:03:48 |
@@ -86,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598653511723 |
-| Players | 3/10 |
-| Host Name | Zappy |
+| Players | 2/10 |
+| Host Name | KekwMeow |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:05:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598653551545 |
-| Players | 1/8 |
-| Host Name | [TEMKA] SLY :3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:05:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598653560993 |
-| Players | 1/15 |
-| Host Name | W |
+| Players | 2/15 |
+| Host Name | Rambolio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:05:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598653645384 |
+| Players | 1/10 |
+| Host Name | i |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:06:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598653650924 |
+| Players | 2/10 |
+| Host Name | ЛОУ ПОРЯДА КИНГ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:06:09 |
 
 
