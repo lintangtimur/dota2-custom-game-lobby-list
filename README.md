@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:31:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598667623507 |
-| Players | 13/15 |
-| Host Name | свин destroyer |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:32:26 |
+| Lobby ID | 28531598666399168 |
+| Players | 9/10 |
+| Host Name | Головосоввание |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:30:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598667634062 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | lilDODIK GRANDMASTER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:32:27 |
