@@ -4,17 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598734043902 |
-| Players | 7/10 |
-| Host Name | vova-kravtsov-2024 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:22:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598735513863 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:24:08 |
@@ -41,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598735163014 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Sim |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:23:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598735457896 |
-| Players | 9/15 |
-| Host Name | Дайте кейсик, пж |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:24:03 |
+| Lobby ID | 28531598735848185 |
+| Players | 9/10 |
+| Host Name | Saeed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:24:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,9 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598735644291 |
-| Players | 2/24 |
+| Players | 20/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:24:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598735813211 |
+| Players | 1/8 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:24:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598736083562 |
+| Players | 1/15 |
+| Host Name | Mute |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:24:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598736169354 |
+| Players | 2/10 |
+| Host Name | ВОНЮЧАЯ_ЖОПА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:25:02 |
 
 
