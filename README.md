@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122917726622 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Zach |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:38:17 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 07:40:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122918869583 |
+| Players | 1/15 |
+| Host Name | Mongolier |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122918884792 |
+| Players | 1/8 |
+| Host Name | NO SANA NO LIFE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28530122910327339 |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:30:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28530122918893705 |
+| Players | 1/10 |
+| Host Name | 𒌐AvasƗʍ𒉭 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:22 |
 
 
