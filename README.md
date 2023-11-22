@@ -11,19 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:48:45 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598642690767 |
+| Players | 2/5 |
+| Host Name | KeFiR4iK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:45:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598641678152 |
-| Players | 9/10 |
-| Host Name | Loading |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:43:08 |
+| Lobby ID | 28531598645206604 |
+| Players | 1/10 |
+| Host Name | kleini |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598641594289 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:58 |
@@ -56,21 +65,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:41:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598643850958 |
-| Players | 13/15 |
-| Host Name | Амбассадор тильта |
+| Lobby ID | 28531598644947983 |
+| Players | 2/8 |
+| Host Name | araigness |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:47:22 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598640054045 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:40:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598644939185 |
+| Players | 4/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598645166444 |
+| Players | 1/15 |
+| Host Name | notnow |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598645089183 |
+| Players | 1/10 |
+| Host Name | degan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598645183645 |
+| Players | 2/15 |
+| Host Name | The Big Bad Wolf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:56 |
 
 
