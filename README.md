@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:42:42 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598612447459 |
+| Players | 1/5 |
+| Host Name | corgi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:44:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598608751649 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598611659638 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | WILDDADDY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:42:58 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:41:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598612459073 |
+| Players | 1/15 |
+| Host Name | Ракета по-Сановск |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:44:17 |
 
 
