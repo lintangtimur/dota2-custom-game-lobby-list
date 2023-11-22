@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:54:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598514770712 |
-| Players | 1/10 |
-| Host Name | Toxic player |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:04:22 |
+| Lobby ID | 28531598514722768 |
+| Players | 16/24 |
+| Host Name | Soy El Corazon De Las Tinieblas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:04:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598513111587 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | NotTryHard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:00:34 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tá muito branco meu filho! |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:05:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598514699082 |
-| Players | 9/10 |
-| Host Name | ★₳_Ⱡ_₳_ł_₦★ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:04:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598514722768 |
-| Players | 16/24 |
-| Host Name | Soy El Corazon De Las Tinieblas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:04:15 |
 
 
 |  | ot3_jungle_quintet |
