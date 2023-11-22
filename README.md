@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122919787887 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Dankek |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:43:42 |
@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 07:41:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122919506346 |
-| Players | 1/8 |
-| Host Name | who? |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:42:58 |
+| Lobby ID | 28530122920213130 |
+| Players | 1/24 |
+| Host Name | MikeyIsAGayBoy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:44:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122918734116 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♡ ᴴᴬᴾᴾᵞ ᴹᴵᴸᶠ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:40:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122918869583 |
-| Players | 13/15 |
-| Host Name | Mongolier |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:41:19 |
+| Lobby ID | 28530122920219906 |
+| Players | 1/8 |
+| Host Name | たこだち |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:44:51 |
 
 
 |  | ot3_desert_octet |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | солитер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:44:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28530122920213130 |
-| Players | 2/24 |
-| Host Name | The rider of death |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:44:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122920219906 |
-| Players | 1/8 |
-| Host Name | たこだち |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:44:51 |
 
 
 |  | epic_boss_fight_normal |
