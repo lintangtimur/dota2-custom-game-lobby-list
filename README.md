@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598477453862 |
-| Players | 1/10 |
-| Host Name | Tu Rata Favorita |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:36:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598478461510 |
 | Players | 2/10 |
 | Host Name | OrangeF_sH |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598478440394 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | "†YoNhACoffIN†"†RAmPaSSO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:39:02 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598478205355 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | homemade lobotomy^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:38:28 |
@@ -59,9 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598478690325 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MONDONGO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:39:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598478918290 |
+| Players | 1/15 |
+| Host Name | Bubbles |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:40:11 |
 
 
