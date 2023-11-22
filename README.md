@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598724661513 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:08:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598724822931 |
-| Players | 1/5 |
+| Players | 4/5 |
 | Host Name | кайф |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598724010030 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | NightChaser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:07:55 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598724774601 |
 | Players | 2/15 |
-| Host Name | Blue |
+| Host Name | Togsawks |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:01 |
 
@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598724984835 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Matye Bal |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598721530878 |
+| Players | 7/8 |
+| Host Name | Hydrocen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:04:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598725076749 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:09:27 |
 
 
