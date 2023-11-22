@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598644571173 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Creation~Delete |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:48:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598642690767 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | KeFiR4iK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:45:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598641594289 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598644939185 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:49:28 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598645183645 |
-| Players | 2/15 |
-| Host Name | The Big Bad Wolf |
+| Players | 3/15 |
+| Host Name | HighOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:49:56 |
 
