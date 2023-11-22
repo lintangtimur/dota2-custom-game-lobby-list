@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598593422500 |
-| Players | 3/10 |
-| Host Name | Mr. #НАГЛЫЙ# |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:03:58 |
+| Lobby ID | 28531598598300986 |
+| Players | 1/10 |
+| Host Name | 年轻人不气盛叫年轻人吗 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:14:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598594533651 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:06:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598598147483 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:14:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598568997439 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | be kind |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598598123558 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Криса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:14:11 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598597191127 |
-| Players | 4/8 |
-| Host Name | ♥ ... ♥ |
+| Players | 1/8 |
+| Host Name | denitrox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:12:11 |
 
@@ -69,17 +69,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598596456042 |
 | Players | 6/24 |
-| Host Name | dr.puñalon |
+| Host Name | tryhard |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:10:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598596930798 |
-| Players | 14/15 |
-| Host Name | Vlad Pitoon |
+| Lobby ID | 28531598598336896 |
+| Players | 2/8 |
+| Host Name | ghoul |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:11:37 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:14:39 |
 
 
