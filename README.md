@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598634434158 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Смотрите кирпич |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:28:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598633258639 |
-| Players | 5/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:26:39 |
+| Lobby ID | 28531598634918159 |
+| Players | 6/15 |
+| Host Name | Kiwiszn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:29:55 |
 
 
 |  | ot3_desert_octet |
@@ -68,27 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598634853764 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:29:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598634918159 |
-| Players | 5/15 |
-| Host Name | Kiwiszn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:29:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598635060698 |
-| Players | 1/15 |
-| Host Name | Commander Omicron |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:30:12 |
 
 
