@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598587141725 |
-| Players | 1/10 |
-| Host Name | Kiddo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:49:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598584665464 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | あなたの番です |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:44:30 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598586336743 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Бенджамин ФRUNклин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:12 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598584930672 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:45:06 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598583913007 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:42:49 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598586303964 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ghoul |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:08 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598587062347 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Puri-puri Prisoner |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:49:47 |
