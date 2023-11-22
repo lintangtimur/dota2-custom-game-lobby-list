@@ -2,10 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598469795883 |
+| Players | 1/5 |
+| Host Name | Fla[M]inG |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:18:20 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531598469809053 |
+| Players | 1/7 |
+| Host Name | Stereo7ron1q |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:18:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598469015124 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:16:29 |
@@ -23,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598469099400 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | sindi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:16:41 |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598468806440 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | No Aguantas Nada Nenita |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:15:57 |
