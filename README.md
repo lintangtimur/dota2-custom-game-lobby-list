@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598545670542 |
+| Players | 2/5 |
+| Host Name | waku-waku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:14:11 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598544939196 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Getter Emperor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:12:30 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598544600429 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Qaz |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:11:44 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598545472818 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | EL CORTA NALGAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:13:43 |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598545521807 |
+| Lobby ID | 28531598545638276 |
 | Players | 1/8 |
-| Host Name | Wisp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:13:50 |
+| Host Name | want3d |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:14:06 |
 
 
