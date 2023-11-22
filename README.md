@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598689415419 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598689392501 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | SuperCojones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598687919874 |
-| Players | 8/24 |
+| Players | 20/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:10:02 |
@@ -81,5 +81,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Matye Bal |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598689854921 |
+| Players | 4/8 |
+| Host Name | wadadadawdadawdad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:13:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598689987405 |
+| Players | 2/15 |
+| Host Name | крепостной |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:13:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598690141661 |
+| Players | 2/10 |
+| Host Name | my heart doesn't exist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:13:59 |
 
 
