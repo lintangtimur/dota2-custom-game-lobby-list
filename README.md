@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598500757413 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | _ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:31:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598500798079 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Entrenadors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:31:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598501257395 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Señor de la noche |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:32:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598501755417 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ПТ на ХАХА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:33:24 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531598502418888 |
 | Players | 4/15 |
-| Host Name | killjoy |
+| Host Name | Kujaku |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:35:00 |
 
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:35:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598502783518 |
+| Players | 1/10 |
+| Host Name | ]_eXoes__Xex__.."> |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:35:53 |
 
 
