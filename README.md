@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598647018572 |
-| Players | 1/5 |
-| Host Name | nights |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:53:29 |
+| Lobby ID | 28531598647753716 |
+| Players | 1/10 |
+| Host Name | Johnny_Aged |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:54:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598641008471 |
-| Players | 3/8 |
-| Host Name | OUTbreak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:41:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598647208817 |
+| Lobby ID | 28531598647577874 |
 | Players | 2/8 |
 | Host Name | DullBoyEp |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:53:50 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:54:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598647657308 |
+| Players | 1/24 |
+| Host Name | Eren Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:54:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598647518049 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | ниггадяй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:26 |
