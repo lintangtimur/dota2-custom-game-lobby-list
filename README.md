@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598671422220 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | woe 心から |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:39:33 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598670860419 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Eleum Loyce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:38:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598670826537 |
-| Players | 8/10 |
-| Host Name | Apxfly |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:38:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598672177134 |
 | Players | 2/15 |
-| Host Name | IvI I - I< |
+| Host Name | Detelinara{RUBIN} |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:40:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598672418096 |
+| Players | 3/8 |
+| Host Name | Bastard with chains. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:41:24 |
 
 
