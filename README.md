@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598688677511 |
-| Players | 9/10 |
-| Host Name | Mot`ka |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:11:24 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598693158296 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598693702341 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПТ на Нежность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:20:13 |
