@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598564840199 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:58:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598564193033 |
-| Players | 7/10 |
-| Host Name | Tá muito branco meu filho! |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:57:20 |
+| Lobby ID | 28531598564183217 |
+| Players | 14/15 |
+| Host Name | л)))х)д)бля)олаъхах |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:57:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598565297109 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | bot<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:59:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598564057460 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Reddy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:57:01 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chester |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:00:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598564183217 |
-| Players | 14/15 |
-| Host Name | л)))х)д)бля)олаъхах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:57:19 |
 
 
