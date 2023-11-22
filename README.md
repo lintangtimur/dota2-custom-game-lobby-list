@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:45:59 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598805134674 |
+| Players | 3/10 |
+| Host Name | Mooiii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:46:35 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780478693 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598787801933 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:28:11 |
@@ -59,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598804160068 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:45:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598804312734 |
-| Players | 7/8 |
-| Host Name | todd chavez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:45:45 |
+| Lobby ID | 28531598804872734 |
+| Players | 1/15 |
+| Host Name | 76561199213033482 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:46:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598804475337 |
-| Players | 11/15 |
-| Host Name | Hectic |
+| Lobby ID | 28531598803629694 |
+| Players | 13/15 |
+| Host Name | mira god |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:45:55 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:45:02 |
 
 
 |  | ot3_gardens_duo |
@@ -92,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:45:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598803629694 |
-| Players | 8/15 |
-| Host Name | =f |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:45:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598804872734 |
-| Players | 1/15 |
-| Host Name | 76561199213033482 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:46:19 |
+| Lobby ID | 28531598805267697 |
+| Players | 4/8 |
+| Host Name | PerTzo |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:46:43 |
 
 
