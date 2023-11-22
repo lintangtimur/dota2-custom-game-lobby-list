@@ -56,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598690471874 |
-| Players | 5/8 |
-| Host Name | waiting for death |
+| Lobby ID | 28531598691865738 |
+| Players | 3/10 |
+| Host Name | LOOKMYSKILL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:14:34 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:17:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598691061699 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:15:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598691865738 |
-| Players | 2/10 |
-| Host Name | LOOKMYSKILL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:17:01 |
 
 
