@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598722550689 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Sparx |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:05:50 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:06:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598721368481 |
-| Players | 22/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:04:07 |
+| Lobby ID | 28531598721828082 |
+| Players | 9/10 |
+| Host Name | играю на добром |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:04:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598723265333 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Natsubi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:06:52 |
