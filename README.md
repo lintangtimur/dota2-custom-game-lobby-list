@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598477108599 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | not a good player.. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:35:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598475658170 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:32:19 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598477623101 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:37:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598475840425 |
+| Players | 14/15 |
+| Host Name | Moonlight |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:32:44 |
 
 
