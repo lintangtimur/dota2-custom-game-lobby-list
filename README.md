@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598442808445 |
-| Players | 4/8 |
-| Host Name | 借 |
+| Players | 2/8 |
+| Host Name | SI Te MAto eres CAbro |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:18:10 |
 
