@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598533566362 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:47:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598536821991 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Clasificado |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:54:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598535182930 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:50:39 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598536641252 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:53:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598535880544 |
-| Players | 13/15 |
-| Host Name | homemade lobotomy^^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:52:13 |
+| Lobby ID | 28531598537080152 |
+| Players | 1/8 |
+| Host Name | RezNovAli |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:54:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598536443178 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:53:30 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Artorias |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:54:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598537080152 |
-| Players | 1/8 |
-| Host Name | RezNovAli |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:54:57 |
 
 
