@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598559572725 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 1948esport4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:46:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598556954214 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | resonance |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:40:27 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598558885919 |
-| Players | 23/24 |
-| Host Name | Red Jhon |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:44:55 |
+| Lobby ID | 28531598560031946 |
+| Players | 1/24 |
+| Host Name | Mast3rm1nd |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:47:34 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598559722863 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ballshadrow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:46:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598558990970 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:45:10 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598559878373 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | second |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:47:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598560031946 |
-| Players | 1/24 |
-| Host Name | Mast3rm1nd |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:47:34 |
 
 
