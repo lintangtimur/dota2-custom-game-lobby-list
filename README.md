@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598815699788 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | SSB |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598819002904 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:00:28 |
@@ -92,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:00:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598818587758 |
-| Players | 14/15 |
-| Host Name | Алычовый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:00:03 |
+| Lobby ID | 28531598819522530 |
+| Players | 1/8 |
+| Host Name | CM Axl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:00:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598818955184 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Здоровый мулат .I. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:00:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598819497117 |
+| Players | 1/24 |
+| Host Name | GATO KCHONDO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:00:57 |
 
 
