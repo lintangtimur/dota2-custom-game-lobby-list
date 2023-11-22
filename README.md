@@ -2,6 +2,24 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598516593712 |
+| Players | 3/10 |
+| Host Name | Next |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:08:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598516664225 |
+| Players | 1/10 |
+| Host Name | RYOGA |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:08:42 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598516024802 |
@@ -32,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598516127722 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Stunning Garry |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:07:28 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598514737533 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lion the onLIONe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:04:17 |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598515239687 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:05:27 |
@@ -77,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598516088799 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | 123123 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:07:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598516468967 |
-| Players | 1/10 |
-| Host Name | Rango |
+| Lobby ID | 28531598516690051 |
+| Players | 1/8 |
+| Host Name | yarikkes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:08:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:08:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598516763578 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:08:56 |
 
 
