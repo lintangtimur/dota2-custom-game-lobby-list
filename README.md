@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:36:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598608751649 |
+| Players | 1/15 |
+| Host Name | mr.takanaka |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:36:57 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598608710203 |
+| Lobby ID | 28531598608790137 |
 | Players | 1/8 |
-| Host Name | Зума |
+| Host Name | wadadadawdadawdad |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:36:52 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:37:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598606846707 |
+| Players | 7/8 |
+| Host Name | mmwqz |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:33:04 |
 
 
