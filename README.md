@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598550063646 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | РАКЕТНЫЙ ЗАААЛП |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:24:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598549012859 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ReZarax |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:21:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598549772330 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | myclauss! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:23:42 |
@@ -103,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598550596118 |
-| Players | 4/8 |
-| Host Name | RYUK |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:25:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28531598550624019 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:25:40 |
