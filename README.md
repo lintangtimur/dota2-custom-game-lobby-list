@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598715781737 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 来日方长 人走茶凉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:55:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598714997528 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | BTW psychopath❄ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:54:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598715893157 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Chronicle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:55:59 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598715555611 |
-| Players | 3/8 |
-| Host Name | Chuvachok |
+| Players | 1/8 |
+| Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:55:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598715480133 |
-| Players | 7/10 |
-| Host Name | RichieZones |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:55:22 |
+| Lobby ID | 28531598716781067 |
+| Players | 14/15 |
+| Host Name | IOVI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:57:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PerpleXity_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:57:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598716781067 |
-| Players | 2/15 |
-| Host Name | IOVI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:57:20 |
 
 
