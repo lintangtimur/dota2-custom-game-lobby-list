@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598815699788 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | The Indomitable Human Spirit |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:10 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598823444784 |
-| Players | 3/8 |
-| Host Name | Василий Кадетов |
+| Players | 2/8 |
+| Host Name | trb. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:04:49 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598824462828 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | РОССИЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:05:49 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:05:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598824685630 |
+| Players | 2/10 |
+| Host Name | Dekar |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:06:02 |
 
 
