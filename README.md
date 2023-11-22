@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598816746434 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | aa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:58:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598815498542 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Mitrandier |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:58 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598809100968 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Maragato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:50:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598815345857 |
-| Players | 8/10 |
-| Host Name | АХУЕННЫЙ СИГМА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:56:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598817366344 |
+| Players | 1/10 |
+| Host Name | Chevrolet Cruze 2013 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:58:50 |
 
 
