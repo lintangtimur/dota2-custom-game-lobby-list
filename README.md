@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598526349392 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:30:54 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598526484018 |
-| Players | 14/15 |
-| Host Name | mou |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:31:13 |
+| Lobby ID | 28531598526983236 |
+| Players | 3/15 |
+| Host Name | cujdk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:32:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598525291786 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | fatantogod |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:28:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598525784540 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Alyssa Rayne |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:29:36 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EBRam |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:31:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598525316219 |
-| Players | 7/8 |
-| Host Name | NotTryHard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:28:33 |
 
 
 |  | ot3_necropolis_ffa |
