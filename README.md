@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598640054045 |
-| Players | 7/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:40:01 |
+| Lobby ID | 28531598641533904 |
+| Players | 6/10 |
+| Host Name | Shearinex |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:42:51 |
 
 
 |  | ot3_desert_octet |
@@ -59,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598643850958 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Амбассадор тильта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:47:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598641533904 |
-| Players | 6/10 |
-| Host Name | Shearinex |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:42:51 |
+| Lobby ID | 28531598640054045 |
+| Players | 7/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:40:01 |
 
 
