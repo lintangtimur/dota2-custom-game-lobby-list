@@ -5,16 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598773881375 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | marcibeacoup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:12:30 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598774360078 |
+| Players | 1/5 |
+| Host Name | Сасаки |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:13:03 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598768708757 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | woowowoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:06:26 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598750566883 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
@@ -40,28 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598772310717 |
-| Players | 8/10 |
-| Host Name | J.dzi |
+| Lobby ID | 28531598773994172 |
+| Players | 7/10 |
+| Host Name | ORTORTORT |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:10:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598773566006 |
-| Players | 8/15 |
-| Host Name | dubas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:12:08 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:12:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598773854690 |
-| Players | 1/8 |
-| Host Name | miss 2B |
+| Lobby ID | 28531598774109123 |
+| Players | 5/8 |
+| Host Name | Jmaster210 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:12:28 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:12:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598774229527 |
+| Players | 2/15 |
+| Host Name | DetNice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:12:54 |
 
 
