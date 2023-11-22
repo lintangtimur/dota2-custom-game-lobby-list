@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598922525217 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598922671629 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 2214 <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598921949285 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:10 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598921927711 |
-| Players | 2/15 |
-| Host Name | 𝓪𝓲𝓶𝒆𝓻 |
+| Players | 1/15 |
+| Host Name | ...50 Cent... |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:09 |
 
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598923179403 |
+| Lobby ID | 28531598898388975 |
+| Players | 22/24 |
+| Host Name | Reiz |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:13:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598919957448 |
+| Players | 21/24 |
+| Host Name | BASED |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:32:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598923424023 |
 | Players | 6/24 |
 | Host Name | DIDE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:35:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598921005777 |
-| Players | 14/15 |
-| Host Name | Жанна Писка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:33:20 |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:35:28 |
 
 
