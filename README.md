@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598715781737 |
-| Players | 9/10 |
-| Host Name | 来日方长 人走茶凉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:55:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598715785826 |
-| Players | 1/10 |
-| Host Name | Escanor_la superbia |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:55:50 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598716425969 |
@@ -29,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:56:48 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598715785826 |
+| Players | 2/10 |
+| Host Name | Escanor_la superbia |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:55:50 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598717340491 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | mr beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:58:11 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598715555611 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:55:29 |
