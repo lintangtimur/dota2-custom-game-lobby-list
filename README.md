@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 07:10:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122899895721 |
-| Players | 1/15 |
-| Host Name | HIPPIE |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 06:52:18 |
+| Lobby ID | 28530122907976109 |
+| Players | 3/8 |
+| Host Name | XFullHouse |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:12:58 |
 
 
 |  | ot3_desert_octet |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122907976109 |
-| Players | 1/8 |
-| Host Name | XFullHouse |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:12:58 |
+| Lobby ID | 28530122908022287 |
+| Players | 3/8 |
+| Host Name | alexander  yc |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:13:05 |
 
 
 |  | epic_boss_fight_nightmare |
