@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598790186966 |
+| Lobby ID | 28531598790455817 |
 | Players | 1/10 |
-| Host Name | 臭鱼烂虾 |
+| Host Name | Salt Daddy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:30:48 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:31:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598780699971 |
-| Players | 2/8 |
-| Host Name | Sarapan Srinivasan |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:16 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598788800913 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Levi Ackerman |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:29:17 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ｍ８ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:29:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598790435846 |
+| Players | 1/8 |
+| Host Name | Пожилой Дюшес |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:31:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598790421538 |
+| Players | 1/8 |
+| Host Name | 21 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:31:03 |
 
 
