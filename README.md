@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:30:37 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598701391620 |
-| Players | 1/5 |
-| Host Name | stardenburdenhardenbart |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:33:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598693158296 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:27:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598701186185 |
-| Players | 7/8 |
-| Host Name | Displex |
+| Lobby ID | 28531598701424904 |
+| Players | 2/15 |
+| Host Name | Dota veteran |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:32:50 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598701320967 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | dqwa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:33:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598701424904 |
-| Players | 1/15 |
-| Host Name | Dota veteran |
+| Lobby ID | 28531598701496527 |
+| Players | 2/10 |
+| Host Name | 6o6ka aka Pele |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:33:13 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598701535041 |
+| Players | 3/8 |
+| Host Name | RDV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:33:24 |
 
 
