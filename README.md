@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:46:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598674976593 |
-| Players | 14/15 |
-| Host Name | кавасаки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:46:08 |
+| Lobby ID | 28531598675583688 |
+| Players | 2/24 |
+| Host Name | Wu Gensheng |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:47:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598674623132 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | sleepy space cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:45:28 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598672914577 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Zibalimbo |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:42:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598675583688 |
-| Players | 2/24 |
-| Host Name | Wu Gensheng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:47:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598675609837 |
-| Players | 3/8 |
-| Host Name | Pride |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:47:18 |
+| Lobby ID | 28531598675688666 |
+| Players | 1/10 |
+| Host Name | waiting for death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:47:27 |
 
 
