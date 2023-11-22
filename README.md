@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:27:14 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598788062561 |
+| Players | 2/10 |
+| Host Name | ... |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:28:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598775940615 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:14:50 |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598787611823 |
-| Players | 1/15 |
-| Host Name | charming |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:27:59 |
+| Lobby ID | 28531598787961252 |
+| Players | 9/24 |
+| Host Name | leave if u see p2w |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:28:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598787073239 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | адмирал канка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:27:24 |
@@ -86,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598787613395 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Пересасывай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:27:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598787616154 |
-| Players | 14/15 |
-| Host Name | 76561198197588705 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:27:59 |
+| Lobby ID | 28531598787947467 |
+| Players | 1/24 |
+| Host Name | Mista Wambo V2.9.3 Reconstructed |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:28:21 |
 
 
 |  | ot3_necropolis_ffa |
