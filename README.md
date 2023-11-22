@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598578188849 |
-| Players | 2/10 |
-| Host Name | Mr. #НАГЛЫЙ# |
+| Players | 1/10 |
+| Host Name | SummYourMom |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
 
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598593071295 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:03:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598593140783 |
+| Players | 2/15 |
+| Host Name | Shadow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:03:21 |
 
 
