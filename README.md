@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122904061231 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:03:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122903053933 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:00:28 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122904872707 |
-| Players | 6/8 |
-| Host Name | Tchort (Čort) |
+| Players | 1/8 |
+| Host Name | komm, süsser tod |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:05:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122904928848 |
+| Players | 1/24 |
+| Host Name | Dj cucaracha |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:05:17 |
 
 
 |  | epic_boss_fight_nightmare |
