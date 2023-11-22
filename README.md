@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531598687403067 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | 76561198197588705 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:09:06 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598687889261 |
-| Players | 1/5 |
-| Host Name | AkaneFan(notpunkeshreshka) |
+| Lobby ID | 28531598688043330 |
+| Players | 2/5 |
+| Host Name | voldemar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:09:59 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:15 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598687428592 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:09:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598687237365 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Gogâie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:08:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598687718156 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | SleepLess |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:09:40 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:10:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598688035360 |
+| Players | 3/8 |
+| Host Name | ELpudgero |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598688052650 |
+| Players | 1/10 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:17 |
 
 
