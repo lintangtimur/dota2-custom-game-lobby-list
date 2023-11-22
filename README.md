@@ -2,31 +2,40 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531598774819643 |
-| Players | 1/7 |
-| Host Name | Сасаки |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:13:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598780005915 |
-| Players | 1/10 |
-| Host Name | SummYourMom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:29 |
+| Lobby ID | 28531598780305084 |
+| Players | 4/10 |
+| Host Name | batman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:19:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598780014586 |
-| Players | 3/10 |
-| Host Name | RB19 |
+| Players | 7/10 |
+| Host Name | МЭЙБИ БЭЙБИ СУКА!! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:19:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598780227576 |
+| Players | 2/10 |
+| Host Name | Alfy Fox |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:19:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598780228042 |
+| Players | 1/5 |
+| Host Name | CringeCat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:19:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,30 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598779660154 |
-| Players | 5/10 |
-| Host Name | FEOFAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598779681418 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Monolitik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:19:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598780302916 |
+| Players | 1/8 |
+| Host Name | кЪваршня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:19:50 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598779973738 |
+| Lobby ID | 28531598780462504 |
 | Players | 1/24 |
-| Host Name | 謙虚さを身につけろ |
+| Host Name | o0o.Peco-Peco.o0o |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:19:27 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:20:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598780478693 |
+| Players | 1/24 |
+| Host Name | Mathametamine |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:20:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598780483987 |
+| Players | 3/10 |
+| Host Name | ТЯЖЁЛЫЙ ЛЮКС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:20:02 |
 
 
