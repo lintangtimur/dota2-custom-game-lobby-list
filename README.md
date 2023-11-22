@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:11:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598690801482 |
-| Players | 6/15 |
-| Host Name | Romek |
+| Lobby ID | 28531598690943638 |
+| Players | 6/10 |
+| Host Name | Dissmac Volt |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:15:09 |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:15:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598689052028 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:04 |
@@ -74,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:14:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598689514062 |
-| Players | 5/8 |
-| Host Name | NURAYA |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:12:54 |
+| Lobby ID | 28531598691061699 |
+| Players | 1/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:15:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598690869329 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | Lune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:15:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598690943638 |
-| Players | 1/10 |
-| Host Name | Dissmac Volt |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:15:23 |
 
 
