@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598724661513 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:08:51 |
@@ -31,55 +31,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598727613082 |
+| Lobby ID | 28531598728285888 |
 | Players | 1/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:13:02 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:13:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598725076749 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598727112936 |
-| Players | 6/10 |
-| Host Name | briko17_LV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:12:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598726557067 |
-| Players | 4/8 |
-| Host Name | lezunchik |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:11:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598727387954 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Cheshire_cat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:12:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598726557067 |
+| Players | 6/8 |
+| Host Name | lezunchik |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:11:33 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598727860190 |
-| Players | 1/24 |
-| Host Name | ArcaN |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:13:24 |
+| Lobby ID | 28531598728050241 |
+| Players | 3/24 |
+| Host Name | 123456 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:13:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598728256855 |
+| Players | 1/10 |
+| Host Name | Фактор База |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:13:56 |
 
 
