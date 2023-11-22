@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598870303351 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:48:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598870374369 |
-| Players | 1/10 |
-| Host Name | TOROTOT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:48:13 |
 
 
 |  | ot3_gardens_duo |
@@ -74,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:45:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598869078483 |
-| Players | 14/15 |
-| Host Name | ホグワーツ no Moto |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:47:02 |
+| Lobby ID | 28531598870913000 |
+| Players | 2/8 |
+| Host Name | 冷酷の张哥 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:48:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598869399321 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:47:20 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598869362829 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | MiauW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:47:18 |
@@ -108,5 +99,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | m1 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:46:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598870967994 |
+| Players | 5/10 |
+| Host Name | Сквиртуоз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:48:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598867721562 |
+| Players | 9/10 |
+| Host Name | God Of Shit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:45:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598870886941 |
+| Players | 5/15 |
+| Host Name | naxuy |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:48:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598871200559 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:48:58 |
 
 
