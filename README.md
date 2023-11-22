@@ -14,37 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598650241914 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:59:43 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598650505126 |
-| Players | 1/5 |
-| Host Name | Naughty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:00:13 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598648995435 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:57:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598647091776 |
-| Players | 13/15 |
-| Host Name | ГАЛЯ ЧЕТВЕРТАК |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:53:37 |
+| Lobby ID | 28531598649370372 |
+| Players | 4/8 |
+| Host Name | wadadadawdadawdad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:58:02 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598647657308 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:43 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598650312519 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | みあもとむさし |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:59:51 |
@@ -81,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Головосоввание |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:59:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598650560078 |
+| Players | 4/15 |
+| Host Name | МистерПрОпил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:00:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598650552034 |
+| Players | 1/15 |
+| Host Name | xdsick666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:00:18 |
 
 
