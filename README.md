@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122917731534 |
-| Players | 6/8 |
-| Host Name | YO PINGA LOCA |
+| Lobby ID | 28530122918075907 |
+| Players | 1/10 |
+| Host Name | llamas a mi :v |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:38:17 |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:39:13 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122917374300 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Andru |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:37:20 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122917580416 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Chawas Shelby |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:37:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122916847720 |
-| Players | 14/15 |
-| Host Name | KiW3^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:35:55 |
+| Lobby ID | 28530122916030136 |
+| Players | 9/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:33:45 |
 
 
 |  | ot3_desert_octet |
@@ -59,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122917726622 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Zach |
 | Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:38:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122918108389 |
+| Players | 1/10 |
+| Host Name | Yo$hum1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:39:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122917731534 |
+| Players | 6/8 |
+| Host Name | YO PINGA LOCA |
+| Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:38:17 |
 
 
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28530122914957893 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:30:58 |
