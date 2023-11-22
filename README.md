@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598628414167 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | JERENGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:17:01 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598629433706 |
-| Players | 5/10 |
-| Host Name | wwwwwwwwwwwwwwwwwwwwwwwwwwwwww |
+| Players | 3/10 |
+| Host Name | Smk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:19:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598628449937 |
-| Players | 12/15 |
-| Host Name | stuck.run.sink.die |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:17:05 |
+| Lobby ID | 28531598629844439 |
+| Players | 5/8 |
+| Host Name | Умный мойша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:19:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598629598853 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | WILDDADDY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:19:22 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bajito pero soberbio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:19:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598629844439 |
-| Players | 5/8 |
-| Host Name | Умный мойша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:19:52 |
 
 
