@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598503765670 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:38:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598504080993 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ;) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:39:01 |
