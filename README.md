@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598460774823 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:55:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598462771749 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | para tu comsumo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:01:01 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598462507640 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:00:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598461936552 |
-| Players | 14/15 |
-| Host Name | sweet dreams tennessee |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:58:51 |
+| Lobby ID | 28531598463192823 |
+| Players | 1/24 |
+| Host Name | goeya |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:02:04 |
 
 
 |  | ot3_necropolis_ffa |
