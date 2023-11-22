@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598556954214 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | resonance |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:40:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598556475085 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:39:20 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:43:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598558346062 |
-| Players | 14/15 |
-| Host Name | Pepe le pew |
+| Lobby ID | 28531598558990970 |
+| Players | 1/8 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:43:39 |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:45:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598558885919 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Red Jhon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:44:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598558990970 |
-| Players | 1/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:45:10 |
 
 
