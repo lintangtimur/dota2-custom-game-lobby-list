@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598608751649 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | mr.takanaka |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:36:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598611659638 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | WILDDADDY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:42:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598610251763 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:40:06 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598613819510 |
-| Players | 3/8 |
-| Host Name | Darling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:47:01 |
+| Lobby ID | 28531598614006870 |
+| Players | 4/8 |
+| Host Name | Scrayl |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:47:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598613796091 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:46:58 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598614006870 |
-| Players | 3/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:47:24 |
+| Lobby ID | 28531598614416984 |
+| Players | 2/8 |
+| Host Name | 私を倒せるのは私だけ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:48:13 |
 
 
