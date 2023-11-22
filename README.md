@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598644571173 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Creation~Delete |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:48:45 |
@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:45:07 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598645206604 |
-| Players | 1/10 |
-| Host Name | kleini |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:49:59 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598641594289 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598641533904 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:51 |
@@ -94,28 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598645166444 |
-| Players | 1/15 |
-| Host Name | notnow |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:49:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598645089183 |
-| Players | 1/10 |
-| Host Name | degan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:49:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531598645183645 |
 | Players | 2/15 |
 | Host Name | The Big Bad Wolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:49:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598645089183 |
+| Players | 2/10 |
+| Host Name | degan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:49:45 |
 
 
