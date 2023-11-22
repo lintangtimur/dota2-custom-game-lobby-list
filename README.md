@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598584552374 |
-| Players | 9/10 |
-| Host Name | Xz- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:44:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598584665464 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | あなたの番です |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:44:30 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598568997439 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598584731414 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | 110 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:44:39 |
@@ -77,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598583913007 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:42:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598585626890 |
-| Players | 7/10 |
-| Host Name | DOMINICA MELLET |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:46:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598586303964 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ghoul |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:08 |
@@ -103,10 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598586423805 |
+| Lobby ID | 28531598586583244 |
 | Players | 1/15 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:48:23 |
+| Host Name | ☯︎M多 BoY |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:48:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598586609893 |
+| Players | 1/10 |
+| Host Name | ReLu D' Soto |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:48:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598586667412 |
+| Players | 2/8 |
+| Host Name | -Drist |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:48:55 |
 
 
