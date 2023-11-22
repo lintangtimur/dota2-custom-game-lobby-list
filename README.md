@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598500757413 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | EGON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:31:03 |
@@ -49,56 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598499763985 |
-| Players | 13/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:28:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598497057881 |
-| Players | 14/15 |
-| Host Name | Dedo |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:22:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598501011136 |
-| Players | 7/10 |
-| Host Name | Aerosniker |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:31:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598499043699 |
-| Players | 8/10 |
-| Host Name | Masha |
+| Lobby ID | 28531598501510602 |
+| Players | 2/15 |
+| Host Name | Senpai (先輩) |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:27:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598500798079 |
-| Players | 3/10 |
-| Host Name | Entrenadors |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:31:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598500953623 |
-| Players | 7/24 |
-| Host Name | Mikooz |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:31:31 |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:32:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Señor de la noche |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:32:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598500953623 |
+| Players | 9/24 |
+| Host Name | Mikooz |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:31:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598500798079 |
+| Players | 3/10 |
+| Host Name | Entrenadors |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:31:09 |
 
 
