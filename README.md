@@ -74,3 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:27:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598500752004 |
+| Players | 1/8 |
+| Host Name | pothead |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:31:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598500757413 |
+| Players | 1/24 |
+| Host Name | Dreamer |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:31:03 |
+
+
