@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598647753716 |
-| Players | 4/10 |
+| Players | 1/10 |
 | Host Name | Johnny_Aged |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:54 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598647577874 |
-| Players | 5/8 |
-| Host Name | DullBoyEp |
+| Lobby ID | 28531598647952620 |
+| Players | 4/10 |
+| Host Name | бустер на 4лене |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:54:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:55:17 |
 
 
 |  | ot3_desert_octet |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:54:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598647952620 |
-| Players | 3/10 |
-| Host Name | бустер на 4лене |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:55:17 |
 
 
