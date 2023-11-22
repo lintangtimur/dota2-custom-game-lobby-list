@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:28:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598919957448 |
-| Players | 23/24 |
-| Host Name | แกเป็นใคร่ |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:32:24 |
+| Lobby ID | 28531598922671629 |
+| Players | 7/15 |
+| Host Name | 2214 <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:34:48 |
 
 
 |  | ot3_desert_octet |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:32:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598921733560 |
-| Players | 13/15 |
-| Host Name | ☯ПАН КОЦЬКИЙ☯ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:33:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598921845781 |
-| Players | 7/10 |
-| Host Name | Finnish hämis 👍 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:34:04 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598922440443 |
@@ -117,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIDE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:34:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598921845781 |
+| Players | 9/10 |
+| Host Name | Finnish hämis 👍 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:34:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598922737535 |
+| Players | 1/10 |
+| Host Name | CM Axl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:34:52 |
 
 
