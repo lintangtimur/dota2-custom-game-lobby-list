@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598504046173 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Plaridel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:38:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598503765670 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:38:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598503710066 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | goenbro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:38:07 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598504428802 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | La Pobreza |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:39:52 |
