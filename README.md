@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598814921437 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Immortal™Фрукт) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:24 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mooiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:03:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598823925770 |
+| Players | 2/5 |
+| Host Name | !yes!yes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:05:17 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598815699788 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | my gf married by another man |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:10 |
@@ -74,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:00:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598823001967 |
-| Players | 13/15 |
-| Host Name | ♨MZ☞07♨ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:04:23 |
+| Lobby ID | 28531598823444784 |
+| Players | 1/8 |
+| Host Name | Василий Кадетов |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:04:49 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598823249584 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | F-16 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:04:37 |
@@ -104,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598822794093 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:04:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598823408540 |
-| Players | 7/8 |
-| Host Name | Memoni |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:04:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598823444784 |
-| Players | 1/8 |
-| Host Name | Василий Кадетов |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:04:49 |
 
 
