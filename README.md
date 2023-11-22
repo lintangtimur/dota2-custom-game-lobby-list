@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122908241437 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Walter-sama |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:35 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122906944127 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:10:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122907976109 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | XFullHouse |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:12:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122906634924 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:09:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122907926883 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Бомбастер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:12:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122908430306 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | курильный демон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:14:05 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122908436341 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | DVMN神 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:14:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28530122908511202 |
+| Players | 3/8 |
+| Host Name | iliya Royal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:14:17 |
 
 
 |  | epic_boss_fight_nightmare |
