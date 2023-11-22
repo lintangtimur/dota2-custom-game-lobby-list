@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598549305310 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ixxi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:22:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598551482643 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Vlad Pitoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:27:36 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598551563811 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:27:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598551362474 |
-| Players | 6/8 |
-| Host Name | MR_JOPPA |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:27:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ▪†CØNSTANTINE†▪ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:29:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598552611047 |
+| Players | 1/8 |
+| Host Name | Лерут Рахал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:30:13 |
 
 
