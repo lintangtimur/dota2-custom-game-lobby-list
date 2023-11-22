@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598883072147 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Kunde |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:59:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598872185436 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | m1 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:49:52 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598884550259 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | антошка_картошка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:01:03 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598884805404 |
+| Lobby ID | 28531598885053752 |
 | Players | 1/24 |
-| Host Name | Reincarnationz |
+| Host Name | John Does |
 | Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:01:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:01:30 |
 
 
