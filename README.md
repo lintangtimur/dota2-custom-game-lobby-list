@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780478693 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Mathametamine |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598795566944 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Tom McGrady |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:36:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598787801933 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:28:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598802108436 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | CEO говна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:43:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598799756857 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:40:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598801764363 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Thawne |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:43:05 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Димидрол |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:44:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598802742710 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:44:06 |
 
 
