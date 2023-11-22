@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598484061798 |
-| Players | 4/10 |
-| Host Name | SINISTER RAMEN |
+| Players | 3/10 |
+| Host Name | Aight, Bet! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:52:20 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598483889652 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:51:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598484299534 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ]_eXoes__Xex__.."> |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:52:53 |
@@ -99,5 +99,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CHUM IS FUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:52:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598484347456 |
+| Players | 6/8 |
+| Host Name | ----> ลℓℓ kσиєjσ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:53:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598484357044 |
+| Players | 2/8 |
+| Host Name | PMA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:53:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598484407551 |
+| Players | 1/10 |
+| Host Name | inyourdream |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:53:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598484414458 |
+| Players | 1/10 |
+| Host Name | doN't sTop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:53:10 |
 
 
