@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598808879210 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | NadLeeH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:50:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598809628563 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | МЭЙБИ БЭЙБИ СУКА!! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:51:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598808799624 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | miron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:50:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598810082938 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Офисный стиляга |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:51:37 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:51:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598809545349 |
-| Players | 1/8 |
-| Host Name | Малыш Барбоскин |
+| Lobby ID | 28531598810440798 |
+| Players | 2/10 |
+| Host Name | PickachuDM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:51:05 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:51:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:50:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598809254477 |
-| Players | 7/8 |
-| Host Name | Guitir |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:50:47 |
+| Lobby ID | 28531598810642073 |
+| Players | 1/24 |
+| Host Name | Jake Kim |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:52:10 |
 
 
