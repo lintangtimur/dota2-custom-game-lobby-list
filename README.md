@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598513223627 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | S1mpl3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:00:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598513111587 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NotTryHard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:00:34 |
@@ -74,47 +74,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598512646836 |
-| Players | 1/8 |
-| Host Name | LilaLouSi@rkardo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:59:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598512580315 |
-| Players | 7/15 |
-| Host Name | Freakazoid! |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:59:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598512338569 |
-| Players | 9/10 |
-| Host Name | XxTuviejoxX |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:58:47 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598512475429 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DOMINICA MELLET |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:59:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598512580315 |
+| Players | 9/15 |
+| Host Name | Freakazoid! |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:59:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598513011867 |
-| Players | 4/8 |
-| Host Name | Naruto Quispe |
+| Players | 2/8 |
+| Host Name | Karu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:00:20 |
 
