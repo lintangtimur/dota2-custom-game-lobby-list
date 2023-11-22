@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598598147483 |
-| Players | 22/24 |
-| Host Name | [Komm] イレイナ |
+| Lobby ID | 28531598599457705 |
+| Players | 3/24 |
+| Host Name | RyQゆた |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:14:14 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:17:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598599106557 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | accidental poet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:16:19 |
