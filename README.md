@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598888384447 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | oninoninonino~ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:04:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598886602899 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:02:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598897653653 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | el aprendiz del GOTITO:3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:12:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598897597471 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ★Bartimeus★ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:12:33 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:12:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598897923520 |
-| Players | 2/24 |
-| Host Name | kazu |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:12:51 |
+| Lobby ID | 28531598892798200 |
+| Players | 14/15 |
+| Host Name | Ilezzz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:08:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 21:12:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598898006543 |
-| Players | 1/24 |
-| Host Name | (x_x) |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:12:55 |
+| Lobby ID | 28531598895212949 |
+| Players | 7/8 |
+| Host Name | Koni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:10:27 |
 
 
