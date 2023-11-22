@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598970582342 |
-| Players | 9/10 |
-| Host Name | ДИКАЯ ВЫДРОЧКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:18:57 |
+| Lobby ID | 28531598973889482 |
+| Players | 1/24 |
+| Host Name | MAGA x алаха нет |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:22:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598969405300 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Niubility |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:17:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598973379533 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ТИР 1 СВИНТУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:40 |
@@ -113,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598973665635 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | OliSpor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:21:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598973889482 |
-| Players | 1/24 |
-| Host Name | MAGA x алаха нет |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:22:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598973693244 |
-| Players | 1/10 |
-| Host Name | Smail |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:21:58 |
 
 
