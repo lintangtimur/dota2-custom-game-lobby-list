@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:05:50 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598725794174 |
+| Players | 1/5 |
+| Host Name | oMega Badger |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:10:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598725076749 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:27 |
@@ -32,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598724984835 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Matye Bal |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598725368401 |
-| Players | 14/15 |
-| Host Name | DMiller |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:09:52 |
+| Lobby ID | 28531598725653351 |
+| Players | 2/24 |
+| Host Name | theonewhoholdsthestars |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:10:16 |
 
 
 |  | ot3_desert_octet |
@@ -59,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598725623448 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | mnnli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:10:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598725647539 |
-| Players | 4/8 |
-| Host Name | Pride |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:10:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598725653351 |
-| Players | 2/24 |
-| Host Name | theonewhoholdsthestars |
+| Lobby ID | 28531598725715858 |
+| Players | 7/15 |
+| Host Name | woe 心から |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:10:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:10:22 |
 
 
