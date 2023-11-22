@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598586303964 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ghoul |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:48:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598587825796 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:51:31 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:51:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598587062347 |
-| Players | 14/15 |
-| Host Name | Puri-puri Prisoner |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:49:47 |
 
 
