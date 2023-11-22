@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598679284753 |
-| Players | 1/10 |
-| Host Name | Иван Ящерица |
+| Lobby ID | 28531598679387825 |
+| Players | 1/5 |
+| Host Name | TimBo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:54:08 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:54:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598678565796 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:52:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598679308924 |
+| Players | 3/24 |
+| Host Name | Lune |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:54:11 |
 
 
