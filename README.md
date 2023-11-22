@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598688677511 |
-| Players | 4/10 |
-| Host Name | Bulaklak ni irene |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:11:24 |
+| Lobby ID | 28531598689415419 |
+| Players | 3/10 |
+| Host Name | Daee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:12:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598689415419 |
+| Lobby ID | 28531598688677511 |
 | Players | 3/10 |
-| Host Name | Daee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:12:43 |
+| Host Name | Mot`ka |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:11:24 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598689052028 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ИМЯ ПРОФИЛЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:12:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598687919874 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:10:02 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598690141661 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | my heart doesn't exist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:13:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598690189244 |
+| Players | 1/15 |
+| Host Name | sape2195 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:14:04 |
 
 
