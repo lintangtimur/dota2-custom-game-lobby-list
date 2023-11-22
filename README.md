@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598590150257 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Глубокослав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:56:45 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The 4th Hokage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:59:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598591622102 |
-| Players | 4/8 |
-| Host Name | CHAMO COBRA CUPO 123 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:00:02 |
 
 
