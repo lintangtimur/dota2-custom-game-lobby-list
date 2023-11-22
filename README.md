@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598949847947 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ytuры gbljрасы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:59:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598952906617 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:02:17 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598956955799 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Artoozy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:06:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598956934123 |
-| Players | 1/24 |
-| Host Name | Yamcha Cepeda Martínez |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:06:03 |
+| Lobby ID | 28531598957032956 |
+| Players | 4/8 |
+| Host Name | TWIT.exe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:06:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598957005067 |
+| Players | 1/8 |
+| Host Name | Чемпи☼н. |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:06:07 |
 
 
