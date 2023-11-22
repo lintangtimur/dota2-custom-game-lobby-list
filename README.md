@@ -22,38 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598971250702 |
-| Players | 9/10 |
-| Host Name | 不狂菜狗子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:19:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598971212410 |
+| Lobby ID | 28531598972569904 |
 | Players | 2/10 |
 | Host Name | nooo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:19:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598968977694 |
-| Players | 14/15 |
-| Host Name | _________ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:17:24 |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:20:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598971378271 |
-| Players | 8/10 |
-| Host Name | JEFF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:19:43 |
+| Lobby ID | 28531598972098081 |
+| Players | 1/10 |
+| Host Name | LORD.MOCOS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:20:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598972072234 |
+| Players | 1/15 |
+| Host Name | Willl |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:20:24 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598969405300 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Niubility |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:17:49 |
@@ -85,73 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598968363655 |
+| Lobby ID | 28531598972414052 |
 | Players | 1/15 |
-| Host Name | Gee |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:16:48 |
+| Host Name | Taison v. Akhal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:20:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598971275394 |
-| Players | 9/15 |
-| Host Name | Werterx |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:19:37 |
+| Lobby ID | 28531598972336726 |
+| Players | 6/10 |
+| Host Name | [JIuoHeS]™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:20:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598971436148 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 22:19:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598971434345 |
-| Players | 8/10 |
-| Host Name | S!xuns |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:19:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598972072234 |
-| Players | 1/15 |
-| Host Name | Willl |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:20:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598972050669 |
-| Players | 6/10 |
-| Host Name | ⁶⁶⁶MORGENSHTERN⁶⁶⁶ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:20:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598972098081 |
-| Players | 1/10 |
-| Host Name | LORD.MOCOS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:20:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598972100129 |
-| Players | 2/8 |
-| Host Name | Гетьман Донецька |
+| Lobby ID | 28531598972238782 |
+| Players | 5/8 |
+| Host Name | Инкассатор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:20:26 |
+| Lobby Creation Time | Wednesday, November 22, 2023 22:20:33 |
 
 
