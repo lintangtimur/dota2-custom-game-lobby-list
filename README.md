@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598508587902 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:49:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598508962010 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:50:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598509263694 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Daryl |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:51:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598506868869 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 401 : Not Found |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:45:41 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:51:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598509115296 |
-| Players | 11/15 |
-| Host Name | Douma |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:51:04 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598509765985 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Entrenadors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:52:40 |
