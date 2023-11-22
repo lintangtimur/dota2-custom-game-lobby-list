@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:04:37 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598685349242 |
+| Players | 1/5 |
+| Host Name | Onlik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:05:24 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598685198116 |
@@ -29,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:05:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598685043636 |
-| Players | 9/10 |
-| Host Name | ... |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:04:50 |
+| Lobby ID | 28531598684906816 |
+| Players | 3/8 |
+| Host Name | GostRed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:04:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:04:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598684906816 |
-| Players | 3/8 |
-| Host Name | GostRed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:04:35 |
 
 
