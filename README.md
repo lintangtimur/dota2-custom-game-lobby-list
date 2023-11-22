@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598516989985 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:28 |
@@ -45,14 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | my heart doesn't exist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:13:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598517635562 |
-| Players | 9/10 |
-| Host Name | да |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:10:57 |
 
 
