@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598647091776 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ГАЛЯ ЧЕТВЕРТАК |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:53:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598649187096 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | RUSSIA IS TERRORIST!!!! STOP!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:57:40 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wadadadawdadawdad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:58:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598649341722 |
-| Players | 1/15 |
-| Host Name | Kapysta Bob1785 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:57:58 |
 
 
 |  | ot3_necropolis_ffa |
