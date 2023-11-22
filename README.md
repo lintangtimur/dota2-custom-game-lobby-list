@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598647424987 |
-| Players | 9/10 |
-| Host Name | Dysfun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:54:15 |
+| Lobby ID | 28531598655580492 |
+| Players | 3/10 |
+| Host Name | TriHard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:09:47 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598618734419 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Erudite ツ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598653926226 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:06:40 |
@@ -59,18 +59,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598652510304 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | EL REAL  FELIPE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:03:59 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598655411305 |
+| Players | 4/24 |
+| Host Name | YOLOyouOnlyLoveOrgasm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:09:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598655473804 |
+| Players | 1/24 |
+| Host Name | Sunflower |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:09:35 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598654279878 |
-| Players | 10/15 |
-| Host Name | DENY YOUR FUN |
+| Lobby ID | 28531598655526142 |
+| Players | 6/15 |
+| Host Name | ЮраТеньЧернобыля |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:07:19 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:09:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598655700800 |
+| Players | 2/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:10:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598655726105 |
+| Players | 1/24 |
+| Host Name | -Voxz- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:10:03 |
 
 
