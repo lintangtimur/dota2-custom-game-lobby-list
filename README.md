@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:08:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598516024802 |
-| Players | 23/24 |
-| Host Name | Martin-Luther-King. |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:07:14 |
+| Lobby ID | 28531598517078357 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:09:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598511355334 |
-| Players | 7/8 |
-| Host Name | Dissolve |
+| Lobby ID | 28531598517159943 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:56:30 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:09:51 |
 
 
 |  | ot3_desert_octet |
@@ -101,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598517078357 |
-| Players | 1/8 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:09:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598517159943 |
-| Players | 1/8 |
-| Host Name | El gato con botas |
+| Lobby ID | 28531598517285425 |
+| Players | 1/24 |
+| Host Name | Mizuki |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:09:51 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:10:09 |
 
 
