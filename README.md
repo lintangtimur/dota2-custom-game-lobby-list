@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:45:37 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531598674820956 |
-| Players | 1/7 |
-| Host Name | Kirusha8 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:45:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598675231556 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | henryugnay820 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:46:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598674817939 |
-| Players | 7/8 |
-| Host Name | attvre(high ego player(egoisto)) |
+| Lobby ID | 28531598674976593 |
+| Players | 14/15 |
+| Host Name | кавасаки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:45:50 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:46:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:46:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598674976593 |
-| Players | 11/15 |
-| Host Name | кавасаки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:46:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598673598269 |
-| Players | 13/15 |
-| Host Name | tipitoxa_ttv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:43:34 |
 
 
