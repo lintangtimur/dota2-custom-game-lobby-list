@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598635338044 |
-| Players | 2/8 |
-| Host Name | WAYNE |
+| Players | 3/8 |
+| Host Name | Боевой тампон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:30:45 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598618734419 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Erudite ツ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:24:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598634853764 |
-| Players | 22/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:29:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598635661284 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | антошка_картошка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:31:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598636426397 |
+| Players | 2/10 |
+| Host Name | Я НЕ Yatoro | 致命的 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:32:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598636468245 |
+| Players | 2/10 |
+| Host Name | "Misha" :3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:32:59 |
 
 
