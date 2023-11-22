@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:58:55 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598513379113 |
+| Players | 1/5 |
+| Host Name | DemonWingz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:01:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598513223627 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598512475429 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DOMINICA MELLET |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:59:06 |
@@ -95,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598513011867 |
-| Players | 2/8 |
-| Host Name | Karu |
+| Players | 1/8 |
+| Host Name | ELMO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:00:20 |
 
