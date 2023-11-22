@@ -20,22 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:43:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531598869011021 |
-| Players | 1/10 |
-| Host Name | 万功军团千力屠夫 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:46:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598869002245 |
-| Players | 1/10 |
-| Host Name | 超级小泰迪 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:46:58 |
+| Lobby ID | 28531598869030180 |
+| Players | 1/5 |
+| Host Name | котя :3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:47:00 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598866866231 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Stonehoof |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:45:02 |
@@ -85,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598868959734 |
-| Players | 1/24 |
-| Host Name | CHICO FITNESS 69 |
+| Lobby ID | 28531598847891287 |
+| Players | 23/24 |
+| Host Name | Sopita |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:46:56 |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:27:40 |
 
 
 |  | ot3_desert_octet |
@@ -119,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 20:46:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598847891287 |
-| Players | 22/24 |
-| Host Name | Sopita |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 20:27:40 |
+| Lobby ID | 28531598869078483 |
+| Players | 2/15 |
+| Host Name | ホグワーツ no Moto |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:47:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598867428979 |
+| Players | 7/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:45:32 |
 
 
