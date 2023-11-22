@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598793341077 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Grengou |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:34:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598795692733 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:36:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598780478693 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Mathametamine |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:20:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598795460795 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ROCK HARD |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:36:26 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598795036126 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Theforehead |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:35:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598796028638 |
+| Players | 4/15 |
+| Host Name | Yuki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:37:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598796091745 |
+| Players | 5/10 |
+| Host Name | 子临 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:37:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598796079020 |
+| Players | 1/10 |
+| Host Name | [JIuoHeS]™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:37:06 |
 
 
