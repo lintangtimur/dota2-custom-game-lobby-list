@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:15:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122931883013 |
-| Players | 1/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:15:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122931902470 |
@@ -81,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Смотрите кирпич |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:15:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28530122931944326 |
+| Players | 1/24 |
+| Host Name | Di ka mabibitin sa Eng Bee Tin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:15:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28530122931984509 |
+| Players | 1/10 |
+| Host Name |  |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:16:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dysfun |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:14:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122931915234 |
-| Players | 1/5 |
-| Host Name | Magicleadery |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:15:54 |
 
 
