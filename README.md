@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:28:54 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531598667589935 |
-| Players | 1/5 |
-| Host Name | Onlik |
+| Lobby ID | 28531598667892448 |
+| Players | 2/7 |
+| Host Name | newkeyboard andrewfhg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:32:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598665135979 |
+| Players | 8/10 |
+| Host Name | fen009 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:32:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598663816480 |
-| Players | 14/15 |
-| Host Name | hotmilk |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:25:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:27:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598666401543 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Lune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:30:08 |
@@ -68,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598667286782 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | нет |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:31:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598665135979 |
-| Players | 7/10 |
-| Host Name | fen009 |
+| Lobby ID | 28531598667623507 |
+| Players | 12/15 |
+| Host Name | свин destroyer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:32:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598667634062 |
+| Players | 1/8 |
+| Host Name | lilDODIK GRANDMASTER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:27:45 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:32:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598667673014 |
+| Players | 3/8 |
+| Host Name | torr__r |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:32:32 |
 
 
