@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 09:39:05 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598479788731 |
-| Players | 1/5 |
-| Host Name | OLLMEN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:42:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598478690325 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598479053335 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | NOBODY |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:40:30 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598479336046 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Grumbledorp |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:41:10 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598478971690 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Bubbles |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:40:19 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598478987192 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | .........:v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:40:21 |
@@ -76,19 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598479550445 |
+| Lobby ID | 28531598479817726 |
 | Players | 1/8 |
 | Host Name | вдыхай |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:41:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598479732269 |
-| Players | 1/8 |
-| Host Name | Mᴀᴍʙᴏ Cʀɪᴍɪɴᴀʟ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:42:07 |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:42:19 |
 
 
