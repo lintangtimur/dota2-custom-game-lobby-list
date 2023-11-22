@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598447382990 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | THE RIDDLE |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:23:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449176832 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | .l. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:27:32 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598449925928 |
-| Players | 2/15 |
-| Host Name | |D|I|S|C|O| |P|O|T|A|T|O| |
+| Lobby ID | 28531598450053532 |
+| Players | 8/15 |
+| Host Name | Hxksl  (1) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:29:14 |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:29:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598447254214 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:23:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449345687 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:27:55 |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598449515979 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:28:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598448851925 |
-| Players | 14/15 |
-| Host Name | Juli |
+| Lobby ID | 28531598450142857 |
+| Players | 2/8 |
+| Host Name | LJ |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:26:48 |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:29:45 |
 
 
