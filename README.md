@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598760410549 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | artemw34567 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:56:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598760536736 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | mikey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:56:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598754026428 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:48:24 |
@@ -68,36 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598760423567 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | highbrow |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:56:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598759997356 |
-| Players | 7/8 |
-| Host Name | sluker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:55:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598761254644 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | КРАСАВЧИИИИИК!!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:57:23 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598761346342 |
+| Players | 3/8 |
+| Host Name | lilDODIK GRANDMASTER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:57:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598761709341 |
+| Players | 3/24 |
+| Host Name | Say my name |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:57:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598761339029 |
+| Lobby ID | 28531598761772984 |
 | Players | 1/15 |
-| Host Name | PMA |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:57:30 |
+| Host Name | Kazoky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:58:02 |
 
 
