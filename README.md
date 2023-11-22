@@ -22,15 +22,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598800033328 |
-| Players | 1/10 |
-| Host Name | Buu-uuu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:41:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598801336097 |
 | Players | 6/10 |
 | Host Name | 不狂菜狗子 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598799756857 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:40:58 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598800974447 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 320+ rampages :D |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:42:15 |
