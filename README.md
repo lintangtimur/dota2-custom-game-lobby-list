@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:18:09 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598521522782 |
-| Players | 9/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:19:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598521553359 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598522095740 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:21:15 |
@@ -59,27 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598522384025 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | WhIn.Calichin |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:21:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598521235045 |
-| Players | 5/8 |
-| Host Name | EL REAL  FELIPE |
+| Lobby ID | 28531598522639307 |
+| Players | 5/24 |
+| Host Name | Yunois |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:19:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:22:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598520381575 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:17:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598522644130 |
+| Players | 1/24 |
+| Host Name | Casimiro Supo Tito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:22:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598522606855 |
+| Players | 10/15 |
+| Host Name | Ravenous |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:22:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598522640575 |
+| Players | 11/24 |
+| Host Name | 'Lazy 雨' |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:22:29 |
 
 
