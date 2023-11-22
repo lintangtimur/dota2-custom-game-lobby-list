@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122930231905 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Yamcha Cepeda Martínez |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:11:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122930316503 |
-| Players | 1/8 |
-| Host Name | who? |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:11:42 |
+| Lobby ID | 28530122930785403 |
+| Players | 9/10 |
+| Host Name | Spieß voran |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:12:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122930240225 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:11:30 |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:12:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122930542138 |
-| Players | 4/8 |
-| Host Name | my name jeff |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:12:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122930568391 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 21 Savage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:12:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122930785403 |
-| Players | 3/10 |
-| Host Name | Spieß voran |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:12:56 |
 
 
 |  | epic_boss_fight_normal |
