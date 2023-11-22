@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598474022040 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | J1M |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:28:22 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598473493658 |
-| Players | 12/15 |
-| Host Name | Black Lagoon |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:27:05 |
+| Lobby ID | 28531598474492711 |
+| Players | 4/15 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:29:29 |
 
 
 |  | ot3_desert_octet |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598473874655 |
-| Players | 3/8 |
-| Host Name | isn't like holding to the center |
+| Players | 1/8 |
+| Host Name | метадоновый пёс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:28:00 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598465977212 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | inflammable |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:08:57 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598474343488 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | alfranz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:29:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598474682042 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:29:57 |
 
 
