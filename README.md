@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:16:49 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598520738942 |
+| Players | 1/10 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:18:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598519042468 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598510629281 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:54:47 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598519219157 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Rati |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:14:35 |
@@ -56,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:15:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598519185112 |
-| Players | 7/8 |
-| Host Name | Kurokawa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:14:31 |
+| Lobby ID | 28531598520667537 |
+| Players | 4/24 |
+| Host Name | real human bean |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:17:59 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598520571197 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | tenia futuro hasta que dotee |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:17:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598520667537 |
-| Players | 2/24 |
-| Host Name | real human bean |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:17:59 |
 
 
