@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122922172585 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Kick 0_0 sigmA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:50:02 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:24:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598447699364 |
-| Players | 22/24 |
-| Host Name | EPEEB.giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:24:13 |
+| Lobby ID | 28531598448851925 |
+| Players | 7/15 |
+| Host Name | Juli |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:26:48 |
 
 
 |  | ot3_gardens_duo |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:26:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598448851925 |
-| Players | 5/15 |
-| Host Name | Juli |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:26:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598448937557 |
-| Players | 1/15 |
-| Host Name | Ez Wil |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 08:26:59 |
 
 
