@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598520738942 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:18:09 |
@@ -14,43 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598524160534 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:25:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598521553359 |
-| Players | 7/8 |
-| Host Name | 123 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:20:01 |
+| Lobby ID | 28531598523430170 |
+| Players | 5/10 |
+| Host Name | Ballscratcher69 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:24:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598510629281 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:54:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598523494941 |
-| Players | 10/15 |
-| Host Name | Spooking |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:24:25 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598523543391 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Vince bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:24:32 |
@@ -58,19 +49,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598522639307 |
-| Players | 20/24 |
-| Host Name | La Concha De Tu Madre |
+| Lobby ID | 28531598524531471 |
+| Players | 2/24 |
+| Host Name | PMA |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:22:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598523430170 |
-| Players | 3/10 |
-| Host Name | bot<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:24:16 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:26:46 |
 
 
