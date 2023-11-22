@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122918075907 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:39:13 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 07:40:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122917580416 |
-| Players | 14/15 |
-| Host Name | Chawas Shelby |
+| Lobby ID | 28530122918919647 |
+| Players | 1/8 |
+| Host Name | ELMO |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:37:53 |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122917726622 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Zach |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:38:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122918742590 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Wagon Wheels |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:40:59 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28530122918869583 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mongolier |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:41:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28530122918884792 |
-| Players | 1/8 |
-| Host Name | NO SANA NO LIFE |
+| Lobby ID | 28530122918985374 |
+| Players | 2/24 |
+| Host Name | Tony Slark |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:41:21 |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122919086311 |
+| Players | 1/15 |
+| Host Name | Puppey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28530122917580416 |
+| Players | 14/15 |
+| Host Name | Chawas Shelby |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:37:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -94,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28530122914957893 |
-| Players | 9/10 |
-| Host Name | ► Good gay, noob played |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:30:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28530122918893705 |
+| Lobby ID | 28530122919069373 |
 | Players | 1/10 |
-| Host Name | 𒌐AvasƗʍ𒉭 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:41:22 |
+| Host Name | INNNNNNNNN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:41:50 |
 
 
