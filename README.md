@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:51:10 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598811587885 |
-| Players | 1/10 |
-| Host Name | ID : T41104 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:53:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598810726481 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598809742118 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Malcroine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:51:16 |
@@ -101,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:52:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598811536615 |
-| Players | 1/24 |
-| Host Name | ggwp |
+| Lobby ID | 28531598807450701 |
+| Players | 14/15 |
+| Host Name | Axel |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:53:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598795566944 |
-| Players | 23/24 |
-| Host Name | I drive |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:36:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:48:56 |
 
 
