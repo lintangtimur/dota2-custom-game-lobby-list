@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598645743971 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | be kind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:51:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598641533904 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Micomaster |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:42:51 |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FerTheGeko |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:52:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598646865094 |
+| Players | 1/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:53:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598646929911 |
+| Players | 5/8 |
+| Host Name | TE EXTRAÑO MeLaNny :C |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:53:18 |
 
 
