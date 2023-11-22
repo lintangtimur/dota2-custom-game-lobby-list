@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598866128094 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | On'close |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:44:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598864199259 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ZZZZZZZZZZZZ!!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:42:36 |
@@ -113,9 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598866658773 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 20:44:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598866817642 |
+| Players | 1/10 |
+| Host Name | ERO CVEKLIC |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:44:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598866866231 |
+| Players | 1/15 |
+| Host Name | Stonehoof |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:45:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598866856658 |
+| Players | 1/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 20:45:01 |
 
 
