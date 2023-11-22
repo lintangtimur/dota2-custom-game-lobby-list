@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:05:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531598567890238 |
-| Players | 1/10 |
+| Lobby ID | 28531598568372025 |
+| Players | 1/7 |
 | Host Name | Lestat |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:06:06 |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:07:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598564840199 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:58:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598567160560 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:04:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598568193869 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Sheduconda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:06:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598567402986 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | D!va |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:04:57 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598568179958 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ’Mr . Big |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:06:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598568324662 |
+| Players | 1/24 |
+| Host Name | H1RO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:07:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598568356941 |
+| Players | 1/24 |
+| Host Name | Miselaniuz |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:07:10 |
 
 
