@@ -23,16 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598814939763 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | うちはオビト |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:25 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598818490456 |
+| Players | 1/5 |
+| Host Name | NothingToplay |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:59:57 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598816746434 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | aa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:58:12 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598750566883 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598815699788 |
-| Players | 9/24 |
-| Host Name | Just die already |
+| Players | 6/24 |
+| Host Name | ☭Fuck Bluehole Inc |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:10 |
 
@@ -65,39 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:54:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598817631251 |
-| Players | 9/10 |
-| Host Name | ORTORTORT |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:59:06 |
+| Lobby ID | 28531598818084230 |
+| Players | 12/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:59:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598817805385 |
 | Players | 1/24 |
-| Host Name | Genie |
+| Host Name | model: ЕвроСергей |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:59:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598816475751 |
-| Players | 6/15 |
-| Host Name | aWarDeeee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:57:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598817366344 |
-| Players | 1/10 |
-| Host Name | Chevrolet Cruze 2013 |
+| Lobby ID | 28531598818359532 |
+| Players | 5/10 |
+| Host Name | фид за 500р |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:58:50 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:59:49 |
 
 
