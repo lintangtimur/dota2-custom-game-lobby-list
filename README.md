@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598686883285 |
-| Players | 1/5 |
-| Host Name | ♡♡♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:08:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598686715289 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Vegeta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:07:52 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598686676208 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | MR_JOPPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:07:48 |
@@ -58,10 +49,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598686885217 |
-| Players | 1/24 |
+| Lobby ID | 28531598686985664 |
+| Players | 4/24 |
 | Host Name | Danger Line |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:08:11 |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:08:22 |
 
 
