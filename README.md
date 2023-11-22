@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531598658124695 |
+| Players | 1/7 |
+| Host Name | Мир меня ждет |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:14:33 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598648995435 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598657275200 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:12:58 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598618734419 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Erudite ツ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598655726105 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:10:03 |
@@ -74,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:11:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598658076699 |
+| Players | 1/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:14:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598655981531 |
-| Players | 7/8 |
-| Host Name | PUDGE |
+| Lobby ID | 28531598658278289 |
+| Players | 1/8 |
+| Host Name | Kesh_JR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:10:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:14:51 |
 
 
