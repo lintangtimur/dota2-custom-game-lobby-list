@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598927985549 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Mauki |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:39:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598930512122 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | linka.ked |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:41:45 |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | qweqwewqeqwqwe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:41:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598931166649 |
+| Players | 2/24 |
+| Host Name | jayp^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:42:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598931259474 |
+| Players | 5/15 |
+| Host Name | Lavender |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:42:25 |
 
 
