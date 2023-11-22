@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598511548546 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | PEPSI MAN |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:56:58 |
@@ -99,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:58:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598512475429 |
+| Players | 2/10 |
+| Host Name | DOMINICA MELLET |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:59:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598512517327 |
+| Players | 1/24 |
+| Host Name | 电死了三个憨批 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:59:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598512519365 |
+| Players | 1/15 |
+| Host Name | elterriblejona |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:59:12 |
 
 
