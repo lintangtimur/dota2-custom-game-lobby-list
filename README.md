@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598814921437 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Immortal™Фрукт) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:24 |
@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598815576291 |
-| Players | 8/10 |
-| Host Name | Matsuri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:57:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598815073872 |
-| Players | 1/24 |
-| Host Name | rood |
+| Lobby ID | 28531598816746434 |
+| Players | 3/8 |
+| Host Name | aa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:56:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 19:58:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598815699788 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Just die already |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:10 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598815345857 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | АХУЕННЫЙ СИГМА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:56:49 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 19:57:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598816746434 |
-| Players | 1/8 |
-| Host Name | aa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 19:58:12 |
 
 
