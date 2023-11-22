@@ -4,17 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598520169846 |
-| Players | 9/10 |
-| Host Name | Blednaowca |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:16:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598520738942 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:18:09 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598522095740 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:21:15 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rhaegar |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598523384094 |
+| Players | 4/8 |
+| Host Name | _EziO_ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:24:10 |
 
 
