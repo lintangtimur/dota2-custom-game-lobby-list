@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598742059432 |
-| Players | 3/5 |
-| Host Name | VidoQ† |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:33:01 |
+| Lobby ID | 28531598744839114 |
+| Players | 5/10 |
+| Host Name | ᗜ▵ᗜ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:36:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:36:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598744839114 |
-| Players | 3/10 |
-| Host Name | ᗜ▵ᗜ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:36:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598744238902 |
-| Players | 12/15 |
-| Host Name | Run btch run |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:35:52 |
+| Lobby ID | 28531598745175030 |
+| Players | 1/8 |
+| Host Name | Randall |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:37:05 |
 
 
 |  | ot3_desert_octet |
@@ -58,10 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598743801916 |
-| Players | 9/10 |
-| Host Name | so sussy nihao? |
+| Lobby ID | 28531598745251434 |
+| Players | 1/10 |
+| Host Name | <> |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:37:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598745272426 |
+| Players | 2/15 |
+| Host Name | www.youtube.com/@payday6275 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:35:19 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:37:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598745262583 |
+| Players | 1/10 |
+| Host Name | Kayni |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:37:11 |
 
 
