@@ -5,16 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598498434709 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CapTaIN SuNNY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:25:37 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598500165859 |
+| Players | 1/5 |
+| Host Name | Cahechiitaaaa |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:29:38 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598497057881 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Dedo |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:22:23 |
@@ -31,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598499850332 |
-| Players | 1/15 |
-| Host Name | DN |
+| Lobby ID | 28531598499763985 |
+| Players | 2/15 |
+| Host Name | Irif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:28:54 |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:28:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598499017804 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:26:58 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598499132473 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | чё случилась? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:27:14 |
@@ -65,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:27:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598499633995 |
-| Players | 11/15 |
-| Host Name | SaKuRa_Die2U |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:28:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598499763985 |
-| Players | 1/15 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:28:41 |
+| Lobby ID | 28531598500268162 |
+| Players | 4/10 |
+| Host Name | explorador de peladas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:29:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598499908500 |
-| Players | 6/8 |
-| Host Name | 'Lazy 雨' |
+| Lobby ID | 28531598500302103 |
+| Players | 1/8 |
+| Host Name | EL REAL  FELIPE |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:29:02 |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:29:58 |
 
 
