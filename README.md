@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598593422500 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Mr. #НАГЛЫЙ# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:03:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598594533651 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:06:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598594715830 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:06:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598594637332 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:06:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598568997439 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
@@ -58,19 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598595341598 |
-| Players | 11/15 |
-| Host Name | Яспер Моглот (Dutch) |
+| Lobby ID | 28531598596671703 |
+| Players | 1/15 |
+| Host Name | 0001 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:08:09 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:11:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598596327750 |
-| Players | 2/15 |
-| Host Name | 我的生命XXX一样多 |
+| Lobby ID | 28531598596399871 |
+| Players | 2/24 |
+| Host Name | chewable |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:10:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598596456042 |
+| Players | 4/24 |
+| Host Name | †_† |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:10:17 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:10:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598596633680 |
+| Players | 1/8 |
+| Host Name | The one to save us |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:10:58 |
 
 
