@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 09:44:30 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598483546373 |
-| Players | 1/5 |
-| Host Name | DLove |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:51:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598481591452 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598483200520 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | hitлер в молодости |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:50:19 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598483114569 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | FatKidsLagIRL |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:50:06 |
@@ -49,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598482898536 |
-| Players | 7/10 |
-| Host Name | クjosssukeク |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:49:35 |
+| Lobby ID | 28531598482937437 |
+| Players | 9/10 |
+| Host Name | ;) |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:49:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598483209813 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:50:20 |
@@ -86,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598483532995 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:51:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598483545327 |
-| Players | 1/10 |
-| Host Name | 0_0 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:51:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598483548529 |
+| Lobby ID | 28531598483606761 |
 | Players | 1/8 |
-| Host Name | KARMA.giordota.com |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:51:08 |
+| Host Name | leichel |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:51:16 |
 
 
