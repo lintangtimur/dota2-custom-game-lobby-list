@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598570684555 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | We Are Electric |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:12:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598571736319 |
-| Players | 1/5 |
-| Host Name | ✔MWG✔ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:14:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598570718088 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:12:37 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598571238357 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | XoRoIIIuu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:13:48 |
