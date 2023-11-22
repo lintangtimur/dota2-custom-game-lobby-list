@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:43:08 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598642223567 |
-| Players | 1/5 |
-| Host Name | ♡♡♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:44:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598641594289 |
@@ -65,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:41:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598641490383 |
-| Players | 7/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:42:46 |
+| Lobby ID | 28531598641974707 |
+| Players | 1/24 |
+| Host Name | Syberian Huskar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:43:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:22:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598641974707 |
-| Players | 1/24 |
-| Host Name | Syberian Huskar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:43:42 |
+| Lobby ID | 28531598642325695 |
+| Players | 3/10 |
+| Host Name | smegma enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:44:24 |
 
 
