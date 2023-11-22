@@ -2,42 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598746673988 |
-| Players | 9/10 |
-| Host Name | Black |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:39:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598749750415 |
-| Players | 13/15 |
-| Host Name | !_! |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:42:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598750566883 |
-| Players | 2/15 |
-| Host Name | JeOS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598751597997 |
-| Players | 4/8 |
-| Host Name | garbage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:45:21 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598751624503 |
@@ -49,10 +13,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598751704248 |
-| Players | 12/15 |
-| Host Name | Kentuki |
+| Lobby ID | 28531598750566883 |
+| Players | 2/15 |
+| Host Name | JeOS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:44:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598752530885 |
+| Players | 11/15 |
+| Host Name | 电风扇 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:45:30 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:46:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598752750978 |
+| Players | 4/8 |
+| Host Name | AdamPride |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:46:49 |
 
 
