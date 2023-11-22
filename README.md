@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598578188849 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | SummYourMom |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598590874642 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Order of Melchizedek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:58:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598568997439 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | torr__r |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
