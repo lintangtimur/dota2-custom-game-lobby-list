@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598552391999 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | PINK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:29:43 |
@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:23:33 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598553334903 |
+| Players | 1/5 |
+| Host Name | odio bolivia |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:56 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598548839644 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598551955522 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | sdhij9okpmara15 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:28:42 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598550063646 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | РАКЕТНЫЙ ЗАААЛП |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:24:23 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598552356920 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ▪†CØNSTANTINE†▪ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:29:38 |
@@ -59,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598549305310 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ixxi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:22:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598552784438 |
-| Players | 4/8 |
-| Host Name | ассасинкридпроме |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:30:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598551563811 |
-| Players | 6/24 |
-| Host Name | Shulton 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:27:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598553003621 |
-| Players | 2/15 |
-| Host Name | 0001 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:31:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,5 +81,59 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kapysta Bob1785 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:31:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598551563811 |
+| Players | 8/24 |
+| Host Name | Shulton 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:27:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598553003621 |
+| Players | 7/15 |
+| Host Name | 0001 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598553136447 |
+| Players | 2/10 |
+| Host Name | PoonDip |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598553160158 |
+| Players | 2/8 |
+| Host Name | SCP |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598553253727 |
+| Players | 2/8 |
+| Host Name | Rarity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598553344348 |
+| Players | 3/10 |
+| Host Name | DOMINICA MELLET |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:57 |
 
 
