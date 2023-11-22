@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:23:33 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598553759267 |
-| Players | 1/5 |
-| Host Name | PlayingTheAngel |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:32:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598553344348 |
@@ -40,26 +31,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598550063646 |
-| Players | 1/10 |
-| Host Name | Пейтон |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:24:23 |
+| Lobby ID | 28531598553136447 |
+| Players | 5/10 |
+| Host Name | PoonDip |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:31:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598552356920 |
-| Players | 13/15 |
-| Host Name | ▪†CØNSTANTINE†▪ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:29:38 |
+| Lobby ID | 28531598553833698 |
+| Players | 2/10 |
+| Host Name | РАКЕТНЫЙ ЗАААЛП |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:33:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598549305310 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ixxi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:22:36 |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598553003621 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 0001 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:31:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598553136447 |
-| Players | 4/10 |
-| Host Name | PoonDip |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:31:28 |
 
 
