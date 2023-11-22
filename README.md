@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 12:58:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598564641161 |
-| Players | 1/15 |
-| Host Name | HuecandaFOREVER |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:58:24 |
+| Lobby ID | 28531598564953873 |
+| Players | 2/10 |
+| Host Name | Yatoro(Smurf) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:59:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598564183217 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | л)))х)д)бля)олаъхах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:57:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598563122291 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:54:48 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:54:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598564945515 |
-| Players | 1/8 |
-| Host Name | Rainz |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 12:59:07 |
 
 
