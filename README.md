@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598631056854 |
-| Players | 7/10 |
-| Host Name | +left |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:22:15 |
+| Lobby ID | 28531598631894809 |
+| Players | 1/10 |
+| Host Name | Lilith |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:23:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598628598483 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | peru=feed |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:17:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598629598853 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | WILDDADDY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:19:22 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:22:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598630575450 |
-| Players | 9/10 |
-| Host Name | trash teammate |
+| Lobby ID | 28531598631493164 |
+| Players | 6/8 |
+| Host Name | fllexxo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:21:18 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:23:07 |
 
 
 |  | ot3_desert_octet |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598631486543 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:23:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598631493164 |
-| Players | 3/8 |
-| Host Name | fllexxo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:23:07 |
+| Lobby ID | 28531598631892961 |
+| Players | 2/10 |
+| Host Name | SleepLess |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:23:55 |
 
 
