@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598725076749 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:09:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598731958124 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:19:11 |
@@ -41,9 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598731126922 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:18:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598733111011 |
+| Players | 2/8 |
+| Host Name | zxc monster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:20:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598733185639 |
+| Players | 4/8 |
+| Host Name | EL REAL  FELIPE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:20:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598733166987 |
+| Players | 1/8 |
+| Host Name | BullZen |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:20:52 |
 
 
