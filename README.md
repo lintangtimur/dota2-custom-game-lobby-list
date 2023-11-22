@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598898388975 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | FaLcArIuS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:13:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598906810450 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | LOL 69 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:20:44 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598910559893 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 100 ммр гуль |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:24:05 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598910470296 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | God Bless the Mafia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:24:00 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598910651614 |
-| Players | 1/15 |
-| Host Name | ХоКаГа |
+| Players | 8/15 |
+| Host Name | кот (или пёс) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 21:24:10 |
 
@@ -148,10 +148,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598907239664 |
-| Players | 9/10 |
-| Host Name | High |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 21:21:07 |
+| Lobby ID | 28531598907182455 |
+| Players | 8/10 |
+| Host Name | PRIGOREL - PROIGRAL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:21:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598910917786 |
+| Players | 2/24 |
+| Host Name | 聚光灯往哪儿打 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:24:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598910969622 |
+| Players | 4/8 |
+| Host Name | qwerty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 21:24:27 |
 
 
