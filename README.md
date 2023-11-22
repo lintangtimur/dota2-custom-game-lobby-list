@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598569415334 |
-| Players | 9/10 |
-| Host Name | SASHA_BURIZA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:09:36 |
+| Lobby ID | 28531598572827522 |
+| Players | 1/10 |
+| Host Name | CAPYBARA CAPYBARA CAPYBARA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:17:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:10 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598572827522 |
-| Players | 1/10 |
-| Host Name | CAPYBARA CAPYBARA CAPYBARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:17:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598570110506 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:11:14 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598571374073 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kefteme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:14:07 |
@@ -103,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598572973274 |
-| Players | 1/15 |
-| Host Name | Order of Melchizedek |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:17:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531598573033493 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | ✯OberJager✯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:17:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598573602669 |
+| Players | 1/10 |
+| Host Name | Артемка2009 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:19:14 |
 
 
