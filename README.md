@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598544600429 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Qaz |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:11:44 |
@@ -45,5 +45,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 12:12:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598545280057 |
+| Players | 1/15 |
+| Host Name | Clinkz Eastwood |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:13:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598545271985 |
+| Players | 1/15 |
+| Host Name | m88 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 12:13:17 |
 
 
