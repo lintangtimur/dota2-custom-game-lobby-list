@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598569715225 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | Wip |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:10:18 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598568774918 |
-| Players | 13/15 |
-| Host Name | Hari Seldon |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:08:08 |
+| Lobby ID | 28531598570244949 |
+| Players | 9/15 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:11:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598569441468 |
-| Players | 8/10 |
-| Host Name | Roy |
+| Lobby ID | 28531598570357818 |
+| Players | 3/10 |
+| Host Name | K292 |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:09:40 |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:11:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598569903858 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kefteme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:10:45 |
@@ -99,41 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:11:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598570218340 |
-| Players | 1/24 |
-| Host Name | Bojak |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:11:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598570244949 |
-| Players | 9/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:11:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598570357818 |
-| Players | 2/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:11:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598570452977 |
-| Players | 3/8 |
-| Host Name | Venom2.0 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:12:01 |
 
 
