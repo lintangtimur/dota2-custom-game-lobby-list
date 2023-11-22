@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598494626916 |
-| Players | 3/8 |
-| Host Name | VISHTACK BORN |
+| Players | 2/8 |
+| Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:16:48 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598494786209 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ok |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:17:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598494627133 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:16:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598494861152 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | GastoncitoQ-CuervachoForever98 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:17:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598494501751 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:16:30 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:17:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598495607325 |
+| Players | 5/15 |
+| Host Name | Agora Hills |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:19:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598492560971 |
+| Players | 14/15 |
+| Host Name | Loong |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:12:07 |
 
 
