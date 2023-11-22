@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531598473482434 |
+| Players | 1/10 |
+| Host Name | KillerBee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:27:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598472008605 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:23:31 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598471881115 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | normal moye effect |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:23:13 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598471837534 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | ab1cd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:23:07 |
@@ -45,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | inflammable |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:08:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598473493658 |
+| Players | 1/15 |
+| Host Name | Black Lagoon |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:27:05 |
 
 
