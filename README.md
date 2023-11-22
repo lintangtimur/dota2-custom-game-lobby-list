@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598532578456 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:44:54 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 11:39:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598532161718 |
-| Players | 14/15 |
-| Host Name | RHAEGOLS |
+| Lobby ID | 28531598532687220 |
+| Players | 6/24 |
+| Host Name | kram |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:43:58 |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:45:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598531528468 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Bắt Con Cọp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:42:34 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ALBERTO FUJIMORI |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:45:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598532687220 |
-| Players | 5/24 |
-| Host Name | kram |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:45:08 |
 
 
