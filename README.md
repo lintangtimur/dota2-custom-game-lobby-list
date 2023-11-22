@@ -20,37 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:50:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598587764743 |
-| Players | 12/15 |
-| Host Name | EL HOMBRE SIDA !! |
+| Lobby ID | 28531598589330153 |
+| Players | 5/10 |
+| Host Name | Rambod D. Luffy |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:51:23 |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:54:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598582697168 |
-| Players | 8/24 |
-| Host Name | gotchu |
+| Players | 7/24 |
+| Host Name | -50°thecoldone |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:40:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598584930672 |
-| Players | 23/24 |
-| Host Name | El racista de la FIEE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:45:06 |
+| Lobby ID | 28531598589437480 |
+| Players | 2/8 |
+| Host Name | Июльский Дождь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:55:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598589280960 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:54:48 |
@@ -68,27 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598589182111 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:54:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598589330153 |
-| Players | 5/10 |
-| Host Name | Rambod D. Luffy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:54:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598589437480 |
-| Players | 1/8 |
-| Host Name | Июльский Дождь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:55:09 |
 
 
