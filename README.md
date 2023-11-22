@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598726108659 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:10:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598728050241 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:13:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598730491168 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Cat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:17:07 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | already cache |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:17:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598730648007 |
+| Players | 1/24 |
+| Host Name | Silver 神 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:17:20 |
 
 
