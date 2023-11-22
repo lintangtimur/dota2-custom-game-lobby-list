@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122922172585 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:50:02 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122922842210 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:51:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28530122922484882 |
-| Players | 14/15 |
-| Host Name | Mavi Don |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:50:51 |
+| Lobby ID | 28530122923178549 |
+| Players | 1/8 |
+| Host Name | doN't sTop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:52:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Artemis, The Huntress |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:52:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122923178549 |
-| Players | 1/8 |
-| Host Name | doN't sTop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:52:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28530122921153216 |
-| Players | 2/5 |
-| Host Name | xPrime™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:47:19 |
 
 
