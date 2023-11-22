@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:14:34 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598602341680 |
-| Players | 1/5 |
-| Host Name | Дружко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:23:17 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598599457705 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:17:05 |
@@ -47,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 14:22:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598601657493 |
-| Players | 9/10 |
-| Host Name | Tempache |
+| Lobby ID | 28531598601554206 |
+| Players | 4/8 |
+| Host Name | The 4th Hokage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:21:49 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:21:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598601727950 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Revoker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:58 |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:21:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598601554206 |
-| Players | 4/8 |
-| Host Name | The 4th Hokage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:21:35 |
 
 
