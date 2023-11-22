@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 18:54:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598757344139 |
-| Players | 2/24 |
-| Host Name | Jungle or 1 ( try me! ) |
+| Lobby ID | 28531598759217733 |
+| Players | 4/15 |
+| Host Name | TEEHEE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:52:33 |
+| Lobby Creation Time | Wednesday, November 22, 2023 18:54:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598758787328 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Ｍ８ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:54:21 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598757487528 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Serrito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:52:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598759217733 |
-| Players | 1/15 |
-| Host Name | TEEHEE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 18:54:53 |
 
 
