@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 08:18:45 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531598445164665 |
+| Players | 1/5 |
+| Host Name | Magicleadery |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:20:02 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598442600751 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122931610901 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | DarkFlameMaster |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:15:05 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598443800677 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name |             |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:18:39 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | НЕЖНЫЙ ВАЙБ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:14:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598445226686 |
+| Players | 1/10 |
+| Host Name | †MXXXIII† |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 22, 2023 08:20:05 |
 
 
