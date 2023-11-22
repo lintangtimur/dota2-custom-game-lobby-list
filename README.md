@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122910182406 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hatr!ck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:18:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28530122909706702 |
-| Players | 14/15 |
-| Host Name | lowfunk |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:17:22 |
+| Lobby ID | 28530122910621853 |
+| Players | 1/10 |
+| Host Name | @prolux |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 07:19:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122908285272 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:13:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28530122909746279 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ЦЫГАНЁНОК |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:17:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28530122910652948 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:19:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28530122910079216 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Scr33nP33k |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:18:21 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Feed Control |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 07:19:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28530122910621853 |
-| Players | 1/10 |
-| Host Name | @prolux |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:19:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28530122910614446 |
-| Players | 4/8 |
-| Host Name | strannik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 07:19:43 |
 
 
 |  | epic_boss_fight_nightmare |
