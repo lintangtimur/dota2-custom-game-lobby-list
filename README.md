@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598518499139 |
-| Players | 6/8 |
-| Host Name | Mr.Lulu^^ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:12:57 |
+| Lobby ID | 28531598517376164 |
+| Players | 21/24 |
+| Host Name | Buscador de las almas perdidas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 11:10:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598517965191 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | PoonDip |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:11:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598517868374 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | EMISARIO NORN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:11:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598517635562 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:10:57 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598516989985 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 11:09:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598517376164 |
-| Players | 16/24 |
-| Host Name | Buscador de las almas perdidas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 11:10:21 |
 
 
