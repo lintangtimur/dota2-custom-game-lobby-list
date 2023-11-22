@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:07:47 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531598625053914 |
-| Players | 1/7 |
-| Host Name | SUSi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:10:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598608751649 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598624542503 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | DeVIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:09:13 |
@@ -59,46 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598623453743 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 15:07:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598622230585 |
-| Players | 7/10 |
-| Host Name | waiting for death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:04:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598618734419 |
-| Players | 5/24 |
-| Host Name | Erudite ツ |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598620935000 |
-| Players | 10/24 |
-| Host Name | ThiNk Pe ChaTo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:01:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598620739699 |
-| Players | 23/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:01:30 |
 
 
 |  | ot3_desert_octet |
@@ -110,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 15:09:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598623969405 |
-| Players | 6/8 |
-| Host Name | MR_JOPPA |
+| Lobby ID | 28531598618734419 |
+| Players | 3/24 |
+| Host Name | Erudite ツ |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:57:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531598620935000 |
+| Players | 13/24 |
+| Host Name | ThiNk Pe ChaTo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:01:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531598625408546 |
+| Players | 1/10 |
+| Host Name | kukuruku |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 15:08:04 |
+| Lobby Creation Time | Wednesday, November 22, 2023 15:10:59 |
 
 
