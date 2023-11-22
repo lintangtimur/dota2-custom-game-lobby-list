@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598737122743 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:26:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598737174399 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | AdamPride |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:26:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598736169354 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ВОНЮЧАЯ_ЖОПА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:25:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598737054508 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | I |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 18:26:16 |
