@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598465267372 |
-| Players | 6/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:07:13 |
+| Lobby ID | 28531598466288022 |
+| Players | 2/8 |
+| Host Name | gRiFfiTh |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 22, 2023 09:09:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598466202147 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | PIECE DUCK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:09:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598460774823 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 08:55:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598465474537 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | 萧瑟 HLA Jeans  Lindaestrell |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:07:44 |
@@ -77,36 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598465649017 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Chosuke |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 09:08:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598466288022 |
-| Players | 1/8 |
-| Host Name | gRiFfiTh |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:09:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598466305415 |
-| Players | 2/10 |
-| Host Name | Estriper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:09:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598466428214 |
-| Players | 1/15 |
-| Host Name | |D|I|S|C|O| |P|O|T|A|T|O| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 09:10:04 |
 
 
