@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598611505312 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Zero Two |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:42:42 |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598611102519 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Путин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:41:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531598611659638 |
+| Players | 5/15 |
+| Host Name | WILDDADDY |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:42:58 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598610918335 |
-| Players | 6/8 |
-| Host Name | 魂 |
+| Lobby ID | 28531598612176257 |
+| Players | 1/8 |
+| Host Name | 春丽 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:41:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598605519768 |
-| Players | 9/10 |
-| Host Name | ReLu D' Soto |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:30:13 |
+| Lobby Creation Time | Wednesday, November 22, 2023 14:43:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598610251763 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:40:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598610781693 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sherlock |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:41:13 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 14:41:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598610731950 |
-| Players | 13/15 |
-| Host Name | Бобровая струя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:41:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598611659638 |
-| Players | 1/15 |
-| Host Name | WILDDADDY |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 14:42:58 |
 
 
