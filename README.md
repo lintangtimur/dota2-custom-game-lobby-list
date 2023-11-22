@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598580230071 |
-| Players | 9/10 |
-| Host Name | CAPYBARA CAPYBARA CAPYBARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:34:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531598578188849 |
 | Players | 3/10 |
 | Host Name | Dysfun |
@@ -20,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:29:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598580993647 |
-| Players | 4/8 |
-| Host Name | Kawazaki |
+| Lobby ID | 28531598581650830 |
+| Players | 5/10 |
+| Host Name | МАНТЫ ХВЗЛЩШАРПО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:36:13 |
+| Lobby Creation Time | Wednesday, November 22, 2023 13:37:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598581206456 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kefteme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:36:42 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598581166404 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Itte |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:36:36 |
@@ -65,48 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 13:08:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598579791928 |
-| Players | 22/24 |
-| Host Name | Lulalelilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:33:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598581138929 |
 | Players | 1/15 |
-| Host Name | Паша Спайс |
+| Host Name | cj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 13:36:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598581434089 |
-| Players | 1/15 |
-| Host Name | Steel Ball Run |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:37:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598581406106 |
-| Players | 1/15 |
-| Host Name | McDi |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:37:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598580226123 |
-| Players | 1/15 |
-| Host Name | Webeando |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 13:34:29 |
 
 
