@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531598677212881 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:50:17 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531598679387825 |
-| Players | 4/5 |
-| Host Name | TimBo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:54:20 |
+| Lobby ID | 28531598680179052 |
+| Players | 2/10 |
+| Host Name | TriHard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:55:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 16:47:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598679116924 |
-| Players | 9/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
+| Lobby ID | 28531598679452271 |
+| Players | 7/10 |
+| Host Name | basher007 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:53:49 |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:54:27 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598678565796 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:52:47 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598679308924 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Lune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 16:54:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598679452271 |
-| Players | 6/10 |
-| Host Name | basher007 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:54:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598679978474 |
-| Players | 2/15 |
-| Host Name | Blue |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 16:55:26 |
+| Lobby ID | 28531598680205488 |
+| Players | 3/15 |
+| Host Name | Травушка |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 16:55:51 |
 
 
