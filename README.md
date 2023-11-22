@@ -20,19 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:10:18 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28531598686985664 |
-| Players | 1/24 |
-| Host Name | OPSesad |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:08:22 |
+| Lobby ID | 28531598688210672 |
+| Players | 2/7 |
+| Host Name | voldemar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531598688035360 |
+| Players | 1/8 |
+| Host Name | naiziizian |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598687428592 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 22, 2023 17:09:09 |
@@ -49,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598687237365 |
-| Players | 14/15 |
-| Host Name | Gogâie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:08:49 |
+| Lobby ID | 28531598687901233 |
+| Players | 6/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:00 |
 
 
 |  | ot3_desert_octet |
@@ -65,30 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 17:10:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598687718156 |
-| Players | 9/10 |
-| Host Name | SleepLess |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:09:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598687901233 |
-| Players | 1/15 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:10:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598688035360 |
-| Players | 4/8 |
-| Host Name | ELpudgero |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 17:10:15 |
+| Lobby ID | 28531598688404540 |
+| Players | 1/24 |
+| Host Name | ИМЯ ПРОФИЛЯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 22, 2023 17:10:54 |
 
 
