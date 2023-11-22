@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 22, 2023 10:10:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531598493378552 |
-| Players | 1/10 |
-| Host Name | Stefan Pragner |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 10:13:53 |
+| Lobby ID | 28531598494276921 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 22, 2023 10:15:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598492560971 |
 | Players | 7/15 |
-| Host Name | Okay |
+| Host Name | Loong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:12:07 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531598493217692 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:13:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531598493993347 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ꧁【✰VanSerio✰】꧂ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:15:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531598493735400 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ;) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:14:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531598493770620 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | FatKidsLagIRL |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 22, 2023 10:14:47 |
