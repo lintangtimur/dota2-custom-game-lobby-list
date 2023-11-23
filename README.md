@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531599785831192 |
-| Players | 1/7 |
-| Host Name | Tiarya |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:32:37 |
+| Lobby ID | 28531599787284198 |
+| Players | 3/10 |
+| Host Name | kØs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:33:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599784537798 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:31:28 |
@@ -32,26 +32,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599786847491 |
-| Players | 2/10 |
-| Host Name | TONGKENG |
+| Players | 1/10 |
+| Host Name | KuyRaiiKak |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 23, 2023 20:33:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28531599787284198 |
-| Players | 2/10 |
-| Host Name | kØs |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:33:56 |
+| Lobby ID | 28531599788023387 |
+| Players | 1/7 |
+| Host Name | Tiarya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 20:34:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599787068556 |
-| Players | 3/24 |
-| Host Name | やめてください _( 「ε:) |
+| Players | 2/24 |
+| Host Name | 练*医术 |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 23, 2023 20:33:44 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599683520555 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 𝓪𝓲𝓶𝒆𝓻 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 18:45:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599785024388 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 20:31:54 |
@@ -95,36 +95,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599787248821 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | тимур 2.0 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:33:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599788247767 |
+| Players | 2/8 |
+| Host Name | sectant |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 20:34:47 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599786745531 |
+| Lobby ID | 28531599787880429 |
 | Players | 9/10 |
-| Host Name | Gr1zz_lee4 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:33:27 |
+| Host Name | ✪ LundrO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 20:34:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599787355987 |
-| Players | 5/15 |
-| Host Name | Gabella |
+| Lobby ID | 28531599788097897 |
+| Players | 4/15 |
+| Host Name | Itachi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 20:33:59 |
+| Lobby Creation Time | Thursday, November 23, 2023 20:34:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599787511474 |
-| Players | 1/10 |
-| Host Name | FERRLESS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 20:34:08 |
+| Lobby ID | 28531599784934890 |
+| Players | 14/15 |
+| Host Name | Dying King |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 20:31:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599788188514 |
+| Players | 1/8 |
+| Host Name | darkQT |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 23, 2023 20:34:44 |
 
 
