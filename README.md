@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599905047061 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:19:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599908142484 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | rarikrarie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:22:13 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599910527625 |
-| Players | 2/10 |
-| Host Name | очканул перед фюрером своим |
+| Players | 3/10 |
+| Host Name | XxChrismasstwxX |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 23, 2023 22:24:29 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599902840646 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 22:17:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599910109722 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Вертик |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:24:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599904246248 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | [W] |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 23, 2023 22:18:34 |
@@ -119,37 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 22:23:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599910625886 |
-| Players | 2/8 |
-| Host Name | Кот цыган |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:24:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599910855815 |
-| Players | 2/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 22:24:48 |
+| Lobby ID | 28531599911000420 |
+| Players | 4/24 |
+| Host Name | ハーパー |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 22:24:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599910911661 |
-| Players | 1/8 |
-| Host Name | skittles_ez |
+| Lobby ID | 28531599911126555 |
+| Players | 6/8 |
+| Host Name | Ебейшая стерва |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:24:51 |
+| Lobby Creation Time | Thursday, November 23, 2023 22:25:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531599898980720 |
+| Players | 23/24 |
+| Host Name | Vladimir Cerron |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 22:13:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599910645822 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | PistolApostle |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:24:36 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599910709245 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | berserk [hardwork54] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 22:24:40 |
@@ -167,9 +167,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599910875486 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 22:24:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599911280888 |
+| Players | 1/8 |
+| Host Name | Sage |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 23, 2023 22:25:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599911302925 |
+| Players | 1/8 |
+| Host Name | Хвост селёдки |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 22:25:14 |
 
 
