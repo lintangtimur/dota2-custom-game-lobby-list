@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599498819340 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 13:12:34 |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599497786535 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | awtsu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 13:10:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599499671421 |
-| Players | 5/15 |
-| Host Name | Робин рот |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 13:14:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599499469456 |
-| Players | 6/8 |
-| Host Name | SLAP BlTCHES |
+| Lobby ID | 28531599500717826 |
+| Players | 1/8 |
+| Host Name | りょういきてんかい Suku |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 23, 2023 13:16:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599499541694 |
+| Players | 10/15 |
+| Host Name | ❤️ur bfs fav dj ❤ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 13:14:01 |
+| Lobby Creation Time | Thursday, November 23, 2023 13:14:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,39 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 11:49:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599498875787 |
-| Players | 6/8 |
-| Host Name | 年輕的惡魔 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 13:12:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599500111138 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | :PowerAutomate |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 13:15:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599499541694 |
-| Players | 9/15 |
-| Host Name | ❤️ur bfs fav dj ❤ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 13:14:11 |
+| Lobby ID | 28531599500667797 |
+| Players | 2/10 |
+| Host Name | 110 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 13:16:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599500284332 |
+| Lobby ID | 28531599500765967 |
 | Players | 1/15 |
-| Host Name | Pelusa |
+| Host Name | CASCANUECES |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 13:15:53 |
+| Lobby Creation Time | Thursday, November 23, 2023 13:17:01 |
 
 
