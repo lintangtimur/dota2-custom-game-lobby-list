@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599811273280 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DraculA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:55:26 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531599812517330 |
+| Lobby ID | 28531599813866881 |
 | Players | 1/5 |
-| Host Name | Xenos |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 20:56:33 |
+| Host Name | 1 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:57:45 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531599813264523 |
+| Lobby ID | 28531599813866712 |
 | Players | 1/5 |
 | Host Name | Stiffler |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 20:57:13 |
+| Lobby Creation Time | Thursday, November 23, 2023 20:57:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599797551572 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:43:07 |
@@ -86,91 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599806801474 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Tamborsito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 20:51:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599810811443 |
-| Players | 1/8 |
-| Host Name | eu2012 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 23, 2023 20:55:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599810219472 |
-| Players | 16/24 |
-| Host Name | Phạm Ngọc Hân |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:54:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599813225746 |
-| Players | 2/10 |
-| Host Name | задрот |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 20:57:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599812281697 |
-| Players | 1/15 |
-| Host Name | madmod |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 20:56:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599812809899 |
-| Players | 9/15 |
-| Host Name | cb|fh99^ #have fun |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:56:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599812514817 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | xxXBONIATOXxx |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 20:56:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599812942831 |
-| Players | 1/8 |
-| Host Name | twitch.tv/alterlife1 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 20:56:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599813202622 |
-| Players | 1/8 |
-| Host Name | Egor Nitler |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 20:57:10 |
+| Lobby ID | 28531599810219472 |
+| Players | 17/24 |
+| Host Name | Phạm Ngọc Hân |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:54:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599813035026 |
+| Lobby ID | 28531599813775049 |
+| Players | 3/8 |
+| Host Name | methadone |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:57:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599813994858 |
+| Players | 2/10 |
+| Host Name | задрот |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:57:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599813599035 |
 | Players | 1/8 |
-| Host Name | Freestyler |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 20:57:01 |
+| Host Name | Loki |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:57:31 |
 
 
 |  | ot3_gardens_duo |
@@ -180,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PAJANCIO ;V |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:53:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599813969060 |
+| Players | 2/10 |
+| Host Name | Artem Margiela |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 20:57:51 |
 
 
