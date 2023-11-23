@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599400513108 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 09:22:09 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 09:19:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599399938672 |
-| Players | 8/10 |
-| Host Name | Alyssa Rayne |
+| Lobby ID | 28531599400974303 |
+| Players | 1/8 |
+| Host Name | PMA |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 09:20:35 |
+| Lobby Creation Time | Thursday, November 23, 2023 09:23:26 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599400390930 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | корейская шл.ха и |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 09:21:49 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599400682626 |
-| Players | 7/24 |
+| Players | 16/24 |
 | Host Name | Ryuunosuke |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 09:22:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599400298430 |
-| Players | 2/8 |
-| Host Name | гусь |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 23, 2023 09:21:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599400782729 |
-| Players | 3/15 |
-| Host Name | Vayo#ElKchaViejasDe24 |
+| Lobby ID | 28531599400831888 |
+| Players | 5/15 |
+| Host Name | -Buda- |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 09:22:55 |
+| Lobby Creation Time | Thursday, November 23, 2023 09:23:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599400912766 |
+| Players | 1/8 |
+| Host Name | El Gotto Cuba |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 09:23:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599400961851 |
+| Players | 4/10 |
+| Host Name | ▼userblod▼ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 09:23:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599399938672 |
+| Players | 9/10 |
+| Host Name | Alyssa Rayne |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 09:20:35 |
 
 
