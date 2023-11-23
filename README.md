@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599744254848 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Smile |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 19:53:27 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531599749284964 |
+| Lobby ID | 28531599750235191 |
 | Players | 1/10 |
 | Host Name | 起个名真纠结 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 19:58:27 |
+| Lobby Creation Time | Thursday, November 23, 2023 19:59:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599748995214 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 19:58:10 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 19:57:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599749193896 |
-| Players | 10/15 |
-| Host Name | VAXTA |
+| Lobby ID | 28531599749935168 |
+| Players | 5/8 |
+| Host Name | carlos |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 19:58:22 |
+| Lobby Creation Time | Thursday, November 23, 2023 19:59:05 |
 
 
 |  | ot3_desert_octet |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Godooy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 19:51:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599750087539 |
+| Players | 2/8 |
+| Host Name | УZБЕK_KILLЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 19:59:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599750018993 |
+| Players | 3/15 |
+| Host Name | lmtys |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 19:59:10 |
 
 
