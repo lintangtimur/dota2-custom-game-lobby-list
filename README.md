@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:31 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531599849037362 |
+| Players | 1/10 |
+| Host Name | Crsytal1 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 21:28:48 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599838995728 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599848079492 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | TravellerBetweenDimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:58 |
@@ -92,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599847660158 |
-| Players | 7/8 |
-| Host Name | kikiki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 21:27:38 |
+| Lobby ID | 28531599848077593 |
+| Players | 5/24 |
+| Host Name | Rick & Clancy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 21:27:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599847355632 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | JAYLU <3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:22 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599847546697 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | rise and shine |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:32 |
@@ -131,27 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599847774579 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | champagnepapi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599839865686 |
-| Players | 23/24 |
-| Host Name | Habla Pe BURRO!!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 21:20:52 |
+| Lobby ID | 28531599848662345 |
+| Players | 2/15 |
+| Host Name | EerJan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 21:28:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599848077593 |
-| Players | 2/24 |
-| Host Name | Rick & Clancy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:27:58 |
+| Lobby ID | 28531599847737567 |
+| Players | 15/15 |
+| Host Name | GUNDABAD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 21:27:41 |
 
 
