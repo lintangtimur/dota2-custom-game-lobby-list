@@ -2,129 +2,66 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598969603468 |
-| Players | 1/7 |
-| Host Name | зигеньг богеньг |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:18:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598971003932 |
-| Players | 9/10 |
-| Host Name | Гадкий Олег |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:19:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531598972569904 |
-| Players | 9/10 |
-| Host Name | nooo |
+| Lobby ID | 28531599351035987 |
+| Players | 6/24 |
+| Host Name | @_@ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:20:52 |
+| Lobby Creation Time | Thursday, November 23, 2023 07:09:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598975910994 |
-| Players | 2/10 |
-| Host Name | vts77 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:24:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531598976975355 |
-| Players | 2/5 |
-| Host Name | blackking |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:25:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531598972098081 |
-| Players | 3/10 |
-| Host Name | LORD.MOCOS |
+| Lobby ID | 28531599384218092 |
+| Players | 12/24 |
+| Host Name | Ukiyo 浮世 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:20:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598976401647 |
-| Players | 1/24 |
-| Host Name | LazyMeow |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:24:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531598973889482 |
-| Players | 8/24 |
-| Host Name | Soma Mikolofitia |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:22:10 |
+| Lobby Creation Time | Thursday, November 23, 2023 08:36:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598976877362 |
+| Lobby ID | 28531599384254158 |
 | Players | 3/15 |
-| Host Name | SABSUANG |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:25:06 |
+| Host Name | MELIODAS |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 23, 2023 08:36:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531598966526951 |
-| Players | 3/8 |
-| Host Name | БДСМЩИК ТЕРЕНТИЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:15:02 |
+| Lobby ID | 28531599384592523 |
+| Players | 2/24 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 08:37:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531598973136133 |
-| Players | 13/15 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:21:26 |
+| Lobby ID | 28531599384317181 |
+| Players | 8/15 |
+| Host Name | kerliaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 08:36:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531599384552605 |
+| Players | 1/24 |
+| Host Name | MADARA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 08:37:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531598976934607 |
-| Players | 3/10 |
-| Host Name | Force |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:25:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531598976918490 |
-| Players | 1/8 |
-| Host Name | Eqqjezzkquz |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:25:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531598976966492 |
-| Players | 4/15 |
-| Host Name | HellRot4 |
+| Lobby ID | 28531599384550790 |
+| Players | 4/10 |
+| Host Name | ∩ (◣_◢) ∩ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 22, 2023 22:25:11 |
+| Lobby Creation Time | Thursday, November 23, 2023 08:37:03 |
 
 
