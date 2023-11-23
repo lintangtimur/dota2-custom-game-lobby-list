@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599736043013 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Tiarya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 19:45:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599737420787 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 19:46:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599731361334 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 19:40:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599735771437 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ФУТБОЛЬНЫЙ ХУЛИГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 19:44:53 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599737779197 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Gay Fish |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 19:46:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531599731564582 |
+| Players | 20/24 |
+| Host Name | Ump |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 19:40:34 |
 
 
