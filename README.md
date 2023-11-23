@@ -5,19 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599529177948 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Strong Woman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:18:29 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531599527878277 |
-| Players | 23/24 |
-| Host Name | elon dusk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 14:15:46 |
+| Lobby ID | 28531599530567687 |
+| Players | 1/10 |
+| Host Name | Ronin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 14:21:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599530136098 |
+| Players | 2/8 |
+| Host Name | ub3r d3ath d3l1v3ry* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 14:20:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599522233742 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | egoless narcissist |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 14:04:06 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599529429826 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | U&me_godota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 14:19:01 |
@@ -85,37 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599530022546 |
+| Lobby ID | 28531599530620405 |
 | Players | 1/10 |
 | Host Name | panço |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 14:20:16 |
+| Lobby Creation Time | Thursday, November 23, 2023 14:21:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599530026457 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | frosty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 14:20:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599529412498 |
-| Players | 9/10 |
-| Host Name | Telant destroyed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 14:18:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599530136098 |
-| Players | 3/8 |
-| Host Name | Синерылый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 14:20:30 |
 
 
