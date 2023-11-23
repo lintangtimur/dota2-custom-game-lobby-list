@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599799694570 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:45:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531599796923925 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:42:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599794058047 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 20:39:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599797551572 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:43:07 |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531599801257437 |
 | Players | 4/15 |
-| Host Name | Sowsemkuku |
+| Host Name | pohuisto |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:46:29 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599801660537 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | свет моих мечей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:46:51 |
@@ -121,10 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599801655050 |
+| Lobby ID | 28531599801834931 |
 | Players | 2/10 |
-| Host Name | Сын Колапса |
+| Host Name | Илья) |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:46:51 |
+| Lobby Creation Time | Thursday, November 23, 2023 20:47:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599801978853 |
+| Players | 1/8 |
+| Host Name | ZakFrost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 20:47:08 |
 
 
