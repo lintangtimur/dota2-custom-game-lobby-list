@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599544850768 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | kØs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:50:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599534980433 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | egoless narcissist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:30:30 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599543060178 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | God save the King |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:46:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599543374811 |
-| Players | 13/15 |
-| Host Name | dllm |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 14:47:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599544742478 |
-| Players | 3/8 |
-| Host Name | FGF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 14:50:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599544769606 |
-| Players | 5/8 |
-| Host Name | V |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 14:50:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,5 +72,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝖘𝖚𝖎𝖈𝖎𝖉𝖊? |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 23, 2023 14:50:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599544742478 |
+| Players | 5/8 |
+| Host Name | FGF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 14:50:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599544769606 |
+| Players | 6/8 |
+| Host Name | V |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 14:50:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599545798404 |
+| Players | 1/8 |
+| Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 14:52:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599545839852 |
+| Players | 2/15 |
+| Host Name | Hellsatano |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 14:52:37 |
 
 
