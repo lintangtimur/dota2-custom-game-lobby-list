@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 21:13:36 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531599831963475 |
-| Players | 4/10 |
-| Host Name | 123 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:13:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599823954279 |
@@ -38,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 21:06:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599832223331 |
-| Players | 6/15 |
-| Host Name | RememberTheName |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 21:14:09 |
+| Lobby ID | 28531599832836365 |
+| Players | 4/8 |
+| Host Name | 11 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 23, 2023 21:14:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599832444988 |
-| Players | 1/15 |
-| Host Name | Jiren- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 21:14:20 |
+| Lobby ID | 28531599832731806 |
+| Players | 8/10 |
+| Host Name | Канистрыч |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 23, 2023 21:14:36 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599830828886 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:12:56 |
@@ -94,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599832001194 |
-| Players | 5/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 21:13:57 |
+| Lobby ID | 28531599830071203 |
+| Players | 2/8 |
+| Host Name | Bloodanceq |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 21:12:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599832464181 |
-| Players | 2/10 |
-| Host Name | 911 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:14:21 |
+| Lobby ID | 28531599833042116 |
+| Players | 1/15 |
+| Host Name | coldnight |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 21:14:53 |
 
 
