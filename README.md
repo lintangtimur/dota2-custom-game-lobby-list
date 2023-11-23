@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599913701303 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | UTюG |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:27:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531599914055955 |
-| Players | 1/10 |
-| Host Name | turnOver! |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:27:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -47,10 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 22:27:54 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531599914399035 |
+| Players | 1/10 |
+| Host Name | turnOver! |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 22:28:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531599914497196 |
+| Players | 1/10 |
+| Host Name | 猫山王 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 22:28:19 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599913874591 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:27:44 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599902840646 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 22:17:15 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599913583794 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Alta |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:27:27 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599910875486 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 22:24:49 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599912674120 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Adonai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 22:26:33 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599899257742 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | BBBBBB |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 23, 2023 22:13:53 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599905495463 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sigma5fps |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 22:19:43 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599913560521 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | SkyFall |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 22:27:25 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599913680497 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | exxidae/ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:27:32 |
@@ -139,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599913101353 |
+| Lobby ID | 28531599914171045 |
 | Players | 2/8 |
-| Host Name | хуебес |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 23, 2023 22:26:58 |
+| Host Name | чайный гриб |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 22:28:01 |
 
 
