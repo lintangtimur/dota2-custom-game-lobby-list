@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599683520555 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | QuaseUmBuda |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 18:45:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599796314098 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | doomdiablo66 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 20:42:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599810177791 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | 0001 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:54:28 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 20:51:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599810448224 |
-| Players | 4/10 |
-| Host Name | Лешенька))) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:54:42 |
+| Lobby ID | 28531599810811443 |
+| Players | 1/8 |
+| Host Name | Нюша |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 23, 2023 20:55:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599810219472 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Phạm Ngọc Hân |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:54:30 |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599810418024 |
-| Players | 2/10 |
-| Host Name | 911 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:54:41 |
+| Lobby ID | 28531599810853427 |
+| Players | 6/10 |
+| Host Name | qqshka |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 23, 2023 20:55:04 |
 
 
