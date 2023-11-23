@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 09:03:46 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531599395852275 |
-| Players | 1/5 |
-| Host Name | Leinach |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 09:09:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599395699962 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RUSMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 09:08:52 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599395293970 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 09:07:43 |
@@ -58,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599395374162 |
-| Players | 8/10 |
-| Host Name | Vaporeon |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 09:07:56 |
+| Lobby ID | 28531599395996621 |
+| Players | 3/10 |
+| Host Name | Princesa Yogurt Helado |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 09:09:42 |
 
 
 |  | ot3_desert_octet |
@@ -74,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 09:08:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599395357119 |
-| Players | 8/15 |
-| Host Name | Lahars |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 09:07:54 |
+| Lobby ID | 28531599396089627 |
+| Players | 2/8 |
+| Host Name | JlblCblÚ |¬γcb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 09:09:57 |
 
 
