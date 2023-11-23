@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 13:41:52 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531599512379386 |
+| Players | 2/7 |
+| Host Name | Графиня Большой Х |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 13:42:52 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599511562246 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | toyo'痛 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 13:41:06 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599510845030 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Scuber2007 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 13:39:32 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599511436124 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | ЧЕЧЕНЕЦ95 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 13:40:49 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599511940142 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | NoviTheApex TearsForMMR |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 13:41:55 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599511839021 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 13:41:42 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599511955536 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 13:41:57 |
