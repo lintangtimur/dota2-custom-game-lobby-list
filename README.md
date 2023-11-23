@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599529177948 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Strong Woman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:18:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599527878277 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | elon dusk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:15:46 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599527880621 |
+| Lobby ID | 28531599529519981 |
 | Players | 1/24 |
-| Host Name | Smoke weed every Day |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 14:15:47 |
+| Host Name | Professor |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 23, 2023 14:19:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599525030009 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 14:09:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599462249002 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | Cinammon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 11:49:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599522233742 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | egoless narcissist |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 14:04:06 |
@@ -67,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599528668802 |
-| Players | 3/10 |
-| Host Name | Bubblegoose |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 14:17:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599529317324 |
-| Players | 1/8 |
-| Host Name | светаа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 14:18:47 |
+| Lobby ID | 28531599529727965 |
+| Players | 6/10 |
+| Host Name | EL REAL  FELIPE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 14:19:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599529368222 |
-| Players | 1/15 |
-| Host Name | お肉 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 14:18:53 |
+| Lobby ID | 28531599529429826 |
+| Players | 11/15 |
+| Host Name | U&me_godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 14:19:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599529893031 |
+| Players | 4/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 14:20:00 |
 
 
