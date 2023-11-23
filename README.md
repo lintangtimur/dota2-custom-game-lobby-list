@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28531599478348447 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Blednaowca |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:25:36 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531599478500934 |
-| Players | 1/5 |
-| Host Name | joseranslaurendrodriguez |
+| Players | 2/5 |
+| Host Name | SPECTRE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:25:56 |
 
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599474905628 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:17:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599476689129 |
-| Players | 7/8 |
-| Host Name | пузо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 12:21:50 |
+| Lobby ID | 28531599478376778 |
+| Players | 8/15 |
+| Host Name | killer |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 12:25:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599478122575 |
-| Players | 4/8 |
-| Host Name | ㄒㄖ尺ㄒ丨ㄥㄥ丨ㄒ卂 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 12:25:05 |
+| Lobby ID | 28531599478830961 |
+| Players | 1/8 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 12:26:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YUNG DUMPSTERED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:25:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599478376778 |
-| Players | 4/15 |
-| Host Name | killer |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 12:25:40 |
 
 
