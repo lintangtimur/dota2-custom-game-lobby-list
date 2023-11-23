@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599508136410 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 13:33:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599508370290 |
-| Players | 5/8 |
-| Host Name | Five Nights at Kazakhstan |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 13:34:04 |
+| Lobby ID | 28531599508461982 |
+| Players | 8/24 |
+| Host Name | 13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 13:34:16 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599508458973 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Lehi Knight |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 13:34:16 |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599506746728 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DoNtCliCKoNThiS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 13:30:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599508461982 |
-| Players | 3/24 |
-| Host Name | 13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 13:34:16 |
 
 
