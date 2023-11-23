@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599857573293 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Tux attack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:36:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531599858494537 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Fallen God |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:37:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599853993695 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 葉王・朝倉 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 23, 2023 21:33:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599849407078 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 21:29:07 |
@@ -86,43 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599850792357 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | murad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:30:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599858362600 |
-| Players | 4/10 |
-| Host Name | Jesus Pines |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:36:53 |
+| Lobby ID | 28531599857839130 |
+| Players | 3/8 |
+| Host Name | Loki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 21:36:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599857093326 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | μολὼν λαβέ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 23, 2023 21:35:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599857603165 |
-| Players | 1/15 |
-| Host Name | kötsibëu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 21:36:14 |
+| Lobby ID | 28531599857858783 |
+| Players | 5/24 |
+| Host Name | Henry Cavill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 21:36:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599857288880 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | durdom visitor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:35:57 |
@@ -131,63 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599858257634 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:36:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599857657730 |
-| Players | 1/24 |
-| Host Name | Fakar |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:36:17 |
+| Lobby ID | 28531599858892107 |
+| Players | 1/15 |
+| Host Name | chiken littlegiordota.com |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 23, 2023 21:37:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599858049307 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | RememberTheName |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:36:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599857742685 |
-| Players | 5/8 |
-| Host Name | ICHZ |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:36:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599857839130 |
-| Players | 2/8 |
-| Host Name | Loki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 21:36:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599857858783 |
-| Players | 2/24 |
-| Host Name | Henry Cavill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:36:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599858502589 |
-| Players | 1/15 |
-| Host Name | Turtoi Ionut |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 23, 2023 21:37:01 |
 
 
