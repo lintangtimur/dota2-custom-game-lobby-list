@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599518740486 |
+| Lobby ID | 28531599519135509 |
 | Players | 1/10 |
-| Host Name | ИП |
+| Host Name | SoloYolo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 13:56:43 |
+| Lobby Creation Time | Thursday, November 23, 2023 13:57:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599517291760 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | 喂奶，儿子在哭 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 13:53:33 |
@@ -58,19 +58,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599518649639 |
-| Players | 7/8 |
-| Host Name | Nameless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 13:56:31 |
+| Lobby ID | 28531599518982787 |
+| Players | 2/8 |
+| Host Name | 𝖘𝖚𝖎𝖈𝖎𝖉𝖊? |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 23, 2023 13:57:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599518191280 |
+| Players | 13/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 13:55:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599519007777 |
+| Players | 6/15 |
+| Host Name | Kupnu4 Te6e B roJIoBy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 13:57:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599519038159 |
+| Players | 3/10 |
+| Host Name | Remington Jones |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 13:57:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599519277166 |
+| Players | 6/10 |
+| Host Name | EL REAL  FELIPE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 13:57:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599518828163 |
-| Players | 6/8 |
+| Lobby ID | 28531599519309845 |
+| Players | 7/8 |
 | Host Name | Un Pigriloso |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 13:56:54 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 13:57:57 |
 
 
