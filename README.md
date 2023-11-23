@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599873225690 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:50:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599872266073 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:49:09 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599872499901 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | msrp#magixrust |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:49:21 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599873964801 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | месник руский |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:50:40 |
@@ -198,23 +198,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wokeup sipin wok |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:50:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599874322792 |
-| Players | 1/8 |
-| Host Name | jostkiy970 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 21:50:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599874382410 |
-| Players | 1/10 |
-| Host Name | Hessa |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:51:02 |
 
 
