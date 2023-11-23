@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599879901754 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:56:00 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599883681815 |
-| Players | 1/24 |
-| Host Name | Mythas |
+| Players | 4/24 |
+| Host Name | Fedor Poell |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:59:27 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599881764178 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PUCP, 3er año, Ing, pepin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 21:57:42 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 21:49:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599885202435 |
-| Players | 2/10 |
-| Host Name | Ya Pidoras |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:52 |
+| Lobby ID | 28531599885545568 |
+| Players | 1/24 |
+| Host Name | Mythas |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 22:01:10 |
 
 
 |  | ot3_gardens_duo |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599885156063 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:00:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599883728537 |
-| Players | 9/10 |
-| Host Name | Popig Immortal |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:59:29 |
+| Lobby ID | 28531599885343603 |
+| Players | 9/15 |
+| Host Name | daedauzaborisomqeqeqeqe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 22:00:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599884548476 |
-| Players | 6/10 |
-| Host Name | РОССИЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:15 |
+| Lobby ID | 28531599885396003 |
+| Players | 3/10 |
+| Host Name | Канистрыч |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 23, 2023 22:01:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -175,24 +175,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599885278912 |
-| Players | 1/15 |
-| Host Name | 灵魂吞噬者 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599885082213 |
-| Players | 1/10 |
-| Host Name | Francis |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531599885210190 |
 | Players | 1/15 |
 | Host Name | Kuma |
@@ -202,28 +184,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599885316862 |
-| Players | 4/24 |
-| Host Name | ttv.xivmort1 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599885338378 |
-| Players | 6/10 |
-| Host Name | Immortality XI |
+| Lobby ID | 28531599885539311 |
+| Players | 3/24 |
+| Host Name | NukeSyz |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599885327339 |
-| Players | 1/24 |
-| Host Name | Magnitude Pop* Pop* |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 23, 2023 22:00:58 |
+| Lobby Creation Time | Thursday, November 23, 2023 22:01:10 |
 
 
