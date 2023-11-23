@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531599425267463 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | GuTyHack |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 23, 2023 10:23:59 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 09:18:20 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599422902786 |
-| Players | 17/24 |
-| Host Name | Yappy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 10:18:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599426180970 |
-| Players | 6/15 |
-| Host Name | gottem |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 10:26:09 |
+| Lobby ID | 28531599426610807 |
+| Players | 3/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 10:27:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531599426774946 |
+| Players | 2/24 |
+| Host Name | Blank |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 10:27:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599425773336 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 10:25:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599426036513 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | flexkid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 10:25:48 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599426446820 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Netherita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 10:26:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599426837765 |
+| Players | 13/15 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 10:27:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599426929460 |
+| Players | 1/10 |
+| Host Name | after |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 10:27:55 |
 
 
