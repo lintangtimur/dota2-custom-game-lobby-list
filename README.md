@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531599788451731 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | ツ The Hunter  ︻デ 一 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:34:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599784537798 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:31:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599788188514 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | darkQT |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 23, 2023 20:34:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599770374582 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | MHA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:18:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599785024388 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 20:31:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599788594333 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | misha shap1ro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:35:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599789620551 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Ruslan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:36:01 |
