@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531599949133626 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | spoilt9111 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 23:03:37 |
@@ -13,20 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531599947882967 |
-| Players | 9/10 |
-| Host Name | STFU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 23:02:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531599950662487 |
-| Players | 1/5 |
-| Host Name | 疯子范ル |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 23, 2023 23:05:17 |
+| Lobby ID | 28531599950764831 |
+| Players | 6/10 |
+| Host Name | Kargador |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -41,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599950396077 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Elias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 23:05:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599949985999 |
-| Players | 3/24 |
-| Host Name | HokkienMee |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 23, 2023 23:04:33 |
+| Lobby ID | 28531599951084430 |
+| Players | 1/10 |
+| Host Name | Suki Suki |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599950291052 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 喜喜 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 23:04:53 |
@@ -69,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531599946928563 |
 | Players | 3/8 |
-| Host Name | Suki Suki |
+| Host Name | xd. |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 23, 2023 23:01:12 |
 
@@ -86,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599947925820 |
-| Players | 3/15 |
-| Host Name | Nicky |
+| Players | 2/15 |
+| Host Name | Заметался пожар г |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 23, 2023 23:02:19 |
 
@@ -119,30 +110,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 23:03:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599951031582 |
+| Players | 4/15 |
+| Host Name | 眠 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599950981729 |
+| Players | 6/8 |
+| Host Name | VISKOS666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599951096230 |
+| Players | 2/8 |
+| Host Name | Loki |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531599951246872 |
+| Players | 2/24 |
+| Host Name | Lulala |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:56 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599950300856 |
-| Players | 9/10 |
-| Host Name | Kej` |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 23:04:54 |
+| Lobby ID | 28531599951231330 |
+| Players | 1/10 |
+| Host Name | LoPoBia |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599950671398 |
-| Players | 3/15 |
-| Host Name | shmunky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 23:05:18 |
+| Lobby ID | 28531599951253507 |
+| Players | 1/15 |
+| Host Name | PT na nezhnost'♥ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599950723549 |
-| Players | 1/10 |
-| Host Name | Ajr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 23:05:21 |
+| Lobby ID | 28531599951256908 |
+| Players | 2/8 |
+| Host Name | BLACK |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 23:05:57 |
 
 
