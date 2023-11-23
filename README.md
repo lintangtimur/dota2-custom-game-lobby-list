@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599784537798 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:31:28 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599787284198 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | kØs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:33:56 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531599787324105 |
-| Players | 1/10 |
-| Host Name | ふしぐろ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 20:33:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531599787361306 |
-| Players | 1/5 |
-| Host Name | NIFY |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 20:34:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599787068556 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | やめてください _( 「ε:) |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 23, 2023 20:33:44 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599770374582 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | MHA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:18:36 |
@@ -131,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599787355987 |
-| Players | 2/15 |
-| Host Name | E Буне Гров |
+| Players | 5/15 |
+| Host Name | Gabella |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:33:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599787511474 |
+| Players | 1/10 |
+| Host Name | FERRLESS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 20:34:08 |
 
 
