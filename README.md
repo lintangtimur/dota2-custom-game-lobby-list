@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531599431098952 |
-| Players | 5/10 |
-| Host Name | Borrison |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 10:37:42 |
+| Lobby ID | 28531599432112045 |
+| Players | 3/7 |
+| Host Name | Ozzy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 10:40:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599431271513 |
-| Players | 9/15 |
-| Host Name | Paxlee |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 10:38:06 |
+| Lobby ID | 28531599432327946 |
+| Players | 1/15 |
+| Host Name | Admiralmavi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 10:40:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599431503620 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Mi pinga, Mis reglas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 10:38:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599431614003 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ayayay |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 10:38:54 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599432019447 |
-| Players | 2/24 |
+| Players | 14/24 |
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 10:39:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599432376118 |
+| Players | 2/8 |
+| Host Name | Lanaya |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 10:40:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599432462307 |
+| Players | 2/8 |
+| Host Name | GOAT |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 10:40:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599431271513 |
+| Players | 11/15 |
+| Host Name | Paxlee |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 10:38:06 |
 
 
