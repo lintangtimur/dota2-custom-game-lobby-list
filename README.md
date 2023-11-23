@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531599735849737 |
-| Players | 1/7 |
-| Host Name | Мефедроновый Гонщик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 19:44:58 |
+| Lobby ID | 28531599736040206 |
+| Players | 1/5 |
+| Host Name | GaleK |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 19:45:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599733474195 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Kentuki |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 19:42:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 19:40:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599733350279 |
-| Players | 8/10 |
-| Host Name | -20 enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 19:42:24 |
+| Lobby ID | 28531599735853832 |
+| Players | 6/8 |
+| Host Name | ash and dust |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 23, 2023 19:44:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599735853832 |
-| Players | 1/8 |
-| Host Name | ash and dust |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 23, 2023 19:44:58 |
+| Lobby ID | 28531599736049809 |
+| Players | 3/8 |
+| Host Name | $kron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 19:45:10 |
 
 
