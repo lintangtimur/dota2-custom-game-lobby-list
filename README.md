@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531599757061612 |
-| Players | 1/5 |
-| Host Name | HÖennHeim™ |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, November 23, 2023 20:06:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599683520555 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599752166503 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Ghost_Rotaidalg_USSR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 20:01:16 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599755902585 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Fatrix |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:04:53 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599756677622 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Lotus |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:05:38 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599756253524 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Дауби Даубиев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:05:14 |
@@ -113,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599756723704 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | rio |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 20:05:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599755361123 |
-| Players | 14/15 |
-| Host Name | dotaloot.co Larl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 20:04:23 |
 
 
 |  | ot3_necropolis_ffa |
