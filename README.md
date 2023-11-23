@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599849340135 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | heheehe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:29:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599848077593 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Taweret |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 21:27:58 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599844781245 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | watse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:25:09 |
@@ -130,20 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599850466634 |
+| Lobby ID | 28531599850641798 |
 | Players | 1/15 |
-| Host Name | Cago |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:30:02 |
+| Host Name | Juan Manuel |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 21:30:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599850180464 |
-| Players | 8/10 |
-| Host Name | НИКИТА ПЕРДЕЖ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 21:29:47 |
+| Lobby ID | 28531599848079492 |
+| Players | 7/10 |
+| Host Name | ГЛУХОНЕМОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 21:27:58 |
 
 
 |  | ot3_desert_octet |
@@ -167,18 +167,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599850449796 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | наказатель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 21:30:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599850471313 |
-| Players | 1/24 |
-| Host Name | JohnnyBambina |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 23, 2023 21:30:02 |
 
 
