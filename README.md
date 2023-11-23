@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599469488540 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MIMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:05:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599469071426 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 12:05:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599466976649 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | MaoGe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:00:19 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599462249002 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Cinammon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 11:49:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599469242408 |
-| Players | 2/8 |
-| Host Name | CULEADOR DE PERUANOS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 12:05:23 |
+| Lobby ID | 28531599469931090 |
+| Players | 2/10 |
+| Host Name | ГОРДОСТЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 12:06:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599469793141 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | pauchyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 12:06:36 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599469855931 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | Sergio Markarian |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 12:06:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531599470246338 |
+| Players | 2/10 |
+| Host Name | RHYTHM TA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 12:07:37 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599469904607 |
-| Players | 1/15 |
-| Host Name | Monteiro |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 23, 2023 12:06:51 |
+| Lobby ID | 28531599470372767 |
+| Players | 5/15 |
+| Host Name | † Timo Werner † |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 12:07:54 |
 
 
