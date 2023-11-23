@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599494218919 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | DoNtCliCKoNThiS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 13:01:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599495284368 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 13:04:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599492261532 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:57:21 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531599495924631 |
 | Players | 3/24 |
-| Host Name | Movistar Perú |
+| Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 13:05:54 |
 
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531599496342477 |
-| Players | 2/15 |
-| Host Name | razum |
+| Players | 4/15 |
+| Host Name | ПробеймнеАнус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 13:06:53 |
 
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 13:06:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531599496535242 |
+| Players | 4/8 |
+| Host Name | чайный пьяница |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 13:07:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531599496791614 |
+| Players | 1/15 |
+| Host Name | Paul Thomas Anderson |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 13:07:55 |
 
 
