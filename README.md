@@ -11,31 +11,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 12:47:18 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531599489035048 |
+| Players | 3/10 |
+| Host Name | Gabimaru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 23, 2023 12:49:59 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599488571549 |
-| Players | 9/10 |
-| Host Name | rdn* |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 12:48:55 |
+| Lobby ID | 28531599488877920 |
+| Players | 7/10 |
+| Host Name | GD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 12:49:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599486996383 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Mode: Sonichu Afterdark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 12:45:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599486586393 |
-| Players | 22/24 |
-| Host Name | Dream |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 12:44:24 |
+| Lobby ID | 28531599488883486 |
+| Players | 1/8 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 12:49:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,46 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599487534273 |
-| Players | 12/15 |
-| Host Name | MakimaGOD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 12:46:34 |
+| Lobby ID | 28531599488258712 |
+| Players | 1/15 |
+| Host Name | Alex Trebec |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 12:48:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599488579302 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 12:48:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599488258712 |
-| Players | 1/15 |
-| Host Name | Мой кор - запор |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 12:48:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599488883486 |
-| Players | 1/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 12:49:38 |
+| Lobby ID | 28531599489287224 |
+| Players | 3/8 |
+| Host Name | formatica |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 12:50:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599488877920 |
-| Players | 3/10 |
-| Host Name | GD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 12:49:37 |
+| Lobby ID | 28531599489311067 |
+| Players | 2/10 |
+| Host Name | Angel_Kasteil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 12:50:37 |
 
 
