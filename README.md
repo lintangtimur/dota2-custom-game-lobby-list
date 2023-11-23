@@ -5,16 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599968920197 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Condoriano |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 23, 2023 23:25:33 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531599969713041 |
+| Players | 1/5 |
+| Host Name | BOOBALOO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 23, 2023 23:26:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531599970097693 |
+| Players | 1/5 |
+| Host Name | Mekus Mekus 143 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 23:26:54 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599966006319 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Nightcrawler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 23:22:16 |
@@ -23,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599969212562 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | o0o.Peco-Peco.o0o |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 23, 2023 23:25:53 |
@@ -41,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599968400332 |
-| Players | 3/8 |
-| Host Name | камень в попочке |
+| Players | 2/8 |
+| Host Name | ItzMmdRa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 23, 2023 23:24:58 |
 
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599966276316 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 23:22:35 |
@@ -59,81 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599968783292 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Заметался пожар г |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 23:25:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599968904418 |
-| Players | 2/10 |
-| Host Name | ｄｙｒａｃｈｙｏ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 23, 2023 23:25:32 |
+| Lobby ID | 28531599969666356 |
+| Players | 4/8 |
+| Host Name | блять не попал |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:26:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531599968072786 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | High |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 23:24:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599968821868 |
-| Players | 2/10 |
-| Host Name | MrKingDusk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 23, 2023 23:25:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599969299126 |
-| Players | 6/15 |
-| Host Name | МАРЕАРТИ |
+| Lobby ID | 28531599969735939 |
+| Players | 14/15 |
+| Host Name | Imbecility & Courage♉ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 23:25:59 |
+| Lobby Creation Time | Thursday, November 23, 2023 23:26:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531599969287559 |
-| Players | 6/10 |
-| Host Name | ZXC ПОДПИВАС |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 23:25:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599969379635 |
-| Players | 6/10 |
-| Host Name | 15 Сторона Алматы |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 23:26:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599968306405 |
-| Players | 12/15 |
-| Host Name | Azog |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 23, 2023 23:24:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599969398462 |
-| Players | 1/15 |
-| Host Name | 打个锤子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 23, 2023 23:26:06 |
+| Lobby ID | 28531599970050112 |
+| Players | 5/10 |
+| Host Name | Missing |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 23, 2023 23:26:51 |
 
 
