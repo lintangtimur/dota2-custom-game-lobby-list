@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531599904245910 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:18:34 |
@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 23, 2023 22:18:55 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531599905047061 |
+| Players | 1/10 |
+| Host Name | ᶄlắũḿỢr |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 23, 2023 22:19:18 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599901525980 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 23, 2023 22:16:01 |
@@ -49,109 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531599904433028 |
-| Players | 10/15 |
-| Host Name | [CCCP]ROMAN |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:18:44 |
+| Lobby ID | 28531599905154014 |
+| Players | 5/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 23, 2023 22:19:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531599898980720 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Vladimir Cerron |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 23, 2023 22:13:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599899476402 |
-| Players | 14/15 |
-| Host Name | MakimaGOD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 22:14:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531599899257742 |
-| Players | 2/24 |
-| Host Name | BBBBBB |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 23, 2023 22:13:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531599904436308 |
-| Players | 1/15 |
-| Host Name | daedauzaborisomqeqeqeqe |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 23, 2023 22:18:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599904929720 |
-| Players | 4/10 |
-| Host Name | Сергей терпила |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:19:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531599904155820 |
-| Players | 4/8 |
-| Host Name | F |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 23, 2023 22:18:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531599904246248 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | [W] |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 23, 2023 22:18:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531599904786918 |
-| Players | 2/10 |
-| Host Name | A.t.K |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 23, 2023 22:19:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599904813720 |
-| Players | 2/10 |
-| Host Name | просто |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 23, 2023 22:19:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531599904926440 |
-| Players | 1/10 |
-| Host Name | pozo mrda ?? |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 23, 2023 22:19:11 |
+| Lobby ID | 28531599899257742 |
+| Players | 4/24 |
+| Host Name | BBBBBB |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 23, 2023 22:13:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531599904891613 |
+| Lobby ID | 28531599905495463 |
 | Players | 1/8 |
-| Host Name | ICHZ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 23, 2023 22:19:09 |
+| Host Name | Sigma5fps |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 23, 2023 22:19:43 |
 
 
