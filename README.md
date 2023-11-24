@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:59:23 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600632670469 |
-| Players | 3/5 |
-| Host Name | Ayaken |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 18:51:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600640716130 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | "Virone" Comrade |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:01:51 |
@@ -32,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600639081065 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:59:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600638972024 |
-| Players | 1/15 |
-| Host Name | Togo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 18:59:42 |
+| Lobby ID | 28531600640223169 |
+| Players | 12/24 |
+| Host Name | 暴走的小喵 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:01:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600640929382 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 🕷 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:02:07 |
@@ -59,36 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600640058634 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | JOOT' |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 19:01:03 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600640223169 |
-| Players | 10/24 |
-| Host Name | 暴走的小喵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:01:15 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600640801101 |
-| Players | 7/10 |
-| Host Name | ебал овцу |
+| Lobby ID | 28531600641635688 |
+| Players | 2/10 |
+| Host Name | Blackout |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:01:58 |
+| Lobby Creation Time | Friday, November 24, 2023 19:02:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600638407586 |
-| Players | 14/15 |
-| Host Name | Sunshine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:59:00 |
+| Lobby ID | 28531600641653398 |
+| Players | 1/15 |
+| Host Name | 心中有人则有人 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 19:03:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600641640112 |
+| Players | 1/15 |
+| Host Name | Пивная сиська |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 19:02:59 |
 
 
