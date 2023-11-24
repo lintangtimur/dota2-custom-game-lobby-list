@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600488796978 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NightBoomer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:56:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:49:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600488599177 |
-| Players | 10/15 |
-| Host Name | Жириновский.В.В |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:56:28 |
+| Lobby ID | 28531600489261813 |
+| Players | 1/24 |
+| Host Name | Meh |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 14:57:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600484708731 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | TwentyOne |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 14:48:38 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:53:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600489261813 |
-| Players | 1/24 |
-| Host Name | Meh |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 14:57:47 |
 
 
