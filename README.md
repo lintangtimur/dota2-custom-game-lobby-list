@@ -2,22 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600338612160 |
-| Players | 9/10 |
-| Host Name | Maeeeeeeeeeeng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 09:19:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600338392715 |
-| Players | 13/15 |
-| Host Name | Z7neo |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 09:18:42 |
+| Lobby ID | 28531600338460428 |
+| Players | 5/24 |
+| Host Name | Mr.MillF |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:18:52 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600338480077 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Hope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:18:55 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600338291885 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Mr.Banana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:18:28 |
@@ -67,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600338602875 |
-| Players | 5/8 |
-| Host Name | SALE UN CHAUFITA GA! :V |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:19:13 |
+| Lobby ID | 28531600338558342 |
+| Players | 6/8 |
+| Host Name | Diogo Dias |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 09:19:06 |
 
 
 |  | ot3_desert_octet |
@@ -83,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 09:17:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600339297715 |
+| Players | 1/15 |
+| Host Name | ErickTc |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:20:55 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600338460428 |
-| Players | 3/24 |
-| Host Name | Mr.MillF |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:18:52 |
+| Lobby ID | 28531600339300351 |
+| Players | 1/24 |
+| Host Name | Mast3rm1nd |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 09:20:55 |
 
 
