@@ -38,49 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:08:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600537325943 |
-| Players | 7/8 |
-| Host Name | UltimateVegas |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:24:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600537137193 |
-| Players | 13/15 |
-| Host Name | ТЫнДА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:24:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600529674824 |
-| Players | 4/24 |
-| Host Name | swap commends |
+| Lobby ID | 28531600538016181 |
+| Players | 3/15 |
+| Host Name | KPS |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600537497882 |
-| Players | 4/8 |
-| Host Name | UNITED WE STAND, DIVIDED WE FALL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600537550903 |
-| Players | 6/10 |
-| Host Name | flexkid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:25:19 |
+| Lobby Creation Time | Friday, November 24, 2023 16:26:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,10 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600537900435 |
-| Players | 1/24 |
-| Host Name | Grimm |
+| Lobby ID | 28531600529674824 |
+| Players | 3/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600537497882 |
+| Players | 3/8 |
+| Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:25:57 |
+| Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600537550903 |
+| Players | 8/10 |
+| Host Name | flexkid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:25:19 |
 
 
