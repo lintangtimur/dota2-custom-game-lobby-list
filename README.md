@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:41:35 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600448779314 |
-| Players | 9/10 |
-| Host Name | mybiiru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 13:33:52 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600448723285 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600449706836 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:35:53 |
@@ -59,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600452468013 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | CEO говна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 13:41:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600452426343 |
-| Players | 7/8 |
-| Host Name | сгораю毒 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 13:41:47 |
 
 
