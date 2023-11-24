@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600735088670 |
-| Players | 9/10 |
-| Host Name | miriam |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:36:29 |
+| Lobby ID | 28531600739925382 |
+| Players | 3/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 20:40:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,28 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:40:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600739925382 |
+| Lobby ID | 28531600741709180 |
 | Players | 2/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:40:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600740722288 |
-| Players | 13/15 |
-| Host Name | iii |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 20:41:24 |
+| Host Name | Nova91 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 20:42:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600738456982 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:39:25 |
@@ -68,9 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600717701763 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Baki |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 20:20:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600741384157 |
+| Players | 2/8 |
+| Host Name | емпик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:41:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600741441309 |
+| Players | 2/15 |
+| Host Name | Cedoyax アクア |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 20:42:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600741739385 |
+| Players | 1/15 |
+| Host Name | RInx |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 20:42:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600741755406 |
+| Players | 2/15 |
+| Host Name | Sm |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 20:42:17 |
 
 
