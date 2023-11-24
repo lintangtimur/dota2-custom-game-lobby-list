@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600700970466 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Lestat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:05:30 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600705908899 |
-| Players | 7/10 |
-| Host Name | ASSASSLN |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 20:10:05 |
+| Lobby ID | 28531600707899674 |
+| Players | 1/10 |
+| Host Name | Hakai |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 20:11:55 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600697718676 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Ладно смазан |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:02:26 |
@@ -56,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:07:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600702623894 |
-| Players | 22/24 |
-| Host Name | 吃宝 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:07:02 |
+| Lobby ID | 28531600707743833 |
+| Players | 2/15 |
+| Host Name | DAGERSNIP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:11:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600707194038 |
-| Players | 1/8 |
+| Lobby ID | 28531600707799312 |
+| Players | 5/15 |
 | Host Name | УZБЕK_KILLЕР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:11:16 |
+| Lobby Creation Time | Friday, November 24, 2023 20:11:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600704524758 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:08:48 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600704077169 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ZakFrost |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:08:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600700887610 |
-| Players | 1/24 |
-| Host Name | Fing |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 20:05:25 |
+| Lobby ID | 28531600707617156 |
+| Players | 5/8 |
+| Host Name | Cago |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:11:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,48 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:10:01 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600703251122 |
-| Players | 1/24 |
-| Host Name | 不二周助 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:07:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600706868142 |
-| Players | 7/10 |
-| Host Name | Конский ХЕР |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:10:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600706916474 |
-| Players | 7/15 |
-| Host Name | Kinnovi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:11:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600703830597 |
-| Players | 7/10 |
-| Host Name | 。 |
+| Players | 2/10 |
+| Host Name | ggbly 3414 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 20:08:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600707390900 |
-| Players | 4/8 |
-| Host Name | Максим |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:11:27 |
 
 
