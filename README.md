@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600390240052 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | El Peluca |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:21:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600390584966 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Goux |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:21:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600390313273 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | KnowledgeIsPower |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 11:21:19 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600389750977 |
-| Players | 16/24 |
-| Host Name | Professor |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 11:20:00 |
+| Lobby ID | 28531600390878275 |
+| Players | 3/24 |
+| Host Name | El Tilin humilde |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:22:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600390734149 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 11:22:19 |
@@ -94,28 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
+| Lobby ID | 28531600391099452 |
+| Players | 4/10 |
+| Host Name | Entrenadors |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 11:23:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
 | Lobby ID | 28531600389681473 |
 | Players | 9/10 |
 | Host Name | мэр пизды |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 11:19:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600390878275 |
-| Players | 2/24 |
-| Host Name | El Tilin humilde |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:22:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600390911431 |
-| Players | 2/10 |
-| Host Name | 火で浄化 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 11:22:44 |
 
 
