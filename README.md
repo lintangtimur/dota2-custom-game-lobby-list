@@ -5,16 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600651334062 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | trance |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:14:17 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600652974208 |
+| Players | 1/10 |
+| Host Name | Kenn |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:16:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600653044060 |
+| Players | 1/5 |
+| Host Name | Baby |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:16:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600646131473 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:08:20 |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600649490841 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:12:13 |
@@ -76,28 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600651755929 |
-| Players | 3/8 |
-| Host Name | InC/7eKToP_>I<o/7NH |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:14:46 |
+| Lobby ID | 28531600652988323 |
+| Players | 2/8 |
+| Host Name | Antonio Pripizduchi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:16:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600652410915 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | ЧИП-АКТИВАТОР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:15:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600652705566 |
-| Players | 1/15 |
-| Host Name | Auxilleon |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:15:51 |
+| Lobby ID | 28531600651337662 |
+| Players | 5/8 |
+| Host Name | Chapolino |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:14:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600652830838 |
+| Players | 1/10 |
+| Host Name | samurai |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 19:15:59 |
 
 
