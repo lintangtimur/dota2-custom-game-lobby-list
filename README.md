@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:14:49 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531600415953083 |
-| Players | 1/7 |
-| Host Name | THUNANTADA |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:19:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600416007095 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Exstetra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:19:54 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600414425656 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | alpaco |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:16:18 |
@@ -41,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600414289667 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | crazy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:16:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600414965384 |
-| Players | 1/10 |
-| Host Name | PSG.LGD AME- |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:17:31 |
+| Lobby ID | 28531600416077321 |
+| Players | 1/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:20:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:18:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600415753695 |
-| Players | 1/8 |
-| Host Name | гундрик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:19:19 |
+| Lobby ID | 28531600416188923 |
+| Players | 1/10 |
+| Host Name | DAEMON |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:20:19 |
 
 
