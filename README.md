@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600442911767 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | TSprite.AleBE |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:20:57 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600443289474 |
-| Players | 1/24 |
-| Host Name | joder |
+| Players | 2/24 |
+| Host Name | ▼▲ZÆX▲▼ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:21:48 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600443134583 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | IQ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 13:21:27 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600444052399 |
-| Players | 5/8 |
-| Host Name | Baby Shark |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:23:30 |
+| Lobby ID | 28531600444302931 |
+| Players | 3/8 |
+| Host Name | Эмиль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 13:24:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600443871789 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:23:06 |
@@ -131,18 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600444209220 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Dence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 13:23:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | dota_desert |
 | ------ | ------ |
-| Lobby ID | 28531600444242961 |
-| Players | 1/8 |
-| Host Name | smash es mi pastor |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:23:55 |
+| Lobby ID | 28531600444286104 |
+| Players | 1/10 |
+| Host Name | ♠♂§↨Pizza Steve ↨§♂ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 13:24:01 |
 
 
