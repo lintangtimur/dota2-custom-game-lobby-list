@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -94,10 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600540218104 |
-| Players | 1/15 |
-| Host Name | OG |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 16:30:00 |
+| Lobby ID | 28531600540265890 |
+| Players | 2/15 |
+| Host Name | ТАМАРА ГОРЛОВОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:30:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600540297406 |
+| Players | 1/8 |
+| Host Name | kek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:30:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600540343170 |
+| Players | 3/8 |
+| Host Name | kill bill |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:30:13 |
 
 
