@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600448779314 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:33:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600449160645 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:34:42 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:35:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600448153752 |
-| Players | 9/10 |
-| Host Name | Addictife |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 13:32:30 |
+| Lobby ID | 28531600450092768 |
+| Players | 3/15 |
+| Host Name | ViggleH |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 13:36:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600442250859 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 13:19:29 |
@@ -77,36 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600449068070 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | л)))х)д)бля)олаъхах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 13:34:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600450092768 |
-| Players | 3/15 |
-| Host Name | ViggleH |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 13:36:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600450286280 |
-| Players | 1/15 |
-| Host Name | OG.K1.tqdm |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:37:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600450297309 |
-| Players | 1/8 |
-| Host Name | тетя мотя |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 13:37:10 |
 
 
