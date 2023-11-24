@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600408592417 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | !Ar3s! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:03:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600409185103 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:04:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600408179787 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | no swap cm = i play muted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:02:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600408777290 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | こん こん |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:03:43 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600409008095 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | utgdcyrsd8 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:04:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600407379214 |
-| Players | 4/8 |
-| Host Name | SR.CaOs |
+| Lobby ID | 28531600408308267 |
+| Players | 9/10 |
+| Host Name | XxTuviejoxX |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:00:34 |
+| Lobby Creation Time | Friday, November 24, 2023 12:02:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600409445519 |
+| Players | 1/24 |
+| Host Name | real human bean |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:05:14 |
 
 
