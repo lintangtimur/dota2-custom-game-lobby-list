@@ -11,24 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:16:09 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600654954825 |
-| Players | 9/10 |
-| Host Name | シタ |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 19:18:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600654291363 |
-| Players | 4/5 |
-| Host Name | Baby |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:17:38 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600646131473 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600643357550 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Tom McGrady |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:05:03 |
@@ -76,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600654709501 |
-| Players | 1/24 |
-| Host Name | Sam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:18:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600652988323 |
-| Players | 7/8 |
-| Host Name | Antonio Pripizduchi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:16:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600654825876 |
+| Lobby ID | 28531600655133962 |
 | Players | 3/24 |
-| Host Name | TheKraken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:18:15 |
+| Host Name | VelvetExile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:18:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:18:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600655113366 |
-| Players | 12/15 |
-| Host Name | life imitates life |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:18:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600655133962 |
+| Lobby ID | 28531600654825876 |
 | Players | 3/24 |
-| Host Name | VelvetExile |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:18:36 |
+| Host Name | TheKraken |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:18:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600655660719 |
+| Players | 1/15 |
+| Host Name | Sam |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 19:19:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600655662538 |
+| Players | 1/15 |
+| Host Name | C.P.T.N |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:19:11 |
 
 
