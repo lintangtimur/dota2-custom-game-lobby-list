@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600781314378 |
+| Lobby ID | 28531600781693704 |
 | Players | 1/10 |
-| Host Name | Veins |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 21:16:28 |
+| Host Name | t.me/deicospl |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 21:16:47 |
 
 
 |  | epic_boss_fight_hard |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600779454385 |
-| Players | 1/10 |
-| Host Name | ASSASSLN |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 21:14:53 |
+| Lobby ID | 28531600780148200 |
+| Players | 8/10 |
+| Host Name | Mистер Роябот Абд |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 21:15:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -47,28 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:15:15 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600780148200 |
-| Players | 2/10 |
-| Host Name | Mистер Роябот Абд |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 21:15:29 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600781253103 |
+| Lobby ID | 28531600781879837 |
 | Players | 1/5 |
 | Host Name | 枭枭 |
 | Region | Unknown |
-| Lobby Creation Time | Friday, November 24, 2023 21:16:25 |
+| Lobby Creation Time | Friday, November 24, 2023 21:16:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600780522646 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Grimorum ~_^ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:15:48 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600774769901 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:10:57 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600765984877 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:03:28 |
@@ -113,61 +104,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600776290277 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:12:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600781750262 |
+| Players | 8/15 |
+| Host Name | abomination |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 21:16:50 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600770694235 |
-| Players | 1/24 |
-| Host Name | Ounahi |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 21:07:29 |
+| Lobby ID | 28531600781481657 |
+| Players | 5/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 21:16:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600780741171 |
-| Players | 6/8 |
-| Host Name | Киcлoтный Beceльчaк |
+| Lobby ID | 28531600781709044 |
+| Players | 5/8 |
+| Host Name | Jo |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:15:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600780638268 |
-| Players | 5/10 |
-| Host Name | МИШКА ФРЭДЭ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:15:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600780418965 |
-| Players | 1/15 |
-| Host Name | клоун |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 21:15:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600780690993 |
-| Players | 1/15 |
-| Host Name | Shakshuka |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 21:15:56 |
+| Lobby Creation Time | Friday, November 24, 2023 21:16:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600781220610 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | JS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 21:16:23 |
