@@ -2,13 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600408735412 |
+| Players | 3/10 |
+| Host Name | 年轻人不气盛叫年轻人吗 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 12:03:37 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600407457197 |
-| Players | 11/15 |
-| Host Name | Imagio |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 12:00:44 |
+| Lobby ID | 28531600408592417 |
+| Players | 1/15 |
+| Host Name | !Ar3s! |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:03:18 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:00:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600408165983 |
-| Players | 8/24 |
-| Host Name | El Peluca |
+| Lobby ID | 28531600408827086 |
+| Players | 5/8 |
+| Host Name | Mi primera chamba |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:02:20 |
+| Lobby Creation Time | Friday, November 24, 2023 12:03:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600408179787 |
-| Players | 3/10 |
-| Host Name | пан или иди нахуй |
+| Players | 2/10 |
+| Host Name | no swap cm = i play muted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:02:22 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600408308267 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:02:40 |
@@ -59,45 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600407151206 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Leon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 12:00:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600407120449 |
-| Players | 4/8 |
-| Host Name | Mi primera chamba |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:59:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600408534587 |
-| Players | 3/8 |
-| Host Name | kris |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:03:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600408572493 |
-| Players | 1/8 |
-| Host Name | 日月星辰 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 12:03:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600408592417 |
+| Lobby ID | 28531600408777290 |
 | Players | 1/15 |
-| Host Name | !Ar3s! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:03:18 |
+| Host Name | こん こん |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 12:03:43 |
 
 
