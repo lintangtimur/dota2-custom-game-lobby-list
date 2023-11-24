@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:59:30 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600466622103 |
+| Players | 2/10 |
+| Host Name | 青椒小新 |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 14:11:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600465952294 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 14:10:25 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600466179684 |
-| Players | 2/15 |
-| Host Name | Pitoooooooooon |
+| Lobby ID | 28531600466184604 |
+| Players | 3/15 |
+| Host Name | Дайте мне белые к |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:10:53 |
+| Lobby Creation Time | Friday, November 24, 2023 14:10:54 |
 
 
 |  | ot3_desert_octet |
@@ -56,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:09:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600465918441 |
-| Players | 1/8 |
-| Host Name | One Chance |
+| Lobby ID | 28531600466707371 |
+| Players | 2/10 |
+| Host Name | Death |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:10:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600466184604 |
-| Players | 1/15 |
-| Host Name | Дайте мне белые к |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:10:54 |
+| Lobby Creation Time | Friday, November 24, 2023 14:11:59 |
 
 
