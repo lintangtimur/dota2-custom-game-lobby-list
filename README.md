@@ -11,22 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:11:15 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600386712583 |
-| Players | 9/10 |
-| Host Name | Roronoa Zoro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 11:12:46 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600387014824 |
+| Lobby ID | 28531600387337389 |
 | Players | 1/5 |
-| Host Name | THUNANTADA |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:13:29 |
+| Host Name | Челядь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 11:14:13 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600386272389 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:11:44 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600387074901 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | JAYLU <3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:13:36 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600384882654 |
-| Players | 20/24 |
+| Players | 17/24 |
 | Host Name | Danger☢us |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 11:08:23 |
@@ -92,12 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:13:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600387190219 |
+| Players | 3/15 |
+| Host Name | WAYAN30 |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 11:13:52 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600383639516 |
-| Players | 23/24 |
-| Host Name | Attentäter |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 11:05:21 |
+| Lobby ID | 28531600387271427 |
+| Players | 1/24 |
+| Host Name | TiltedGuy |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:14:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600386549814 |
+| Players | 14/15 |
+| Host Name | KO 3.0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:12:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600387324553 |
+| Players | 2/10 |
+| Host Name | not a human |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:14:11 |
 
 
