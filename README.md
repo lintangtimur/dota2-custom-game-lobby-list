@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600659265428 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | ×KARMADONT×™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:23:11 |
@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:25:51 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600663977127 |
-| Players | 1/5 |
-| Host Name | гошазоло2008 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:28:19 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600654825876 |
@@ -41,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600644723188 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | LionKingZ` |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 19:06:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600662393462 |
-| Players | 19/24 |
-| Host Name | 青衣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:26:36 |
+| Lobby ID | 28531600664512906 |
+| Players | 1/8 |
+| Host Name | Regnezit |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:28:54 |
 
 
 |  | ot3_desert_octet |
@@ -83,40 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:24:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600662781436 |
-| Players | 7/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:27:02 |
+| Lobby ID | 28531600664165472 |
+| Players | 10/15 |
+| Host Name | hen |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:28:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600663015497 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | рожден для ебки |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:27:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600663524710 |
-| Players | 11/15 |
-| Host Name | ГлистВскафандре |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:27:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600663958322 |
-| Players | 2/8 |
-| Host Name | Takiyoshi国王 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:28:18 |
 
 
 |  | ot3_necropolis_ffa |
