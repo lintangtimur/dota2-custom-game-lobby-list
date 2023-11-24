@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600787198019 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | LA MAQUINA DE FARMEAR |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 21:21:21 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600814178132 |
+| Lobby ID | 28531600814996050 |
 | Players | 11/15 |
-| Host Name | y |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 21:43:39 |
+| Host Name | Memoriq |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 21:44:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600814726842 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Спейсер |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 21:44:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600814767310 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | iB.Rock |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 21:44:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600813789451 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 21:43:20 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:40:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600813422108 |
-| Players | 9/10 |
-| Host Name | IzzY |
+| Lobby ID | 28531600815101702 |
+| Players | 2/8 |
+| Host Name | Гаддэм ублюдки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:43:02 |
+| Lobby Creation Time | Friday, November 24, 2023 21:44:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600815053416 |
+| Players | 1/24 |
+| Host Name | baggerboo |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 21:44:22 |
 
 
