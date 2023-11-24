@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600550677264 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | theOne |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:48:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600551001691 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | tiuebiwe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:48:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600547516884 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 76561198203261364 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:42:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -59,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600551242840 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | El Ghoulito |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:49:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600551261831 |
-| Players | 1/24 |
-| Host Name | Gen" |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:49:20 |
+| Lobby ID | 28531600551633937 |
+| Players | 3/8 |
+| Host Name | тихо |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 16:49:59 |
 
 
