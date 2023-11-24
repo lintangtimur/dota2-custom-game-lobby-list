@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600431565923 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | BetBoombl4 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:55:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600432137168 |
-| Players | 12/15 |
-| Host Name | Sgt Struthers |
+| Lobby ID | 28531600432710946 |
+| Players | 1/24 |
+| Host Name | Pilot.Mark |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:56:29 |
+| Lobby Creation Time | Friday, November 24, 2023 12:57:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600430778585 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:53:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600432587183 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | 95 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 12:57:31 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EXIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:57:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600432710946 |
-| Players | 2/24 |
-| Host Name | Pilot.Mark |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:57:48 |
 
 
