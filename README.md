@@ -20,10 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:13:53 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600651334062 |
+| Players | 2/10 |
+| Host Name | trance |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:14:17 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600651474965 |
+| Players | 1/7 |
+| Host Name | I'm Going To The Darkside With U |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:14:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600646131473 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:08:20 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600649980731 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Superman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:12:47 |
@@ -110,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:13:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600650961864 |
-| Players | 1/24 |
-| Host Name | chill kurros |
+| Lobby ID | 28531600651337662 |
+| Players | 4/8 |
+| Host Name | Antonio Pripizduchi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:13:52 |
+| Lobby Creation Time | Friday, November 24, 2023 19:14:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600651454665 |
+| Players | 3/15 |
+| Host Name | Y Griega |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:14:26 |
 
 
