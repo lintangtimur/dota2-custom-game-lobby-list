@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600343788534 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | HaLx |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 09:31:41 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600343339205 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 09:30:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600342852457 |
-| Players | 1/10 |
-| Host Name | Josє❥❥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 09:29:29 |
+| Lobby ID | 28531600343934960 |
+| Players | 1/8 |
+| Host Name | TE MATO Y ME ESCAPO. |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:32:02 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600338291885 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | flu_babi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:18:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600343707447 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | [)Zenh(] |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:31:30 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600343344196 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Smogi4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:30:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600341913754 |
-| Players | 22/24 |
-| Host Name | NOBODY |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:27:14 |
 
 
