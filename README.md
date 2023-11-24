@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600387850757 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | THUNANTADA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:15:27 |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ¡¡¡°|ʟᴜᴄɪꜰᴇʀツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 11:15:48 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531600388492517 |
-| Players | 5/7 |
-| Host Name | Zeta de Riemann |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 24, 2023 11:17:00 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600387271427 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:14:03 |
@@ -104,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600387190219 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | WAYAN30 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 11:13:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600388443210 |
-| Players | 1/24 |
-| Host Name | bch |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:16:53 |
 
 
 |  | ot3_gardens_duo |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 11:16:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600388561070 |
+| Players | 6/8 |
+| Host Name | No pienses en amor,PiensaenDOTA |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:17:10 |
 
 
