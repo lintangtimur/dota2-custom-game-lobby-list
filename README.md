@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:57:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600405561400 |
-| Players | 22/24 |
-| Host Name | IEdumpling |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 11:56:30 |
+| Lobby ID | 28531600407154110 |
+| Players | 5/10 |
+| Host Name | SEDMin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 12:00:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:57:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600405616176 |
-| Players | 7/8 |
-| Host Name | PMA |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:56:37 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600403169083 |
@@ -65,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:51:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600407120449 |
-| Players | 5/8 |
-| Host Name | Mi primera chamba |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:59:59 |
+| Lobby ID | 28531600407151206 |
+| Players | 7/24 |
+| Host Name | Leon |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:00:03 |
 
 
