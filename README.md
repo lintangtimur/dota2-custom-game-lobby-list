@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600374989916 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:44:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600379003170 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | JAYLU <3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:53:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600378419276 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | JIeoHuD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:52:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600368981872 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:30:16 |
@@ -59,18 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600378609073 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | EMANS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:53:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600378825449 |
-| Players | 16/24 |
-| Host Name | Drive my car |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:53:32 |
+| Lobby ID | 28531600379258308 |
+| Players | 1/8 |
+| Host Name | Goga |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 10:54:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600379440823 |
+| Players | 1/15 |
+| Host Name | 嘻嘻！ |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, November 24, 2023 10:55:01 |
 
 
