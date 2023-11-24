@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600462745035 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | @FIONA SZE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:03:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -50,54 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600462353489 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Smile |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:02:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600462602062 |
-| Players | 2/10 |
-| Host Name | PC_PS |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 14:03:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600462508579 |
-| Players | 6/8 |
-| Host Name | berserk [hardwork54] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:03:11 |
+| Lobby ID | 28531600459755218 |
+| Players | 1/8 |
+| Host Name | PMA |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 13:57:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600463234326 |
+| Players | 2/24 |
+| Host Name | Shrimp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 14:04:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600462815416 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Kami Mirael |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:03:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600462838795 |
-| Players | 1/24 |
-| Host Name | 504 |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 14:03:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600462897210 |
+| Lobby ID | 28531600463296859 |
 | Players | 1/15 |
 | Host Name | Piminchumo...!!! |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 14:04:00 |
+| Lobby Creation Time | Friday, November 24, 2023 14:04:51 |
 
 
