@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600576959161 |
-| Players | 6/15 |
-| Host Name | Taras_Baby |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:33:08 |
+| Lobby ID | 28531600576922223 |
+| Players | 1/8 |
+| Host Name | wadadadawdadawdad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:33:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600575961572 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:31:31 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:24:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600577265337 |
+| Players | 3/15 |
+| Host Name | DOMINANT |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:33:38 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600576922223 |
-| Players | 1/8 |
-| Host Name | wadadadawdadawdad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:33:04 |
+| Lobby ID | 28531600577465701 |
+| Players | 2/8 |
+| Host Name | fantifan |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:33:57 |
 
 
