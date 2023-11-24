@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600370243710 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | skeeteronthemic |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 10:33:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600370463816 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:33:43 |
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 10:31:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600369514131 |
-| Players | 5/8 |
-| Host Name | Depressive game |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:31:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600369592721 |
-| Players | 9/10 |
-| Host Name | FUCK IT ALL |
+| Lobby ID | 28531600370599083 |
+| Players | 3/10 |
+| Host Name | CHILINGUS |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:31:41 |
+| Lobby Creation Time | Friday, November 24, 2023 10:34:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600370611779 |
+| Players | 3/8 |
+| Host Name | ... |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:34:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600370436156 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:33:39 |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lemonchill |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:34:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600370664029 |
+| Players | 4/8 |
+| Host Name | Mata Campesinos |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:34:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600370021461 |
+| Players | 14/15 |
+| Host Name | JIeoHuD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:32:42 |
 
 
