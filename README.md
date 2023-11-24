@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600666403818 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | wikiped |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
@@ -117,5 +117,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asmoder |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 19:38:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600679494824 |
+| Players | 1/24 |
+| Host Name | ArtoftheStateAT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:44:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600679569072 |
+| Players | 3/8 |
+| Host Name | Fear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:44:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600679614853 |
+| Players | 4/8 |
+| Host Name | TSpirit.YATORO雨.1XBET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:44:28 |
 
 
