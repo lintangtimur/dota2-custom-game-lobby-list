@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:53:29 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600690650098 |
+| Players | 1/5 |
+| Host Name | Little_pRinceSs |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:55:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600676264365 |
@@ -22,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600682092326 |
-| Players | 7/8 |
-| Host Name | Sukuna |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 19:46:59 |
+| Lobby ID | 28531600690398017 |
+| Players | 1/8 |
+| Host Name | Prokuror |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:55:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600690160790 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:55:04 |
@@ -59,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600680583569 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:45:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600689769462 |
-| Players | 13/15 |
-| Host Name | kysok от печенья |
+| Lobby ID | 28531600690644996 |
+| Players | 2/8 |
+| Host Name | ugly god mode: |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:54:41 |
+| Lobby Creation Time | Friday, November 24, 2023 19:55:33 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:55:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600690398017 |
-| Players | 1/8 |
-| Host Name | Prokuror |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:55:18 |
+| Lobby ID | 28531600688810398 |
+| Players | 14/15 |
+| Host Name | Itachi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:53:44 |
 
 
