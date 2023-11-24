@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531600419737937 |
 | Players | 4/10 |
-| Host Name | SASHA_BURIZA |
+| Host Name | Rony Jason |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:28:22 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600426201888 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:42:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422793850 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Puro bajo pensando q juega xd |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:35:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600426015753 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:42:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600425981467 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Nemro |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:42:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600426072235 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | миша печенюшкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:42:41 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600426623222 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | I only play for fun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:43:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600426657381 |
-| Players | 3/8 |
-| Host Name | hakari bailecito |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:43:59 |
+| Lobby ID | 28531600426810392 |
+| Players | 1/24 |
+| Host Name | DIDJAPUTYERNAMEINTHEGOBLETOFIRE |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:44:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600426825943 |
+| Players | 1/15 |
+| Host Name | dayzenjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 12:44:21 |
 
 
