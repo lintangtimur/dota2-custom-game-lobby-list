@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600478583152 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 14:36:15 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600471921299 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Gaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:22:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600478915287 |
-| Players | 14/15 |
-| Host Name | twitch.tv/raumhart |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 14:36:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:38:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600479620308 |
-| Players | 1/15 |
-| Host Name | m1das |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:38:22 |
 
 
