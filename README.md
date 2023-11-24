@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531600626479167 |
 | Players | 3/8 |
-| Host Name | Пошлая Ширинка |
+| Host Name | боБрёнок |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:44:16 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600626608933 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | мой кайф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:44:23 |
