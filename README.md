@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:52:48 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600895322083 |
+| Players | 2/5 |
+| Host Name | mosokngono |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 22:53:22 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600887929441 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | : ) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:46:38 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600894385541 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | yeri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 22:52:30 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600889836916 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:48:21 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600893881582 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Denis 'Larl' Sigitov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 22:52:02 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600886894662 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | LoKi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 22:45:42 |
@@ -167,19 +176,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600894562146 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Moccio 希望 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 22:52:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600895162685 |
-| Players | 2/10 |
-| Host Name | ZA PIVO DA |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 22:53:13 |
+| Lobby ID | 28531600895288261 |
+| Players | 6/8 |
+| Host Name | moyamishel<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 22:53:20 |
 
 
 |  | ot3_jungle_quintet |
