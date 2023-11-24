@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600361914277 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Angel Dust |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:14:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600362292933 |
-| Players | 1/15 |
-| Host Name | pick sniper = throw |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 10:14:52 |
+| Lobby ID | 28531600362809003 |
+| Players | 1/24 |
+| Host Name | Sir Gamb0o |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 10:16:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 10:12:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600362158877 |
-| Players | 1/15 |
-| Host Name | BlackSheep |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 10:14:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600362078749 |
-| Players | 21/24 |
-| Host Name | ~{ ■} |
+| Lobby ID | 28531600362703392 |
+| Players | 4/10 |
+| Host Name | squero squero |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:14:22 |
+| Lobby Creation Time | Friday, November 24, 2023 10:15:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600362804253 |
+| Players | 4/10 |
+| Host Name | -30 реарм - 30 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:16:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,32 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:15:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600362626965 |
-| Players | 6/8 |
-| Host Name | Zeze l PMA 제제 4467 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:15:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600362703392 |
-| Players | 1/10 |
-| Host Name | squero squero |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:15:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600362745734 |
-| Players | 1/24 |
-| Host Name | Darkdiver Grandahl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 10:15:56 |
 
 
