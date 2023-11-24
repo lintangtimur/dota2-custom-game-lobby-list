@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:59:30 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600469191494 |
+| Players | 1/10 |
+| Host Name | Eijun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 14:17:02 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600466867381 |
@@ -65,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:13:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600468106302 |
-| Players | 13/15 |
-| Host Name | Tracer |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 14:14:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600469078096 |
-| Players | 1/24 |
-| Host Name | 九歌 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 14:16:48 |
+| Lobby ID | 28531600469279742 |
+| Players | 1/8 |
+| Host Name | RYUK |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 14:17:13 |
 
 
