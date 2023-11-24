@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600582339405 |
-| Players | 14/15 |
-| Host Name | duknoken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:41:44 |
+| Lobby ID | 28531600582759581 |
+| Players | 5/10 |
+| Host Name | Yo$hum1 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:42:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,37 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600582606313 |
-| Players | 7/8 |
-| Host Name | LET ME COOK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:42:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600582435156 |
-| Players | 1/8 |
-| Host Name | kirito |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 17:41:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600582759581 |
-| Players | 4/10 |
-| Host Name | Yo$hum1 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:42:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600583170756 |
+| Lobby ID | 28531600583242915 |
 | Players | 4/8 |
-| Host Name | BOMBACLAAT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:43:02 |
+| Host Name | MEHEHEHE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:43:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600583256935 |
+| Players | 1/24 |
+| Host Name | Edit Profile |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 17:43:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600583257872 |
+| Players | 1/15 |
+| Host Name | :D |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 17:43:11 |
 
 
