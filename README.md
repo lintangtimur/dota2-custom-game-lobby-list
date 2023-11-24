@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600460902195 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | танцы в трусиках |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 13:59:49 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:59:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600462745035 |
-| Players | 6/10 |
-| Host Name | @FIONA SZE |
+| Lobby ID | 28531600463698128 |
+| Players | 1/5 |
+| Host Name | dont be a maybe |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:03:41 |
+| Lobby Creation Time | Friday, November 24, 2023 14:05:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600462601755 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | eryominandrey |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 14:03:23 |
@@ -50,36 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600463296859 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Piminchumo...!!! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:04:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600459755218 |
-| Players | 5/8 |
-| Host Name | PMA |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 13:57:22 |
+| Lobby ID | 28531600461829325 |
+| Players | 6/10 |
+| Host Name | федя плей бой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:01:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600463234326 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:04:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600462815416 |
-| Players | 6/10 |
-| Host Name | Kami Mirael |
+| Lobby ID | 28531600463782091 |
+| Players | 1/8 |
+| Host Name | kn9z |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:03:50 |
+| Lobby Creation Time | Friday, November 24, 2023 14:05:52 |
 
 
