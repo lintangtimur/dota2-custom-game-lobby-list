@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600485594582 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Moon Moon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:50:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600486346730 |
+| Players | 1/10 |
+| Host Name | GLUK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:51:57 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600484631395 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Кирилл Бледный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:48:29 |
@@ -49,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600485597199 |
-| Players | 1/15 |
-| Host Name | ViggleH |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 14:50:28 |
+| Lobby ID | 28531600486224426 |
+| Players | 4/15 |
+| Host Name | messiwo™ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 14:51:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600484708731 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Almond Butter Honey |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 14:48:38 |
@@ -68,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600485180545 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Syn.v2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:49:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600486224426 |
-| Players | 3/15 |
-| Host Name | messiwo™ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 14:51:43 |
+| Lobby ID | 28531600486494630 |
+| Players | 3/8 |
+| Host Name | RANGER:AZUL/godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 14:52:15 |
 
 
