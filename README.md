@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600887446013 |
-| Players | 1/10 |
-| Host Name | Sea Server Cancer |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 22:46:12 |
+| Lobby ID | 28531600888709530 |
+| Players | 3/5 |
+| Host Name | Малая |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 22:47:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:47:08 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600888709530 |
-| Players | 2/5 |
-| Host Name | Малая |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 22:47:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600881783690 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600882308023 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | deus |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:41:33 |
@@ -85,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600888948540 |
-| Players | 13/15 |
-| Host Name | Finesse |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 22:47:32 |
+| Lobby ID | 28531600889849486 |
+| Players | 10/15 |
+| Host Name | БАБYWKA V BALENC1 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 22:48:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600889857552 |
-| Players | 4/10 |
-| Host Name | THC % 24( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 22:48:22 |
+| Lobby ID | 28531600883129142 |
+| Players | 5/8 |
+| Host Name | d111XE |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 22:42:17 |
 
 
 |  | ot3_desert_octet |
@@ -110,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:46:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600889210379 |
-| Players | 6/8 |
-| Host Name | HELP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 22:47:47 |
+| Lobby ID | 28531600883869095 |
+| Players | 22/24 |
+| Host Name | VanzrayGx |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 22:42:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600877351870 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | FERNANDO |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 22:37:08 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600886370356 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | ENJOYMENT ENJOYER |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 22:45:14 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600887929441 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | : ) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:46:38 |
@@ -164,30 +155,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:47:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600886332084 |
-| Players | 1/10 |
-| Host Name | vini |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 22:45:12 |
+| Lobby ID | 28531600890193879 |
+| Players | 13/15 |
+| Host Name | `9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 22:48:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600886163244 |
 | Players | 2/24 |
-| Host Name | BODYSHOT BANDIT |
+| Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 22:45:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600889849486 |
-| Players | 2/15 |
-| Host Name | БАБYWKA V BALENC1 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 22:48:21 |
 
 
