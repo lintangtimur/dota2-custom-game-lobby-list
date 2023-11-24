@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:44:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600549772677 |
-| Players | 5/8 |
-| Host Name | Иосиф Сталин |
+| Lobby ID | 28531600550082321 |
+| Players | 3/15 |
+| Host Name | MrIBigBang |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:46:43 |
+| Lobby Creation Time | Friday, November 24, 2023 16:47:16 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:43:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600550082321 |
-| Players | 3/15 |
-| Host Name | MrIBigBang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:47:16 |
 
 
