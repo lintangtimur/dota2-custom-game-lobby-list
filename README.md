@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600420360136 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:29:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600420890979 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | North |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:30:58 |
@@ -68,45 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600421205844 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:31:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600421219503 |
-| Players | 13/15 |
-| Host Name | Sgt Struthers |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:31:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600421904907 |
-| Players | 8/10 |
-| Host Name | Entrenadors |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:33:17 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600421805574 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Gauge Duality |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 12:33:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600422115844 |
-| Players | 1/15 |
-| Host Name | ez |
+| Lobby ID | 28531600421904907 |
+| Players | 9/10 |
+| Host Name | Entrenadors |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:33:45 |
+| Lobby Creation Time | Friday, November 24, 2023 12:33:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600422334970 |
+| Players | 1/10 |
+| Host Name | katar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 12:34:14 |
 
 
