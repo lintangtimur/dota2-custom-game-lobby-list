@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600696825872 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 20:01:36 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:14:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600711034713 |
-| Players | 6/10 |
-| Host Name | Enjoy dota, enjoy |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:14:49 |
+| Lobby ID | 28531600711350657 |
+| Players | 1/24 |
+| Host Name | Saturnus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 20:15:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600711165813 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:14:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600711350657 |
-| Players | 1/24 |
-| Host Name | Saturnus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:15:06 |
 
 
