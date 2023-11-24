@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600522332790 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Чурка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:59:26 |
@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600522472871 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | SpliNteR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:59:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600521213300 |
+| Players | 9/10 |
+| Host Name | Rambod D. Luffy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:57:24 |
 
 
