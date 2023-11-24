@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600537325943 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | UltimateVegas |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:24:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600537137193 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ТЫнДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:24:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600537497882 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600537550903 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | flexkid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:25:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600537687788 |
+| Players | 1/15 |
+| Host Name | Chiki Briki Iv Damke |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:25:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600537900435 |
+| Players | 1/24 |
+| Host Name | Grimm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:25:57 |
 
 
