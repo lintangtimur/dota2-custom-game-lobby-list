@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600466867381 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Hash |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:12:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600468201309 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:15:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600465750433 |
-| Players | 23/24 |
-| Host Name | Explosive Shot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:09:59 |
+| Lobby ID | 28531600468758106 |
+| Players | 7/10 |
+| Host Name | Eloyito |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 14:16:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600467461537 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | kReW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:13:32 |
@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600468106302 |
-| Players | 8/15 |
-| Host Name | Grampus |
+| Players | 13/15 |
+| Host Name | Tracer |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 14:14:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600468758106 |
-| Players | 3/10 |
-| Host Name | Eloyito |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 14:16:08 |
+| Lobby ID | 28531600469078096 |
+| Players | 1/24 |
+| Host Name | 九歌 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 14:16:48 |
 
 
