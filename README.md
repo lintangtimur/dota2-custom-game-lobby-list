@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600476326636 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Shackscraft |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 14:31:41 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:22:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600477323334 |
-| Players | 9/10 |
-| Host Name | i go sleep.... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:33:43 |
+| Lobby ID | 28531600478915287 |
+| Players | 4/15 |
+| Host Name | twitch.tv/raumhart |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 14:36:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600478402225 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | UltimateVegas |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 14:35:54 |
