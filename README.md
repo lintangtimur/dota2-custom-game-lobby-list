@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600595989635 |
-| Players | 9/10 |
-| Host Name | Malakh player |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:02:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600604187391 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | baoeq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:14:29 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600600340335 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Lil Tortilla Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:09:00 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600603501035 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Egowycz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:13:32 |
@@ -65,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:15:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600604610729 |
-| Players | 1/8 |
-| Host Name | +BIG BALLS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:15:05 |
+| Lobby ID | 28531600604768660 |
+| Players | 3/10 |
+| Host Name | gokirus |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 18:15:18 |
 
 
