@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600865285289 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 22:26:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600870153287 |
-| Players | 6/10 |
-| Host Name | Wukash |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 22:30:47 |
+| Lobby ID | 28531600870824330 |
+| Players | 3/8 |
+| Host Name | SI亡来 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 22:31:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600866406901 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:27:32 |
@@ -140,25 +140,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600870148549 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Pinkie Pie |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 22:30:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600869847410 |
-| Players | 4/8 |
-| Host Name | 76561198009261444 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 22:30:31 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600869998282 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Finesse |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 22:30:39 |
