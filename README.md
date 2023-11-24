@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600489688629 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | профессор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:58:38 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600489812438 |
+| Lobby ID | 28531600489800527 |
 | Players | 1/24 |
-| Host Name | Paj |
+| Host Name | Meh |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:58:52 |
+| Lobby Creation Time | Friday, November 24, 2023 14:58:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600484708731 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | faq |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 14:48:38 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:58:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600490310762 |
+| Players | 3/10 |
+| Host Name | ЛОУ ПОРЯДА КИНГ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:59:51 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600489800527 |
+| Lobby ID | 28531600490208119 |
 | Players | 1/24 |
-| Host Name | Meh |
+| Host Name | Paj |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:58:51 |
+| Lobby Creation Time | Friday, November 24, 2023 14:59:39 |
 
 
