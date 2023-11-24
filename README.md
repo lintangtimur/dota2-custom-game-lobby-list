@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:39:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600482214375 |
-| Players | 14/15 |
-| Host Name | Corey |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 14:43:35 |
+| Lobby ID | 28531600483179124 |
+| Players | 4/10 |
+| Host Name | влад разрушитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:45:33 |
 
 
 |  | ot3_desert_octet |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:41:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600483179124 |
-| Players | 2/10 |
-| Host Name | влад разрушитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:45:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600480349737 |
-| Players | 13/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:39:48 |
 
 
