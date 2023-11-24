@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:08:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600536749721 |
-| Players | 8/10 |
-| Host Name | DzhuZo |
+| Lobby ID | 28531600537325943 |
+| Players | 1/8 |
+| Host Name | UltimateVegas |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:23:54 |
+| Lobby Creation Time | Friday, November 24, 2023 16:24:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600537137193 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ТЫнДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:24:35 |
@@ -67,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600537325943 |
+| Lobby ID | 28531600537497882 |
 | Players | 1/8 |
-| Host Name | UltimateVegas |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:24:55 |
+| Host Name | UNITED WE STAND, DIVIDED WE FALL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600537504672 |
+| Players | 1/10 |
+| Host Name | mmm |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 16:25:14 |
 
 
