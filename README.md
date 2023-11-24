@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600364550351 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MORPHEUS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:20:03 |
@@ -13,29 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600365480576 |
+| Lobby ID | 28531600365775322 |
 | Players | 1/10 |
-| Host Name | ? |
+| Host Name | Be Humble |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 10:22:09 |
+| Lobby Creation Time | Friday, November 24, 2023 10:22:49 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600365550504 |
-| Players | 1/5 |
-| Host Name | Челядь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 10:22:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600365039851 |
-| Players | 4/15 |
-| Host Name | P3T4RD0 |
+| Lobby ID | 28531600362570466 |
+| Players | 4/8 |
+| Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:21:10 |
+| Lobby Creation Time | Friday, November 24, 2023 10:15:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,54 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600362809003 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Sir Gamb0o |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:16:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600364471871 |
-| Players | 17/24 |
-| Host Name | Aiimer |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:19:53 |
+| Lobby ID | 28531600365658669 |
+| Players | 2/15 |
+| Host Name | dudu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:22:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600364305827 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | epiteto lujan carrion |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:19:30 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600361335630 |
-| Players | 23/24 |
-| Host Name | quiescent |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 10:12:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600364905516 |
-| Players | 8/10 |
-| Host Name | 完蛋,美女被我包围了 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 10:20:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600362570466 |
-| Players | 5/8 |
-| Host Name | MAPACHE_$INC0LA |
+| Lobby ID | 28531600365798000 |
+| Players | 4/10 |
+| Host Name | KuKin.Punkkeke |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:15:31 |
+| Lobby Creation Time | Friday, November 24, 2023 10:22:52 |
 
 
