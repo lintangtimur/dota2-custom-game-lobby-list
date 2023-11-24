@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600690654783 |
-| Players | 9/10 |
-| Host Name | Abril te extraño regresa :c |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:55:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531600698880759 |
 | Players | 4/10 |
 | Host Name | Kie |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600643357550 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Fing |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:05:03 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600699466277 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Antonio Pripizduchi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:04:05 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600698618264 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Yana Cist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:03:17 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600700250447 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | Moonlight |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:04:49 |
