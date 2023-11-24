@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600357638039 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Masha |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:04:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600357583012 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | gdzie jest mój kask |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 10:04:04 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600357085723 |
-| Players | 12/15 |
-| Host Name | Soy El Corazon De Las Tinieblas |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:02:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531600357236277 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 10:03:16 |
