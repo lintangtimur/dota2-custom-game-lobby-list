@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600338291885 |
-| Players | 22/24 |
-| Host Name | Edit Profile |
+| Lobby ID | 28531600347762448 |
+| Players | 1/24 |
+| Host Name | BuLL |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 09:18:28 |
+| Lobby Creation Time | Friday, November 24, 2023 09:41:05 |
 
 
 |  | ot3_desert_octet |
@@ -58,37 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600346939310 |
-| Players | 11/15 |
-| Host Name | ꧁ঔৣ☬✞ONE V✞☬ঔৣ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:39:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600347157561 |
-| Players | 1/10 |
-| Host Name | anuel triple a |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:39:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531600347691883 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Hummer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:40:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600347733425 |
-| Players | 6/8 |
-| Host Name | PieroGodd |
+| Lobby ID | 28531600347157561 |
+| Players | 2/10 |
+| Host Name | anuel triple a |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:41:01 |
+| Lobby Creation Time | Friday, November 24, 2023 09:39:40 |
 
 
