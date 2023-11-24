@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600462353489 |
-| Players | 1/15 |
-| Host Name | Smile |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 14:02:52 |
+| Lobby ID | 28531600463296859 |
+| Players | 3/15 |
+| Host Name | Piminchumo...!!! |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 14:04:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600459755218 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | PMA |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:57:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600463234326 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:04:43 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kami Mirael |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:03:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600463296859 |
-| Players | 1/15 |
-| Host Name | Piminchumo...!!! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 14:04:51 |
 
 
