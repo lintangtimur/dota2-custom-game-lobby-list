@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600816321871 |
-| Players | 2/10 |
-| Host Name | 山上徹也 |
+| Players | 1/10 |
+| Host Name | シタ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 21:45:24 |
 
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600818785799 |
-| Players | 5/8 |
-| Host Name | свин |
+| Players | 4/8 |
+| Host Name | Змей Героиныч |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 21:47:26 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600814046089 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | GATTSU |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:43:33 |
@@ -92,6 +92,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:40:39 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600819616275 |
+| Players | 5/24 |
+| Host Name | CantTouchThis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 21:48:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600817337284 |
+| Players | 3/8 |
+| Host Name | El 10 DE TU CASA |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 21:46:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600819669108 |
+| Players | 4/15 |
+| Host Name | FloweryShirtGuy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 21:48:11 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600817654438 |
@@ -103,46 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600817337284 |
-| Players | 4/8 |
-| Host Name | %Kek-PunsKek% |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 21:46:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600819324718 |
-| Players | 2/8 |
-| Host Name | FLORSTI |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:47:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600819019588 |
-| Players | 12/15 |
-| Host Name | Бобровая струя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:47:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600818704202 |
-| Players | 3/8 |
-| Host Name | legendaruli megobradze |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:47:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600818969755 |
-| Players | 2/10 |
-| Host Name | да |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 21:47:35 |
+| Lobby ID | 28531600819569897 |
+| Players | 1/8 |
+| Host Name | Sunb3am |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 21:48:06 |
 
 
