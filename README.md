@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600715568122 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mortal's Journey to Immortal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:18:58 |
@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:19:08 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600716147842 |
-| Players | 1/5 |
-| Host Name | Пчела камикадзе |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:19:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600696825872 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600697718676 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:02:26 |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:14:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600716417990 |
-| Players | 6/8 |
-| Host Name | HansiL Is Back |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 20:19:46 |
+| Lobby ID | 28531600716185962 |
+| Players | 6/15 |
+| Host Name | Bob The Patata |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:19:33 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600715818453 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:19:12 |
@@ -95,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600715262376 |
-| Players | 2/24 |
-| Host Name | 9527 |
+| Players | 1/24 |
+| Host Name | MUOM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:18:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600716185962 |
-| Players | 2/15 |
-| Host Name | Bob The Patata |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:19:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600714800644 |
-| Players | 14/15 |
-| Host Name | ПОТНЫЕЯЙЦА2012 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:18:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600716491447 |
-| Players | 4/8 |
-| Host Name | felber |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:19:50 |
+| Lobby ID | 28531600716651635 |
+| Players | 6/8 |
+| Host Name | Гитлер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:19:58 |
 
 
