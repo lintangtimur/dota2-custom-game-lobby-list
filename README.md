@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600590320509 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Alkatras |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:54:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600590408656 |
+| Players | 1/8 |
+| Host Name | ВѼчко |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:54:18 |
 
 
