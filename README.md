@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600595989635 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | chris |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:02:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600599128196 |
+| Players | 1/10 |
+| Host Name | PINK |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 18:07:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:39:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600597708290 |
-| Players | 1/8 |
-| Host Name | 🌸温柔 丶小太陽🌸 |
+| Lobby ID | 28531600597435323 |
+| Players | 23/24 |
+| Host Name | 大川岛 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 18:05:09 |
+| Lobby Creation Time | Friday, November 24, 2023 18:04:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,30 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:56:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600598649588 |
-| Players | 3/15 |
-| Host Name | Sm:)e |
+| Lobby ID | 28531600598932476 |
+| Players | 3/8 |
+| Host Name | bot |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:06:32 |
+| Lobby Creation Time | Friday, November 24, 2023 18:06:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600598379979 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | NANOoV ✪ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:06:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600597435323 |
-| Players | 22/24 |
-| Host Name | 大川岛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 18:04:45 |
+| Lobby ID | 28531600595206150 |
+| Players | 9/10 |
+| Host Name | дед no dead |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:01:30 |
 
 
