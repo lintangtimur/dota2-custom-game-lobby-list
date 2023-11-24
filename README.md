@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600416422896 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | COVID 19 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 24, 2023 12:20:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600416783936 |
-| Players | 5/15 |
-| Host Name | Dissolve |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:21:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600416785700 |
-| Players | 4/8 |
-| Host Name | BROLY |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:21:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600415259505 |
-| Players | 5/24 |
-| Host Name | DIDJAPUTYERNAMEINTHEGOBLETOFIRE |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:18:11 |
 
 
 |  | ot3_gardens_duo |
@@ -85,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600416277250 |
-| Players | 1/10 |
-| Host Name | maiki ft.M ♥ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:20:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531600416726616 |
 | Players | 2/10 |
 | Host Name | SEDMin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:21:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600415259505 |
+| Players | 6/24 |
+| Host Name | DIDJAPUTYERNAMEINTHEGOBLETOFIRE |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:18:11 |
 
 
