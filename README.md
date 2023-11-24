@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600515986805 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:47:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600510321542 |
+| Players | 9/10 |
+| Host Name | Fair*Play |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:37:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600515777067 |
-| Players | 12/15 |
+| Players | 15/15 |
 | Host Name | MULLE |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 15:47:34 |
@@ -65,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:48:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600516074954 |
-| Players | 1/8 |
-| Host Name | Imagine Losing |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 15:48:07 |
+| Lobby ID | 28531600516150265 |
+| Players | 2/15 |
+| Host Name | NDD |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 15:48:15 |
 
 
