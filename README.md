@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600468201309 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:15:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600471052887 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | infinity |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:20:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600471639820 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | тотальный фид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:22:05 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600471674386 |
-| Players | 6/8 |
-| Host Name | genocide in hell |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:22:09 |
+| Lobby ID | 28531600472072943 |
+| Players | 3/8 |
+| Host Name | пирожный чебурек |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 14:22:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600471820296 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:22:26 |
@@ -95,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600471921299 |
-| Players | 3/24 |
-| Host Name | deepest |
+| Players | 2/24 |
+| Host Name | Gaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:22:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600471886937 |
-| Players | 3/8 |
-| Host Name | Android |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 14:22:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600471953485 |
-| Players | 4/8 |
-| Host Name | 𝖘𝖚𝖎𝖈𝖎𝖉𝖊? |
+| Lobby ID | 28531600472199353 |
+| Players | 2/10 |
+| Host Name | фюрроршмерц |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:22:43 |
+| Lobby Creation Time | Friday, November 24, 2023 14:23:13 |
 
 
