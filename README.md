@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600410767090 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Mr.Fat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:08:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600409445519 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 12:05:14 |
@@ -23,27 +23,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600410425028 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | lolnope |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:07:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600410536219 |
-| Players | 7/15 |
-| Host Name | AleqThunder |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 12:07:39 |
+| Lobby ID | 28531600411490555 |
+| Players | 6/8 |
+| Host Name | //WLLC// |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:09:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600410549886 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | YohoCX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:07:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600411364441 |
+| Players | 5/8 |
+| Host Name | ❤️ur bfs fav dj ❤ |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 12:09:30 |
 
 
