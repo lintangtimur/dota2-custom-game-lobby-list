@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600365843328 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | прочитал = пидop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 10:22:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600365658669 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Pray for something |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 10:22:33 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600366044441 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 2000IQ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:23:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600366301994 |
+| Players | 4/24 |
+| Host Name | Cib0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:24:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600366375069 |
+| Players | 6/8 |
+| Host Name | sweet dreams tennessee |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 10:24:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600366436075 |
+| Players | 1/8 |
+| Host Name | Euphoria前景 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:24:20 |
 
 
