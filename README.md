@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600402531734 |
-| Players | 2/5 |
-| Host Name | who |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 11:49:33 |
+| Lobby ID | 28531600402765278 |
+| Players | 1/10 |
+| Host Name | ุ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 11:50:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600402475942 |
-| Players | 9/10 |
-| Host Name | Akagami No Shanks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 11:49:26 |
+| Lobby ID | 28531600401961459 |
+| Players | 3/24 |
+| Host Name | :D |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:48:15 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:00:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600402170662 |
-| Players | 1/10 |
-| Host Name | DAEMON |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:48:43 |
+| Lobby ID | 28531600402515516 |
+| Players | 2/15 |
+| Host Name | xxXBONIATOXxx |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 11:49:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:45:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600402515516 |
-| Players | 2/15 |
-| Host Name | xxXBONIATOXxx |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 11:49:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600401961459 |
-| Players | 2/24 |
-| Host Name | :D |
+| Lobby ID | 28531600402801697 |
+| Players | 6/8 |
+| Host Name | SOY PANSEXUAL |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:48:15 |
+| Lobby Creation Time | Friday, November 24, 2023 11:50:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600398662259 |
-| Players | 23/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 11:40:40 |
+| Lobby ID | 28531600402837158 |
+| Players | 2/10 |
+| Host Name | EMANS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 11:50:15 |
 
 
