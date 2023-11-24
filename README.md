@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600557630148 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:00:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600558603124 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ♥アニメサイコ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:02:15 |
@@ -56,21 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600558868881 |
+| Players | 5/15 |
+| Host Name | Artem Margiela |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:02:43 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600558163667 |
-| Players | 9/10 |
-| Host Name | Степан Пантера |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 17:01:28 |
+| Lobby ID | 28531600559097862 |
+| Players | 2/10 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:03:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600558868881 |
-| Players | 3/15 |
-| Host Name | Artem Margiela |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:02:43 |
+| Lobby ID | 28531600559121575 |
+| Players | 1/15 |
+| Host Name | ., |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:03:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600559174958 |
+| Players | 2/10 |
+| Host Name | Много денег |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:03:16 |
 
 
