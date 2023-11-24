@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600549634161 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | 印度代购神药专卖 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:46:29 |
@@ -14,28 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600548724758 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:44:52 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600551917149 |
-| Players | 1/5 |
-| Host Name | TotalFid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:50:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600552398269 |
-| Players | 14/15 |
-| Host Name | kill bill |
+| Lobby ID | 28531600552715589 |
+| Players | 1/8 |
+| Host Name | 300 МЕТРОВ ОТ ВАС |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:51:21 |
+| Lobby Creation Time | Friday, November 24, 2023 16:51:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600547516884 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 76561198203261364 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:42:51 |
@@ -65,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600552715589 |
-| Players | 1/8 |
-| Host Name | 300 МЕТРОВ ОТ ВАС |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:51:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600552863160 |
-| Players | 1/15 |
-| Host Name | TOSENO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 16:52:10 |
+| Lobby ID | 28531600552917820 |
+| Players | 5/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:52:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600552927441 |
+| Players | 1/24 |
+| Host Name | Gen" |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:52:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600552940286 |
+| Players | 1/8 |
+| Host Name | Тренер Димас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:52:18 |
 
 
