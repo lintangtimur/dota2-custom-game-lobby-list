@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600869165435 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Ёмайха Ёмасо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 22:29:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600858618802 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:20:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600862378744 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | WhIn.Calichin |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 24, 2023 22:24:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600868172339 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sash |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 22:29:04 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600866406901 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:27:32 |
@@ -128,30 +128,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:29:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600867938918 |
-| Players | 9/10 |
-| Host Name | FL |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 22:28:51 |
+| Lobby ID | 28531600869658461 |
+| Players | 4/15 |
+| Host Name | 4 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Friday, November 24, 2023 22:30:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600868292681 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | minmin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 22:29:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600869569294 |
-| Players | 4/15 |
-| Host Name | 4 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Friday, November 24, 2023 22:30:17 |
+| Lobby ID | 28531600869714790 |
+| Players | 1/8 |
+| Host Name | null |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 22:30:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600869614342 |
+| Players | 2/8 |
+| Host Name | Kubuś Puchatek |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 22:30:19 |
 
 
