@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600694189439 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | 外面不冷 但里面 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:59:02 |
@@ -104,36 +104,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600694299262 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ПОЛУЧПОКЕР |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:59:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600694411693 |
+| Players | 2/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:59:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600694317522 |
+| Lobby ID | 28531600694435148 |
 | Players | 1/8 |
-| Host Name | anemoia |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:59:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600693749133 |
-| Players | 9/10 |
-| Host Name | (ELLAS)elinaras |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:58:36 |
+| Host Name | VENECO= FEED |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 19:59:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600694383569 |
-| Players | 2/15 |
-| Host Name | Graca |
+| Lobby ID | 28531600694469309 |
+| Players | 6/15 |
+| Host Name | 影による死 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:59:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600694495068 |
+| Players | 2/8 |
+| Host Name | anemoia |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:59:13 |
+| Lobby Creation Time | Friday, November 24, 2023 19:59:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600694528880 |
+| Players | 1/8 |
+| Host Name | Auswählen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:59:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600694579045 |
+| Players | 1/8 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:59:25 |
 
 
