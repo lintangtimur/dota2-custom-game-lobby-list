@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:09:27 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600510321542 |
-| Players | 9/10 |
-| Host Name | Fair*Play |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:37:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600514452467 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:07 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:36:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600514627699 |
-| Players | 13/15 |
-| Host Name | Shadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:45:27 |
+| Lobby ID | 28531600515016095 |
+| Players | 4/24 |
+| Host Name | minmin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:46:10 |
 
 
 |  | ot3_gardens_duo |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sv_gravity 800 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600515016095 |
-| Players | 4/24 |
-| Host Name | minmin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:46:10 |
 
 
