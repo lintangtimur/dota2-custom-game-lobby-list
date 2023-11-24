@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:08:47 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600438960261 |
+| Players | 1/10 |
+| Host Name | Booberries |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 13:12:11 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600436614590 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:06:53 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600432710946 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Morgangiordota.com |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 12:57:48 |
@@ -65,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:11:35 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600438864232 |
+| Players | 2/15 |
+| Host Name | KRAFT DURCH FREUDE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 13:11:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600438933473 |
+| Players | 1/15 |
+| Host Name | TOP REG in the world |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 13:12:07 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600437914996 |
-| Players | 8/10 |
-| Host Name | Slepping giordota.com |
+| Lobby ID | 28531600438975300 |
+| Players | 1/10 |
+| Host Name | Isacc Fosther |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:09:51 |
+| Lobby Creation Time | Friday, November 24, 2023 13:12:13 |
 
 
