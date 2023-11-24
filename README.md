@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600416007095 |
-| Players | 8/10 |
-| Host Name | Exstetra |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 12:19:54 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600415259505 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | DIDJAPUTYERNAMEINTHEGOBLETOFIRE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 12:18:11 |
@@ -23,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600414289667 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | crazy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:16:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600417240594 |
-| Players | 4/8 |
-| Host Name | новенький |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 12:22:43 |
+| Lobby ID | 28531600417366967 |
+| Players | 1/15 |
+| Host Name | 他妈的强型 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 12:23:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,10 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600417313880 |
-| Players | 1/8 |
+| Lobby ID | 28531600417388477 |
+| Players | 2/8 |
 | Host Name | ./ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:22:53 |
+| Lobby Creation Time | Friday, November 24, 2023 12:23:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600417487052 |
+| Players | 1/8 |
+| Host Name | Sad Clown((( |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 12:23:17 |
 
 
