@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:19:08 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600716147842 |
+| Players | 1/5 |
+| Host Name | Пчела камикадзе |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:19:31 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600696825872 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:14:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600714800644 |
-| Players | 13/15 |
-| Host Name | ПОТНЫЕЯЙЦА2012 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:18:16 |
+| Lobby ID | 28531600715067499 |
+| Players | 6/8 |
+| Host Name | CalculuS |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:18:31 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600715818453 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:19:12 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600715262376 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:18:41 |
@@ -94,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600715067499 |
-| Players | 5/8 |
-| Host Name | CalculuS |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:18:31 |
+| Lobby ID | 28531600716104568 |
+| Players | 4/8 |
+| Host Name | Sacred |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:19:28 |
 
 
