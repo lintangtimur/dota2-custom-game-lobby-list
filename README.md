@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:31:02 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531600729003298 |
-| Players | 1/7 |
-| Host Name | FatOtter |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 20:31:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600729091910 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600717701763 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | MADARA |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 20:20:56 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600728834254 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | банан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:30:59 |
@@ -104,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600728938624 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Златоспермий |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:31:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600726376066 |
-| Players | 7/8 |
-| Host Name | Egu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:28:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600728996136 |
-| Players | 4/8 |
-| Host Name | СупЕр Про!! 22&#Крут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:31:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -135,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:31:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600729161217 |
-| Players | 2/8 |
-| Host Name | ugly god mode: |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:31:17 |
 
 
