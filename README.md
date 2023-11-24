@@ -4,17 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600675970552 |
-| Players | 6/10 |
-| Host Name | AkdVq |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:40:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531600682209795 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Medved |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:47:06 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600679494824 |
-| Players | 8/24 |
+| Players | 19/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:44:21 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600681553758 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ressentiment |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:46:27 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600682092326 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Sukuna |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 19:46:59 |
@@ -103,28 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600682085463 |
-| Players | 10/15 |
-| Host Name | Dea1h |
+| Lobby ID | 28531600682710281 |
+| Players | 9/15 |
+| Host Name | Moonlight |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:46:58 |
+| Lobby Creation Time | Friday, November 24, 2023 19:47:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600682159663 |
-| Players | 5/8 |
-| Host Name | XA4 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 19:47:03 |
+| Lobby ID | 28531600681521964 |
+| Players | 3/8 |
+| Host Name | Я ПРОИГРАЛ... ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:46:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600682734820 |
+| Players | 4/24 |
+| Host Name | Чёрный Пидарас |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:47:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600682170578 |
-| Players | 9/10 |
-| Host Name | Zionists Slayer |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 19:47:04 |
+| Lobby ID | 28531600683016698 |
+| Players | 2/10 |
+| Host Name | господин данил |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:47:55 |
 
 
