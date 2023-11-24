@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600573773673 |
-| Players | 9/10 |
-| Host Name | VancouverOsaka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 17:27:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
@@ -20,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600575895373 |
-| Players | 6/10 |
-| Host Name | Головосоввание |
+| Lobby ID | 28531600576174972 |
+| Players | 5/15 |
+| Host Name | Gay Fish |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:31:24 |
+| Lobby Creation Time | Friday, November 24, 2023 17:31:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600575539235 |
-| Players | 5/24 |
-| Host Name | ayo |
+| Players | 1/24 |
+| Host Name | Monkey D. Luffy |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 17:30:50 |
 
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600575902827 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | destruction |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:31:25 |
@@ -68,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600575961572 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:31:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600576174972 |
-| Players | 1/15 |
-| Host Name | Gay Fish |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:31:52 |
+| Lobby ID | 28531600568221141 |
+| Players | 8/10 |
+| Host Name | 76561198203261364 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 17:18:43 |
 
 
