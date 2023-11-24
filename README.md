@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600605095200 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:15:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600600340335 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Lil Tortilla Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:09:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600605034441 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:15:41 |
@@ -59,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600605219147 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ЧВК Засранец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:15:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600605282766 |
+| Players | 2/10 |
+| Host Name | Missing you happiness |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 18:16:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600605453798 |
+| Players | 2/8 |
+| Host Name | da da on ツ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 18:16:16 |
 
 
