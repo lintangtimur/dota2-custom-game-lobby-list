@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600347762448 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | BuLL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:41:05 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600340752097 |
-| Players | 1/24 |
-| Host Name | PornstarBoy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 09:24:25 |
+| Lobby ID | 28531600348212567 |
+| Players | 21/24 |
+| Host Name | Winterfell |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 24, 2023 09:42:09 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600351427983 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | //GOLDEN// |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:49:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600350939019 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fer_Luque1696 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:48:36 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600351902159 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SR.CaOs |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:50:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600348212567 |
-| Players | 22/24 |
-| Host Name | Winterfell |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 24, 2023 09:42:09 |
 
 
