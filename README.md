@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600337233054 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | sonrisa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:15:52 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 09:05:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600336772878 |
-| Players | 2/24 |
-| Host Name | Mr.Banana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 09:14:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600336327776 |
-| Players | 19/24 |
-| Host Name | Vladimir Cerron |
+| Lobby ID | 28531600337509898 |
+| Players | 3/10 |
+| Host Name | AVO |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:13:40 |
+| Lobby Creation Time | Friday, November 24, 2023 09:16:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600337497846 |
+| Players | 3/15 |
+| Host Name | НАТАША ДВА БАША |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 09:16:31 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600337383728 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | RUNA DE ORO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:16:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600337401151 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:16:17 |
