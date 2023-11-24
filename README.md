@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600746622838 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Lestat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:46:34 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:51:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600754383535 |
+| Players | 1/5 |
+| Host Name | Самовартрататата |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600753742238 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | K24A2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:52:49 |
@@ -104,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600752671977 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | bAshl0r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:51:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600752853842 |
-| Players | 14/15 |
-| Host Name | Dark Fox |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:52:03 |
+| Lobby ID | 28531600754412382 |
+| Players | 1/24 |
+| Host Name | LA MAQUINA DE FARMEAR |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600753916252 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ICHZ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:52:58 |
@@ -146,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:53:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600754255286 |
-| Players | 1/24 |
-| Host Name | LA MAQUINA DE FARMEAR |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 20:53:17 |
+| Lobby ID | 28531600754331429 |
+| Players | 2/8 |
+| Host Name | Kondraty |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:21 |
 
 
 |  | ot3_gardens_duo |
@@ -162,5 +171,68 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Exitka |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 24, 2023 20:53:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600754450587 |
+| Players | 2/10 |
+| Host Name | .... |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600754383401 |
+| Players | 2/10 |
+| Host Name | МОДЖА ДЖОДЖА |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600754418904 |
+| Players | 1/8 |
+| Host Name | Okamaオカマ |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600754448698 |
+| Players | 6/10 |
+| Host Name | 13lu3 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600754462544 |
+| Players | 1/15 |
+| Host Name | Axel |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600754452638 |
+| Players | 2/10 |
+| Host Name | Adonai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600754457159 |
+| Players | 1/15 |
+| Host Name | Блинк в Казахстан |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
 
 
