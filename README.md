@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:38:41 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600581487118 |
+| Players | 1/5 |
+| Host Name | ЖЕНЯАУТЯРА |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:40:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600578837001 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:36:09 |
@@ -59,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600578498744 |
-| Players | 5/15 |
-| Host Name | MinHo |
+| Players | 4/15 |
+| Host Name | MEHEHEHE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:35:36 |
 
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600580981360 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | lil jeep |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:39:35 |
@@ -122,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600581319189 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | [im on steering wheel] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:40:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600579667837 |
-| Players | 14/15 |
-| Host Name | VizoR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:37:30 |
 
 
