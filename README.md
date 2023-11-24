@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600782729705 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 21:17:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600782303266 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Krosh |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 21:17:17 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:16:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600774769901 |
-| Players | 1/10 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 21:10:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600782446130 |
-| Players | 9/10 |
-| Host Name | Gerch17 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 21:17:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600782500843 |
-| Players | 7/15 |
-| Host Name | БИБИСОРО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:17:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600782169124 |
@@ -112,10 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600781481657 |
-| Players | 19/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 21:16:36 |
+| Lobby ID | 28531600765984877 |
+| Players | 20/24 |
+| Host Name | Ñofi 322 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 21:03:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600783270559 |
+| Players | 3/10 |
+| Host Name | ALEX_MOR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:18:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600783268585 |
+| Players | 4/8 |
+| Host Name | .. |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 21:18:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600783306778 |
+| Players | 2/15 |
+| Host Name | VNC |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 21:18:08 |
 
 
