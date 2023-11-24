@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:36:29 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600735982178 |
-| Players | 6/10 |
-| Host Name | Fallen God |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:37:17 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600729077559 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:31:12 |
@@ -32,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600732959723 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ^^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 20:34:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600733837674 |
-| Players | 10/15 |
-| Host Name | Сын арматуры |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 20:35:23 |
+| Lobby ID | 28531600732938280 |
+| Players | 23/24 |
+| Host Name | RedHotChillPeen.了猫 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 20:34:37 |
 
 
 |  | ot3_desert_octet |
@@ -68,36 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600736934298 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:38:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600737354263 |
+| Players | 7/10 |
+| Host Name | Auswählen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:38:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600736958024 |
+| Lobby ID | 28531600737849285 |
 | Players | 5/8 |
-| Host Name | winwinwin |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:38:07 |
+| Host Name | g.O.d |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:38:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600736122954 |
-| Players | 7/8 |
-| Host Name | 3500 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:37:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600737199026 |
-| Players | 3/24 |
-| Host Name | 态度兑现天赋 |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 20:38:20 |
+| Lobby ID | 28531600737944522 |
+| Players | 1/15 |
+| Host Name | barnacle on a whale |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 24, 2023 20:38:58 |
 
 
