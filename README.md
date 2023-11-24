@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600536210045 |
-| Players | 9/10 |
-| Host Name | HarBonDioxide |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 16:22:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531600539969951 |
 | Players | 5/10 |
 | Host Name | Гpигopий Гopoxocтpeл |
@@ -20,22 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:29:33 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600542370517 |
+| Players | 2/10 |
+| Host Name | Zero Two |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:33:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600542361509 |
+| Players | 3/15 |
+| Host Name | Leonidas |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 16:33:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600541154891 |
-| Players | 6/8 |
-| Host Name | G_G |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:31:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600541200336 |
-| Players | 9/10 |
-| Host Name | inferior |
+| Lobby ID | 28531600541607202 |
+| Players | 2/8 |
+| Host Name | DG_COACH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:31:43 |
+| Lobby Creation Time | Friday, November 24, 2023 16:32:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -59,45 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600537497882 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600538931134 |
-| Players | 22/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:27:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600541036079 |
-| Players | 7/15 |
-| Host Name | eternity is awesome |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:31:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600541042953 |
-| Players | 1/8 |
-| Host Name | DG_COACH |
+| Lobby ID | 28531600542226499 |
+| Players | 4/10 |
+| Host Name | 在拱门上玩的妓女的儿 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:31:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600541607202 |
-| Players | 1/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:32:25 |
+| Lobby Creation Time | Friday, November 24, 2023 16:33:30 |
 
 
