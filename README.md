@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600495114878 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 15:09:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600503405597 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:24:49 |
@@ -41,25 +41,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600507878290 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | lupanamaingatrasa |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 15:33:02 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600509170727 |
+| Players | 1/10 |
+| Host Name | Belike柠檬ICE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:35:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600509199371 |
+| Players | 2/10 |
+| Host Name | JMC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:35:28 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600500356843 |
-| Players | 14/15 |
-| Host Name | :qqq! |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 15:19:18 |
+| Lobby ID | 28531600509154789 |
+| Players | 1/15 |
+| Host Name | Pete |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:35:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600508667078 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jim |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 15:34:29 |
@@ -72,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 15:29:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600508932238 |
-| Players | 9/15 |
-| Host Name | Plotina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:34:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600509087628 |
-| Players | 1/15 |
-| Host Name | Pete |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:35:15 |
 
 
