@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531600607727954 |
 | Players | 5/10 |
-| Host Name | Numd |
+| Host Name | MaybeOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:19:16 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600608295721 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:20:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600605034441 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:15:41 |
@@ -58,28 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600608506777 |
-| Players | 11/15 |
-| Host Name | Modin |
+| Lobby ID | 28531600608982784 |
+| Players | 6/15 |
+| Host Name | Rσσ§†êr |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 18:20:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600607710971 |
+| Players | 7/8 |
+| Host Name | Luka0708 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:20:20 |
+| Lobby Creation Time | Friday, November 24, 2023 18:19:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600609144272 |
+| Players | 4/15 |
+| Host Name | MEHEHEHE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 18:21:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600608168958 |
-| Players | 7/10 |
-| Host Name | You get me,fam? |
+| Lobby ID | 28531600609172288 |
+| Players | 3/10 |
+| Host Name | SaneK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:19:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600608919401 |
-| Players | 1/24 |
-| Host Name | wikiped |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 18:20:54 |
+| Lobby Creation Time | Friday, November 24, 2023 18:21:15 |
 
 
