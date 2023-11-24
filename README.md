@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600156701188 |
+| Lobby ID | 28531600337730711 |
 | Players | 1/24 |
-| Host Name | Rhaegar Targaryen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 03:09:12 |
+| Host Name | Ignis |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 09:17:05 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600337509898 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:16:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600337497846 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | НАТАША ДВА БАША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:16:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600337383728 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | RUNA DE ORO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:16:15 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:16:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600337747701 |
+| Players | 1/8 |
+| Host Name | offlanepls |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 09:17:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600337743402 |
+| Players | 1/24 |
+| Host Name | MpapuM |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:17:07 |
 
 
