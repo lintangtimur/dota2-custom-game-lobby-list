@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:03:46 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600643549976 |
+| Players | 1/10 |
+| Host Name | 浜田旭,ASAHI |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 19:05:16 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600642385196 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Team Spirit IMHOTEG |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:03:53 |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:04:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600640929382 |
-| Players | 7/8 |
-| Host Name | 🕷 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:02:07 |
+| Lobby ID | 28531600642854790 |
+| Players | 2/15 |
+| Host Name | 独穿悲喜 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 19:04:27 |
 
 
 |  | ot3_desert_octet |
@@ -56,39 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:05:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600643270660 |
-| Players | 3/8 |
-| Host Name | zxcперхоть |
+| Lobby ID | 28531600643468868 |
+| Players | 7/15 |
+| Host Name | JIeoHuD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:04:56 |
+| Lobby Creation Time | Friday, November 24, 2023 19:05:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600643041225 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DDreams.Matiskadi.1XBET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:04:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600642854790 |
-| Players | 1/15 |
-| Host Name | 独穿悲喜 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:04:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600643468868 |
-| Players | 2/15 |
-| Host Name | JIeoHuD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:05:11 |
 
 
