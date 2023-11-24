@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600628184882 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:46:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600629252108 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | grand magus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:47:40 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:46:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600629495025 |
-| Players | 4/8 |
-| Host Name | OROCHI |
+| Lobby ID | 28531600629474744 |
+| Players | 9/15 |
+| Host Name | I'm just happy boi |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:47:59 |
+| Lobby Creation Time | Friday, November 24, 2023 18:47:57 |
 
 
 |  | ot3_desert_octet |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600629359328 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | asdasda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:47:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600629474744 |
-| Players | 7/15 |
-| Host Name | I'm just happy boi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:47:57 |
+| Lobby ID | 28531600629985585 |
+| Players | 2/8 |
+| Host Name | Frantic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:48:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600629795039 |
+| Lobby ID | 28531600630026058 |
 | Players | 1/15 |
-| Host Name | 香精煎鱼食不食？ |
+| Host Name | 小飞侠 |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 18:48:21 |
+| Lobby Creation Time | Friday, November 24, 2023 18:48:39 |
 
 
