@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600744127989 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Mortal's Journey to Immortal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:44:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600742344979 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Shadows |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 20:42:47 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:45:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600745357824 |
-| Players | 6/8 |
-| Host Name | w8w8w8 |
+| Lobby ID | 28531600746203878 |
+| Players | 6/10 |
+| Host Name | 'egoisto |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:45:27 |
+| Lobby Creation Time | Friday, November 24, 2023 20:46:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600717701763 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | Baki |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 20:20:56 |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ferguson♥ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 20:44:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600745335702 |
-| Players | 11/15 |
-| Host Name | Zmelord |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:45:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600746203878 |
-| Players | 2/10 |
-| Host Name | 'egoisto |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:46:12 |
 
 
