@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600514452467 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600515039328 |
-| Players | 2/10 |
-| Host Name | немного умею играть\ |
+| Lobby ID | 28531600515373567 |
+| Players | 1/8 |
+| Host Name | Maleyvich |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:46:13 |
+| Lobby Creation Time | Friday, November 24, 2023 15:46:49 |
 
 
 |  | ot3_desert_octet |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600514627699 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600515191937 |
-| Players | 6/8 |
-| Host Name | чудище |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:46:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600514854397 |
-| Players | 1/8 |
-| Host Name | HollowKnight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:45:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600515016095 |
-| Players | 2/24 |
-| Host Name | minmin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:46:10 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:45:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600515373567 |
-| Players | 1/8 |
-| Host Name | Maleyvich |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:46:49 |
+| Lobby ID | 28531600515016095 |
+| Players | 4/24 |
+| Host Name | minmin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:46:10 |
 
 
