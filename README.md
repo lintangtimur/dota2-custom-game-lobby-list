@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600757647685 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:56:12 |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:47:46 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600758907891 |
-| Players | 2/5 |
-| Host Name | ₭ ₳ T ₳ ₦ ₳ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:57:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600748691574 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600759710692 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sorry Marte |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:58:00 |
@@ -67,38 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600717701763 |
-| Players | 1/24 |
-| Host Name | uzii |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 20:20:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600759045245 |
-| Players | 16/24 |
-| Host Name | 吃宝 |
+| Lobby ID | 28531600760469592 |
+| Players | 8/24 |
+| Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:57:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600754448698 |
-| Players | 7/10 |
-| Host Name | 13lu3 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600758672817 |
-| Players | 12/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28531600760437852 |
+| Players | 4/15 |
+| Host Name | 悯 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600760820525 |
+| Players | 1/8 |
+| Host Name | SobanY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:57:05 |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600759867642 |
+| Players | 1/8 |
+| Host Name | Corroz1on |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:08 |
 
 
 |  | ot3_desert_octet |
@@ -119,39 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:58:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600759563787 |
-| Players | 7/8 |
-| Host Name | $hugg1e. |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:57:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600759543007 |
-| Players | 1/8 |
-| Host Name | _Vanlon_ |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 20:57:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600759564269 |
-| Players | 6/10 |
-| Host Name | Auswählen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:57:52 |
+| Lobby ID | 28531600760277827 |
+| Players | 1/10 |
+| Host Name | temych |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600759867642 |
-| Players | 1/8 |
-| Host Name | Corroz1on |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 20:58:08 |
+| Lobby ID | 28531600760429369 |
+| Players | 1/15 |
+| Host Name | Windows 10 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600760807215 |
+| Players | 3/24 |
+| Host Name | 态度兑现天赋 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:57 |
 
 
