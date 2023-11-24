@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:57:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600434919090 |
-| Players | 20/24 |
-| Host Name | ▼▲ZÆX▲▼ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:02:58 |
+| Lobby ID | 28531600431941339 |
+| Players | 14/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:56:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600433519480 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Poro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:59:39 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600435773742 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Тайлер Дерден |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 13:04:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600436183977 |
+| Players | 3/8 |
+| Host Name | семиклассница |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 13:05:54 |
 
 
