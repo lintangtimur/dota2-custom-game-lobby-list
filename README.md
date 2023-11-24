@@ -2,40 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600617421439 |
-| Players | 4/7 |
-| Host Name | GreShnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:32:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600621206209 |
-| Players | 1/10 |
-| Host Name | Numd |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:37:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600623405679 |
-| Players | 2/10 |
-| Host Name | Noizi11,28 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:40:21 |
+| Lobby ID | 28531600623853517 |
+| Players | 1/5 |
+| Host Name | 难啊 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 18:40:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600623434986 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Khay!!!!!!!!!! |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 18:40:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600623467660 |
+| Players | 3/10 |
+| Host Name | SoGEKINGGG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 18:40:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,26 +59,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600609144272 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ☯︎M多 BoY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:21:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600622623638 |
-| Players | 11/15 |
-| Host Name | кабан |
+| Lobby ID | 28531600623559872 |
+| Players | 7/10 |
+| Host Name | ★_hisokadano_♣ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:39:21 |
+| Lobby Creation Time | Friday, November 24, 2023 18:40:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600622528235 |
-| Players | 1/15 |
-| Host Name | Dark Fox |
+| Players | 7/15 |
+| Host Name | Modin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:39:13 |
 
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600622231054 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:38:50 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600623418356 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | lifedrain |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:40:22 |
@@ -121,46 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600623068386 |
-| Players | 1/8 |
-| Host Name | prosto down |
+| Lobby ID | 28531600623493755 |
+| Players | 3/8 |
+| Host Name | ICHZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:40:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600623493383 |
+| Players | 1/15 |
+| Host Name | xxREXxx |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:39:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600623347811 |
-| Players | 1/10 |
-| Host Name | Agent J |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:40:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600623293574 |
-| Players | 2/10 |
-| Host Name | ★_hisokadano_♣ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 18:40:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600623331964 |
-| Players | 3/10 |
-| Host Name | MAMYT PAXAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:40:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600623436220 |
-| Players | 1/24 |
-| Host Name | Hooli |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:40:23 |
+| Lobby Creation Time | Friday, November 24, 2023 18:40:28 |
 
 
