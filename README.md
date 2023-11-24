@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531600344603875 |
-| Players | 1/7 |
-| Host Name | KING  CRIMSON |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:33:37 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600345196967 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600344521434 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | DaRk_MaNu |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:33:26 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600345192600 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Karen❤ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:35:01 |
@@ -117,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Miyazono |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 09:35:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600345616364 |
+| Players | 2/8 |
+| Host Name | ZXC ПОДПИВАС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 09:36:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600345694716 |
+| Players | 1/15 |
+| Host Name | 👑  KING  👑 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 09:36:14 |
 
 
