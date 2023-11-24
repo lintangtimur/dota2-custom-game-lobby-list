@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:27:49 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600790504058 |
+| Players | 2/10 |
+| Host Name | Themonstir |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 21:24:04 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600787198019 |
@@ -65,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:23:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600792334069 |
-| Players | 22/24 |
-| Host Name | [C]all_Me_[P].o.r |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 21:25:35 |
+| Lobby ID | 28531600794709404 |
+| Players | 4/8 |
+| Host Name | СПИД |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 21:27:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600793665934 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | xXx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:26:41 |
@@ -103,29 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600794037873 |
-| Players | 6/10 |
-| Host Name | stabbed granny |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:26:59 |
+| Lobby ID | 28531600795389985 |
+| Players | 1/10 |
+| Host Name | ХАПАТЕЛЬ ОНЛАЙН |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 21:28:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600793387082 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | EVO_COME_LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:26:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600795336209 |
-| Players | 5/8 |
-| Host Name | Dill |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:28:04 |
+| Lobby ID | 28531600795300201 |
+| Players | 2/10 |
+| Host Name | Пряня enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:28:02 |
 
 
 |  | ot3_desert_octet |
@@ -137,21 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:27:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600794709404 |
-| Players | 4/8 |
-| Host Name | СПИД |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 21:27:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600795300201 |
-| Players | 2/10 |
-| Host Name | Пряня enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:28:02 |
+| Lobby ID | 28531600795547814 |
+| Players | 3/15 |
+| Host Name | Average Airstrike Enjoyer |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 21:28:15 |
 
 
