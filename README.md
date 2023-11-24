@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:11:57 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600778820999 |
+| Players | 1/10 |
+| Host Name | ASSASSLN |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 21:14:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600777282632 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:13:05 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600777451222 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | lil jeep |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:13:13 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600765984877 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:03:28 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600776290277 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 愛KpoJIuk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:12:14 |
@@ -86,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600770694235 |
-| Players | 2/24 |
-| Host Name | Smash U Dick |
+| Players | 1/24 |
+| Host Name | Ounahi |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 21:07:29 |
 
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600778256087 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 21:13:53 |
