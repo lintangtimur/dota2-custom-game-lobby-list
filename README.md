@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531600704012911 |
+| Lobby ID | 28531600704862871 |
 | Players | 1/7 |
-| Host Name | P1vko |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:08:20 |
+| Host Name | бот-хантер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:09:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600702265383 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:06:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600700887610 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Fing |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 20:05:25 |
@@ -119,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:07:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600704999568 |
+| Players | 1/8 |
+| Host Name | Dirty Deeds Done Dirt Cheap |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:09:15 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600704292058 |
-| Players | 12/15 |
-| Host Name | V Λ C U U M |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:08:35 |
+| Lobby ID | 28531600705036475 |
+| Players | 2/15 |
+| Host Name | еблантус |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:09:17 |
 
 
