@@ -11,49 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:47:46 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600770917987 |
-| Players | 2/5 |
-| Host Name | มหาเทพตอง |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:07:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600770140265 |
-| Players | 3/10 |
-| Host Name | DayDreamer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:07:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600772479093 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 21:09:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600771784896 |
-| Players | 1/5 |
-| Host Name | Q_reTy_Q |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:08:24 |
+| Lobby ID | 28531600770140265 |
+| Players | 6/10 |
+| Host Name | DayDreamer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:07:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600772470595 |
+| Lobby ID | 28531600772951317 |
 | Players | 1/8 |
-| Host Name | Aker- |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 21:08:59 |
+| Host Name | МулаАферист |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:06:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600772968760 |
+| Players | 1/8 |
+| Host Name | Pendos |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:25 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600771476103 |
-| Players | 11/15 |
-| Host Name | Sanguinius |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:08:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600772765990 |
-| Players | 2/10 |
-| Host Name | f1ashmix |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 21:09:15 |
+| Lobby ID | 28531600773260495 |
+| Players | 1/15 |
+| Host Name | Чепуха |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:40 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:03:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600771746932 |
-| Players | 7/8 |
-| Host Name | sssiz |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:08:22 |
+| Lobby ID | 28531600773282451 |
+| Players | 1/15 |
+| Host Name | ( ͡° ͜ʖ ͡°) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600770694235 |
-| Players | 5/24 |
-| Host Name | Dubu |
+| Players | 6/24 |
+| Host Name | Sam |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 21:07:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600772842492 |
+| Lobby ID | 28531600773500922 |
+| Players | 2/10 |
+| Host Name | фаршмачный куканидзе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600773438850 |
+| Players | 1/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600773416686 |
 | Players | 1/10 |
 | Host Name | Noone |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 21:09:19 |
+| Lobby Creation Time | Friday, November 24, 2023 21:09:48 |
 
 
