@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600587748021 |
-| Players | 1/10 |
-| Host Name | neikus |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 17:50:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531600585954783 |
 | Players | 5/10 |
 | Host Name | SoGEKINGGG |
@@ -20,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:47:23 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600584445295 |
+| Players | 10/10 |
+| Host Name | бахтыржан |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:45:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600587630990 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Shizukano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:50:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600571608312 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:24:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600580584648 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | WAYNE |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 17:38:57 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gays_Tapo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:49:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600587868712 |
+| Players | 2/8 |
+| Host Name | koks |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:50:22 |
 
 
