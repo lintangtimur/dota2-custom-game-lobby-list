@@ -14,19 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600855958709 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | бот-хантер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 22:18:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600842388887 |
-| Players | 3/8 |
-| Host Name | gg |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 22:07:05 |
+| Lobby ID | 28531600858716313 |
+| Players | 1/5 |
+| Host Name | Ala干净又卫生 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600858663661 |
+| Players | 7/24 |
+| Host Name | ♉ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600856920129 |
-| Players | 10/15 |
-| Host Name | DieSoft |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 22:19:20 |
+| Lobby ID | 28531600858129158 |
+| Players | 5/15 |
+| Host Name | trakaaaaaa! |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:22 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600857766556 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | KsneeK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 22:20:03 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600856458505 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 22:18:56 |
@@ -92,40 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:17:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600856051609 |
-| Players | 21/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 22:18:35 |
+| Lobby ID | 28531600857921509 |
+| Players | 4/8 |
+| Host Name | Always glad! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600840874788 |
-| Players | 6/8 |
-| Host Name | D1MENS10N |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 22:05:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600854357213 |
-| Players | 9/10 |
-| Host Name | да |
+| Lobby ID | 28531600858126442 |
+| Players | 1/8 |
+| Host Name | -Padrastro 100% |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 22:17:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600857538795 |
-| Players | 9/10 |
-| Host Name | Taxi Driver mentality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 22:19:51 |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 22:20:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600857921509 |
-| Players | 1/8 |
-| Host Name | Always glad! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 22:20:11 |
+| Lobby ID | 28531600858341995 |
+| Players | 1/10 |
+| Host Name | 0,1% |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600858618802 |
+| Players | 1/24 |
+| Host Name | Gigachad thundercock |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 22:20:47 |
 
 
