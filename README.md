@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:04:04 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600492740892 |
+| Players | 4/7 |
+| Host Name | ★Valawine |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:04:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600491036122 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600485276755 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:49:48 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600491154549 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 15:01:34 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600491649856 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Deni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:02:34 |
@@ -86,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600492379421 |
-| Players | 3/24 |
-| Host Name | xirix- かをり |
+| Players | 1/24 |
+| Host Name | TRU LOVE |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 15:04:01 |
 
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600492450872 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:04:10 |
