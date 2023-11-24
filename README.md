@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600348157976 |
-| Players | 9/10 |
-| Host Name | MORPHEUS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 09:42:01 |
+| Lobby ID | 28531600350744959 |
+| Players | 2/10 |
+| Host Name | Mистер Роябот Абд |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 09:48:08 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600349879458 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Wxxdcttr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:46:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600347762448 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | BuLL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:41:05 |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600350602079 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | I Love Mid Mother Fucker♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:47:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600349291643 |
-| Players | 14/15 |
-| Host Name | Itachi666 core or throw |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 09:44:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600348527062 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | REGIMEPILLED ☭ #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 09:42:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600350781588 |
+| Players | 1/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 09:48:14 |
 
 
