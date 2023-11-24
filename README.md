@@ -20,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:51:55 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600638333813 |
-| Players | 5/10 |
-| Host Name | Khay!!!!!!!!!! |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 18:58:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600631843082 |
-| Players | 9/10 |
-| Host Name | Арабский дрилл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:50:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600639081065 |
@@ -58,37 +40,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600629315920 |
-| Players | 21/24 |
-| Host Name | H1RO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:47:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600638592999 |
-| Players | 5/8 |
-| Host Name | Вася Ковырялов |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:59:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600639241961 |
-| Players | 4/15 |
-| Host Name | GG.Destroyer.WINLINE |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:00:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28531600639343801 |
 | Players | 1/24 |
 | Host Name | จักรพรรดิ์ |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 19:00:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600639986602 |
+| Players | 1/15 |
+| Host Name | life imitates life |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:00:58 |
 
 
