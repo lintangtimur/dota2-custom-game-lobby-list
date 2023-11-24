@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600419737937 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | animal mother |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:28:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600428015647 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:47:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600428309496 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Mast3rm1nd |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:47:44 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600431764026 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | I'm Finished |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 12:55:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600431941339 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:56:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600428506520 |
+| Players | 21/24 |
+| Host Name | -.DrimacheY.- ҈҉҈҉ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:48:11 |
 
 
