@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600739925382 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:40:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600740876885 |
+| Players | 2/5 |
+| Host Name | Па2 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 20:41:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600740921408 |
+| Players | 3/10 |
+| Host Name | 赤柱大飞唔识飞，净系识得打飞机 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 20:41:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600732959723 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ^^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 20:34:38 |
@@ -94,19 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600738610837 |
-| Players | 1/15 |
-| Host Name | TIRIRICO |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 20:39:33 |
+| Lobby ID | 28531600740722288 |
+| Players | 3/15 |
+| Host Name | iii |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 20:41:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600739974145 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Rayug4 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 20:40:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600740891392 |
+| Players | 2/8 |
+| Host Name | Miposhka |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 20:41:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600740888863 |
+| Players | 3/8 |
+| Host Name | ГЕЛИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:41:32 |
 
 
