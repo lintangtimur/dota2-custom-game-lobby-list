@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600583980634 |
-| Players | 6/24 |
+| Players | 15/24 |
 | Host Name | MEHEHEHE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:44:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600571608312 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:24:20 |
@@ -94,37 +94,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600583672222 |
-| Players | 4/15 |
-| Host Name | DarkRanger |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 17:43:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600583565997 |
-| Players | 5/10 |
-| Host Name | Krizo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:43:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531600584004642 |
-| Players | 1/15 |
-| Host Name | Doctor Livesee |
+| Players | 7/15 |
+| Host Name | f20 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:44:21 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600578837001 |
+| Players | 21/24 |
+| Host Name | Lion el Messi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:36:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600584343509 |
+| Players | 1/10 |
+| Host Name | BomBiTa |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 17:44:53 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600583980149 |
+| Lobby ID | 28531600584313556 |
 | Players | 1/8 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:44:18 |
+| Host Name | blue skies |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:44:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600584343154 |
+| Players | 1/8 |
+| Host Name | [野性] 妖妖0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:44:53 |
 
 
