@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600419737937 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | animal mother |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:28:22 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600438995608 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Draculin |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:12:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600438975300 |
-| Players | 1/10 |
-| Host Name | Isacc Fosther |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:12:13 |
+| Lobby ID | 28531600438933473 |
+| Players | 7/15 |
+| Host Name | TOP REG in the world |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 13:12:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600439741517 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:13:53 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600439995831 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | khay khay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:14:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600438933473 |
-| Players | 1/15 |
-| Host Name | TOP REG in the world |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 13:12:07 |
 
 
