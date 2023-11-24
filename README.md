@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600460052363 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | rarikrarie |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 13:58:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600460902195 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | танцы в трусиках |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 13:59:49 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600461829325 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | федя плей бой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:01:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600460678731 |
-| Players | 14/15 |
-| Host Name | Wip |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 13:59:20 |
+| Lobby ID | 28531600459731905 |
+| Players | 16/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:57:19 |
 
 
 |  | ot3_desert_octet |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mast3rm1nd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600459731905 |
-| Players | 14/24 |
-| Host Name | Fabian! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 13:57:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600461934113 |
-| Players | 1/8 |
-| Host Name | Гоголь токийский |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 14:02:00 |
 
 
