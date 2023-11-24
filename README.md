@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531600413191399 |
 | Players | 7/10 |
-| Host Name | Poseidon |
+| Host Name | waXter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:13:36 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600414289667 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | crazy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:16:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600413541387 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Entrenadors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:14:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600412950029 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Вадик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:13:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600412949699 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:13:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600414649981 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | blessed express |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:16:48 |
@@ -85,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600413127402 |
-| Players | 7/8 |
-| Host Name | BlackOUT- |
+| Lobby ID | 28531600414965928 |
+| Players | 5/8 |
+| Host Name | KhattØ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:13:28 |
+| Lobby Creation Time | Friday, November 24, 2023 12:17:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600414965384 |
+| Players | 3/10 |
+| Host Name | JOSEP |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:17:31 |
 
 
