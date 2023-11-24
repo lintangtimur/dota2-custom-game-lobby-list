@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600358988843 |
-| Players | 7/10 |
-| Host Name | ¡¡¡°|ʟᴜᴄɪꜰᴇʀツ |
+| Players | 4/10 |
+| Host Name | MonaLiar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 10:07:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600359917223 |
+| Lobby ID | 28531600360544672 |
 | Players | 1/10 |
 | Host Name | Uncle Frank |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 10:09:25 |
+| Lobby Creation Time | Friday, November 24, 2023 10:10:52 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 09:05:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600359888283 |
-| Players | 12/24 |
-| Host Name | Ignis |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:09:21 |
+| Lobby ID | 28531600360418467 |
+| Players | 3/15 |
+| Host Name | Рапунцель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:10:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600359937617 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | XxAkAtSuKiXx |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:09:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600359003228 |
-| Players | 5/10 |
-| Host Name | Armando casas ♥ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:07:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600357184864 |
-| Players | 3/10 |
-| Host Name | жаби жаби |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 10:03:09 |
 
 
 |  | ot3_gardens_duo |
@@ -81,5 +63,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NoMerCy (งツ)ว |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:10:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600357184864 |
+| Players | 5/10 |
+| Host Name | жаби жаби |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 10:03:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600360542414 |
+| Players | 1/10 |
+| Host Name | Zugzwang |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 10:10:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600360547146 |
+| Players | 1/8 |
+| Host Name | MOJO JOJO |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:10:53 |
 
 
