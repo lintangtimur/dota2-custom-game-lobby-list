@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600349274316 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 征服者Sayonara999<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:44:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600347762448 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | BuLL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:41:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600348212567 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Master 2.0 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 24, 2023 09:42:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600349291643 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Itachi666 core or throw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:44:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600348527062 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | REGIMEPILLED ☭ #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 09:42:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600349150817 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | SCUERO EL TERROR DE ILABAYA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:44:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600349021267 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | TE MATO Y ME ESCAPO. |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:44:05 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600349464398 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | malefic123 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:45:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600349421171 |
+| Players | 3/10 |
+| Host Name | toy sad csmre |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:45:01 |
 
 
