@@ -11,58 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:09:27 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600503405597 |
+| Players | 1/7 |
+| Host Name | GreShnik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:24:49 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600500356843 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | :qqq! |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 15:19:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600485276755 |
-| Players | 7/8 |
-| Host Name | UNITED WE STAND, DIVIDED WE FALL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:49:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600502862866 |
-| Players | 9/15 |
-| Host Name | STOP POSTING ABOUT BALLER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:23:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600502765641 |
-| Players | 1/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:23:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600502834034 |
-| Players | 4/8 |
-| Host Name | уважаемый крот |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 15:23:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600502896532 |
-| Players | 4/10 |
-| Host Name | Blackout |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 15:23:53 |
 
 
 |  | ot3_gardens_duo |
@@ -72,5 +36,50 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | avgn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:23:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600503348500 |
+| Players | 2/15 |
+| Host Name | `9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:24:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600502765641 |
+| Players | 5/24 |
+| Host Name | _(:з」∠)_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:23:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600502834034 |
+| Players | 6/8 |
+| Host Name | уважаемый крот |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 15:23:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600502896532 |
+| Players | 7/10 |
+| Host Name | Blackout |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 15:23:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600503277689 |
+| Players | 1/8 |
+| Host Name | аомине сасайки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:24:35 |
 
 
