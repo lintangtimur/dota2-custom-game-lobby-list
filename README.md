@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600757647685 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:56:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600758364417 |
-| Players | 2/5 |
-| Host Name | ₭ ₳ T ₳ ₦ ₳ |
+| Lobby ID | 28531600758059278 |
+| Players | 3/10 |
+| Host Name | бот-хантер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:56:49 |
+| Lobby Creation Time | Friday, November 24, 2023 20:56:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:47:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600758059278 |
-| Players | 3/10 |
-| Host Name | бот-хантер |
+| Lobby ID | 28531600758907891 |
+| Players | 2/5 |
+| Host Name | ₭ ₳ T ₳ ₦ ₳ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:56:33 |
+| Lobby Creation Time | Friday, November 24, 2023 20:57:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600758245706 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | 3500 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:56:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600757691982 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NO TE VOY A DEJAR GANAR |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 20:56:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600717701763 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | uzii |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 20:20:56 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600758044099 |
-| Players | 9/10 |
-| Host Name | laughter |
+| Lobby ID | 28531600758823315 |
+| Players | 4/10 |
+| Host Name | УZБЕK_KILLЕР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:56:32 |
+| Lobby Creation Time | Friday, November 24, 2023 20:57:13 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:53:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600756364738 |
-| Players | 21/24 |
-| Host Name | Paj |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:55:06 |
+| Lobby ID | 28531600758672817 |
+| Players | 4/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:57:05 |
 
 
 |  | ot3_desert_octet |
@@ -113,18 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600756960228 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 20:55:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600758507338 |
-| Players | 1/15 |
-| Host Name | Hehe |
+| Lobby ID | 28531600758564818 |
+| Players | 6/10 |
+| Host Name | BALAUR |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:56:57 |
+| Lobby Creation Time | Friday, November 24, 2023 20:57:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600758735998 |
+| Players | 4/8 |
+| Host Name | 'heavenly restriction |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:57:09 |
 
 
