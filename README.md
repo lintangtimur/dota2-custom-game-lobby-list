@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600464814499 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 武士 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:08:02 |
@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:59:30 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600468618041 |
-| Players | 1/10 |
-| Host Name | Eijun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:15:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600466867381 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Hash |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:12:19 |
@@ -41,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600467975399 |
-| Players | 8/10 |
-| Host Name | KAWASAKI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:14:33 |
+| Lobby ID | 28531600468201309 |
+| Players | 1/8 |
+| Host Name | UNSTOPPABLE M LuV♥ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 14:15:00 |
 
 
 |  | ot3_desert_octet |
@@ -77,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600468106302 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Grampus |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 14:14:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600468201309 |
-| Players | 1/8 |
-| Host Name | UNSTOPPABLE M LuV♥ |
+| Lobby ID | 28531600468758106 |
+| Players | 3/10 |
+| Host Name | Eloyito |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 14:15:00 |
+| Lobby Creation Time | Friday, November 24, 2023 14:16:08 |
 
 
