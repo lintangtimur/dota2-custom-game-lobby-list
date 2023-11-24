@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 3/24 |
-| Host Name | BlackShooter |
+| Players | 1/24 |
+| Host Name | キャリーSurprise. |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600480250104 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:39:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600482189852 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | //sl.dx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:43:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600481398849 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:41:56 |
