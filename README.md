@@ -23,16 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600445085951 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:25:46 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600445178267 |
+| Players | 1/10 |
+| Host Name | +right |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:25:58 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600441232377 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Samichpunch |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 13:17:14 |
@@ -47,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:20:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600444524000 |
-| Players | 6/8 |
-| Host Name | memphis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 13:24:32 |
+| Lobby ID | 28531600443871789 |
+| Players | 5/24 |
+| Host Name | Top Knot.Maeghan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:23:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600443815997 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | zenzy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:22:59 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600443289474 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | ▼▲ZÆX▲▼ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:21:48 |
@@ -83,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:19:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600445022390 |
-| Players | 2/10 |
-| Host Name | ВИТАЛЯ НАПИЛЬНИК |
+| Lobby ID | 28531600445284657 |
+| Players | 2/15 |
+| Host Name | denis2012 |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 13:25:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600443871789 |
-| Players | 5/24 |
-| Host Name | Top Knot.Maeghan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 13:23:06 |
+| Lobby Creation Time | Friday, November 24, 2023 13:26:12 |
 
 
