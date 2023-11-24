@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600505542334 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:28:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600513190162 |
-| Players | 1/5 |
-| Host Name | MR Crabs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:42:48 |
+| Lobby ID | 28531600513381307 |
+| Players | 1/10 |
+| Host Name | Meh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:43:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600512918942 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hopeツ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 15:42:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600511763273 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 我是红领巾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:40:10 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600513040803 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | TOP REG in the world |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 15:42:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600513348718 |
+| Players | 3/8 |
+| Host Name | Destr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:43:06 |
 
 
