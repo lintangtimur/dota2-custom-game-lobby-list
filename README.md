@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600564783134 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | life imitates life |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:12:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600564989432 |
-| Players | 2/8 |
-| Host Name | Takiyoshi国王 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:13:17 |
 
 
