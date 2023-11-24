@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:59:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600473661874 |
-| Players | 9/10 |
-| Host Name | rarikrarie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:26:14 |
+| Lobby ID | 28531600475041224 |
+| Players | 1/5 |
+| Host Name | Eijun |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 14:29:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600471227902 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:21:15 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600474113968 |
-| Players | 8/10 |
-| Host Name | Semezya |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 14:27:10 |
+| Lobby ID | 28531600475046972 |
+| Players | 7/15 |
+| Host Name | Windranger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:29:05 |
 
 
 |  | ot3_desert_octet |
@@ -68,36 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600474306083 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | kn9z |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 14:27:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600474503680 |
-| Players | 7/8 |
-| Host Name | mweh. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:27:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600474055769 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:27:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600473937842 |
-| Players | 14/15 |
-| Host Name | BLOOD_DJO |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 14:26:48 |
+| Lobby ID | 28531600475105457 |
+| Players | 1/8 |
+| Host Name | 练习两年半的影魔擅长z x后仰c |
+| Region | PWUNICOM |
+| Lobby Creation Time | Friday, November 24, 2023 14:29:11 |
 
 
