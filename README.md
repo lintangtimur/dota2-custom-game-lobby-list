@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600420360136 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:29:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600420890979 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | North |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:30:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600421205844 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:31:42 |
@@ -76,28 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600421034428 |
-| Players | 6/15 |
-| Host Name | Sutensei (Depressed) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:31:18 |
+| Lobby ID | 28531600421219503 |
+| Players | 9/15 |
+| Host Name | Sgt Struthers |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 12:31:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600421090671 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Dao |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:31:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600421219503 |
-| Players | 5/15 |
-| Host Name | Sgt Struthers |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:31:44 |
 
 
