@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600535466589 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Jason Statham |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:21:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600534652814 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | MaZilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:20:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600536003059 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Monkey Queen |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:22:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600536149997 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | бустер на 4лене |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:22:50 |
@@ -95,34 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600534723736 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Saint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:20:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600535992402 |
-| Players | 7/15 |
-| Host Name | Yerazog |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:22:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600536230588 |
-| Players | 5/8 |
-| Host Name | ... |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 16:22:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600536240418 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Demonic Fox |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:22:59 |
