@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600528945647 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | TriHard |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 16:11:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28531600528746627 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | MaZilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:11:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:06:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600531329434 |
-| Players | 1/24 |
-| Host Name | Superman Pans |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 16:14:50 |
+| Lobby ID | 28531600532314253 |
+| Players | 5/8 |
+| Host Name | TeReK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:16:17 |
 
 
 |  | ot3_desert_octet |
@@ -85,37 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600532072088 |
-| Players | 2/10 |
-| Host Name | 難しい Yaso Su |
+| Lobby ID | 28531600532083046 |
+| Players | 5/10 |
+| Host Name | глаза сушит |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:15:54 |
+| Lobby Creation Time | Friday, November 24, 2023 16:15:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600531346106 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:14:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600531279766 |
-| Players | 7/8 |
-| Host Name | Иосиф Сталин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:14:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600532083046 |
-| Players | 1/10 |
-| Host Name | глаза сушит |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:15:55 |
 
 
