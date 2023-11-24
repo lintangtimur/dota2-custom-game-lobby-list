@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:51:55 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600640716130 |
+| Players | 1/10 |
+| Host Name | "Virone" Comrade |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:01:51 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600639081065 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:59:50 |
@@ -50,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600640058634 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | JOOT' |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 19:01:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600640114751 |
-| Players | 2/10 |
-| Host Name | ебал овцу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:01:07 |
+| Lobby ID | 28531600640223169 |
+| Players | 6/24 |
+| Host Name | 暴走的小喵 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:01:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600640223169 |
-| Players | 3/24 |
-| Host Name | 暴走的小喵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:01:15 |
+| Lobby ID | 28531600629315920 |
+| Players | 23/24 |
+| Host Name | H1RO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:47:45 |
 
 
