@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600385933476 |
-| Players | 1/5 |
-| Host Name | 하나 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 11:10:55 |
+| Lobby ID | 28531600386071696 |
+| Players | 1/10 |
+| Host Name | Uncle Frank |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 11:11:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600385231186 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | meta angel |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 11:09:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600385709785 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | YATOROGOD/giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:10:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600385241237 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 11:09:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600384121904 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | пан или иди нахуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 11:06:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600383597612 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | bm hero=shit player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 11:05:15 |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 11:09:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600385895121 |
-| Players | 1/15 |
-| Host Name | the Imosiz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 11:10:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600385917329 |
-| Players | 2/15 |
-| Host Name | SinanDira |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 11:10:52 |
 
 
