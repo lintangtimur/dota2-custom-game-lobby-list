@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600542370517 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zero Two |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:33:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600542361509 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 16:33:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600541607202 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DG_COACH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:32:25 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 在拱门上玩的妓女的儿 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:33:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600541036079 |
+| Players | 14/15 |
+| Host Name | eternity is awesome |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:31:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600542445573 |
+| Players | 2/15 |
+| Host Name | червяк |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:33:53 |
 
 
