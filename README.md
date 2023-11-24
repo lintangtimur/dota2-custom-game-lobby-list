@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600654825876 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:18:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600644723188 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | LionKingZ` |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 19:06:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600643357550 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Tom McGrady |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:05:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600666221367 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | OQ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:30:44 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:30:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600665803653 |
-| Players | 9/10 |
-| Host Name | 0,1% |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:30:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600666403818 |
-| Players | 1/24 |
-| Host Name | Satan |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600666424817 |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zxcперхоть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:30:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600666403818 |
+| Players | 4/24 |
+| Host Name | Satan |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
 
 
