@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600495114878 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 15:09:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600503405597 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:24:49 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:28:44 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600506695270 |
-| Players | 9/10 |
-| Host Name | Poseidon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:30:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600500356843 |
@@ -59,45 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600502765641 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:23:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600507124814 |
-| Players | 5/8 |
-| Host Name | 情況vaccine再糟糕不過了 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:31:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600506286831 |
-| Players | 3/8 |
-| Host Name | нет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:30:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600506088991 |
-| Players | 5/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 15:29:45 |
+| Lobby ID | 28531600507741872 |
+| Players | 1/15 |
+| Host Name | Anis |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 15:32:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600507415610 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | EBRam |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 15:32:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600506088991 |
+| Players | 3/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 15:29:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600507541820 |
+| Players | 2/15 |
+| Host Name | АБОБА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:32:25 |
 
 
