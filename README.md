@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600930457178 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:27:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600927528038 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | $w4G |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 23:24:27 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600931239104 |
-| Players | 7/10 |
-| Host Name | Чурка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:28:08 |
+| Lobby ID | 28531600932487103 |
+| Players | 1/10 |
+| Host Name | durd-URUN |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 23:29:24 |
 
 
 |  | ot3_gardens_duo |
@@ -122,9 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600932163332 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | [MIR-12] SAILAR |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 23:29:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600932357382 |
+| Players | 7/8 |
+| Host Name | РАЗКАГИРОВАЛСЯ2 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 23:29:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600932482689 |
+| Players | 2/10 |
+| Host Name | RFKolor |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 23:29:23 |
 
 
