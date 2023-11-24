@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600478583152 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 14:36:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600471921299 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Gaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:22:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600479563701 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | lox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:38:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600480349737 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:39:48 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600479924310 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Emotional Damage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 14:38:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600480004287 |
-| Players | 1/24 |
-| Host Name | unhinged |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:39:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600480250104 |
-| Players | 1/10 |
-| Host Name | UNITED WE STAND, DIVIDED WE FALL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:39:36 |
 
 
 |  | ot3_gardens_duo |
@@ -108,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nn deadinside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:40:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600480250104 |
+| Players | 2/10 |
+| Host Name | UNITED WE STAND, DIVIDED WE FALL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 14:39:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600480819378 |
+| Players | 1/8 |
+| Host Name | jek ma |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 14:40:46 |
 
 
