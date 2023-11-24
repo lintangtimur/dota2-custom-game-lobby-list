@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600613927100 |
-| Players | 3/10 |
-| Host Name | Smoke |
+| Players | 2/10 |
+| Host Name | Speedy_J |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:27:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600614345003 |
+| Players | 1/5 |
+| Host Name | Девочка хентай |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 18:28:16 |
 
 
 |  | ot3_desert_octet |
@@ -59,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600613205071 |
-| Players | 4/8 |
-| Host Name | ШИЗАНУТЫЙ АМНЯМ |
+| Players | 1/8 |
+| Host Name | Sticky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:26:43 |
 
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BrokenMirror |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:26:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600605034441 |
+| Players | 23/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 18:15:41 |
 
 
