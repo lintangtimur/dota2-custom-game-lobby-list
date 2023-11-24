@@ -68,45 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600544278512 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | lukhave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:37:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600545109286 |
-| Players | 2/10 |
-| Host Name | AgroEssence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:38:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600544317487 |
-| Players | 4/8 |
-| Host Name | TeReK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:37:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600545318635 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Pray for something |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:38:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600544470540 |
-| Players | 14/15 |
-| Host Name | Ferrari667 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:37:27 |
+| Lobby ID | 28531600544317487 |
+| Players | 5/8 |
+| Host Name | TeReK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:37:11 |
 
 
