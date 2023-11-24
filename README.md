@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600554327478 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Твой Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:54:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600556182295 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | HealsHereDude |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 16:57:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600559750435 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ☛OverLoker☚ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:04:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600559174958 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Много денег |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:03:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600558678049 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 17:02:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600559387206 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | создатель секса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600559658541 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Winged Hussar |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:04:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600559386427 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Syberian Huskar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
