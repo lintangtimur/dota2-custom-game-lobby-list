@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600761637315 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ICY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:59:40 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600760469592 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:58:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600761662098 |
-| Players | 7/8 |
-| Host Name | 9 6erу TAkou a BoJIocbI Ha3ad |
+| Lobby ID | 28531600762187197 |
+| Players | 7/15 |
+| Host Name | moch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:59:42 |
+| Lobby Creation Time | Friday, November 24, 2023 21:00:09 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600761996137 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Xanarchy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:59:59 |
@@ -98,15 +98,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/8 |
 | Host Name | ^^ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 21:00:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600762187197 |
-| Players | 6/15 |
-| Host Name | moch |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:00:09 |
 
 
