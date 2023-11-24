@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600534652814 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | MaZilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:20:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600534211236 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | прочитал = пидop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:19:26 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600534613984 |
-| Players | 2/10 |
-| Host Name | наглажени володь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:20:08 |
+| Lobby ID | 28531600534884340 |
+| Players | 1/10 |
+| Host Name | From rivertosea PalestineHUISOSI |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:20:37 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600534945384 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 肥仔 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 16:20:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600534635006 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | TOP REG in the world |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:20:11 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600534723736 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Saint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:20:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600534884340 |
-| Players | 1/10 |
-| Host Name | From rivertosea PalestineHUISOSI |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:20:37 |
 
 
