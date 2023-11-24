@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:31:11 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600424318724 |
-| Players | 7/10 |
-| Host Name | JL'Esperance |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 12:38:43 |
+| Lobby ID | 28531600425418347 |
+| Players | 1/5 |
+| Host Name | shiina san |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:41:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422584436 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Lord Coeto |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:34:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422793850 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Puro bajo pensando q juega xd |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:35:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600423058495 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Morgangiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:35:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600424803005 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | not a human |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:39:49 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 911 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:40:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600425379352 |
+| Players | 1/10 |
+| Host Name | никс ассаса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 12:41:08 |
 
 
