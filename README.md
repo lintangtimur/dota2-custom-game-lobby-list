@@ -5,28 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600536210045 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | HarBonDioxide |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 16:22:56 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531600531857096 |
-| Players | 1/7 |
-| Host Name | Death Is My Bitch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:15:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600538495870 |
-| Players | 1/5 |
-| Host Name | Lookas |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:26:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600537497882 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
@@ -77,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600538531836 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Sensetive Femboy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:27:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600538931812 |
+| Players | 1/8 |
+| Host Name | Геральт из Ривии |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:27:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600538931134 |
+| Players | 2/24 |
+| Host Name | Rus-rus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:27:43 |
 
 
