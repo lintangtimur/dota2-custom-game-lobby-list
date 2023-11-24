@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600583393103 |
-| Players | 11/15 |
-| Host Name | Lawrence |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:43:23 |
+| Lobby ID | 28531600583980634 |
+| Players | 6/24 |
+| Host Name | MEHEHEHE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:44:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600571608312 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:24:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600583256935 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | nissan-gtr |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 17:43:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600580584648 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | WAYNE |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 17:38:57 |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600583565997 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Krizo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:43:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600584004642 |
+| Players | 1/15 |
+| Host Name | Doctor Livesee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:44:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600583980149 |
+| Players | 1/8 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:44:18 |
 
 
