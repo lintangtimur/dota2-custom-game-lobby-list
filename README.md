@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600510321542 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Fair*Play |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:37:31 |
@@ -29,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:28:44 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531600514804556 |
-| Players | 4/7 |
-| Host Name | ★Valawine |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:45:46 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600514452467 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:07 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600514497640 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | sv_gravity 800 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:12 |
@@ -83,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:45:34 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600514745864 |
-| Players | 1/24 |
-| Host Name | go go baby |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:45:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600514854397 |
@@ -99,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sashok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600515016095 |
+| Players | 1/24 |
+| Host Name | minmin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:46:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600515039328 |
+| Players | 2/10 |
+| Host Name | немного умею играть\ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:46:13 |
 
 
