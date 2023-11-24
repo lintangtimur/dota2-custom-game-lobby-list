@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 23:27:34 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600931552123 |
+| Players | 1/5 |
+| Host Name | Taylor |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 23:28:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600928520813 |
@@ -40,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600930457012 |
-| Players | 14/15 |
-| Host Name | Flempy |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 23:27:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600931325558 |
-| Players | 6/10 |
-| Host Name | Дед |
+| Lobby ID | 28531600931386908 |
+| Players | 3/15 |
+| Host Name | Goran |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:28:13 |
+| Lobby Creation Time | Friday, November 24, 2023 23:28:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600931540329 |
+| Players | 6/8 |
+| Host Name | mewingchad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 23:28:26 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600928389894 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | not a good player.. |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 24, 2023 23:25:18 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600928012590 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Nox.Klose |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 23:24:56 |
@@ -113,18 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600930457178 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:27:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600931386908 |
-| Players | 1/15 |
-| Host Name | Goran |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:28:17 |
+| Lobby ID | 28531600926541887 |
+| Players | 22/24 |
+| Host Name | RednWhite |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 23:23:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600931604340 |
+| Players | 1/10 |
+| Host Name | DEFINICION ETERNA |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 23:28:30 |
 
 
