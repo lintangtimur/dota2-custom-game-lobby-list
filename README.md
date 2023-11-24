@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:05:24 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600499254872 |
-| Players | 1/5 |
-| Host Name | IR bros!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 15:17:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600491036122 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:49:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600498105329 |
-| Players | 6/8 |
-| Host Name | sizam2013 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:15:13 |
+| Lobby ID | 28531600498266033 |
+| Players | 5/24 |
+| Host Name | KUKUY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:15:31 |
 
 
 |  | ot3_desert_octet |
@@ -67,37 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600498475544 |
-| Players | 9/10 |
-| Host Name | прочитал = пидop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:15:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600498266033 |
-| Players | 5/24 |
-| Host Name | KUKUY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 15:15:31 |
+| Lobby ID | 28531600499204710 |
+| Players | 7/10 |
+| Host Name | Курить и сдохнуть |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 15:17:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600499111712 |
-| Players | 4/15 |
+| Lobby ID | 28531600499471049 |
+| Players | 2/15 |
 | Host Name | Devi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:17:04 |
+| Lobby Creation Time | Friday, November 24, 2023 15:17:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600499204710 |
-| Players | 2/10 |
-| Host Name | Курить и сдохнуть |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 15:17:13 |
+| Lobby ID | 28531600499532924 |
+| Players | 1/15 |
+| Host Name | KAEL |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 15:17:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600499566855 |
+| Players | 1/15 |
+| Host Name | 念头不通达 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:17:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600499566917 |
+| Players | 1/24 |
+| Host Name | xbq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:17:52 |
 
 
