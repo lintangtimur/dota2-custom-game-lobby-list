@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600537497882 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600538931134 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:27:43 |
@@ -95,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600540265890 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ТАМАРА ГОРЛОВОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:30:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600540297406 |
-| Players | 1/8 |
-| Host Name | kek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:30:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600540343170 |
-| Players | 3/8 |
-| Host Name | kill bill |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:30:13 |
+| Lobby ID | 28531600540441202 |
+| Players | 2/15 |
+| Host Name | 卿如雾里花 |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 16:30:23 |
 
 
