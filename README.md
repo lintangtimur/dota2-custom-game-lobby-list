@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600682209795 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Medved |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:47:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600683582683 |
-| Players | 1/5 |
-| Host Name | Ayaken |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:48:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600679494824 |
-| Players | 22/24 |
-| Host Name | ArtoftheStateAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:44:21 |
+| Lobby ID | 28531600666403818 |
+| Players | 18/24 |
+| Host Name | wikiped |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600683257349 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | 31st |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:48:09 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600683497143 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:48:24 |
@@ -95,27 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600682092326 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Sukuna |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 19:46:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600666403818 |
-| Players | 20/24 |
-| Host Name | wikiped |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600682734820 |
-| Players | 1/24 |
-| Host Name | hen |
+| Lobby ID | 28531600683925134 |
+| Players | 1/10 |
+| Host Name | - beauty dog |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:47:38 |
+| Lobby Creation Time | Friday, November 24, 2023 19:48:50 |
 
 
