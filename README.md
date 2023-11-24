@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:50:56 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600518477852 |
+| Players | 1/7 |
+| Host Name | 招财 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 15:52:26 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600514452467 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:45:07 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КМС по водному |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:52:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600518488772 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 15:52:27 |
 
 
