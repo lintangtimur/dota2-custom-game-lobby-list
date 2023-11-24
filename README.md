@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:14:17 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600650971396 |
-| Players | 1/10 |
-| Host Name | 728Q |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 19:13:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600646131473 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:08:20 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600644723188 |
-| Players | 6/10 |
+| Players | 2/10 |
 | Host Name | LionKingZ` |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 19:06:39 |
@@ -67,37 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600651640865 |
+| Lobby ID | 28531600652173262 |
 | Players | 7/10 |
-| Host Name | кен карсон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:14:38 |
+| Host Name | Niko |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:15:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600649490841 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:12:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600651823485 |
-| Players | 1/15 |
-| Host Name | Joi Boi |
+| Lobby ID | 28531600651755929 |
+| Players | 4/8 |
+| Host Name | 🅿🅰🅻🅰🅳🅸🅽 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:14:51 |
+| Lobby Creation Time | Friday, November 24, 2023 19:14:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600651755929 |
+| Lobby ID | 28531600652074319 |
 | Players | 3/8 |
-| Host Name | 🅿🅰🅻🅰🅳🅸🅽 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:14:46 |
+| Host Name | lifedrain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:15:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600652074555 |
+| Players | 13/15 |
+| Host Name | папа гетто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:15:08 |
 
 
