@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600493075914 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 武士 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 15:05:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600500386808 |
+| Players | 1/10 |
+| Host Name | ich |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 15:19:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 15:18:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600499471049 |
-| Players | 10/15 |
-| Host Name | Devi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 15:17:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600500057879 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | —God's One Aloha ёпта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:18:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600500356843 |
+| Players | 1/15 |
+| Host Name | Echo |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 15:19:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600500375656 |
+| Players | 1/15 |
+| Host Name | JS |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 15:19:20 |
 
 
