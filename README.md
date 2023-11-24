@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600358988843 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MonaLiar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 10:07:17 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600360877347 |
-| Players | 18/24 |
-| Host Name | Perro chusco |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:11:38 |
+| Lobby ID | 28531600361335630 |
+| Players | 2/24 |
+| Host Name | quiescent |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 10:12:41 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600360783920 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:11:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600361318918 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 10:12:39 |
@@ -59,63 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600357184864 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | жаби жаби |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:03:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600361365195 |
-| Players | 13/15 |
-| Host Name | 他妈的强型 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 10:12:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600360674817 |
-| Players | 1/15 |
-| Host Name | q esta acontecendo |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:11:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600361335630 |
-| Players | 2/24 |
-| Host Name | quiescent |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 10:12:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600361353209 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | DOMINICA MELLET |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:12:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600354520263 |
-| Players | 22/24 |
-| Host Name | Mr.Banana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 09:56:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600361549262 |
-| Players | 6/8 |
-| Host Name | Dovle |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:13:11 |
+| Lobby ID | 28531600361806509 |
+| Players | 2/15 |
+| Host Name | Emperor's Luck |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:13:45 |
 
 
