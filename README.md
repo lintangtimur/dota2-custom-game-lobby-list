@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600561813350 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | ээDotaтэгжшаадгүшд |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:07:52 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600559386427 |
-| Players | 23/24 |
-| Host Name | Syberian Huskar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
+| Lobby ID | 28531600563018733 |
+| Players | 3/8 |
+| Host Name | Positive mental attitude |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:09:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rambolio |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:09:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600563125132 |
+| Players | 3/24 |
+| Host Name | Jesus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:10:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600563177415 |
+| Players | 5/10 |
+| Host Name | Larl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:10:12 |
 
 
