@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:09:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600600216998 |
-| Players | 9/10 |
-| Host Name | bob |
+| Lobby ID | 28531600601942714 |
+| Players | 6/24 |
+| Host Name | wadadadawdadawdad |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:08:49 |
+| Lobby Creation Time | Friday, November 24, 2023 18:11:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:10:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600601942714 |
-| Players | 1/24 |
-| Host Name | wadadadawdadawdad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:11:19 |
 
 
