@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600419080199 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Ma Ling |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:26:52 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531600420321540 |
+| Lobby ID | 28531600420980967 |
 | Players | 1/7 |
 | Host Name | momo&peach princess |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 24, 2023 12:29:41 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 12:31:11 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:29:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600419112081 |
-| Players | 8/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 12:26:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600420771805 |
-| Players | 1/10 |
-| Host Name | мефедроновая вош |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:30:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600420719132 |
-| Players | 1/8 |
-| Host Name | patrick.faist |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 12:30:35 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600418831185 |
-| Players | 23/24 |
-| Host Name | Bniuoas |
+| Lobby ID | 28531600420890979 |
+| Players | 3/24 |
+| Host Name | Claymorex |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 12:26:19 |
+| Lobby Creation Time | Friday, November 24, 2023 12:30:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sad Clown((( |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:23:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600418831185 |
+| Players | 23/24 |
+| Host Name | Bniuoas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 12:26:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600420978438 |
+| Players | 1/24 |
+| Host Name | SBUNA9 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 12:31:10 |
 
 
