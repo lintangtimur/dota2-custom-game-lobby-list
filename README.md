@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600353845506 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 09:55:24 |
@@ -31,26 +31,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600354694897 |
-| Players | 2/8 |
-| Host Name | ЧИКАТИЛО |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 09:57:22 |
+| Lobby ID | 28531600354398794 |
+| Players | 6/8 |
+| Host Name | Sancocho |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:56:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600354444935 |
-| Players | 14/15 |
-| Host Name | ShamWow |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 09:56:47 |
+| Lobby ID | 28531600354998282 |
+| Players | 5/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 09:58:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600354400194 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:56:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600354355123 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | DShaper |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 09:56:35 |
@@ -68,90 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600353342618 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Fer_Luque1696 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:54:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600353611002 |
-| Players | 7/10 |
-| Host Name | XxTuviejoxX |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:54:51 |
+| Lobby ID | 28531600354583133 |
+| Players | 7/8 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 09:57:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600353993516 |
-| Players | 9/15 |
-| Host Name | EMANS |
+| Players | 10/15 |
+| Host Name | EMISARIO NORN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:55:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600354398794 |
-| Players | 5/8 |
-| Host Name | Sancocho |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:56:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600354583133 |
-| Players | 6/8 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 09:57:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600354793105 |
-| Players | 1/24 |
-| Host Name | <Cyborgix> |
+| Lobby ID | 28531600355101059 |
+| Players | 2/8 |
+| Host Name | ЧИКАТИЛО |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 09:57:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600354855282 |
-| Players | 1/15 |
-| Host Name | sebara sel euqin |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 09:57:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600354877500 |
-| Players | 4/8 |
-| Host Name | KuKin.Punkkeke |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:57:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600352926548 |
-| Players | 23/24 |
-| Host Name | MAGA |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 09:53:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600354905586 |
-| Players | 1/10 |
-| Host Name | Tears Radar |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 09:57:51 |
+| Lobby Creation Time | Friday, November 24, 2023 09:58:19 |
 
 
