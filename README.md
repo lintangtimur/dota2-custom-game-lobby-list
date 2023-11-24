@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600481602021 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:42:20 |
@@ -47,37 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:39:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600482189852 |
-| Players | 8/15 |
-| Host Name | //sl.dx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:43:32 |
+| Lobby ID | 28531600482593902 |
+| Players | 7/10 |
+| Host Name | Machine being |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 14:44:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600481398849 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:41:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600481786895 |
-| Players | 3/8 |
-| Host Name | ZAMIR BEZGEEV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:42:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600482214375 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Corey |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 14:43:35 |
