@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:32:47 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600578350380 |
+| Players | 6/10 |
+| Host Name | MrSunday00 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 17:35:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
@@ -29,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:33:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600579013013 |
-| Players | 5/10 |
-| Host Name | Larl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:36:26 |
+| Lobby ID | 28531600578850042 |
+| Players | 1/8 |
+| Host Name | [野性] 妖妖0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:36:10 |
 
 
 |  | ot3_desert_octet |
@@ -65,39 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:35:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600578346131 |
-| Players | 5/8 |
-| Host Name | Positive mental attitude |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:35:22 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600578837001 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:36:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600578850042 |
-| Players | 1/8 |
-| Host Name | [野性] 妖妖0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 17:36:10 |
+| Lobby ID | 28531600579526185 |
+| Players | 5/10 |
+| Host Name | Larl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:37:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600578934878 |
-| Players | 11/15 |
-| Host Name | zrt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:36:19 |
+| Lobby ID | 28531600579536515 |
+| Players | 1/15 |
+| Host Name | E Буне Гров |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:37:17 |
 
 
