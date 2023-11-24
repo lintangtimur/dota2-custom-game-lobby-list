@@ -47,37 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:45:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600576922223 |
-| Players | 1/8 |
-| Host Name | zxc monster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:33:04 |
+| Lobby ID | 28531600585768222 |
+| Players | 4/15 |
+| Host Name | Federall |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:47:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600571608312 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:24:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600585087663 |
-| Players | 10/15 |
-| Host Name | Sm:)e |
+| Lobby ID | 28531600585344696 |
+| Players | 4/8 |
+| Host Name | ХОП ХЕЙ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:46:03 |
+| Lobby Creation Time | Friday, November 24, 2023 17:46:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600580584648 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | WAYNE |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 17:38:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600584990174 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:45:54 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600585340421 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | TOXIC+CRITIC |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:46:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600585344696 |
-| Players | 4/8 |
-| Host Name | ХОП ХЕЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:46:27 |
 
 
