@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600534652814 |
-| Players | 3/5 |
-| Host Name | MaZilla |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:20:13 |
+| Lobby ID | 28531600538495870 |
+| Players | 1/5 |
+| Host Name | Lookas |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:26:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600538403838 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | "/ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:26:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:25:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600537550903 |
-| Players | 9/10 |
-| Host Name | flexkid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:25:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600538257567 |
@@ -94,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600538457255 |
-| Players | 1/15 |
-| Host Name | Михаил CIrcle |
+| Lobby ID | 28531600538531836 |
+| Players | 4/15 |
+| Host Name | Sensetive Femboy |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:26:54 |
+| Lobby Creation Time | Friday, November 24, 2023 16:27:02 |
 
 
