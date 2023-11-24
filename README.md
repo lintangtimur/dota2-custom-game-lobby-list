@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600474306083 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | kn9z |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 14:27:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600474055769 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:27:03 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600471639820 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | тотальный фид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:22:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600475585428 |
+| Players | 1/15 |
+| Host Name | White Whisky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 14:30:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600475586798 |
+| Players | 1/10 |
+| Host Name | Save Yourself |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 14:30:10 |
 
 
