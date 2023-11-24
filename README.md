@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600602428755 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | {SoA}Fantom |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:12:02 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531600603773452 |
-| Players | 3/7 |
-| Host Name | wewwew2 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 18:13:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600603490636 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Gogâie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:13:32 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600603501035 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Egowycz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:13:32 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600603629686 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Тянка сталина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:13:42 |
