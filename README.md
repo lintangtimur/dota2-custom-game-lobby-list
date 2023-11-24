@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:08:06 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600704012911 |
+| Players | 1/7 |
+| Host Name | P1vko |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:08:20 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600696825872 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600702265383 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:06:42 |
@@ -94,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600702283759 |
-| Players | 13/15 |
-| Host Name | アウトキャスト.キラー |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:06:43 |
+| Lobby ID | 28531600703996636 |
+| Players | 1/15 |
+| Host Name | где? что? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 20:08:19 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600703671852 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ROCK HARD |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 20:08:01 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zionists Slayer |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 20:08:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600704077169 |
+| Players | 1/8 |
+| Host Name | ZakFrost |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 20:08:23 |
 
 
