@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600594432397 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:00:20 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:39:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600595216146 |
-| Players | 14/15 |
-| Host Name | Keruga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:01:31 |
+| Lobby ID | 28531600595646034 |
+| Players | 1/8 |
+| Host Name | PICK STUNNERS |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 18:02:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600595520571 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:01:58 |
