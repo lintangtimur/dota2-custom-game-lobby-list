@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600646131473 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:08:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600654802917 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | барамбек |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:18:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600655133962 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:18:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600655014089 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | codename.69) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:18:27 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:18:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600655662538 |
-| Players | 4/15 |
-| Host Name | C.P.T.N |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:19:11 |
+| Lobby ID | 28531600652988323 |
+| Players | 7/8 |
+| Host Name | Бахлыш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:16:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:19:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600649490841 |
-| Players | 22/24 |
-| Host Name | 大川岛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 19:12:13 |
+| Lobby ID | 28531600656097237 |
+| Players | 1/8 |
+| Host Name | 199HZ peek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:19:40 |
 
 
