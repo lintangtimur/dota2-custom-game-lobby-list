@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600948697539 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:46:01 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600949369081 |
+| Players | 1/7 |
+| Host Name | Fuckyeah |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 23:46:43 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600947435743 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 23:44:43 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 23:45:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600948885394 |
-| Players | 4/8 |
-| Host Name | NVV |
+| Lobby ID | 28531600948637515 |
+| Players | 8/24 |
+| Host Name | I18531GOD FAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:46:13 |
+| Lobby Creation Time | Friday, November 24, 2023 23:45:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600946098357 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | sphynxy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 23:43:20 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600949028322 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:46:22 |
@@ -85,28 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600948814595 |
-| Players | 8/15 |
-| Host Name | бальтазар |
+| Lobby ID | 28531600949291264 |
+| Players | 12/15 |
+| Host Name | And_New_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:46:08 |
+| Lobby Creation Time | Friday, November 24, 2023 23:46:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600948637515 |
-| Players | 6/24 |
-| Host Name | I18531GOD FAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:45:57 |
+| Lobby ID | 28531600949522777 |
+| Players | 2/8 |
+| Host Name | Банкой пива по еб |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 23:46:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600949043724 |
-| Players | 1/10 |
-| Host Name | привет |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 23:46:23 |
+| Lobby ID | 28531600949331307 |
+| Players | 2/8 |
+| Host Name | АЧЁ) |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 24, 2023 23:46:41 |
 
 
