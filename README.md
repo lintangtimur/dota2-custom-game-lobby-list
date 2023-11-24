@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600791119954 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 21:24:35 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:27:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600793665934 |
-| Players | 7/8 |
-| Host Name | xXx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:26:41 |
+| Lobby ID | 28531600795580468 |
+| Players | 10/15 |
+| Host Name | Gay Fish |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 21:28:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600793387082 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | EVO_COME_LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:26:27 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600795300201 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Пряня enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:28:02 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600794234826 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | $w4G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:27:09 |
@@ -148,10 +148,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600795547814 |
-| Players | 3/15 |
-| Host Name | Average Airstrike Enjoyer |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 21:28:15 |
+| Lobby ID | 28531600795705221 |
+| Players | 1/15 |
+| Host Name | Сквидворт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:28:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600795749865 |
+| Players | 1/24 |
+| Host Name | Darkberry |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 24, 2023 21:28:25 |
 
 
