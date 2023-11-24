@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600550677264 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | theOne |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:48:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600550933113 |
-| Players | 6/10 |
-| Host Name | Yare Yare Daze |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:48:45 |
+| Lobby ID | 28531600551001691 |
+| Players | 7/15 |
+| Host Name | tiuebiwe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:48:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600547516884 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 76561198203261364 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:42:51 |
@@ -65,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600551001691 |
-| Players | 1/15 |
-| Host Name | tiuebiwe |
+| Lobby ID | 28531600551194819 |
+| Players | 1/10 |
+| Host Name | CAGO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:48:52 |
+| Lobby Creation Time | Friday, November 24, 2023 16:49:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600550933113 |
+| Players | 9/10 |
+| Host Name | Yare Yare Daze |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:48:45 |
 
 
