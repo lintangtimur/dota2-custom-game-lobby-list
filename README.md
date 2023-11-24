@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600602428755 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | {SoA}Fantom |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:12:02 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531600603773452 |
+| Players | 3/7 |
+| Host Name | wewwew2 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 18:13:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,39 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:39:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600602565229 |
-| Players | 2/8 |
-| Host Name | я талант [hardwork54] |
+| Lobby ID | 28531600603490636 |
+| Players | 8/15 |
+| Host Name | Gogâie |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:12:13 |
+| Lobby Creation Time | Friday, November 24, 2023 18:13:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600600340335 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Lil Tortilla Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:09:00 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600603501035 |
+| Players | 1/8 |
+| Host Name | Egowycz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:13:32 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600603071347 |
-| Players | 4/10 |
-| Host Name | gokirus |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:12:56 |
+| Lobby ID | 28531600603629686 |
+| Players | 1/10 |
+| Host Name | Тянка сталина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:13:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600602997341 |
-| Players | 8/15 |
-| Host Name | Ratelbeth |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:12:50 |
+| Lobby ID | 28531600603785412 |
+| Players | 1/15 |
+| Host Name | hamleys |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 18:13:55 |
 
 
