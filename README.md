@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600553948663 |
+| Players | 2/10 |
+| Host Name | 印度代购神药专卖 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:54:05 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600552927441 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600553120555 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Naughty Cate of Mischief |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 16:52:37 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600553383842 |
-| Players | 2/8 |
-| Host Name | Yr1k1d |
+| Lobby ID | 28531600553846041 |
+| Players | 4/8 |
+| Host Name | 1 год отдыха |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:53:05 |
+| Lobby Creation Time | Friday, November 24, 2023 16:53:54 |
 
 
 |  | ot3_gardens_duo |
@@ -56,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:52:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600553773166 |
-| Players | 1/15 |
-| Host Name | Sm |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 16:53:46 |
+| Lobby ID | 28531600554028044 |
+| Players | 1/8 |
+| Host Name | RANGER:AZUL/godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 16:54:13 |
 
 
