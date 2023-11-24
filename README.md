@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:46:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600546489752 |
-| Players | 1/10 |
-| Host Name | stand here alone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:41:02 |
+| Lobby ID | 28531600550002792 |
+| Players | 1/5 |
+| Host Name | WannaJee |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 16:47:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600548556630 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Гpигopий Гopoxocтpeл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:44:35 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600549322246 |
-| Players | 8/10 |
-| Host Name | もう十分夢を見た |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 16:45:56 |
+| Lobby ID | 28531600549994775 |
+| Players | 1/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:47:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:43:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600548965386 |
-| Players | 14/15 |
-| Host Name | TOP REG in the world |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:45:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600549929340 |
-| Players | 3/8 |
-| Host Name | AU'S YATORO |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 24, 2023 16:47:00 |
 
 
