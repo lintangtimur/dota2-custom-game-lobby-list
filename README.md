@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600389017584 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tike Myson |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 11:18:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600390584966 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Goux |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:21:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600390313273 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ENJOYMENT ENJOYER |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 11:21:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600390878275 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:22:39 |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600391333168 |
-| Players | 2/15 |
-| Host Name | Oh Wonder |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 11:23:43 |
+| Lobby ID | 28531600391449514 |
+| Players | 1/15 |
+| Host Name | !?!?[0]?!?! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 11:24:00 |
 
 
