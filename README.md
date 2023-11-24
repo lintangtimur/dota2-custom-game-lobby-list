@@ -11,40 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:47:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600766477173 |
-| Players | 2/5 |
-| Host Name | Basota |
+| Lobby ID | 28531600769325394 |
+| Players | 5/10 |
+| Host Name | Autsayder |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:03:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531600768799154 |
-| Players | 2/7 |
-| Host Name | ТАТАРСКИЙ ФИД |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 21:05:52 |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:19 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531600769084549 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | pond. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:06:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600769176165 |
-| Players | 1/5 |
-| Host Name | TehObeng |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 24, 2023 21:06:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:48:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600767998995 |
-| Players | 11/15 |
-| Host Name | BruteForce |
+| Lobby ID | 28531600769708160 |
+| Players | 2/8 |
+| Host Name | bob |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:05:11 |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600767834520 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Лирический герой |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 21:05:02 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600765984877 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:03:28 |
@@ -95,18 +77,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600767926757 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Fa11kon |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 21:05:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600769622082 |
+| Players | 12/15 |
+| Host Name | ЇBASH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600769519006 |
+| Players | 2/10 |
+| Host Name | Пряня enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600769275433 |
+| Players | 5/10 |
+| Host Name | Псих |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:17 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600768154367 |
-| Players | 1/8 |
-| Host Name | Ferguson♥ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 21:05:19 |
+| Lobby ID | 28531600769597448 |
+| Players | 4/8 |
+| Host Name | QEH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600769821166 |
+| Players | 1/15 |
+| Host Name | 香精煎鱼食不食？ |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600769828999 |
+| Players | 1/10 |
+| Host Name | МАГА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600769837174 |
+| Players | 5/24 |
+| Host Name | Finesse |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 21:06:46 |
 
 
