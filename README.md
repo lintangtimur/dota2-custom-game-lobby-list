@@ -4,26 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600564407352 |
-| Players | 1/10 |
-| Host Name | ЯDeRNЫй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 17:12:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600573729910 |
-| Players | 1/5 |
+| Lobby ID | 28531600573773673 |
+| Players | 2/10 |
 | Host Name | VancouverOsaka |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 17:27:51 |
+| Lobby Creation Time | Friday, November 24, 2023 17:27:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600573173624 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Comix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:26:56 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600572484892 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PickachuDM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:25:47 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600572430586 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | HOPEFUL 1000 |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 17:25:42 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600571241581 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:23:44 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | destruction |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:27:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600573791344 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
 
 
