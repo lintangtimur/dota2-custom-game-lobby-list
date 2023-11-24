@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600826237628 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | millionware.vip |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 21:53:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600829200345 |
-| Players | 4/8 |
-| Host Name | Fzforza(-1k) |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 21:56:08 |
+| Lobby ID | 28531600831061663 |
+| Players | 5/10 |
+| Host Name | oni |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 21:57:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600822845862 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:50:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600829054342 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | VENECO= FEED |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 21:56:01 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600830680343 |
-| Players | 10/15 |
-| Host Name | ๋ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:57:22 |
+| Lobby ID | 28531600831135789 |
+| Players | 3/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 21:57:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -158,36 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600831293198 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | Сильный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:57:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600831061663 |
-| Players | 5/10 |
-| Host Name | oni |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:57:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600831135789 |
-| Players | 1/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 21:57:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600829869995 |
-| Players | 7/8 |
-| Host Name | ghostwhite |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:56:42 |
 
 
