@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 20:47:46 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600763569823 |
-| Players | 3/10 |
-| Host Name | Самовартрататата |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:01:23 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600748691574 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600758071999 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:56:34 |
@@ -47,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:02:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600764217628 |
-| Players | 13/15 |
-| Host Name | CollesTroll |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 21:01:56 |
+| Lobby ID | 28531600764994402 |
+| Players | 6/10 |
+| Host Name | depressedkid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:02:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600764485351 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | clielaceanguarl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 21:02:10 |
@@ -83,30 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 21:02:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600765032999 |
-| Players | 1/10 |
-| Host Name | swap commends plssssssssssssssss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:02:39 |
+| Lobby ID | 28531600760469592 |
+| Players | 22/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 20:58:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600764994402 |
-| Players | 2/10 |
-| Host Name | depressedkid |
+| Lobby ID | 28531600765447547 |
+| Players | 5/10 |
+| Host Name | Гена Цыдармян |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 21:02:37 |
+| Lobby Creation Time | Friday, November 24, 2023 21:03:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600760469592 |
-| Players | 21/24 |
-| Host Name | Instantaneous Death//OT3.0 |
+| Lobby ID | 28531600765565129 |
+| Players | 3/24 |
+| Host Name | 态度兑现天赋 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 20:58:39 |
+| Lobby Creation Time | Friday, November 24, 2023 21:03:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600765646265 |
+| Players | 1/15 |
+| Host Name | ziro5736 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 21:03:11 |
 
 
