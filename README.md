@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600469525472 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | \\/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:17:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600469443175 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:17:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600468201309 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 14:15:00 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600467461537 |
-| Players | 4/8 |
-| Host Name | ʀʏυʍ¿ɴcʜ∀ε |
+| Players | 7/8 |
+| Host Name | 1111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:13:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600470675835 |
-| Players | 5/15 |
-| Host Name | Locekd |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 14:20:07 |
+| Lobby ID | 28531600471560747 |
+| Players | 2/10 |
+| Host Name | тотальный фид |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:21:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600471178427 |
-| Players | 1/15 |
-| Host Name | Monkey Killer |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Friday, November 24, 2023 14:21:09 |
+| Lobby ID | 28531600471227902 |
+| Players | 4/10 |
+| Host Name | ♥Miul♥ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 14:21:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600471469633 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 14:21:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600471536962 |
+| Players | 3/8 |
+| Host Name | Android |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 14:21:52 |
 
 
