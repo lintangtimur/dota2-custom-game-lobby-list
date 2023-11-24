@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600646001479 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:08:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600646647065 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | rivers |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:08:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600644117501 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Jïzzshiri |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:05:57 |
@@ -65,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:08:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600646933454 |
-| Players | 9/10 |
-| Host Name | DDreams.Matiskadi.1XBET |
+| Lobby ID | 28531600647640241 |
+| Players | 2/15 |
+| Host Name | I'm just happy boi |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:09:16 |
+| Lobby Creation Time | Friday, November 24, 2023 19:10:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600647629217 |
+| Players | 1/15 |
+| Host Name | TERRYFOLD |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:10:04 |
 
 
