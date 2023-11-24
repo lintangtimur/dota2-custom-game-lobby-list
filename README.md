@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422584436 |
-| Players | 4/15 |
-| Host Name | zxxxx288 |
+| Players | 3/15 |
+| Host Name | Lord Coeto |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:34:47 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600423390886 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Jesko |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:36:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600423915664 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:37:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422635349 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Hari Seldon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:34:54 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600424803005 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | not a human |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:39:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600424862456 |
+| Players | 1/10 |
+| Host Name | KLL |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 12:39:57 |
 
 
