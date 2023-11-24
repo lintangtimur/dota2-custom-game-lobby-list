@@ -13,11 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600382673494 |
+| Lobby ID | 28531600382695971 |
 | Players | 1/5 |
 | Host Name | THUNANTADA |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:02:59 |
+| Lobby Creation Time | Friday, November 24, 2023 11:03:02 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531600382763964 |
+| Players | 1/7 |
+| Host Name | NeROe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 11:03:12 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600380492350 |
-| Players | 4/8 |
-| Host Name | Depressive game |
+| Lobby ID | 28531600382676183 |
+| Players | 3/8 |
+| Host Name | Sunset |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:57:35 |
+| Lobby Creation Time | Friday, November 24, 2023 11:02:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600382027902 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | K292 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 11:01:22 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sgt Struthers |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 11:00:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600382676183 |
-| Players | 3/8 |
-| Host Name | Sunset |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:02:59 |
 
 
