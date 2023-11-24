@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600556182295 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | HealsHereDude |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 16:57:58 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:00:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600559174958 |
-| Players | 8/10 |
-| Host Name | Много денег |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:03:16 |
+| Lobby ID | 28531600560225157 |
+| Players | 2/8 |
+| Host Name | Килипп Фиркоров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:05:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600559387206 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | создатель секса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600559658541 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Winged Hussar |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:04:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600559386427 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Syberian Huskar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
