@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600948637515 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | I18531GOD FAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 23:45:57 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600946098357 |
-| Players | 4/10 |
-| Host Name | sphynxy |
+| Players | 5/10 |
+| Host Name | П_Ё_С |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 23:43:20 |
 
@@ -86,36 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600949028322 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:46:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600949893942 |
+| Players | 1/8 |
+| Host Name | 年輕的惡魔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 23:47:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600949701203 |
+| Players | 7/10 |
+| Host Name | привет |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 23:47:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600949291264 |
-| Players | 12/15 |
-| Host Name | And_New_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 23:46:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600949522777 |
-| Players | 2/8 |
-| Host Name | Банкой пива по еб |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 24, 2023 23:46:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600949331307 |
-| Players | 2/8 |
-| Host Name | АЧЁ) |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 24, 2023 23:46:41 |
+| Lobby ID | 28531600949856067 |
+| Players | 2/15 |
+| Host Name | Anonymous |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 23:47:14 |
 
 
