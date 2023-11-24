@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600708390325 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hakai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:12:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600697718676 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Ладно смазан |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:02:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600710234930 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WhIn.Calichin |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 20:14:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600710842577 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | старлей Гослинг |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:14:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600711034713 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Enjoy dota, enjoy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:14:49 |
@@ -76,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600710819402 |
-| Players | 7/8 |
-| Host Name | ☦☦† |
+| Lobby ID | 28531600711214318 |
+| Players | 5/8 |
+| Host Name | Rus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:14:37 |
+| Lobby Creation Time | Friday, November 24, 2023 20:14:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600710905685 |
-| Players | 9/10 |
-| Host Name | Holly |
+| Lobby ID | 28531600711165813 |
+| Players | 3/15 |
+| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:14:41 |
+| Lobby Creation Time | Friday, November 24, 2023 20:14:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600711350657 |
+| Players | 1/24 |
+| Host Name | Saturnus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 20:15:06 |
 
 
