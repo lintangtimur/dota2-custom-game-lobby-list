@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600424318724 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | JL'Esperance |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:38:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422584436 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | zxxxx288 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 12:34:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600423390886 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Jesko |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 12:36:36 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:34:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600423039476 |
-| Players | 6/8 |
-| Host Name | Jacksito <3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:35:49 |
+| Lobby ID | 28531600423915664 |
+| Players | 7/24 |
+| Host Name | PND.Wilarson |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 12:37:48 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422635349 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Hari Seldon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 12:34:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600422793850 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Puro bajo pensando q juega xd |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:35:16 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600423058495 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Morgangiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:35:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600423915664 |
-| Players | 5/24 |
-| Host Name | PND.Wilarson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 12:37:48 |
 
 
