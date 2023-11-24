@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600554327478 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Твой Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:54:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600556182295 |
-| Players | 9/10 |
-| Host Name | HealsHereDude |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 16:57:58 |
+| Lobby ID | 28531600559750435 |
+| Players | 2/5 |
+| Host Name | ☛OverLoker☚ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 17:04:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:03:22 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531600559750435 |
-| Players | 2/5 |
-| Host Name | ☛OverLoker☚ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 17:04:17 |
+| Lobby ID | 28531600560569700 |
+| Players | 1/7 |
+| Host Name | LeMoniTo |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 17:05:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600560225157 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Килипп Фиркоров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:05:07 |
@@ -74,30 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600559387206 |
-| Players | 7/8 |
-| Host Name | создатель секса |
-| Region | STOCKHOLM |
+| Lobby ID | 28531600559386427 |
+| Players | 6/24 |
+| Host Name | Syberian Huskar |
+| Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600559658541 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Winged Hussar |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:04:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600559386427 |
-| Players | 5/24 |
-| Host Name | Syberian Huskar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 17:03:38 |
+| Lobby ID | 28531600560471747 |
+| Players | 1/15 |
+| Host Name | этот шпек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:05:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600560568861 |
+| Players | 1/10 |
+| Host Name | NeUkiN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:05:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600560631324 |
+| Players | 2/10 |
+| Host Name | ЦАРЬ ТОЛЧКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 17:05:49 |
 
 
