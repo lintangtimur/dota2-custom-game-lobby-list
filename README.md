@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600669203441 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | бахтыржан |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:33:52 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600669315200 |
-| Players | 1/5 |
-| Host Name | ТаПоЧеК |
+| Lobby ID | 28531600666361160 |
+| Players | 5/10 |
+| Host Name | duh |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:33:59 |
+| Lobby Creation Time | Friday, November 24, 2023 19:30:53 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600669158070 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SNAP |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:33:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600666403818 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Satan |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
@@ -101,30 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:30:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600668026588 |
-| Players | 7/8 |
-| Host Name | Christopher Moltisanti |
+| Lobby ID | 28531600669004720 |
+| Players | 14/15 |
+| Host Name | sorry |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:32:39 |
+| Lobby Creation Time | Friday, November 24, 2023 19:33:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600668346065 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | you are my rival |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:32:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600669004720 |
-| Players | 4/15 |
-| Host Name | sorry |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:33:40 |
 
 
