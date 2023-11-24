@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600475813331 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | танцы в трусиках |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:30:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600476326636 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Shackscraft |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 14:31:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600476694945 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:32:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600477300328 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:33:40 |
