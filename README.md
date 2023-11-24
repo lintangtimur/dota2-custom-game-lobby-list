@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600630826559 |
-| Players | 6/8 |
-| Host Name | ХОП ХЕЙ |
+| Lobby ID | 28531600632253545 |
+| Players | 2/8 |
+| Host Name | Бахлыш |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:49:38 |
+| Lobby Creation Time | Friday, November 24, 2023 18:51:24 |
 
 
 |  | ot3_desert_octet |
@@ -56,29 +56,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:47:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600631362165 |
-| Players | 6/8 |
-| Host Name | Степан |
+| Lobby ID | 28531600632073686 |
+| Players | 5/10 |
+| Host Name | Hillman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:50:18 |
+| Lobby Creation Time | Friday, November 24, 2023 18:51:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600632082048 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Дауби Даубиев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:51:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600632073686 |
-| Players | 1/10 |
-| Host Name | Hillman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:51:11 |
 
