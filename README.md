@@ -11,11 +11,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:48:24 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600456707794 |
-| Players | 2/7 |
-| Host Name | K? |
+| Lobby ID | 28531600456710638 |
+| Players | 1/5 |
+| Host Name | X |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 13:50:56 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600456590493 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:50:41 |
@@ -50,36 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600455163744 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:47:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600456065728 |
-| Players | 6/8 |
-| Host Name | Депутат свиней🫒 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 13:49:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600456514471 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:50:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600456535059 |
-| Players | 1/15 |
-| Host Name | A Nam khôn lên |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 13:50:33 |
 
 
