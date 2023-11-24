@@ -41,27 +41,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600600340335 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Lil Tortilla Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:09:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600601942714 |
-| Players | 6/24 |
-| Host Name | wadadadawdadawdad |
+| Lobby ID | 28531600602164763 |
+| Players | 2/15 |
+| Host Name | AKashi~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:11:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600601593079 |
-| Players | 6/8 |
-| Host Name | Winter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:10:49 |
+| Lobby Creation Time | Friday, November 24, 2023 18:11:39 |
 
 
