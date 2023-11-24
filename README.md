@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600687053007 |
+| Lobby ID | 28531600687438389 |
 | Players | 1/10 |
 | Host Name | ASSASSLN |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 19:51:59 |
+| Lobby Creation Time | Friday, November 24, 2023 19:52:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600687286063 |
+| Lobby ID | 28531600687459880 |
 | Players | 1/10 |
-| Host Name | 赤柱大飞唔识飞，净系识得打飞机 |
+| Host Name | < blank > |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:52:13 |
+| Lobby Creation Time | Friday, November 24, 2023 19:52:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:46:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600686657497 |
-| Players | 13/15 |
-| Host Name | givemegalnash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:51:35 |
+| Lobby ID | 28531600687305699 |
+| Players | 6/8 |
+| Host Name | Дима OilRIG |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:52:14 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600683497143 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:48:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600686791148 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Dlate |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:51:43 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | smn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:52:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600687301743 |
-| Players | 1/15 |
-| Host Name |  |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:52:14 |
 
 
