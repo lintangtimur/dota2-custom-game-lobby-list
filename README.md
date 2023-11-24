@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:29:33 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600542370517 |
-| Players | 8/10 |
-| Host Name | Strong Woman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:33:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600542361509 |
@@ -68,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600543809598 |
-| Players | 3/10 |
-| Host Name | tymba-ymba |
+| Players | 1/10 |
+| Host Name | ниGGадяй |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:36:18 |
 
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600543803311 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Okay |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:36:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600544278512 |
+| Players | 1/8 |
+| Host Name | Guitir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:37:07 |
 
 
