@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 17:57:51 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600600514622 |
-| Players | 7/10 |
-| Host Name | Eltnibs |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 18:09:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600573791344 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:27:57 |
@@ -49,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600601134542 |
-| Players | 2/8 |
-| Host Name | koks |
+| Lobby ID | 28531600601379540 |
+| Players | 3/8 |
+| Host Name | 容易[Ɐ] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:10:10 |
+| Lobby Creation Time | Friday, November 24, 2023 18:10:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600600340335 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Lil Tortilla Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 18:09:00 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600600216998 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | bob |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:08:49 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600600932439 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Kulebyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:09:52 |
@@ -92,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 18:08:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600600392081 |
-| Players | 14/15 |
-| Host Name | matinebm |
+| Lobby ID | 28531600601340276 |
+| Players | 1/8 |
+| Host Name | антибустер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 18:09:05 |
+| Lobby Creation Time | Friday, November 24, 2023 18:10:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600601593079 |
+| Players | 3/8 |
+| Host Name | Winter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 18:10:49 |
 
 
