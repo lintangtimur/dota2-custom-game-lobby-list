@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600373818611 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Tears Radar |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:41:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600374858919 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 10:44:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600368981872 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:30:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600373382272 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 10:40:34 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600375070817 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | camikaze |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:44:33 |
@@ -128,12 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 10:41:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600375050539 |
-| Players | 2/8 |
-| Host Name | hakari bailecito |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:44:30 |
+| Lobby ID | 28531600375344488 |
+| Players | 1/15 |
+| Host Name | Матвей Фаппер |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 10:45:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600375288194 |
+| Players | 3/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 10:45:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600375388902 |
+| Players | 1/15 |
+| Host Name | 雪豹闭嘴！ |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, November 24, 2023 10:45:18 |
 
 
