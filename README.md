@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600638333813 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Khay!!!!!!!!!! |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 18:58:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600639114377 |
-| Players | 1/15 |
-| Host Name | GG.Destroyer.WINLINE |
+| Lobby ID | 28531600639081065 |
+| Players | 1/8 |
+| Host Name | Menace2Society |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:59:52 |
+| Lobby Creation Time | Friday, November 24, 2023 18:59:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600629315920 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 18:47:45 |
@@ -59,18 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600638592999 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Вася Ковырялов |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 18:59:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600639081065 |
-| Players | 1/8 |
-| Host Name | Menace2Society |
+| Lobby ID | 28531600639241961 |
+| Players | 3/15 |
+| Host Name | GG.Destroyer.WINLINE |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 18:59:50 |
+| Lobby Creation Time | Friday, November 24, 2023 19:00:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600639343801 |
+| Players | 1/24 |
+| Host Name | จักรพรรดิ์ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 19:00:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600639404455 |
+| Players | 1/15 |
+| Host Name | 老夫宁死也要浪 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 24, 2023 19:00:14 |
 
 
