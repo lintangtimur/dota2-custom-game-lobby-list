@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600494674323 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Mr. Nobody |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 15:08:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600495291022 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Vitjkee** |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 15:09:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600495294188 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | berserk [hardwork54] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 15:09:49 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shackscraft |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 15:01:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600497014162 |
+| Players | 3/8 |
+| Host Name | Адмирал Atlant |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 15:13:10 |
 
 
