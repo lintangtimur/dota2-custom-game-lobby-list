@@ -11,19 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 16:54:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600555111512 |
-| Players | 12/15 |
-| Host Name | Hangi elinle baktın |
+| Lobby ID | 28531600555894914 |
+| Players | 3/5 |
+| Host Name | lul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 16:57:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600556172626 |
+| Players | 1/5 |
+| Host Name | Edkon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:56:06 |
+| Lobby Creation Time | Friday, November 24, 2023 16:57:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600554928516 |
+| Players | 6/8 |
+| Host Name | LetsDies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 16:55:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600555323840 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Sorry Marte |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:56:28 |
@@ -32,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600547516884 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 76561198203261364 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:42:51 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -50,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600555605502 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | po |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 16:56:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600554928516 |
-| Players | 2/8 |
-| Host Name | LetsDies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 16:55:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600552927441 |
-| Players | 23/24 |
-| Host Name | Gen" |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:52:17 |
+| Lobby ID | 28531600556055846 |
+| Players | 1/15 |
+| Host Name | F*CK_PUTIN |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 16:57:45 |
 
 
