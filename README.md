@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 09:01:25 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600333299593 |
+| Players | 1/5 |
+| Host Name | ------ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:06:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600156701188 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600329511543 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Sea ppl=dogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 08:56:22 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600332659474 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 09:04:37 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600332744943 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | MATA CABROS |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 24, 2023 09:04:50 |
@@ -68,18 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600331735719 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | rafzZ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 09:02:13 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600333200775 |
+| Players | 1/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 24, 2023 09:05:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600333189235 |
+| Players | 4/24 |
+| Host Name | Javicho |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 09:05:56 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600331764448 |
-| Players | 6/8 |
-| Host Name | Наташа два баша |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 09:02:18 |
+| Lobby ID | 28531600333228908 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 09:06:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600333285131 |
+| Players | 2/10 |
+| Host Name | tetsu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 09:06:10 |
 
 
