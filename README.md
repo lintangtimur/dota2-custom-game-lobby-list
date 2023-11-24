@@ -2,31 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531600374989916 |
-| Players | 5/7 |
-| Host Name | RYOGA |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 10:44:22 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600379935505 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 10:56:14 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531600379981255 |
-| Players | 1/7 |
-| Host Name | blackswordsman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 10:56:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600379828899 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Odiseo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 10:55:58 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600376957998 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 10:49:02 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600378445870 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | ☺ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 10:52:36 |
@@ -86,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600379610304 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Goga |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 10:55:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600380058981 |
+| Players | 6/15 |
+| Host Name | каловый вредитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:56:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600378609073 |
+| Players | 9/10 |
+| Host Name | EMANS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:53:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600379569668 |
-| Players | 19/24 |
-| Host Name | :$ |
+| Lobby ID | 28531600380158773 |
+| Players | 1/24 |
+| Host Name | γηΩσ/בר-אבא |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:55:20 |
+| Lobby Creation Time | Friday, November 24, 2023 10:56:46 |
 
 
