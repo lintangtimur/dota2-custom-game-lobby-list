@@ -2,13 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531600458849094 |
-| Players | 9/10 |
-| Host Name | ♥Miul♥ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:55:27 |
+| Lobby ID | 28531600460006225 |
+| Players | 1/5 |
+| Host Name | Csendi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 13:57:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600459755218 |
+| Players | 3/8 |
+| Host Name | John D. Rockefeller |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 13:57:22 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600457367173 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Yuta |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 13:52:19 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600459499370 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Android |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 24, 2023 13:56:50 |
@@ -50,27 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600459604982 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | TEEHEE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 13:57:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600458636277 |
-| Players | 9/10 |
-| Host Name | Zanzi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 13:55:01 |
+| Lobby ID | 28531600459731905 |
+| Players | 2/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:57:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600459679325 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | RYUK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:57:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600459909175 |
+| Players | 1/15 |
+| Host Name | Reddy |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 13:57:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600458636277 |
+| Players | 8/10 |
+| Host Name | Zanzi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 13:55:01 |
 
 
