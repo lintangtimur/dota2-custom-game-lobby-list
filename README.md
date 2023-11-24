@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600520896388 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Justin Yermouf |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 15:56:49 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | take my life |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 16:08:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600527216521 |
-| Players | 2/8 |
-| Host Name | popi |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 16:08:14 |
 
 
