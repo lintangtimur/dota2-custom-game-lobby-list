@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 23:08:13 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531600912166550 |
+| Players | 2/7 |
+| Host Name | Wootsie |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 24, 2023 23:09:25 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600910522751 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TU BBCITO PS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 23:07:50 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600912869269 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | satemaduragaming |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:10:06 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600910123927 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 23:07:27 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600911727806 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | .#confuse |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 23:08:59 |
@@ -126,5 +135,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Быдло Ебучее |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 23:10:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600913017111 |
+| Players | 5/10 |
+| Host Name | бос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 23:10:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600913036512 |
+| Players | 6/15 |
+| Host Name | Meowmαre |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 23:10:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600909022552 |
+| Players | 7/8 |
+| Host Name | DEPILATEE Y EMPAPATEE |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 23:06:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600913170154 |
+| Players | 1/8 |
+| Host Name | Сгрыз сковородку |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 23:10:24 |
 
 
