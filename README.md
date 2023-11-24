@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600357403838 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 10:03:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600358733889 |
+| Players | 1/10 |
+| Host Name | Uncle Frank |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 10:06:41 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600358225869 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ДЯДЯ ГЕНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 10:05:31 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 10:05:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600353342618 |
-| Players | 22/24 |
-| Host Name | cuenta para hueviar |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:54:14 |
+| Lobby ID | 28531600358588896 |
+| Players | 1/8 |
+| Host Name | Akudama Vail |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 10:06:21 |
 
 
 |  | ot3_gardens_duo |
@@ -67,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600357236277 |
-| Players | 13/15 |
-| Host Name | flocos |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 24, 2023 10:03:16 |
+| Lobby ID | 28531600358635566 |
+| Players | 7/15 |
+| Host Name | (Ø)nion |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:06:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600358564477 |
+| Lobby ID | 28531600358672001 |
 | Players | 1/10 |
-| Host Name | El Peke 3k |
+| Host Name | EL CORTA NALGAS |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 10:06:18 |
+| Lobby Creation Time | Friday, November 24, 2023 10:06:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600358724700 |
+| Players | 1/8 |
+| Host Name | ZAGREUS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 10:06:40 |
 
 
