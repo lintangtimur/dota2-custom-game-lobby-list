@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:17:15 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600442430707 |
+| Players | 1/10 |
+| Host Name | 年轻人不气盛叫年轻人吗 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:19:53 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600440725083 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 13:16:05 |
@@ -41,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600441380635 |
-| Players | 7/15 |
-| Host Name | ладно |
+| Players | 12/15 |
+| Host Name | Ебух Охлов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 13:17:33 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600439741517 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:13:53 |
@@ -59,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600441790949 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 13:18:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600440639273 |
-| Players | 2/8 |
-| Host Name | MaTa Quispes |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:15:53 |
+| Lobby ID | 28531600442250859 |
+| Players | 3/24 |
+| Host Name | Nonlinear operator |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 13:19:29 |
 
 
 |  | ot3_desert_octet |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ilose |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 13:19:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600442405211 |
+| Players | 6/8 |
+| Host Name | One day |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 13:19:49 |
 
 
