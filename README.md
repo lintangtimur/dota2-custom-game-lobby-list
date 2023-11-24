@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531600690654783 |
 | Players | 2/10 |
-| Host Name | ДревнийРус |
+| Host Name | Abril te extraño regresa :c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:55:33 |
 
@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:55:59 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531600693978582 |
+| Players | 3/7 |
+| Host Name | puniki |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 19:58:50 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600676264365 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:41:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600692527567 |
-| Players | 7/10 |
-| Host Name | Op |
+| Lobby ID | 28531600693017849 |
+| Players | 14/15 |
+| Host Name | ВлажDick |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:57:24 |
+| Lobby Creation Time | Friday, November 24, 2023 19:57:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600690160790 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:55:04 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600643357550 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Tom McGrady |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 24, 2023 19:05:03 |
@@ -74,48 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:30:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600693195797 |
-| Players | 1/24 |
-| Host Name | Default - X |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 19:58:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600691486457 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Meat Eye |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 19:56:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600692980744 |
-| Players | 5/8 |
-| Host Name | Menace2Society |
+| Lobby ID | 28531600693749133 |
+| Players | 6/10 |
+| Host Name | (ELLAS)elinaras |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:57:51 |
+| Lobby Creation Time | Friday, November 24, 2023 19:58:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600693017849 |
-| Players | 2/15 |
-| Host Name | ВлажDick |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:57:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600693123386 |
-| Players | 3/8 |
-| Host Name | winwinwin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:58:00 |
+| Lobby ID | 28531600693965122 |
+| Players | 1/15 |
+| Host Name | Rooster! |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 19:58:49 |
 
 
