@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600453853130 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:44:52 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600452468013 |
-| Players | 14/15 |
-| Host Name | 2hero |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 13:41:52 |
+| Lobby ID | 28531600453439875 |
+| Players | 2/15 |
+| Host Name | Isacc Fosther |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 13:43:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:43:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600453439875 |
-| Players | 2/15 |
-| Host Name | Isacc Fosther |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:43:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600453609999 |
-| Players | 1/8 |
+| Lobby ID | 28531600454052409 |
+| Players | 2/8 |
 | Host Name | HappyAlways |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 13:44:21 |
+| Lobby Creation Time | Friday, November 24, 2023 13:45:18 |
 
 
