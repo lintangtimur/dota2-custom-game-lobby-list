@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600536003059 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Monkey Queen |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:22:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600529674824 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:12:26 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DzhuZo |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 16:23:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600534723736 |
-| Players | 23/24 |
-| Host Name | Saint |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 16:20:20 |
 
 
