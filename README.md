@@ -2,6 +2,24 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600452338499 |
+| Players | 6/10 |
+| Host Name | 啤酒贩卖机 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:41:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600448779314 |
+| Players | 9/10 |
+| Host Name | mybiiru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 13:33:52 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600448723285 |
@@ -11,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 13:33:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600449160645 |
-| Players | 8/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 13:34:42 |
+| Lobby ID | 28531600450945090 |
+| Players | 7/15 |
+| Host Name | Wiiiii :3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 13:38:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600449706836 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 13:35:53 |
@@ -40,37 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600450916488 |
-| Players | 14/15 |
-| Host Name | AlexUNDER |
+| Lobby ID | 28531600452468013 |
+| Players | 1/15 |
+| Host Name | CEO говна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 13:38:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600450945090 |
-| Players | 7/15 |
-| Host Name | Wiiiii :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:38:35 |
-
-
-|  | dota_summer |
-| ------ | ------ |
-| Lobby ID | 28531600451655110 |
-| Players | 1/10 |
-| Host Name | ♠♂§↨Pizza Steve ↨§♂ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 13:40:06 |
+| Lobby Creation Time | Friday, November 24, 2023 13:41:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600452159896 |
-| Players | 3/8 |
-| Host Name | RANGER:AZUL/godota2.com |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 13:41:11 |
+| Lobby ID | 28531600452426343 |
+| Players | 7/8 |
+| Host Name | сгораю毒 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 13:41:47 |
 
 
