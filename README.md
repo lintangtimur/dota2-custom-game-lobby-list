@@ -22,29 +22,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600861685514 |
-| Players | 7/10 |
-| Host Name | 山上徹也 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 22:23:26 |
+| Lobby ID | 28531600863305496 |
+| Players | 1/10 |
+| Host Name | IpSeter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531600863415282 |
+| Players | 1/5 |
+| Host Name | Ala干净又卫生 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600863057419 |
+| Players | 2/15 |
+| Host Name | Artoozy |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600860952124 |
-| Players | 7/8 |
-| Host Name | slipknotik |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 22:22:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600862579931 |
-| Players | 5/10 |
-| Host Name | Auswählen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 22:24:13 |
+| Lobby ID | 28531600862618050 |
+| Players | 2/8 |
+| Host Name | Паша Ишакотрах |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:15 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600862378744 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 【༺𒋲✶...LombriS...✶༺ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 24, 2023 22:24:02 |
@@ -77,34 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600860293688 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Yafa |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 22:22:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600862716853 |
-| Players | 2/10 |
-| Host Name | РАБМЕН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 22:24:20 |
+| Lobby ID | 28531600860650919 |
+| Players | 6/15 |
+| Host Name | Хлыст топ1000ммр |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 22:22:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600862775369 |
-| Players | 1/15 |
-| Host Name | Storm Shadow |
+| Lobby ID | 28531600862744977 |
+| Players | 3/15 |
+| Host Name | Cладкая булка |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 22:24:23 |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600859317804 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Merc |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 24, 2023 22:21:23 |
@@ -122,18 +131,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600861505217 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Fakar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 22:23:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600863145928 |
+| Players | 2/10 |
+| Host Name | 外面不冷 但里面 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600862744977 |
-| Players | 4/15 |
-| Host Name | Chien2rue |
+| Lobby ID | 28531600862880700 |
+| Players | 1/15 |
+| Host Name | PESOCHEK |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600862940815 |
+| Players | 1/15 |
+| Host Name | All mute) |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600862982981 |
+| Players | 1/15 |
+| Host Name | Gandon |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, November 24, 2023 22:24:22 |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531600863065381 |
+| Players | 5/10 |
+| Host Name | Cago |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600863063351 |
+| Players | 9/15 |
+| Host Name | artdss |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 22:24:38 |
 
 
