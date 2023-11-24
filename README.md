@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600962608918 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 00:00:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531600964088859 |
+| Players | 1/10 |
+| Host Name | Thin.King |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 00:02:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600963119402 |
-| Players | 4/24 |
+| Players | 11/24 |
 | Host Name | Wukash |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 00:01:10 |
@@ -41,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600961986263 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Weganerd |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 23:59:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600962545812 |
-| Players | 4/8 |
-| Host Name | Only I am worthy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 00:00:34 |
+| Lobby ID | 28531600963800077 |
+| Players | 6/10 |
+| Host Name | ОпсТима |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 00:01:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600963636259 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Sgt Struthers |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 00:01:42 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600963334275 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ais |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 00:01:23 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600957814993 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Alfred |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 24, 2023 23:55:35 |
@@ -104,36 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600960093300 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | .,. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 23:57:59 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600963800077 |
-| Players | 1/10 |
-| Host Name | ОпсТима |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 00:01:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600963835241 |
-| Players | 2/8 |
-| Host Name | felber |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 00:01:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600963836123 |
-| Players | 2/8 |
-| Host Name | hopeless☬市anti social市☬ |
+| Lobby ID | 28531600963962356 |
+| Players | 5/8 |
+| Host Name | лютая тапочка |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 00:01:54 |
+| Lobby Creation Time | Saturday, November 25, 2023 00:02:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600963709419 |
+| Players | 1/8 |
+| Host Name | Mali |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 00:01:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600964179917 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 00:02:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600964189539 |
+| Players | 6/8 |
+| Host Name | пикну рики |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 00:02:17 |
 
 
