@@ -14,25 +14,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600676766849 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Konyiirou |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:41:33 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600677436922 |
-| Players | 1/5 |
-| Host Name | William Herrington |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:42:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600676787063 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | V Λ C U U M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 19:41:35 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600676966689 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Regnezit |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:41:46 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600676012631 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | еблантус |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:40:47 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600673932578 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Asmoder |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 19:38:41 |
@@ -128,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:40:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600676955732 |
-| Players | 1/15 |
-| Host Name | Why So Ez? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:41:45 |
+| Lobby ID | 28531600677560572 |
+| Players | 4/10 |
+| Host Name | барамбек |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:42:22 |
 
 
