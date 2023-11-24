@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600666221367 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | OQ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 19:30:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600666428221 |
-| Players | 4/8 |
-| Host Name | colder than corpse |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 19:30:58 |
+| Lobby ID | 28531600666403818 |
+| Players | 4/24 |
+| Host Name | Satan |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:30:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600666403818 |
-| Players | 4/24 |
-| Host Name | Satan |
-| Region | INDIA |
-| Lobby Creation Time | Friday, November 24, 2023 19:30:56 |
+| Lobby ID | 28531600666909567 |
+| Players | 6/8 |
+| Host Name | Ҝ尺乇丂ㄒ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 19:31:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531600666954651 |
+| Players | 1/8 |
+| Host Name | SpForce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:31:31 |
 
 
