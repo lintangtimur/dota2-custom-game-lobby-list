@@ -4,20 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531600687438389 |
-| Players | 1/10 |
-| Host Name | ASSASSLN |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 19:52:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531600687459880 |
-| Players | 1/10 |
-| Host Name | < blank > |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:52:23 |
+| Lobby ID | 28531600687587320 |
+| Players | 6/10 |
+| Host Name | Mистер Роябот Абд |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 19:52:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 19:46:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600687305699 |
-| Players | 6/8 |
-| Host Name | Дима OilRIG |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:52:14 |
+| Lobby ID | 28531600687498879 |
+| Players | 11/15 |
+| Host Name | Sm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 19:52:25 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600683497143 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 19:48:24 |
@@ -95,27 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600686888842 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | gokirus |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 19:51:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600686791148 |
-| Players | 6/10 |
-| Host Name | Dlate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 19:51:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600687229696 |
+| Lobby ID | 28531600687841874 |
 | Players | 4/8 |
-| Host Name | smn |
+| Host Name | New_Tonn |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 19:52:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531600686657497 |
+| Players | 14/15 |
+| Host Name | givemegalnash |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 19:52:09 |
+| Lobby Creation Time | Friday, November 24, 2023 19:51:35 |
 
 
