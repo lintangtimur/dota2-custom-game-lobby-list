@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600585954783 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Sam Likes Stuff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 17:47:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600590256251 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Сиделыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 17:54:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600590163063 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SHADOWANTUZ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:53:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600571608312 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:24:20 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600590320509 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Alkatras |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 17:54:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531600588332448 |
+| Players | 23/24 |
+| Host Name | NNNNNNNNNNNNNN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 24, 2023 17:51:05 |
 
 
