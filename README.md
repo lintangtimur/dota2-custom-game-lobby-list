@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600334503246 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 09:09:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600307617170 |
-| Players | 1/24 |
-| Host Name | NEWBIE007 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 08:00:02 |
+| Lobby ID | 28531600334868442 |
+| Players | 13/15 |
+| Host Name | Yello |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 24, 2023 09:10:08 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 06:53:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600334593908 |
-| Players | 1/15 |
-| Host Name | Yaga |
+| Lobby ID | 28531600334867181 |
+| Players | 1/10 |
+| Host Name | merenge |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:09:27 |
+| Lobby Creation Time | Friday, November 24, 2023 09:10:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600334659028 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | aruna |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 09:09:37 |
@@ -83,57 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 09:05:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531600334595626 |
-| Players | 3/8 |
-| Host Name | RICOLAAAAAAAS!!! |
+| Lobby ID | 28531600334939252 |
+| Players | 3/15 |
+| Host Name | BEIBISOR |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:09:27 |
+| Lobby Creation Time | Friday, November 24, 2023 09:10:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600334607315 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | AQUINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 09:09:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600332659474 |
-| Players | 13/15 |
-| Host Name | aWarDeeee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 09:04:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600334867181 |
-| Players | 1/10 |
-| Host Name | merenge |
+| Lobby ID | 28531600335087806 |
+| Players | 4/8 |
+| Host Name | RICOLAAAAAAAS!!! |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:10:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600334868442 |
-| Players | 6/15 |
-| Host Name | Yello |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 24, 2023 09:10:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600334939252 |
-| Players | 1/15 |
-| Host Name | BEIBISOR |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 09:10:19 |
+| Lobby Creation Time | Friday, November 24, 2023 09:10:41 |
 
 
