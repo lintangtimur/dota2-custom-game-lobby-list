@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600488796978 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | NightBoomer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:56:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600488599177 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Жириновский.В.В |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:56:28 |
@@ -50,26 +50,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600487983457 |
-| Players | 2/15 |
-| Host Name | ViggleH |
+| Players | 1/15 |
+| Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:55:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531600487122465 |
-| Players | 18/24 |
-| Host Name | Autumn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 24, 2023 14:53:31 |
+| Lobby ID | 28531600489124977 |
+| Players | 5/10 |
+| Host Name | ็ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 24, 2023 14:57:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600484708731 |
-| Players | 19/24 |
-| Host Name | Almond Butter Honey |
+| Players | 5/24 |
+| Host Name | TwentyOne |
 | Region | INDIA |
 | Lobby Creation Time | Friday, November 24, 2023 14:48:38 |
 
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:53:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600488845306 |
-| Players | 7/8 |
-| Host Name | немного умею играть\ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:56:57 |
+| Lobby ID | 28531600489261813 |
+| Players | 1/24 |
+| Host Name | Meh |
+| Region | INDIA |
+| Lobby Creation Time | Friday, November 24, 2023 14:57:47 |
 
 
