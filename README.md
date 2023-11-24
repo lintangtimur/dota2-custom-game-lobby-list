@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531600420980967 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 12:31:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600421205844 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:31:42 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 12:35:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600422952488 |
-| Players | 5/10 |
-| Host Name | ❤️ur bfs fav dj ❤ |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 24, 2023 12:35:37 |
+| Lobby ID | 28531600423058495 |
+| Players | 1/24 |
+| Host Name | Morgangiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 24, 2023 12:35:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jacksito <3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 12:35:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531600423058495 |
-| Players | 1/24 |
-| Host Name | Morgangiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 12:35:52 |
 
 
