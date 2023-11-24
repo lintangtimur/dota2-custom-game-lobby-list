@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:30:38 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531600478388926 |
-| Players | 1/5 |
-| Host Name | POS 2 UN FID |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 14:35:52 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600476326636 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600461093123 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 24, 2023 14:00:13 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600478200474 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Pitoooooooooon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 14:35:29 |
@@ -83,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:33:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600476462013 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 24, 2023 14:31:57 |
+| Lobby ID | 28531600478402225 |
+| Players | 2/8 |
+| Host Name | UltimateVegas |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 24, 2023 14:35:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600477300328 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 14:33:40 |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 14:35:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531600478402225 |
-| Players | 1/8 |
-| Host Name | UltimateVegas |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 14:35:54 |
+| Lobby ID | 28531600478583152 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 24, 2023 14:36:15 |
 
 
