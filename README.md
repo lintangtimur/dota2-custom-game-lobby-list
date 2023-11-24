@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531600712827788 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Medved |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:16:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600696825872 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 20:01:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600697718676 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:02:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600712470368 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | ArA WAIWAI |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 24, 2023 20:16:08 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600711350657 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Saturnus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 24, 2023 20:15:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531600712698563 |
-| Players | 4/10 |
-| Host Name | ++ its trash |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:16:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,32 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 20:14:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531600711165813 |
-| Players | 15/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 20:14:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600712287817 |
-| Players | 6/8 |
-| Host Name | Шарій killing spree |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:15:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600713078813 |
-| Players | 3/8 |
-| Host Name | Dimanka13__ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 24, 2023 20:16:42 |
 
 
