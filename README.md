@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 24, 2023 11:00:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531600396235914 |
-| Players | 2/24 |
-| Host Name | BAGREZUKO |
+| Lobby ID | 28531600397231536 |
+| Players | 7/8 |
+| Host Name | arias |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:35:07 |
+| Lobby Creation Time | Friday, November 24, 2023 11:37:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600396292626 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 24, 2023 11:35:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531600395346026 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | null |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 24, 2023 11:33:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600394474742 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | El Peluca |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:31:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531600396239437 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | CHUPE DE CONCHAS NEGRAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:35:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531600397155868 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Lower |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:37:13 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531600395460617 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 24, 2023 11:33:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600396309471 |
-| Players | 7/8 |
-| Host Name | SEDMin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 24, 2023 11:35:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531600397231536 |
-| Players | 6/8 |
-| Host Name | arias |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 24, 2023 11:37:24 |
 
 
 |  | ot3_jungle_quintet |
