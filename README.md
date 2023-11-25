@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:03:55 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602337391343 |
-| Players | 1/10 |
-| Host Name | MyriPlay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:08:39 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602336289566 |
@@ -32,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602332576037 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:01:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602337654776 |
-| Players | 1/10 |
-| Host Name | _SOULS:)_ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 05:09:03 |
+| Lobby ID | 28531602337635973 |
+| Players | 6/15 |
+| Host Name | Ez Go |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:09:01 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:07:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602337473103 |
-| Players | 10/15 |
-| Host Name | Тайно Дёргал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:08:47 |
+| Lobby ID | 28531602337636941 |
+| Players | 2/8 |
+| Host Name | Celine |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:09:01 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602337251582 |
-| Players | 8/10 |
-| Host Name | Tonpoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:08:27 |
+| Lobby ID | 28531602337327221 |
+| Players | 1/8 |
+| Host Name | ¿? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:08:34 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602337315107 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | DarkZAI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:08:32 |
@@ -113,45 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602337420712 |
-| Players | 4/8 |
-| Host Name | 🅻🅾󠁳⁧⁧🆂🆃 |
+| Players | 2/8 |
+| Host Name | Gliknot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:08:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602337327221 |
+| Lobby ID | 28531602334559227 |
 | Players | 1/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:08:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602337636941 |
-| Players | 1/8 |
-| Host Name | Celine |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:09:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602337635973 |
-| Players | 2/15 |
-| Host Name | Ez Go |
+| Host Name | SMOrc Dankievich |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:09:01 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:04:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602326614062 |
 | Players | 23/24 |
-| Host Name | ♥CaT♥ |
+| Host Name | -.DrimacheY.- ҈҉҈҉ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:52:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602337821181 |
+| Players | 1/10 |
+| Host Name | GhosTNeal |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:09:18 |
 
 
