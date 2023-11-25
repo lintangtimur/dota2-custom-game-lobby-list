@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:23:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601404519415 |
+| Players | 1/10 |
+| Host Name | Hao |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:24:42 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601404384914 |
-| Players | 21/24 |
-| Host Name | no masteries |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:24:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601404015917 |
-| Players | 7/8 |
-| Host Name | PENE  NEGRO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:23:42 |
+| Lobby ID | 28531601405091327 |
+| Players | 4/24 |
+| Host Name | 브라이언 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:25:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POPSON(Podpivasgaming)Гойда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:25:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601404519415 |
-| Players | 1/10 |
-| Host Name | Hao |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:24:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601405091327 |
-| Players | 3/24 |
-| Host Name | 브라이언 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:25:52 |
 
 
