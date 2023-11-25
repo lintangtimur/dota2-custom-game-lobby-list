@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601527141254 |
-| Players | 9/10 |
-| Host Name | Abominigatious |
+| Lobby ID | 28531601527888523 |
+| Players | 4/10 |
+| Host Name | Тяги бархатные |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:51:38 |
+| Lobby Creation Time | Saturday, November 25, 2023 14:52:43 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601527085895 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Dua Lipa & Halsey <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:51:33 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601526890327 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:51:17 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601526829150 |
-| Players | 15/24 |
-| Host Name | CUM GAMING |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:51:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601527267141 |
-| Players | 5/15 |
-| Host Name | ♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:51:49 |
+| Lobby ID | 28531601528018504 |
+| Players | 1/15 |
+| Host Name | Zero |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:52:55 |
 
 
