@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601984563553 |
-| Players | 1/7 |
-| Host Name | R4gnar |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 22:44:12 |
+| Lobby ID | 28531601990620462 |
+| Players | 2/10 |
+| Host Name | WhiteSky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:49:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601985327621 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | InDiGo |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 22:44:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601989919905 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:48:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601990453177 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ARROW |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:49:16 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:45:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601989954828 |
-| Players | 14/15 |
-| Host Name | snaip |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:48:50 |
+| Lobby ID | 28531601990105103 |
+| Players | 1/24 |
+| Host Name | Jeti |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:48:58 |
 
 
 |  | ot3_desert_octet |
@@ -140,18 +140,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601986775730 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SStiil |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:46:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601990647181 |
+| Players | 7/15 |
+| Host Name | HellRot4 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:49:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601988963397 |
+| Players | 2/8 |
+| Host Name | ULTRA.SMooTH |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:47:59 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601990105103 |
+| Lobby ID | 28531601990724905 |
 | Players | 1/24 |
-| Host Name | Jeti |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:48:58 |
+| Host Name | Frozenmilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:49:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601990773099 |
+| Players | 1/24 |
+| Host Name | 青衣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:49:32 |
 
 
