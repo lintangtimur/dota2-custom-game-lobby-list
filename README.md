@@ -5,25 +5,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602103765688 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Pora |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 00:38:09 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602103883212 |
-| Players | 1/5 |
-| Host Name | Урсалочка |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 00:38:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602103493730 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | PIMPERnell92 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 00:37:53 |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:51:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602100180808 |
-| Players | 9/10 |
-| Host Name | Avena 3 ositos |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 00:34:36 |
+| Lobby ID | 28531602103580466 |
+| Players | 4/8 |
+| Host Name | AKHMAT-1 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 00:37:58 |
 
 
 |  | ot3_desert_octet |
@@ -74,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:36:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602103467131 |
-| Players | 4/8 |
-| Host Name | d.VOMURT |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 26, 2023 00:37:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602099044957 |
-| Players | 17/24 |
-| Host Name | Члены? Пробовал с; |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:33:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602103700619 |
-| Players | 8/15 |
-| Host Name | Yuki |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:38:05 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602102175273 |
@@ -110,12 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:36:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602099044957 |
+| Players | 21/24 |
+| Host Name | Члены? Пробовал с; |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 00:33:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602104123470 |
+| Players | 1/10 |
+| Host Name | <3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 00:38:30 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602103580466 |
-| Players | 5/8 |
-| Host Name | AKHMAT-1 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 00:37:58 |
+| Lobby ID | 28531602104072138 |
+| Players | 1/8 |
+| Host Name | WHAT XUXA FUE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 00:38:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602104119288 |
+| Players | 2/10 |
+| Host Name | рыан гослинг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 00:38:30 |
 
 
