@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:28:45 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601351540658 |
+| Players | 1/5 |
+| Host Name | O tal do Dennis |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 09:37:39 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601350805490 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601349350858 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | スベン　スヌスベルぐ : |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:33:07 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601351392799 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | тише |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:21 |
@@ -95,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350642107 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601345907078 |
+| Players | 23/24 |
+| Host Name | -Voxz- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:25:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601351491644 |
+| Players | 1/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:37:33 |
 
 
