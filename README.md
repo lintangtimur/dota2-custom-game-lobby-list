@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601706884828 |
-| Players | 9/10 |
-| Host Name | 11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:43:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601706422272 |
 | Players | 2/10 |
 | Host Name | Calabreso |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601708317145 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:45:26 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601705945718 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 18:42:54 |
@@ -77,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601707212413 |
-| Players | 6/15 |
-| Host Name | WeshleY |
+| Players | 5/15 |
+| Host Name | Kyno |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:44:15 |
 
@@ -92,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:42:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601708267793 |
-| Players | 6/15 |
-| Host Name | Quality |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:45:23 |
+| Lobby ID | 28531601708711823 |
+| Players | 1/8 |
+| Host Name | HELP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:45:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601708003999 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | I4anti |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:45:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601708512407 |
-| Players | 1/24 |
-| Host Name | Serrito |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:45:38 |
 
 
