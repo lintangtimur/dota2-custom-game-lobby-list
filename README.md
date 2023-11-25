@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601345150608 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342383419 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | JEANNE D'ARC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601346025494 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601345976181 |
-| Players | 6/8 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Players | 5/8 |
+| Host Name | Alpi el VERSATIL.i.peladaarmy.i. |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:02 |
 
