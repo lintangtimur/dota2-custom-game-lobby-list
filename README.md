@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601417353956 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Satella- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:49:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601411377502 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601417952798 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Yakzuby | Neoxa |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:50:55 |
@@ -72,5 +72,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wil_TY_p0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:51:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601418189744 |
+| Players | 1/15 |
+| Host Name | GG.Ace♠GAIMIN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:51:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601418205789 |
+| Players | 4/15 |
+| Host Name | one way player interaction |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:51:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601418221904 |
+| Players | 6/8 |
+| Host Name | Zoé |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:51:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601418238695 |
+| Players | 5/8 |
+| Host Name | beligol |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 11:51:27 |
 
 
