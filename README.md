@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601341306578 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:03 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601341102774 |
-| Players | 2/8 |
-| Host Name | Жека Тяга |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:15:37 |
+| Lobby ID | 28531601340252267 |
+| Players | 3/8 |
+| Host Name | Guts |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:13:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601340252267 |
-| Players | 3/8 |
-| Host Name | Guts |
+| Lobby ID | 28531601341472679 |
+| Players | 1/24 |
+| Host Name | NIX fury |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:13:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601340231953 |
-| Players | 8/15 |
-| Host Name | Czar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:13:43 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:25 |
 
 
