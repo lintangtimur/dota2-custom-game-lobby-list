@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601729419710 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | ID : T41104 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:07:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601730732598 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | antidepressant |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:08:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601729623601 |
-| Players | 7/8 |
-| Host Name | уничтожитель Вла |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:42 |
+| Lobby ID | 28531601731162107 |
+| Players | 6/15 |
+| Host Name | Ilya_nator667 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 19:09:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:08:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601731118909 |
-| Players | 1/10 |
-| Host Name | #14 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 19:09:14 |
+| Lobby ID | 28531601731240156 |
+| Players | 4/8 |
+| Host Name | SqiT |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:09:22 |
 
 
 |  | ot3_desert_octet |
@@ -128,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:09:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601731162107 |
-| Players | 1/15 |
-| Host Name | Ilya_nator667 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 19:09:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601731175947 |
-| Players | 6/8 |
+| Lobby ID | 28531601731356017 |
+| Players | 6/10 |
 | Host Name | なんで春日影やったの!! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:09:18 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:09:29 |
 
 
