@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601487804861 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601487434249 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Chris |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601485781087 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | IO 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:34 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601488673939 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | hiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:54:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601488578098 |
-| Players | 2/10 |
-| Host Name | Sex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:53:57 |
+| Lobby ID | 28531601488369847 |
+| Players | 1/24 |
+| Host Name | 林 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:53:38 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601488202025 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | !Jamata |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:53:22 |
@@ -119,21 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:53:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601488369847 |
-| Players | 1/24 |
-| Host Name | 林 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:53:38 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601488520202 |
-| Players | 6/8 |
-| Host Name | COSMO EL GATO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:53:52 |
+| Lobby ID | 28531601488856317 |
+| Players | 1/8 |
+| Host Name | Твой папочка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:54:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601488906828 |
+| Players | 2/10 |
+| Host Name | Sex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:54:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601488922009 |
+| Players | 1/15 |
+| Host Name | Jiren- |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 13:54:29 |
 
 
