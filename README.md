@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601540090656 |
 | Players | 2/10 |
-| Host Name | Lamar |
+| Host Name | lnscribed virtus werebear |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:10:08 |
 
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Loohe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:52 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601541910005 |
-| Players | 1/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:12:39 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601541279115 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | [SG] ACID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:11:47 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601542825866 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Rap Божий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:54 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601535568514 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | FranCK |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 15:03:44 |
