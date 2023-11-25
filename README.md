@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601419461763 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:47 |
@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:29 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601424282818 |
+| Players | 1/10 |
+| Host Name | Kloutz |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 12:03:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601422546377 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Nomore |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 11:59:41 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601422671574 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:59:56 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601421912314 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | AndreXD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:58:28 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601423968065 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:26 |
@@ -76,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601424017335 |
-| Players | 2/10 |
-| Host Name | Massively Armor Unit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:02:31 |
+| Lobby ID | 28531601424122715 |
+| Players | 1/10 |
+| Host Name | ShaV |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:02:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601424074539 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Evi1Radiance |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:38 |
