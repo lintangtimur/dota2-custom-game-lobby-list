@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602147363661 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BUDDHA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:21:53 |
@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602147180270 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | {SoA}Fantom |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:21:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602147544260 |
+| Players | 1/10 |
+| Host Name | eLmmmmmo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:22:04 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:19:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602146596125 |
-| Players | 7/8 |
-| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:21:05 |
+| Lobby ID | 28531602147686514 |
+| Players | 1/15 |
+| Host Name | БАСАНОЖКИ |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 01:22:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602147008516 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | _unnamed |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:21:31 |
@@ -92,30 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:20:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602147313273 |
-| Players | 6/15 |
-| Host Name | dope nineteen |
+| Lobby ID | 28531602147664903 |
+| Players | 5/8 |
+| Host Name | Cago |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:21:50 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:22:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602147501326 |
-| Players | 1/24 |
-| Host Name | romchyg |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 01:22:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602144241888 |
-| Players | 8/10 |
-| Host Name | КYRКА❤❤❤❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:37 |
+| Lobby ID | 28531602145159176 |
+| Players | 23/24 |
+| Host Name | Interpol |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:35 |
 
 
