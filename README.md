@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:41:48 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601910126492 |
-| Players | 3/5 |
-| Host Name | Chill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:43:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601910094171 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601910158425 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Кашак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:43:13 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601896906681 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 21:32:42 |
@@ -139,17 +130,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601909669578 |
-| Players | 4/8 |
-| Host Name | Ferguson♥ |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 21:42:49 |
+| Lobby ID | 28531601910245137 |
+| Players | 2/8 |
+| Host Name | tv/Lexaofficial |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:43:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601909923516 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 撒但 |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 21:43:02 |
@@ -162,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Долик Полсен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:43:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601910210474 |
+| Players | 5/10 |
+| Host Name | Илюня |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:43:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601910423169 |
+| Players | 2/10 |
+| Host Name | мс клитор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:43:26 |
 
 
