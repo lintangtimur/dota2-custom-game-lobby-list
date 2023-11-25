@@ -29,11 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:28:45 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531601351925657 |
+| Players | 1/7 |
+| Host Name | O tal do Dennis |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 09:38:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601350805490 |
 | Players | 2/8 |
-| Host Name | Kabir |
+| Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:09 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601351567427 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Elke mecacha |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:42 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601351392799 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | тише |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:21 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601351200603 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 为毛？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:58 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350642107 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:48 |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | スベン　スヌスベルぐ : |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:33:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601351954392 |
+| Players | 3/10 |
+| Host Name | HaVoC |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:38:31 |
 
 
