@@ -5,16 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601540090656 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | lnscribed virtus werebear |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:10:08 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601548021172 |
+| Players | 2/10 |
+| Host Name | ASSASSLN |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 15:21:04 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601546523189 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:19:02 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601546360643 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Moccio 希望 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:48 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601547567797 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 18 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:20:27 |
