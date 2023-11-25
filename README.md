@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:26:43 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601553017311 |
+| Players | 1/10 |
+| Host Name | 张娃的标志 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:27:55 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601552621124 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | это там белочка? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:27:22 |
@@ -47,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:26:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601551607525 |
-| Players | 13/15 |
-| Host Name | W3!rD0 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:25:59 |
+| Lobby ID | 28531601551959046 |
+| Players | 9/10 |
+| Host Name | ЛОУ ПОРЯДА КИНГ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:26:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601550545014 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Экинуй Сенгаี้ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:24:32 |
@@ -76,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601551959046 |
-| Players | 5/10 |
-| Host Name | ЛОУ ПОРЯДА КИНГ |
+| Lobby ID | 28531601553209557 |
+| Players | 2/10 |
+| Host Name | KisKA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:26:28 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:28:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601553262178 |
+| Players | 1/24 |
+| Host Name | Keal Kneegus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:28:15 |
 
 
