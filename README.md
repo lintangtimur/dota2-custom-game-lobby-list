@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601780330528 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 猫山王 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:55:55 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601775579912 |
-| Players | 22/24 |
-| Host Name | Fabian! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:51:35 |
+| Lobby ID | 28531601781506717 |
+| Players | 3/8 |
+| Host Name | TrampoSenpai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:56:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601760944487 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | ElTioSad |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:38:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601737531158 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | YA |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 19:15:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601778427637 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | ʀᴏᴍᴀɴᴇᴇᴅ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 19:54:11 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601781100372 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ПУЗОКАРЛИКА 2011 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:56:37 |
@@ -139,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601781506717 |
-| Players | 2/8 |
-| Host Name | TrampoSenpai |
+| Lobby ID | 28531601781923597 |
+| Players | 1/8 |
+| Host Name | TSpirit.YATORO雨.1XBET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:56:59 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:57:22 |
 
 
