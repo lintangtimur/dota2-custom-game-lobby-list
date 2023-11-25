@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601470299012 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 001012fer |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:24:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601470676000 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Panda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:25:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601468466637 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | RonnieDaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:21:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601464303971 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | AntDX316 |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:14:32 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:25:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601472477247 |
-| Players | 1/8 |
-| Host Name | イプシー |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:28:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601471817066 |
-| Players | 5/15 |
-| Host Name | Tioshadow |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:27:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601472318807 |
@@ -99,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:27:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601471817066 |
+| Players | 6/15 |
+| Host Name | Tioshadow |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 13:27:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601472652061 |
+| Players | 1/8 |
+| Host Name | イプシー |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:28:27 |
 
 
