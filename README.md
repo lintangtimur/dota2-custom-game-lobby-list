@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601504930805 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601506563788 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | XØ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:21:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601507121051 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Düt Düt |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601507203923 |
+| Players | 7/8 |
+| Host Name | Reaper of Mars |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:22:23 |
 
 
