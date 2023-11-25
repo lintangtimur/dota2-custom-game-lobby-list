@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601892067523 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:28:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601892315737 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | Быдло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:29:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601889649477 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | HaNÐ øf GøÐ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 21:26:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Andresx1x |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:28:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601892505461 |
-| Players | 6/8 |
-| Host Name | бурёнка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:29:10 |
+| Lobby ID | 28531601876479844 |
+| Players | 23/24 |
+| Host Name | 『 　　    』 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 21:16:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601892121345 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | -ILYSM- |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 21:28:51 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601883963605 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 21:22:16 |
@@ -164,39 +164,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:26:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601893376646 |
+| Players | 2/8 |
+| Host Name | Повелитель леса |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:29:52 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601892087057 |
-| Players | 13/15 |
-| Host Name | Cipiripi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:28:49 |
+| Lobby ID | 28531601893206293 |
+| Players | 1/15 |
+| Host Name | Tales |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:29:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601893238989 |
+| Players | 5/10 |
+| Host Name | ESPORT |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:29:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601893335417 |
+| Players | 4/15 |
+| Host Name | lyralei |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:29:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601892381677 |
-| Players | 2/8 |
-| Host Name | OG Пыча |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 21:29:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601892999326 |
-| Players | 1/10 |
-| Host Name | ŽumA |
+| Lobby ID | 28531601893511908 |
+| Players | 1/8 |
+| Host Name | ドリーマー |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:29:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601893003383 |
-| Players | 2/10 |
-| Host Name | Atlant |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:29:34 |
+| Lobby Creation Time | Saturday, November 25, 2023 21:29:58 |
 
 
