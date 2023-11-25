@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602292883299 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sir Bob |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:06:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602293485021 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:07:45 |
@@ -119,30 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:05:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602293430840 |
-| Players | 6/8 |
-| Host Name | был внутри адлета |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:07:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602293635972 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Ataman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:07:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602293856483 |
-| Players | 1/24 |
-| Host Name | Cerdito Puta |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 04:08:13 |
+| Lobby ID | 28531602294009949 |
+| Players | 1/8 |
+| Host Name | Poseidon |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 04:08:25 |
 
 
