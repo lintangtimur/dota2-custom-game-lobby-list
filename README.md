@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601509562381 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Мr_Fаx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:25:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601510132913 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:26:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601504541300 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:18:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601507121051 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601509035291 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Horny ??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:25:06 |
