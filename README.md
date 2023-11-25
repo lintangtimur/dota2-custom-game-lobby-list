@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601555210216 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | # |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:53 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601554630192 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601553754105 |
-| Players | 3/8 |
-| Host Name | DEM20111102 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:28:55 |
+| Lobby ID | 28531601555194401 |
+| Players | 12/24 |
+| Host Name | Winter Night |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:30:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601555194401 |
-| Players | 8/24 |
-| Host Name | Winter Night |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:30:52 |
 
 
