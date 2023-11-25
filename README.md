@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601620943931 |
-| Players | 6/10 |
-| Host Name | Iku |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 16:59:30 |
+| Lobby ID | 28531601621559536 |
+| Players | 1/5 |
+| Host Name | 5лет строгача в лп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:00:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601621389122 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | topi_2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:00:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | bs |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601621297783 |
-| Players | 1/8 |
-| Host Name | DullBoyEp |
+| Lobby ID | 28531601621566288 |
+| Players | 3/8 |
+| Host Name | Run-NSK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:59:58 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:00:21 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mùзaηtroρ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:55:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601621632797 |
+| Players | 1/8 |
+| Host Name | DullBoyEp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:00:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601621645832 |
+| Players | 1/10 |
+| Host Name | LionKingZ` |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 17:00:28 |
 
 
