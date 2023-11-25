@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602363811922 |
-| Players | 9/10 |
-| Host Name | SunnY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:50:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531602372948476 |
 | Players | 2/10 |
 | Host Name | Ya ALO |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602370803100 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:02:26 |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:03:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602373068660 |
-| Players | 4/8 |
-| Host Name | lowsk1ll |
+| Lobby ID | 28531602372884184 |
+| Players | 8/15 |
+| Host Name | Wolfy |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:06:21 |
+| Lobby Creation Time | Sunday, November 26, 2023 06:06:02 |
 
 
 |  | ot3_desert_octet |
@@ -122,27 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602372836371 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:05:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602372884184 |
-| Players | 7/15 |
-| Host Name | Wolfy |
+| Lobby ID | 28531602373186079 |
+| Players | 3/8 |
+| Host Name | Gliknot |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:06:02 |
+| Lobby Creation Time | Sunday, November 26, 2023 06:06:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602373092239 |
-| Players | 1/8 |
-| Host Name | Дождливый Июль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:06:24 |
+| Lobby ID | 28531602373218500 |
+| Players | 2/8 |
+| Host Name | вглазахтемнеет |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:06:37 |
 
 
