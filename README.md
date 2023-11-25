@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601399756666 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | d |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:15:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601402169183 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:20:00 |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:20:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601402767300 |
-| Players | 2/24 |
-| Host Name | kyt23 |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 11:21:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601402774986 |
-| Players | 5/8 |
-| Host Name | 風太陽 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:21:13 |
+| Lobby ID | 28531601402814559 |
+| Players | 1/15 |
+| Host Name | SpUrt <3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:21:18 |
 
 
