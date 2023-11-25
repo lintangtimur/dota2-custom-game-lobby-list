@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601911644731 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Wolf |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:44:24 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601917654944 |
-| Players | 1/8 |
-| Host Name | beep! |
+| Players | 5/8 |
+| Host Name | I lose my mind |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:49:09 |
 
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601916418421 |
-| Players | 3/15 |
-| Host Name | 6a6ka_c_rpu6amu |
+| Players | 1/15 |
+| Host Name | YOU'LL NEVER WALK ALONE |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 21:48:10 |
 
@@ -110,12 +110,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:48:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601917778858 |
-| Players | 2/24 |
-| Host Name | 逐影 |
+| Lobby ID | 28531601917948815 |
+| Players | 1/15 |
+| Host Name | soseesuka |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:49:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601918018392 |
+| Players | 2/10 |
+| Host Name | МАМУТ РАХАЛ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 21:49:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601917874739 |
+| Players | 5/10 |
+| Host Name | ЕБАДОЛБ |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 21:49:15 |
+| Lobby Creation Time | Saturday, November 25, 2023 21:49:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601917888919 |
+| Players | 2/15 |
+| Host Name | Pog |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 21:49:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601918058333 |
+| Players | 1/10 |
+| Host Name | Wukash |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 21:49:28 |
 
 
