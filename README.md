@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601555083235 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | МАМКИН ШНЫРЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:43 |
@@ -72,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601555194401 |
+| Players | 23/24 |
+| Host Name | Winter Night |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:30:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601557009553 |
+| Players | 2/8 |
+| Host Name | ~Juan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:33:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601557106298 |
+| Players | 1/15 |
+| Host Name | 棋技哥 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 15:33:27 |
 
 
