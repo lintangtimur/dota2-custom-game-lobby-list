@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531602347602577 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:24:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348497031 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | nightingale |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348321757 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | BURNY_33333333333333333333333333 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602335671215 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | focus PayToWin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602348724932 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Kill me pls |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602348847967 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | femboy_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:16 |
@@ -117,5 +117,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КИЛОkoki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602348029247 |
+| Players | 14/15 |
+| Host Name | :( |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:24:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602346981247 |
+| Players | 13/15 |
+| Host Name | https://www.twitch.tv/noexchica |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:23:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602349033446 |
+| Players | 3/8 |
+| Host Name | CAUTIVO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602349100337 |
+| Players | 1/10 |
+| Host Name | beligol |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:39 |
 
 
