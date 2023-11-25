@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602135790615 |
-| Players | 5/10 |
-| Host Name | bounty master |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:09:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531602136072043 |
 | Players | 2/10 |
 | Host Name | mak |
@@ -22,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602136641530 |
-| Players | 4/10 |
-| Host Name | СhUUUmA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:10:45 |
+| Lobby ID | 28531602137195058 |
+| Players | 5/10 |
+| Host Name | -TyLeR_dUrDeN- ™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602131431235 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Члены? Пробовал с; |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:05:27 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602131578261 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Jimo is Back! |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 01:05:36 |
@@ -86,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602135440336 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:09:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602136802747 |
-| Players | 8/15 |
-| Host Name | ^^ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:10:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602135649701 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | DOOM RAMON |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 01:09:44 |
@@ -112,19 +94,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602136874319 |
-| Players | 3/8 |
-| Host Name | Da'Bro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:10:59 |
+| Lobby ID | 28531602137119809 |
+| Players | 4/8 |
+| Host Name | GHOULO 1000-7 ZXC |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602136940644 |
+| Lobby ID | 28531602137121395 |
+| Players | 4/10 |
+| Host Name | ✵ТЕРЯЙСЯ✵ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602137183095 |
+| Players | 1/8 |
+| Host Name | СТРЕЙ ГАЧИСТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602137207430 |
+| Players | 5/15 |
+| Host Name | Buff0300 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602137233739 |
 | Players | 1/10 |
-| Host Name | MateiMatado |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:11:03 |
+| Host Name | DUQUE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602132915523 |
+| Players | 23/24 |
+| Host Name | Red Hatch |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:06:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602137284569 |
+| Players | 1/8 |
+| Host Name | crazy ass |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:11:24 |
 
 
