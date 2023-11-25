@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:15:05 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602144702138 |
-| Players | 1/5 |
-| Host Name | Horrison |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:19:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602144214219 |
@@ -58,47 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602144628438 |
+| Lobby ID | 28531602145398430 |
 | Players | 1/8 |
-| Host Name | GHOST... |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 01:19:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602142756377 |
-| Players | 1/8 |
-| Host Name | shizulya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:17:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602145017261 |
-| Players | 14/15 |
-| Host Name | denusar |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:19:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602145038819 |
-| Players | 2/24 |
-| Host Name | DICES ALGO TE MANDO AL CTMYFEED |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 01:19:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602145157642 |
-| Players | 4/10 |
-| Host Name | взаимные лайки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:19:34 |
+| Host Name | rthugo |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:50 |
 
 
 |  | ot3_desert_octet |
@@ -113,9 +68,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602145180852 |
+| Players | 5/15 |
+| Host Name | purple_kafka |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602145038819 |
+| Players | 2/24 |
+| Host Name | DICES ALGO TE MANDO AL CTMYFEED |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602145157642 |
+| Players | 9/10 |
+| Host Name | взаимные лайки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602142138965 |
+| Players | 14/15 |
+| Host Name | DANTE SPARDA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:16:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602145451897 |
+| Players | 1/8 |
+| Host Name | emo whiner |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602145328020 |
 | Players | 1/15 |
 | Host Name | Штурмовичок |
 | Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 01:19:36 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602143927817 |
+| Players | 13/15 |
+| Host Name | -ZiPaxS- |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:18:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602145583388 |
+| Players | 2/10 |
+| Host Name | < blank > |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:20:01 |
 
 
