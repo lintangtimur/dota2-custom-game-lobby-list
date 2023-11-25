@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:57 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601719145869 |
+| Players | 2/5 |
+| Host Name | Хранитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:56:47 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601719988195 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Triplesixgods |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:57:40 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601718520362 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Jon Pall Sigmarsson |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:08 |
@@ -104,27 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601720567055 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | huh??? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:58:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601720713528 |
-| Players | 1/10 |
-| Host Name | .My |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 18:58:25 |
+| Lobby ID | 28531601720824454 |
+| Players | 1/15 |
+| Host Name | Why So Ez? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:58:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601715288891 |
-| Players | 6/8 |
-| Host Name | DDreams.Matiskadi.1XBET |
+| Lobby ID | 28531601720868070 |
+| Players | 1/8 |
+| Host Name | Smirack |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:52:46 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:58:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601720878294 |
+| Players | 1/8 |
+| Host Name | 小魏不对味 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:58:35 |
 
 
