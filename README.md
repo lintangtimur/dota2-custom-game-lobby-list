@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:28:45 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601353283552 |
-| Players | 1/5 |
-| Host Name | Packyou |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:41:16 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350642107 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:48 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601352932095 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PERRO PERUANO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:40:32 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601352766045 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:40:12 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Absent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:40:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601353452084 |
+| Players | 1/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:41:37 |
 
 
