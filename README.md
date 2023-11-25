@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601323941813 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:37:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325499662 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 브라이언 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601324694049 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Misho |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:39:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325715812 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | naldook |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:29 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601325778293 |
-| Players | 1/15 |
-| Host Name |  |
+| Players | 5/15 |
+| Host Name | Лесная моль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:38 |
 
@@ -77,9 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601325084536 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | no chat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:40:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601325818089 |
+| Players | 1/8 |
+| Host Name | NN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 08:41:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601325809913 |
+| Players | 2/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 08:41:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601325877783 |
+| Players | 1/8 |
+| Host Name | Scrowney2 |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 08:41:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601325892038 |
+| Players | 3/8 |
+| Host Name | ダニエル・♑ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 08:41:52 |
 
 
