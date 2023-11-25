@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601632181491 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Asasae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:14:42 |
@@ -32,27 +32,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601637691034 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601637654188 |
-| Players | 6/8 |
-| Host Name | HELP |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:21:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601638471546 |
-| Players | 2/8 |
-| Host Name | Higurashi |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:23:00 |
+| Lobby ID | 28531601638591239 |
+| Players | 3/15 |
+| Host Name | WTF&!о_О |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:23:10 |
 
 
