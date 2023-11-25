@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601668358385 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | вергез |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601667335588 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | zLostControl |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601669140670 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:01:28 |
@@ -86,9 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601669724182 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | xxx |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:02:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601670043273 |
+| Players | 2/10 |
+| Host Name | CepCap |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:02:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601670028179 |
+| Players | 2/10 |
+| Host Name | LS.cara |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:02:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601670061789 |
+| Players | 3/8 |
+| Host Name | mr. penis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:02:33 |
 
 
