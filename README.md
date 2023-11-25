@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:10:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601371240607 |
-| Players | 10/15 |
-| Host Name | 范马超人强 |
+| Lobby ID | 28531601372110267 |
+| Players | 1/8 |
+| Host Name | РУБЛЬ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:17:33 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:19:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:18:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601371710872 |
-| Players | 1/24 |
-| Host Name | Zoups |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 10:18:29 |
+| Lobby ID | 28531601372049346 |
+| Players | 2/10 |
+| Host Name | M E T A L L I C A |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:19:10 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601372080803 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:19:14 |
@@ -68,36 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601372003754 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ta1entlessx- |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:19:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601372049346 |
-| Players | 2/10 |
-| Host Name | M E T A L L I C A |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:19:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601372110267 |
-| Players | 1/8 |
-| Host Name | РУБЛЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:19:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601368703488 |
-| Players | 23/24 |
-| Host Name | Sofia is Numba 1 gurl for me |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 10:12:33 |
 
 
