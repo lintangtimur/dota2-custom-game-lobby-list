@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:46:08 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601656880414 |
+| Players | 1/10 |
+| Host Name | KENDAMIN4 |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 17:46:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601655826556 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601656043342 |
-| Players | 3/8 |
-| Host Name | pescy❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:45:31 |
+| Lobby ID | 28531601656428247 |
+| Players | 2/10 |
+| Host Name | trash teammate |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 17:45:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601653887747 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RubickPoserDontStealMySkill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:42:47 |
@@ -68,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601656795383 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | mindset reset |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:46:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601656247844 |
-| Players | 5/8 |
-| Host Name | Guitir |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:45:46 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:45:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601656428247 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 17:45:59 |
+| Lobby ID | 28531601656967663 |
+| Players | 2/8 |
+| Host Name | su1c1dequarkkk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:46:39 |
 
 
