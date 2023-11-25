@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602279729711 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Jason Statham |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:50:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602279095771 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Back in bed |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:49:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602279010972 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:49:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602280029788 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | IM COOKIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:50:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602279217422 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:49:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602279501124 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Bekito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:50:04 |
@@ -104,9 +104,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602280374552 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dacho |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:51:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602280561231 |
+| Players | 4/15 |
+| Host Name | хуйланч |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602280556738 |
+| Players | 1/15 |
+| Host Name | HorniiOrange |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602280705292 |
+| Players | 3/10 |
+| Host Name | dévasté |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602280650683 |
+| Players | 1/24 |
+| Host Name | Kenshin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602280704486 |
+| Players | 1/10 |
+| Host Name | Cactus(JACK) |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:34 |
 
 
