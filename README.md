@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601348385032 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | C0D3 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:31:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601354000377 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | utopia enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:44 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601352932095 |
-| Players | 5/8 |
-| Host Name | PERRO PERUANO |
+| Lobby ID | 28531601354164400 |
+| Players | 1/15 |
+| Host Name | EVO MORALES .3 |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:40:32 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:43:03 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601351491644 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:33 |
@@ -59,45 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601354007983 |
-| Players | 2/24 |
+| Players | 10/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601352979875 |
-| Players | 9/10 |
-| Host Name | wanakito123 |
+| Lobby ID | 28531601354244756 |
+| Players | 2/8 |
+| Host Name | ayayay |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:40:38 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:43:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601354081191 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | hawaioo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601354096681 |
-| Players | 1/24 |
-| Host Name | ДАВИД |
+| Lobby ID | 28531601354151664 |
+| Players | 1/15 |
+| Host Name | xpratf |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:42:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601354094959 |
-| Players | 1/8 |
-| Host Name | La extraño pip |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:42:55 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:43:02 |
 
 
