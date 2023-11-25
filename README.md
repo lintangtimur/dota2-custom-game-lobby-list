@@ -20,10 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 02:57:39 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602236031279 |
+| Players | 2/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:58:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602236164475 |
+| Players | 2/10 |
+| Host Name | Jv |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:58:17 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602225979862 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | roswel |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 02:46:37 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602235382777 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Joujoc |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:57:23 |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602233064742 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Ciu Pek Tong |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:54:43 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602233530822 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Skif |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:55:15 |
@@ -67,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602235507341 |
-| Players | 9/15 |
-| Host Name | ЇЇ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:57:32 |
+| Lobby ID | 28531602235964405 |
+| Players | 3/15 |
+| Host Name | haha noob |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:58:04 |
 
 
 |  | ot3_desert_octet |
@@ -83,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 02:57:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602235450333 |
-| Players | 9/10 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 02:57:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602235317359 |
-| Players | 1/15 |
-| Host Name | VamoPeluca |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:57:19 |
+| Lobby ID | 28531602235869590 |
+| Players | 4/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 02:57:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602236035159 |
+| Players | 3/10 |
+| Host Name | SI, ME LA KCHE YY???? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:58:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,18 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602235818705 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | НУ не чего страшн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:57:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602235869590 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 02:57:57 |
+| Lobby ID | 28531602235955331 |
+| Players | 5/8 |
+| Host Name | Enemy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:58:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602235450333 |
+| Players | 9/10 |
+| Host Name | Sifer |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 02:57:28 |
 
 
