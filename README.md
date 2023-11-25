@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:23:21 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602262322420 |
+| Players | 1/10 |
+| Host Name | lineage2.90 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 03:29:07 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602262199200 |
@@ -29,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:27:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602260476862 |
-| Players | 20/24 |
-| Host Name | [R][O][A][M] |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 03:26:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602261912665 |
-| Players | 11/15 |
-| Host Name | ПАГАСЯН |
+| Lobby ID | 28531602262131618 |
+| Players | 7/15 |
+| Host Name | Shamil Basaev |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:28:37 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:28:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602262062413 |
+| Players | 5/24 |
+| Host Name | Pray |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 03:28:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trovo.live/Bojji |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:27:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602262131618 |
-| Players | 2/15 |
-| Host Name | Shamil Basaev |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:28:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602262062413 |
-| Players | 5/24 |
-| Host Name | Pray |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 03:28:47 |
 
 
