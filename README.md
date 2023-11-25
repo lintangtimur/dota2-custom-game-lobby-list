@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601637859257 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Hans Olo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:22:12 |
@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:24:53 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601640081083 |
+| Players | 1/10 |
+| Host Name | raru |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:25:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601632181491 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601637691034 |
-| Players | 15/24 |
+| Players | 23/24 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:59 |
@@ -74,48 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:24:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601639778604 |
-| Players | 1/8 |
-| Host Name | Juuzou |
+| Lobby ID | 28531601639902808 |
+| Players | 5/10 |
+| Host Name | ruined image |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:24:43 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:24:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601639886450 |
+| Lobby ID | 28531601640169757 |
 | Players | 1/8 |
-| Host Name | неформал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:24:52 |
+| Host Name | Der Absi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:25:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601639895426 |
+| Lobby ID | 28531601640181751 |
 | Players | 1/15 |
-| Host Name | KnowledgeIsPower |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:24:52 |
+| Host Name | CIwi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:25:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601639900716 |
-| Players | 1/8 |
-| Host Name | АНАЛЬНЫЙ ПИРОГ |
+| Lobby ID | 28531601640208828 |
+| Players | 2/8 |
+| Host Name | wave |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:24:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601639902808 |
-| Players | 2/10 |
-| Host Name | ruined image |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:24:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:25:16 |
 
 
