@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601323941813 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:37:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325499662 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325809913 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601328534161 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:47:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601329274102 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:49:21 |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601329645592 |
-| Players | 3/10 |
-| Host Name | Mr.Joint |
+| Players | 2/10 |
+| Host Name | king.of.the.grace |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601328300052 |
+| Players | 7/8 |
+| Host Name | Alkazed |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 08:47:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601329791931 |
+| Players | 1/8 |
+| Host Name | Mr.Joint |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:50:30 |
 
 
