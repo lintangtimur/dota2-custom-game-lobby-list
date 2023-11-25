@@ -2,28 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601953496923 |
-| Players | 8/10 |
-| Host Name | 不狂菜狗子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:18:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601951920363 |
-| Players | 1/10 |
-| Host Name | ベビーポテト |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:16:47 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601954307093 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ppvs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:18:44 |
@@ -32,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601952598823 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | calm down |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:17:20 |
@@ -41,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601950209046 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | kBechon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:15:22 |
@@ -51,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601952632942 |
 | Players | 3/10 |
-| Host Name | UR'SUS |
+| Host Name | SSH |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 22:17:22 |
 
@@ -74,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:18:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601952269389 |
-| Players | 6/8 |
-| Host Name | 5 пос няша |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 22:17:04 |
+| Lobby ID | 28531601954589032 |
+| Players | 2/10 |
+| Host Name | ♥Miul♥ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:18:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:18:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601954046223 |
-| Players | 13/15 |
-| Host Name | Безумный Паша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:18:31 |
+| Lobby ID | 28531601953365146 |
+| Players | 8/10 |
+| Host Name | кабан |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:17:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601954171233 |
-| Players | 8/10 |
-| Host Name | GAGAUZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:18:38 |
+| Lobby ID | 28531601954851010 |
+| Players | 2/10 |
+| Host Name | Морожка |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:19:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601952302632 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Strelok228 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 22:17:05 |
@@ -166,19 +148,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601954267030 |
-| Players | 1/8 |
-| Host Name | Scraper |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:18:42 |
+| Lobby ID | 28531601954808919 |
+| Players | 5/8 |
+| Host Name | 42 бразильских пен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:19:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601953573377 |
-| Players | 2/8 |
-| Host Name | адвокат габена |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:18:08 |
+| Lobby ID | 28531601954795677 |
+| Players | 7/15 |
+| Host Name | samurai |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:19:08 |
 
 
