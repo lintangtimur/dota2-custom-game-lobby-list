@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601470299012 |
-| Players | 22/24 |
-| Host Name | RiftBreaker |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:24:36 |
+| Lobby ID | 28531601477833317 |
+| Players | 3/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:36:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601476454131 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | TU TÍO GANON |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:34:39 |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:36:52 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601477833317 |
-| Players | 2/24 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:36:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601477932875 |
+| Lobby ID | 28531601478303586 |
 | Players | 2/15 |
 | Host Name | Teronse |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:37:02 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:37:38 |
 
 
