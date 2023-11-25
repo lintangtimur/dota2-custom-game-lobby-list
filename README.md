@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601587903569 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | zenzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:14:39 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601588267041 |
-| Players | 3/24 |
-| Host Name | 617 agi |
+| Players | 1/24 |
+| Host Name | MrKitten |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 16:15:09 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601587736137 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | KAWAii |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:14:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601588704011 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Sir Mahmud |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:15:44 |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601588762309 |
+| Lobby ID | 28531601589162972 |
 | Players | 1/8 |
-| Host Name | LeamuR |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:15:49 |
+| Host Name | нет |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 16:16:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601589067347 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | пирожный чебурек |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 16:16:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601589237486 |
+| Players | 2/8 |
+| Host Name | LeamuR |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:16:27 |
 
 
