@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601625966397 |
-| Players | 3/10 |
-| Host Name | proulx |
+| Players | 2/10 |
+| Host Name | fenrir |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 17:06:25 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601617791665 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Mùзaηtroρ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:55:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601626193291 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:06:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601629637376 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | О4КОШНИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:11:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601630495566 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ThOrflnn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:12:30 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601628885504 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | CH1naZEs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:10:20 |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601630641993 |
-| Players | 2/8 |
-| Host Name | Виталя светлый |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:12:42 |
+| Lobby ID | 28531601630913725 |
+| Players | 3/8 |
+| Host Name | Run-NSK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:13:04 |
 
 
