@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:44:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601355575055 |
-| Players | 9/10 |
-| Host Name | Next |
+| Lobby ID | 28531601356678279 |
+| Players | 1/5 |
+| Host Name | IceBogart |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:45:56 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:48:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601353692667 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | NOOB LIKE SAY EZ!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601356236819 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | it's ok |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:47:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601355626430 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:46:03 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601356278441 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Misho |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:47:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601355744249 |
-| Players | 7/8 |
-| Host Name | SAMO CHERNO MORE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:46:17 |
+| Lobby ID | 28531601355978253 |
+| Players | 11/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:46:46 |
 
 
 |  | ot3_desert_octet |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601355788671 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Chosuke |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:46:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601355978253 |
-| Players | 8/15 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:46:46 |
 
 
