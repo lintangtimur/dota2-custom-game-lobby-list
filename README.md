@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:37:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601560376832 |
-| Players | 3/10 |
-| Host Name | Elvis冰火 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:37:52 |
+| Lobby ID | 28531601560529348 |
+| Players | 6/24 |
+| Host Name | heart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:38:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601560610182 |
+| Players | 2/24 |
+| Host Name | Night$hade |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:38:11 |
 
 
