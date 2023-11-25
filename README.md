@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601465541222 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Gabimaru |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 13:16:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601467781117 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Numd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:20:23 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:20:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601469277967 |
+| Players | 1/5 |
+| Host Name | stardenburdenhardenbart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:22:54 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601468466637 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | RonnieDaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:21:33 |
@@ -83,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:14:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601465828066 |
-| Players | 22/24 |
-| Host Name | beebee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:17:07 |
+| Lobby ID | 28531601469189239 |
+| Players | 4/8 |
+| Host Name | ZeekkeeN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:22:45 |
 
 
 |  | ot3_gardens_duo |
@@ -113,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601469038822 |
-| Players | 2/10 |
-| Host Name | insanamentegozu |
+| Players | 4/10 |
+| Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:22:30 |
 
