@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601377575995 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Raze.EmperoR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:30:19 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:31:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601378013024 |
-| Players | 7/8 |
-| Host Name | MilkGrabber |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:31:12 |
+| Lobby ID | 28531601379214109 |
+| Players | 1/24 |
+| Host Name | Loki Laufeyson |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:33:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601378562486 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:32:19 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [MaNSpHA] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:33:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601379190510 |
+| Players | 5/8 |
+| Host Name | [ x x x ] |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:33:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601378013024 |
+| Players | 7/8 |
+| Host Name | MilkGrabber |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 10:31:12 |
 
 
