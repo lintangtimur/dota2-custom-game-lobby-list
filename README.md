@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601350805490 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350485168 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | 维克多 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601351567427 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Elke mecacha |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601351392799 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | тише |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601351200603 |
-| Players | 5/24 |
+| Players | 13/24 |
 | Host Name | 为毛？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:58 |
@@ -112,19 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601349350858 |
-| Players | 9/10 |
-| Host Name | スベン　スヌスベルぐ : |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:33:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531601351954392 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | HaVoC |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:38:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601352167839 |
+| Players | 1/8 |
+| Host Name | TestyLime<3 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:38:58 |
 
 
