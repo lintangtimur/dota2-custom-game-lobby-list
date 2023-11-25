@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602205078646 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Syn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:23:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602202892901 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | DaveyJones |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 02:21:05 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602209031195 |
-| Players | 8/10 |
-| Host Name | [D.Inside] Buldog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:27:53 |
+| Lobby ID | 28531602209363666 |
+| Players | 3/10 |
+| Host Name | Dea D Igami |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602209051361 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | forever alone |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:27:55 |
@@ -104,18 +104,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602209137048 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | MAT' SHLUHA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:28:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602209453608 |
+| Players | 1/24 |
+| Host Name | FIGHT THE POWAH |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602209474284 |
+| Players | 1/8 |
+| Host Name | Sanshy(U27) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602209484326 |
+| Players | 1/15 |
+| Host Name | Lyoto Machista |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602209525445 |
+| Players | 1/8 |
+| Host Name | Хуеземлетряс |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602209526629 |
+| Players | 4/8 |
+| Host Name | Nummer9 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:26 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602209363666 |
-| Players | 2/10 |
-| Host Name | Dea D Igami |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 02:28:16 |
+| Lobby ID | 28531602209543628 |
+| Players | 1/10 |
+| Host Name | ПТ на спокойствие |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:28:27 |
 
 
