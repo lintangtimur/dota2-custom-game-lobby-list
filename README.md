@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601841292668 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Gücki™ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:47:36 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601840075514 |
-| Players | 5/8 |
-| Host Name | Inoculisfurorem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:46:37 |
+| Lobby ID | 28531601838816901 |
+| Players | 3/8 |
+| Host Name | Dvzzin17 |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:45:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601840322489 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Gliknot |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601829735057 |
-| Players | 7/10 |
-| Host Name | dagger |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 20:38:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601840462015 |
-| Players | 1/8 |
-| Host Name | Sadness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:46:56 |
 
 
 |  | ot3_gardens_duo |
@@ -157,19 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601838816901 |
+| Lobby ID | 28531601840462015 |
 | Players | 1/8 |
-| Host Name | Dvzzin17 |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 20:45:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601841386971 |
-| Players | 1/10 |
-| Host Name | なんで春日影やったの!! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:47:41 |
+| Host Name | Sadness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:46:56 |
 
 
