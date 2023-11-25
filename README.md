@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601396192104 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:08:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601394401906 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601394332694 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601395341908 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Mr... |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:06:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601395703634 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | cockygod |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:07:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601395883260 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | GraFx |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:07:24 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601394742325 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | skoro:leto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601395405756 |
+| Players | 13/15 |
+| Host Name | ez mid |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:06:25 |
 
 
