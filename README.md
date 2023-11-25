@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:08:16 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601627107570 |
-| Players | 3/7 |
-| Host Name | зигеньг богеньг |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:07:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601617791665 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Mùзaηtroρ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:55:15 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601624817514 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:04:50 |
@@ -92,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:05:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601626675527 |
-| Players | 10/15 |
-| Host Name | мой кайф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:07:23 |
+| Lobby ID | 28531601627548595 |
+| Players | 2/10 |
+| Host Name | Vasile |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:08:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601626901191 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Guitir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:07:41 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 魔鬼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:01:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601626633931 |
+| Players | 2/8 |
+| Host Name | Zirop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:07:19 |
 
 
