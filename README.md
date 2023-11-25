@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601731767869 |
-| Players | 9/10 |
-| Host Name | stand here alone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:09:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -38,31 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:11:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601731162107 |
-| Players | 2/15 |
-| Host Name | TRIPLE GGG |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 19:09:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601733363339 |
-| Players | 1/24 |
-| Host Name | Addicted |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:11:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601733092207 |
-| Players | 6/15 |
-| Host Name | 09 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:11:14 |
+| Lobby ID | 28531601730732598 |
+| Players | 9/10 |
+| Host Name | отсос mentality |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:08:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:11:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601730732598 |
-| Players | 7/10 |
-| Host Name | отсос mentality |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:08:51 |
+| Lobby ID | 28531601733092207 |
+| Players | 10/15 |
+| Host Name | 09 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:11:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601733922172 |
-| Players | 3/8 |
-| Host Name | я турбо демон |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:12:04 |
+| Lobby ID | 28531601734038318 |
+| Players | 3/15 |
+| Host Name | Крутой Назар228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:12:10 |
 
 
