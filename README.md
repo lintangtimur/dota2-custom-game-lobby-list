@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601347059716 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | aeaeaea |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:28:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601342383419 |
-| Players | 21/24 |
-| Host Name | JEANNE D'ARC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
+| Lobby ID | 28531601347863792 |
+| Players | 4/10 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:30:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601346135448 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601347628196 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Anthropologysali Kaur |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:29:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601345907078 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | itachi uchiha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:25:53 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601347258913 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | hawaioo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:28:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601347834111 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:29:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601347955190 |
+| Players | 6/8 |
+| Host Name | SOY PANSEXUAL |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:30:12 |
 
 
