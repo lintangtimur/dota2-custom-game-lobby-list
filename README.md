@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601691727830 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:27:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601693017463 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Гоблин младший |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:28:54 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:28:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601691008402 |
-| Players | 22/24 |
-| Host Name | szunari |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:26:40 |
+| Lobby ID | 28531601693204886 |
+| Players | 4/15 |
+| Host Name | саня кривой айс п |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:29:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601690636942 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | 啪！一个Ori |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 18:26:15 |
@@ -104,36 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601693075892 |
-| Players | 4/8 |
-| Host Name | Нази шар |
+| Lobby ID | 28531601693259759 |
+| Players | 2/10 |
+| Host Name | Bredvard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:28:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601693103850 |
-| Players | 2/15 |
-| Host Name | саня кривой айс п |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:29:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601693123436 |
-| Players | 1/15 |
-| Host Name | 祖玛奥 |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 18:29:01 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:29:10 |
 
 
