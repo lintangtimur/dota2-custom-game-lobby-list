@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601476502797 |
-| Players | 6/8 |
-| Host Name | thekillbus32 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:34:43 |
+| Lobby ID | 28531601477177300 |
+| Players | 5/8 |
+| Host Name | пирожный чебурек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:35:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601476405038 |
-| Players | 3/8 |
-| Host Name | деманы в галаве |
+| Players | 5/8 |
+| Host Name | Mode:Извечный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:34:34 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601476095418 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:34:04 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РАЙАН ГОСЛИНГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:35:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601477288828 |
+| Players | 1/15 |
+| Host Name | 滑铲冠军！ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:36:00 |
 
 
