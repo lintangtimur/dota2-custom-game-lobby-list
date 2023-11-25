@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601446407245 |
-| Players | 9/10 |
-| Host Name | Shiro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:43:11 |
+| Lobby ID | 28531601447965780 |
+| Players | 1/10 |
+| Host Name | OrangeF_sH |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 12:45:56 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601446466543 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:43:17 |
@@ -86,36 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601447730029 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | beebee |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:45:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601447361471 |
-| Players | 6/8 |
-| Host Name | beligol |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 12:44:51 |
+| Lobby ID | 28531601447525766 |
+| Players | 5/15 |
+| Host Name | Taras_Baby |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:45:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601447433196 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ᴋ.ᴍ.ᴀ. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:44:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601447525766 |
-| Players | 4/15 |
-| Host Name | Taras_Baby |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:45:09 |
+| Lobby ID | 28531601447831710 |
+| Players | 1/24 |
+| Host Name | пивас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:45:41 |
 
 
