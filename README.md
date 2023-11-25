@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602233037641 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | [GayGaming].LG |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:54:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602233064742 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | opZZesion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:54:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602234156182 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | pupa_za**pa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:55:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602230667751 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ティアゴ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:51:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602234401936 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kekus.Xay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:56:15 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602234417887 |
-| Players | 4/8 |
-| Host Name | Лохат Ракум |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:56:16 |
+| Lobby ID | 28531602234503865 |
+| Players | 1/8 |
+| Host Name | ttv/te_tyanka |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:56:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602234571519 |
+| Players | 2/10 |
+| Host Name | Nos van a matar causa |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:56:27 |
 
 
