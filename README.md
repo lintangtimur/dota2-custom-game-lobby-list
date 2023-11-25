@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601718015592 |
-| Players | 2/10 |
-| Host Name | ^3leVel_Psi-x |
+| Players | 1/10 |
+| Host Name | Sam peyo |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:55:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601719612018 |
-| Players | 9/10 |
-| Host Name | Siskaeee |
+| Lobby ID | 28531601721713285 |
+| Players | 1/10 |
+| Host Name | ベビーポテト |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:57:16 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:59:27 |
 
 
 |  | epic_boss_fight_challenger |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:59:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601721713285 |
-| Players | 1/10 |
-| Host Name | ベビーポテト |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:59:27 |
+| Lobby ID | 28531601722621634 |
+| Players | 2/5 |
+| Host Name | вечный жид |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:00:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601719402447 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 01010100_01001100_01000101 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:57:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601722247842 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ЕБАДОЛБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:00:01 |
@@ -110,49 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601716075254 |
-| Players | 23/24 |
-| Host Name | Good день |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:53:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601719278013 |
-| Players | 23/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:56:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601721939353 |
-| Players | 2/8 |
-| Host Name | DDreams.Matiskadi.1XBET |
+| Lobby ID | 28531601722488015 |
+| Players | 7/15 |
+| Host Name | Игорь (Артём) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:59:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601721948472 |
-| Players | 8/10 |
-| Host Name | Росик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:59:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601722014057 |
-| Players | 3/8 |
-| Host Name | спустился с небес |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:59:46 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:00:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -166,10 +130,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
+| Lobby ID | 28531601721939353 |
+| Players | 2/8 |
+| Host Name | DDreams.Matiskadi.1XBET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:59:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
 | Lobby ID | 28531601722451586 |
 | Players | 3/8 |
 | Host Name | 321 GG |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:00:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601722014057 |
+| Players | 3/8 |
+| Host Name | спустился с небес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:59:46 |
 
 
