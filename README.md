@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602369654771 |
-| Players | 4/8 |
-| Host Name | Debora Testa |
+| Players | 3/8 |
+| Host Name | ?¿?¿ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:00:28 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602369712273 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | DaRk->JR |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 06:00:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602370803100 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:02:26 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602371052890 |
-| Players | 9/15 |
-| Host Name | egomaniac |
+| Players | 13/15 |
+| Host Name | Midoo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:02:51 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602371354654 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:03:22 |
@@ -158,9 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602371784178 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | .hitokiri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:04:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602371934663 |
+| Players | 1/15 |
+| Host Name | bulok066 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 06:04:23 |
 
 
