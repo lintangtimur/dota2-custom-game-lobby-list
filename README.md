@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601329937478 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | PennyS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:50 |
@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:35 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601330039191 |
+| Players | 2/5 |
+| Host Name | 泡泡男孩 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:04 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601323941813 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:37:31 |
@@ -31,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601329894657 |
+| Lobby ID | 28531601329791931 |
 | Players | 3/8 |
-| Host Name | amacedador de chinos |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 08:50:45 |
+| Host Name | Mr.Joint |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:50:30 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325809913 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:42 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601328534161 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:47:43 |
@@ -77,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601329274102 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:49:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601329490824 |
-| Players | 8/10 |
-| Host Name | Tomohise-Sako |
+| Lobby ID | 28531601330086792 |
+| Players | 5/8 |
+| Host Name | Kaysea |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 08:49:50 |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601329529182 |
-| Players | 9/15 |
-| Host Name | sss |
+| Lobby ID | 28531601330026906 |
+| Players | 7/8 |
+| Host Name | Moe Lester |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:49:55 |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:02 |
 
 
 |  | ot3_gardens_duo |
@@ -113,27 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601329645592 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | king.of.the.grace |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601329791931 |
-| Players | 3/8 |
-| Host Name | Mr.Joint |
+| Lobby ID | 28531601330092452 |
+| Players | 3/15 |
+| Host Name | АлкашПодСнюсом |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601330110288 |
+| Players | 2/24 |
+| Host Name | 3.33 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:50:30 |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601329947040 |
-| Players | 1/8 |
-| Host Name | Kaysea |
+| Lobby ID | 28531601330145349 |
+| Players | 6/8 |
+| Host Name | SOY PANSEXUAL |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 08:50:52 |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:18 |
 
 
