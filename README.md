@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601631436025 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | oOo-ÉGOÏSTE-oOo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:13:44 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601628532914 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 17:09:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601624938048 |
-| Players | 1/15 |
-| Host Name | zenzy |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 17:05:00 |
+| Lobby ID | 28531601632315623 |
+| Players | 1/8 |
+| Host Name | СОООООООЛЬ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:14:52 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601631567039 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | iLuckyBoss |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:13:54 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601632247305 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | скрупер) |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:14:47 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601632391031 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Wiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:14:58 |
@@ -139,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601632315623 |
-| Players | 1/8 |
-| Host Name | СОООООООЛЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:14:52 |
+| Lobby ID | 28531601632563646 |
+| Players | 3/8 |
+| Host Name | Onnlot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:15:12 |
 
 
