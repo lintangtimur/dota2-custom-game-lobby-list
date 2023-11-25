@@ -2,28 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602117252866 |
-| Players | 2/5 |
-| Host Name | -=[S4R]=-nels0n |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:51:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602125366523 |
-| Players | 1/5 |
-| Host Name | отчим сергея |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:59:27 |
+| Lobby ID | 28531602125562452 |
+| Players | 4/10 |
+| Host Name | ベビーポテト |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602124771859 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Night.T.Gamuxs |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:58:52 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602121877962 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 00:56:01 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602115699537 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:49:56 |
@@ -95,54 +86,90 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602124755738 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Art Vandelay |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 00:58:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602124881067 |
-| Players | 9/10 |
-| Host Name | собираю пазлы |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:58:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602125121629 |
-| Players | 2/10 |
-| Host Name | Секс інструктор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:59:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602125227045 |
-| Players | 6/8 |
-| Host Name | gaZa poVVer |
+| Lobby ID | 28531602125082122 |
+| Players | 5/8 |
+| Host Name | Заложник таверны |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602125767588 |
+| Players | 1/15 |
+| Host Name | Btardik |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602125668819 |
+| Players | 3/15 |
+| Host Name | tv/papuasplay |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:59:19 |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602125255619 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:59:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602124261647 |
-| Players | 14/15 |
-| Host Name | Porsche Kaef |
+| Lobby ID | 28531602125475301 |
+| Players | 3/8 |
+| Host Name | вор777 |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602125627430 |
+| Players | 4/10 |
+| Host Name | 1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:58:22 |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602125679151 |
+| Players | 2/10 |
+| Host Name | [TмR] maravisha |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602125755710 |
+| Players | 2/8 |
+| Host Name | Кандидат На Мут |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602125745938 |
+| Players | 3/8 |
+| Host Name | im fine too |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 26, 2023 00:59:49 |
 
 
