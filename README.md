@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601563058523 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BKG^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:41:29 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:41:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601564758302 |
-| Players | 9/10 |
-| Host Name | ЖОПАДРОБИТЕЛЬ |
+| Lobby ID | 28531601565860141 |
+| Players | 1/8 |
+| Host Name | LORD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:43:45 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:45:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601554607020 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601562115772 |
-| Players | 18/24 |
-| Host Name | Satan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:40:13 |
+| Lobby ID | 28531601565977474 |
+| Players | 1/15 |
+| Host Name | (M.E)Я прощаю тебя |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 15:45:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Яра из zooba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:45:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601565877156 |
-| Players | 1/15 |
-| Host Name | 老祖宗 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 15:45:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601565860141 |
-| Players | 1/8 |
-| Host Name | LORD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:45:14 |
 
 
