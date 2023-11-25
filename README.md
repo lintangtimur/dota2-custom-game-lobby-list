@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601443199938 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | `` |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:37:24 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601442520103 |
-| Players | 7/8 |
-| Host Name | hippodamia |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:36:10 |
+| Lobby ID | 28531601443687324 |
+| Players | 1/24 |
+| Host Name | TitinN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601442399687 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | anyvay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601441667911 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:34:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601442365877 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:53 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601443503679 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:37:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601443592578 |
+| Players | 2/10 |
+| Host Name | Sark |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:07 |
 
 
