@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:24:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602346686975 |
-| Players | 8/10 |
-| Host Name | Dea D Igami |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:22:53 |
+| Lobby ID | 28531602341852497 |
+| Players | 21/24 |
+| Host Name | Kori❄♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:15:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602347450674 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | BigFudge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:24:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602346425458 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | (维尔) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:22:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602345951735 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ck1k3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:21:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602335671215 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | focus PayToWin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602346981247 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | https://www.twitch.tv/noexchica |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:23:20 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Totemmois-ISA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:22:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602341852497 |
-| Players | 20/24 |
-| Host Name | Kori❄♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:15:24 |
 
 
