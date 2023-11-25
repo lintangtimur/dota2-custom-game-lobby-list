@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:43:25 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601709079620 |
+| Players | 2/10 |
+| Host Name | BabY-K |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:46:14 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601708317145 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:45:26 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601704582455 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:41:26 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601705945718 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 18:42:54 |
@@ -68,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601707212413 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Kyno |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:44:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601705160156 |
-| Players | 5/8 |
-| Host Name | pivachyo |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 18:42:03 |
+| Lobby ID | 28531601709001100 |
+| Players | 4/10 |
+| Host Name | fikys |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:46:09 |
 
 
 |  | ot3_necropolis_ffa |
