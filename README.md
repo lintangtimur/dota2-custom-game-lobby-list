@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601568042242 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ffa / ranked player only |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:48:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601568066759 |
-| Players | 3/8 |
-| Host Name | Rafa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:48:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hehe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:48:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601568269787 |
+| Players | 2/15 |
+| Host Name | Pepe Ozima |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:48:27 |
 
 
