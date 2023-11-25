@@ -2,19 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602217737850 |
-| Players | 4/5 |
-| Host Name | ム New7up |
+| Lobby ID | 28531602219401684 |
+| Players | 1/10 |
+| Host Name | SoGEKINGGG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602219423959 |
+| Players | 3/10 |
+| Host Name | БОМЖ КОМПОТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:37:28 |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602218976648 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | not human (животное) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:51 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602213915779 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:33:15 |
@@ -77,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602218225612 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602218006330 |
-| Players | 7/8 |
-| Host Name | Брежнев007 |
+| Lobby ID | 28531602219000410 |
+| Players | 6/24 |
+| Host Name | типни если сосала |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:37:46 |
+| Lobby Creation Time | Sunday, November 26, 2023 02:38:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602215597080 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Mr. Meepo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:35:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602218742128 |
-| Players | 4/8 |
-| Host Name | Juski |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:38:35 |
+| Lobby ID | 28531602218933289 |
+| Players | 2/10 |
+| Host Name | MalaHierba |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 02:38:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602218449549 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Romando |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:16 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602218716941 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Ahom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:34 |
@@ -139,28 +148,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602218933289 |
+| Lobby ID | 28531602219436971 |
 | Players | 1/10 |
-| Host Name | MalaHierba |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 02:38:48 |
+| Host Name | Shikamaru |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602219000410 |
-| Players | 3/24 |
-| Host Name | типни если сосала |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:38:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602219123123 |
-| Players | 1/15 |
-| Host Name | 清凉哥 |
-| Region | Unknown |
-| Lobby Creation Time | Sunday, November 26, 2023 02:39:01 |
+| Lobby ID | 28531602219433882 |
+| Players | 3/8 |
+| Host Name | die young |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:21 |
 
 
