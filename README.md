@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601587903569 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | zenzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:14:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601592746106 |
-| Players | 13/15 |
-| Host Name | Death |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:21:10 |
+| Lobby ID | 28531601593481149 |
+| Players | 1/8 |
+| Host Name | dux0ne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:22:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601593097564 |
-| Players | 7/8 |
-| Host Name | Chill |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:21:38 |
+| Lobby ID | 28531601593639827 |
+| Players | 1/8 |
+| Host Name | Pachacutec |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 16:22:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601593115838 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | 🌸温柔 丶小太陽🌸 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:21:40 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Monday Left Me Broken..... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:21:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601593481149 |
-| Players | 1/8 |
-| Host Name | dux0ne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:22:09 |
 
 
