@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602003330504 |
-| Players | 7/10 |
-| Host Name | Викинг |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:00:36 |
+| Lobby ID | 28531602003993278 |
+| Players | 1/10 |
+| Host Name | ZIP |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 23:01:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -31,11 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602003993278 |
-| Players | 1/10 |
-| Host Name | ZIP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 23:01:13 |
+| Lobby ID | 28531602003330504 |
+| Players | 7/10 |
+| Host Name | Викинг |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:00:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602004339481 |
+| Players | 1/5 |
+| Host Name | MU • |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 23:01:32 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:57:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602003859635 |
-| Players | 1/10 |
-| Host Name | КОБА |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:01:06 |
+| Lobby ID | 28531602004038012 |
+| Players | 3/8 |
+| Host Name | Забыл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 23:01:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,28 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:58:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602003729908 |
-| Players | 12/15 |
-| Host Name | Hernes |
+| Lobby ID | 28531602004122639 |
+| Players | 7/10 |
+| Host Name | Pecen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:01:00 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:01:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602003472674 |
-| Players | 1/8 |
-| Host Name | Ignis |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 23:00:44 |
+| Lobby ID | 28531602003697669 |
+| Players | 2/24 |
+| Host Name | calm down |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:00:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602002839250 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:00:09 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602003609356 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | f d s |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:00:52 |
@@ -121,28 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602004038012 |
-| Players | 2/8 |
-| Host Name | Забыл |
+| Lobby ID | 28531602004310297 |
+| Players | 3/8 |
+| Host Name | Oxxximirana |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:01:16 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:01:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602003697669 |
-| Players | 2/24 |
-| Host Name | calm down |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:00:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602004122639 |
-| Players | 1/10 |
-| Host Name | Apxfly |
+| Lobby ID | 28531602004317235 |
+| Players | 3/15 |
+| Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:01:20 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:01:31 |
 
 
