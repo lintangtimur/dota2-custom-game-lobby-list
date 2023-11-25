@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601535656120 |
-| Players | 9/10 |
-| Host Name | Raikenzi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:03:51 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601537142784 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601537803491 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | God Bless the Mafia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:06:54 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601537057588 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Pr3t0r1an |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:05:50 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601526890327 |
-| Players | 13/24 |
+| Players | 10/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:51:17 |
@@ -95,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601537075838 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:05:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601538213097 |
-| Players | 2/15 |
-| Host Name | 多多益善 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:07:29 |
+| Lobby ID | 28531601538309367 |
+| Players | 3/8 |
+| Host Name | данил(кривой) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:07:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601538217679 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Viking |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:07:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601538414191 |
+| Players | 1/8 |
+| Host Name | Reaper of Mars |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:07:46 |
 
 
