@@ -5,28 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601667522156 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 303 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:32 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601668949665 |
-| Players | 2/7 |
-| Host Name | オールマイト |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601669437782 |
-| Players | 1/10 |
-| Host Name | Century Toenail |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Femto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601667335588 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | zLostControl |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:19 |
@@ -103,28 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601669316959 |
-| Players | 9/15 |
-| Host Name | kakarot神 |
+| Lobby ID | 28531601669724182 |
+| Players | 7/15 |
+| Host Name | xxx |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601669557103 |
-| Players | 4/8 |
-| Host Name | Miky "52" Dyson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601669572869 |
-| Players | 5/8 |
-| Host Name | Окси Дима |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:58 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:02:09 |
 
 
