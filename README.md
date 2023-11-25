@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601612080080 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:47:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | bs |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601612580681 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | NOCHNOY DOZOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:48:08 |
@@ -113,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601612821593 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Matye Bal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:48:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601611177757 |
+| Players | 6/8 |
+| Host Name | Alaq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:46:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601612971101 |
+| Players | 2/8 |
+| Host Name | [ЧВК BW] mefex |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:48:40 |
 
 
