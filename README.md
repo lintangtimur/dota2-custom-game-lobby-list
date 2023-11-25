@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:21:04 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601549062181 |
+| Players | 1/10 |
+| Host Name | Imperia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:22:30 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601546523189 |
@@ -58,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601547234678 |
-| Players | 7/8 |
-| Host Name | wadadadawdadawdad |
+| Lobby ID | 28531601549096370 |
+| Players | 2/8 |
+| Host Name | ACACVEVELOLO 107SPELL PRO2007 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:20:00 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:22:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601546360643 |
-| Players | 14/15 |
-| Host Name | Moccio 希望 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:18:48 |
+| Lobby ID | 28531601548981510 |
+| Players | 2/8 |
+| Host Name | Salazar Slytherin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:22:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:19:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601548981510 |
-| Players | 1/8 |
-| Host Name | Salazar Slytherin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:22:23 |
+| Lobby ID | 28531601549174270 |
+| Players | 1/15 |
+| Host Name | J O N Z Z Z Z |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 15:22:39 |
 
 
