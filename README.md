@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602367898528 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Ace of Sp♠︎des |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602380299478 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | The Last to Die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:19:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602380066935 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | SOLO PIERDO POR MIS CORES KKS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602379995386 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602379691688 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Mile Jahacica |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602380659146 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:19:59 |
@@ -105,8 +105,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602379508399 |
 | Players | 14/15 |
-| Host Name | Hxksl  (1) |
+| Host Name | Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:17:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602380845411 |
+| Players | 1/24 |
+| Host Name | :D |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:20:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602380873366 |
+| Players | 5/8 |
+| Host Name | Watermelon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:20:22 |
 
 
