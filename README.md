@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601356678279 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | IceBogart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:48:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601353692667 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | NOOB LIKE SAY EZ!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601356280396 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | XFullHouse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:47:23 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601356236819 |
-| Players | 14/15 |
-| Host Name | it's ok |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:47:17 |
+| Lobby ID | 28531601355788671 |
+| Players | 10/15 |
+| Host Name | Chosuke |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:46:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601355626430 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:46:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601355978253 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:46:46 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:46:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601355788671 |
-| Players | 8/15 |
-| Host Name | Chosuke |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:46:22 |
 
 
