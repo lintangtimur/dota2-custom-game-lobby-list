@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:26:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601552518019 |
-| Players | 1/10 |
-| Host Name | 爱抓双马尾 |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 15:27:14 |
+| Lobby ID | 28531601552699373 |
+| Players | 1/5 |
+| Host Name | clglOgck |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:27:29 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601551607525 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | W3!rD0 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:25:59 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601552566267 |
-| Players | 1/8 |
-| Host Name | twitch|yukikojuurou |
+| Lobby ID | 28531601552621124 |
+| Players | 3/8 |
+| Host Name | это там белочка? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:27:18 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:27:22 |
 
 
