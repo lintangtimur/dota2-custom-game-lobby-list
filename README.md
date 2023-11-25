@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601388106180 |
-| Players | 2/10 |
-| Host Name | Fluffy Potato Skin |
+| Players | 1/10 |
+| Host Name | Kargador |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:24 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601387670503 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | el chazz |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:50:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601386326193 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:47:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601388057873 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | d |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:18 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601388014901 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pochi |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601387292207 |
-| Players | 8/10 |
-| Host Name | Homiefellas |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:49:45 |
+| Lobby ID | 28531601384676699 |
+| Players | 23/24 |
+| Host Name | Arcade Gannon |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 10:44:33 |
 
 
