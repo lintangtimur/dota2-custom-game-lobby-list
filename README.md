@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601656428247 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 17:45:59 |
+| Lobby ID | 28531601656247844 |
+| Players | 6/8 |
+| Host Name | Guitir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:45:46 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601657850140 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Шуруп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:47:45 |
@@ -122,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601658328282 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | \ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:48:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601656247844 |
-| Players | 7/8 |
-| Host Name | Guitir |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:45:46 |
 
 
