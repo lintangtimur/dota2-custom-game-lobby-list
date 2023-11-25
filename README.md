@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602305305537 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Puntito( El Maximo Exponente) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:23:09 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:26:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602305648821 |
-| Players | 21/24 |
-| Host Name | 𝔸𝕣𝐢𝗲𝒍Q` |
+| Lobby ID | 28531602308913171 |
+| Players | 4/10 |
+| Host Name | [NOXUS]-Yolo |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:23:36 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:28:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602308145291 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | champagnepapi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:26:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602307173853 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | PomeXxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:25:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602308002853 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | burnt flowers |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:26:47 |
