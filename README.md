@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602335671215 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | focus PayToWin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602346500574 |
-| Players | 14/15 |
-| Host Name | 領域展開 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:22:36 |
+| Lobby ID | 28531602346838333 |
+| Players | 3/8 |
+| Host Name | 1 pos egoist... |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:23:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602345998839 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | YODA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:21:49 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602341852497 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:15:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602346838333 |
-| Players | 2/8 |
-| Host Name | 1 pos egoist... |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:23:07 |
+| Lobby ID | 28531602346946096 |
+| Players | 6/10 |
+| Host Name | 🔥🌪Hells-Riper🌪🔥 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:23:17 |
 
 
