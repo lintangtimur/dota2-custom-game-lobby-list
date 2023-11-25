@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602355480459 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Даргинское чуду |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:36:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602359350831 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | GuITaR |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:43:09 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:44:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602357958517 |
-| Players | 21/24 |
-| Host Name | 乱战先锋专用帐号 |
+| Lobby ID | 28531602360802767 |
+| Players | 1/8 |
+| Host Name | камни в почках |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:40:51 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:45:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602359585119 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Деген Аура |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:43:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602360676019 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Roarbuse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:45:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602360685340 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:45:22 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:45:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602360742848 |
-| Players | 3/8 |
-| Host Name | SeraskeR/ua |
+| Lobby ID | 28531602358405378 |
+| Players | 13/15 |
+| Host Name | Glim |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:45:27 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:41:34 |
 
 
