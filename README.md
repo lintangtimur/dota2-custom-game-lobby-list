@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602382234100 |
-| Players | 1/5 |
-| Host Name | lil чича |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:22:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602383529371 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ♠!LICH KING!♠ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 06:25:20 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602382912526 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | la nueva promesa del dota SA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:24:11 |
@@ -50,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602382673907 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Skum |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 06:23:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602383574742 |
-| Players | 1/15 |
-| Host Name | ЗАЕБИСЬ! |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:25:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,5 +54,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL NEGRITO OJO CLARO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:23:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602382983691 |
+| Players | 3/8 |
+| Host Name | 大 | HarHataru | マ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:24:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602383659008 |
+| Players | 2/15 |
+| Host Name | Benis |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 06:25:35 |
 
 
