@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601810827396 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:22:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601809922787 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ДЖОН ТРАВОЛТА |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:21:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601811302068 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ДЖОНИ ДЕПП |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:22:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601811555765 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | PARACETAMOL |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:23:11 |
@@ -146,12 +146,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:22:12 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601811766536 |
+| Players | 2/10 |
+| Host Name | Тайно Дергал |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:23:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601810089128 |
-| Players | 1/8 |
+| Lobby ID | 28531601811767030 |
+| Players | 3/8 |
 | Host Name | Червь-пидор |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 20:21:58 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:23:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601811762469 |
+| Players | 1/8 |
+| Host Name | HollowKnight |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:23:22 |
 
 
