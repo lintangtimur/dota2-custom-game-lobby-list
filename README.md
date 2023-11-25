@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601786875092 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | БУБУЕБУЛЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:01:46 |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | skorpik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:02:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601787483741 |
-| Players | 1/10 |
-| Host Name | Petro |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:02:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601760944487 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | SI |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:38:06 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:15:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601787089635 |
-| Players | 6/8 |
-| Host Name | Inoculisfurorem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:01:57 |
+| Lobby ID | 28531601787560016 |
+| Players | 1/24 |
+| Host Name | Montero Sports |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:02:23 |
 
 
 |  | ot3_gardens_duo |
@@ -101,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:00:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601783729438 |
-| Players | 1/24 |
-| Host Name | Montero Sports |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:59:00 |
+| Lobby ID | 28531601787577335 |
+| Players | 4/15 |
+| Host Name | baguette |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:02:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601787695868 |
+| Players | 1/15 |
+| Host Name | 5h4k3R |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:02:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601787660102 |
+| Players | 1/8 |
+| Host Name | Gay ruin |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:02:28 |
 
 
