@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:34:36 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601558266511 |
-| Players | 1/10 |
-| Host Name | ѕυρρσят |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:35:02 |
+| Lobby ID | 28531601558738417 |
+| Players | 2/5 |
+| Host Name | THE GINGER DESTROYER! |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 15:35:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601558353408 |
-| Players | 1/24 |
-| Host Name | TheWorstInme |
+| Lobby ID | 28531601558296068 |
+| Players | 17/24 |
+| Host Name | ็Tao về |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:35:09 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:35:04 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601557009553 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | bert |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:33:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601558296068 |
-| Players | 14/24 |
-| Host Name | ็Tao về |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:35:04 |
+| Lobby ID | 28531601558724658 |
+| Players | 2/15 |
+| Host Name | Elias |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:35:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601558732485 |
+| Players | 1/8 |
+| Host Name | bra4o4a enjoyer pma only |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:35:40 |
 
 
