@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601341598305 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Mendenhall |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601341472679 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | NIX fury |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601341937632 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ketamine |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:17:25 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601342678329 |
-| Players | 1/15 |
-| Host Name | Drink VODKA Play Dotka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:19:02 |
+| Lobby ID | 28531601342697980 |
+| Players | 1/8 |
+| Host Name | vicderrR.D |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:19:04 |
 
 
