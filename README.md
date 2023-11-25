@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:27:25 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601750123977 |
+| Players | 1/10 |
+| Host Name | Miss-Cat |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 19:27:54 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -40,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601749288154 |
-| Players | 12/15 |
-| Host Name | Вахуе допиваю чай |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:27:05 |
+| Lobby ID | 28531601748350177 |
+| Players | 14/15 |
+| Host Name | ヤマト |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:26:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601748764082 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Анатолий |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:26:35 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601748494687 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Руинит Бария |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:26:20 |
@@ -95,18 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601748598718 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Winter Night |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:26:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601749765291 |
-| Players | 1/15 |
-| Host Name | 老司机 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:27:33 |
+| Lobby ID | 28531601750026499 |
+| Players | 5/8 |
+| Host Name | \ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:27:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601750107803 |
+| Players | 2/10 |
+| Host Name | Картофельный муд |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:27:53 |
 
 
