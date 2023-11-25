@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:16:26 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601946047366 |
+| Players | 8/10 |
+| Host Name | Pai |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 22:11:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601951806218 |
@@ -47,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:15:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601951649363 |
-| Players | 6/8 |
-| Host Name | olejanito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:16:33 |
+| Lobby ID | 28531601952632942 |
+| Players | 2/10 |
+| Host Name | UR'SUS |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 22:17:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601952112657 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ♪ Музыка ♪ |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:16:56 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601952277951 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Dont Be Sad :< |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:17:04 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601952302632 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Strelok228 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 22:17:05 |
@@ -94,10 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601952269389 |
-| Players | 5/8 |
-| Host Name | 5 пос няша |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 22:17:04 |
+| Lobby ID | 28531601952576548 |
+| Players | 1/8 |
+| Host Name | выживалово prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:17:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601952578173 |
+| Players | 1/8 |
+| Host Name | Scraper |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:17:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601952598823 |
+| Players | 2/24 |
+| Host Name | calm down |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:17:20 |
 
 
