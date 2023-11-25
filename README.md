@@ -4,17 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601341082352 |
-| Players | 9/10 |
-| Host Name | Vhiyoulette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:15:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601343233128 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Slava_Ukraine |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:13 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342968187 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:19:39 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601343186187 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Drink VODKA Play Dotka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:07 |
@@ -92,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601343296042 |
-| Players | 1/8 |
-| Host Name | сергей маляр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:20:21 |
+| Lobby ID | 28531601343333389 |
+| Players | 1/10 |
+| Host Name | INFINITY |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:20:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601341494330 |
+| Players | 9/10 |
+| Host Name | єℓ ρα∂яιησ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:28 |
 
 
