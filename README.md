@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601490981741 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | kaaa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:57:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601491445852 |
+| Players | 1/5 |
+| Host Name | IIpopok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:58:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601489818390 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:55:53 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601485781087 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | IO 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:34 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601488369847 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 林 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:53:38 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -76,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601490800647 |
-| Players | 5/8 |
-| Host Name | ♡ |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:57:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28531601490341102 |
 | Players | 1/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:56:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601491503575 |
+| Players | 1/15 |
+| Host Name | Lover |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:58:32 |
 
 
