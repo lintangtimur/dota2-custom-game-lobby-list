@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601432852409 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Panda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:18:46 |
@@ -58,33 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601432948284 |
-| Players | 22/24 |
-| Host Name | 9S |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:18:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601434311815 |
-| Players | 4/8 |
-| Host Name | el tio de bryan 30CM |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:21:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601434184097 |
-| Players | 1/24 |
-| Host Name | FlowerBoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:21:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28531601434284037 |
 | Players | 4/24 |
 | Host Name | Dr Tazerenix |
@@ -104,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601434496010 |
-| Players | 2/10 |
-| Host Name | Marcce |
+| Players | 1/10 |
+| Host Name | Zalec Frey |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:46 |
 
