@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602183403438 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | HowDareYou |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 02:00:09 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602182126027 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Evlogos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 01:58:46 |
@@ -191,21 +191,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 02:00:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602183645346 |
-| Players | 2/10 |
-| Host Name | Chebypelya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:00:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602183683082 |
-| Players | 4/8 |
-| Host Name | Call Down по кiевy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:00:26 |
+| Lobby ID | 28531602183766731 |
+| Players | 3/15 |
+| Host Name | the_aLeXiS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:00:32 |
 
 
