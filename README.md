@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601449594187 |
-| Players | 8/10 |
-| Host Name | свиня джакузі |
+| Lobby ID | 28531601456445317 |
+| Players | 1/10 |
+| Host Name | Numd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:48:50 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:00:58 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601455319964 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | GusGus |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:58:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601454720387 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Donfrulli |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:57:56 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601455147464 |
-| Players | 3/8 |
-| Host Name | Riltex |
+| Players | 1/8 |
+| Host Name | N•R] Shaker.PMA:) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:58:40 |
 
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601456191141 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | PANZE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:00:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601456265492 |
-| Players | 1/15 |
-| Host Name | June♫ |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 13:00:39 |
+| Lobby ID | 28531601456440471 |
+| Players | 2/24 |
+| Host Name | Anri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:00:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601456475664 |
+| Players | 1/24 |
+| Host Name | 布袋坑货 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:01:01 |
 
 
