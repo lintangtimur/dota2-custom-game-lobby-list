@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602381923858 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Уеб@Н |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:22:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602381111434 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | -BLUE LABEL De JHONNIE WALKER |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:20:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602381705083 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | qweasd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:21:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602381128523 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:20:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602379691688 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Mile Jahacica |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602380953606 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:20:31 |
@@ -104,18 +104,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602381755112 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Ярик Добрый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:22:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602381961886 |
-| Players | 1/24 |
-| Host Name | -Cr0zz- |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:22:24 |
+| Lobby ID | 28531602381343466 |
+| Players | 3/8 |
+| Host Name | Pegisuee |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:21:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602382000847 |
+| Players | 3/8 |
+| Host Name | вафли |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:22:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602382037191 |
+| Players | 1/15 |
+| Host Name | SP_&#! -J- |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:22:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602382048358 |
+| Players | 2/8 |
+| Host Name | Krosher |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:22:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602382083026 |
+| Players | 1/8 |
+| Host Name | useless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:22:37 |
 
 
