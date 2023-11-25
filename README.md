@@ -11,19 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:55:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601579485788 |
-| Players | 3/10 |
-| Host Name | クリシャ |
+| Lobby ID | 28531601579638851 |
+| Players | 2/5 |
+| Host Name | Василич |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:03:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601579722607 |
+| Players | 1/5 |
+| Host Name | Ippo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:03:21 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:03:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601563357474 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EL CORTA NALGAS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 15:41:52 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601577057296 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:00:07 |
@@ -72,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rostik Smurf |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:01:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601578139630 |
-| Players | 7/8 |
-| Host Name | 12 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:01:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601579335176 |
-| Players | 1/8 |
-| Host Name | школьник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:03:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601578847068 |
-| Players | 7/15 |
-| Host Name | Люблю Сашу Блауз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:02:30 |
 
 
 |  | ot3_gardens_duo |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LIMBO4KA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:03:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601578847068 |
+| Players | 9/15 |
+| Host Name | Люблю Сашу Блауз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:02:30 |
 
 
