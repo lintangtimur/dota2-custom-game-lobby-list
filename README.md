@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:49:49 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601614249930 |
-| Players | 9/10 |
-| Host Name | クリシャ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:50:26 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601615587336 |
@@ -69,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601614980194 |
 | Players | 9/10 |
-| Host Name | antagonist |
+| Host Name | Нежнятина |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:51:24 |
 
@@ -81,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pkc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:50:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601615755756 |
+| Players | 1/8 |
+| Host Name | Copvix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:52:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601615786696 |
+| Players | 1/15 |
+| Host Name | Паучье чутьё |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:52:30 |
 
 
