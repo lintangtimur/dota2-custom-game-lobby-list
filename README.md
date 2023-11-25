@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601460965015 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:08:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601462080532 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 504 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601461419835 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:09:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601462527806 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Auna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:11:35 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601462778963 |
+| Players | 1/15 |
+| Host Name | TURBOCRINGE |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 13:12:01 |
 
 
