@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:50:33 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602364854258 |
+| Players | 1/10 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:18 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602362357975 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | MONEY IS GONE |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:48:07 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602364640474 |
-| Players | 8/10 |
-| Host Name | 椅子凳子他妈的妻子椅 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:51:56 |
+| Lobby ID | 28531602364899034 |
+| Players | 1/10 |
+| Host Name | avestruz |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602364519609 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | <Arkany> |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:51:44 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602364751808 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:08 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602364803964 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CACHA SUPORTS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:13 |
@@ -99,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kyford |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602364748452 |
+| Players | 6/8 |
+| Host Name | cesa |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602364884834 |
+| Players | 2/10 |
+| Host Name | Ничего нового |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602364878460 |
+| Players | 1/24 |
+| Host Name | :PowerAutomate |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:20 |
 
 
