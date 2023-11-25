@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601499307245 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:10:33 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:09:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601499323174 |
-| Players | 9/10 |
-| Host Name | CANCELUL |
+| Lobby ID | 28531601500500559 |
+| Players | 2/8 |
+| Host Name | HollowKnight |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:10:35 |
+| Lobby Creation Time | Saturday, November 25, 2023 14:12:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -71,15 +71,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:12:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601500500559 |
-| Players | 1/8 |
-| Host Name | HollowKnight |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:12:21 |
 
 
