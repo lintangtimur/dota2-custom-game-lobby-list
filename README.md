@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601838252090 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 印度代购神药专卖 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:45:08 |
@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:21 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601839933636 |
+| Players | 1/5 |
+| Host Name | 冰凌 |
+| Region | Unknown |
+| Lobby Creation Time | Saturday, November 25, 2023 20:46:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601839459951 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Kapa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:07 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601839791712 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | nahryuk status |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:23 |
