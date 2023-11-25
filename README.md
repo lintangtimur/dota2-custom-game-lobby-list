@@ -4,26 +4,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602219401684 |
-| Players | 1/10 |
-| Host Name | SoGEKINGGG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:39:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531602219423959 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | БОМЖ КОМПОТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:39:20 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602219492226 |
+| Players | 1/5 |
+| Host Name | × WΛSTΣD × |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:25 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602218976648 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | not human (животное) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602213915779 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:33:15 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602215597080 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mr. Meepo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:35:05 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602218933289 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MalaHierba |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:48 |
@@ -131,36 +131,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602218449549 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Romando |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 02:38:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602218716941 |
-| Players | 13/15 |
-| Host Name | Ahom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:38:34 |
+| Lobby ID | 28531602219433882 |
+| Players | 4/8 |
+| Host Name | die young |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602219436971 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Shikamaru |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 02:39:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602219433882 |
-| Players | 3/8 |
-| Host Name | die young |
+| Lobby ID | 28531602219554492 |
+| Players | 5/15 |
+| Host Name | угроза НАТО |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:39:21 |
+| Lobby Creation Time | Sunday, November 26, 2023 02:39:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602218145834 |
+| Players | 9/10 |
+| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:37:55 |
 
 
