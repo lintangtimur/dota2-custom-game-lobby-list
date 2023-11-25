@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601395418887 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:06:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601394401906 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601394332694 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:13 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:06:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601394836110 |
-| Players | 9/10 |
-| Host Name | El Diferente |
+| Lobby ID | 28531601395741861 |
+| Players | 4/24 |
+| Host Name | Emounicorn |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:05:16 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:07:06 |
 
 
 |  | ot3_jungle_quintet |
