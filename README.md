@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:38:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602319676659 |
-| Players | 6/8 |
-| Host Name | TMS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:42:51 |
+| Lobby ID | 28531602304027698 |
+| Players | 23/24 |
+| Host Name | Meow 🐾 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:21:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602320314959 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Confused™ |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:43:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602319730846 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | 櫛枝 実乃梨 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:42:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602320262914 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | this cake is awful guys fuck it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:43:41 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:43:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602313958647 |
+| Players | 23/24 |
+| Host Name | guardiamanche |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 04:34:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602317755932 |
+| Players | 9/10 |
+| Host Name | Deus Ex Máchina |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 04:40:09 |
 
 
