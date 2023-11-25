@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602325558592 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:51:11 |
@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:51:46 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602324921407 |
-| Players | 4/5 |
-| Host Name | andrii99907 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:50:16 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602325405308 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:50:58 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322910432 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | New York Bozo |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:47:24 |
@@ -58,28 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602325948747 |
-| Players | 14/15 |
-| Host Name | Иван Рампага |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:51:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602325973681 |
-| Players | 2/8 |
-| Host Name | aGOnaFaLL |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:51:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531602326084307 |
 | Players | 3/15 |
 | Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:51:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602325973681 |
+| Players | 4/8 |
+| Host Name | aGOnaFaLL |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:51:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602326320680 |
+| Players | 3/8 |
+| Host Name | Добрый день |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:52:16 |
 
 
