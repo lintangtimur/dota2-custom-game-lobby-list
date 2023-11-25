@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602367898528 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Ace of Sp♠︎des |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:29 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602380066935 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | SOLO PIERDO POR MIS CORES KKS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602379995386 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 06:18:44 |
+| Lobby ID | 28531602381705083 |
+| Players | 1/8 |
+| Host Name | qweasd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:21:55 |
 
 
 |  | ot3_gardens_duo |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602380953606 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:20:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602378253777 |
-| Players | 23/24 |
-| Host Name | JERB en busca de Contrato |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:15:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602381128769 |
-| Players | 8/10 |
-| Host Name | Tonpoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:20:51 |
 
 
 |  | ot3_desert_octet |
@@ -117,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hirbodam :D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:21:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602381782679 |
+| Players | 3/8 |
+| Host Name | I'm getting worse every day |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:22:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602381755112 |
+| Players | 2/15 |
+| Host Name | Ярик Добрый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:22:01 |
 
 
