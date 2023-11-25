@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531602349567236 |
-| Players | 2/7 |
-| Host Name | Shobbar |
+| Players | 1/7 |
+| Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:27:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602349613789 |
+| Players | 1/5 |
+| Host Name | Shobbar |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:27:28 |
 
 
 |  | ot3_desert_octet |
@@ -94,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602348847967 |
-| Players | 7/8 |
-| Host Name | femboy_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:26:16 |
+| Lobby ID | 28531602349244189 |
+| Players | 4/8 |
+| Host Name | Fzforza(-1k) |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602348789568 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | adriwazaxd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:10 |
@@ -131,18 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602349470607 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | здаров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:27:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602349244189 |
-| Players | 3/8 |
-| Host Name | Fzforza(-1k) |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 05:26:53 |
+| Lobby ID | 28531602349590814 |
+| Players | 13/15 |
+| Host Name | Dayme_RVG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:27:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602349597641 |
+| Players | 6/10 |
+| Host Name | beligol |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 05:27:27 |
 
 
