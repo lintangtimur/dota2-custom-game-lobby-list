@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602255451761 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:52 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602256842987 |
-| Players | 9/10 |
-| Host Name | Popig Immortal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:22:32 |
+| Lobby ID | 28531602257221150 |
+| Players | 2/10 |
+| Host Name | 123123123123123123 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:22:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602255442342 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602255736806 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ⌡™ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:21:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602256443468 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | JoJo |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 03:22:03 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602257104188 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Good Vibes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:22:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602257157095 |
-| Players | 3/8 |
-| Host Name | Gojo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:22:54 |
 
 
