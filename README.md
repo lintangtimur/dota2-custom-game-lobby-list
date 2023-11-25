@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601584476239 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Autsayder |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:10:03 |
@@ -23,17 +23,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601588231564 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Xiao Xiao |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 16:15:06 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601588830728 |
+| Players | 1/10 |
+| Host Name | Отошёл покурить |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:15:54 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601585418588 |
-| Players | 15/24 |
-| Host Name | Irif |
+| Players | 17/24 |
+| Host Name | иисус доты |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:11:19 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -74,30 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:15:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601586841714 |
-| Players | 6/8 |
-| Host Name | 22 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:13:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601587737364 |
-| Players | 15/15 |
-| Host Name | Dionis92 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:14:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601587736137 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | KAWAii |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:14:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601588704011 |
+| Players | 3/10 |
+| Host Name | Sir Mahmud |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:15:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601588762309 |
+| Players | 1/8 |
+| Host Name | LeamuR |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:15:49 |
 
 
