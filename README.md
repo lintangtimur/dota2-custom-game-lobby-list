@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601617225349 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 奇瓦瓦尼奇 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:54:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601617791665 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:55:15 |
@@ -112,17 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601618372764 |
-| Players | 14/15 |
-| Host Name | goblin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:56:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531601618371108 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Why do you cum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:56:04 |
