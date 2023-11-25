@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601538891160 |
-| Players | 5/8 |
-| Host Name | hahahehehoho |
+| Lobby ID | 28531601543789659 |
+| Players | 6/24 |
+| Host Name | ็Tao về |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:08:27 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:15:14 |
 
 
 |  | ot3_gardens_duo |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601543631702 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | SEREGA HUGE FAN |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:15:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601543721181 |
-| Players | 1/8 |
-| Host Name | p2friendship |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:15:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601543789659 |
-| Players | 5/24 |
-| Host Name | ็Tao về |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:15:14 |
 
 
