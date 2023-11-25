@@ -23,10 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601986629367 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | robertosacoman |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 22:45:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601987222143 |
+| Players | 1/10 |
+| Host Name | Condoriano |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:46:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601985036875 |
+| Players | 10/10 |
+| Host Name | heheehe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:44:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601987353819 |
+| Players | 1/5 |
+| Host Name | Dark_warrior |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:46:36 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601986628912 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Run-NSK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:45:59 |
@@ -59,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601985263797 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Dankiღ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:44:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601981261854 |
-| Players | 9/10 |
-| Host Name | sindi |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:41:22 |
+| Lobby ID | 28531601987350645 |
+| Players | 1/8 |
+| Host Name | Ready GO |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:46:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601981805438 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 規律 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:41:49 |
@@ -95,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601986918144 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | Paj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:46:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601986730449 |
-| Players | 1/8 |
-| Host Name | АЙКУ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:46:04 |
+| Lobby ID | 28531601974430451 |
+| Players | 22/24 |
+| Host Name | M |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:35:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601985937421 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Legendary.NA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:45:23 |
@@ -149,36 +176,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601987021602 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | 幫助擰松 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:46:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601986867066 |
-| Players | 1/15 |
-| Host Name | ◉ ᴀᴍᴇɴᴏꜱɪꜱ • |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:46:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601986632306 |
-| Players | 7/8 |
-| Host Name | not for ******s |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:45:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601974430451 |
-| Players | 23/24 |
-| Host Name | M |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 22:35:35 |
 
 
