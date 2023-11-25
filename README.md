@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601384676699 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | Arcade Gannon |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:44:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601385286224 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Inkacola>>>cocacolagiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601385130099 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Black Raven |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601385230154 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | wi wi |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601386053530 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Бозон Хиггса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:47:17 |
