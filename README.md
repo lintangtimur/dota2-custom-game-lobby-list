@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602370371871 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Trell |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:01:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602367898528 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Meow 🐾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602369712273 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Tereu |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 06:00:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602369253303 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:59:46 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602369518835 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ccp el tio pio<3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:00:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602369265301 |
-| Players | 4/8 |
-| Host Name | Miracle- |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 05:59:48 |
+| Lobby ID | 28531602370827502 |
+| Players | 7/10 |
+| Host Name | DATKA |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:02:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:00:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602370756850 |
-| Players | 1/10 |
-| Host Name | SadR1der |
+| Lobby ID | 28531602370803100 |
+| Players | 1/24 |
+| Host Name | Yappy |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 06:02:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602370851607 |
+| Players | 1/8 |
+| Host Name | kazlina |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:02:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602370764046 |
-| Players | 1/10 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:02:22 |
+| Lobby Creation Time | Sunday, November 26, 2023 06:02:31 |
 
 
