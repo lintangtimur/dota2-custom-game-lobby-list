@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:27:44 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601407314355 |
+| Players | 1/10 |
+| Host Name | don.№1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:30:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601401749285 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601405543364 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:26:46 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601406854669 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | imagination |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:29:21 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601406906052 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | jake69 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:29:27 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601405474988 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Big Cam |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:26:37 |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601405091327 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | 브라이언 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:25:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601407167883 |
+| Players | 1/8 |
+| Host Name | Celedonio me lo llamo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:29:58 |
 
 
