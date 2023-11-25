@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601405353954 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Buho |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:26:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601403372672 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Влад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:22:25 |
@@ -41,9 +41,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601405091327 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 브라이언 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:25:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601405474988 |
+| Players | 1/24 |
+| Host Name | Big Cam |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:26:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601405543364 |
+| Players | 1/24 |
+| Host Name | TiltedGuy |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:26:46 |
 
 
