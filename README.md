@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601337098885 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | C0D3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:06:53 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601337670159 |
-| Players | 2/10 |
-| Host Name | Al Capone |
+| Players | 3/10 |
+| Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:08:10 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601337036736 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Ищу девушку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:06:45 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tmr |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:07:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601337743099 |
+| Players | 3/15 |
+| Host Name | ALFALFITA EL SOLITARIO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:08:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601337766733 |
+| Players | 1/10 |
+| Host Name | whxts wrxng with u? |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:08:23 |
 
 
