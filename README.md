@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602119483032 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | agr0ths |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:53:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602120843452 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Dr.zLo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:54:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602118108393 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | PudgeBuenGanzo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:52:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602122015254 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:56:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602116439427 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | OTwarrior |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:50:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602118912802 |
-| Players | 14/24 |
+| Players | 10/24 |
 | Host Name | Arkky |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:53:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602120986799 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | aga aga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:55:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602121387986 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Lolo |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:55:32 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602122196351 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Rikoskin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:56:20 |
@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602122217314 |
-| Players | 6/8 |
-| Host Name | Святий Отець |
+| Players | 1/8 |
+| Host Name | Max Belaz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:56:21 |
 
@@ -166,19 +166,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602122282583 |
-| Players | 3/8 |
-| Host Name | Only I am worthy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:56:25 |
+| Lobby ID | 28531602122405568 |
+| Players | 6/8 |
+| Host Name | Заложник таверны |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 00:56:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602122296362 |
+| Lobby ID | 28531602122397340 |
+| Players | 1/8 |
+| Host Name | ♬ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 00:56:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602122456527 |
+| Players | 2/10 |
+| Host Name | ЕБАДОЛБ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 00:56:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602122461723 |
 | Players | 3/8 |
-| Host Name | Wizzard |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:56:25 |
+| Host Name | pescy❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 00:56:35 |
 
 
