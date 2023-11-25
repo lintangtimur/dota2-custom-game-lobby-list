@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601671176704 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:03:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601670665560 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Чемпион зверей |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:03:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | имо кфу enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601667335588 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | zLostControl |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601671846255 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Saturn.net |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:04:40 |
@@ -95,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601671934250 |
-| Players | 3/15 |
-| Host Name | ♡ あけおめ！ことよろ |
+| Players | 7/15 |
+| Host Name | G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:04:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601672062568 |
-| Players | 1/8 |
-| Host Name | AMMAR_THE_SPONGEBOB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:04:55 |
+| Lobby ID | 28531601672163012 |
+| Players | 3/8 |
+| Host Name | B.I.G ZXC Leonid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:05:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601669632265 |
+| Players | 3/8 |
+| Host Name | Geneva146 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:02:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601672399966 |
+| Players | 2/10 |
+| Host Name | Гоблин младший |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:05:19 |
 
 
