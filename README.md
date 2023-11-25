@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:55:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601579435136 |
-| Players | 1/5 |
-| Host Name | Julian Ainsworth |
+| Lobby ID | 28531601579485788 |
+| Players | 3/10 |
+| Host Name | クリシャ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:03:17 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:03:21 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601577057296 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:00:07 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LIMBO4KA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:03:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601579438496 |
-| Players | 5/8 |
-| Host Name | шиноби скрытого п |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:03:17 |
 
 
