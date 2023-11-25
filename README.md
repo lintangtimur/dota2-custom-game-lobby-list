@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601475847428 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Waui |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:33:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601478203243 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TheConcernedTeammate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:37:28 |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:17:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601478154938 |
-| Players | 1/24 |
-| Host Name | Mid |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 13:37:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601476977608 |
-| Players | 8/10 |
-| Host Name | РАЙАН ГОСЛИНГ |
+| Lobby ID | 28531601478663652 |
+| Players | 1/15 |
+| Host Name | king of fools |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:35:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601478457203 |
-| Players | 6/24 |
-| Host Name | Auna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:37:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:38:12 |
 
 
 |  | ot3_desert_octet |
@@ -101,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:38:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601478663652 |
-| Players | 1/15 |
-| Host Name | king of fools |
+| Lobby ID | 28531601478457203 |
+| Players | 11/24 |
+| Host Name | Auna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:37:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601478798187 |
+| Players | 1/10 |
+| Host Name | danechek |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:38:12 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:38:26 |
 
 
