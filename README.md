@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:15:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601340661261 |
-| Players | 3/10 |
-| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:14:39 |
+| Lobby ID | 28531601341253527 |
+| Players | 1/24 |
+| Host Name | Sirius/Void |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:15:56 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601340712805 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Subz |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:14:46 |
@@ -50,26 +50,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601340947529 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | TIBURONCIN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:15:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601340033702 |
-| Players | 21/24 |
-| Host Name | (;v) |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:13:20 |
+| Lobby ID | 28531601341223679 |
+| Players | 1/15 |
+| Host Name | 星云天空 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:15:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601340041365 |
-| Players | 5/8 |
-| Host Name | Press F |
+| Players | 4/8 |
+| Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:21 |
 
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601340231953 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Смурфетта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601341304206 |
+| Players | 5/8 |
+| Host Name | Kaysea |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601341306578 |
+| Players | 1/8 |
+| Host Name | Rem is life<3 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:03 |
 
 
