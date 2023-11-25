@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:43:25 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601710790566 |
-| Players | 1/7 |
-| Host Name | dead inside |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 18:48:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Nadal (ALL MUTED) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601710482207 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:47:43 |
@@ -94,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601710735535 |
-| Players | 8/10 |
-| Host Name | адреналайн |
+| Lobby ID | 28531601710862351 |
+| Players | 4/10 |
+| Host Name | почти разумный |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:47:59 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:48:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601709325701 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:46:30 |
@@ -117,32 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | winawat |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:47:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601705160156 |
-| Players | 7/8 |
-| Host Name | LionKingZ` |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 18:42:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601710616240 |
-| Players | 1/15 |
-| Host Name | Димка Невидимка |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:47:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601710791079 |
-| Players | 5/8 |
-| Host Name | буткемп в концлагере |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:48:02 |
 
 
