@@ -22,38 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601327526419 |
-| Players | 9/10 |
-| Host Name | t.me/deicospl |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601330710526 |
-| Players | 2/7 |
+| Lobby ID | 28531601330869408 |
+| Players | 2/10 |
 | Host Name | 泡泡男孩 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:52:34 |
+| Lobby Creation Time | Saturday, November 25, 2023 08:52:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601330694132 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Cocorz28 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:52:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601329791931 |
-| Players | 3/8 |
-| Host Name | Mr.Joint |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:50:30 |
+| Lobby ID | 28531601330850912 |
+| Players | 2/10 |
+| Host Name | Princesa Yogurt Helado |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 08:52:52 |
 
 
 |  | ot3_desert_octet |
@@ -83,30 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601329609224 |
-| Players | 9/10 |
-| Host Name | Janmix |
+| Lobby ID | 28531601329274102 |
+| Players | 23/24 |
+| Host Name | samn |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 08:50:06 |
+| Lobby Creation Time | Saturday, November 25, 2023 08:49:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601330447691 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | nihao |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:51:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601330538002 |
-| Players | 6/8 |
-| Host Name | Kaysea |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 08:52:11 |
+| Lobby ID | 28531601330772610 |
+| Players | 1/15 |
+| Host Name | Redemption1950 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:52:42 |
 
 
