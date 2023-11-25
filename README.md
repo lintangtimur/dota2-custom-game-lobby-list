@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601428205907 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | emu |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:10:16 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zhl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:09:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601428245680 |
-| Players | 1/15 |
-| Host Name | idc mindset |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:10:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601428261226 |
-| Players | 1/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:10:22 |
 
 
