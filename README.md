@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601371251860 |
-| Players | 14/15 |
+| Players | 11/15 |
 | Host Name | ПРОСТА ПИЗДЕЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:17:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601370631889 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:16:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601370961040 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | -_^ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:16:59 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 范马超人强 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:17:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601371409780 |
-| Players | 1/15 |
-| Host Name | dROOPY |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:17:53 |
 
 
