@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602195893981 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | shura1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:13:30 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 02:01:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602195604685 |
-| Players | 3/8 |
-| Host Name | vdm |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:12 |
+| Lobby ID | 28531602196205170 |
+| Players | 8/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 02:13:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602189844401 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:07:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602193415787 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Interpol |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:10:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602193885489 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | X4nD3riiXx |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:11:21 |
@@ -122,28 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602195360454 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:12:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602195503438 |
-| Players | 7/15 |
-| Host Name | женя |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:05 |
+| Lobby ID | 28531602196228943 |
+| Players | 1/8 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:13:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602195490411 |
-| Players | 1/10 |
-| Host Name | 如果我干了你我很抱歉 |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:04 |
+| Lobby ID | 28531602195841057 |
+| Players | 9/10 |
+| Host Name | Wiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:13:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -158,19 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602195564851 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Latto |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 02:13:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602195628056 |
-| Players | 6/8 |
-| Host Name | mode: Independent |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -182,30 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 02:13:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602195841057 |
-| Players | 3/10 |
-| Host Name | Wiz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602195814274 |
-| Players | 1/15 |
-| Host Name | narcomaniac |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602195975030 |
-| Players | 1/10 |
-| Host Name |  |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:13:35 |
+| Lobby ID | 28531602196293454 |
+| Players | 5/8 |
+| Host Name | abuzeir1996 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 02:13:55 |
 
 
