@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601592887210 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 为毛？ |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 16:21:21 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601596720640 |
-| Players | 5/8 |
-| Host Name | tendou |
+| Players | 4/8 |
+| Host Name | youkai𓆩 𓆪 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:26:33 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601598752889 |
-| Players | 7/8 |
-| Host Name | Cago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:29:17 |
+| Lobby ID | 28531601599158309 |
+| Players | 4/15 |
+| Host Name | positive vibes |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:29:50 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601598276718 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:28:39 |
@@ -112,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601599157821 |
+| Lobby ID | 28531601599390042 |
 | Players | 2/8 |
-| Host Name | casual dota2 player |
+| Host Name | Енот |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:29:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601599158309 |
-| Players | 3/15 |
-| Host Name | positive vibes |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:29:50 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:30:09 |
 
 
