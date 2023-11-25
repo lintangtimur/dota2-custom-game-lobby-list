@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602374721834 |
-| Players | 3/5 |
-| Host Name | Kratos |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:09:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602376016033 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602377343244 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | yr8 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:13:54 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602376419405 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | xiwu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:12:16 |
@@ -86,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602375557794 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 06:10:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602375596688 |
-| Players | 23/24 |
-| Host Name | Perro chusco |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:10:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602378056638 |
-| Players | 8/10 |
-| Host Name | hhh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:15:12 |
 
 
 |  | ot3_gardens_duo |
