@@ -40,33 +40,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601636924034 |
-| Players | 8/10 |
-| Host Name | masl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:20:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601637118476 |
-| Players | 3/15 |
-| Host Name | hehe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:21:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601637173901 |
-| Players | 1/8 |
-| Host Name | Проходчики |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:21:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531601637177436 |
 | Players | 2/10 |
 | Host Name | anime na ave mat' v..... |
@@ -76,10 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601637232135 |
-| Players | 1/15 |
-| Host Name | sii me la kcheee yyyy ? |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 17:21:23 |
+| Lobby ID | 28531601637118476 |
+| Players | 11/15 |
+| Host Name | hehe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:21:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601637173901 |
+| Players | 2/8 |
+| Host Name | Проходчики |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:21:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601637355936 |
+| Players | 1/8 |
+| Host Name | 12 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:21:33 |
 
 
