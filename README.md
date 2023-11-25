@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601793742334 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | AltaExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:07:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601793330238 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:07:28 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601793941029 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | POPSON(Podpivasgaming)Гойда |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:08:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601794300113 |
-| Players | 3/8 |
-| Host Name | LGTB muslims <3 allah uwu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:08:19 |
+| Lobby ID | 28531601794110074 |
+| Players | 1/10 |
+| Host Name | Slaider |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 20:08:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601793460090 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | 引き籠もり [RU] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:07:35 |
@@ -139,10 +139,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601794110074 |
-| Players | 3/10 |
-| Host Name | Любитель капусты |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 20:08:09 |
+| Lobby ID | 28531601794554093 |
+| Players | 2/10 |
+| Host Name | 666666tlteD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:08:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601794574230 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:08:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601794595704 |
+| Players | 1/10 |
+| Host Name | Ajr |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:08:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601794609175 |
+| Players | 1/8 |
+| Host Name | Dead Game |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:08:36 |
 
 
