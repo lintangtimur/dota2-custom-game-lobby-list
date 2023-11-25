@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601435315237 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:23:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601438556781 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | อู้วววว นักเก็ตปลา |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:07 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601438924592 |
-| Players | 1/24 |
-| Host Name | Yuusei |
+| Lobby ID | 28531601438895859 |
+| Players | 16/24 |
+| Host Name | Genie |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:29:47 |
+| Lobby Creation Time | Saturday, November 25, 2023 12:29:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:27:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601438335169 |
-| Players | 1/24 |
-| Host Name | Satijah (free Palestine) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 12:28:43 |
+| Lobby ID | 28531601438837849 |
+| Players | 5/8 |
+| Host Name | Freddy Amilcar |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:29:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,32 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:27:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601438837849 |
-| Players | 4/8 |
-| Host Name | Freddy Amilcar |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:29:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601438895859 |
-| Players | 13/24 |
-| Host Name | Genie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:29:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601439769362 |
-| Players | 1/8 |
-| Host Name | Шкипер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:31:17 |
 
 
