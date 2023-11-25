@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:57:00 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601783123238 |
+| Players | 1/5 |
+| Host Name | CaT |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 19:58:27 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Nadal (ALL MUTED) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601778427637 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | 100 ммр гуль |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 19:54:11 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601760944487 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ElTioSad |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:38:06 |
@@ -77,45 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601782444117 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | NITRO ZEUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:57:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601781220744 |
-| Players | 1/15 |
-| Host Name | acc buyer |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 19:56:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601782316789 |
-| Players | 11/15 |
-| Host Name | faza |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:57:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601774836109 |
-| Players | 7/10 |
-| Host Name | LionKingZ` |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:50:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601782791629 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ௌௌௌௌௌௌௌௌௌௌ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:58:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601783063764 |
+| Players | 1/8 |
+| Host Name | nachinka enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:58:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601783033514 |
+| Players | 3/8 |
+| Host Name | 888 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:58:22 |
 
 
