@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601433609831 |
-| Players | 1/10 |
-| Host Name | свиня джакузі |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:20:10 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601434458228 |
@@ -18,6 +9,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЭшалОн |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601435315237 |
+| Players | 1/10 |
+| Host Name | свиня джакузі |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:23:15 |
 
 
 |  | ot3_gardens_duo |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zalec Frey |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601435215348 |
+| Players | 3/15 |
+| Host Name | Yerazog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:23:04 |
 
 
