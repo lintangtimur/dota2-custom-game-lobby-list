@@ -11,24 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:38:05 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601827167666 |
-| Players | 9/10 |
-| Host Name | Твоя бывшая |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:36:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601832802661 |
-| Players | 3/5 |
-| Host Name | araigness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:40:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601832073532 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Илюня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:40:07 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601826895994 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | EmiSaRio- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 20:35:53 |
@@ -94,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601831557729 |
-| Players | 5/8 |
-| Host Name | ~EpiLePtic_KiD~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:39:42 |
+| Lobby ID | 28531601833049790 |
+| Players | 1/8 |
+| Host Name | Forever Young |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:40:54 |
 
 
 |  | ot3_desert_octet |
@@ -113,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601832667569 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | ThisLifeRiding® |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:40:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601832830672 |
-| Players | 1/24 |
-| Host Name | dawn |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:40:43 |
+| Lobby ID | 28531601833050010 |
+| Players | 1/8 |
+| Host Name | mode sad |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:40:54 |
 
 
