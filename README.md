@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601587736137 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | KAWAii |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:14:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601589162972 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | нет |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 16:16:21 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601589237486 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LeamuR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:16:27 |
