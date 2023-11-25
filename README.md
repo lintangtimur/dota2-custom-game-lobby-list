@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:30:10 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602272131390 |
-| Players | 2/5 |
-| Host Name | 412353216546474567343 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:41:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602271986517 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602271208142 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 03:39:52 |
@@ -40,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602272839703 |
-| Players | 9/15 |
-| Host Name | raEN |
+| Lobby ID | 28531602269517133 |
+| Players | 14/15 |
+| Host Name | Путь на дно |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:41:52 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:37:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,5 +63,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SR.CaOs |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:39:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602272996135 |
+| Players | 1/8 |
+| Host Name | Aldair |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 03:42:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602269825277 |
+| Players | 23/24 |
+| Host Name | prepara el anuvis!!!! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 03:38:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602273026411 |
+| Players | 4/10 |
+| Host Name | c'est la vie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 03:42:05 |
 
 
