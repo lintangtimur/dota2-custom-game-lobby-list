@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601637691034 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:59 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601637835850 |
-| Players | 2/8 |
-| Host Name | нет |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 17:22:11 |
+| Lobby ID | 28531601637820751 |
+| Players | 4/8 |
+| Host Name | Nagi Seishiro- |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:22:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601637619969 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | kysok от печенья |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601637653358 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | АДСКИЙ САТАНА |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601637654188 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | HELP |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:56 |
