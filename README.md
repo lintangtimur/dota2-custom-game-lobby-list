@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601699227097 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Plaridel |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 18:35:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601702759959 |
-| Players | 7/15 |
-| Host Name | dyrachyo |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:39:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601698508748 |
-| Players | 4/24 |
-| Host Name | akirablin |
+| Lobby ID | 28531601701661936 |
+| Players | 14/15 |
+| Host Name | БОРЫЧ ТАЙМ БУЛЬВА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:34:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601702762186 |
-| Players | 8/10 |
-| Host Name | pasha;)HachAGE |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:39:30 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:38:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,19 +67,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601703214223 |
+| Lobby ID | 28531601696186291 |
+| Players | 22/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 18:32:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601703262345 |
 | Players | 1/24 |
-| Host Name | ? |
+| Host Name | ⍨  S O F T  ⍨ |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:39:58 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:40:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601703469456 |
+| Players | 5/10 |
+| Host Name | Росик |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:40:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601703167704 |
-| Players | 3/8 |
-| Host Name | dota enjoyer |
+| Lobby ID | 28531601703472211 |
+| Players | 4/8 |
+| Host Name | внезапный дэб |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:39:55 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:40:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601703489766 |
+| Players | 6/10 |
+| Host Name | 等我再品一次 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:40:16 |
 
 
