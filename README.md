@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:59:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601452271231 |
-| Players | 21/24 |
-| Host Name | ♉ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:53:34 |
+| Lobby ID | 28531601455319964 |
+| Players | 6/15 |
+| Host Name | GusGus |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:58:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601454720387 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Donfrulli |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:57:56 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Riltex |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:58:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601455319964 |
-| Players | 5/15 |
-| Host Name | GusGus |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:58:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601456024126 |
-| Players | 1/8 |
-| Host Name | Dead Game |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 13:00:12 |
 
 
