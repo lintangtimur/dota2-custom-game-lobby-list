@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601423852367 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Hellsatano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601424525878 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SR.CaOs |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:03:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601423968065 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:26 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601424074539 |
-| Players | 7/24 |
-| Host Name | Evi1Radiance |
+| Players | 6/24 |
+| Host Name | [HB]rumassa |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:38 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601424077571 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | AUTOPOIETICA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:38 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601424756972 |
-| Players | 1/15 |
-| Host Name | Akris |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:03:54 |
+| Lobby ID | 28531601424841751 |
+| Players | 6/15 |
+| Host Name | penny lover |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:04:03 |
 
 
