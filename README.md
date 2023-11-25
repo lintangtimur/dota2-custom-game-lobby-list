@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:26:53 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601970789707 |
+| Players | 1/5 |
+| Host Name | copsb |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Saturday, November 25, 2023 22:32:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601965553741 |
@@ -29,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:28:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601970082432 |
-| Players | 7/10 |
-| Host Name | Wukash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:31:55 |
+| Lobby ID | 28531601970878525 |
+| Players | 5/15 |
+| Host Name | скидаё |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:32:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601966468261 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Agua |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:28:52 |
@@ -83,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:32:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601969413531 |
-| Players | 7/8 |
-| Host Name | tantum verde |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 22:31:21 |
+| Lobby ID | 28531601970814150 |
+| Players | 3/15 |
+| Host Name | ку ку е |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:32:32 |
 
 
 |  | ot3_gardens_duo |
@@ -121,19 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601970440009 |
-| Players | 1/8 |
-| Host Name | What's the cost? |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 22:32:13 |
+| Lobby ID | 28531601970859091 |
+| Players | 3/8 |
+| Host Name | xD |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601970642059 |
-| Players | 2/15 |
-| Host Name | Кремлевский Führer |
+| Lobby ID | 28531601970790639 |
+| Players | 2/8 |
+| Host Name | soamoon |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:32:23 |
+| Lobby Creation Time | Saturday, November 25, 2023 22:32:30 |
 
 
