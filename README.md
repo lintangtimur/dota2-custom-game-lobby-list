@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601515387406 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Farewell, My paradise |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:34:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601516892286 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ID : T41104 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 14:36:42 |
@@ -56,39 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:29:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601515033795 |
-| Players | 13/15 |
-| Host Name | Женя Естрипер |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:33:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601515500492 |
-| Players | 5/10 |
-| Host Name | Mr. Карыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:34:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601514765624 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Z я Vарвар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:33:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601515500492 |
+| Players | 4/10 |
+| Host Name | Mr. Карыч |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:34:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601517117676 |
+| Players | 5/15 |
+| Host Name | //wws.zww/(9/.exe/fckfckfck |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:37:02 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601517031540 |
+| Lobby ID | 28531601517239063 |
 | Players | 1/24 |
-| Host Name | Portgas D Ace GoDota2.com |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 14:36:55 |
+| Host Name | jnikko |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 14:37:13 |
 
 
