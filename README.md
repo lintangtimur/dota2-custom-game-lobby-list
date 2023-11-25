@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601475847428 |
-| Players | 9/10 |
-| Host Name | Waui |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:33:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601481300242 |
 | Players | 2/10 |
 | Host Name | Lt. Wade Jackson |
@@ -31,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601477833317 |
-| Players | 23/24 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:36:52 |
+| Lobby ID | 28531601483010489 |
+| Players | 6/24 |
+| Host Name | RonnieDaBear |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:45:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601482298798 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:44:04 |
@@ -77,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601482156676 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:43:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601482920066 |
-| Players | 5/8 |
-| Host Name | ZeekkeeN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:45:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:45:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601483010489 |
-| Players | 6/24 |
-| Host Name | RonnieDaBear |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:45:13 |
+| Lobby ID | 28531601479564054 |
+| Players | 7/8 |
+| Host Name | messiwo™ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:39:39 |
 
 
