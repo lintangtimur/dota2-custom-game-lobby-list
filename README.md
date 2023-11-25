@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601846084306 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mori Qualme |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:51:31 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:51:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601849041965 |
-| Players | 10/10 |
-| Host Name | 7AM OHIO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:53:55 |
+| Lobby ID | 28531601847236033 |
+| Players | 16/24 |
+| Host Name | bottomson |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:52:27 |
 
 
 |  | ot3_gardens_duo |
@@ -95,18 +95,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601846695788 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | CP3 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 20:52:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601847236033 |
-| Players | 16/24 |
-| Host Name | bottomson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:52:27 |
+| Lobby ID | 28531601849711100 |
+| Players | 7/15 |
+| Host Name | Good Vibes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:54:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601849656129 |
+| Players | 3/8 |
+| Host Name | Big Mama (yulezz) |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:54:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601849665014 |
+| Players | 6/8 |
+| Host Name | Нина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:54:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601849725674 |
+| Players | 1/15 |
+| Host Name | Toffy |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:54:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601849733295 |
+| Players | 4/10 |
+| Host Name | фаршмачный куканидзе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:54:28 |
 
 
