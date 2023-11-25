@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601394401906 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601393992037 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | !Snow |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:03:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601392659055 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | смерть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:00:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601394836110 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601394742325 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | skoro:leto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Whiskas Renacido <3 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601394953751 |
+| Players | 1/8 |
+| Host Name | Frozen |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:05:30 |
 
 
