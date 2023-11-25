@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601372532827 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:20:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601372460829 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Midas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:19:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601370631889 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:16:20 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601371660778 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:18:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601372080803 |
-| Players | 14/15 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:19:14 |
+| Lobby ID | 28531601372777278 |
+| Players | 1/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 10:20:37 |
 
 
 |  | ot3_gardens_duo |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:20:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601372777278 |
-| Players | 1/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 10:20:37 |
+| Lobby ID | 28531601372937560 |
+| Players | 1/15 |
+| Host Name | Pray for something |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:20:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601372955472 |
+| Players | 3/8 |
+| Host Name | Guts |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:20:58 |
 
 
