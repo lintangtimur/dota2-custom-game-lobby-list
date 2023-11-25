@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602253177997 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Еблан |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:18:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602246304273 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:10:04 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602253020157 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Pablo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:17:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602250401462 |
-| Players | 7/8 |
-| Host Name | ttv/te_tyanka |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:14:53 |
+| Lobby ID | 28531602253481802 |
+| Players | 1/10 |
+| Host Name | Wiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 03:18:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:16:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602252987943 |
-| Players | 2/8 |
-| Host Name | 漩涡trevoga |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:17:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602251557500 |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | INFINITY |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:16:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602253536618 |
+| Players | 4/8 |
+| Host Name | Flaimi_sad知性кокоё |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:18:35 |
 
 
