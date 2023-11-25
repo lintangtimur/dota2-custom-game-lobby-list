@@ -5,25 +5,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601752127098 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ДЕВОЧКА ИЗ АНИМЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:29:49 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601752112251 |
-| Players | 1/5 |
-| Host Name | Хранитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:29:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601752680069 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Emperor⚜ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:30:21 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601751960130 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Firtl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:29:39 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601751914057 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Deimos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:29:37 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601752330847 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:30:01 |
@@ -94,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601752655463 |
+| Lobby ID | 28531601752893303 |
 | Players | 3/8 |
-| Host Name | 25fps king |
+| Host Name | интернет |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:30:19 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:30:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601752794101 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Squee Spleen and Spoon |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:30:27 |
