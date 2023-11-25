@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601592887210 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 为毛？ |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 16:21:21 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | МАТКА ЕЖИХИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:28:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601599157821 |
+| Players | 2/8 |
+| Host Name | casual dota2 player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:29:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601599158309 |
+| Players | 3/15 |
+| Host Name | positive vibes |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:29:50 |
 
 
