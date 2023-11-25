@@ -2,22 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601388266745 |
-| Players | 10/10 |
-| Host Name | Ωadesch |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 10:51:43 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601393290353 |
+| Lobby ID | 28531601393378405 |
 | Players | 1/5 |
 | Host Name | ASSASSLN |
 | Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 11:02:03 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:02:15 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601391990113 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Jajoby |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:59:20 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601390870496 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | kys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:57:03 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601391866542 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | -Crash |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:59:05 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601392137295 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Anthropologysali Kaur |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:59:38 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601392617820 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:00:39 |
