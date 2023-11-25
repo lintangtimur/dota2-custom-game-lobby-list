@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601412361069 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Paipl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601413562935 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | JMC |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:42:26 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:42:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601411427431 |
-| Players | 23/24 |
-| Host Name | W |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:38:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601413184546 |
-| Players | 14/15 |
-| Host Name | Mr. Lahey |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:41:42 |
+| Lobby ID | 28531601413918260 |
+| Players | 2/8 |
+| Host Name | XD |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:43:06 |
 
 
 |  | ot3_desert_octet |
@@ -74,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601413918260 |
-| Players | 1/8 |
-| Host Name | XD |
+| Lobby ID | 28531601414087552 |
+| Players | 2/10 |
+| Host Name | Kvn |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:43:06 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:43:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601414102099 |
+| Players | 2/15 |
+| Host Name | boqni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:43:28 |
 
 
