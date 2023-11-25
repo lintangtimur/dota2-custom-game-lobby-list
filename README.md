@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:54:52 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601851569641 |
-| Players | 1/5 |
-| Host Name | ♥ANNE<3♥ |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 20:55:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601851809018 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601851803859 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | dopamine loss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:56:07 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601851933456 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Nevermind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:56:13 |
@@ -137,48 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:55:16 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601851774510 |
-| Players | 4/10 |
-| Host Name | Луз-Режусь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601852294863 |
+| Lobby ID | 28531601852490755 |
 | Players | 1/15 |
 | Host Name | GIRL FROM 734 <3 |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:30 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:56:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601852304113 |
-| Players | 1/15 |
-| Host Name | Hotarou | 放浪蛍 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601852305084 |
-| Players | 1/15 |
-| Host Name | Santorioku |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:31 |
+| Lobby ID | 28531601852433422 |
+| Players | 2/8 |
+| Host Name | Sadness |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:56:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601852304401 |
-| Players | 1/24 |
-| Host Name |  |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:31 |
+| Lobby ID | 28531601852417344 |
+| Players | 3/24 |
+| Host Name | meow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:56:36 |
 
 
