@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602140872534 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dr.zLo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:15:05 |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:18:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602144455898 |
-| Players | 1/10 |
-| Host Name | Le Mur |
+| Lobby ID | 28531602144702138 |
+| Players | 1/5 |
+| Host Name | Horrison |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602144881796 |
+| Players | 1/5 |
+| Host Name | Vit9ich |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:50 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:17 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602144241888 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | КYRКА❤❤❤❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:18:37 |
@@ -67,18 +76,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602144423747 |
-| Players | 3/24 |
-| Host Name | Gu Ji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:48 |
+| Lobby ID | 28531602138887857 |
+| Players | 23/24 |
+| Host Name | セニョール |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:13:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602142756377 |
-| Players | 2/8 |
-| Host Name | Лесной Боров |
+| Players | 1/8 |
+| Host Name | shizulya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:17:04 |
 
@@ -92,57 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:15:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602144396231 |
-| Players | 1/24 |
-| Host Name | DICES ALGO TE MANDO AL CTMYFEED |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:46 |
+| Lobby ID | 28531602144837830 |
+| Players | 4/8 |
+| Host Name | каманда афк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602144083118 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | katharsys |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:18:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602141979011 |
-| Players | 23/24 |
-| Host Name | LoKi |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:16:15 |
+| Lobby ID | 28531602144628438 |
+| Players | 1/8 |
+| Host Name | GHOST... |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602143707488 |
-| Players | 3/8 |
+| Lobby ID | 28531602144829875 |
+| Players | 4/8 |
 | Host Name | im fine too |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:03 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602144243747 |
-| Players | 4/8 |
-| Host Name | Cuptea |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602143927817 |
-| Players | 13/15 |
-| Host Name | -ZiPaxS- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:18:17 |
+| Lobby ID | 28531602144879797 |
+| Players | 1/10 |
+| Host Name | EMISARIO NORN |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:19:17 |
 
 
