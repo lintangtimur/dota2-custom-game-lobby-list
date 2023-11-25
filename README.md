@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601473050676 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 13:29:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601473649979 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Niko Niko Niii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:30:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601473595819 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 1mistake=lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:30:01 |
