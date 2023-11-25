@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601414654077 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:44:33 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601413697924 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:42:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601414959065 |
-| Players | 14/15 |
-| Host Name | sAnkøtteryŁeet |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:45:09 |
+| Lobby ID | 28531601410988890 |
+| Players | 22/24 |
+| Host Name | Abuela.n.Patineta |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:37:26 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601414087552 |
-| Players | 9/10 |
-| Host Name | Kvn |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:43:26 |
+| Lobby ID | 28531601415135100 |
+| Players | 2/8 |
+| Host Name | hllrser |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:45:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601414278380 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | siqyu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:48 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:44:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601415135100 |
-| Players | 1/8 |
-| Host Name | hllrser |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:45:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601410988890 |
-| Players | 21/24 |
-| Host Name | Abuela.n.Patineta |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:37:26 |
 
 
