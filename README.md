@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:16 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601742908565 |
-| Players | 1/5 |
-| Host Name | Милфар |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 19:20:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -38,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601740589562 |
-| Players | 23/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:18:39 |
+| Lobby ID | 28531601742844767 |
+| Players | 4/15 |
+| Host Name | Scroll |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:20:51 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601739823413 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ๋ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:17:54 |
@@ -112,28 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601742593649 |
-| Players | 1/8 |
-| Host Name | КОТИК-НАРКОТИК ඞ |
+| Lobby ID | 28531601743105830 |
+| Players | 2/8 |
+| Host Name | NEW MAGIC WAND |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:20:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601742844767 |
-| Players | 3/15 |
-| Host Name | Scroll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:20:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601743022202 |
-| Players | 1/10 |
-| Host Name | Innosence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:21:01 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:21:06 |
 
 
