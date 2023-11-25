@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:35 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531601330183532 |
-| Players | 2/7 |
-| Host Name | 泡泡男孩 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:51:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601327526419 |
@@ -38,13 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531601323941813 |
-| Players | 22/24 |
-| Host Name | Leonidas |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 08:37:31 |
+| Lobby ID | 28531601330710526 |
+| Players | 2/7 |
+| Host Name | 泡泡男孩 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:52:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601330694132 |
+| Players | 1/15 |
+| Host Name | Cocorz28 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 08:52:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601330092452 |
-| Players | 11/15 |
-| Host Name | АлкашПодСнюсом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 08:51:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601330538002 |
-| Players | 3/8 |
-| Host Name | Kaysea |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 08:52:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601330447691 |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nihao |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:51:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601330538002 |
+| Players | 6/8 |
+| Host Name | Kaysea |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 08:52:11 |
 
 
