@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531601334304287 |
+| Players | 1/7 |
+| Host Name | Reformed PMA Carry |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:00:32 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601331987060 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Zé Maria |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:22 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601333810163 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:59:23 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601333655739 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Misho |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:59:03 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601333391948 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:58:28 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big Daddy Sweet (BDS) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601334254532 |
+| Players | 1/15 |
+| Host Name | d |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:00:25 |
 
 
