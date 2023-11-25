@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601868934284 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | heheehe |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 21:10:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601869509758 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Da Butchar |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 21:10:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:55:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601871093688 |
-| Players | 11/15 |
-| Host Name | Yami |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:11:53 |
+| Lobby ID | 28531601872502886 |
+| Players | 3/10 |
+| Host Name | fncl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:13:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601867162711 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:08:40 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601871828862 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | practice |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:12:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601872684026 |
+| Players | 5/8 |
+| Host Name | Avadamus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:13:11 |
 
 
