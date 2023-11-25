@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:19:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601372110267 |
-| Players | 7/8 |
-| Host Name | РУБЛЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:19:17 |
+| Lobby ID | 28531601372777278 |
+| Players | 9/10 |
+| Host Name | El low me hizo reflexionar |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 10:20:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601373911078 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | maymaymay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:22:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601373539611 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Na2O |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:22:09 |
@@ -77,36 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601373901965 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | MAGINER |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:22:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601372777278 |
-| Players | 8/10 |
-| Host Name | El low me hizo reflexionar |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 10:20:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601374074629 |
-| Players | 1/15 |
+| Lobby ID | 28531601374173134 |
+| Players | 1/8 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 10:23:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601372460829 |
-| Players | 23/24 |
-| Host Name | Midas |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:19:59 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:23:26 |
 
 
