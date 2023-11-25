@@ -13,17 +13,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601338966466 |
-| Players | 1/10 |
-| Host Name | -Panico |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601339063869 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
@@ -50,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601338805438 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Invincible under the Heavens |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601336928809 |
-| Players | 7/8 |
-| Host Name | KVADRAT |
+| Lobby ID | 28531601339297043 |
+| Players | 7/10 |
+| Host Name | Yahai |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:06:31 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:11:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601338689478 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Le puerqué |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601339062263 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Dirk Trash |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
@@ -94,37 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601339106371 |
-| Players | 1/8 |
-| Host Name | ツ♛Mr. DracoO♛ツ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:19 |
+| Lobby ID | 28531601339581485 |
+| Players | 4/8 |
+| Host Name | Moe Lester |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:12:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601339192312 |
+| Lobby ID | 28531601339597862 |
 | Players | 1/8 |
-| Host Name | DEIGO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601338625688 |
-| Players | 14/15 |
-| Host Name | jugar callado es mi terapía |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:10:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601339297043 |
-| Players | 5/10 |
-| Host Name | Yahai |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:44 |
+| Host Name | LIVE:DAAAAAAAAAAA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:12:23 |
 
 
