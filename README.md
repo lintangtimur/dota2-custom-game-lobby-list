@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:44:56 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601356678279 |
+| Players | 2/5 |
+| Host Name | IceBogart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:48:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601353692667 |
@@ -20,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601355182061 |
-| Players | 5/8 |
-| Host Name | Dispersion |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:45:09 |
+| Lobby ID | 28531601357666476 |
+| Players | 3/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:50:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601357057352 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | La Joya |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:48:59 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601355626430 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:46:03 |
@@ -83,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:49:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601357513952 |
-| Players | 2/15 |
-| Host Name | Clever |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:49:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601357514920 |
-| Players | 1/15 |
-| Host Name | Punisher |
+| Lobby ID | 28531601357590117 |
+| Players | 2/8 |
+| Host Name | Guts |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:49:55 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:50:04 |
 
 
