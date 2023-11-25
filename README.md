@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602340751975 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:13:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602340718051 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | public enemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:13:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602339064385 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | BANJO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:11:11 |
@@ -83,33 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602340533356 |
-| Players | 3/8 |
-| Host Name | ♠!LICH KING!♠ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 26, 2023 05:13:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602340949549 |
-| Players | 5/15 |
-| Host Name | йоукуприветдаров |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:14:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602340485153 |
-| Players | 9/10 |
-| Host Name | Rem |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:13:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602340334955 |
@@ -117,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:13:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602340949549 |
+| Players | 9/15 |
+| Host Name | йоукуприветдаров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:14:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602337432712 |
+| Players | 23/24 |
+| Host Name | MODO ELDEN LORD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:08:43 |
 
 
