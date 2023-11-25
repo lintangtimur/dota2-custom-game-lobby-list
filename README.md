@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601613815221 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Autsayder |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:49:49 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:53:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601614249930 |
-| Players | 9/10 |
-| Host Name | `END |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:50:26 |
+| Lobby ID | 28531601616535702 |
+| Players | 1/5 |
+| Host Name | 5лет строгача в лп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:53:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:53:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601616535702 |
-| Players | 1/5 |
-| Host Name | 5лет строгача в лп |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:53:32 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | bs |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601616588375 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Aki ゲーマー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:53:37 |
@@ -104,27 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601613976511 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | pkc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:50:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601616448046 |
-| Players | 2/15 |
-| Host Name | b |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:53:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601616447084 |
-| Players | 1/8 |
-| Host Name | ModeratelySlow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:53:25 |
+| Lobby ID | 28531601616625035 |
+| Players | 4/8 |
+| Host Name | Не ошибаюсь |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:53:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601616829107 |
+| Players | 1/15 |
+| Host Name | Лесбиянка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:53:57 |
 
 
