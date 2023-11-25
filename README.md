@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601341082352 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Vhiyoulette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:15:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601341306578 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601340947529 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | TIBURONCIN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:15:17 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601341304206 |
-| Players | 6/8 |
-| Host Name | Kaysea |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:16:03 |
+| Lobby ID | 28531601341637204 |
+| Players | 2/10 |
+| Host Name | PIGMAN |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:46 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601341494330 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:28 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601341537489 |
-| Players | 2/15 |
-| Host Name | 有钱人 |
+| Players | 5/15 |
+| Host Name | kacvj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601341598305 |
+| Players | 1/15 |
+| Host Name | Mendenhall |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:41 |
 
 
