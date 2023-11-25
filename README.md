@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:08:08 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601793096635 |
-| Players | 9/10 |
-| Host Name | FU XUAN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:07:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -38,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601794554093 |
-| Players | 7/10 |
-| Host Name | 666666tlteD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:08:33 |
+| Lobby ID | 28531601795821252 |
+| Players | 1/24 |
+| Host Name | SedMan |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 20:09:40 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601795467037 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | karachenskaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:09:21 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601794642627 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BRAINSONTHECURB! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:08:37 |
@@ -104,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601795464310 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Y2J |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:09:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601793460090 |
-| Players | 14/15 |
-| Host Name | 引き籠もり [RU] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:07:35 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601795821252 |
+| Lobby ID | 28531601796061449 |
 | Players | 1/24 |
-| Host Name | SedMan |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:09:40 |
+| Host Name | John Does |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:09:52 |
 
 
