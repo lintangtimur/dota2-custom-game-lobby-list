@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:53:33 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601360612968 |
-| Players | 1/5 |
-| Host Name | Onii-chan |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:56:16 |
+| Lobby ID | 28531601360959152 |
+| Players | 1/10 |
+| Host Name | Макар Циркульбег |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:56:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601360269883 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | РУБЛЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:55:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601359484978 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Inarius |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:53:58 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:54:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601359873807 |
-| Players | 14/15 |
-| Host Name | 33 |
+| Lobby ID | 28531601360779278 |
+| Players | 10/24 |
+| Host Name | Interpol |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:54:46 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:56:36 |
 
 
 |  | ot3_gardens_duo |
@@ -77,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601360666804 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:56:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601360779278 |
-| Players | 6/24 |
-| Host Name | Interpol |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:56:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601360789380 |
-| Players | 1/24 |
-| Host Name | モルガン |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:56:37 |
+| Lobby ID | 28531601357666476 |
+| Players | 13/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:50:14 |
 
 
