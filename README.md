@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601656541711 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | __LeoriC |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:46:08 |
@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601657888081 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | KENDAMIN4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:47:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601658122394 |
+| Players | 1/10 |
+| Host Name | 10K Behavior Score |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:48:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601656428247 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | trash teammate |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 17:45:59 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601657534699 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 送人离别 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:47:21 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601657793826 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | WENDLE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:47:41 |
@@ -101,30 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:47:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601653887747 |
-| Players | 22/24 |
-| Host Name | RubickPoserDontStealMySkill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:42:47 |
+| Lobby ID | 28531601658220482 |
+| Players | 5/8 |
+| Host Name | HELP |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:48:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601657977226 |
-| Players | 1/8 |
-| Host Name | ビール僧侶 |
+| Lobby ID | 28531601658274731 |
+| Players | 6/8 |
+| Host Name | Замир Безгеев |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:47:54 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:48:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601656247844 |
-| Players | 7/8 |
-| Host Name | Guitir |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:45:46 |
+| Lobby ID | 28531601658316876 |
+| Players | 3/8 |
+| Host Name | Папа Гетто |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 17:48:19 |
 
 
