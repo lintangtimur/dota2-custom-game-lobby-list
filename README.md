@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601412361069 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Paipl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601414102099 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601411377502 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601414273781 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Mike |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:48 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bacon Defender |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601413562935 |
-| Players | 14/15 |
-| Host Name | JMC |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:42:26 |
 
 
