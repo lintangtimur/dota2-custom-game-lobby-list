@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602322558788 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | zephyrion...♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:54 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322161066 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 对不起，我干了你 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602322478591 |
-| Players | 1/10 |
-| Host Name | THWK |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 04:46:47 |
+| Lobby ID | 28531602322877617 |
+| Players | 1/8 |
+| Host Name | Вадик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:47:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602322689045 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ABSOLEM |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:47:05 |
@@ -95,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322510434 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | D-MF |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602322693765 |
-| Players | 3/15 |
-| Host Name | Черноспермий IVTR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:47:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602322799199 |
-| Players | 3/8 |
-| Host Name | QUICO giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 04:47:14 |
+| Lobby ID | 28531602322910432 |
+| Players | 1/24 |
+| Host Name | New York Bozo |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 04:47:24 |
 
 
