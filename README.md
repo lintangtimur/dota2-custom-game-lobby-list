@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:18 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601332751884 |
-| Players | 1/5 |
-| Host Name | w8tiz |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:57:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601327526419 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | t.me/deicospl |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601331068941 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:53:21 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RYUK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:57:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601332834608 |
+| Players | 3/15 |
+| Host Name | Chef Clone 23 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 08:57:14 |
 
 
