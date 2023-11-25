@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602063025291 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | El Gato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:58:00 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602065393661 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Odracir*MS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:00:23 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602066077419 |
-| Players | 1/7 |
-| Host Name | MaJor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:01:04 |
+| Lobby ID | 28531602067501470 |
+| Players | 2/5 |
+| Host Name | dyrachoy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:02:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602066356603 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:01:21 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:57:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602066817296 |
-| Players | 15/15 |
-| Host Name | Aylardex Vlael |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:01:48 |
+| Lobby ID | 28531602067516876 |
+| Players | 2/10 |
+| Host Name | maboi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 00:02:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602065723386 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | La Rana Clyde |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:00:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602065222950 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Zenin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:00:13 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602065268377 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | :) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:00:16 |
@@ -155,28 +155,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:01:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602063887582 |
-| Players | 3/8 |
-| Host Name | КОСТЯ БАДАБУМЧИК |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:58:52 |
+| Lobby ID | 28531602067555061 |
+| Players | 4/15 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 00:02:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602067351308 |
-| Players | 1/8 |
-| Host Name | ишачье |
+| Lobby ID | 28531602067436632 |
+| Players | 8/15 |
+| Host Name | NooB |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:02:19 |
+| Lobby Creation Time | Sunday, November 26, 2023 00:02:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602067324779 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | escapism |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:02:18 |
@@ -184,10 +184,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602067377991 |
+| Lobby ID | 28531602067577900 |
 | Players | 1/8 |
-| Host Name | Capitan Meow |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 26, 2023 00:02:22 |
+| Host Name | akumu |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:02:33 |
 
 
