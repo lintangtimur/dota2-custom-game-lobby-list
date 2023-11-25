@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:22:06 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531601346174811 |
+| Players | 1/7 |
+| Host Name | Koompa |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:26:28 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601345150608 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:17 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601344421778 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | no sé qué es ganar |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:22:45 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601345726928 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:25:30 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601346025494 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mimiander |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601346135448 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:26:23 |
 
 
