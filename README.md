@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602355480459 |
 | Players | 7/10 |
-| Host Name | Raikenzi |
+| Host Name | Даргинское чуду |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:36:48 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602358315203 |
-| Players | 9/10 |
-| Host Name | Улитка |
+| Lobby ID | 28531602358650653 |
+| Players | 6/8 |
+| Host Name | whore |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:41:26 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:41:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602357958517 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:40:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602357419424 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 雨 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:39:57 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602358083764 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Белый Окупант |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:03 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602358217560 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Илюня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:16 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602358405378 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Glim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:34 |
