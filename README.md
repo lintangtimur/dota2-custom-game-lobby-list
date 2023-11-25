@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602376240426 |
-| Players | 14/15 |
-| Host Name | Puntito( El Maximo Exponente) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:11:57 |
+| Lobby ID | 28531602375340316 |
+| Players | 12/15 |
+| Host Name | Mouches Volantes |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:10:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602376419405 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | xiwu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:12:16 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Artemisa Churchill |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:12:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602377060603 |
+| Players | 1/10 |
+| Host Name | ПИДЖАК |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:13:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602377068348 |
+| Players | 1/15 |
+| Host Name | ·Ɑ͞ ̶͞ ̶͞ ̶͞ﻝﮞ |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Sunday, November 26, 2023 06:13:26 |
 
 
