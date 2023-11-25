@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602296848938 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 7empest |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:12:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602295103280 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | ❷۩❶♚Kiara♔❦۩❷ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:09:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602297275242 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | El hombre sin codigos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:12:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602297659866 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Baobab |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:13:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602297384092 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | FaiNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:12:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602297458867 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | UV1 159 K2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:12:53 |
@@ -103,10 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602297295223 |
-| Players | 1/15 |
-| Host Name | SANDSNAKE |
+| Lobby ID | 28531602297730944 |
+| Players | 5/15 |
+| Host Name | Kori❄♡ |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:12:41 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:13:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602297722251 |
+| Players | 1/10 |
+| Host Name | Bottom G |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 04:13:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602296405343 |
+| Players | 13/15 |
+| Host Name | Mr. Spock |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:11:31 |
 
 
