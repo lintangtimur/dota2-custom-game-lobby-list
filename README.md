@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601574502020 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:56:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601574092667 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:56:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601575163290 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Layton |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:57:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601575070900 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Henya Enjoyer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 15:57:28 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601574726484 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MadMax |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:57:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601574637005 |
-| Players | 12/15 |
-| Host Name | ВЗОРВАНЫЙ ЧЕЛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:56:53 |
+| Lobby ID | 28531601575920225 |
+| Players | 6/24 |
+| Host Name | ็Tao về |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:58:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | пирожный чебурек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601575857702 |
-| Players | 1/15 |
-| Host Name | Por Eso Te Fueron INFIEL |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:58:31 |
 
 
