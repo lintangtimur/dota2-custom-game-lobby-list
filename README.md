@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601349634762 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:33:42 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601351579070 |
-| Players | 1/8 |
-| Host Name | Pochi |
+| Lobby ID | 28531601351567427 |
+| Players | 3/15 |
+| Host Name | Elke mecacha |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:37:44 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:37:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601349350858 |
-| Players | 8/10 |
-| Host Name | スベン　スヌスベルぐ : |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:33:07 |
+| Lobby ID | 28531601351491644 |
+| Players | 1/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:37:33 |
 
 
 |  | ot3_desert_octet |
@@ -104,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350642107 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601351491644 |
-| Players | 1/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:37:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601351567427 |
-| Players | 3/15 |
-| Host Name | Elke mecacha |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:37:42 |
 
 
