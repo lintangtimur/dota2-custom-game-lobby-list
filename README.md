@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601711779893 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Finn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:49:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601704582455 |
-| Players | 16/24 |
+| Players | 13/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:41:26 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601709479935 |
-| Players | 8/15 |
-| Host Name | PFF |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 18:46:40 |
+| Lobby ID | 28531601712644810 |
+| Players | 1/15 |
+| Host Name | monday left me broken |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 18:49:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601708003999 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | алексей в патоке |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:45:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601709325701 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:46:30 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РАЗКУМАРИЛСЯ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:49:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601712591954 |
+| Players | 6/10 |
+| Host Name | Sosiska |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:49:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601711640818 |
+| Players | 2/8 |
+| Host Name | Минус трон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:48:56 |
 
 
