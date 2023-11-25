@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601431443918 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:16:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601431120984 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | yabeda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:15:34 |
@@ -50,37 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601432527132 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:18:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601432305789 |
-| Players | 4/8 |
-| Host Name | DPGaming |
+| Lobby ID | 28531601432948284 |
+| Players | 1/24 |
+| Host Name | 9S |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:17:45 |
+| Lobby Creation Time | Saturday, November 25, 2023 12:18:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601432216437 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | TRESHEBANIY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:17:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601432422502 |
-| Players | 7/8 |
-| Host Name | beligol |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 12:17:58 |
 
 
 |  | ot3_gardens_duo |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Panda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:18:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601433105305 |
+| Players | 1/8 |
+| Host Name | PAPA BEKO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:19:14 |
 
 
