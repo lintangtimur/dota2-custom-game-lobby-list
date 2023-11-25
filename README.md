@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601329130790 |
-| Players | 1/5 |
-| Host Name | MiNaTo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 08:49:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601323941813 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:37:31 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325499662 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:01 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601328300052 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Alkazed |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:47:12 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325809913 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:42 |
@@ -81,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1709 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 08:47:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601329274102 |
+| Players | 3/24 |
+| Host Name | samn |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 08:49:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601329314076 |
+| Players | 1/24 |
+| Host Name | NO TE VOY A DEJAR GANAR |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 08:49:26 |
 
 
