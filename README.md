@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601563357474 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | EL CORTA NALGAS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 15:41:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601575026047 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:57:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601578139630 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 1^ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:01:34 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:59:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601575920225 |
-| Players | 23/24 |
-| Host Name | ็Tao về |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:58:36 |
+| Lobby ID | 28531601578847068 |
+| Players | 6/15 |
+| Host Name | Люблю Сашу Блауз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:02:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | шиноби скрытого п |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:02:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601578847068 |
-| Players | 2/15 |
-| Host Name | Люблю Сашу Блауз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:02:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601578711094 |
-| Players | 1/8 |
-| Host Name | Я СЛАБЫЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:02:19 |
 
 
