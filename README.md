@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601501391600 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Big Gringo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:13:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601500501836 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:12:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601501098502 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Colonel Panic |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:13:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601501290065 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:13:33 |
