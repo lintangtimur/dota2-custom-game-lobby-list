@@ -47,11 +47,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601590348594 |
-| Players | 3/8 |
-| Host Name | qwelan |
+| Lobby ID | 28531601590355441 |
+| Players | 1/10 |
+| Host Name | Abominigatious |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:57 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601589719494 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601590456919 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | _unnamed |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:18:06 |
@@ -95,45 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601589979493 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601590187523 |
-| Players | 11/15 |
-| Host Name | афоня троллейбус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:17:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601589067347 |
-| Players | 7/8 |
-| Host Name | пирожный чебурек |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 16:16:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601590355441 |
-| Players | 1/10 |
-| Host Name | Abominigatious |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:17:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601590648641 |
-| Players | 2/8 |
-| Host Name | Xsiwer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:18:21 |
 
 
