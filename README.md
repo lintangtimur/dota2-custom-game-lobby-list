@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602061102997 |
-| Players | 4/5 |
+| Players | 1/5 |
 | Host Name | /// |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:56:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602061508426 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:56:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602060097523 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | moyamishel<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:55:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602059786090 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | SharKy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:54:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602056438416 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ARCHER |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:51:21 |
@@ -144,5 +144,50 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | лапатасьйон |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:56:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602061546724 |
+| Players | 2/24 |
+| Host Name | DeMeow |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 23:56:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602061546473 |
+| Players | 1/8 |
+| Host Name | Alkazed |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 23:56:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602061641079 |
+| Players | 4/8 |
+| Host Name | P2h |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 23:56:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602061678095 |
+| Players | 3/8 |
+| Host Name | Балкима |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 23:56:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602061683037 |
+| Players | 1/8 |
+| Host Name | Лохат Ракум |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 23:56:39 |
 
 
