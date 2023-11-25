@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602056024708 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ARROW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:50:56 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531602056752705 |
-| Players | 1/7 |
-| Host Name | LASTiMP |
-| Region | Unknown |
-| Lobby Creation Time | Saturday, November 25, 2023 23:51:40 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531602057076384 |
-| Players | 1/7 |
-| Host Name | MaZilla |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:51:59 |
 
 
 |  | epic_boss_fight_hard |
@@ -47,28 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:52:05 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531602057076384 |
+| Players | 1/7 |
+| Host Name | MaZilla |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 23:51:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602054426399 |
-| Players | 13/15 |
-| Host Name | Puntito( El Maximo Exponente) |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:49:23 |
+| Lobby ID | 28531602057492308 |
+| Players | 9/15 |
+| Host Name | БольшойХрюк |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:52:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602055834188 |
-| Players | 9/10 |
-| Host Name | DAEMON |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 23:50:45 |
+| Lobby ID | 28531602057692641 |
+| Players | 4/8 |
+| Host Name | 緑谷 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:52:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602056590283 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:51:30 |
@@ -110,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:50:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602057529790 |
-| Players | 1/10 |
-| Host Name | Крэйзи белый |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 23:52:26 |
+| Lobby ID | 28531602056993564 |
+| Players | 7/15 |
+| Host Name | PaN1C |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:51:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602054777351 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | PanDa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:49:43 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602055703190 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | FronSide |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:50:37 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602056465702 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Не ошибаюсь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:51:22 |
@@ -164,30 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:52:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602056993564 |
-| Players | 7/15 |
-| Host Name | PaN1C |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:51:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602057117352 |
-| Players | 8/10 |
-| Host Name | ЦАРЬ ТОЛЧКА |
+| Lobby ID | 28531602057665157 |
+| Players | 3/10 |
+| Host Name | maxrasx最高 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:52:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602057492308 |
-| Players | 3/15 |
-| Host Name | БольшойХрюк |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:52:24 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:52:34 |
 
 
