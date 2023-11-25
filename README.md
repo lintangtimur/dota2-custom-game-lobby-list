@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:03:36 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602073500123 |
-| Players | 2/5 |
-| Host Name | MasteR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:08:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602073319359 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Jv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:08:08 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602073378135 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Teniente roca |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:08:11 |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:05:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602072530471 |
-| Players | 14/15 |
-| Host Name | яйцепах |
+| Lobby ID | 28531602072717489 |
+| Players | 16/24 |
+| Host Name | 5 pos wanna fly |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:07:22 |
+| Lobby Creation Time | Sunday, November 26, 2023 00:07:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:07:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602065264057 |
-| Players | 3/15 |
-| Host Name | geberich |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 26, 2023 00:00:15 |
+| Lobby ID | 28531602073565265 |
+| Players | 1/8 |
+| Host Name | VampirFeeD |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:08:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602072820639 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Mato dois e ainda me escapo!!! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 00:07:39 |
@@ -140,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602073079590 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 743676342679754268098786545 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:07:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602072717489 |
-| Players | 15/24 |
-| Host Name | 5 pos wanna fly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:07:33 |
 
 
