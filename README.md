@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602035357353 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | R Y U K O |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:30:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602035093583 |
-| Players | 1/10 |
-| Host Name | MKL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:30:29 |
 
 
 |  | epic_boss_fight_challenger |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602032720037 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | procrastinador |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:28:12 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602035859968 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ЙаПрокл9т |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 25, 2023 23:31:13 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602033509534 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Harvest Dawn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:28:57 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602035878249 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Raureif |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:31:15 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602034479629 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Niko Niko Niii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:29:53 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602035732522 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ME MID OR 2 MID |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:31:06 |
@@ -167,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602035711957 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | был внутри адлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:31:05 |
@@ -175,35 +166,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602030190592 |
-| Players | 10/15 |
-| Host Name | EG_PaKasz_--________EG |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 23:25:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602035964883 |
-| Players | 2/10 |
-| Host Name | [JIuoHeS]™ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 23:31:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602035968683 |
+| Lobby ID | 28531602036144491 |
 | Players | 2/15 |
 | Host Name | Mouches Volantes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:31:20 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:31:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602035978942 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | RCE |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:31:20 |
@@ -216,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | V I N C E N T |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:31:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602036171228 |
+| Players | 5/8 |
+| Host Name | КМС ПО KFC |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:31:31 |
 
 
