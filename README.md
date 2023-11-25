@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601531548226 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601536586739 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | кавасаки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:05:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601537057588 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Pr3t0r1an |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:05:50 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:04:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601536711409 |
-| Players | 2/24 |
-| Host Name | beep |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:05:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601537075838 |
-| Players | 6/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:05:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601537314540 |
@@ -117,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:06:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601537075838 |
+| Players | 14/24 |
+| Host Name | 9527 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:05:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601537573948 |
+| Players | 1/10 |
+| Host Name | абезяна чичичи продавала кирпичи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:06:34 |
 
 
