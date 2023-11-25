@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601411197977 |
 | Players | 4/15 |
-| Host Name | Samღღღღღ♡ |
+| Host Name | Richie |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:37:51 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601411043585 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | fatantogod |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:37:33 |
@@ -108,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mundirkaka0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601411525367 |
+| Players | 4/10 |
+| Host Name | It's ok I just need a break |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:38:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601411520753 |
+| Players | 1/15 |
+| Host Name | Яспер Моглот (Dutch) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:38:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601411543877 |
+| Players | 1/15 |
+| Host Name | Hoax?™ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 11:38:31 |
 
 
