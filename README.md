@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602292283495 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | hendra2lm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:06:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602295103280 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ❷۩❶♚Kiara♔❦۩❷ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:09:49 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602295343188 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | spirit |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:10:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602295974080 |
-| Players | 1/15 |
-| Host Name | topi_2 |
+| Lobby ID | 28531602295951267 |
+| Players | 5/8 |
+| Host Name | ОТДАЙ САЛО КОМУ Г |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:10:57 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:10:56 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602295666347 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Deus Vult |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:10:34 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602295808047 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TARANTINE |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 04:10:45 |
@@ -153,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ingmundur |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:10:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602295951267 |
-| Players | 5/8 |
-| Host Name | ОТДАЙ САЛО КОМУ Г |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:10:56 |
 
 
