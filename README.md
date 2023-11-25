@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602369268859 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Артемий |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:59:48 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602369084673 |
-| Players | 13/15 |
-| Host Name | Gogâie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:59:29 |
+| Lobby ID | 28531602369712273 |
+| Players | 4/15 |
+| Host Name | Tereu |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 06:00:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602369113593 |
+| Lobby ID | 28531602369654771 |
 | Players | 5/8 |
-| Host Name | 1 pos egoist... |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:59:32 |
+| Host Name | Eloyito |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 06:00:28 |
 
 
 |  | ot3_desert_octet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602369514658 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | BRAH |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:00:13 |
@@ -148,19 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602369601735 |
-| Players | 3/10 |
-| Host Name | horosho tam gde nas net |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:00:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602369654771 |
-| Players | 5/8 |
-| Host Name | Eloyito |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:00:28 |
+| Lobby ID | 28531602369694481 |
+| Players | 2/10 |
+| Host Name | Tioshadow |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 06:00:32 |
 
 
