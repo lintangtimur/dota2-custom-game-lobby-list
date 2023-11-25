@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601397837824 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | YEAH |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 11:11:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601397106388 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:09:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601398262149 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sushi Devourer |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:12:13 |
@@ -67,46 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601394742325 |
-| Players | 7/8 |
-| Host Name | skoro:leto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601397021384 |
-| Players | 9/10 |
-| Host Name | Cap |
+| Lobby ID | 28531601398488695 |
+| Players | 4/8 |
+| Host Name | x__t__C |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:09:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601398212388 |
-| Players | 1/8 |
-| Host Name | 笹崎まみ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:12:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601398329661 |
-| Players | 5/15 |
-| Host Name | husnters |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:12:21 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:12:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601398447898 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Whiskas Renacido <3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:12:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601398329661 |
+| Players | 6/15 |
+| Host Name | husnters |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:12:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601398644543 |
+| Players | 1/8 |
+| Host Name | Jeki Chill |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:12:59 |
 
 
