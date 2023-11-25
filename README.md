@@ -13,35 +13,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601460674404 |
-| Players | 9/10 |
-| Host Name | utopia enjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:08:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601461592968 |
+| Lobby ID | 28531601461679196 |
 | Players | 1/10 |
 | Host Name | <3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:09:59 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:10:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601458910151 |
-| Players | 9/10 |
-| Host Name | qwezxc |
+| Lobby ID | 28531601461781045 |
+| Players | 2/10 |
+| Host Name | ALEX_MOR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:05:20 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:10:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601460965015 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:08:55 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601459769862 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:06:50 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601460631630 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:08:20 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601460208126 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NARUTO UZUMAKI DE KONOHA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:07:35 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:09:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601461608939 |
-| Players | 5/8 |
-| Host Name | beligol |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 13:10:01 |
 
 
