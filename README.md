@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601844706492 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 20:50:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601871365497 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | до встречи на тан |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:12:06 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601871298487 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | трухамёт иван |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:12:03 |
@@ -122,18 +122,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601871093688 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Yami |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:11:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601871015628 |
+| Players | 9/10 |
+| Host Name | П_Ё_С |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:11:49 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601871153706 |
+| Lobby ID | 28531601871828862 |
 | Players | 1/8 |
-| Host Name | нурофен ректальн |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 21:11:56 |
+| Host Name | practice |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:12:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601869509758 |
+| Players | 11/15 |
+| Host Name | Da Butchar |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 21:10:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601870293011 |
+| Players | 8/10 |
+| Host Name | Thranduil |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:11:14 |
 
 
