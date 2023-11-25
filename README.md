@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601465541222 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Gabimaru |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 13:16:38 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Numd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:20:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601467905868 |
+| Players | 2/5 |
+| Host Name | Arz |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:20:36 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601466011435 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | f1ashmix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:17:25 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601467298070 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:19:34 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601464303971 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | nattyboons |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:14:32 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601465828066 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:17:07 |
@@ -113,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601467783596 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:20:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601468089060 |
+| Players | 1/24 |
+| Host Name | OMAR |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:20:54 |
 
 
