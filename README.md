@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:14:16 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601802439194 |
+| Players | 2/5 |
+| Host Name | гошазоло2008 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:15:24 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601802038657 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | HELP |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:15:03 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601800587319 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SSK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:13:48 |
@@ -83,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:15:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601789760586 |
-| Players | 7/8 |
-| Host Name | El Gotto Cuba |
+| Lobby ID | 28531601801029384 |
+| Players | 1/24 |
+| Host Name | snappyfire |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:04:21 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:14:11 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601801978478 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:15:00 |
@@ -146,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:14:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601801029384 |
-| Players | 1/24 |
-| Host Name | snappyfire |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:14:11 |
+| Lobby ID | 28531601800773228 |
+| Players | 9/10 |
+| Host Name | he1t |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:13:57 |
 
 
