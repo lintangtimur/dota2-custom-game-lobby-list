@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601426746320 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | YEAH |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:07:35 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601424290477 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Tioshadow |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:03:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601426911967 |
-| Players | 1/24 |
-| Host Name | rood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:07:53 |
+| Lobby ID | 28531601428205907 |
+| Players | 2/15 |
+| Host Name | emu |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:10:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601426421054 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:07:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601424074539 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601427787323 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:09:30 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601427905620 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | zhl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:09:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601428245680 |
+| Players | 1/15 |
+| Host Name | idc mindset |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:10:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601428261226 |
+| Players | 1/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:10:22 |
 
 
