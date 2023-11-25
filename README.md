@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:14:53 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601546600404 |
+| Players | 1/10 |
+| Host Name | Xiao Xiao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:19:08 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601546394594 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601545961301 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Zhong Xina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:15 |
@@ -90,5 +99,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ffffuuuunnnn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601546523189 |
+| Players | 1/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:19:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601543631702 |
+| Players | 14/15 |
+| Host Name | SEREGA HUGE FAN |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:15:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601546564233 |
+| Players | 1/24 |
+| Host Name | Anantherzine-無盡的 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:19:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601543789659 |
+| Players | 23/24 |
+| Host Name | ็Tao về |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:15:14 |
 
 
