@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:41:58 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531601611582652 |
+| Players | 2/7 |
+| Host Name | Zodar |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:46:45 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601602575954 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601611289229 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | CKOT |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:46:21 |
@@ -50,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601608097154 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:41:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601599551293 |
-| Players | 9/10 |
-| Host Name | tendou |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:30:22 |
+| Lobby ID | 28531601611475351 |
+| Players | 1/8 |
+| Host Name | IDX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:46:36 |
 
 
 |  | ot3_gardens_duo |
@@ -74,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:38:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601610881598 |
-| Players | 13/15 |
-| Host Name | itry |
+| Lobby ID | 28531601610956285 |
+| Players | 7/10 |
+| Host Name | Monday Left Me Broken..... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:45:47 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:45:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601610977362 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Gerch17 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:45:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601610956285 |
-| Players | 3/10 |
-| Host Name | Monday Left Me Broken..... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:45:53 |
 
 
