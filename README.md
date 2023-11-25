@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601911644731 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Wolf |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:44:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601918529309 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | zxcgnida |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:49:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601915514778 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Dan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 21:47:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601916523528 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | i play muted |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 21:48:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601918302366 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:49:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601918504214 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:49:50 |
@@ -146,12 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:50:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601919395967 |
+| Players | 1/10 |
+| Host Name | daggersinmyback |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:50:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601919107642 |
-| Players | 6/8 |
-| Host Name | but |
+| Lobby ID | 28531601919227641 |
+| Players | 3/8 |
+| Host Name | prost |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:50:19 |
+| Lobby Creation Time | Saturday, November 25, 2023 21:50:25 |
 
 
