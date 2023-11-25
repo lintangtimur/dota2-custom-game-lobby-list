@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:12:57 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601340346370 |
-| Players | 1/5 |
-| Host Name | Iscariote |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:13:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601339986955 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601339159578 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:26 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601340027069 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | JimPark |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:19 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601340033702 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:20 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Agatha Christie |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601339297043 |
-| Players | 9/10 |
-| Host Name | Душевный мужик |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:44 |
 
 
