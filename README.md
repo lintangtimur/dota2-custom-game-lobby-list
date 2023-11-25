@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601407719227 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:31:02 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601408605735 |
-| Players | 5/8 |
-| Host Name | thekillbus32 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:32:47 |
+| Lobby ID | 28531601409900347 |
+| Players | 1/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:35:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601409494969 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | shallots |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:34:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601407950751 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | My Whore Wife Took Everything |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:31:30 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:35:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601407785984 |
+| Players | 14/15 |
+| Host Name | wi wi |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:31:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601409900347 |
+| Lobby ID | 28531601410040489 |
 | Players | 1/8 |
-| Host Name | CAMARADA CAPIBARA |
+| Host Name | Euphoria前景 |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:35:19 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:35:36 |
 
 
