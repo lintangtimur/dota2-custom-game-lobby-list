@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602365679010 |
+| Lobby ID | 28531602366003912 |
 | Players | 3/5 |
 | Host Name | Артемий |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 05:53:42 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:54:15 |
 
 
 |  | ot3_desert_octet |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aishiteru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:54:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602365939259 |
+| Players | 12/15 |
+| Host Name | yr8 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:54:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602366032495 |
+| Players | 3/8 |
+| Host Name | ASS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:54:18 |
 
 
