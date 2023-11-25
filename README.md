@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601644412043 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | зигеньг богеньг |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:30:46 |
@@ -24,9 +24,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601646600477 |
 | Players | 1/10 |
-| Host Name | nurgazhai88 |
+| Host Name | Гачимученник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:33:33 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601646898502 |
+| Players | 1/7 |
+| Host Name | 勤学苦练。 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 17:33:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601644934355 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | minmin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:31:26 |
@@ -67,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601646240252 |
-| Players | 5/15 |
-| Host Name | арм по доте |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:33:06 |
+| Lobby ID | 28531601646863031 |
+| Players | 1/15 |
+| Host Name | AMMAR_THE_SPONGEBOB |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 17:33:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601646219499 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Like |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:33:04 |
@@ -104,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601645571969 |
-| Players | 1/8 |
-| Host Name | ☭ |
+| Players | 6/8 |
+| Host Name | givenchy XCX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:32:15 |
 
