@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:56:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601925036307 |
-| Players | 12/15 |
-| Host Name | ВАЛЕРА ХРОНОСФЕР |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 21:55:01 |
+| Lobby ID | 28531601926830115 |
+| Players | 4/10 |
+| Host Name | Подментованыйкот |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:56:25 |
 
 
 |  | ot3_desert_octet |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | боцман |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:51:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601926545822 |
-| Players | 6/10 |
-| Host Name | Velesik |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:56:11 |
 
 
