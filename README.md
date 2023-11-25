@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:32 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601668856081 |
-| Players | 1/5 |
-| Host Name | truxbled |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:07 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601668949665 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Femto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -92,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601668486768 |
-| Players | 13/15 |
-| Host Name | Gay Fish |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:00:41 |
+| Lobby ID | 28531601669140670 |
+| Players | 2/8 |
+| Host Name | Snobias |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:01:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601661719354 |
+| Players | 22/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 17:52:29 |
 
 
