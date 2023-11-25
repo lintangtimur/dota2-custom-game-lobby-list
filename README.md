@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602316026614 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Glim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:37:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531602317301127 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Мефедроновый Гонщик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:39:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602317853448 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Jazz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:40:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602317555934 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Vlad Pitoon |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:39:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602318402369 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | НУ ЭТО УЖЕ СИГА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:41:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602304027698 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Meow 🐾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:21:27 |
@@ -85,26 +85,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602317606281 |
-| Players | 6/10 |
-| Host Name | 🔥🌪Hells-Riper🌪🔥 |
+| Lobby ID | 28531602318390743 |
+| Players | 2/10 |
+| Host Name | no idea |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:39:57 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:41:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602317161355 |
-| Players | 4/10 |
-| Host Name | Disconnect |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:39:20 |
+| Lobby ID | 28531602318557625 |
+| Players | 2/8 |
+| Host Name | unicornparadise |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:41:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602317693165 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ELPIBEATOMICO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:40:04 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602318446265 |
+| Lobby ID | 28531602318597562 |
 | Players | 1/24 |
-| Host Name | мусор |
+| Host Name | GrandPa |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:41:07 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:41:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -153,32 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YONLITAS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:36:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602318277292 |
-| Players | 13/15 |
-| Host Name | самовыродок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:40:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602318390743 |
-| Players | 2/10 |
-| Host Name | no idea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:41:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602318410577 |
-| Players | 4/8 |
-| Host Name | angel dust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:41:05 |
 
 
