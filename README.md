@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601337098885 |
-| Players | 4/7 |
-| Host Name | C0D3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:06:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601339063869 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601338560431 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mi pinga, Mis reglas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:07 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601339159578 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:26 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601338805438 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Invincible under the Heavens |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:40 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601339297043 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Yahai |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:44 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601338689478 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Le puerqué |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601339062263 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Dirk Trash |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
@@ -94,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601339597862 |
+| Lobby ID | 28531601339677453 |
 | Players | 1/8 |
 | Host Name | LIVE:DAAAAAAAAAAA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:12:23 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:12:33 |
 
 
