@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:30:46 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601647248790 |
+| Players | 10/10 |
+| Host Name | Finn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:34:23 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601632181491 |
@@ -41,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601648166014 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:35:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601648774069 |
-| Players | 7/10 |
-| Host Name | Insanity |
+| Lobby ID | 28531601649809534 |
+| Players | 4/8 |
+| Host Name | 12 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:36:18 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:37:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601649047051 |
-| Players | 14/15 |
-| Host Name | розовый кайот |
+| Lobby ID | 28531601649634957 |
+| Players | 6/8 |
+| Host Name | Delirium |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:36:39 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:37:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:37:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601649634957 |
-| Players | 3/8 |
-| Host Name | 12 |
+| Lobby ID | 28531601649744780 |
+| Players | 2/10 |
+| Host Name | саламоLEXUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:37:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601649791240 |
+| Players | 2/15 |
+| Host Name | Badjuju228 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:37:24 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:37:36 |
 
 
