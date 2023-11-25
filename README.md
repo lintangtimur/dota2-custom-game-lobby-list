@@ -11,28 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:48:24 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601662269621 |
-| Players | 1/5 |
-| Host Name | art madgest |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:53:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601662032415 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | [DarkMoon] Dead Inside zxc1000-7 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:52:52 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601662643582 |
+| Players | 1/5 |
+| Host Name | art madgest |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:53:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601662670710 |
+| Players | 1/10 |
+| Host Name | Eijun |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 17:53:39 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601655826556 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:45:14 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601661339096 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 情況vaccine再糟糕不過了 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:52:01 |
@@ -104,27 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601662184338 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | NothingToSay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:53:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601662505122 |
-| Players | 3/8 |
-| Host Name | Nevaricere |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:53:27 |
+| Lobby ID | 28531601662559026 |
+| Players | 2/24 |
+| Host Name | Nabung = Istri Cosplay |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:53:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601662521666 |
+| Lobby ID | 28531601662559354 |
 | Players | 1/15 |
-| Host Name | Ooops |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:53:28 |
+| Host Name | tryhard |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 17:53:31 |
 
 
