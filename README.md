@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601629603988 |
+| Lobby ID | 28531601629792386 |
 | Players | 1/5 |
-| Host Name | Хлебушек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:11:18 |
+| Host Name | Silikon |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:11:33 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601628885504 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | CH1naZEs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:10:20 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Сыр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:11:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601629823924 |
+| Players | 2/8 |
+| Host Name | Cын Amor'a |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:11:35 |
 
 
