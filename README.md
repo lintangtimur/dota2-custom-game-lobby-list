@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:35 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601421752402 |
+| Players | 1/5 |
+| Host Name | 不安生 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Saturday, November 25, 2023 11:58:10 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601420920886 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:56:34 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601417960361 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:50:55 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:58:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601421747660 |
+| Players | 5/8 |
+| Host Name | ᴋ.ᴍ.ᴀ. |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:58:09 |
 
 
