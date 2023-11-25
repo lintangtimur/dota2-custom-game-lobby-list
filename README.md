@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601742246212 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Holycopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:16 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601742559051 |
-| Players | 2/10 |
-| Host Name | таджик оля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:20:34 |
+| Lobby ID | 28531601743415814 |
+| Players | 3/8 |
+| Host Name | BRHR Vibeman |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:21:24 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601742959186 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | @ch00$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:57 |
@@ -108,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NEW MAGIC WAND |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:21:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601739700129 |
+| Players | 1/8 |
+| Host Name | РАЗКУМАРИЛСЯ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:17:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601743396983 |
+| Players | 1/24 |
+| Host Name | SANTOSO |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 19:21:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601743416233 |
+| Players | 4/10 |
+| Host Name | 13lu3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:21:24 |
 
 
