@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:50:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601452199887 |
-| Players | 1/24 |
-| Host Name | 迎风张口胖三斤 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 12:53:26 |
+| Lobby ID | 28531601454383927 |
+| Players | 1/10 |
+| Host Name | RMT(McMani Rockefeller) |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:57:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:57:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601454383927 |
-| Players | 1/10 |
-| Host Name | RMT(McMani Rockefeller) |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:57:20 |
+| Lobby ID | 28531601454496516 |
+| Players | 1/8 |
+| Host Name | 唯一の人 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:57:32 |
 
 
