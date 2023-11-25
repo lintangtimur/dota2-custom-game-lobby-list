@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:05:01 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601727074754 |
+| Players | 1/5 |
+| Host Name | Silikon |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:05:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -29,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601726451295 |
-| Players | 1/24 |
-| Host Name | Sexy`Boy |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:04:26 |
+| Lobby ID | 28531601727130539 |
+| Players | 3/8 |
+| Host Name | Piwi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:05:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601726544388 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | asaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:32 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601726244015 |
-| Players | 2/10 |
-| Host Name | baji |
+| Players | 1/10 |
+| Host Name | xd. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:13 |
 
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601726515561 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:30 |
@@ -76,28 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601725367609 |
-| Players | 9/10 |
-| Host Name | Firtl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:03:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601726873575 |
-| Players | 5/8 |
-| Host Name | [ZIG]Arthas |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 19:04:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531601726890301 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | LS.cara |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601727199523 |
+| Players | 2/15 |
+| Host Name | Nia477 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:05:13 |
 
 
