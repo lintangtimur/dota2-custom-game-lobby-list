@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601580394841 |
-| Players | 9/10 |
-| Host Name | jusplayin |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 16:04:33 |
+| Lobby ID | 28531601581471360 |
+| Players | 4/10 |
+| Host Name | DOMKPAT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:05:59 |
 
 
 |  | epic_boss_fight_challenger |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zodar |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:05:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601581471360 |
-| Players | 3/10 |
-| Host Name | DOMKPAT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:05:59 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601582176754 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Mr... |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:06:56 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601577752623 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:01:03 |
@@ -94,19 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601582271749 |
-| Players | 11/15 |
-| Host Name | меф реарм меф |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:07:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531601582587704 |
 | Players | 1/15 |
 | Host Name | POS 5 ONLY PLEASE |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:07:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601582836487 |
+| Players | 3/15 |
+| Host Name | Elitekiller |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:07:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601582836771 |
+| Players | 1/15 |
+| Host Name | Windranger |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:07:50 |
 
 
