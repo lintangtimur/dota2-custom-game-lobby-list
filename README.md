@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602345261435 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:20:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531602347602577 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:24:18 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 泡泡男孩 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602349141727 |
+| Players | 1/5 |
+| Host Name | Shobbar |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:43 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348321757 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | BURNY_33333333333333333333333333 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:26 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602335671215 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | focus PayToWin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602348724932 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Kill me pls |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:04 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602348847967 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | femboy_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:16 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602348789568 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | adriwazaxd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:10 |
@@ -113,34 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602348934908 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | КИЛОkoki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602348029247 |
-| Players | 14/15 |
-| Host Name | :( |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:24:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602346981247 |
-| Players | 13/15 |
-| Host Name | https://www.twitch.tv/noexchica |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:23:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602349033446 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | CAUTIVO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:33 |
@@ -148,10 +139,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602349100337 |
-| Players | 1/10 |
-| Host Name | beligol |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 05:26:39 |
+| Lobby ID | 28531602349214141 |
+| Players | 4/10 |
+| Host Name | Absolut v potoke spermi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602349244189 |
+| Players | 2/8 |
+| Host Name | Fzforza(-1k) |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:53 |
 
 
