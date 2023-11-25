@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601391990113 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | lol |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:59:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601391447797 |
-| Players | 13/15 |
-| Host Name | memories- |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 10:58:14 |
+| Lobby ID | 28531601393992037 |
+| Players | 3/24 |
+| Host Name | !Snow |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:03:31 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601390870496 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | kys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:57:03 |
@@ -77,27 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601393867042 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sank ♠ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:03:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601393994252 |
-| Players | 1/24 |
-| Host Name | Shadow |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:03:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601393992037 |
-| Players | 1/24 |
-| Host Name | !Snow |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:03:31 |
 
 
