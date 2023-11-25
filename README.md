@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602259218402 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Tributin ± |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:25:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602259848950 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | S4T0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:26:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602259979845 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Press F |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:26:16 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:26:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602259979867 |
-| Players | 1/10 |
-| Host Name | Паша Ишакотрах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:26:16 |
+| Lobby ID | 28531602260142879 |
+| Players | 5/15 |
+| Host Name | Kori❄♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:26:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,12 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602260185363 |
+| Players | 3/8 |
+| Host Name | BumBum |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:26:31 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602259427892 |
-| Players | 9/10 |
-| Host Name | Elfing |
+| Lobby ID | 28531602260094069 |
+| Players | 3/10 |
+| Host Name | I Love Low |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:26:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602259630501 |
+| Players | 11/15 |
+| Host Name | Marabola |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:25:37 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:25:51 |
 
 
