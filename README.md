@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601784743416 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Muichiro |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:59:54 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601783848508 |
-| Players | 14/15 |
-| Host Name | Kapa |
+| Lobby ID | 28531601785599077 |
+| Players | 5/8 |
+| Host Name | AdamPride |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:59:06 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:00:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601760944487 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | SI |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:38:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601785380308 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ૮ ᴖﻌᴖა |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:00:27 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:00:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601783867791 |
-| Players | 21/24 |
-| Host Name | SeniannaFranciff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:59:07 |
+| Lobby ID | 28531601783522421 |
+| Players | 9/10 |
+| Host Name | Pyrtoper |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:58:48 |
 
 
 |  | ot3_desert_octet |
@@ -139,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601785599077 |
+| Lobby ID | 28531601786051254 |
 | Players | 1/8 |
-| Host Name | AdamPride |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:00:39 |
+| Host Name | ШЕПТУН |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:01:03 |
 
 
