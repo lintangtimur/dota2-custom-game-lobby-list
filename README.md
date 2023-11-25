@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602198290901 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 346515 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:16:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602195436257 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Gato sentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 02:13:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602198647653 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | niWo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:16:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602197579859 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | ♥♦CentOS♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:15:19 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602192631751 |
+| Lobby ID | 28531602199500315 |
 | Players | 1/8 |
-| Host Name | Бронсон |
+| Host Name | OwO K4rban h9jie |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:10:01 |
+| Lobby Creation Time | Sunday, November 26, 2023 02:17:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602194340378 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Romando |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 02:11:50 |
@@ -149,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602193415787 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Interpol |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:10:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602199371342 |
-| Players | 4/10 |
-| Host Name | AMIDOMARU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:17:15 |
 
 
