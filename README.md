@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601343333389 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | INFINITY |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342383419 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | JEANNE D'ARC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342968187 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:19:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601343652608 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | nether |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:21:07 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601343150735 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Declarix |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601343504590 |
-| Players | 3/8 |
-| Host Name | chelik |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:20:48 |
+| Lobby ID | 28531601343880752 |
+| Players | 1/10 |
+| Host Name | RYUK |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:21:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601343452654 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Kratos |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:41 |
