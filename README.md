@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602038323164 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:33:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602037925089 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Sid |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:33:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602037932111 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:33:13 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602039515694 |
-| Players | 13/15 |
-| Host Name | açım |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:34:45 |
+| Lobby ID | 28531602040125054 |
+| Players | 8/15 |
+| Host Name | Aylardex Vlael |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:35:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602039489492 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Command Lake Pulse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:34:44 |
