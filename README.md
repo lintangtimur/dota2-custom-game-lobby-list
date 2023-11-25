@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601341598305 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Mendenhall |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342383419 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | JEANNE D'ARC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601341472679 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | NIX fury |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601341937632 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ketamine |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:17:25 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601342273491 |
-| Players | 1/8 |
-| Host Name | Shadow friend |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:18:09 |
+| Lobby ID | 28531601340041365 |
+| Players | 5/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:13:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601342509555 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Aegon II |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:40 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sirius/Void |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601342678329 |
+| Players | 1/15 |
+| Host Name | Drink VODKA Play Dotka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:19:02 |
 
 
