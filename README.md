@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601844847936 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | King Of Uruk |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 20:50:30 |
@@ -22,15 +22,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601846326013 |
-| Players | 9/10 |
-| Host Name | 山上徹也 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:51:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601846988365 |
 | Players | 1/10 |
 | Host Name | Danh hài Vân Sơn |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Nadal (ALL MUTED) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601826895994 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | EmiSaRio- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 20:35:53 |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:51:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601843160811 |
-| Players | 1/10 |
-| Host Name | [W] |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 20:49:07 |
+| Lobby ID | 28531601847369819 |
+| Players | 4/8 |
+| Host Name | трухамёт иван |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:52:33 |
 
 
 |  | ot3_gardens_duo |
@@ -119,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:41:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601846444586 |
-| Players | 9/10 |
-| Host Name | соси мое говно |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:51:48 |
+| Lobby ID | 28531601847247781 |
+| Players | 3/15 |
+| Host Name | Nevermind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:52:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601847236033 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:52:27 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601846463644 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Space |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:51:49 |
@@ -158,19 +149,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601846809942 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Fryp |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:52:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601846941458 |
-| Players | 6/8 |
-| Host Name | Aerosalt |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:52:12 |
+| Lobby ID | 28531601847293371 |
+| Players | 1/24 |
+| Host Name | Genie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:52:30 |
 
 
 |  | ot3_gardens_duo |
@@ -180,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | solar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:52:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601847247781 |
-| Players | 2/15 |
-| Host Name | Nevermind |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:52:27 |
 
 
