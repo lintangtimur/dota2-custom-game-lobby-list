@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601588231564 |
-| Players | 9/10 |
-| Host Name | Xiao Xiao |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 16:15:06 |
+| Lobby ID | 28531601589709029 |
+| Players | 7/10 |
+| Host Name | No Hesi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:17:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:15:54 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601589709029 |
-| Players | 6/10 |
-| Host Name | No Hesi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:17:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601591306934 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ни чего себе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:19:14 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601587903569 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | zenzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:14:39 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601589719494 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:06 |
@@ -85,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601591546243 |
+| Lobby ID | 28531601591708548 |
 | Players | 1/8 |
-| Host Name | -_-_HuNter_-_- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:19:33 |
+| Host Name | autisto. |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:19:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601591664396 |
+| Players | 2/10 |
+| Host Name | Dezlt |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:19:43 |
 
 
