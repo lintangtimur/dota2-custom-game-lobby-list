@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601389346569 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kargador |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:53:55 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601390610891 |
-| Players | 8/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 10:56:31 |
+| Lobby ID | 28531601391295076 |
+| Players | 2/24 |
+| Host Name | bajando pepa |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:57:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601389442756 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ЭЛЬ ПРИМООО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:54:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601390206459 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Castillo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:55:41 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:55:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601391140087 |
-| Players | 5/8 |
-| Host Name | [ x x x ] |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:57:36 |
 
 
