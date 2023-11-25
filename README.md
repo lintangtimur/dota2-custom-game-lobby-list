@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601438753588 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Skip To My Lou |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601443687324 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | TitinN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:38:17 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601444845841 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:40:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601444896912 |
+| Players | 1/8 |
+| Host Name | Aɮʏʄʄ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:40:28 |
 
 
