@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:34:41 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601974027713 |
-| Players | 9/10 |
-| Host Name | < blank > |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:35:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601974430451 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601974782181 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Arrivederci |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:35:52 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601971173647 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 33 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:32:50 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601974754624 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | The Potato |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 22:35:51 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601975022909 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | BRAINSONTHECURB! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:36:04 |
@@ -121,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601975127604 |
+| Lobby ID | 28531601975253385 |
 | Players | 1/24 |
-| Host Name | asaka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:36:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601973601586 |
-| Players | 6/8 |
-| Host Name | ХАПАТЕЛЬ ОНЛАЙН |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 22:34:52 |
+| Host Name | NEGROREYES |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:36:16 |
 
 
