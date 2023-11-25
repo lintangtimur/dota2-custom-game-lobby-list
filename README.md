@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601419476272 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:49 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601420114921 |
-| Players | 1/15 |
-| Host Name | Happosai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:55:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601418189744 |
-| Players | 11/15 |
-| Host Name | GG.Ace♠GAIMIN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:51:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601417960361 |
@@ -72,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:50:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601420345810 |
+| Players | 2/24 |
+| Host Name | Happosai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:55:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601420345687 |
+| Players | 1/24 |
+| Host Name | I drive |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:55:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601418189744 |
+| Players | 13/15 |
+| Host Name | GG.Ace♠GAIMIN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:51:22 |
 
 
