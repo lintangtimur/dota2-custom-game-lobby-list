@@ -2,6 +2,24 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601938239879 |
+| Players | 1/10 |
+| Host Name | Big Gringo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:05:38 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531601938259072 |
+| Players | 1/7 |
+| Host Name | logika |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:05:39 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601932121262 |
@@ -14,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601933329664 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | VeveritaUcigasa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:01:40 |
@@ -32,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601937784248 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 76561199058342104 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:05:16 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601936235776 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Daz_din_go☂ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 22:04:01 |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601935228099 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:03:12 |
@@ -99,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | makarenko #bloodrust |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:03:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601937910730 |
-| Players | 1/10 |
-| Host Name | ★☜☢SHoToKaN☢☞★ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:05:22 |
 
 
 |  | ot3_gardens_duo |
