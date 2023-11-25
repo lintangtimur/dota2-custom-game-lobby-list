@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601436845632 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | HaXyuTaKuGRaT |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:26:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601434066312 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sant.W |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:00 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601434284037 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601436943505 |
-| Players | 1/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:26:12 |
+| Lobby ID | 28531601437060750 |
+| Players | 1/15 |
+| Host Name | CRIMINAL |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 12:26:25 |
 
 
 |  | ot3_necropolis_ffa |
