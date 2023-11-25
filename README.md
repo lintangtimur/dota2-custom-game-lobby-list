@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601368177501 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:11:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601367383358 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Recep Tayyip Erdoğan |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:55 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601367818905 |
-| Players | 8/10 |
-| Host Name | Armando casas ♥ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:10:47 |
+| Lobby ID | 28531601368298080 |
+| Players | 3/10 |
+| Host Name | RYUK |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 10:11:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601365655693 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | просто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:06:27 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601366892184 |
-| Players | 7/10 |
-| Host Name | JimPark |
+| Lobby ID | 28531601368228513 |
+| Players | 4/15 |
+| Host Name | Yaga |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:08:56 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:11:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:11:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601368228513 |
-| Players | 1/15 |
-| Host Name | Yaga |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:11:36 |
 
 
