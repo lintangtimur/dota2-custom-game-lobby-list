@@ -4,20 +4,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601339063869 |
-| Players | 7/10 |
-| Host Name | Raiden Ei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
+| Lobby ID | 28531601339995177 |
+| Players | 1/10 |
+| Host Name | -Panico |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:13:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601339677453 |
-| Players | 1/8 |
-| Host Name | LIVE:DAAAAAAAAAAA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:12:33 |
+| Lobby ID | 28531601339855025 |
+| Players | 1/10 |
+| Host Name | Blednaowca |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:12:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601338689478 |
+| Players | 23/24 |
+| Host Name | Le puerqué |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
 
 
 |  | ot3_desert_octet |
@@ -29,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:26 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601338805438 |
-| Players | 23/24 |
-| Host Name | Invincible under the Heavens |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:10:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601339297043 |
-| Players | 9/10 |
-| Host Name | Yahai |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601336508498 |
@@ -56,12 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:05:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601338689478 |
-| Players | 17/24 |
-| Host Name | Le puerqué |
+| Lobby ID | 28531601339986955 |
+| Players | 1/8 |
+| Host Name | Gonza |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:13:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601340008286 |
+| Players | 1/15 |
+| Host Name | LIVE:DAAAAAAAAAAA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:13:16 |
 
 
