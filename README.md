@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601927410135 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Wootmonster |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 21:56:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601926081470 |
-| Players | 7/10 |
-| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:55:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:57:20 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601928242592 |
+| Players | 1/5 |
+| Host Name | TOROTOT |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 21:57:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601926423714 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Meruempath |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:56:05 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:56:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601926968660 |
-| Players | 12/15 |
-| Host Name | Synapse |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:56:31 |
+| Lobby ID | 28531601928224457 |
+| Players | 2/8 |
+| Host Name | вагинальная мраз |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 21:57:32 |
 
 
 |  | ot3_gardens_duo |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Le§hug@♠M@!v@d@ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 21:57:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601928204965 |
+| Players | 2/10 |
+| Host Name | мс клитор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:57:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601928241060 |
+| Players | 1/8 |
+| Host Name | badbadbadbadbadbadbadbadbadbad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:57:33 |
 
 
