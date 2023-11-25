@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28531602255987501 |
-| Players | 6/10 |
-| Host Name | d1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:21:31 |
+| Lobby ID | 28531602257597415 |
+| Players | 1/7 |
+| Host Name | isitLogan |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:23:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:23:21 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531602257597415 |
-| Players | 1/7 |
-| Host Name | isitLogan |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:23:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602256445199 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602255978820 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | bastard0 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:21:30 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602257433920 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Dr. Strange where rampage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:23:14 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602255442342 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:52 |
@@ -95,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602255736806 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ⌡™ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:21:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602257157095 |
-| Players | 2/8 |
-| Host Name | хозяйка кассы |
+| Lobby ID | 28531602257669419 |
+| Players | 4/10 |
+| Host Name | the looney psychopath |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:22:54 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:23:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602257675997 |
+| Players | 1/10 |
+| Host Name | DUQUE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 03:23:31 |
 
 
