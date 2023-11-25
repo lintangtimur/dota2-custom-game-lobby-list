@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601417353956 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Satella- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:49:46 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601417960361 |
-| Players | 2/8 |
-| Host Name | kizerfdsgagfh. |
+| Players | 1/8 |
+| Host Name | Fantasy[HS] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:50:55 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601418380089 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:51:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601418189744 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | GG.Ace♠GAIMIN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:51:22 |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601419196561 |
-| Players | 1/15 |
-| Host Name | Dominador |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 11:53:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601419585287 |
-| Players | 5/8 |
-| Host Name | Ultra Instinto Ogre |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:54:01 |
 
 
