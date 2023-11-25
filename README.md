@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602382912526 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | la nueva promesa del dota SA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:24:11 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:23:44 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602382399774 |
-| Players | 22/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:23:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602382580562 |
-| Players | 5/8 |
-| Host Name | EL NEGRITO OJO CLARO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:23:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602382792683 |
-| Players | 2/10 |
-| Host Name | tbgk7 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:23:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602383388508 |
@@ -99,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♠!LICH KING!♠ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 06:25:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602382580562 |
+| Players | 6/8 |
+| Host Name | EL NEGRITO OJO CLARO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 06:23:33 |
 
 
