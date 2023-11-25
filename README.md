@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:25:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601555210216 |
-| Players | 7/8 |
-| Host Name | # |
+| Lobby ID | 28531601556453352 |
+| Players | 9/15 |
+| Host Name | Дождливый Июль |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:30:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:32:34 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601555194401 |
-| Players | 22/24 |
-| Host Name | Winter Night |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:30:52 |
+| Lobby ID | 28531601556496796 |
+| Players | 3/10 |
+| Host Name | праим ятора |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:32:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,36 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601554607020 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:30:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601556453352 |
-| Players | 5/15 |
-| Host Name | Дождливый Июль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:32:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601556496796 |
-| Players | 2/10 |
-| Host Name | праим ятора |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:32:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601556640382 |
-| Players | 1/8 |
-| Host Name | 棋技哥 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Saturday, November 25, 2023 15:32:49 |
 
 
