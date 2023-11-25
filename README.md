@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601436845632 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | _CaChaBaCha_10_ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:26:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601437090763 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:26:29 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601436816636 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:25:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601436626429 |
-| Players | 6/8 |
-| Host Name | Червь-пидор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:25:38 |
+| Lobby ID | 28531601437407553 |
+| Players | 2/15 |
+| Host Name | pill|user |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:27:03 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601434066312 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sant.W |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:00 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601437186604 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Емне Гров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:26:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601437350233 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 12:26:57 |
 
 
