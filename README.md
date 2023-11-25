@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601388783908 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:52:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601388607764 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Gwiza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:52:25 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601386011746 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:47:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601389322721 |
-| Players | 3/8 |
-| Host Name | FS.► ☺Yawar |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:53:52 |
+| Lobby ID | 28531601389330282 |
+| Players | 3/10 |
+| Host Name | Pochi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 10:53:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601389330282 |
-| Players | 1/10 |
-| Host Name | Pochi |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:53:53 |
+| Lobby ID | 28531601389442756 |
+| Players | 2/10 |
+| Host Name | ЭЛЬ ПРИМООО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:54:07 |
 
 
