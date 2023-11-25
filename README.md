@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:10:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601542799276 |
-| Players | 9/10 |
-| Host Name | Loohe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:13:52 |
+| Lobby ID | 28531601543546518 |
+| Players | 2/5 |
+| Host Name | jopa26 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:14:54 |
 
 
 |  | epic_boss_fight_challenger |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:14:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601543546518 |
-| Players | 2/5 |
-| Host Name | jopa26 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:14:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601542254680 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Nonlinear operator |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:08 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601543789659 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:15:14 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601544465770 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:16:11 |
@@ -95,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601545203789 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | GostRed |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:17:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601545214805 |
-| Players | 2/15 |
-| Host Name | Rasputina |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:17:13 |
+| Lobby ID | 28531601545662004 |
+| Players | 1/8 |
+| Host Name | LightFromHeaven~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:17:50 |
 
 
