@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602125562452 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:59:38 |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | S.G |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:01:11 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531602128073296 |
-| Players | 4/7 |
-| Host Name | 6776? |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 26, 2023 01:02:05 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:00:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602125679151 |
-| Players | 8/10 |
-| Host Name | [TмR] maravisha |
+| Lobby ID | 28531602128286092 |
+| Players | 2/24 |
+| Host Name | roswel |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 00:59:45 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:02:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602127437588 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 𝙉𝙄𝙆𝙄𝙎𝙎 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:01:27 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602126714000 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:00:45 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602127703452 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DezvinG |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 01:01:43 |
@@ -95,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602128143466 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Пенный Люкс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:02:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602127940730 |
-| Players | 9/10 |
-| Host Name | Prigovor |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:01:57 |
+| Lobby ID | 28531602128336044 |
+| Players | 3/8 |
+| Host Name | SicriT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 01:02:21 |
 
 
 |  | ot3_gardens_duo |
@@ -121,37 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602127498701 |
-| Players | 12/15 |
-| Host Name | Tan |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:01:31 |
+| Lobby ID | 28531602128320126 |
+| Players | 3/15 |
+| Host Name | Anthropologysali Kaur |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 01:02:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602128191563 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | dan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:02:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602128286092 |
-| Players | 1/24 |
-| Host Name | roswel |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 01:02:18 |
+| Lobby ID | 28531602128464106 |
+| Players | 1/8 |
+| Host Name | frasherzxc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 01:02:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602128317148 |
-| Players | 5/8 |
-| Host Name | арсений брейсер |
+| Lobby ID | 28531602128496893 |
+| Players | 2/8 |
+| Host Name | был внутри адлета |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:02:20 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:02:31 |
 
 
