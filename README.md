@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:47 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601422651070 |
-| Players | 1/5 |
-| Host Name | страшный руин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:59:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601422546377 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601422039794 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:58:43 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601422257552 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | thekillbus32 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:59:08 |
@@ -77,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601421963411 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ᴋ.ᴍ.ᴀ. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:58:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601422770323 |
+| Players | 3/24 |
+| Host Name | GraFx |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:00:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601422671574 |
+| Players | 2/24 |
+| Host Name | skuukzky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:59:56 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601421650974 |
-| Players | 1/10 |
-| Host Name | San600Sn |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:57:58 |
+| Lobby ID | 28531601422669460 |
+| Players | 2/10 |
+| Host Name | Nzo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:59:55 |
 
 
