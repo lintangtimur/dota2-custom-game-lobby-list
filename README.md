@@ -23,25 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601530802841 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | I ATE NOTHING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:56:52 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601531268988 |
-| Players | 1/7 |
-| Host Name | FatShady |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:57:32 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601530419530 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:56:20 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601528845300 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Jona Quiñones |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:54:05 |
@@ -104,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601531034466 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601531307649 |
+| Players | 1/10 |
+| Host Name | _Mazafaka_ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:57:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601531548226 |
+| Players | 1/24 |
+| Host Name | CHUPE DE CONCHAS NEGRAS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 14:57:56 |
 
 
