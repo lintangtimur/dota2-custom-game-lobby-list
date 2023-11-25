@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572156735 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ТИМА ПИДОРАСОВ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:53:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601572388534 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Melok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601572400361 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | AltaExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:03 |
