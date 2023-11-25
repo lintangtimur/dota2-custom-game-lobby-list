@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601434369764 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | DH.ChillOut~ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:33 |
@@ -90,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:23:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601434496010 |
+| Players | 5/10 |
+| Host Name | Zalec Frey |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:21:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601435779202 |
+| Players | 1/8 |
+| Host Name | Yeezuss愛生 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:24:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601434311815 |
+| Players | 4/8 |
+| Host Name | el tio de bryan 30CM |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:21:26 |
 
 
