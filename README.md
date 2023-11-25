@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:01:34 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602332662932 |
-| Players | 1/10 |
-| Host Name | Noobish |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:01:37 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602331796867 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | GG.Ace♠GAIMIN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:00:18 |
@@ -41,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322910432 |
-| Players | 2/24 |
-| Host Name | asuna |
+| Players | 1/24 |
+| Host Name | mefedron |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:47:24 |
 
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602333263725 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ВЕРНИГОРА |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:02:31 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602332276438 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Bekito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:01:02 |
@@ -137,21 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:02:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602333466556 |
-| Players | 3/8 |
-| Host Name | *hecker* |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:02:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602333572829 |
-| Players | 2/8 |
-| Host Name | хапаю втихаря) |
+| Lobby ID | 28531602333663309 |
+| Players | 1/15 |
+| Host Name | MoHaKo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:02:58 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:03:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602333640773 |
+| Players | 7/8 |
+| Host Name | The Hussar General |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:03:04 |
 
 
