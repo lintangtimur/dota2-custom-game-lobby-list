@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601397837824 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | YEAH |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 11:11:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601397106388 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:09:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601397884302 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Dota 2½ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:11:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601398262149 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Sushi Devourer |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:12:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601398488695 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | x__t__C |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:12:40 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601398329661 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | husnters |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:12:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601398644543 |
-| Players | 1/8 |
-| Host Name | Jeki Chill |
+| Lobby ID | 28531601398716288 |
+| Players | 3/10 |
+| Host Name | alohafeed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:12:59 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:13:07 |
 
 
