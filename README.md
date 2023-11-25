@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601933329664 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | VeveritaUcigasa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:01:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601935434760 |
-| Players | 7/8 |
-| Host Name | Грязный гуч |
+| Lobby ID | 28531601936015268 |
+| Players | 4/8 |
+| Host Name | солевой атлет |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 22:03:22 |
+| Lobby Creation Time | Saturday, November 25, 2023 22:03:51 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601935228099 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:03:12 |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:03:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601937264843 |
-| Players | 3/8 |
-| Host Name | Te meto mi árbol? |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:04:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601936015268 |
-| Players | 5/8 |
-| Host Name | объебосик |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 22:03:51 |
+| Lobby ID | 28531601937755026 |
+| Players | 1/10 |
+| Host Name | малышка ревнует |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:05:15 |
 
 
