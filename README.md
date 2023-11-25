@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:11:33 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602376949212 |
+| Players | 1/10 |
+| Host Name | San Juan Wolf.alienmode |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:13:13 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602376168180 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602376553907 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Blakebran |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 06:12:31 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602375596688 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:10:48 |
@@ -112,24 +121,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602376528260 |
-| Players | 8/10 |
-| Host Name | tbgk7 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:12:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602376576379 |
-| Players | 4/8 |
-| Host Name | Artemisa Churchill |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:12:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28531602376829355 |
 | Players | 1/10 |
 | Host Name | Samura1 |
@@ -139,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602376857249 |
+| Lobby ID | 28531602376576379 |
 | Players | 4/8 |
-| Host Name | Hloyrod |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:13:03 |
+| Host Name | Artemisa Churchill |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 06:12:33 |
 
 
