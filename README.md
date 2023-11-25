@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:01:17 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602238813934 |
-| Players | 2/10 |
-| Host Name | legolas is sh*t, I am niggolas |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:01:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602238843864 |
-| Players | 1/5 |
-| Host Name | CanyoQ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:01:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602230667751 |
@@ -94,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602237561122 |
-| Players | 8/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 02:59:54 |
+| Lobby ID | 28531602238956707 |
+| Players | 3/15 |
+| Host Name | flufy biscuits with vanila kises |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 03:01:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,28 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602235467113 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ДАВИД |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:57:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602238165106 |
-| Players | 9/10 |
-| Host Name | S4T0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:00:37 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602237914245 |
-| Players | 4/8 |
-| Host Name | 逍遥♡秘籍 |
+| Lobby ID | 28531602238892487 |
+| Players | 1/8 |
+| Host Name | Tortik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:00:20 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:01:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602238883887 |
+| Players | 2/10 |
+| Host Name | ЛЕХА СТОНКС ЯНИКС 2013 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 03:01:28 |
 
 
 |  | ot3_jungle_quintet |
