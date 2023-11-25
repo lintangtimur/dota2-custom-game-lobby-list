@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601780330528 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 猫山王 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:55:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601781523871 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:57:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601781220744 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | tears |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 19:56:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601778427637 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ʀᴏᴍᴀɴᴇᴇᴅ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 19:54:11 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601781100372 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ПУЗОКАРЛИКА 2011 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:56:37 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601781195967 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | silhouette |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:56:42 |
@@ -140,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601781923597 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | TSpirit.YATORO雨.1XBET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:57:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601782108131 |
+| Players | 4/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 19:57:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601782116981 |
+| Players | 5/8 |
+| Host Name | Xui |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:57:32 |
 
 
