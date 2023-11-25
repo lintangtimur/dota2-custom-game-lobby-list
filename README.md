@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602356696121 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | love yours |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:38:46 |
@@ -65,39 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:43:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602359028616 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:42:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602350712402 |
-| Players | 7/10 |
-| Host Name | Tonpoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:29:12 |
+| Lobby ID | 28531602356940766 |
+| Players | 1/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 05:39:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602359346196 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Trell |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:43:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602356940766 |
-| Players | 2/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 05:39:10 |
 
 
