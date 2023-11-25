@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601412361069 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Paipl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601414021038 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Aezakmi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:18 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:44:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601413697924 |
-| Players | 23/24 |
-| Host Name | ♉ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:42:41 |
+| Lobby ID | 28531601414959065 |
+| Players | 14/15 |
+| Host Name | sAnkøtteryŁeet |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:45:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601416662591 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | dogical |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:48:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601415135100 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | hllrser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:45:30 |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝖃𝕰𝕹𝕺𝕭𝖀 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601414959065 |
-| Players | 13/15 |
-| Host Name | sAnkøtteryŁeet |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:45:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601417061293 |
-| Players | 1/8 |
-| Host Name | Lua5- |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:49:12 |
 
 
