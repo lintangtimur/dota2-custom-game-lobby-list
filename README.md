@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602255723922 |
+| Players | 1/5 |
+| Host Name | Parkerhazzah |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 03:21:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602255056378 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602255195901 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | был внутри адлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:34 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602255451761 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:52 |
@@ -56,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602255403548 |
-| Players | 3/10 |
-| Host Name | Padl0 :3 |
+| Lobby ID | 28531602255729193 |
+| Players | 4/8 |
+| Host Name | Фофел |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:20:49 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:21:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602255338130 |
-| Players | 10/15 |
-| Host Name | Oldlord∞ kaife |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:20:44 |
+| Lobby ID | 28531602255654494 |
+| Players | 3/8 |
+| Host Name | Barsykke_ня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 03:21:07 |
 
 
 |  | ot3_gardens_duo |
@@ -86,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602255503835 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Norchine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:20:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602255712950 |
+| Players | 5/8 |
+| Host Name | litl snake ۞ |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 03:21:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602255547502 |
-| Players | 1/15 |
+| Lobby ID | 28531602255724324 |
+| Players | 4/15 |
 | Host Name | типни если сосала |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:20:59 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:21:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602255736806 |
+| Players | 3/24 |
+| Host Name | ⌡™ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 03:21:13 |
 
 
