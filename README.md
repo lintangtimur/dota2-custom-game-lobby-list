@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601764257263 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Hasta La Vista |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:41:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601765895227 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Hnomlay |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 19:42:42 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:38:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601767029601 |
-| Players | 9/10 |
-| Host Name | Rus |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:43:45 |
+| Lobby ID | 28531601766808395 |
+| Players | 6/8 |
+| Host Name | Inoculisfurorem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:43:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601765615709 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | 1 of 1 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 19:42:26 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601767600094 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | FiLin 界 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:44:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601767667738 |
+| Players | 3/10 |
+| Host Name | ПТ на шекели |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:44:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601766808395 |
-| Players | 5/8 |
-| Host Name | Inoculisfurorem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:43:33 |
+| Lobby ID | 28531601767827065 |
+| Players | 1/8 |
+| Host Name | El Gotto Cuba |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 19:44:29 |
 
 
