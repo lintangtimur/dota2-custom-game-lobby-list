@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350485168 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 维克多 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601349350858 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | スベン　スヌスベルぐ : |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:33:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601350410189 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Bearminator |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350642107 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:48 |
@@ -103,10 +103,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601350663992 |
-| Players | 1/15 |
+| Lobby ID | 28531601350755428 |
+| Players | 6/15 |
 | Host Name | 乂 ＣＲＩＭＩＮＡＬ 乂 |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:35:51 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:36:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601350776196 |
+| Players | 1/24 |
+| Host Name | Perro chusco |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:36:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601350805490 |
+| Players | 1/8 |
+| Host Name | Kabir |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:36:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601350900135 |
+| Players | 2/10 |
+| Host Name | 切彦 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:36:20 |
 
 
