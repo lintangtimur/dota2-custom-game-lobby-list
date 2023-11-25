@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602156175495 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:31:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602148225682 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Eclipse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 01:22:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602155456282 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 01:30:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602156002916 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:31:01 |
@@ -128,30 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 01:30:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602156205178 |
-| Players | 1/8 |
-| Host Name | ShNaks |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:31:14 |
+| Lobby ID | 28531602156542065 |
+| Players | 1/24 |
+| Host Name | BABY-ROSH (AL) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 01:31:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602156448118 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ЧВК Фембойчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 01:31:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602156481604 |
-| Players | 1/8 |
-| Host Name | EJIEKTRIСK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 01:31:31 |
 
 
