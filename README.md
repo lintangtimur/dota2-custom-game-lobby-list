@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601581123914 |
-| Players | 4/7 |
+| Players | 6/7 |
 | Host Name | Zodar |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:05:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601583083141 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Отошёл покурить |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:08:10 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601583191873 |
-| Players | 1/10 |
+| Lobby ID | 28531601583329830 |
+| Players | 2/10 |
 | Host Name | <3 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:08:19 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:08:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -92,48 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:01:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601582969414 |
-| Players | 6/8 |
-| Host Name | s1mple Pro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:08:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601583221194 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | 09 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:08:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601583271104 |
-| Players | 3/15 |
-| Host Name | Super_Chye |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 16:08:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601583225893 |
-| Players | 1/15 |
-| Host Name | Alenino |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:08:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601583272171 |
-| Players | 4/8 |
-| Host Name | SS POSHEL NAHUY |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:08:25 |
 
 
