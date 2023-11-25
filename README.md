@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:38:46 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602356694597 |
-| Players | 9/10 |
-| Host Name | -40к |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:38:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602358593982 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602358650653 |
-| Players | 6/8 |
-| Host Name | whore |
+| Lobby ID | 28531602358164557 |
+| Players | 2/10 |
+| Host Name | theshotcaller2017 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:41:59 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:41:11 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602356727534 |
-| Players | 7/8 |
-| Host Name | Hopeful Men (GPRD) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:38:49 |
+| Lobby ID | 28531602358405378 |
+| Players | 7/15 |
+| Host Name | Glim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:41:34 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602357419424 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | 雨 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:39:57 |
@@ -119,39 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:41:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602358083764 |
-| Players | 4/8 |
-| Host Name | Белый Окупант |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:41:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602358217560 |
-| Players | 4/10 |
-| Host Name | Илюня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:41:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602358164557 |
+| Lobby ID | 28531602358832692 |
 | Players | 2/10 |
-| Host Name | theshotcaller2017 |
+| Host Name | Kromad ツ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:41:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602358405378 |
-| Players | 2/15 |
-| Host Name | Glim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:41:34 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:42:17 |
 
 
