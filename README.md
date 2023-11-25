@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601328220460 |
-| Players | 2/10 |
-| Host Name | VizoR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 08:47:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601323941813 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601327721559 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | я утонул вчера в своей ванной |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:56 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rs |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:42:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601328300052 |
+| Players | 1/8 |
+| Host Name | Alkazed |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 08:47:12 |
 
 
