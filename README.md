@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601442488413 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Souri |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:36:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601438753588 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Skip To My Lou |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601441667911 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:34:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601442399687 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | anyvay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601442520103 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | hippodamia |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:36:10 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601442501672 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ☪ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:36:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601442629028 |
+| Players | 1/10 |
+| Host Name | rA9 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 12:36:22 |
 
 
