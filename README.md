@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601655826556 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:45:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601661339096 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 情況vaccine再糟糕不過了 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:52:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601661719354 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:52:29 |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601662184338 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | NothingToSay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:53:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601662505122 |
+| Players | 3/8 |
+| Host Name | Nevaricere |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:53:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601662521666 |
+| Players | 1/15 |
+| Host Name | Ooops |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:53:28 |
 
 
