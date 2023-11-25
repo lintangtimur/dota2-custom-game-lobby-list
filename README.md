@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601637859257 |
-| Players | 1/5 |
-| Host Name | Hans Olo |
+| Lobby ID | 28531601640081083 |
+| Players | 1/10 |
+| Host Name | raru |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:22:12 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:25:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fuyudji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:24:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601640081083 |
-| Players | 1/10 |
-| Host Name | raru |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:25:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601640321121 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | overflow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:25:25 |
@@ -68,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601640316799 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | philipins slayer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:25:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601639902808 |
-| Players | 6/10 |
-| Host Name | ruined image |
+| Lobby ID | 28531601640608188 |
+| Players | 8/15 |
+| Host Name | oSinoueL |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:24:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:25:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Der Absi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:25:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601640627471 |
-| Players | 5/15 |
-| Host Name | AsaulT |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:25:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601640608188 |
-| Players | 1/15 |
-| Host Name | oSinoueL |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:25:48 |
 
 
