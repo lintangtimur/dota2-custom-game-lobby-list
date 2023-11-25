@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601339063869 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531601339087313 |
+| Players | 1/7 |
+| Host Name | heybibiyea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:11:16 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601338773635 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | tyRee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:35 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601338805438 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Invincible under the Heavens |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:40 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601336928809 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | KVADRAT |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:06:31 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601338689478 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Le puerqué |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
@@ -85,28 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601338625688 |
-| Players | 14/15 |
-| Host Name | jugar callado es mi terapía |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:10:16 |
+| Lobby ID | 28531601339062263 |
+| Players | 4/15 |
+| Host Name | Dirk Trash |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601338491101 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Complication♪♫ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:09:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601339062263 |
-| Players | 2/15 |
-| Host Name | Dirk Trash |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:13 |
+| Lobby ID | 28531601337541864 |
+| Players | 3/8 |
+| Host Name | Insolente |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:07:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601339106371 |
+| Players | 1/8 |
+| Host Name | ツ♛Mr. DracoO♛ツ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:11:19 |
 
 
