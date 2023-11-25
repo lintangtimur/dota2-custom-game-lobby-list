@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601355083968 |
-| Players | 9/10 |
-| Host Name | dick abuser |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:44:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601358180617 |
 | Players | 2/10 |
 | Host Name | ► Good gay, noob played |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601357666476 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:50:14 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601357889783 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:50:41 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601358069176 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | mario |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:51:04 |
@@ -68,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601358430131 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | a r Z |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:51:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601355381533 |
-| Players | 9/10 |
-| Host Name | NiKitKa(Ne_TraP) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:45:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Art Vandelay |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:50:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601358924112 |
+| Players | 6/15 |
+| Host Name | SOY PANSEXUAL |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:52:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601358944799 |
+| Players | 5/15 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:52:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601358963940 |
+| Players | 1/24 |
+| Host Name | Stinky XD |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:52:54 |
 
 
