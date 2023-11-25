@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601727012943 |
+| Players | 1/7 |
+| Host Name | ♡♡♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:05:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -23,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601726451295 |
-| Players | 2/24 |
-| Host Name | do something |
+| Players | 1/24 |
+| Host Name | Sexy`Boy |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:26 |
 
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601726544388 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | asaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:32 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601726244015 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | baji |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:13 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601726515561 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:30 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601725367609 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Firtl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:03:18 |
@@ -76,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601726212741 |
-| Players | 7/8 |
-| Host Name | DDreams.Matiskadi.1XBET |
+| Lobby ID | 28531601726873575 |
+| Players | 5/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 19:04:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601726890301 |
+| Players | 2/10 |
+| Host Name | LS.cara |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:04:11 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:04:53 |
 
 
