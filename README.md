@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601343333389 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | INFINITY |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342383419 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | JEANNE D'ARC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:22:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601343652608 |
-| Players | 14/15 |
-| Host Name | nether |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:21:07 |
+| Lobby ID | 28531601344380314 |
+| Players | 1/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:22:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601343150735 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Declarix |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601344050620 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | bm hero=shit player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:21:58 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601343452654 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601344380314 |
-| Players | 1/10 |
-| Host Name | Jane.A7x |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:22:40 |
 
 
