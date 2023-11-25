@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601464143684 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | Red Jhon |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:14:16 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601464560990 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | sitro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:14:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601466126128 |
-| Players | 8/10 |
-| Host Name | how y feel? |
+| Lobby ID | 28531601465972615 |
+| Players | 1/8 |
+| Host Name | Kavazaki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:17:36 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:17:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601466516473 |
-| Players | 9/15 |
-| Host Name | Zoé |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:18:16 |
+| Lobby ID | 28531601466011435 |
+| Players | 2/8 |
+| Host Name | f1ashmix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:17:25 |
 
 
 |  | ot3_gardens_duo |
@@ -104,27 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601465828066 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:17:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601466011435 |
-| Players | 1/8 |
-| Host Name | f1ashmix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:17:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601464835182 |
-| Players | 23/24 |
-| Host Name | AltaExile |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:15:26 |
+| Lobby ID | 28531601466905447 |
+| Players | 2/10 |
+| Host Name | Sant.W |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 13:18:55 |
 
 
