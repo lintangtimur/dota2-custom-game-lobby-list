@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601504541300 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:18:24 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601507706483 |
+| Players | 2/5 |
+| Host Name | яйца 1 слотом |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:23:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601504612642 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | NDD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:18:31 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601506882477 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Os #FreeGaza |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:21:54 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601507795871 |
+| Players | 1/15 |
+| Host Name | LEICA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:23:15 |
 
 
