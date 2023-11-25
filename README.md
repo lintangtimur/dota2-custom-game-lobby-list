@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:14:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601545662004 |
-| Players | 1/8 |
-| Host Name | LightFromHeaven~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:17:50 |
+| Lobby ID | 28531601546394594 |
+| Players | 1/24 |
+| Host Name | takodachi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:18:51 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601545961301 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Zhong Xina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:15 |
@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601545203789 |
-| Players | 6/8 |
-| Host Name | GostRed |
+| Lobby ID | 28531601546360643 |
+| Players | 1/15 |
+| Host Name | Moccio 希望 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:17:12 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:18:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601546324452 |
+| Players | 4/15 |
+| Host Name | ffffuuuunnnn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:18:45 |
 
 
