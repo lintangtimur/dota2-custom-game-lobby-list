@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:34:29 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601519526641 |
+| Players | 3/10 |
+| Host Name | Пельмень |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:40:34 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601514818775 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601517775652 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Pr3t0r1an |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:38:01 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601518434159 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Twerkaa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:38:59 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601518116876 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | mr beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:38:31 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601518957772 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | CLown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:39:44 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601514765624 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Fadsol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:33:34 |
@@ -104,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601518651947 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Noah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:39:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601519501034 |
+| Players | 1/8 |
+| Host Name | HELP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:40:32 |
 
 
