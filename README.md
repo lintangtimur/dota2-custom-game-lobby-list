@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602318506455 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | seniorpomidore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:41:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602323514174 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Al Capone |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:48:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322510434 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | D-MF |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602323574745 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:48:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602323334798 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Voenker |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:48:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602323743028 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | hentai monster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:48:35 |
@@ -130,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602323961805 |
-| Players | 1/8 |
-| Host Name | whore |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:48:54 |
+| Lobby ID | 28531602323950728 |
+| Players | 3/8 |
+| Host Name | Alucard |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:48:53 |
 
 
