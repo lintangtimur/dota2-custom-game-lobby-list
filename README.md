@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601542254680 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Nonlinear operator |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601545961301 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | Zhong Xina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:15 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:16:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601545970529 |
-| Players | 2/15 |
-| Host Name | СОСРЕДОТОЧИЕ ИСЧАДИЯ АДА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:18:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601545203789 |
-| Players | 4/8 |
-| Host Name | GostRed |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:17:12 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601545913208 |
@@ -92,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601546048661 |
-| Players | 1/15 |
-| Host Name | snakey |
+| Lobby ID | 28531601545203789 |
+| Players | 6/8 |
+| Host Name | GostRed |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:18:22 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:17:12 |
 
 
