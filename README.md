@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601566170855 |
-| Players | 23/24 |
-| Host Name | 风显 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:45:39 |
+| Lobby ID | 28531601568573399 |
+| Players | 1/24 |
+| Host Name | Nonlinear operator |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 15:48:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601566080129 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | zenzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:45:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601568042242 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ffa / ranked player only |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:48:09 |
@@ -59,27 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601568269787 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Pepe Ozima |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:48:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601568573399 |
-| Players | 1/24 |
-| Host Name | Nonlinear operator |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 15:48:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601569153482 |
-| Players | 1/10 |
-| Host Name | 5k mmr |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:49:39 |
 
 
