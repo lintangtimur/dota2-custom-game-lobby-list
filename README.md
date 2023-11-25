@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601371251860 |
-| Players | 11/15 |
-| Host Name | ПРОСТА ПИЗДЕЦ |
+| Lobby ID | 28531601371240607 |
+| Players | 1/15 |
+| Host Name | 范马超人强 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:17:34 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:17:33 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601370744940 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | NiKitKa(Ne_TraP) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:16:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601370631889 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:16:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601370961040 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | -_^ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:16:59 |
@@ -58,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601371240607 |
-| Players | 2/15 |
-| Host Name | 范马超人强 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:17:33 |
+| Lobby ID | 28531601371660778 |
+| Players | 1/15 |
+| Host Name | WAWITA DE 18 AÑITOS |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:18:23 |
 
 
