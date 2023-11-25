@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:27:11 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601376451215 |
-| Players | 1/5 |
-| Host Name | Arz |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 10:28:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601375273236 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601375984376 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MICK MACK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:27:06 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601376491400 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | 99 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:28:07 |
@@ -76,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601376534113 |
-| Players | 5/8 |
-| Host Name | ♡ |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:28:12 |
+| Lobby ID | 28531601376570474 |
+| Players | 1/8 |
+| Host Name | Masha |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:28:17 |
 
 
