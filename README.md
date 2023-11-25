@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:09:14 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602376016033 |
+| Players | 1/10 |
+| Host Name | Fuckyeah |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:11:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602375791549 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:56:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602373809453 |
-| Players | 9/10 |
-| Host Name | GuITaR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:07:38 |
+| Lobby ID | 28531602375893412 |
+| Players | 11/15 |
+| Host Name | iltw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:11:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602373002803 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:06:14 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602374449810 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:08:46 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602375354893 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ничего нового |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:10:22 |
@@ -117,32 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 06:10:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602375869728 |
-| Players | 1/15 |
-| Host Name | Agresive |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 26, 2023 06:11:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602375893412 |
-| Players | 5/15 |
-| Host Name | iltw |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:11:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602375902238 |
-| Players | 1/8 |
-| Host Name | Röyksopp |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:11:21 |
 
 
