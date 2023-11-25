@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601839666296 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | _ACAB_Gopnik_ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601840925925 |
-| Players | 1/5 |
-| Host Name | 鸡鸡突然变大 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:47:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601833140715 |
-| Players | 7/8 |
-| Host Name | CM Axl |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 20:40:58 |
+| Lobby ID | 28531601841078619 |
+| Players | 1/15 |
+| Host Name | типа Satoru Gojō |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:47:26 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601840301442 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Da Butchar |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:48 |
@@ -140,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601829735057 |
-| Players | 8/10 |
-| Host Name | LYCAN Y LA SOCIEDAD PRIVADA |
+| Players | 4/10 |
+| Host Name | dagger |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 20:38:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601841187471 |
+| Players | 2/8 |
+| Host Name | синий ламборгини |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:47:31 |
 
 
