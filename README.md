@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601998982002 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:56:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601999345017 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Volketor |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:57:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601999125087 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:56:49 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:56:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601998206999 |
-| Players | 4/10 |
-| Host Name | 雨雨雨雨雨雨雨雨雨雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:56:01 |
+| Lobby ID | 28531601999247490 |
+| Players | 2/8 |
+| Host Name | РАКОМ ПОСТАВЛЮ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:56:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,21 +119,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:56:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601999229788 |
-| Players | 4/10 |
-| Host Name | ПТ НА БЕЗДАРНОСТЬ |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 22:56:55 |
+| Lobby ID | 28531601999782961 |
+| Players | 2/15 |
+| Host Name | xiaopi 玩瓦的叫我啊 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:57:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601999759471 |
+| Players | 1/15 |
+| Host Name | скидаё |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:57:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601999247490 |
-| Players | 2/8 |
-| Host Name | РАКОМ ПОСТАВЛЮ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:56:56 |
+| Lobby ID | 28531601999817236 |
+| Players | 3/8 |
+| Host Name | qqq |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:57:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601999836195 |
+| Players | 5/8 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:57:27 |
 
 
