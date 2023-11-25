@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:14:03 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601685127394 |
+| Players | 1/10 |
+| Host Name | Graff-OFF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:20:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -31,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601682098691 |
-| Players | 4/10 |
-| Host Name | шпек |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 18:16:32 |
+| Lobby ID | 28531601685089254 |
+| Players | 2/10 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:19:59 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601683071341 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Bila |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:40 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601684561449 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | увековечено в кам |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:19:22 |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601684626386 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | TheSnottyMidget |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:19:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601684853608 |
+| Players | 12/15 |
+| Host Name | mrpro554410 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:19:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601684927263 |
+| Players | 1/15 |
+| Host Name | twitch.tv/raumhart |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:19:48 |
 
 
