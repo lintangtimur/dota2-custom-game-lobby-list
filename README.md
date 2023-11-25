@@ -2,22 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601571751215 |
-| Players | 1/5 |
-| Host Name | emo |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:53:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601571670850 |
-| Players | 2/5 |
-| Host Name | GamingGreenFox |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 15:53:02 |
+| Lobby ID | 28531601571922877 |
+| Players | 2/10 |
+| Host Name | 张娃的标志 |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 15:53:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:48:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601570674547 |
-| Players | 7/8 |
-| Host Name | # |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:51:41 |
+| Lobby ID | 28531601571933646 |
+| Players | 3/10 |
+| Host Name | полная залупа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:53:24 |
 
 
 |  | ot3_necropolis_ffa |
