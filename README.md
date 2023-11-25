@@ -20,6 +20,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:33:40 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601477601633 |
+| Players | 2/5 |
+| Host Name | FLY - FLY |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 13:36:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601477644328 |
+| Players | 1/10 |
+| Host Name | utopia enjoyer |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 13:36:34 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601470299012 |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601475807000 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | RMT(McMani Rockefeller) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:33:36 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601476977608 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | РАЙАН ГОСЛИНГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:35:30 |
@@ -72,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mode:Извечный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:34:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601476095418 |
-| Players | 14/15 |
-| Host Name | Hari Seldon |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:34:04 |
 
 
 |  | ot3_necropolis_ffa |
