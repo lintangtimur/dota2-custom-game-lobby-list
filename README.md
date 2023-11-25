@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601752127098 |
-| Players | 9/10 |
-| Host Name | ДЕВОЧКА ИЗ АНИМЕ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:29:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601757106868 |
 | Players | 1/10 |
 | Host Name | konjiii |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601756484221 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Sun Wukong |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:33:58 |
@@ -56,12 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:33:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601757055250 |
-| Players | 1/24 |
-| Host Name | Jungle or 1 ( try me! ) |
-| Region | PERU |
+| Lobby ID | 28531601757053350 |
+| Players | 1/8 |
+| Host Name | Pachacutec |
+| Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 19:34:30 |
 
 
@@ -85,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601756767005 |
-| Players | 11/15 |
-| Host Name | церковная мышь |
+| Lobby ID | 28531601757233674 |
+| Players | 1/15 |
+| Host Name | Dante_must_d1e. |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:34:14 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:34:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601757053350 |
+| Lobby ID | 28531601757246901 |
 | Players | 1/8 |
-| Host Name | Pachacutec |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 19:34:30 |
+| Host Name | Killua |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:34:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601757289801 |
+| Players | 1/24 |
+| Host Name | Jungle or 1 ( try me! ) |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 19:34:43 |
 
 
