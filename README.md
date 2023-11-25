@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602309646973 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 雨 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:29:01 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602312371304 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | TSD.Dean |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:32:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602311524982 |
-| Players | 1/24 |
-| Host Name | m |
+| Lobby ID | 28531602312520826 |
+| Players | 5/10 |
+| Host Name | owermute` |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:31:35 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:32:56 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:32:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602312395782 |
-| Players | 7/15 |
-| Host Name | Sheriff_FI |
+| Lobby ID | 28531602312523037 |
+| Players | 2/10 |
+| Host Name | ... |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:32:46 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:32:57 |
 
 
