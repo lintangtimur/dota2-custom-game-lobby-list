@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601335678292 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:03:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601334942881 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | zeus2014 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:02:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601334708084 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:01:29 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601335399804 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:03:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601335072967 |
-| Players | 9/10 |
-| Host Name | rain |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:02:19 |
+| Lobby ID | 28531601336038793 |
+| Players | 5/8 |
+| Host Name | chelik |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:04:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601335875449 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | AQUI LLEGO TU TIBURON |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:04:10 |
@@ -85,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601336038793 |
+| Lobby ID | 28531601336190442 |
 | Players | 3/8 |
-| Host Name | chelik |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:04:33 |
+| Host Name | Kingmili |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 09:04:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601336191954 |
+| Players | 3/8 |
+| Host Name | llamarse JOSUE = soy kbro |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:04:53 |
 
 
