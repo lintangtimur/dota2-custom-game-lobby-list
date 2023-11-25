@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601835449533 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:42:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601835862490 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | miriam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:43:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601833361253 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Aneira ❆ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:41:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601826895994 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | EmiSaRio- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 20:35:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601835361654 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:42:47 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601835398376 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Abdul |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:42:49 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:43:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601832190870 |
-| Players | 7/8 |
-| Host Name | 905645986768 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:40:12 |
+| Lobby ID | 28531601836556709 |
+| Players | 6/15 |
+| Host Name | los' |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:43:45 |
 
 
 |  | ot3_desert_octet |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601836030231 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Wake Up To Reality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:43:19 |
@@ -164,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:43:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601834937450 |
-| Players | 1/24 |
-| Host Name | Res |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:42:26 |
+| Lobby ID | 28531601829735057 |
+| Players | 6/10 |
+| Host Name | 2MAL |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 20:38:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -186,26 +186,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601836182616 |
 | Players | 6/10 |
-| Host Name | Illusion |
+| Host Name | Protocol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:43:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601836375018 |
-| Players | 1/15 |
-| Host Name | EBY BOMJEY |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:43:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601836438666 |
-| Players | 1/24 |
-| Host Name | EL DIBOOL |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:43:39 |
+| Lobby ID | 28531601836744042 |
+| Players | 4/8 |
+| Host Name | Я убийца Killua キルア |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:43:54 |
 
 
