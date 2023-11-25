@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28531601672839025 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | |Stariy21 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:05:50 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:03:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601674073793 |
-| Players | 1/24 |
-| Host Name | AltaExile |
+| Lobby ID | 28531601674057543 |
+| Players | 2/8 |
+| Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:07:17 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:07:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601674032682 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | OTwarrior |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:07:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601673169896 |
-| Players | 11/15 |
-| Host Name | Shadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:06:13 |
+| Lobby ID | 28531601674103319 |
+| Players | 5/8 |
+| Host Name | WebMage |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:07:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЧВК чмоня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:06:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601674057543 |
-| Players | 1/8 |
-| Host Name | 闻人翊悬 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:07:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601674103319 |
-| Players | 2/8 |
-| Host Name | WebMage |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:07:19 |
 
 
