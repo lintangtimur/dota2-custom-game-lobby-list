@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601961945204 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | mid or pudge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:25:06 |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:22:35 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601963289185 |
-| Players | 1/10 |
-| Host Name | Kowaci |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:26:13 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601962807984 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601962814860 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Toretto_DI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:25:49 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601961824113 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:25:00 |
@@ -104,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601960680714 |
-| Players | 8/15 |
-| Host Name | Harikoa |
+| Players | 2/15 |
+| Host Name | pachoy |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 22:24:03 |
 
@@ -137,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:21:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601960024043 |
-| Players | 23/24 |
-| Host Name | ็Tao về |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:23:29 |
+| Lobby ID | 28531601963380324 |
+| Players | 3/8 |
+| Host Name | БОЕЦ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 22:26:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601963591204 |
+| Players | 3/8 |
+| Host Name | джимбо нейтрон |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:26:28 |
 
 
