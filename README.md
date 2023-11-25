@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:48:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601525681682 |
-| Players | 11/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 14:49:32 |
+| Lobby ID | 28531601524609073 |
+| Players | 2/8 |
+| Host Name | Sunb3am |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 14:47:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:46:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601524082745 |
-| Players | 1/24 |
-| Host Name | ......... |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 14:47:12 |
+| Lobby ID | 28531601526357479 |
+| Players | 1/8 |
+| Host Name | COCKALORUM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:50:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601526031333 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:50:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601524609073 |
-| Players | 2/8 |
-| Host Name | Sunb3am |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 14:47:58 |
 
 
