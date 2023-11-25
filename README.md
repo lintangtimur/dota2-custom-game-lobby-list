@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:24:42 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602029598611 |
-| Players | 1/5 |
-| Host Name | Eu amo meu Sogro |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 23:25:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602026935068 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602026430329 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Loser |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:22:14 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602029007894 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Redemption1950 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:24:39 |
@@ -117,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ghotica |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:25:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602029701902 |
+| Players | 1/8 |
+| Host Name | лапатасьйон |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 23:25:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602029730293 |
+| Players | 1/15 |
+| Host Name | EG_PaKasz_--________EG |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 23:25:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602029797026 |
+| Players | 3/8 |
+| Host Name | Oxxximirana |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 23:25:24 |
 
 
