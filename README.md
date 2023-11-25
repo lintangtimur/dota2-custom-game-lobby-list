@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601383470580 |
+| Players | 8/10 |
+| Host Name | trance |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:42:05 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601386729983 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601384676699 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Arcade Gannon |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:44:33 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601385130099 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Black Raven |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:26 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601386011746 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | <blank> |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:47:12 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601386538813 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | GG-ทับสัน |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 10:48:14 |
@@ -68,9 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601386611829 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:48:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601387282958 |
+| Players | 5/10 |
+| Host Name | not a human |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:49:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601387292207 |
+| Players | 5/10 |
+| Host Name | Homiefellas |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:49:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601387308070 |
+| Players | 1/24 |
+| Host Name | Tempeste |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:49:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601387346495 |
+| Players | 3/15 |
+| Host Name | ReaperPG |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:49:52 |
 
 
