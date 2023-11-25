@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601436845632 |
-| Players | 4/15 |
-| Host Name | HaXyuTaKuGRaT |
+| Players | 3/15 |
+| Host Name | _CaChaBaCha_10_ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:26:02 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601437090763 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:26:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601436816636 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:25:59 |
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601434284037 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601437060750 |
-| Players | 1/15 |
-| Host Name | CRIMINAL |
+| Lobby ID | 28531601434066312 |
+| Players | 8/10 |
+| Host Name | Sant.W |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:21:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601437186604 |
+| Players | 2/10 |
+| Host Name | Емне Гров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:26:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601437350233 |
+| Players | 1/8 |
+| Host Name | SodaZ |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 12:26:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601437177475 |
-| Players | 1/24 |
-| Host Name | Arcanine <3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:26:38 |
+| Lobby Creation Time | Saturday, November 25, 2023 12:26:57 |
 
 
