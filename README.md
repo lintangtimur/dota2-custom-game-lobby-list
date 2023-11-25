@@ -14,10 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601660604719 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 紫玉ねぎ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:51:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601660764656 |
+| Players | 1/10 |
+| Host Name | MESSI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:51:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601660791622 |
+| Players | 1/10 |
+| Host Name | Loading |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:51:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601660819158 |
+| Players | 1/10 |
+| Host Name | 提亚 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Saturday, November 25, 2023 17:51:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601659854847 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Diamond Fish sauce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:50:12 |
@@ -59,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601660622132 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Метка Траппа |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:51:08 |
@@ -68,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601660167311 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | саламоLEXUS |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:50:34 |
@@ -81,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The Eagle |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:51:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601653693868 |
+| Players | 21/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 17:42:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601660813293 |
+| Players | 4/10 |
+| Host Name | Firtl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:51:22 |
 
 
