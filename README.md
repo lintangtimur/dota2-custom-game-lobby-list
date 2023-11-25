@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:39 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601346851327 |
+| Players | 1/10 |
+| Host Name | Odracir*MS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:27:53 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601345150608 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:17 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601346025494 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601345976181 |
-| Players | 5/8 |
-| Host Name | Alpi el VERSATIL.i.peladaarmy.i. |
+| Players | 2/8 |
+| Host Name | Keima .I.PELADA ARMY.I. |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601346753707 |
+| Players | 2/10 |
+| Host Name | Cassie |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:27:41 |
 
 
