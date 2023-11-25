@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601435315237 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:23:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601438556781 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | อู้วววว นักเก็ตปลา |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601438837849 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Freddy Amilcar |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:37 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:27:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601439972393 |
+| Players | 1/8 |
+| Host Name | Шкипер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:31:39 |
 
 
