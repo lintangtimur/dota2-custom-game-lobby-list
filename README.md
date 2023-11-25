@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601408312216 |
-| Players | 1/5 |
-| Host Name | Kazuha |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 11:32:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601412361069 |
@@ -18,15 +9,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Paipl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601412804579 |
-| Players | 2/5 |
-| Host Name | yinzaou |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 11:40:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601412931221 |
-| Players | 6/8 |
-| Host Name | you use to call on my cellphone |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 11:41:13 |
+| Lobby ID | 28531601413119746 |
+| Players | 2/10 |
+| Host Name | KICK MADARACHYO |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:41:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601410988890 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Abuela.n.Patineta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:37:26 |
@@ -68,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601412545976 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Niko Niko Niii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601413005135 |
-| Players | 1/15 |
-| Host Name | wil_TY_p0 |
+| Lobby ID | 28531601413056224 |
+| Players | 2/10 |
+| Host Name | estoy  cansado jefe |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:41:22 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:41:28 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601411377502 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:12 |
@@ -110,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601413020897 |
-| Players | 2/15 |
-| Host Name | Mr. Lahey |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:41:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601413056224 |
-| Players | 2/10 |
-| Host Name | estoy  cansado jefe |
+| Lobby ID | 28531601413167944 |
+| Players | 6/8 |
+| Host Name | akashi |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:41:28 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:41:40 |
 
 
