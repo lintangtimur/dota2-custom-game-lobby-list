@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601483010489 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | RonnieDaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:45:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601485492680 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | СКОТОЛОЖЕЦ322 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:07 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601482578002 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:44:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601484666132 |
-| Players | 9/10 |
-| Host Name | Kimetsu |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:47:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601486265437 |
-| Players | 5/15 |
-| Host Name | про100Альберт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:50:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,5 +81,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:50:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601486265437 |
+| Players | 4/15 |
+| Host Name | про100Альберт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:50:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601486857019 |
+| Players | 1/8 |
+| Host Name | Pe4Kin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:51:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601482156676 |
+| Players | 23/24 |
+| Host Name | beebee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:43:50 |
 
 
