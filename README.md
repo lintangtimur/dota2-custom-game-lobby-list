@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Nadal (ALL MUTED) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601718823448 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Фистинг души |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601719988195 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Triplesixgods |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:57:40 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601720346291 |
-| Players | 1/8 |
-| Host Name | OKO |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:58:02 |
 
 
