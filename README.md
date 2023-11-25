@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601395418887 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:06:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601394332694 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:13 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601395405756 |
-| Players | 14/15 |
-| Host Name | ez mid |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:06:25 |
+| Lobby ID | 28531601396286937 |
+| Players | 1/15 |
+| Host Name | TransQuil |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:08:13 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601395179316 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Dialed in. |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601396286937 |
-| Players | 1/15 |
-| Host Name | TransQuil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:08:13 |
+| Lobby ID | 28531601396384150 |
+| Players | 3/10 |
+| Host Name | Heraldo de corazon |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:08:25 |
 
 
