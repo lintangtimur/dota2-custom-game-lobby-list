@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601493772070 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 小心踏得两艘船 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:02:04 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601493176979 |
-| Players | 14/15 |
-| Host Name | nkf |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 14:01:08 |
+| Lobby ID | 28531601494052658 |
+| Players | 8/15 |
+| Host Name | 63 y.o. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:02:30 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601492079518 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:59:25 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dave el barbaro |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:00:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601494052658 |
-| Players | 6/15 |
-| Host Name | 63 y.o. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:02:30 |
 
 
