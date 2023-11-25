@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602327808906 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | 串爆带我们打上月球 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:54:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602329819160 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:57:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602330121291 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:57:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602329836879 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Cyclone36 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:57:23 |
@@ -92,39 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:58:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602330521804 |
-| Players | 9/15 |
-| Host Name | itry |
+| Lobby ID | 28531602331291026 |
+| Players | 1/10 |
+| Host Name | EGOIST |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:58:24 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:59:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602330366740 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | cago |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:58:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602331178933 |
-| Players | 1/10 |
-| Host Name | Röyksopp |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 04:59:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602331188036 |
-| Players | 1/8 |
-| Host Name | Колюсик ЧАЙ-ХАНА |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:59:22 |
+| Lobby ID | 28531602331298950 |
+| Players | 5/8 |
+| Host Name | Старый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:59:32 |
 
 
