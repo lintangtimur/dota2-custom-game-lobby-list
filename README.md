@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601458006135 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Отошёл покурить |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:03:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601458140450 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | El hombre Capibara |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:03:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601456440471 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Zenic.邓 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:00:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601455319964 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | GusGus |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:58:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601458349248 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:04:21 |
@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601457973507 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | pill|user |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:03:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601458800466 |
+| Players | 5/8 |
+| Host Name | SANTUS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:05:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601458825802 |
+| Players | 1/8 |
+| Host Name | AnyPie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:05:12 |
 
 
