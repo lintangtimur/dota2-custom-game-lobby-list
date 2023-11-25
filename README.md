@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601535656120 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:03:51 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601533399329 |
-| Players | 7/8 |
-| Host Name | waiting for death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:00:36 |
+| Lobby ID | 28531601536114822 |
+| Players | 2/24 |
+| Host Name | K; |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 15:04:29 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601535586707 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Бархатная тяга |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:03:45 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601526890327 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:51:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601530043044 |
-| Players | 7/8 |
-| Host Name | ~.~ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 14:55:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601536066749 |
-| Players | 1/10 |
-| Host Name | fqCody |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:04:25 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:04:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601536114822 |
-| Players | 1/24 |
-| Host Name | K; |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:04:29 |
+| Lobby ID | 28531601536066749 |
+| Players | 3/10 |
+| Host Name | fqCody |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:04:25 |
 
 
