@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601475034696 |
+| Players | 1/10 |
+| Host Name | Freddy Fazbear |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:32:21 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601470299012 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601473660307 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | cbx Compendium sucks |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:30:07 |
@@ -74,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:30:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601474788416 |
-| Players | 2/8 |
+| Lobby ID | 28531601474917719 |
+| Players | 3/15 |
 | Host Name | Kawazaki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:31:58 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:32:10 |
 
 
