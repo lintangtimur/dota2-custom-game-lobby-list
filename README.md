@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601727769340 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | SHOOMEKEY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:05:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601726544388 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | asaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:04:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601727479129 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Slaider |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:05:30 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601727445484 |
-| Players | 2/8 |
-| Host Name | Kondraty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:05:28 |
+| Lobby ID | 28531601727745155 |
+| Players | 4/8 |
+| Host Name | РАЗКУМАРИЛСЯ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:05:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,10 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601727745155 |
+| Lobby ID | 28531601728087442 |
 | Players | 1/8 |
-| Host Name | РАЗКУМАРИЛСЯ |
+| Host Name | ~yatsikhi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:06:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601728219536 |
+| Players | 2/10 |
+| Host Name | ПТ на силу ю детей |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 19:06:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601727130539 |
+| Players | 7/8 |
+| Host Name | Piwi |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:05:46 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:05:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601728293089 |
+| Players | 1/15 |
+| Host Name | 广州贵族 |
+| Region | Unknown |
+| Lobby Creation Time | Saturday, November 25, 2023 19:06:19 |
 
 
