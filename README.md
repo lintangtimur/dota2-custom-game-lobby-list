@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601443199938 |
-| Players | 6/8 |
-| Host Name | `` |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:37:24 |
+| Lobby ID | 28531601443740979 |
+| Players | 3/8 |
+| Host Name | Конский ХЕР |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601438753588 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Skip To My Lou |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601442399687 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | anyvay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601441667911 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:34:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601442365877 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:53 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601443592578 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sark |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:38:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601443740979 |
-| Players | 3/8 |
-| Host Name | Конский ХЕР |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:38:23 |
 
 
