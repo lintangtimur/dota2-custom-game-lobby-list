@@ -14,25 +14,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601686857228 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | bananaterecotapieeeeeeeeeeeeeeee |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:22:00 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601687222790 |
-| Players | 4/5 |
-| Host Name | ＥＧＯＩＳＴ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:22:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601688363346 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | rarikrarie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:23:42 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:20:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601685758626 |
-| Players | 21/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:20:45 |
+| Lobby ID | 28531601689908518 |
+| Players | 6/8 |
+| Host Name | HELP |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:25:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601689798055 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | KAWAZAKI |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:25:18 |
@@ -85,28 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601689930013 |
-| Players | 6/10 |
-| Host Name | CepCap |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:25:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601689908518 |
-| Players | 2/8 |
-| Host Name | HELP |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:25:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601690050363 |
-| Players | 2/8 |
-| Host Name | ＳＵＮＢＯＹ |
+| Lobby ID | 28531601690246367 |
+| Players | 3/10 |
+| Host Name | PETUX |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:25:36 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:25:49 |
 
 
