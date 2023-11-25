@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601540090656 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | lnscribed virtus werebear |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:10:08 |
@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601548021172 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ASSASSLN |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 15:21:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601548908712 |
+| Players | 1/10 |
+| Host Name | Imperia |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 15:22:17 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601547567797 |
-| Players | 7/8 |
-| Host Name | 18 |
+| Lobby ID | 28531601547736831 |
+| Players | 5/10 |
+| Host Name | _Mazafaka_ |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:20:27 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:20:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601546360643 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Moccio 希望 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601547736831 |
-| Players | 4/10 |
-| Host Name | _Mazafaka_ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:20:41 |
+| Lobby ID | 28531601548849394 |
+| Players | 1/8 |
+| Host Name | Sunb3am |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 15:22:12 |
 
 
