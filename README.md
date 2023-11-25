@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601522456301 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | PASH PASH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:44:51 |
@@ -18,24 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 紫玉ねぎ |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 14:45:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601522728001 |
-| Players | 1/10 |
-| Host Name | Galearcher |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 14:45:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601522833422 |
-| Players | 1/5 |
-| Host Name | MOSEY |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 14:45:23 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601512326773 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:29:58 |
@@ -108,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dodgyphil |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:45:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601522871899 |
+| Players | 3/10 |
+| Host Name | Janmix |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 14:45:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601522909182 |
+| Players | 3/15 |
+| Host Name | Нашам Пургеев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:45:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601522938048 |
+| Players | 1/8 |
+| Host Name | WAYNE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:45:32 |
 
 
