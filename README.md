@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602364854258 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602366761687 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | JERB en busca de Contrato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:55:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602367576389 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | лапатасьйон |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:56:56 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:56:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602367477866 |
-| Players | 14/15 |
-| Host Name | bloom |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:56:46 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602367424556 |
@@ -108,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RicoChango |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:56:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602367685850 |
+| Players | 4/15 |
+| Host Name | kvlt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:57:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602367679047 |
+| Players | 1/15 |
+| Host Name | To infinity |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:57:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602367734080 |
+| Players | 1/24 |
+| Host Name | focus PayToWin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:57:12 |
 
 
