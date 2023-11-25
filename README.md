@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601390610891 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:56:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601389442756 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ЭЛЬ ПРИМООО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:54:07 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:57:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601390261689 |
-| Players | 23/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
+| Lobby ID | 28531601390894261 |
+| Players | 1/8 |
+| Host Name | Manguito |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:55:47 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:57:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601390894261 |
-| Players | 1/8 |
-| Host Name | Manguito |
+| Lobby ID | 28531601391140087 |
+| Players | 5/8 |
+| Host Name | [ x x x ] |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:57:06 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:57:36 |
 
 
