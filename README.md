@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601644800799 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ttv/te_tyanka |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:31:16 |
@@ -67,37 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601647098901 |
-| Players | 4/8 |
-| Host Name | rivers |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:34:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601646863031 |
-| Players | 1/15 |
-| Host Name | AMMAR_THE_SPONGEBOB |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 17:33:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601645648789 |
-| Players | 1/8 |
-| Host Name | Pachacutec |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 17:32:21 |
+| Lobby ID | 28531601645571969 |
+| Players | 7/8 |
+| Host Name | givenchy XCX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:32:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601647605206 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Qaz I 類星體 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:34:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601645648789 |
+| Players | 2/8 |
+| Host Name | Pachacutec |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 17:32:21 |
 
 
