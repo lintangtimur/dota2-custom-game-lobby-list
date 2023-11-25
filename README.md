@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:15:34 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601342306303 |
+| Players | 1/5 |
+| Host Name | メイジ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:18:14 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601341598305 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Mendenhall |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:41 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601341494330 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:28 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601339159578 |
-| Players | 23/24 |
-| Host Name | DraelgNaI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:11:26 |
+| Lobby ID | 28531601341472679 |
+| Players | 2/24 |
+| Host Name | NIX fury |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:16:25 |
 
 
 |  | ot3_gardens_duo |
@@ -68,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601341637204 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | PIGMAN |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601341472679 |
-| Players | 1/24 |
-| Host Name | NIX fury |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:16:25 |
+| Lobby ID | 28531601342273491 |
+| Players | 1/8 |
+| Host Name | Shadow friend |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:18:09 |
 
 
