@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:40:49 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531602274473273 |
+| Players | 1/7 |
+| Host Name | CowHarrassment |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:43:51 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602271208142 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 03:39:52 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602273819587 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Fzforza(-1k) |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 03:43:03 |
@@ -56,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:28:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602270850659 |
-| Players | 7/8 |
-| Host Name | SR.CaOs |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 03:39:26 |
+| Lobby ID | 28531602274090184 |
+| Players | 3/15 |
+| Host Name | Shamil Basaev |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 03:43:23 |
 
 
 |  | ot3_gardens_duo |
@@ -76,28 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602273971845 |
-| Players | 11/15 |
-| Host Name | :/ |
+| Lobby ID | 28531602274475833 |
+| Players | 1/15 |
+| Host Name | Stein |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:43:15 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:43:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602273329354 |
-| Players | 9/10 |
-| Host Name | Я ИГРАЮ И МНЕ ПОХУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:42:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602274090184 |
-| Players | 2/15 |
-| Host Name | Shamil Basaev |
+| Lobby ID | 28531602274389751 |
+| Players | 6/10 |
+| Host Name | 76561198009261444 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 03:43:23 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:43:45 |
 
 
