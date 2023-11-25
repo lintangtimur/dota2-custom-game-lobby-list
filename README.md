@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:40:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601480579012 |
-| Players | 21/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:41:17 |
+| Lobby ID | 28531601481920394 |
+| Players | 5/15 |
+| Host Name | PIMPERnell92 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:43:28 |
 
 
 |  | ot3_necropolis_ffa |
