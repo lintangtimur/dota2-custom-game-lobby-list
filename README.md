@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601337098885 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | C0D3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:06:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601334942881 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | zeus2014 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:02:01 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:05:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601338469369 |
-| Players | 14/15 |
-| Host Name | тише |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:09:55 |
+| Lobby ID | 28531601338689478 |
+| Players | 2/24 |
+| Host Name | Le puerqué |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601338625688 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | jugar callado es mi terapía |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:10:16 |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:09:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601338689478 |
-| Players | 1/24 |
-| Host Name | Le puerqué |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:10:24 |
+| Lobby ID | 28531601338773635 |
+| Players | 1/15 |
+| Host Name | tyRee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:10:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601338469369 |
+| Players | 14/15 |
+| Host Name | тише |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:09:55 |
 
 
