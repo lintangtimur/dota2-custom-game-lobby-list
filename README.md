@@ -6,24 +6,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602332225580 |
 | Players | 2/5 |
-| Host Name | ***(-_-) |
+| Host Name | tragic 4-5 pos 9 y.o. |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:00:57 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602332468396 |
+| Players | 1/10 |
+| Host Name | Ragnar |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:01:19 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602332366671 |
-| Players | 4/15 |
-| Host Name | Vin Benzin (95й) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:01:10 |
+| Lobby ID | 28531602331796867 |
+| Players | 1/15 |
+| Host Name | GG.Ace♠GAIMIN |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:00:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322910432 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | asuna |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:47:24 |
@@ -33,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602331929622 |
 | Players | 6/10 |
-| Host Name | DONT USE X ON KUNKKA |
+| Host Name | 4S40 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:00:30 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602332414168 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Gimmick |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:01:14 |
@@ -103,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602331796867 |
-| Players | 1/15 |
-| Host Name | GG.Ace♠GAIMIN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:00:18 |
+| Lobby ID | 28531602332471101 |
+| Players | 5/15 |
+| Host Name | Vin Benzin (95й) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:01:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602332479914 |
+| Players | 3/15 |
+| Host Name | MODE ISSASHOW |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 05:01:20 |
 
 
