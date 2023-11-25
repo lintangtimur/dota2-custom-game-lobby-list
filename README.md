@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601943435621 |
-| Players | 3/7 |
-| Host Name | s1mplyfat |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:09:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601938261206 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601943361651 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ready GO |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:09:49 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601943485754 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Wukash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:09:55 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601942993985 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:09:31 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601943239300 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Господин Алексей II II VIII |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:09:43 |
@@ -95,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601941363977 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ɗᴏ   σʀ    Ɗɪᴇㅤ⓿❸ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:08:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601943986129 |
+| Players | 4/15 |
+| Host Name | swap commend |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:10:19 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601943852056 |
+| Lobby ID | 28531601944071158 |
 | Players | 1/24 |
-| Host Name | ☠︎☠︎☚ |
+| Host Name | Saurman |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:10:12 |
+| Lobby Creation Time | Saturday, November 25, 2023 22:10:23 |
 
 
