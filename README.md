@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601666771098 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | S.G |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:58:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601668358385 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Pimp |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Femto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601668128342 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ЧВК Кузя Лакомкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:16 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601668496196 |
-| Players | 1/15 |
-| Host Name | PUPUNDEL |
+| Lobby ID | 28531601668595740 |
+| Players | 4/8 |
+| Host Name | 12 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:00:42 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:00:49 |
 
 
