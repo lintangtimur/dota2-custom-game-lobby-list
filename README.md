@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 02:10:12 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602191413578 |
-| Players | 8/10 |
-| Host Name | Лишайный Блямбус |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:08:42 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602193903946 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ЗⱭЙƘⱭ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:11:22 |
@@ -113,34 +104,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602193697796 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | so |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 02:11:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602193874985 |
-| Players | 1/15 |
-| Host Name | VALAR MORGHULIS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 02:11:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602193885489 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | X4nD3riiXx |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:11:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602194034242 |
+| Players | 6/8 |
+| Host Name | 𒉭Dream𒉭 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:11:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602194057733 |
+| Players | 1/15 |
+| Host Name | sbch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:11:32 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602192173782 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:09:32 |
