@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602135241867 |
+| Lobby ID | 28531602135412758 |
 | Players | 1/10 |
 | Host Name | bounty master |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 01:09:19 |
+| Lobby Creation Time | Sunday, November 26, 2023 01:09:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602132768902 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Professor Caos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 01:06:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602134462752 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 01:08:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602126714000 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:00:45 |
@@ -105,26 +105,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602132062123 |
 | Players | 2/8 |
-| Host Name | За Орду!!! |
+| Host Name | Dvzzin17 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 01:06:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602134959193 |
-| Players | 14/15 |
-| Host Name | 333 |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 26, 2023 01:09:01 |
+| Lobby ID | 28531602135446236 |
+| Players | 3/15 |
+| Host Name | Містер Сідр |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:09:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602134908930 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | СРУНИШКА |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 01:08:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602135325449 |
+| Players | 3/8 |
+| Host Name | LoPiKtOlik |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:09:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602135440336 |
+| Players | 1/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 01:09:31 |
 
 
