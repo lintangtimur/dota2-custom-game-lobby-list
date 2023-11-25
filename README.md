@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:41:10 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601777758815 |
+| Players | 1/10 |
+| Host Name | miriam |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:53:35 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601776415012 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Missing you happiness |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:52:21 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601777247364 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | y |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:53:07 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601777589631 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:53:25 |
@@ -148,10 +157,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601776461544 |
+| Lobby ID | 28531601777882359 |
 | Players | 4/8 |
-| Host Name | sittings na |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 19:52:24 |
+| Host Name | Ты Face |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 25, 2023 19:53:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601777780651 |
+| Players | 1/8 |
+| Host Name | Antonio Pripizduchi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:53:36 |
 
 
