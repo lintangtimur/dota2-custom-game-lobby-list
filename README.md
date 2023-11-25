@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601343233128 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Slava_Ukraine |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601344117715 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:22:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342383419 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | JEANNE D'ARC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342968187 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:19:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601343652608 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | nether |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:21:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601343641148 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | onaforp xessib |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:21:06 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bm hero=shit player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:21:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601344262096 |
+| Players | 3/8 |
+| Host Name | Golden Predator |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:22:25 |
 
 
