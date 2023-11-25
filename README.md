@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:33:39 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601441385726 |
-| Players | 1/5 |
-| Host Name | K!! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:34:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601441259281 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601440975841 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:33:26 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601440921858 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dominatica |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:33:20 |
@@ -85,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601440703869 |
-| Players | 2/15 |
-| Host Name | emu |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 12:32:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601441149303 |
-| Players | 1/10 |
-| Host Name | DnB |
+| Lobby ID | 28531601441350132 |
+| Players | 6/15 |
+| Host Name | ¥whyzq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:33:44 |
+| Lobby Creation Time | Saturday, November 25, 2023 12:34:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601441667911 |
+| Players | 1/24 |
+| Host Name | canadian_noob |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:34:39 |
 
 
 |  | ot3_desert_octet |
@@ -108,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | unhinged |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:33:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601441350132 |
-| Players | 4/15 |
-| Host Name | ¥whyzq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:34:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601441626921 |
-| Players | 1/15 |
-| Host Name | ฺNP ENJOYER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:34:35 |
 
 
