@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601417353956 |
-| Players | 23/24 |
-| Host Name | Satella- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:49:46 |
+| Lobby ID | 28531601419476272 |
+| Players | 1/15 |
+| Host Name | 24 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:53:49 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601419411634 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PAPA BEKO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601418380089 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:51:43 |
@@ -86,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601418189744 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | GG.Ace♠GAIMIN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:51:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601419102474 |
-| Players | 6/10 |
-| Host Name | Mi primera chamba |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:53:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601419476272 |
+| Lobby ID | 28531601419874880 |
 | Players | 1/15 |
-| Host Name | 24 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:53:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601419764648 |
-| Players | 4/8 |
-| Host Name | Vinicius |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:54:22 |
+| Host Name | screw driver |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:54:34 |
 
 
