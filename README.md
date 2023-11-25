@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601857062556 |
-| Players | 2/5 |
-| Host Name | S.G |
+| Lobby ID | 28531601854239673 |
+| Players | 1/10 |
+| Host Name | Plaridel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:00:24 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:58:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:58:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601854239673 |
-| Players | 1/10 |
-| Host Name | Plaridel |
+| Lobby ID | 28531601858508253 |
+| Players | 1/5 |
+| Host Name | Valadir |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:58:06 |
+| Lobby Creation Time | Saturday, November 25, 2023 21:01:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601833883705 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 20:41:35 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:55:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601857760172 |
-| Players | 8/10 |
-| Host Name | БЭЗИЛ БАРБУУЗ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:01:00 |
+| Lobby ID | 28531601858375141 |
+| Players | 2/24 |
+| Host Name | VelvetExile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:01:30 |
 
 
 |  | ot3_desert_octet |
@@ -130,28 +130,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601858343190 |
-| Players | 5/8 |
-| Host Name | King1000 |
+| Lobby ID | 28531601858425555 |
+| Players | 1/8 |
+| Host Name | ты не чувствуешь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:01:28 |
+| Lobby Creation Time | Saturday, November 25, 2023 21:01:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601858344562 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | до встречи на тан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:01:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601858324798 |
-| Players | 1/24 |
-| Host Name | Kattobi Itto |
-| Region | STOCKHOLM |
+| Lobby ID | 28531601858333447 |
+| Players | 1/15 |
+| Host Name | GoblinDeeznuts |
+| Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 21:01:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601858547531 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 21:01:38 |
 
 
