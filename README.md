@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602293485021 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:07:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602289222032 |
-| Players | 14/24 |
+| Players | 10/24 |
 | Host Name | PEPPA PIG |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:02:18 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602291983266 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Chimpandolfo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:05:50 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602293430840 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | был внутри адлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:07:41 |
@@ -131,18 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602293635972 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Ataman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:07:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602293693915 |
-| Players | 4/8 |
-| Host Name | David Romero |
+| Lobby ID | 28531602293856483 |
+| Players | 1/24 |
+| Host Name | Cerdito Puta |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 04:08:01 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:08:13 |
 
 
