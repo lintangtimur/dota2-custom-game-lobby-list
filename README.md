@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:46:49 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601449108138 |
-| Players | 1/7 |
-| Host Name | 2k+3k... |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:47:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601447525766 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601448249394 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | PROFE ERESMIREALBAJEDEMACOÑITA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:46:26 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601447993875 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:45:59 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601441667911 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:34:39 |
@@ -99,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harry's House |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:47:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601449125760 |
+| Players | 2/24 |
+| Host Name | YoBro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:48:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601448278995 |
+| Players | 12/15 |
+| Host Name | WinderFox_Gamer |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:46:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601449235165 |
+| Players | 1/24 |
+| Host Name | Auna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:48:12 |
 
 
