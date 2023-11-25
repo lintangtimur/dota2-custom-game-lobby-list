@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601331966810 |
-| Players | 4/10 |
-| Host Name | IceKing |
+| Players | 3/10 |
+| Host Name | Stefan Pragner |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:20 |
 
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:58:28 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601331972421 |
-| Players | 21/24 |
-| Host Name | Big Daddy Sweet (BDS) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 08:55:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601333810163 |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:59:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601333128393 |
-| Players | 3/10 |
-| Host Name | Dream |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 08:57:54 |
 
 
