@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:01:07 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601668949665 |
+| Players | 2/7 |
+| Host Name | オールマイト |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:01:14 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601668358385 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | вергез |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:32 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 13/15 |
+| Players | 10/15 |
 | Host Name | Femto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -77,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601667335588 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | zLostControl |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601668595740 |
-| Players | 7/8 |
-| Host Name | 12 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:00:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601668486768 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601668902152 |
-| Players | 2/8 |
-| Host Name | antidepressants |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:01:11 |
 
 
