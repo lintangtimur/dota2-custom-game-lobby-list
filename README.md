@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:46:08 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601486970551 |
+| Players | 2/5 |
+| Host Name | エッラ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:51:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601484401415 |
@@ -29,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:47:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601483010489 |
-| Players | 20/24 |
-| Host Name | RonnieDaBear |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:45:13 |
+| Lobby ID | 28531601486975780 |
+| Players | 1/8 |
+| Host Name | El doctorcito |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:51:27 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601482578002 |
-| Players | 14/15 |
-| Host Name | Joshe ▼♥ ♥☻giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:44:32 |
+| Lobby ID | 28531601486922621 |
+| Players | 1/24 |
+| Host Name | After Midnight |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601486857019 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Pe4Kin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601482156676 |
-| Players | 23/24 |
-| Host Name | beebee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:43:50 |
+| Lobby ID | 28531601482578002 |
+| Players | 13/15 |
+| Host Name | Joshe ▼♥ ♥☻giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:44:32 |
 
 
