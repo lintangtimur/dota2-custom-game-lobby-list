@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602004818599 |
-| Players | 1/5 |
-| Host Name | Каха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:02:00 |
+| Lobby ID | 28531602005382397 |
+| Players | 2/10 |
+| Host Name | Vhiyoulette |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:02:31 |
 
 
 |  | epic_boss_fight_normal |
@@ -29,49 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:01:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602005382397 |
-| Players | 1/10 |
-| Host Name | Vhiyoulette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:02:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602000237816 |
-| Players | 21/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:57:49 |
+| Lobby ID | 28531602005832950 |
+| Players | 2/10 |
+| Host Name | мс клитор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 23:02:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602005397781 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | skitzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:02:32 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602005894471 |
+| Players | 1/24 |
+| Host Name | Forthey |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:03:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602000118434 |
-| Players | 6/8 |
-| Host Name | sandercitorz |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:57:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602004851364 |
-| Players | 5/10 |
-| Host Name | (^_-) |
+| Lobby ID | 28531602005287270 |
+| Players | 1/8 |
+| Host Name | Silvester VStallovoy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:02:02 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:02:26 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602003697669 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | calm down |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:00:58 |
@@ -94,37 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602004575064 |
-| Players | 5/8 |
-| Host Name | SXINT |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 23:01:46 |
+| Lobby ID | 28531602005827772 |
+| Players | 1/8 |
+| Host Name | scarlet |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:02:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602003932891 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Slyrak |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:01:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602005287270 |
-| Players | 1/8 |
-| Host Name | Silvester VStallovoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:02:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602005496700 |
-| Players | 2/8 |
-| Host Name | MORPHE |
+| Lobby ID | 28531602005827401 |
+| Players | 4/10 |
+| Host Name | Desspp12 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:02:38 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:02:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602005876617 |
+| Players | 2/24 |
+| Host Name | Morgoth |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 23:02:59 |
 
 
