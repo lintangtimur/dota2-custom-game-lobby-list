@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:14:03 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601684650335 |
-| Players | 1/5 |
-| Host Name | CaT |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 18:19:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601682885791 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | ranalda |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:27 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601683071341 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Bila |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:40 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
@@ -83,48 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601684116657 |
-| Players | 7/8 |
-| Host Name | 8 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:18:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601683999027 |
-| Players | 14/15 |
-| Host Name | Лапша Ачу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:18:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601684075050 |
-| Players | 1/8 |
-| Host Name | Dead Game |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:18:49 |
+| Lobby ID | 28531601684561449 |
+| Players | 4/10 |
+| Host Name | увековечено в кам |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:19:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601684626386 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | TheSnottyMidget |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:19:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601684561449 |
-| Players | 2/10 |
-| Host Name | увековечено в кам |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:19:22 |
 
 
