@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601524889428 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Big Gringo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:48:22 |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:54:25 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601529439016 |
-| Players | 1/7 |
-| Host Name | Damaged |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:54:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601524609073 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601528845300 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Jona Quiñones |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:54:05 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601528359885 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | RonnieDaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:53:24 |
@@ -113,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601528992717 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Elias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:54:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601529703747 |
+| Players | 1/8 |
+| Host Name | ~.~ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 14:55:19 |
 
 
