@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601757555981 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 猫山王 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:34:58 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kakui28 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:35:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601758139872 |
+| Players | 1/5 |
+| Host Name | skorpik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:35:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601757855680 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Meatball |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:35:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601758027735 |
-| Players | 4/8 |
-| Host Name | zxc cимпл димпл |
+| Lobby ID | 28531601756261825 |
+| Players | 9/10 |
+| Host Name | take my life |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:35:25 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:33:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601754777799 |
-| Players | 23/24 |
-| Host Name | Res |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:32:21 |
+| Lobby ID | 28531601758173874 |
+| Players | 5/24 |
+| Host Name | Gy刀塔 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 19:35:33 |
 
 
