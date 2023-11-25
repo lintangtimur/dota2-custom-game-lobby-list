@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:34:23 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531601651709524 |
-| Players | 1/5 |
-| Host Name | MΘ₲Ů (¬_¬) |
+| Lobby ID | 28531601652020971 |
+| Players | 1/7 |
+| Host Name | Бонжур |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:40:02 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:40:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601651266092 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Wukash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:39:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601651544954 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Tokyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:39:49 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | максон лобстер |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:39:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601651672404 |
-| Players | 2/8 |
-| Host Name | Chopper |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:39:59 |
 
 
