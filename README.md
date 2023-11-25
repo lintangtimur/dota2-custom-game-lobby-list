@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602342281624 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | $ilent |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:16:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602343250772 |
+| Players | 1/5 |
+| Host Name | frn` |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:17:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602341852497 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:15:24 |
@@ -92,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:17:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602342979653 |
-| Players | 13/15 |
-| Host Name | Kaban |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:17:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602343169490 |
@@ -108,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Gotto Cuba |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:17:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602343268390 |
+| Players | 3/15 |
+| Host Name | Sawyer |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:17:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602343264667 |
+| Players | 1/15 |
+| Host Name | zizyzizyzizy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:17:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602343260014 |
+| Players | 1/10 |
+| Host Name | Failure Itself |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:17:33 |
 
 
