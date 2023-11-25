@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601495553769 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:04:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601495268241 |
-| Players | 2/24 |
-| Host Name | jKD |
+| Players | 1/24 |
+| Host Name | Almond Butter Honey |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 14:04:22 |
 
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:04:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601495457560 |
-| Players | 13/15 |
-| Host Name | ПОТНАЯ МРАЗЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:04:39 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601495732530 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:05:05 |
