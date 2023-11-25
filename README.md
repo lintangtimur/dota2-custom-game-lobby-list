@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601586253288 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Limz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:12:27 |
@@ -29,28 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:12:33 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601586786957 |
+| Players | 1/5 |
+| Host Name | ебнименя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:13:10 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601585418588 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:11:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601585895060 |
-| Players | 11/15 |
-| Host Name | Я ебу алибабу |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:11:58 |
+| Lobby ID | 28531601586305511 |
+| Players | 16/24 |
+| Host Name | Sable |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:12:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -83,48 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:11:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601586235558 |
-| Players | 1/24 |
-| Host Name | Dumb Cat |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 16:12:26 |
+| Lobby ID | 28531601586873921 |
+| Players | 1/15 |
+| Host Name | BANEADOR PROFESIONAL DE TECHIES |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 16:13:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601586273431 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:12:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601586305511 |
-| Players | 8/24 |
-| Host Name | Sable |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:12:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601586320704 |
-| Players | 1/24 |
-| Host Name | Sierra |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:12:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601586672437 |
-| Players | 1/15 |
-| Host Name | JetsNameoff- |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 16:13:01 |
+| Lobby ID | 28531601586841714 |
+| Players | 2/8 |
+| Host Name | 22 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:13:15 |
 
 
