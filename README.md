@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602279501124 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bekito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:50:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602280087201 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | EdyTh3Best |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:50:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602278674102 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | был внутри адлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 03:49:02 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602280236529 |
-| Players | 1/24 |
-| Host Name |  |
+| Lobby ID | 28531602280374552 |
+| Players | 2/24 |
+| Host Name | Dacho |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 03:50:59 |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602280400319 |
+| Players | 1/24 |
+| Host Name | Cactus(JACK) |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 03:51:11 |
 
 
