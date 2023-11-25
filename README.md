@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601353692667 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | NOOB LIKE SAY EZ!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:42:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601357802038 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Art Vandelay |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:50:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601357889783 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:50:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601358963940 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Stinky XD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:52:54 |
