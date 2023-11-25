@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601394401906 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:22 |
@@ -32,37 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601395341908 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Mr... |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:06:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601395442444 |
-| Players | 14/15 |
-| Host Name | ⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:06:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601395741861 |
-| Players | 4/24 |
-| Host Name | Emounicorn |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:07:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601395405756 |
-| Players | 5/15 |
-| Host Name | ez mid |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:06:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,5 +54,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cockygod |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:07:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601395405756 |
+| Players | 1/15 |
+| Host Name | ez mid |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:06:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601395883260 |
+| Players | 2/24 |
+| Host Name | GraFx |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:07:24 |
 
 
