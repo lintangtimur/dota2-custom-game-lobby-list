@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:26:43 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601552699373 |
-| Players | 1/5 |
-| Host Name | clglOgck |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:27:29 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601546523189 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:19:02 |
