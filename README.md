@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601492213133 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | NARUTO UZUMAKI DE KONOHA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:59:37 |
