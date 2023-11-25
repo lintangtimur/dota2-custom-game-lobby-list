@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601601414998 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Xiao Xiao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:32:52 |
@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:33:09 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601601868576 |
+| Players | 1/5 |
+| Host Name | berserk |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 16:33:29 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601601661108 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | NotTryHard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:33:12 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601600566528 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:31:44 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601600626095 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | RuslanTu |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:31:49 |
@@ -104,27 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601601446444 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | squirrel:-) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:32:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601601731676 |
-| Players | 2/8 |
-| Host Name | 病気の頭 |
+| Lobby ID | 28531601601896155 |
+| Players | 3/10 |
+| Host Name | 0511 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:33:18 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:33:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601601788545 |
+| Lobby ID | 28531601601923041 |
 | Players | 3/15 |
 | Host Name | I'm Finished |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 16:33:22 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:33:33 |
 
 
