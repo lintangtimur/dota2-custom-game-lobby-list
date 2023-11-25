@@ -11,46 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:12:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601340582757 |
-| Players | 1/5 |
-| Host Name | DeadEnd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:14:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601339986955 |
-| Players | 3/8 |
-| Host Name | Gonza |
+| Lobby ID | 28531601340661261 |
+| Players | 1/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:13:14 |
+| Lobby Creation Time | Saturday, November 25, 2023 09:14:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601339159578 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:11:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601336508498 |
-| Players | 2/8 |
-| Host Name | Pochi |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:05:35 |
+| Lobby ID | 28531601340712805 |
+| Players | 4/10 |
+| Host Name | Subz |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:14:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601340027069 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JimPark |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:19 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601340033702 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | (;v) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:20 |
@@ -86,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601340231953 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Смурфетта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601340640975 |
+| Players | 2/10 |
+| Host Name | Agatha Christie |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 09:14:37 |
 
 
