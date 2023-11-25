@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602331796867 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | GG.Ace♠GAIMIN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:00:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602334983801 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | no idea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:05:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602334887490 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | BeNeBe |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:04:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602326614062 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Ez Go |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:52:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602334004380 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 4-3 pos or afk キ市𝖌𝖍 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:03:37 |
@@ -137,12 +137,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:05:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602335140448 |
+| Players | 1/24 |
+| Host Name | ElTioSad |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:05:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602335049997 |
+| Lobby ID | 28531602335166835 |
 | Players | 6/10 |
-| Host Name | CNPJOTO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 05:05:10 |
+| Host Name | Ketalii |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:05:21 |
 
 
