@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601412361069 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Paipl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:40:07 |
@@ -23,25 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601414021038 |
-| Players | 8/10 |
-| Host Name | Wu Gensheng |
+| Players | 7/10 |
+| Host Name | Aezakmi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:43:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601415336890 |
-| Players | 1/5 |
-| Host Name | CadaVer |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:45:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601414654077 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:44:33 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601414959065 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | sAnkøtteryŁeet |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:45:09 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601411377502 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:38:12 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hllrser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:45:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601410988890 |
+| Players | 21/24 |
+| Host Name | Abuela.n.Patineta |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:37:26 |
 
 
