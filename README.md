@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601377575995 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Raze.EmperoR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:30:19 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:37:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601382859143 |
-| Players | 1/15 |
-| Host Name | Xavidra |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:40:52 |
+| Lobby ID | 28531601382877017 |
+| Players | 1/10 |
+| Host Name | [So]Voker |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:40:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601381691924 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:38:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601382141129 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:39:27 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601382172690 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | YD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:39:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601382855321 |
-| Players | 4/8 |
-| Host Name | Ninjinha10 |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 10:40:52 |
+| Lobby ID | 28531601381912895 |
+| Players | 9/10 |
+| Host Name | estoy  cansado jefe |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:38:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601383051873 |
+| Players | 1/15 |
+| Host Name | uN |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 10:41:15 |
 
 
