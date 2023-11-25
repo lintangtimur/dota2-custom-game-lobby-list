@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:44:51 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601994490012 |
-| Players | 2/5 |
-| Host Name | Шабармовка |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:52:45 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601991678740 |
@@ -38,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:50:19 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601995034123 |
+| Players | 2/5 |
+| Host Name | халиял кепапка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:53:13 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601991418272 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Smitty, Disciple of Goggins |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:50:06 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:44:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601993158136 |
-| Players | 6/8 |
-| Host Name | ''I'' |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 22:51:35 |
+| Lobby ID | 28531601994684396 |
+| Players | 6/10 |
+| Host Name | The Hermit |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:52:55 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601993775853 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:52:07 |
@@ -122,18 +122,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601994772375 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:53:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601994684396 |
-| Players | 2/10 |
-| Host Name | The Hermit |
+| Lobby ID | 28531601994878936 |
+| Players | 1/8 |
+| Host Name | Lorfi |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:52:55 |
+| Lobby Creation Time | Saturday, November 25, 2023 22:53:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601994880661 |
+| Players | 5/15 |
+| Host Name | a_east |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:53:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601994862657 |
+| Players | 1/15 |
+| Host Name | tá tú ag asshole |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:53:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601994899043 |
+| Players | 2/8 |
+| Host Name | Fzforza(-1k) |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 22:53:06 |
 
 
