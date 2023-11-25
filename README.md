@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602191733897 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | MILF Milkshaker |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:09:03 |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:10:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602192844319 |
-| Players | 1/10 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:10:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602192173782 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:09:32 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602189834086 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | DANTE SPARDA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:07:00 |
@@ -122,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602190596415 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ElHombreQueCarreoAlIncarreable |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 02:07:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602192832960 |
-| Players | 3/10 |
-| Host Name | kloto24 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:10:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -148,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602192867480 |
-| Players | 1/15 |
-| Host Name | 6ycypman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 02:10:16 |
+| Lobby ID | 28531602192945520 |
+| Players | 5/15 |
+| Host Name | филеофиш со вкусом рыбы |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:10:21 |
 
 
