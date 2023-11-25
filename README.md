@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601742246212 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Holycopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601742844767 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Scroll |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601739823413 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ๋ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:17:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601739700129 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | РАЗКУМАРИЛСЯ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:17:46 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601741651033 |
-| Players | 2/15 |
-| Host Name | PvssycatRideHerBus |
+| Players | 1/15 |
+| Host Name | 第九艺术家 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Saturday, November 25, 2023 19:19:41 |
 
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:17:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601743550911 |
+| Players | 7/10 |
+| Host Name | таджик оля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:21:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601743740838 |
+| Players | 3/24 |
+| Host Name | SANTOSO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:21:43 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601743105830 |
 | Players | 7/8 |
-| Host Name | NEW MAGIC WAND |
+| Host Name | REYSKYWALKER! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:21:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601743550911 |
-| Players | 3/10 |
-| Host Name | таджик оля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:21:32 |
 
 
