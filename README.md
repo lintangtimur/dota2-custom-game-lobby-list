@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601341472679 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | NIX fury |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:16:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601341937632 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ketamine |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:17:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601340041365 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:13:21 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sirius/Void |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601342697980 |
-| Players | 1/8 |
-| Host Name | vicderrR.D |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:19:04 |
 
 
