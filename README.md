@@ -20,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:41:58 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601612080080 |
-| Players | 9/10 |
-| Host Name | [                         ] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:47:26 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601613195120 |
-| Players | 1/7 |
-| Host Name | sadsunღ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:48:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601602575954 |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601608097154 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:41:59 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601612580681 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | NOCHNOY DOZOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:48:08 |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -_-_HuNter_-_- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:48:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601613383978 |
+| Players | 4/8 |
+| Host Name | CH1naZEs |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:49:14 |
 
 
