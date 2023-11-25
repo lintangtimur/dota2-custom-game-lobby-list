@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:52:55 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601716558966 |
+| Players | 2/7 |
+| Host Name | Donya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:54:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601710482207 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | душный_шизоглист |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:47:43 |
@@ -41,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601713990097 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Res |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:51:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601716399770 |
-| Players | 1/8 |
-| Host Name | пыхнул липкого |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:53:55 |
+| Lobby ID | 28531601716424801 |
+| Players | 6/10 |
+| Host Name | Crackpot Cucumber |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:53:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601716140604 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Han |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:53:39 |
@@ -68,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601716075254 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | Good день |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:53:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601716390398 |
-| Players | 1/15 |
-| Host Name | Aljur Abrenigga |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:53:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601716424801 |
-| Players | 1/10 |
-| Host Name | Crackpot Cucumber |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:53:57 |
+| Lobby ID | 28531601715288891 |
+| Players | 7/8 |
+| Host Name | DDreams.Matiskadi.1XBET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:52:46 |
 
 
