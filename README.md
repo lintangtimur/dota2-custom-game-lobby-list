@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601650474485 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:38:28 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601647248790 |
-| Players | 8/10 |
-| Host Name | WEEABOO |
+| Players | 7/10 |
+| Host Name | ASSASSLN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:34:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601651709524 |
+| Players | 1/5 |
+| Host Name | MΘ₲Ů (¬_¬) |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:40:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601651253852 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Ninja Saga Facebook |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:39:27 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601651544954 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Tokyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:39:49 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601651578270 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | максон лобстер |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:39:52 |
