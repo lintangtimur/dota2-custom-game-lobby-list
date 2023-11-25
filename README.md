@@ -13,29 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601675782156 |
-| Players | 4/5 |
-| Host Name | аутист |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:09:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601677605678 |
-| Players | 7/10 |
-| Host Name | ID : T41104 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:11:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28531601679938427 |
 | Players | 1/5 |
 | Host Name | Ice-J |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:14:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601677605678 |
+| Players | 8/10 |
+| Host Name | ID : T41104 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:11:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601681120450 |
-| Players | 4/8 |
-| Host Name | 平凡Heibon |
+| Lobby ID | 28531601680886139 |
+| Players | 9/15 |
+| Host Name | Gabbitz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:15:25 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:15:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601679879632 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | ЛЕСНИК_БЕЗ_ФАРМА |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:13:59 |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:13:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601680886139 |
-| Players | 5/15 |
-| Host Name | Gabbitz |
+| Lobby ID | 28531601681310140 |
+| Players | 4/8 |
+| Host Name | Eternal tilt... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:15:09 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:15:38 |
 
 
