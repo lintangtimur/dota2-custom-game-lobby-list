@@ -11,28 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:22:57 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602304943277 |
-| Players | 9/10 |
-| Host Name | НУ ЭТО УЖЕ СИГА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:22:40 |
+| Lobby ID | 28531602305348086 |
+| Players | 1/5 |
+| Host Name | БУМ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:23:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602303143481 |
-| Players | 7/8 |
-| Host Name | EL REAL  FELIPE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 04:20:17 |
+| Lobby ID | 28531602304885976 |
+| Players | 5/8 |
+| Host Name | INTRO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:22:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602304731170 |
+| Players | 12/15 |
+| Host Name | Sayonara- |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:22:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602305191525 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:23:00 |
@@ -56,48 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:22:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602304290988 |
-| Players | 6/8 |
-| Host Name | aa to |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:21:48 |
+| Lobby ID | 28531602305255108 |
+| Players | 2/10 |
+| Host Name | qwe |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 04:23:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602303940709 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:21:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602301938054 |
-| Players | 7/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 04:18:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602304731170 |
-| Players | 3/15 |
-| Host Name | Sayonara- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:22:23 |
+| Lobby ID | 28531602305305537 |
+| Players | 2/15 |
+| Host Name | Puntito( El Maximo Exponente) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 04:23:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602304885976 |
-| Players | 3/8 |
-| Host Name | INTRO |
+| Lobby ID | 28531602305271548 |
+| Players | 3/10 |
+| Host Name | FaithPrince |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:22:35 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:23:06 |
 
 
