@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601325809913 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:41:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601329609224 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Janmix |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 08:50:06 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601330092452 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | АлкашПодСнюсом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 08:51:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601330086792 |
-| Players | 1/8 |
-| Host Name | Wheel |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 08:51:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601330447691 |
-| Players | 2/10 |
-| Host Name | nihao |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 08:51:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kaysea |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:52:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601330447691 |
+| Players | 2/10 |
+| Host Name | nihao |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:51:59 |
 
 
