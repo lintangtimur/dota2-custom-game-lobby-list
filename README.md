@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601504612642 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | NDD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:18:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601504930805 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 19/24 |
+| Players | 17/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601506563788 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | XØ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:21:26 |
@@ -65,30 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:16:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601500501836 |
-| Players | 23/24 |
-| Host Name | Nerfstyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:12:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601506882477 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Os #FreeGaza |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:21:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601506941507 |
-| Players | 1/8 |
-| Host Name | FЦㄈҚ ϤØЦ ௱Λ௱Λ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:22:00 |
+| Lobby ID | 28531601507121051 |
+| Players | 1/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601507117099 |
+| Players | 3/10 |
+| Host Name | Düt Düt |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
 
 
