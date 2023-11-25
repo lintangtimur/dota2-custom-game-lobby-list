@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601426746320 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | YEAH |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:07:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601426421054 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:07:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601424074539 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:38 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601427787323 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:09:30 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601427854191 |
-| Players | 1/24 |
-| Host Name | Say my name |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 12:09:37 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601427868828 |
-| Players | 1/15 |
-| Host Name | Только я тут умею думать |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:09:39 |
+| Lobby ID | 28531601427905620 |
+| Players | 2/15 |
+| Host Name | zhl |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 12:09:43 |
 
 
