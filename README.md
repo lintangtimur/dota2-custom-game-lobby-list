@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:05:47 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601729217098 |
-| Players | 1/5 |
-| Host Name | Torontokuku |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:16 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601729419710 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ID : T41104 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:07:29 |
@@ -50,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601727745155 |
-| Players | 1/8 |
-| Host Name | РАЗКУМАРИЛСЯ |
+| Lobby ID | 28531601730149982 |
+| Players | 5/10 |
+| Host Name | МУДРЫЙ ХУЙ |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:05:46 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:08:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601729596343 |
-| Players | 1/8 |
-| Host Name | КОТИК-НАРКОТИК ඞ |
+| Lobby ID | 28531601729742883 |
+| Players | 13/15 |
+| Host Name | QPAD. RED PANDA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:40 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:07:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:07:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601729304733 |
-| Players | 1/15 |
-| Host Name | Ga |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:22 |
+| Lobby ID | 28531601729219609 |
+| Players | 3/8 |
+| Host Name | ПТ на силу ю детей |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 19:07:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,36 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601729623601 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | уничтожитель Вла |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:07:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601729742883 |
-| Players | 8/15 |
-| Host Name | QPAD. RED PANDA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601729219609 |
-| Players | 3/8 |
-| Host Name | ПТ на силу ю детей |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601729222434 |
-| Players | 7/10 |
-| Host Name | \ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:07:17 |
+| Lobby ID | 28531601730256045 |
+| Players | 1/24 |
+| Host Name | Biu |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 19:08:21 |
 
 
