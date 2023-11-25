@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602363878841 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Уеб@Н |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:50:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602362357975 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | MONEY IS GONE |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:48:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602364609587 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | НА КУРАЖЕ)) 2.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:51:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602364594279 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:51:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602364748452 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | cesa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:07 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602364884834 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Ничего нового |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:21 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :PowerAutomate |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602364953149 |
+| Players | 1/24 |
+| Host Name | Chupete |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602365004327 |
+| Players | 5/8 |
+| Host Name | drakoss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:52:33 |
 
 
