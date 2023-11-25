@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:57:20 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601363918500 |
-| Players | 1/5 |
-| Host Name | i-ant-i |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:02:56 |
+| Lobby ID | 28531601364172583 |
+| Players | 3/10 |
+| Host Name | Dumb |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 10:03:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,28 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:03:18 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601364172583 |
-| Players | 2/10 |
-| Host Name | Dumb |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 10:03:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601360666804 |
-| Players | 23/24 |
-| Host Name | Bo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:56:23 |
+| Lobby ID | 28531601364282956 |
+| Players | 1/15 |
+| Host Name | 干拉的王 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:03:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601363626696 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | 范马超人强 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:02:21 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601363981777 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:03:04 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601363513607 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:02:08 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601362616722 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | blade of the mail |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:00:20 |
@@ -86,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601363816812 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:02:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601363424395 |
-| Players | 20/24 |
-| Host Name | Someone |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:01:57 |
 
 
 |  | ot3_gardens_duo |
@@ -112,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601364282956 |
-| Players | 1/15 |
-| Host Name | 干拉的王 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:03:41 |
+| Lobby ID | 28531601364393499 |
+| Players | 3/15 |
+| Host Name | ElectricFeel |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 10:03:54 |
 
 
