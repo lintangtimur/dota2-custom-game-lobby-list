@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601799018198 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Твоя бывшая |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:12:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601799648251 |
-| Players | 1/10 |
-| Host Name | h.uyanik_35 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:12:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601799624741 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | zxc |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:12:58 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601798477546 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | VelvetExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:11:59 |
@@ -113,9 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601799643733 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | FoKa1_1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:12:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601799818601 |
+| Players | 2/8 |
+| Host Name | вопосы? |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:13:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601799966027 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:13:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601798937491 |
+| Players | 12/15 |
+| Host Name | D |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:12:23 |
 
 
