@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601366892184 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JimPark |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:08:56 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601367299271 |
 | Players | 2/15 |
-| Host Name | Sweet Tooth |
+| Host Name | M.R-YoEL |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:45 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601366338976 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Dominatica |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:07:50 |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601367544902 |
-| Players | 1/8 |
-| Host Name | x__t__C |
+| Lobby ID | 28531601367818905 |
+| Players | 5/10 |
+| Host Name | Armando casas ♥ |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:10:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601367691929 |
-| Players | 3/8 |
-| Host Name | Тайфус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:10:32 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:10:47 |
 
 
