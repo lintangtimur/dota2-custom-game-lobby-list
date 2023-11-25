@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602244167630 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BlessRNG |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:07:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602245442881 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ▼userblod▼ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:09:04 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 03:07:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602240014466 |
-| Players | 1/8 |
-| Host Name | 我 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 03:02:46 |
+| Lobby ID | 28531602246596064 |
+| Players | 4/10 |
+| Host Name | Matrix- |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 03:10:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -114,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602245801482 |
 | Players | 7/8 |
-| Host Name | MAT' SHLUHA |
+| Host Name | Анлаки |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 03:09:29 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602244597548 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 03:08:05 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602246535741 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Антифка |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:10:21 |
