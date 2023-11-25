@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:28:54 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602351317323 |
+| Players | 1/5 |
+| Host Name | Randoveta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:30:09 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348497031 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | nightingale |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:42 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602349987034 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:28:03 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602346205619 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | WHAT XUXA FUE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:22:09 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602351016847 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Ксантарес |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:29:41 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602350716187 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:29:12 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602350966447 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Sayrafa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:29:36 |
