@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531602349613789 |
-| Players | 1/5 |
-| Host Name | Shobbar |
+| Lobby ID | 28531602349567236 |
+| Players | 2/7 |
+| Host Name | Fuckyeah |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:27:28 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:27:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:58 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531602349567236 |
-| Players | 2/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:27:24 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348497031 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | nightingale |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:42 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602348175797 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | tmr |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:13 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348321757 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BURNY_33333333333333333333333333 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:26 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602335671215 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | focus PayToWin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:06:06 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602346205619 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | WHAT XUXA FUE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:22:09 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602349244189 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Fzforza(-1k) |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:53 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602348789568 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | adriwazaxd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:10 |
@@ -119,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:27:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602349033446 |
-| Players | 7/8 |
-| Host Name | CAUTIVO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 05:26:33 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602349470607 |
@@ -137,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 05:27:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602349597641 |
-| Players | 7/10 |
-| Host Name | beligol |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 05:27:27 |
+| Lobby ID | 28531602349987034 |
+| Players | 1/15 |
+| Host Name | Kirtaph |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 05:28:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602349894399 |
+| Lobby ID | 28531602350010663 |
 | Players | 3/8 |
-| Host Name | TiW |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:27:55 |
+| Host Name | глуп3.ц |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:28:06 |
 
 
