@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601394332694 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601395405756 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:06:25 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601395883260 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GraFx |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:07:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601395179316 |
+| Players | 5/15 |
+| Host Name | Dialed in. |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:05:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601395934206 |
+| Players | 2/8 |
+| Host Name | Hesitation is Defeat |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:07:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601395968074 |
+| Players | 1/8 |
+| Host Name | Тайфус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:07:34 |
 
 
