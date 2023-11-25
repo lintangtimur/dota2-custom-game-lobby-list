@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601407536843 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Numd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:30:41 |
@@ -20,31 +20,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:31:02 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601408312216 |
+| Players | 1/5 |
+| Host Name | Kazuha |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 11:32:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601401749285 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | tilin insano |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:19:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601405991090 |
-| Players | 5/8 |
-| Host Name | ♡ |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:27:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601405543364 |
-| Players | 23/24 |
-| Host Name | TiltedGuy |
+| Lobby ID | 28531601408161878 |
+| Players | 3/10 |
+| Host Name | El Diferente |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:26:46 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:31:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601408014122 |
+| Players | 4/10 |
+| Host Name | эль стрипер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:31:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,63 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601405474988 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Big Cam |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:26:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601406953599 |
-| Players | 8/10 |
-| Host Name | Spire |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:29:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601407785984 |
-| Players | 8/15 |
-| Host Name | wi wi |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:31:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601407950751 |
-| Players | 1/15 |
-| Host Name | HaXyuTaKuGRaT |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:31:30 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601407867451 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Boss James |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:31:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601408014122 |
-| Players | 2/10 |
-| Host Name | эль стрипер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:31:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601408161878 |
-| Players | 3/10 |
-| Host Name | El Diferente |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:31:54 |
+| Lobby ID | 28531601407950751 |
+| Players | 4/15 |
+| Host Name | HaXyuTaKuGRaT |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:31:30 |
 
 
