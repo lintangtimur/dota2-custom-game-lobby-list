@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:23:01 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601403892129 |
-| Players | 1/5 |
-| Host Name | 惠索斯 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:23:28 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601401749285 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601400073125 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | купите бит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:15:48 |
@@ -41,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601403129325 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:21:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601403579758 |
-| Players | 5/15 |
-| Host Name | Imagine3MasterStuckInPubs |
+| Lobby ID | 28531601403839757 |
+| Players | 1/24 |
+| Host Name | no masteries |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:22:50 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:23:21 |
 
 
 |  | ot3_gardens_duo |
@@ -81,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ® |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:23:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601403839757 |
-| Players | 1/24 |
-| Host Name | no masteries |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:23:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601403876619 |
-| Players | 5/8 |
-| Host Name | Mimiander |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:23:26 |
 
 
