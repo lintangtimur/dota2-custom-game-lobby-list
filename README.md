@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602287827616 |
-| Players | 9/10 |
-| Host Name | Pava |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:00:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602289189713 |
@@ -20,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:02:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602289795664 |
-| Players | 6/15 |
-| Host Name | N.T |
+| Lobby ID | 28531602290137692 |
+| Players | 5/10 |
+| Host Name | Roarbuse |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:03:02 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:03:28 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602285908860 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | focus PayToWin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 03:58:06 |
@@ -50,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602288767480 |
-| Players | 8/15 |
-| Host Name | Pero eres o no eres? |
+| Players | 6/15 |
+| Host Name | Chispitas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:01:43 |
 
@@ -65,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 04:02:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602289279451 |
-| Players | 8/15 |
-| Host Name | carnage |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:02:22 |
+| Lobby ID | 28531602290191279 |
+| Players | 5/8 |
+| Host Name | Взрыв Члена |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:03:32 |
 
 
 |  | ot3_gardens_duo |
@@ -94,28 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602289027061 |
-| Players | 7/8 |
-| Host Name | vdm |
+| Lobby ID | 28531602290148165 |
+| Players | 2/8 |
+| Host Name | Nurken |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:02:03 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:03:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602289286257 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Почему крест так похож на плюс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:02:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602290036107 |
-| Players | 2/10 |
-| Host Name | Roarbuse |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:03:20 |
 
 
