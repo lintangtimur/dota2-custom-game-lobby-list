@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601608409889 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | fojsk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:42:24 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601613832844 |
+| Players | 1/7 |
+| Host Name | GreShnik |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:49:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601613585271 |
+| Lobby ID | 28531601613815221 |
 | Players | 1/10 |
-| Host Name | ► Good gay, noob played |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 16:49:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601613648225 |
-| Players | 1/5 |
-| Host Name | im not wearing a tie at all |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 16:49:35 |
+| Host Name | Autsayder |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:49:49 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601612821593 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Matye Bal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:48:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601608097154 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:41:59 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:38:33 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601613693249 |
+| Players | 4/10 |
+| Host Name | Kenpachi Zaraki |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:49:39 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601613564782 |
+| Lobby ID | 28531601613778492 |
 | Players | 6/15 |
-| Host Name | Zero |
+| Host Name | Anime girl |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:49:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601613383978 |
-| Players | 5/8 |
-| Host Name | CH1naZEs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:49:14 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:49:46 |
 
 
 |  | ot3_gardens_duo |
