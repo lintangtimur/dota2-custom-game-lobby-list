@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601442488413 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Souri |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:36:07 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:33:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601448466136 |
+| Players | 1/10 |
+| Host Name | 青椒小新 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:46:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601447331931 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | cbx Compendium sucks |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:44:48 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601447525766 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Taras_Baby |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:45:09 |
@@ -95,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601448278995 |
-| Players | 2/15 |
-| Host Name | BIGGIE SMALLS ▲ |
+| Players | 4/15 |
+| Host Name | WinderFox_Gamer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:46:29 |
 
