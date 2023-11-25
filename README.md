@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:14:03 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601685818509 |
-| Players | 1/5 |
-| Host Name | Lend |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:20:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
@@ -86,9 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601685758626 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | I Don't Know You! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:20:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601685970986 |
+| Players | 2/10 |
+| Host Name | Саня |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 18:20:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601686003150 |
+| Players | 3/8 |
+| Host Name | я турбо демон |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:21:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601686006180 |
+| Players | 7/15 |
+| Host Name | za makimu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:21:02 |
 
 
