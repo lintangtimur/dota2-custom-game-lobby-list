@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601423995916 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | areyouhappy? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:29 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601426746320 |
-| Players | 9/10 |
-| Host Name | YEAH |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 12:07:35 |
+| Lobby ID | 28531601428985090 |
+| Players | 1/10 |
+| Host Name | Kloutz |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 12:11:41 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601424290477 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Tioshadow |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:03:02 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Thais Carlo |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 12:06:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601428961564 |
+| Players | 1/8 |
+| Host Name | Депутат свиней🫒 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:11:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601428982428 |
+| Players | 1/10 |
+| Host Name | Л.Н Толстой |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:11:41 |
 
 
