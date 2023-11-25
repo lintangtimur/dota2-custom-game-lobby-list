@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:14:03 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601685127394 |
-| Players | 1/10 |
-| Host Name | Graff-OFF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:20:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -68,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601683053679 |
-| Players | 21/24 |
-| Host Name | Esteemed Gentleman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:17:38 |
+| Lobby ID | 28531601684927263 |
+| Players | 2/15 |
+| Host Name | twitch.tv/raumhart |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:19:48 |
 
 
 |  | ot3_gardens_duo |
@@ -90,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | увековечено в кам |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:19:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601684626386 |
-| Players | 7/8 |
-| Host Name | TheSnottyMidget |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:19:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601684853608 |
-| Players | 12/15 |
-| Host Name | mrpro554410 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:19:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601684927263 |
-| Players | 1/15 |
-| Host Name | twitch.tv/raumhart |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:19:48 |
 
 
