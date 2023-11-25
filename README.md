@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602232468463 |
-| Players | 4/5 |
-| Host Name | Aeterna |
+| Lobby ID | 28531602233660352 |
+| Players | 2/5 |
+| Host Name | Lucifer Morningstar |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 02:54:01 |
+| Lobby Creation Time | Sunday, November 26, 2023 02:55:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [GayGaming].LG |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:54:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602233754867 |
+| Players | 1/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:55:30 |
 
 
 |  | ot3_desert_octet |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602233064742 |
-| Players | 7/24 |
-| Host Name | < blank > |
+| Players | 6/24 |
+| Host Name | opZZesion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:54:43 |
 
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602230667751 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | ティアゴ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:51:57 |
@@ -122,9 +131,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602233588668 |
-| Players | 2/15 |
-| Host Name | wubba lubba dub dub |
+| Players | 7/15 |
+| Host Name | mode: Genjutsu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 02:55:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602233637751 |
+| Players | 1/15 |
+| Host Name | этот шпек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:55:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602226846285 |
+| Players | 23/24 |
+| Host Name | Rho AIas외로운 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 02:47:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602233696319 |
+| Players | 1/10 |
+| Host Name | Ублюдок |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 02:55:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602233740586 |
+| Players | 3/8 |
+| Host Name | obosralsya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 02:55:29 |
 
 
