@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601364092998 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GreyGoose |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:03:18 |
@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601364172583 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dumb |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 10:03:27 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601365666174 |
+| Players | 2/7 |
+| Host Name | Itachi Uchiha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:06:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601364857558 |
-| Players | 1/24 |
-| Host Name | ДАВИД |
+| Lobby ID | 28531601364851227 |
+| Players | 21/24 |
+| Host Name | MAGINER |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:04:49 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:04:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601363981777 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:03:04 |
@@ -50,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601364984555 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | egoisto legatoro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:05:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601364851227 |
-| Players | 17/24 |
-| Host Name | MAGINER |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:04:48 |
+| Lobby ID | 28531601365655693 |
+| Players | 2/10 |
+| Host Name | 4fk4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:06:27 |
 
 
