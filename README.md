@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601536114822 |
-| Players | 2/24 |
-| Host Name | K; |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:04:29 |
+| Lobby ID | 28531601536647039 |
+| Players | 3/8 |
+| Host Name | Nagi Seishiro- |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:05:15 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601535586707 |
-| Players | 14/15 |
-| Host Name | Бархатная тяга |
+| Lobby ID | 28531601536431309 |
+| Players | 1/8 |
+| Host Name | YBLYDOK |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:03:45 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:04:56 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601526890327 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:51:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601536064005 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:04:25 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601536066749 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | fqCody |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:04:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601536586739 |
+| Players | 1/15 |
+| Host Name | кавасаки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:05:10 |
 
 
