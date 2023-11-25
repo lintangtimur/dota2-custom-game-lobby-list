@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601458006135 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Отошёл покурить |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:03:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601455319964 |
-| Players | 8/15 |
+| Players | 4/15 |
 | Host Name | GusGus |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:58:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601456193012 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Tioshadow |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:00:31 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:03:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601458086182 |
-| Players | 1/8 |
-| Host Name | SOY TÍMIDO |
+| Lobby ID | 28531601458147940 |
+| Players | 5/10 |
+| Host Name | Water |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:04:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601458140450 |
+| Players | 2/24 |
+| Host Name | El hombre Capibara |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:03:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:03:59 |
 
 
