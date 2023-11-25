@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601580394841 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 16:04:33 |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:05:59 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601582198769 |
-| Players | 2/10 |
-| Host Name | THE GINGER DESTROYER! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:06:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601563357474 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601582176754 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Mr... |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:06:56 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:06:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601580997705 |
-| Players | 7/8 |
-| Host Name | ThOrflnn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:05:21 |
+| Lobby ID | 28531601582271749 |
+| Players | 5/15 |
+| Host Name | меф реарм меф |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:07:03 |
 
 
