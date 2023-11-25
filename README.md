@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601800706112 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:13:54 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601808434381 |
+| Lobby ID | 28531601808587696 |
 | Players | 1/10 |
-| Host Name | D1mple |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 20:20:33 |
+| Host Name | ♡♡♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:20:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601806166746 |
-| Players | 10/15 |
-| Host Name | Hectic |
+| Lobby ID | 28531601808714574 |
+| Players | 7/15 |
+| Host Name | Ťħøř |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:18:37 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:20:47 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:15:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601807953555 |
-| Players | 7/10 |
-| Host Name | Uzu |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:20:09 |
+| Lobby ID | 28531601806554901 |
+| Players | 17/24 |
+| Host Name | Enzo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:18:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -146,30 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:19:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601808167088 |
-| Players | 5/8 |
-| Host Name | Roddoz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:20:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601806554901 |
-| Players | 14/24 |
-| Host Name | Enzo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:18:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601808440177 |
-| Players | 2/10 |
-| Host Name | LionKingZ` |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:20:33 |
+| Lobby ID | 28531601808733440 |
+| Players | 3/10 |
+| Host Name | 12 y.o. rotting |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 20:20:48 |
 
 
