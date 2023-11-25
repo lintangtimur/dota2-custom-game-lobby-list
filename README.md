@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601419029990 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | KeFiR4iK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:52:58 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601419476272 |
-| Players | 13/15 |
-| Host Name | 24 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:53:49 |
+| Lobby ID | 28531601418189744 |
+| Players | 12/15 |
+| Host Name | GG.Ace♠GAIMIN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:51:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601417960361 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:50:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601420345810 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | Happosai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:55:28 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601420645495 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | M A R U |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:56:01 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601420919351 |
-| Players | 1/10 |
-| Host Name | MateiMatado |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 11:56:33 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601420920886 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:56:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601421091954 |
+| Players | 1/10 |
+| Host Name | Hoo Lee Sheet |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:56:53 |
 
 
