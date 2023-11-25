@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601406034865 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:27:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601406336049 |
+| Players | 1/10 |
+| Host Name | The Angle of Death |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 11:28:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601405353954 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Buho |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:26:23 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ганс Бочаров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:28:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601406329066 |
+| Players | 1/8 |
+| Host Name | TU GFA EN 4 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:28:19 |
 
 
