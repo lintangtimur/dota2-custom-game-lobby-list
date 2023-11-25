@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601517117676 |
-| Players | 14/15 |
-| Host Name | //wws.zww/(9/.exe/fckfckfck |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:37:02 |
+| Lobby ID | 28531601517775652 |
+| Players | 5/15 |
+| Host Name | Pr3t0r1an |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 14:38:01 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601517239063 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | jnikko |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 14:37:13 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601515500492 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mr. Карыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:34:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601517906336 |
+| Players | 1/8 |
+| Host Name | John D. Rockefeller |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 14:38:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601517775652 |
+| Lobby ID | 28531601517923917 |
 | Players | 2/15 |
-| Host Name | Pr3t0r1an |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 14:38:01 |
+| Host Name | Кухонный Spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:38:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601514765624 |
+| Players | 7/8 |
+| Host Name | Bjergsen1z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:33:34 |
 
 
