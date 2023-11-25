@@ -56,3 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:14:52 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601432093599 |
+| Players | 1/24 |
+| Host Name | Mikooz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:17:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601432116813 |
+| Players | 1/24 |
+| Host Name | NMIXXO.O |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 12:17:24 |
+
+
