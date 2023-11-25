@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:16:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601738367600 |
-| Players | 2/24 |
-| Host Name | Furon |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:16:27 |
+| Lobby ID | 28531601738493797 |
+| Players | 4/10 |
+| Host Name | 121ikey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:16:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601738535335 |
+| Players | 4/8 |
+| Host Name | papa jon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:16:37 |
 
 
