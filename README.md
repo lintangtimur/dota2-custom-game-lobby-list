@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601674269153 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | WEEABOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:07:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601673013238 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ЧВК чмоня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:06:02 |
@@ -56,39 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:07:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601674032682 |
-| Players | 20/24 |
-| Host Name | OTwarrior |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:07:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601674632727 |
-| Players | 8/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28531601675500321 |
+| Players | 2/8 |
+| Host Name | ZXC рыбалка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:07:57 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:08:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601675308785 |
+| Players | 1/8 |
+| Host Name | emobob3r2007 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:08:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601675049321 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RCE |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:08:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601675134379 |
-| Players | 4/24 |
-| Host Name | Irif |
+| Lobby ID | 28531601674103319 |
+| Players | 7/8 |
+| Host Name | WebMage |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:07:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601675512219 |
+| Players | 1/15 |
+| Host Name | Heo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:08:32 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:08:58 |
 
 
