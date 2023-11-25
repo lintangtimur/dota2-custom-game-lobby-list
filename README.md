@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601419461763 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:53:47 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 11:59:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601423237343 |
-| Players | 1/24 |
-| Host Name | Feb |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 12:01:01 |
+| Lobby ID | 28531601423045103 |
+| Players | 2/15 |
+| Host Name | Novox black |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 12:00:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601422986834 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Niko Niko Niii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:00:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601421912314 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | AndreXD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:58:28 |
@@ -76,37 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601422770323 |
-| Players | 22/24 |
-| Host Name | GraFx |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 12:00:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28531601422671574 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:59:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601423045103 |
-| Players | 2/15 |
-| Host Name | Novox black |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 12:00:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601423507699 |
-| Players | 1/15 |
-| Host Name | standin.longjump |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 12:01:32 |
 
 
