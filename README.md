@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602049988556 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Жека Воробьянинов |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:45:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602049920924 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:44:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602047596899 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 23:42:39 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:38:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602050201194 |
-| Players | 1/8 |
-| Host Name | -kontinuum |
+| Lobby ID | 28531602050125965 |
+| Players | 1/10 |
+| Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:45:14 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:45:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602047135061 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:42:11 |
@@ -130,10 +130,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602050125965 |
-| Players | 1/10 |
-| Host Name | ✿GOJO SATORU✿ |
+| Lobby ID | 28531602050351872 |
+| Players | 2/10 |
+| Host Name | kyle broflovski \judio gamer\ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 23:45:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602050386361 |
+| Players | 2/8 |
+| Host Name | ТЮЛЕНЬ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:45:10 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:45:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602050406637 |
+| Players | 6/8 |
+| Host Name | GRIFFIN MATA MANCOS BY DANI |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 23:45:27 |
 
 
