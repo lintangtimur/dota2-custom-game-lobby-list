@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:51:15 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601451100075 |
+| Players | 2/10 |
+| Host Name | Loading |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:51:30 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601449125760 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | YoBro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:48:01 |
@@ -50,34 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601450894992 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | joder |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:51:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601450894747 |
+| Players | 3/15 |
+| Host Name | Bubba |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:51:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601450774560 |
-| Players | 2/10 |
-| Host Name | methylmethcathinone |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 12:50:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601447537811 |
-| Players | 4/8 |
-| Host Name | пирожный чебурек |
+| Lobby ID | 28531601450857685 |
+| Players | 7/10 |
+| Host Name | EBRam |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:45:10 |
+| Lobby Creation Time | Saturday, November 25, 2023 12:51:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601450126104 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:49:46 |
@@ -95,27 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601450848535 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ¥whyzq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:51:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601450857685 |
-| Players | 3/10 |
-| Host Name | EBRam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 12:51:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601450894747 |
-| Players | 2/15 |
-| Host Name | Bubba |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 12:51:09 |
+| Lobby ID | 28531601451059885 |
+| Players | 1/24 |
+| Host Name | Vito |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:51:26 |
 
 
