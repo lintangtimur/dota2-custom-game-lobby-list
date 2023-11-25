@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601800706112 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:13:54 |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mAbEx^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:13:50 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531601804334958 |
-| Players | 1/7 |
-| Host Name | qc0ld |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:17:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:14:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601802951026 |
-| Players | 6/8 |
-| Host Name | 905645986768 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:15:51 |
+| Lobby ID | 28531601803981685 |
+| Players | 11/15 |
+| Host Name | Greta Thunberg |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:16:44 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601800962287 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Arkky |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:14:07 |
@@ -131,54 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601804261072 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Space |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:16:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601802969987 |
-| Players | 6/10 |
-| Host Name | today PMA dota |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:15:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601803571436 |
-| Players | 2/24 |
-| Host Name | drntmanh |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 20:16:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601803981685 |
-| Players | 11/15 |
-| Host Name | Greta Thunberg |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:16:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601804050813 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | TTnT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:16:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601804356455 |
-| Players | 4/8 |
-| Host Name | ШКЭФ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:17:03 |
+| Lobby ID | 28531601804560515 |
+| Players | 1/24 |
+| Host Name | drntmanh |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 20:17:14 |
 
 
