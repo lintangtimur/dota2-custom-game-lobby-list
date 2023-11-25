@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:25:04 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601596666953 |
-| Players | 1/5 |
-| Host Name | Luffy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:26:29 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601592887210 |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601593639827 |
-| Players | 4/8 |
-| Host Name | Pachacutec |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 16:22:23 |
+| Lobby ID | 28531601596705238 |
+| Players | 1/15 |
+| Host Name | Венчик |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:26:32 |
 
 
 |  | ot3_desert_octet |
@@ -119,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601595609082 |
-| Players | 6/15 |
-| Host Name | Rostik Smurf |
+| Lobby ID | 28531601596720640 |
+| Players | 1/8 |
+| Host Name | tendou |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:25:03 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:26:33 |
 
 
 |  | ot3_desert_octet |
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:25:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601596625892 |
-| Players | 3/24 |
-| Host Name | xD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:26:26 |
 
 
