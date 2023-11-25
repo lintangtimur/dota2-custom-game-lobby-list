@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601825718110 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | tomfoolery |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:34:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Nadal (ALL MUTED) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601820974769 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 20:31:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601828191906 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TSpirit.YATORO雨.1XBET |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 20:36:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601827654880 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Tarrgat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:36:31 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601826932783 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Pluto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:35:55 |
@@ -130,19 +130,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601827898785 |
-| Players | 15/15 |
-| Host Name | Mouches Volantes |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:36:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601828516234 |
+| Lobby ID | 28531601828611038 |
 | Players | 1/15 |
-| Host Name | 齐白给 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:37:14 |
+| Host Name | dpersikov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:37:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601828596378 |
+| Players | 2/10 |
+| Host Name | Big Mama (yulezz) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:37:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601828581091 |
+| Players | 2/10 |
+| Host Name | угу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:37:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601828755460 |
+| Players | 3/8 |
+| Host Name | PLUMBATA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:37:25 |
 
 
