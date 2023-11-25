@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601581036615 |
-| Players | 14/15 |
-| Host Name | Rostik Smurf |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:05:24 |
+| Lobby ID | 28531601581596778 |
+| Players | 3/15 |
+| Host Name | [A] Projekt Red |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 16:06:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601572842004 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:54:41 |
@@ -83,39 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:01:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601580982284 |
-| Players | 9/10 |
-| Host Name | ПАРАВОЗNK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:05:20 |
+| Lobby ID | 28531601581733491 |
+| Players | 3/24 |
+| Host Name | Super_Chye |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 16:06:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601580997705 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ThOrflnn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:05:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601581596778 |
-| Players | 2/15 |
-| Host Name | [A] Projekt Red |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:06:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601581664430 |
-| Players | 1/24 |
-| Host Name | 失忆蝴蝶 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 16:06:14 |
+| Lobby ID | 28531601581691617 |
+| Players | 1/8 |
+| Host Name | GohanXD |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 16:06:17 |
 
 
