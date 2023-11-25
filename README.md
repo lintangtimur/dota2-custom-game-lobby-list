@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601615587336 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Бонжур |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:52:14 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:59:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601620837325 |
-| Players | 2/5 |
-| Host Name | Винрейт +-100% |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:59:21 |
+| Lobby ID | 28531601620943931 |
+| Players | 3/10 |
+| Host Name | Iku |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 16:59:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601619984395 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | парирую женщин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:58:14 |
@@ -104,9 +104,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601619745567 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | TurgutTaner |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:57:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601605601199 |
+| Players | 8/10 |
+| Host Name | Phantom |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:38:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601620883335 |
+| Players | 1/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:59:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601616588375 |
+| Players | 23/24 |
+| Host Name | Aki ゲーマー |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:53:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601620973873 |
+| Players | 1/15 |
+| Host Name | Michael Ehrmantraut |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:59:32 |
 
 
