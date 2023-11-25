@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601742246212 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Holycopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:16 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.GolF |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:21:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601744374021 |
+| Players | 1/10 |
+| Host Name | don.№1 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:22:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601743550911 |
-| Players | 8/10 |
-| Host Name | таджик оля |
+| Lobby ID | 28531601739377616 |
+| Players | 2/8 |
+| Host Name | КОЛ-ВО ОШИБОК:0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:21:32 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:17:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601744022358 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 魂の亀裂が聞こえます |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:22:00 |
@@ -101,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:20:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601739377616 |
-| Players | 2/8 |
-| Host Name | КОЛ-ВО ОШИБОК:0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:17:27 |
+| Lobby ID | 28531601744545498 |
+| Players | 1/15 |
+| Host Name | Jseven |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:22:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601744548471 |
+| Players | 1/15 |
+| Host Name | Uncle Creator |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:22:31 |
 
 
