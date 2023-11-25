@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601408500024 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Aile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:32:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601407719227 |
-| Players | 6/10 |
-| Host Name | Fran____ |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 11:31:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -27,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kazuha |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 11:32:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601410167583 |
+| Players | 1/10 |
+| Host Name | Paipl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:35:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601409112708 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Crixthian24 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:33:46 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601409900347 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:35:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601409494969 |
-| Players | 12/15 |
-| Host Name | shallots |
+| Lobby ID | 28531601410040489 |
+| Players | 1/8 |
+| Host Name | Euphoria前景 |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:34:31 |
+| Lobby Creation Time | Saturday, November 25, 2023 11:35:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601407950751 |
-| Players | 13/15 |
-| Host Name | My Whore Wife Took Everything |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:31:30 |
+| Lobby ID | 28531601410062946 |
+| Players | 1/15 |
+| Host Name | > |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:35:38 |
 
 
 |  | ot3_desert_octet |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601407785984 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | wi wi |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:31:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601410040489 |
-| Players | 1/8 |
-| Host Name | Euphoria前景 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:35:36 |
+| Lobby ID | 28531601410182472 |
+| Players | 1/15 |
+| Host Name | Huvu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:35:52 |
 
 
