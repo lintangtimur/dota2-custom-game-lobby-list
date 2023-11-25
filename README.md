@@ -20,6 +20,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:46:08 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601657583366 |
+| Players | 1/10 |
+| Host Name | sonrisa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:47:25 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601657704142 |
+| Players | 1/7 |
+| Host Name | 勤学苦练。 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Saturday, November 25, 2023 17:47:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601657713147 |
+| Players | 1/5 |
+| Host Name | blackking |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 17:47:35 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601655826556 |
@@ -59,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601653693868 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:42:32 |
