@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601403129325 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:21:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601404384914 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:24:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601403372672 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Влад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:22:25 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hao |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:24:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601404077909 |
+| Players | 12/15 |
+| Host Name | Xavidra |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 11:23:50 |
 
 
