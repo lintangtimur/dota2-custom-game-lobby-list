@@ -4,17 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601395418887 |
-| Players | 9/10 |
-| Host Name | Haiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:06:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601396192104 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:08:02 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601394401906 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:22 |
@@ -59,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601395703634 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | cockygod |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:07:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601396286937 |
-| Players | 1/15 |
-| Host Name | TransQuil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:08:13 |
+| Lobby ID | 28531601396384150 |
+| Players | 4/10 |
+| Host Name | Heraldo de corazon |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 11:08:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601395883260 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | GraFx |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:07:24 |
@@ -86,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601395179316 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Dialed in. |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601396384150 |
-| Players | 3/10 |
-| Host Name | Heraldo de corazon |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:08:25 |
+| Lobby ID | 28531601394742325 |
+| Players | 5/8 |
+| Host Name | skoro:leto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
 
 
