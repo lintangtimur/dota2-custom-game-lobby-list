@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:33:52 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601380063147 |
+| Players | 1/5 |
+| Host Name | gla |
+| Region | Unknown |
+| Lobby Creation Time | Saturday, November 25, 2023 10:35:19 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601378287694 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:31:45 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601379456285 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | eliminate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 10:34:06 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601379234246 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | ⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧ |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:33:40 |
@@ -58,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601379301313 |
-| Players | 14/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:33:48 |
+| Lobby ID | 28531601379789255 |
+| Players | 3/15 |
+| Host Name | hiro |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 10:34:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601379271467 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Mutcharelo |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:33:45 |
@@ -76,28 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601379356347 |
-| Players | 6/8 |
-| Host Name | PENE  NEGRO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:33:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601379789255 |
-| Players | 2/15 |
-| Host Name | hiro |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 10:34:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601379863586 |
-| Players | 4/8 |
-| Host Name | EL INDOMABLE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:34:55 |
+| Lobby ID | 28531601380022541 |
+| Players | 1/8 |
+| Host Name | На русском, plz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:35:14 |
 
 
