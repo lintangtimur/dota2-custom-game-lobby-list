@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601716558966 |
-| Players | 2/7 |
-| Host Name | Donya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:54:05 |
+| Lobby ID | 28531601718015592 |
+| Players | 4/10 |
+| Host Name | noob |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:55:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:55:14 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601718015592 |
-| Players | 4/10 |
-| Host Name | noob |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:55:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Nadal (ALL MUTED) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601718153734 |
-| Players | 13/15 |
-| Host Name | no way |
+| Lobby ID | 28531601718823448 |
+| Players | 2/10 |
+| Host Name | Фистинг души |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:55:45 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:56:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601718520362 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Gromm |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:08 |
@@ -92,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:53:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601718655598 |
-| Players | 1/24 |
-| Host Name | 01010100_01001100_01000101 |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 18:56:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601718665802 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 死 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:56:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601718931534 |
+| Players | 1/15 |
+| Host Name | M1r |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:56:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601718959746 |
+| Players | 1/24 |
+| Host Name | BUTUH DANA CEPAT |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:56:35 |
 
 
