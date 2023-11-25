@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601841292668 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Gücki™ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:47:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601841679384 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Pickle Carry |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 20:47:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601835398376 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Abdul |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:42:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601838816901 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Dvzzin17 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 20:45:35 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601840301442 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | Da Butchar |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 20:46:48 |
@@ -131,18 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601841275158 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | JlblCblÚ |¬γcb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:47:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601842090503 |
-| Players | 1/15 |
+| Lobby ID | 28531601842299097 |
+| Players | 4/10 |
+| Host Name | паскуда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:48:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601842321548 |
+| Players | 1/10 |
 | Host Name | типа Satoru Gojō |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 20:48:15 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:48:26 |
 
 
