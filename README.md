@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601337098885 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | C0D3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:06:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601335990694 |
-| Players | 9/10 |
-| Host Name | no chat |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:04:26 |
+| Lobby ID | 28531601337410295 |
+| Players | 1/8 |
+| Host Name | Kabir |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:07:35 |
 
 
 |  | ot3_desert_octet |
@@ -65,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:06:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601337335304 |
-| Players | 1/15 |
-| Host Name | Boosting de mi cerro :D |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:07:25 |
+| Lobby ID | 28531601337475238 |
+| Players | 3/24 |
+| Host Name | Luchito El Creyente |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:07:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601337541864 |
+| Players | 4/8 |
+| Host Name | CACHA PERRAS UC |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:07:52 |
 
 
