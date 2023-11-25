@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601349634762 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:33:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601350805490 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kabir |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601350485168 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 维克多 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601350755428 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 乂 ＣＲＩＭＩＮＡＬ 乂 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:02 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:36:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601350410456 |
-| Players | 8/10 |
-| Host Name | blade of the mail |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:35:19 |
+| Lobby ID | 28531601351392799 |
+| Players | 4/15 |
+| Host Name | тише |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:37:21 |
 
 
 |  | ot3_desert_octet |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:35:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601351108910 |
-| Players | 4/15 |
-| Host Name | тише |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:36:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601350114979 |
-| Players | 14/15 |
-| Host Name | All muted |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:34:42 |
 
 
