@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602366761687 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | JERB en busca de Contrato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:55:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602365219678 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | lilgosh |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602366690836 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SOLO PIERDO POR MIS CORES KKS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:55:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602365709925 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:53:45 |
@@ -77,27 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602364751808 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 05:52:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602366592197 |
-| Players | 9/15 |
-| Host Name | ДРЕВНИЙ РУС |
+| Lobby ID | 28531602366899213 |
+| Players | 1/8 |
+| Host Name | АЛИСОЧКА_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:55:16 |
+| Lobby Creation Time | Sunday, November 26, 2023 05:55:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602366757420 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | scrawny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:55:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602366799696 |
+| Players | 2/10 |
+| Host Name | Limitless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:55:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602366877385 |
+| Players | 1/15 |
+| Host Name | lamborgini high |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:55:45 |
 
 
