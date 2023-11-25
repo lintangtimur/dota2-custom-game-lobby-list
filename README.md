@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601692312615 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:28:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601691889974 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Chevrolet Cruze 2013 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:27:40 |
@@ -85,37 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601691738686 |
-| Players | 2/8 |
-| Host Name | Твой сладкий друг |
+| Lobby ID | 28531601692706162 |
+| Players | 5/8 |
+| Host Name | DDreams.Matiskadi.1XBET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:27:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601692055634 |
-| Players | 4/8 |
-| Host Name | WAKE UP! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:27:50 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:28:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601692653195 |
-| Players | 2/8 |
-| Host Name | Вацок |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 18:28:30 |
 
 
