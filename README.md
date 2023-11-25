@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601745641549 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:23:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601746017419 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Martillo |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:23:57 |
@@ -104,17 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601746361341 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Mr. Карыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:24:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601746360772 |
-| Players | 1/15 |
-| Host Name | rich イスラム教 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:24:17 |
 
@@ -122,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601746420560 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 19:24:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601746574697 |
+| Players | 6/10 |
+| Host Name | Чекушка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:24:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601746628712 |
+| Players | 1/8 |
+| Host Name | Lagonda |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 19:24:32 |
 
 
