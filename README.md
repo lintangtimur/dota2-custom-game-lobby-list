@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601507121051 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:26:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601512010303 |
-| Players | 1/10 |
-| Host Name | dnarud |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 14:29:30 |
+| Lobby ID | 28531601511912114 |
+| Players | 3/8 |
+| Host Name | unstable player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:29:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601510366232 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:27:04 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601511834074 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:29:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601511655292 |
-| Players | 22/24 |
-| Host Name | Annera |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:28:59 |
 
 
 |  | ot3_desert_octet |
@@ -110,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:29:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601511912114 |
-| Players | 1/8 |
-| Host Name | unstable player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:29:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601512008154 |
-| Players | 1/15 |
-| Host Name | [SFW] D S |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 14:29:30 |
+| Lobby ID | 28531601512254957 |
+| Players | 1/10 |
+| Host Name | csgorun Киси Писи |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:29:52 |
 
 
