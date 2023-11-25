@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531601961943642 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | Быдло |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 22:25:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601976623734 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | чурки молодцы!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:37:26 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601977599260 |
-| Players | 1/10 |
-| Host Name | Beepo |
+| Players | 4/10 |
+| Host Name | Bandora |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:38:15 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601977322658 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Thranduil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:38:01 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601977374093 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Water World |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:38:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601975883019 |
-| Players | 3/8 |
-| Host Name | asphyxia |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:36:48 |
+| Lobby ID | 28531601976410158 |
+| Players | 2/10 |
+| Host Name | ЙаПрокл9т |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 22:37:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601971173647 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | 33 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 22:32:50 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:35:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601976204259 |
-| Players | 4/8 |
-| Host Name | jakeYy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 22:37:04 |
+| Lobby ID | 28531601977782878 |
+| Players | 1/15 |
+| Host Name | The Potato |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 22:38:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601976813776 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | let me sup or lose 100% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:37:36 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601975481308 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:36:27 |
@@ -149,27 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601977108354 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dehaka |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 22:37:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601976410158 |
-| Players | 3/10 |
-| Host Name | J.dzi |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 22:37:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601977602591 |
-| Players | 1/15 |
-| Host Name | The Potato |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 22:38:15 |
 
 
