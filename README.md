@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 23:11:55 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602014612537 |
-| Players | 7/10 |
-| Host Name | Ginger or Ni...r? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 23:11:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602016604837 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602017272326 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ЕБАДОЛБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:13:34 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602011081474 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | MOTOMAMI |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 23:07:48 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602017665500 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | пробитое дупло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:13:55 |
@@ -121,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602017700281 |
-| Players | 8/15 |
-| Host Name | VANDAL69 |
+| Lobby ID | 28531602018170164 |
+| Players | 3/15 |
+| Host Name | voyvoy111 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:13:57 |
+| Lobby Creation Time | Saturday, November 25, 2023 23:14:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -162,24 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Нарды онлайн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 23:13:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602017694593 |
-| Players | 1/15 |
-| Host Name | Del |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:13:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602017900769 |
-| Players | 7/10 |
-| Host Name | Xanarchy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 23:14:09 |
 
 
 |  | ot3_desert_octet |
