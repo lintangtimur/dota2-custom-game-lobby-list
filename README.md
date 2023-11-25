@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:34:08 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601603850175 |
-| Players | 1/5 |
-| Host Name | Chung Myung |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 16:36:10 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601602575954 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 16:34:25 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601603303800 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:35:25 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601599863924 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:30:47 |
