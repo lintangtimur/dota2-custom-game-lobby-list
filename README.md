@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602119483032 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | agr0ths |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 00:53:38 |
@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602120465332 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | RMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:54:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602120843452 |
+| Players | 2/10 |
+| Host Name | Dr.zLo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:54:59 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602120513042 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | maboi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:54:39 |
@@ -92,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 00:53:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602120653683 |
-| Players | 7/15 |
-| Host Name | holy knight with no feathers |
+| Lobby ID | 28531602120986799 |
+| Players | 1/10 |
+| Host Name | aga aga |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 00:54:48 |
+| Lobby Creation Time | Sunday, November 26, 2023 00:55:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -135,5 +144,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 00:54:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602120885822 |
+| Players | 2/10 |
+| Host Name | Artymediys |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:55:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602121036188 |
+| Players | 10/15 |
+| Host Name | Gena Ferz |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 00:55:11 |
 
 
