@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601465541222 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Gabimaru |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 13:16:38 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:20:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601468963925 |
-| Players | 1/15 |
-| Host Name | 王自徐 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 13:22:23 |
+| Lobby ID | 28531601469038822 |
+| Players | 2/10 |
+| Host Name | insanamentegozu |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:22:30 |
 
 
