@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601438753588 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Skip To My Lou |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 12:29:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601440975841 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | ♉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:33:26 |
@@ -113,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601441350132 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ¥whyzq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:34:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601441445282 |
-| Players | 4/8 |
-| Host Name | THIS RANKS IS SO BAD XD |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 12:34:15 |
+| Lobby ID | 28531601441626921 |
+| Players | 1/15 |
+| Host Name | ฺNP ENJOYER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:34:35 |
 
 
