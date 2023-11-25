@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601354164400 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | EVO MORALES .3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:43:03 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601351491644 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:37:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601354007983 |
-| Players | 20/24 |
-| Host Name | Casimiro Supo Tito |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:42:45 |
+| Lobby ID | 28531601354592535 |
+| Players | 2/15 |
+| Host Name | TSpirit.nullifier |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 09:43:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601354244756 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ayayay |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:43:13 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | katolic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:44:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601354151664 |
-| Players | 1/15 |
-| Host Name | xpratf |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:43:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601354592535 |
-| Players | 2/15 |
-| Host Name | TSpirit.nullifier |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:43:55 |
 
 
