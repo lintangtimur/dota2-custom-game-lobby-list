@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601683053679 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Esteemed Gentleman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601683805019 |
-| Players | 7/10 |
-| Host Name | LS.cara |
+| Lobby ID | 28531601684157682 |
+| Players | 3/8 |
+| Host Name | спустился с небес |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:18:30 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:18:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601683873539 |
-| Players | 2/10 |
-| Host Name | ЕБАДОЛБ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 18:18:35 |
+| Lobby ID | 28531601683999027 |
+| Players | 5/15 |
+| Host Name | Лапша Ачу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:18:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601684075050 |
+| Players | 1/8 |
+| Host Name | Dead Game |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 18:18:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601684116657 |
+| Players | 2/8 |
+| Host Name | 8 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:18:52 |
 
 
