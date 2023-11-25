@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:56:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28531601531067787 |
-| Players | 1/10 |
+| Lobby ID | 28531601531268988 |
+| Players | 1/7 |
 | Host Name | FatShady |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:57:15 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:57:32 |
 
 
 |  | ot3_desert_octet |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601531034466 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601531057459 |
-| Players | 2/10 |
-| Host Name | Chief |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:57:14 |
 
 
