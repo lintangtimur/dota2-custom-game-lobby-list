@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601463028988 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Lefrotit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:12:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601462080532 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 504 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601462778963 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | TURBOCRINGE |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 13:12:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601462527806 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Auna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:11:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601462125348 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | iamIBradd™ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:54 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:12:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601463359251 |
+| Players | 7/15 |
+| Host Name | Тюби4ек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:13:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601463299371 |
+| Lobby ID | 28531601463551713 |
 | Players | 1/8 |
 | Host Name | HeyPapi<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:12:53 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 13:13:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601463392578 |
+| Players | 4/8 |
+| Host Name | yelandycarrillo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:13:03 |
 
 
