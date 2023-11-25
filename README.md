@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601589709029 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | No Hesi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601591306934 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ни чего себе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:19:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601589719494 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:17:06 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601591196058 |
-| Players | 5/8 |
-| Host Name | смотри ты мертв |
+| Lobby ID | 28531601591546243 |
+| Players | 1/8 |
+| Host Name | -_-_HuNter_-_- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:19:05 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:19:33 |
 
 
