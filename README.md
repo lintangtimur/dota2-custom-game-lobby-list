@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601469556281 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:23:22 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601470087900 |
-| Players | 3/7 |
-| Host Name | Abril te extraño regresa :c |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:24:15 |
+| Lobby ID | 28531601470207578 |
+| Players | 1/10 |
+| Host Name | 青椒小新 |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 13:24:27 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601464303971 |
-| Players | 13/15 |
+| Players | 9/15 |
 | Host Name | :qqq! |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:14:32 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JOSEP |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:24:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601470159906 |
+| Players | 5/15 |
+| Host Name | 21Savage |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:24:22 |
 
 
