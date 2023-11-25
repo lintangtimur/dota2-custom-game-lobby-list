@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601360779278 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Interpol |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:56:36 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601361481890 |
-| Players | 2/10 |
-| Host Name | Вышибала 107 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:58:02 |
+| Lobby ID | 28531601361329985 |
+| Players | 5/10 |
+| Host Name | hola SOY TU TIO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 09:57:44 |
 
 
 |  | ot3_desert_octet |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D-MF |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:57:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601361329985 |
-| Players | 3/10 |
-| Host Name | hola SOY TU TIO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:57:44 |
 
 
