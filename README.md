@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601388211495 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Fluffy Potato Skin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601388266745 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ωadesch |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:43 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601386729983 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | jinjibixian |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:48:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601387670503 |
-| Players | 7/8 |
-| Host Name | el chazz |
+| Lobby ID | 28531601388014901 |
+| Players | 4/10 |
+| Host Name | Pochi |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:50:31 |
+| Lobby Creation Time | Saturday, November 25, 2023 10:51:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601386326193 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:47:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601388057873 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | d |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:51:18 |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:49:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601388014901 |
-| Players | 3/10 |
-| Host Name | Pochi |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:51:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601388349307 |
-| Players | 5/10 |
-| Host Name | Homiefellas |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:51:53 |
 
 
