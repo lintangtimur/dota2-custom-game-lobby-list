@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601489818390 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:55:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601485781087 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | IO 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:34 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601491503575 |
-| Players | 6/15 |
-| Host Name | crazy ass |
+| Players | 4/15 |
+| Host Name | Zabiyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:58:32 |
 
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Estr1per |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:00:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601492731501 |
+| Players | 1/8 |
+| Host Name | Dave el barbaro |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 14:00:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601492789984 |
+| Players | 1/24 |
+| Host Name | AhnJungKyo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:00:31 |
 
 
