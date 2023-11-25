@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601521878956 |
+| Lobby ID | 28531601522171423 |
 | Players | 1/5 |
 | Host Name | PASH PASH |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 14:44:01 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:44:26 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601521938070 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | exthious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:44:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601512326773 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:29:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601520725378 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:42:20 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rick Owens |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:44:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601522064657 |
-| Players | 1/15 |
-| Host Name | Tempest |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:44:17 |
 
 
