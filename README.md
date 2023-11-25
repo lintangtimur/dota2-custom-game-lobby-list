@@ -2,10 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601522456301 |
+| Players | 1/5 |
+| Host Name | PASH PASH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:44:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601522574910 |
+| Players | 1/10 |
+| Host Name | 紫玉ねぎ |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 14:45:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601518038579 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | deslok |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:38:24 |
@@ -14,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601521938070 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | exthious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:44:06 |
@@ -32,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601512326773 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:29:58 |
@@ -41,36 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601520725378 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:42:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601520493383 |
-| Players | 2/10 |
-| Host Name | Auswählen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:42:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601522047787 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Rick Owens |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:44:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601521440684 |
-| Players | 11/15 |
-| Host Name | второй 2 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:43:22 |
+| Lobby ID | 28531601522570799 |
+| Players | 2/10 |
+| Host Name | Janmix |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 14:45:01 |
 
 
