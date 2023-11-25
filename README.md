@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601367654701 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Blednaowca |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:10:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601368177501 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:11:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601367299271 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Brownie |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601366987657 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601367329384 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Pyrosmog |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:09:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601368228513 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:11:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601368703488 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Sofia is Numba 1 gurl for me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:12:33 |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601368503936 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:12:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601369054829 |
-| Players | 1/15 |
-| Host Name | 莫争Moz |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Saturday, November 25, 2023 10:13:15 |
+| Lobby ID | 28531601368498492 |
+| Players | 5/8 |
+| Host Name | SAMO CHERNO MORE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:12:09 |
 
 
