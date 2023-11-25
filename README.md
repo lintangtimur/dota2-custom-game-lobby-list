@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602345261435 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:20:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348497031 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | nightingale |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602348321757 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | BURNY_33333333333333333333333333 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:25:26 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602348748434 |
-| Players | 9/10 |
-| Host Name | arthas is alive |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:26:06 |
+| Lobby ID | 28531602348724932 |
+| Players | 4/10 |
+| Host Name | Kill me pls |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602348789568 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | adriwazaxd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:26:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602348724932 |
-| Players | 4/10 |
-| Host Name | Kill me pls |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:26:04 |
+| Lobby ID | 28531602348934908 |
+| Players | 6/15 |
+| Host Name | КИЛОkoki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:26:24 |
 
 
