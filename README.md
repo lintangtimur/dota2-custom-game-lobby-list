@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602325308504 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | BANDICOOT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:50:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602325379279 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ластик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:50:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602324633029 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Xiao BB |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:49:52 |
@@ -99,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hate melvin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 04:50:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602324670642 |
+| Players | 1/8 |
+| Host Name | Владимир Пупин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:49:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602325543408 |
+| Players | 3/8 |
+| Host Name | квас секс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:51:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602325541883 |
+| Players | 6/8 |
+| Host Name | whore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:51:10 |
 
 
