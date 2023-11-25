@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601487760728 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | エッラ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601487804861 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Family |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601486362722 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:50:29 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601487788584 |
-| Players | 4/15 |
-| Host Name | похуй |
+| Players | 2/15 |
+| Host Name | Magic |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:43 |
 
@@ -77,27 +77,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601487899131 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601487906122 |
-| Players | 3/8 |
-| Host Name | Кирилл Бледный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:52:54 |
+| Lobby ID | 28531601488142392 |
+| Players | 6/15 |
+| Host Name | fLexy^^ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:53:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601487955656 |
-| Players | 3/8 |
-| Host Name | хуярю героин |
-| Region | STOCKHOLM |
+| Lobby ID | 28531601487957703 |
+| Players | 1/24 |
+| Host Name | Nabung = Istri Cosplay |
+| Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:52:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601488081510 |
+| Players | 4/8 |
+| Host Name | пирожный чебурек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:53:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601488101157 |
+| Players | 1/10 |
+| Host Name | Mr. Afinque |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 13:53:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601488202025 |
+| Players | 1/24 |
+| Host Name | !Jamata |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:53:22 |
 
 
