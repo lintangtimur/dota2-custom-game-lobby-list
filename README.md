@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:57:40 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601619946137 |
+| Players | 1/10 |
+| Host Name | 『Kumagawa Misogi』 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 25, 2023 16:58:11 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601619384237 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601616588375 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Aki ゲーマー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 16:53:37 |
@@ -74,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:54:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601619141799 |
-| Players | 5/10 |
-| Host Name | 病気の頭 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:57:07 |
+| Lobby ID | 28531601619984904 |
+| Players | 1/15 |
+| Host Name | SERRANACLE |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 16:58:14 |
 
 
 |  | ot3_desert_octet |
@@ -94,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601618372764 |
-| Players | 13/15 |
-| Host Name | goblin |
+| Lobby ID | 28531601619938502 |
+| Players | 4/15 |
+| Host Name | Elias |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:56:04 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:58:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601619771942 |
+| Lobby ID | 28531601619984395 |
 | Players | 1/8 |
 | Host Name | парирую женщин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:57:57 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:58:14 |
 
 
