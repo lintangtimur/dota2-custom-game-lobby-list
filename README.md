@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:17:27 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602379152404 |
-| Players | 2/5 |
-| Host Name | あなたは売春婦の息子 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:17:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602376168180 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602367898528 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Ace of Sp♠︎des |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:29 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602378253777 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | JERB en busca de Contrato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:15:34 |
@@ -50,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602379630571 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | scrawny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602379278063 |
-| Players | 6/8 |
-| Host Name | Доктор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:17:25 |
+| Lobby ID | 28531602380041796 |
+| Players | 5/10 |
+| Host Name | Tioshadow |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 06:18:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602379632758 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Pollo extraterrestre vengador |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:04 |
@@ -110,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602379862567 |
-| Players | 9/10 |
-| Host Name | до встречи на тан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:18:29 |
+| Lobby ID | 28531602380066935 |
+| Players | 3/15 |
+| Host Name | SOLO PIERDO POR MIS CORES KKS |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 06:18:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602379939674 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Faraon Love Shady |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:37 |
@@ -137,39 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602380041796 |
-| Players | 2/10 |
-| Host Name | Tioshadow |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 06:18:49 |
+| Lobby ID | 28531602380162284 |
+| Players | 1/15 |
+| Host Name | мне похуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 06:19:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602380044461 |
+| Lobby ID | 28531602380175457 |
 | Players | 1/10 |
-| Host Name | Satoru Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 06:18:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602380066935 |
-| Players | 3/15 |
-| Host Name | SOLO PIERDO POR MIS CORES KKS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 06:18:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602379255556 |
-| Players | 14/15 |
-| Host Name | Crestworthy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 06:17:23 |
+| Host Name | Waffles |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 06:19:04 |
 
 
