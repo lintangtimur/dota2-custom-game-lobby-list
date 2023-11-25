@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601542254680 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Nonlinear operator |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601546360643 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Moccio 希望 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:18:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601547148232 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sunb3am |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 15:19:53 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601547736831 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | _Mazafaka_ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:20:41 |
