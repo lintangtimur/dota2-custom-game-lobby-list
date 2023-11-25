@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602374721834 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Kratos |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:09:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602374587364 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hipnos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:09:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602374449810 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 123... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:08:46 |
@@ -128,22 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 06:09:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602374439148 |
-| Players | 7/8 |
-| Host Name | УЛЫБА |
+| Lobby ID | 28531602374872907 |
+| Players | 3/15 |
+| Host Name | Ярик Добрый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:08:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602374843785 |
-| Players | 5/8 |
-| Host Name | Dexter1no |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:09:27 |
+| Lobby Creation Time | Sunday, November 26, 2023 06:09:31 |
 
 
 |  | ot3_jungle_quintet |
