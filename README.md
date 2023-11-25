@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601343233128 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Slava_Ukraine |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:20:13 |
@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:39 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601344117715 |
-| Players | 9/10 |
-| Host Name | Farewell, My paradise |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:22:06 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601345150608 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:17 |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601345726928 |
-| Players | 8/10 |
-| Host Name | Soulwarrior |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:25:30 |
+| Lobby ID | 28531601346025494 |
+| Players | 7/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601346025807 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Кот под солями |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
@@ -90,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | эль стрипер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:25:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601345225799 |
-| Players | 5/8 |
-| Host Name | Olha o Cruzamento |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 09:24:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601346025494 |
-| Players | 2/15 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
 
 
 |  | ot3_necropolis_ffa |
