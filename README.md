@@ -4,29 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601848807100 |
-| Players | 9/10 |
-| Host Name | Momam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:53:44 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601850234829 |
-| Players | 6/7 |
-| Host Name | Быдло |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:54:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531601851809018 |
 | Players | 1/10 |
 | Host Name | GANS PROVANS |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:56:07 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601852607723 |
+| Players | 2/7 |
+| Host Name | OG GG OGG |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 20:56:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:50:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601851803859 |
-| Players | 7/8 |
-| Host Name | dopamine loss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:07 |
+| Lobby ID | 28531601852417344 |
+| Players | 5/24 |
+| Host Name | meow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:56:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601851933456 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Nevermind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:56:13 |
@@ -128,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:55:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601852490755 |
-| Players | 1/15 |
-| Host Name | GIRL FROM 734 <3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601852433422 |
-| Players | 2/8 |
-| Host Name | Sadness |
+| Lobby ID | 28531601852626338 |
+| Players | 1/8 |
+| Host Name | наказатель |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601852417344 |
-| Players | 3/24 |
-| Host Name | meow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 20:56:36 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:56:47 |
 
 
