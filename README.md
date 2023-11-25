@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601388607764 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Gwiza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:52:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601387308070 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:49:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601386011746 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 10:47:12 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601388668401 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Captain Rick Hunter |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:52:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601386326193 |
-| Players | 14/15 |
-| Host Name | WAWITA DE 18 AÑITOS |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:47:49 |
 
 
