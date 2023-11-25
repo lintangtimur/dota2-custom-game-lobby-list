@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601524307269 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Annera |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:47:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601522775325 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SUPERpyperHERO |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:45:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601525373476 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | HusnutDoterskii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:49:05 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601525568408 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | I'm Finished |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:49:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601525600700 |
-| Players | 1/10 |
-| Host Name | HOWSHIT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:49:25 |
+| Lobby ID | 28531601525681682 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 14:49:32 |
 
 
