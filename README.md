@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601530367272 |
-| Players | 9/10 |
-| Host Name | Saharat_USA |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:56:15 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601533855627 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Mt of torque |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:01:16 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601533399329 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:00:36 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601532792855 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:59:42 |
@@ -87,17 +78,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601533910866 |
 | Players | 7/10 |
-| Host Name | IvanZolo |
+| Host Name | ruined image |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 15:01:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601533069371 |
-| Players | 13/15 |
-| Host Name | Moccio 希望 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:00:06 |
+| Lobby ID | 28531601534393241 |
+| Players | 4/15 |
+| Host Name | Основатель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 15:02:03 |
 
 
