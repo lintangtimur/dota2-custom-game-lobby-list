@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602363811922 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SunnY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:50:33 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602368310423 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 泡泡男孩 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:58:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602368308094 |
-| Players | 1/5 |
-| Host Name | OC |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:58:10 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602367987010 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Eloyito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:37 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602368185833 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | I lost my motivation |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:58 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602368325312 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Cvas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:58:12 |
