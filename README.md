@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 12:36:07 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601443812259 |
+| Players | 1/5 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:31 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601443199938 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601443687324 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TitinN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:38:17 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601442399687 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | anyvay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:57 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601441667911 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | canadian_noob |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:34:39 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601442365877 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:35:53 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601443503679 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 12:37:57 |
@@ -99,5 +108,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sark |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 12:38:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601443723969 |
+| Players | 8/10 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601443727343 |
+| Players | 1/24 |
+| Host Name | drogos |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601443740979 |
+| Players | 3/8 |
+| Host Name | Конский ХЕР |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601443802900 |
+| Players | 5/8 |
+| Host Name | Water |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 12:38:30 |
 
 
