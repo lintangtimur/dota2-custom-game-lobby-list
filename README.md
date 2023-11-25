@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601933329664 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | VeveritaUcigasa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:01:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601935134436 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | VanAugurr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 22:03:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601936235776 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | Толик 3 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 22:04:01 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601936231495 |
-| Players | 1/8 |
-| Host Name | absolute ALESHA |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 22:04:01 |
+| Lobby ID | 28531601935434760 |
+| Players | 5/8 |
+| Host Name | Грязный гуч |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 22:03:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,21 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 22:04:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601936550529 |
-| Players | 1/8 |
-| Host Name | . |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 22:04:17 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601936635768 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | ꃅꍟꊼ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 22:04:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601936769891 |
+| Players | 3/8 |
+| Host Name | Ех |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 22:04:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601936817867 |
+| Players | 1/8 |
+| Host Name | absolute ALESHA |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 22:04:30 |
 
 
