@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601764257263 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DayDreamer |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:41:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601772325651 |
-| Players | 9/10 |
-| Host Name | STFU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:48:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,39 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:52:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601777001763 |
-| Players | 7/8 |
-| Host Name | melancholy.coffee |
+| Lobby ID | 28531601777589631 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:52:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:53:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601777449838 |
-| Players | 1/8 |
-| Host Name | Ты Face |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:53:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601777473777 |
-| Players | 1/8 |
-| Host Name | Xui |
+| Lobby ID | 28531601777533153 |
+| Players | 2/10 |
+| Host Name | чмокозомбик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:53:19 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:53:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601777482960 |
-| Players | 1/8 |
-| Host Name | 321 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Saturday, November 25, 2023 19:53:20 |
+| Lobby ID | 28531601776461544 |
+| Players | 4/8 |
+| Host Name | sittings na |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 19:52:24 |
 
 
