@@ -14,28 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602322009792 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ...:::A-J:::... |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:08 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602322190037 |
-| Players | 1/7 |
-| Host Name | tragic 4-5 pos 9 y.o. |
+| Lobby ID | 28531602322192364 |
+| Players | 4/10 |
+| Host Name | predohranitel |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602321601931 |
-| Players | 11/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 04:45:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,28 +76,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602321797568 |
-| Players | 6/8 |
-| Host Name | 85.RAVAR.85 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 04:45:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28531602322194096 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Kerra愛L |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:46:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602322192364 |
-| Players | 1/10 |
-| Host Name | predohranitel |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:46:23 |
+| Lobby ID | 28531602322353771 |
+| Players | 1/24 |
+| Host Name | >.< |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 04:46:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602322350458 |
+| Players | 4/8 |
+| Host Name | saltvattenmelon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:46:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602322381693 |
+| Players | 3/8 |
+| Host Name | Всеволод Шойгуши |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:46:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602322384955 |
+| Players | 4/8 |
+| Host Name | pray for 666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:46:40 |
 
 
