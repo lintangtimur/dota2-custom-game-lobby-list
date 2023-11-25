@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:25:07 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601641942624 |
+| Players | 1/10 |
+| Host Name | ID : T41104 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 17:27:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601632181491 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601641194920 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | itry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 17:26:33 |
@@ -54,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ExSide- |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:27:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601641821303 |
-| Players | 1/8 |
-| Host Name | Clint Eastwood |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:27:23 |
 
 
