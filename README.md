@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:03:06 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601336331877 |
-| Players | 2/7 |
-| Host Name | 𝖒𝖊𝕽 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 09:05:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601335678292 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601335399804 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 09:03:04 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 09:04:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601335875449 |
-| Players | 6/8 |
-| Host Name | AQUI LLEGO TU TIBURON |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 09:04:10 |
+| Lobby ID | 28531601336350531 |
+| Players | 2/10 |
+| Host Name | Eld |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 09:05:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601335937460 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:04:19 |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601336282233 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 09:05:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601336350531 |
-| Players | 2/10 |
-| Host Name | Eld |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 09:05:14 |
 
 
