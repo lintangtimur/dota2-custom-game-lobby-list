@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601490981741 |
+| Players | 2/10 |
+| Host Name | kaaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:57:43 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601489799646 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | z[A]zeN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:55:52 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601485781087 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | IO 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:34 |
@@ -65,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:53:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601489552294 |
-| Players | 14/15 |
-| Host Name | LvL99PartyAnimal |
+| Lobby ID | 28531601490800647 |
+| Players | 5/8 |
+| Host Name | ♡ |
 | Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:55:29 |
+| Lobby Creation Time | Saturday, November 25, 2023 13:57:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601490740946 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | na ave mashina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:57:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601490800647 |
-| Players | 5/8 |
-| Host Name | ♡ |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:57:26 |
 
 
