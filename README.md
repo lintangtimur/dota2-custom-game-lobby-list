@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:26:08 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601552143941 |
+| Players | 1/5 |
+| Host Name | kazulki mazulki |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 15:26:43 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601546523189 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:19:02 |
@@ -23,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601550764574 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | K(-)МШоТ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:24:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601550801013 |
-| Players | 6/8 |
-| Host Name | muchas gracias |
+| Lobby ID | 28531601552153153 |
+| Players | 1/15 |
+| Host Name | Why So Ez? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 15:24:53 |
+| Lobby Creation Time | Saturday, November 25, 2023 15:26:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601551607525 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | W3!rD0 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:25:59 |
