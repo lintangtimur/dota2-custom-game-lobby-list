@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601384676699 |
 | Players | 8/24 |
-| Host Name | CraZzy |
+| Host Name | Arcade Gannon |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 25, 2023 10:44:33 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601384935662 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | IDFs |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601385205950 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Mr... |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:36 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:45:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601381912895 |
-| Players | 9/10 |
-| Host Name | estoy  cansado jefe |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 10:38:59 |
+| Lobby ID | 28531601385829421 |
+| Players | 2/15 |
+| Host Name | Leonidas |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 10:46:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601385890830 |
+| Players | 1/15 |
+| Host Name | антошка_картошка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 10:46:57 |
 
 
