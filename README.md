@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:02:49 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601862147586 |
-| Players | 1/10 |
-| Host Name | Creation~Delete |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 21:04:35 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 20:41:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601861954897 |
-| Players | 1/15 |
-| Host Name | зверюга |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:04:26 |
+| Lobby ID | 28531601862209393 |
+| Players | 4/24 |
+| Host Name | FEH |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 21:04:38 |
 
 
 |  | ot3_gardens_duo |
@@ -113,45 +104,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601851426429 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Mori Qualme |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:55:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601861953909 |
-| Players | 1/15 |
-| Host Name | Devil.Jin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:04:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601861668415 |
-| Players | 4/8 |
-| Host Name | SoreX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:04:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601861501842 |
-| Players | 3/10 |
-| Host Name | clxseiNfluX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 21:04:04 |
+| Lobby ID | 28531601862233150 |
+| Players | 1/8 |
+| Host Name | ИГРАЮ_МЫШКОЙ |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, November 25, 2023 21:04:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601861987938 |
-| Players | 7/15 |
-| Host Name | боцман |
+| Players | 12/15 |
+| Host Name | Fantalover |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:04:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601862576056 |
+| Players | 1/8 |
+| Host Name | Mika |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 25, 2023 21:04:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601860869528 |
+| Players | 13/15 |
+| Host Name | ThisLifeRiding® |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 21:03:32 |
 
 
