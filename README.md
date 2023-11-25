@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 08:45:30 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601333549896 |
+| Players | 1/5 |
+| Host Name | BamBimBum |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 08:58:49 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601331987060 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Zé Maria |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:22 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601331966810 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Stefan Pragner |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:20 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601331972421 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Big Daddy Sweet (BDS) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 08:55:20 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601331526217 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Хороняка |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:54:22 |
@@ -86,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601332949838 |
-| Players | 2/15 |
-| Host Name | Deus Vult |
+| Players | 1/15 |
+| Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 08:57:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601330850912 |
-| Players | 9/10 |
-| Host Name | Princesa Yogurt Helado |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 08:52:52 |
 
 
 |  | ot3_desert_octet |
