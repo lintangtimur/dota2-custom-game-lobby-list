@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Lyoto Machista |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | имо кфу enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601667335588 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | zLostControl |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:19 |
@@ -83,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:03:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601671714088 |
-| Players | 6/8 |
-| Host Name | vularta |
+| Lobby ID | 28531601671846255 |
+| Players | 6/10 |
+| Host Name | Saturn.net |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:04:31 |
+| Lobby Creation Time | Saturday, November 25, 2023 18:04:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601671730456 |
+| Lobby ID | 28531601671934250 |
 | Players | 3/15 |
-| Host Name | F.H |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 18:04:32 |
+| Host Name | ♡ あけおめ！ことよろ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:04:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601672062568 |
+| Players | 1/8 |
+| Host Name | AMMAR_THE_SPONGEBOB |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:04:55 |
 
 
