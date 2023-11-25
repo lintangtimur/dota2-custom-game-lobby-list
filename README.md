@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601394401906 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601394332694 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:04:13 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601395703634 |
-| Players | 7/8 |
-| Host Name | cockygod |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:07:02 |
+| Lobby ID | 28531601394742325 |
+| Players | 4/8 |
+| Host Name | skoro:leto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601396384150 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Heraldo de corazon |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:08:25 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dialed in. |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 11:05:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601394742325 |
-| Players | 3/8 |
-| Host Name | skoro:leto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 11:05:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601395405756 |
-| Players | 13/15 |
-| Host Name | ez mid |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:06:25 |
 
 
