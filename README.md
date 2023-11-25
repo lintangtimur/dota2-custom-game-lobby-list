@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601788316350 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:03:03 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mrmusaev20 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:05:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601792222715 |
+| Players | 1/5 |
+| Host Name | 冰凌 |
+| Region | Unknown |
+| Lobby Creation Time | Saturday, November 25, 2023 20:06:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601789236602 |
-| Players | 1/10 |
-| Host Name | Night.T.Gamuxs |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 25, 2023 20:03:52 |
+| Lobby ID | 28531601790985602 |
+| Players | 1/24 |
+| Host Name | Baobab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 20:05:26 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601791762861 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 20:06:07 |
@@ -95,27 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601788238652 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | jayp^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 20:02:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601790985602 |
-| Players | 1/24 |
-| Host Name | Baobab |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:05:26 |
+| Lobby ID | 28531601792205339 |
+| Players | 1/8 |
+| Host Name | Jack Hammer |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:06:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601790832067 |
-| Players | 7/8 |
-| Host Name | Агент Габена |
+| Lobby ID | 28531601792228480 |
+| Players | 1/8 |
+| Host Name | Illusion |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 20:05:18 |
+| Lobby Creation Time | Saturday, November 25, 2023 20:06:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531601792228463 |
+| Players | 4/10 |
+| Host Name | SIFAG0R |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 20:06:31 |
 
 
