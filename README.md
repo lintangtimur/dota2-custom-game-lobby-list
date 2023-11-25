@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601377575995 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Raze.EmperoR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:30:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601379337673 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | yecobxd |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 25, 2023 10:33:52 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531601379789255 |
 | Players | 2/15 |
-| Host Name | Conor McGregor |
+| Host Name | hiro |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 10:34:46 |
 
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601380197992 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | -Crash |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:35:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601380396535 |
-| Players | 8/10 |
-| Host Name | 雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 10:35:58 |
+| Lobby ID | 28531601381032487 |
+| Players | 3/15 |
+| Host Name | !_!@Neoxa |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 25, 2023 10:37:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601380930735 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ayayay |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 10:37:01 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 10:37:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601381032487 |
-| Players | 3/15 |
-| Host Name | !_!@Neoxa |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 10:37:14 |
+| Lobby ID | 28531601381176681 |
+| Players | 1/8 |
+| Host Name | Egu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 10:37:31 |
 
 
