@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 14:56:52 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28531601531762172 |
-| Players | 1/7 |
-| Host Name | Flatus Maximus |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:58:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601530419530 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601531034466 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:12 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601531548226 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | CHUPE DE CONCHAS NEGRAS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:57:56 |
