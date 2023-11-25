@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601764257263 |
-| Players | 5/10 |
-| Host Name | turnOver! |
+| Players | 4/10 |
+| Host Name | DayDreamer |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 19:41:10 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601772325651 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:48:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601760944487 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ElTioSad |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 19:38:06 |
@@ -68,55 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601772651777 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | efrdsfsdf |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 25, 2023 19:48:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601774676873 |
-| Players | 3/10 |
-| Host Name | таджик оля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:50:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601771617811 |
-| Players | 8/10 |
-| Host Name | Леха Секс |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 19:47:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601774273592 |
-| Players | 13/15 |
-| Host Name | Олег Стамина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:50:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601770921713 |
-| Players | 2/8 |
-| Host Name | stabbed granny |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:47:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601774556304 |
-| Players | 5/8 |
-| Host Name | Dol_Bil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:50:38 |
 
 
 |  | ot3_gardens_duo |
