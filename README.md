@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601637691034 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601637820751 |
-| Players | 4/8 |
-| Host Name | Nagi Seishiro- |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:22:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601637619969 |
-| Players | 10/15 |
-| Host Name | kysok от печенья |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:21:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 17:21:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601638163831 |
-| Players | 1/10 |
-| Host Name | сперма в бабке |
+| Lobby ID | 28531601638471546 |
+| Players | 2/8 |
+| Host Name | Higurashi |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 17:22:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601637177436 |
-| Players | 7/10 |
-| Host Name | anime na ave mat' v..... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 17:21:18 |
+| Lobby Creation Time | Saturday, November 25, 2023 17:23:00 |
 
 
