@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601403579888 |
-| Players | 1/10 |
-| Host Name | Hermes |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 11:22:50 |
+| Lobby ID | 28531601403671513 |
+| Players | 2/10 |
+| Host Name | ビンタング |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 11:23:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601400073125 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | купите бит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:15:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601403579758 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Imagine3MasterStuckInPubs |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:22:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601403407324 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | estoy  cansado jefe |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 11:22:30 |
@@ -59,27 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601403372672 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Влад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 11:22:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601403315953 |
-| Players | 5/8 |
-| Host Name | yo+4pezuñas |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 11:22:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601403402455 |
-| Players | 6/8 |
-| Host Name | TheSnottyMidget |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 25, 2023 11:22:29 |
 
 
