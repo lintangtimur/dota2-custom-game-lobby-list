@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602322910432 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | asuna |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:47:24 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602328206958 |
+| Lobby ID | 28531602328297627 |
 | Players | 2/8 |
-| Host Name | вглазахтемнеет |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:55:00 |
+| Host Name | Cyclone36 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 04:55:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602327345128 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | ДАВИД |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 04:53:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602327673794 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 04:54:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602328336464 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | UNDEAD EVIL |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 04:55:11 |
@@ -95,27 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602327971332 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | лапатасьйон |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:54:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602328018688 |
-| Players | 13/15 |
-| Host Name | Morde |
+| Lobby ID | 28531602328449115 |
+| Players | 6/10 |
+| Host Name | Can I? |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:54:43 |
+| Lobby Creation Time | Sunday, November 26, 2023 04:55:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602328297627 |
-| Players | 2/8 |
-| Host Name | Cyclone36 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 04:55:08 |
+| Lobby ID | 28531602328452835 |
+| Players | 1/8 |
+| Host Name | losi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:55:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602328545086 |
+| Players | 6/10 |
+| Host Name | fallenXUI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:55:29 |
 
 
