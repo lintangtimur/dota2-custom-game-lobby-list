@@ -11,22 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:55:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531601579638851 |
-| Players | 2/5 |
+| Lobby ID | 28531601579485788 |
+| Players | 5/10 |
+| Host Name | クリシャ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:03:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601579977374 |
+| Players | 2/10 |
 | Host Name | Василич |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:03:34 |
+| Lobby Creation Time | Saturday, November 25, 2023 16:04:00 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601579722607 |
+| Lobby ID | 28531601579997195 |
 | Players | 1/5 |
-| Host Name | Ippo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 16:03:40 |
+| Host Name | Flatus Maximus |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 16:04:02 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601575026047 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:57:25 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601577057296 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:00:07 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LIMBO4KA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 16:03:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601578847068 |
-| Players | 9/15 |
-| Host Name | Люблю Сашу Блауз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 16:02:30 |
 
 
