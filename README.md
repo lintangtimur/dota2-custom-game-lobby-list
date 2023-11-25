@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601745641549 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 19:23:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531601746083098 |
-| Players | 1/5 |
-| Host Name | Mr.GolF |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, November 25, 2023 19:24:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601594532545 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Shiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 16:23:36 |
@@ -65,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 19:17:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601745440245 |
-| Players | 7/15 |
-| Host Name | SHOOMEKEY |
+| Lobby ID | 28531601746017419 |
+| Players | 2/8 |
+| Host Name | Martillo |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 25, 2023 19:23:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601742959186 |
+| Players | 6/8 |
+| Host Name | @ch00$ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:23:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601739823413 |
-| Players | 21/24 |
-| Host Name | ๋ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:17:54 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:20:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,28 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601744554609 |
-| Players | 6/10 |
-| Host Name | 桜ki |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:22:31 |
+| Lobby ID | 28531601746191377 |
+| Players | 1/10 |
+| Host Name | CAMPEÓN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 19:24:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601742959186 |
-| Players | 6/8 |
-| Host Name | @ch00$ |
+| Lobby ID | 28531601746361341 |
+| Players | 5/15 |
+| Host Name | Mr. Карыч |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 19:20:57 |
+| Lobby Creation Time | Saturday, November 25, 2023 19:24:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601746360772 |
+| Players | 1/15 |
+| Host Name | rich イスラム教 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:24:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601746017419 |
+| Lobby ID | 28531601746420560 |
 | Players | 1/8 |
-| Host Name | Martillo |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 25, 2023 19:23:57 |
+| Host Name | 5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 19:24:20 |
 
 
