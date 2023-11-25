@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601489504694 |
+| Players | 1/10 |
+| Host Name | don't try me |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 13:55:24 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601487804861 |
@@ -13,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601488480560 |
-| Players | 14/15 |
-| Host Name | Tioshadow |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:53:48 |
+| Lobby ID | 28531601489325442 |
+| Players | 1/15 |
+| Host Name | Magic |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 13:55:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601485781087 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | IO 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:49:34 |
@@ -67,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601488142392 |
-| Players | 13/15 |
-| Host Name | fLexy^^ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 13:53:16 |
+| Lobby ID | 28531601489441733 |
+| Players | 2/15 |
+| Host Name | Yozh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 13:55:18 |
 
 
 |  | ot3_gardens_duo |
@@ -83,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 13:53:12 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601489451238 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 13:55:19 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601489325442 |
-| Players | 1/15 |
-| Host Name | Magic |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 25, 2023 13:55:07 |
+| Lobby ID | 28531601489486400 |
+| Players | 2/15 |
+| Host Name | LvL99PartyAnimal |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 25, 2023 13:55:22 |
 
 
