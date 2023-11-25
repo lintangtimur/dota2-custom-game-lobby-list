@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601501391600 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Big Gringo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 14:13:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601504612642 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | NDD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 25, 2023 14:18:31 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 16/24 |
+| Players | 12/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601506563788 |
-| Players | 14/15 |
-| Host Name | XØ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:21:26 |
+| Lobby ID | 28531601507117099 |
+| Players | 4/10 |
+| Host Name | Düt Düt |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601506882477 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Os #FreeGaza |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 14:21:54 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601507117099 |
-| Players | 3/10 |
-| Host Name | Düt Düt |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:22:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601507203923 |
-| Players | 7/8 |
-| Host Name | Reaper of Mars |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 14:22:23 |
 
 
