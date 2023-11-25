@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601461781045 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ALEX_MOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601462080532 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 504 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:49 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601461419835 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:09:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601460122086 |
-| Players | 14/15 |
-| Host Name | SANSEXO |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 13:07:26 |
+| Lobby ID | 28531601462527806 |
+| Players | 4/24 |
+| Host Name | Auna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:11:35 |
 
 
 |  | ot3_gardens_duo |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 13:10:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531601462527806 |
-| Players | 2/24 |
-| Host Name | Auna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 25, 2023 13:11:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601462585248 |
-| Players | 1/8 |
-| Host Name | ste |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 13:11:41 |
 
 
