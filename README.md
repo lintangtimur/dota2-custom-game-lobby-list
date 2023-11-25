@@ -2,22 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601501391600 |
+| Players | 1/10 |
+| Host Name | Big Gringo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:13:40 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601486922621 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | After Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:51:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531601500500559 |
-| Players | 6/8 |
-| Host Name | HollowKnight |
+| Lobby ID | 28531601501500829 |
+| Players | 4/10 |
+| Host Name | Baiball |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 14:12:21 |
+| Lobby Creation Time | Saturday, November 25, 2023 14:13:50 |
 
 
 |  | ot3_desert_octet |
@@ -58,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531601501389984 |
+| Lobby ID | 28531601501453918 |
 | Players | 1/24 |
 | Host Name | Black Raven |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 25, 2023 14:13:40 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 25, 2023 14:13:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531601501464228 |
+| Players | 4/15 |
+| Host Name | Slaymi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 14:13:47 |
 
 
