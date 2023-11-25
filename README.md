@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601540090656 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | lnscribed virtus werebear |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:10:08 |
@@ -38,28 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 15:14:54 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531601545400433 |
-| Players | 1/7 |
-| Host Name | 󠀡󠀡Nexulite ƸӜƷ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 25, 2023 15:17:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531601542613137 |
-| Players | 9/10 |
-| Host Name | _unnamed |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 15:13:38 |
+| Lobby ID | 28531601545228735 |
+| Players | 2/8 |
+| Host Name | mAcUiN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 15:17:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601542254680 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Nonlinear operator |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:13:08 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601543789659 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 15:15:14 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601544415109 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | zenzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 15:16:07 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rasputina |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 15:17:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601545228735 |
-| Players | 2/8 |
-| Host Name | mAcUiN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 25, 2023 15:17:14 |
 
 
