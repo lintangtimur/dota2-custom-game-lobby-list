@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601423995916 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | areyouhappy? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601423852367 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Hellsatano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 12:02:12 |
