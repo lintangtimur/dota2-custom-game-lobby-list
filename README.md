@@ -20,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 21:03:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531601865485031 |
-| Players | 3/10 |
-| Host Name | Jenny Ghermann |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 25, 2023 21:07:18 |
+| Lobby ID | 28531601859995291 |
+| Players | 2/5 |
+| Host Name | oooooooooooooooo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 21:02:49 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531601865698358 |
+| Players | 3/7 |
+| Host Name | Icy |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 25, 2023 21:07:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -140,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601865198818 |
-| Players | 4/15 |
-| Host Name | Twitch_VitSmi |
+| Players | 3/15 |
+| Host Name | МокрыйВилли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 21:07:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531601865472444 |
-| Players | 4/8 |
-| Host Name | Kikree |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 21:07:18 |
 
 
