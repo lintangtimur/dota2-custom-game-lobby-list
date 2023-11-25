@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601477833317 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:36:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601479834156 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 13:40:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601480292499 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | TurgutTaner |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 13:40:49 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601480393694 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Quispe Of the Light |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 25, 2023 13:40:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601480579012 |
+| Players | 2/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 13:41:17 |
 
 
