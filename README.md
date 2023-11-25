@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602367898528 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Ace of Sp♠︎des |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 05:57:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602381111434 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | -BLUE LABEL De JHONNIE WALKER |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:20:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602374153356 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | k'k |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:08:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602379691688 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Mile Jahacica |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 06:18:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602380953606 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 06:20:31 |
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602381449384 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Hirbodam :D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:21:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602381782679 |
-| Players | 3/8 |
-| Host Name | I'm getting worse every day |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 06:22:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602381755112 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Ярик Добрый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 06:22:01 |
