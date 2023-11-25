@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531601667522156 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 303 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:59:32 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | オールマイト |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:01:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531601669437782 |
+| Players | 1/10 |
+| Host Name | Century Toenail |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 25, 2023 18:01:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601665545897 |
-| Players | 19/24 |
+| Players | 12/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:57:08 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601668358385 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | вергез |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:00:32 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601665310174 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Femto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 17:56:51 |
@@ -86,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601669140670 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:01:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531601661719354 |
-| Players | 22/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 25, 2023 17:52:29 |
+| Lobby ID | 28531601669316959 |
+| Players | 9/15 |
+| Host Name | kakarot神 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:01:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601669557103 |
+| Players | 4/8 |
+| Host Name | Miky "52" Dyson |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 25, 2023 18:01:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531601669572869 |
+| Players | 5/8 |
+| Host Name | Окси Дима |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:01:58 |
 
 
