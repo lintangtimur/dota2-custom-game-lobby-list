@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602331796867 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | GG.Ace♠GAIMIN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 05:00:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602334380651 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | tracer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:04:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602334229003 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DONT USE X ON KUNKKA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 05:03:57 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602334115571 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Kriger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 05:03:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602334021039 |
-| Players | 4/8 |
-| Host Name | burnt flowers |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 05:03:38 |
+| Lobby ID | 28531602326614062 |
+| Players | 22/24 |
+| Host Name | Ez Go |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:52:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -130,19 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602333166260 |
-| Players | 5/10 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 05:02:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602334409430 |
-| Players | 1/24 |
-| Host Name | fgt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 05:04:13 |
+| Lobby ID | 28531602334549752 |
+| Players | 2/10 |
+| Host Name | DokStorm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 05:04:26 |
 
 
