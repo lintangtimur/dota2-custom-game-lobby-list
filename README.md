@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602295009651 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ToKyo |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 04:09:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602291845390 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | skeeteronthemic |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 04:05:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602295103280 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ❷۩❶♚Kiara♔❦۩❷ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:09:49 |
@@ -86,27 +86,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602295343188 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | spirit |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:10:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602295092501 |
-| Players | 2/10 |
-| Host Name | xXx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 04:09:49 |
+| Lobby ID | 28531602295698162 |
+| Players | 6/15 |
+| Host Name | EdyTh3Best |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 04:10:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602295525825 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | москвачкала |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 04:10:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602290262391 |
+| Players | 7/8 |
+| Host Name | WHAT XUXA FUE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 04:03:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602295666347 |
+| Players | 3/8 |
+| Host Name | Deus Vult |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:10:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602295622230 |
+| Players | 3/8 |
+| Host Name | АНАЛЬНЫЙ ПИРАТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:10:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602295727027 |
+| Players | 1/24 |
+| Host Name | Жё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 04:10:38 |
 
 
