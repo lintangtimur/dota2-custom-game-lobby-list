@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531601343233128 |
-| Players | 8/10 |
-| Host Name | Slava_Ukraine |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 25, 2023 09:20:13 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531601345320119 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601345150608 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:24:17 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531601342383419 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | JEANNE D'ARC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 25, 2023 09:18:24 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601346025494 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 09:26:08 |
