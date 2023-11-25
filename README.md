@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 25, 2023 18:14:03 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531601685818509 |
+| Players | 1/5 |
+| Host Name | Lend |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:20:49 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601667953971 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601685089254 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 25, 2023 18:19:59 |
@@ -41,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601682885791 |
-| Players | 5/10 |
-| Host Name | Syoo |
+| Players | 1/10 |
+| Host Name | Замир Безгеев |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:27 |
 
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531601683071341 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Bila |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, November 25, 2023 18:17:40 |
@@ -59,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531601678686003 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 25, 2023 18:12:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531601684927263 |
-| Players | 10/15 |
-| Host Name | twitch.tv/raumhart |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 25, 2023 18:19:48 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531601685594962 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | ranalda |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 25, 2023 18:20:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531601685758626 |
+| Players | 1/24 |
+| Host Name | I Don't Know You! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 25, 2023 18:20:45 |
 
 
