@@ -29,19 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:57 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602559816817 |
+| Players | 1/10 |
+| Host Name | Moon Knight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:22:21 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602558766320 |
-| Players | 7/8 |
-| Host Name | Atencio |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:20:33 |
+| Lobby ID | 28531602559695197 |
+| Players | 1/8 |
+| Host Name | i play for fun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:22:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602559476198 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | TestyLime<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:46 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602558698994 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:26 |
@@ -77,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602559437984 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | twitch.tv/mr_tam1r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602559695197 |
-| Players | 2/8 |
-| Host Name | 春丽 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:22:09 |
 
 
