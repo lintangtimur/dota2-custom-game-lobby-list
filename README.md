@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602577930709 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | bossbossoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:20 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602577634026 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:51:51 |
+| Lobby ID | 28531602578353860 |
+| Players | 2/15 |
+| Host Name | Whiskas Renacido <3 |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:53:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602577878177 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 梦想的核心 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602577125232 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:01 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602577201800 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:08 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CuñaoDeCarlos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602578336304 |
-| Players | 1/10 |
-| Host Name | gusyara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:52:59 |
 
 
