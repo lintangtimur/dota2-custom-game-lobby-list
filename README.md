@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602569791610 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Big Gringo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:38:59 |
@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602573953875 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Paxultek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:45:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602574522289 |
+| Players | 1/5 |
+| Host Name | Ragnaros |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:46:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602573755410 |
-| Players | 1/10 |
-| Host Name | Denis rapira |
+| Lobby ID | 28531602574338120 |
+| Players | 2/10 |
+| Host Name | -_restar_- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:45:32 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:46:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602571728449 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | WildeManBeats |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602574283127 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | INFANT ANNIHILATOR |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:23 |
@@ -95,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602574182750 |
-| Players | 2/15 |
-| Host Name | sukuna |
+| Players | 3/15 |
+| Host Name | Yato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602573778721 |
-| Players | 7/10 |
-| Host Name | nova.Deia |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:45:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602574338120 |
+| Lobby ID | 28531602574536991 |
 | Players | 1/10 |
-| Host Name | -_restar_- |
+| Host Name | Denis rapira |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:46:28 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:46:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602574599199 |
+| Players | 1/8 |
+| Host Name | Deutsu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:46:54 |
 
 
