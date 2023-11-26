@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602598125127 |
+| Players | 2/10 |
+| Host Name | HC5.  Insence™ |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:24:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602597823008 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Nobody |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:23:50 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602594513079 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:18:41 |
@@ -49,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602597948661 |
-| Players | 1/8 |
-| Host Name | Бананчики |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:24:01 |
+| Lobby ID | 28531602598039028 |
+| Players | 3/8 |
+| Host Name | Blaziken |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 13:24:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602598052177 |
+| Players | 1/15 |
+| Host Name | FD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:24:11 |
 
 
