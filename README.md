@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602578962112 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ArcsonX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:53:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602577878177 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 梦想的核心 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602578989407 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | LASTHIT MELLET |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602579863512 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579274658 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579709902 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602578684820 |
-| Players | 6/15 |
-| Host Name | chiefGui |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 12:53:32 |
+| Lobby ID | 28531602580207123 |
+| Players | 2/10 |
+| Host Name | Sucly[PROS] :) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:55:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602580143163 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Доминик де Коку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:51 |
