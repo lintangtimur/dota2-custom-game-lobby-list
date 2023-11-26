@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602561340266 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sr. Wick |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602561253288 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:46 |
