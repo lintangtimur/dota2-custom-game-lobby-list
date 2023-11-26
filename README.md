@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602619844139 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Vhiyoulette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:15 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602620595691 |
+| Players | 6/10 |
+| Host Name | puniki |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 13:57:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602619101357 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Dranxzy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:55:10 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602616818164 |
-| Players | 2/10 |
-| Host Name | 2:00 - 6 рапир |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 26, 2023 13:51:50 |
+| Lobby ID | 28531602620295068 |
+| Players | 9/15 |
+| Host Name | peru=feed |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:56:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602618676631 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | EpicCrisis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:54:33 |
@@ -87,26 +96,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602619676887 |
 | Players | 2/8 |
-| Host Name | TIDEHUNTER |
+| Host Name | Я гей |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602620295068 |
-| Players | 6/15 |
-| Host Name | peru=feed |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:56:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602620439538 |
-| Players | 1/10 |
-| Host Name | СЛЫШЬ ХУЕСОС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:57:07 |
 
 
