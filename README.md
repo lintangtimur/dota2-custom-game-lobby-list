@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602589872877 |
-| Players | 9/10 |
-| Host Name | Haiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:11:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531602590264760 |
 | Players | 1/10 |
 | Host Name | Big Gringo |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Crunchypopo |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -59,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602589739212 |
-| Players | 4/8 |
-| Host Name | фрукты не дышать |
+| Players | 2/8 |
+| Host Name | :x PEIN |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 26, 2023 13:11:17 |
 
@@ -101,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:09:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602587971672 |
-| Players | 14/15 |
-| Host Name | 50.Centaur |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 13:08:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602589820981 |
-| Players | 1/24 |
-| Host Name | zeus2014 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:11:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602590334995 |
@@ -130,10 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602590518255 |
+| Lobby ID | 28531602589820981 |
 | Players | 1/24 |
-| Host Name | The Unknown |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 13:12:30 |
+| Host Name | zeus2014 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:11:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602590634534 |
+| Players | 1/24 |
+| Host Name | 悪魔 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:12:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602590640357 |
+| Players | 1/24 |
+| Host Name | urod |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:12:41 |
 
 
