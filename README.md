@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:57:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602582332982 |
-| Players | 1/15 |
-| Host Name | !Ar3s! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:59:25 |
+| Lobby ID | 28531602582422074 |
+| Players | 1/24 |
+| Host Name | GLIU$KR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602579863512 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579274658 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
@@ -92,12 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602582422074 |
-| Players | 1/24 |
-| Host Name | GLIU$KR |
+| Lobby ID | 28531602582555694 |
+| Players | 2/15 |
+| Host Name | rawrrr |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602582601956 |
+| Players | 2/15 |
+| Host Name | Heckin' Peepers |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602582658820 |
+| Players | 1/15 |
+| Host Name | M1loman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602582671517 |
+| Players | 3/8 |
+| Host Name | Blaziken |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:58 |
 
 
