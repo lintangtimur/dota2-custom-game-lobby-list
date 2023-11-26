@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:19:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28531602559816817 |
-| Players | 8/10 |
-| Host Name | Moon Knight |
+| Lobby ID | 28531602560267194 |
+| Players | 1/7 |
+| Host Name | Fadhil Bayangan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:22:21 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:23:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602559695197 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | i play for fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:22:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602559476198 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TestyLime<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602558698994 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:26 |
@@ -86,9 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602559914896 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Legna |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:22:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602560204197 |
+| Players | 1/15 |
+| Host Name | AYAYA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:23:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602560240980 |
+| Players | 1/10 |
+| Host Name | Xd |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:23:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602560274546 |
+| Players | 1/24 |
+| Host Name | chakalito |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:23:08 |
 
 
