@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:30 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602568978724 |
+| Players | 1/10 |
+| Host Name | FU XUAN |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 12:37:38 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602567206632 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | SHAHKHOR |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:34:43 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -65,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:33:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602568899604 |
-| Players | 1/8 |
-| Host Name | массаж простаты? |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:37:31 |
+| Lobby ID | 28531602568950502 |
+| Players | 1/24 |
+| Host Name | Wo die Zitronen bluehen |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 26, 2023 12:37:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602568906401 |
+| Lobby ID | 28531602568935244 |
 | Players | 1/15 |
-| Host Name | Тётя Лиля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:37:31 |
+| Host Name | Rico |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:37:34 |
 
 
