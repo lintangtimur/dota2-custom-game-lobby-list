@@ -11,31 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:38:59 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602573040318 |
-| Players | 1/5 |
-| Host Name | クッパ姫私の嫁 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:44:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572888006 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Священная Рана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:44:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602570781507 |
-| Players | 23/24 |
-| Host Name | Zenic.邓 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:40:37 |
+| Lobby ID | 28531602569651704 |
+| Players | 8/10 |
+| Host Name | El low me hizo reflexionar |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:38:45 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602571327285 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Mr. Bean Bean |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:41:32 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602572075860 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Angel Tuero |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:46 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572370321 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | fast life |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:15 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602573032824 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:44:20 |
