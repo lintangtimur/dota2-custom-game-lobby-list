@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602567983868 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:35:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602569097521 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Darkmask29345 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602569169825 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:57 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602570010462 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Smells like Up Dawg in here |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:39:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602570118619 |
+| Players | 1/8 |
+| Host Name | Sergio Markarian |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:39:32 |
 
 
