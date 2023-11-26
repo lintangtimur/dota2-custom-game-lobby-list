@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602557900262 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | кээсер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:19:03 |
@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602561449053 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Vainglory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:25:06 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531602562822039 |
+| Players | 4/7 |
+| Host Name | ★Valawine |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:27:24 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602561947713 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:25:57 |
@@ -68,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602561340266 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Sr. Wick |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602562822760 |
-| Players | 4/8 |
-| Host Name | rosaleselian9 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:27:24 |
+| Lobby ID | 28531602562868139 |
+| Players | 1/15 |
+| Host Name | Pyssy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:27:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602562913490 |
+| Players | 1/15 |
+| Host Name | 神羅天征♿~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:27:33 |
 
 
