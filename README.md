@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:14 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602585830080 |
+| Players | 1/10 |
+| Host Name | konjiii |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 13:05:10 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Hasinos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602584283114 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | tilin insano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:02:42 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602585147467 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | white |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:06 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602585291858 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | MADжестик |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:20 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602585531556 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | La-Z Rider |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:42 |
@@ -113,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602585586778 |
-| Players | 1/15 |
-| Host Name | HaileN- |
+| Players | 2/15 |
+| Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:47 |
 
