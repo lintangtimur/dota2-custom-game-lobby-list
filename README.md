@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602590966790 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:13:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602594513079 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:18:41 |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602595716571 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Sign the Contract Big Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:20:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602596186549 |
-| Players | 1/15 |
-| Host Name | шмон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:21:18 |
 
 
