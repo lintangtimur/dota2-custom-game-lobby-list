@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602575351476 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:48:08 |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602574283127 |
-| Players | 1/24 |
-| Host Name | 12% |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 26, 2023 12:46:23 |
+| Lobby ID | 28531602575663097 |
+| Players | 1/15 |
+| Host Name | Ez Wil |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:48:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602575795051 |
-| Players | 6/8 |
-| Host Name | Blaziken |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 12:48:52 |
+| Lobby ID | 28531602575970176 |
+| Players | 4/10 |
+| Host Name | Fox |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:49:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602575781395 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | peru=feed |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:48:50 |
@@ -113,27 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602575773464 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Zoé |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:48:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602575663097 |
-| Players | 1/15 |
-| Host Name | Ez Wil |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:48:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602575970176 |
-| Players | 2/10 |
-| Host Name | Fox |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:49:09 |
+| Lobby ID | 28531602576063858 |
+| Players | 3/24 |
+| Host Name | CharlieBrown |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:49:18 |
 
 
