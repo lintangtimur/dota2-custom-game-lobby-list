@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602573453812 |
+| Lobby ID | 28531602573520964 |
 | Players | 1/5 |
 | Host Name | Peach |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:45:02 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:45:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602569651704 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | El low me hizo reflexionar |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:38:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602572534285 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | peru=feed |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:31 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:44:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602572777677 |
+| Players | 4/8 |
+| Host Name | i play for fun |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602573591864 |
+| Players | 1/15 |
+| Host Name | BUSCARE EN PERU ME VALE VERGA |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:45:16 |
 
 
