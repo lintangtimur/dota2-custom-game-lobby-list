@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602581258659 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:57:40 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531602582422074 |
 | Players | 3/24 |
-| Host Name | GLIU$KR |
+| Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602580400249 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Jack (El Cyborg Hanma) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602580389874 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602579863512 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579274658 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
@@ -130,19 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602582723227 |
-| Players | 6/8 |
-| Host Name | Sergio Markarian |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:04 |
+| Lobby ID | 28531602582921020 |
+| Players | 1/8 |
+| Host Name | I know the way to lose |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:00:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602582806674 |
+| Lobby ID | 28531602582980797 |
 | Players | 1/8 |
 | Host Name | Pride |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:13 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:00:31 |
 
 
