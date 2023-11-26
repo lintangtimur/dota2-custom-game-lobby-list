@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602585586778 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:47 |
