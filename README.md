@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602617619845 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | t_Legenda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:53:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602616086244 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | daddy's little slug |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:50:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602605170636 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:46 |
@@ -113,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602617371583 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | sick and tired |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 26, 2023 13:52:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602617682814 |
-| Players | 1/15 |
-| Host Name | SheblaEbla |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:53:06 |
+| Lobby ID | 28531602617810901 |
+| Players | 1/24 |
+| Host Name | enjoyer jesse |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:53:17 |
 
 
