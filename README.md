@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602557361022 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:18:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602564079614 |
+| Players | 3/10 |
+| Host Name | Shinzou wo Sasageyo! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:29:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602563615885 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 나비 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602564096901 |
+| Players | 2/10 |
+| Host Name | KICK MADARACHYO |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:29:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602564109489 |
+| Players | 1/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:29:33 |
 
 
