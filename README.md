@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602789747248 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Fulgencio Batista |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 17:34:48 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602789083974 |
-| Players | 10/24 |
-| Host Name | GOOD GAME |
+| Players | 8/24 |
+| Host Name | 謙虚さを身につけろ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 17:33:59 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602789470223 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | kill me |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:34:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602789122279 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | af af |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:34:02 |
@@ -86,9 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602789712460 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ET CETERA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:34:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602789941289 |
+| Players | 2/24 |
+| Host Name | calm down |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602789927381 |
+| Players | 1/24 |
+| Host Name | 大鲶鱼 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602790009864 |
+| Players | 1/24 |
+| Host Name | noob |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:07 |
 
 
