@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602559695197 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | i play for fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:22:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602559476198 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | TestyLime<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602558698994 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:26 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | twitch.tv/mr_tam1r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602559914896 |
+| Players | 1/8 |
+| Host Name | Legna |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:22:31 |
 
 
