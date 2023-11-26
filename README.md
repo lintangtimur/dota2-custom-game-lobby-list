@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602578962112 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | ArcsonX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:53:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602579341136 |
-| Players | 1/5 |
-| Host Name | Tunometecabrasaramambiche |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:54:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602577201800 |
-| Players | 20/24 |
-| Host Name | Silhouette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:51:08 |
+| Lobby ID | 28531602578989407 |
+| Players | 2/10 |
+| Host Name | LASTHIT MELLET |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:54:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602578247850 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CuñaoDeCarlos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:50 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602579330650 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | shinesz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:34 |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:53:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602578989407 |
-| Players | 2/10 |
-| Host Name | LASTHIT MELLET |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:54:01 |
+| Lobby ID | 28531602579616229 |
+| Players | 1/24 |
+| Host Name | Ky |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 12:55:01 |
 
 
