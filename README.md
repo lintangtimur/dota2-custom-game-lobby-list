@@ -2,102 +2,75 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602621137765 |
-| Players | 4/10 |
-| Host Name | HC5.  Insence™ |
+| Lobby ID | 28531602774952483 |
+| Players | 1/5 |
+| Host Name | Nikola |
 | Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 13:58:07 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:16:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602621722005 |
-| Players | 1/10 |
-| Host Name | GANS PROVANS |
+| Lobby ID | 28531602778198810 |
+| Players | 5/10 |
+| Host Name | crazy362 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:58:58 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:20:38 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602621445536 |
-| Players | 8/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:58:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602619767495 |
-| Players | 9/10 |
-| Host Name | Сквиртуоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:56:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602480761596 |
-| Players | 1/24 |
-| Host Name | Dayman, Fighter of the Nightman |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602621378912 |
-| Players | 6/8 |
-| Host Name | Печаль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:58:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602619808740 |
-| Players | 3/8 |
-| Host Name | кланийся [hardwork54] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:56:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602621023094 |
-| Players | 3/8 |
-| Host Name | Atencio |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:57:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602613648683 |
-| Players | 17/24 |
-| Host Name | MERLYN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:47:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602619676887 |
-| Players | 3/8 |
-| Host Name | TIDEHUNTER |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:56:00 |
+| Lobby ID | 28531602779575097 |
+| Players | 5/10 |
+| Host Name | WoTianMu |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 17:22:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602620818937 |
-| Players | 7/15 |
-| Host Name | ac7 |
+| Lobby ID | 28531602779113722 |
+| Players | 12/15 |
+| Host Name | 異體字爲為为畫畵画線 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:21:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602744265902 |
+| Players | 13/24 |
+| Host Name | RiftBreaker |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 16:38:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602779253351 |
+| Players | 7/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 17:21:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602778987398 |
+| Players | 6/10 |
+| Host Name | so |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:57:39 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:21:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602779705553 |
+| Players | 2/8 |
+| Host Name | yesshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 17:22:30 |
 
 
