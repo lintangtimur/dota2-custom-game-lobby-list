@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602559476198 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TestyLime<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602558698994 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:26 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602560298680 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | 叛徒 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:23:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602560204197 |
-| Players | 1/15 |
-| Host Name | AYAYA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:23:01 |
 
 
 |  | ot3_gardens_duo |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:23:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602560614240 |
-| Players | 1/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:23:42 |
 
 
