@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602559187442 |
+| Lobby ID | 28531602559320979 |
 | Players | 2/5 |
 | Host Name | JHON EL SALCHICHON WICK |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:21:17 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:21:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602558765188 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Juanito Quespe To Pape |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:33 |
