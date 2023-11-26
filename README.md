@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:41 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602581258659 |
-| Players | 9/10 |
-| Host Name | How Do I Play? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:57:40 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602582422074 |
-| Players | 3/24 |
+| Players | 12/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602579863512 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:25 |
@@ -74,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602577721005 |
-| Players | 4/10 |
-| Host Name | Yatoro Jr |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:51:59 |
+| Lobby ID | 28531602582723227 |
+| Players | 6/8 |
+| Host Name | Sergio Markarian |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:00:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602582273175 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Well played |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:19 |
@@ -130,19 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602582921020 |
+| Lobby ID | 28531602583054844 |
 | Players | 1/8 |
-| Host Name | I know the way to lose |
+| Host Name | never win |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602582980797 |
-| Players | 1/8 |
-| Host Name | Pride |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:31 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:00:39 |
 
 
