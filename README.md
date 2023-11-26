@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602574182750 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Yato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602571728449 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | WildeManBeats |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572777677 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | i play for fun |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602574283127 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | INFANT ANNIHILATOR |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:23 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Manguito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602575041631 |
+| Players | 2/8 |
+| Host Name | A GUN WITH ONE BULLET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:47:37 |
 
 
