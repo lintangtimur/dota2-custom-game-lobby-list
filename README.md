@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:34 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28531602613889045 |
+| Players | 3/7 |
+| Host Name | J37q-神圣的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:47:35 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602613065219 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | KUTKH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:23 |
@@ -101,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602612880415 |
-| Players | 3/8 |
-| Host Name | Paranoiqqq:D |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:46:06 |
+| Lobby ID | 28531602613717874 |
+| Players | 2/15 |
+| Host Name | Ez Wil |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 13:47:20 |
 
 
 |  | ot3_desert_octet |
@@ -119,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:47:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602613717874 |
-| Players | 2/15 |
-| Host Name | Ez Wil |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 13:47:20 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602613775750 |
-| Players | 1/10 |
-| Host Name | El low me hizo reflexionar |
+| Lobby ID | 28531602606204624 |
+| Players | 9/10 |
+| Host Name | WhIn.Calichin |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:47:25 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:36:18 |
 
 
