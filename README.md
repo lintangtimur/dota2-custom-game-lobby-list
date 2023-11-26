@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602618309738 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ht |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:54:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602618704080 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Just Do It |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:54:35 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Я гей |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:55:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602619322135 |
-| Players | 6/8 |
-| Host Name | jakeYy |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 26, 2023 13:55:29 |
 
 
