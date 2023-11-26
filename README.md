@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:41 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602578526280 |
+| Players | 3/10 |
+| Host Name | pepe |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:53:17 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602578059478 |
@@ -22,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602577930709 |
-| Players | 13/15 |
-| Host Name | bossbossoff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:52:20 |
+| Lobby ID | 28531602578557641 |
+| Players | 3/15 |
+| Host Name | chiefGui |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 12:53:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602578353860 |
-| Players | 2/15 |
-| Host Name | Whiskas Renacido <3 |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:53:01 |
+| Lobby ID | 28531602578247850 |
+| Players | 2/10 |
+| Host Name | CuñaoDeCarlos |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:52:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,48 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602575795051 |
-| Players | 1/8 |
-| Host Name | SOPHIA- |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 12:48:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602577878177 |
-| Players | 5/8 |
-| Host Name | 梦想的核心 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:52:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602577125232 |
-| Players | 22/24 |
-| Host Name | Panda |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:51:01 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602577201800 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602578247850 |
-| Players | 2/10 |
-| Host Name | CuñaoDeCarlos |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:52:50 |
+| Lobby ID | 28531602577878177 |
+| Players | 4/8 |
+| Host Name | 梦想的核心 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:52:15 |
 
 
