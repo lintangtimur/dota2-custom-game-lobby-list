@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602790856464 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Finn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:36:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602791593306 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ttv/te_tyanka |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:37:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602791497453 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | 。。。。 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:36:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602791083412 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Tá muito branco meu filho! |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 26, 2023 17:36:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602792074382 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Ниссан Жук |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:37:36 |
