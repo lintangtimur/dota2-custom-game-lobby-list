@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602578989407 |
-| Players | 7/10 |
-| Host Name | LASTHIT MELLET |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:54:01 |
+| Lobby ID | 28531602578684820 |
+| Players | 13/15 |
+| Host Name | chiefGui |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 26, 2023 12:53:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602579863512 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579709902 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:10 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jack (El Cyborg Hanma) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602578684820 |
-| Players | 13/15 |
-| Host Name | chiefGui |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 12:53:32 |
 
 
