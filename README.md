@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602784382948 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Fulgencio Batista |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 17:28:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602788115333 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:32:48 |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 17:32:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602788478216 |
+| Players | 6/15 |
+| Host Name | コック |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:33:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602788132265 |
+| Players | 14/15 |
+| Host Name | Hentacle Tentai |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:32:50 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602782251110 |
-| Players | 23/24 |
-| Host Name | NINO` |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 17:25:37 |
+| Lobby ID | 28531602788617347 |
+| Players | 2/24 |
+| Host Name | Almond Butter Honey |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:33:25 |
 
 
