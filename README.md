@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602605440368 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:35:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602602991431 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:32 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602606204624 |
+| Players | 2/10 |
+| Host Name | Fox |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:36:18 |
 
 
