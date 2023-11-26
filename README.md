@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:14 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602588048411 |
+| Players | 1/5 |
+| Host Name | 无聊过来转转 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:08:37 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Hasinos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602586510512 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | -Crash |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:06:13 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602585586778 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:47 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602585374531 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | XXX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:28 |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602587889718 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Не ошибаюсь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:08:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602587971672 |
+| Players | 2/15 |
+| Host Name | 50.Centaur |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 13:08:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602587997335 |
+| Players | 1/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:08:32 |
 
 
