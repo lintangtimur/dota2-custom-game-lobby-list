@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602557361022 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:18:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602561517801 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Deimos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:25:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602560240980 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Xd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:23:05 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602561340266 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Sr. Wick |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602559437984 |
-| Players | 14/15 |
-| Host Name | twitch.tv/mr_tam1r |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:21:42 |
+| Lobby ID | 28531602561947713 |
+| Players | 3/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:25:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602561253288 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:46 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | я турбо демон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:26:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602561947713 |
-| Players | 3/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:25:57 |
 
 
