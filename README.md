@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602796605576 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:42:59 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602798534449 |
-| Players | 5/15 |
-| Host Name | F.H |
+| Players | 4/15 |
+| Host Name | legenda |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:45:16 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602789083974 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 17:33:59 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602798628259 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | This is your terrible death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:45:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602798791107 |
+| Players | 4/8 |
+| Host Name | Няшка |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:45:34 |
 
 
