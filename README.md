@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602567206632 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SHAHKHOR |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:34:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602567454194 |
-| Players | 12/15 |
-| Host Name | Heckin' Peepers |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:35:07 |
+| Lobby ID | 28531602568543171 |
+| Players | 2/10 |
+| Host Name | Tikovka <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:36:55 |
 
 
 |  | ot3_desert_octet |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | массаж простаты? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:36:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602568543171 |
-| Players | 1/10 |
-| Host Name | Tikovka <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:36:55 |
 
 
