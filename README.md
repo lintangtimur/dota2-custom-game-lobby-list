@@ -22,29 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602610062394 |
-| Players | 1/10 |
-| Host Name | [CrispyChicken] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:41:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28531602610171468 |
 | Players | 1/10 |
 | Host Name | 달빛조각사 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:42:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602610356030 |
-| Players | 1/10 |
-| Host Name | Rylai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:42:24 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602609754258 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | https:/ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:41:30 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602609558224 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | popka bobra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:41:13 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602608561373 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Salival |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:39:45 |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602608580417 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Vito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:39:47 |
@@ -194,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602610191419 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:42:10 |
