@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602612501503 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MORPHEUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:45:33 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Destiny |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602613547961 |
+| Players | 3/5 |
+| Host Name | J37q-神圣的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:47:05 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602605170636 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | El cierra potos |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:46 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602613009319 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Aza阿扎 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:18 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602612427078 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ☠︎☠︎☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:45:27 |
@@ -103,19 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602613533345 |
-| Players | 4/8 |
-| Host Name | рампейджмастер |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 26, 2023 13:47:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602613536652 |
-| Players | 6/8 |
-| Host Name | Serenya |
+| Lobby ID | 28531602612880415 |
+| Players | 2/8 |
+| Host Name | Paranoiqqq:D |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:47:04 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:46:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602613648683 |
+| Players | 1/24 |
+| Host Name | MERLYN |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:47:14 |
 
 
