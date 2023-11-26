@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602573953875 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Paxultek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:45:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602569651704 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | El low me hizo reflexionar |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:38:45 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602574135634 |
-| Players | 2/8 |
-| Host Name | Let 雨 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:46:08 |
+| Lobby ID | 28531602573755410 |
+| Players | 1/10 |
+| Host Name | Denis rapira |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:45:32 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602572075860 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Angel Tuero |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:46 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602574182750 |
+| Players | 1/15 |
+| Host Name | sukuna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:46:13 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602573755410 |
-| Players | 1/10 |
-| Host Name | Denis rapira |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:45:32 |
+| Lobby ID | 28531602573778721 |
+| Players | 7/10 |
+| Host Name | nova.Deia |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:45:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602574283127 |
+| Players | 1/24 |
+| Host Name | INFANT ANNIHILATOR |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 26, 2023 12:46:23 |
 
 
