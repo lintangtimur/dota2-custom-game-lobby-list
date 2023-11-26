@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:02:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602584553558 |
-| Players | 1/15 |
-| Host Name | Glitch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:03:09 |
+| Lobby ID | 28531602584283114 |
+| Players | 2/8 |
+| Host Name | tilin insano |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:02:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602583470458 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MAMYT PAXAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:01:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602582555694 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | rawrrr |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:47 |
@@ -104,18 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 3/24 |
-| Host Name | 带把萌娘 |
+| Players | 1/24 |
+| Host Name | Hasinos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602580389874 |
+| Players | 9/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:56:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602584755356 |
+| Players | 2/15 |
+| Host Name | Heckin' Peepers |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 13:03:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602584283114 |
-| Players | 2/8 |
-| Host Name | tilin insano |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:02:42 |
+| Lobby ID | 28531602584762717 |
+| Players | 1/8 |
+| Host Name | Muerta Lunga Carry Karunga |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 26, 2023 13:03:29 |
 
 
