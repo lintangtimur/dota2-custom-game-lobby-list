@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:00:59 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602583481881 |
+| Players | 1/10 |
+| Host Name | Siskaeee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:01:23 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602582422074 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
@@ -68,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579274658 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602582723227 |
-| Players | 6/8 |
-| Host Name | Sergio Markarian |
+| Lobby ID | 28531602583494649 |
+| Players | 1/15 |
+| Host Name | CABO |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:04 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:01:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602582273175 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Well played |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:19 |
@@ -113,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602582658820 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | M1loman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602583313837 |
-| Players | 3/8 |
-| Host Name | Печаль |
+| Lobby ID | 28531602583470458 |
+| Players | 2/10 |
+| Host Name | MAMYT PAXAL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:01:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602583406185 |
-| Players | 1/15 |
-| Host Name | HaileN- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:01:15 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:01:22 |
 
 
