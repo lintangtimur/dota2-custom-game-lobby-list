@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602795409969 |
-| Players | 8/10 |
-| Host Name | Fr33Slav3 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:41:33 |
+| Lobby ID | 28531602796154513 |
+| Players | 1/10 |
+| Host Name | ChunChunmaru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:42:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602796154513 |
-| Players | 1/10 |
-| Host Name | ChunChunmaru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:42:27 |
+| Lobby ID | 28531602795409969 |
+| Players | 8/10 |
+| Host Name | Fr33Slav3 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:41:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602786672074 |
-| Players | 23/24 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:31:02 |
+| Lobby ID | 28531602794379550 |
+| Players | 24/24 |
+| Host Name | g |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:40:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602796454296 |
-| Players | 12/15 |
-| Host Name | EnotRed |
+| Lobby ID | 28531602796844266 |
+| Players | 4/15 |
+| Host Name | Winni |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:42:48 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:43:15 |
 
 
 |  | ot3_gardens_duo |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:42:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602795693622 |
-| Players | 8/10 |
-| Host Name | konchikpalca |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:41:54 |
 
 
