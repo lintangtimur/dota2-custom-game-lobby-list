@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602566781675 |
-| Players | 8/10 |
-| Host Name | GANS PROVANS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:34:00 |
+| Lobby ID | 28531602569518747 |
+| Players | 2/5 |
+| Host Name | Firdis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:38:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602568897807 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602567206632 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | SHAHKHOR |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:34:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602566693544 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:33:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602569178764 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | El Peke 3k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:58 |
@@ -90,5 +90,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Miracle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602567454194 |
+| Players | 13/15 |
+| Host Name | canadian_noob |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:35:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602569478565 |
+| Players | 2/24 |
+| Host Name | Aerosalt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:38:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602569489759 |
+| Players | 1/8 |
+| Host Name | LuppieNinja ファントム |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:38:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602569565455 |
+| Players | 4/10 |
+| Host Name | AdmiralButters |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:38:37 |
 
 
