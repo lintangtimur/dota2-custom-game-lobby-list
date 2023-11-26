@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602577604955 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | OrangeF_sH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602571728449 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602577634026 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:51 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602575795051 |
-| Players | 3/8 |
-| Host Name | Blaziken |
+| Players | 1/8 |
+| Host Name | SOPHIA- |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 12:48:52 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602576725430 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Rick Sanchez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602577125232 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:01 |
@@ -122,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602576063858 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | CharlieBrown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:49:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602577709999 |
-| Players | 1/15 |
-| Host Name | Skadoosh |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 12:51:58 |
 
 
