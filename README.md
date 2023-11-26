@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602616489055 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Lestat |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:51:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602616348307 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Khabib fucked USA :) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:51:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602617927955 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Qwertyboom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:53:27 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602617996260 |
-| Players | 22/24 |
-| Host Name | 四个倒霉蛋与五个幸运儿 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:53:33 |
+| Lobby ID | 28531602618451455 |
+| Players | 1/10 |
+| Host Name | dlarion |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 13:54:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602605170636 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:46 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:54:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602618451455 |
-| Players | 1/10 |
-| Host Name | dlarion |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 13:54:13 |
+| Lobby ID | 28531602618568010 |
+| Players | 1/15 |
+| Host Name | xDely_999x |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:54:24 |
 
 
