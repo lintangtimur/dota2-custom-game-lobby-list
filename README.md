@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:38:59 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602573520964 |
-| Players | 1/5 |
-| Host Name | Peach |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:45:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572888006 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Священная Рана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:44:06 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602572534285 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | peru=feed |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:31 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602571327285 |
-| Players | 23/24 |
-| Host Name | Mr. Bean Bean |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:41:32 |
+| Lobby ID | 28531602572777677 |
+| Players | 4/8 |
+| Host Name | i play for fun |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602572075860 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Angel Tuero |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:46 |
@@ -95,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602573032824 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:44:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602572777677 |
-| Players | 4/8 |
-| Host Name | i play for fun |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602573591864 |
-| Players | 1/15 |
-| Host Name | BUSCARE EN PERU ME VALE VERGA |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:45:16 |
 
 
