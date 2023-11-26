@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:18:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602593491446 |
-| Players | 22/24 |
-| Host Name | Desolate |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:17:06 |
+| Lobby ID | 28531602594963387 |
+| Players | 7/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:19:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602590966790 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:13:12 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602593050051 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:16:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602594963387 |
-| Players | 7/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:19:23 |
+| Lobby ID | 28531602595716571 |
+| Players | 1/24 |
+| Host Name | Sign the Contract Big Boy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:20:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602595734579 |
+| Players | 1/24 |
+| Host Name | 啪！一个Ori |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:20:36 |
 
 
