@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602566781675 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | GANS PROVANS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:34:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602565705004 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:32:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602566900193 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:34:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602566524907 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | LiaoLiao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:33:35 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602567408632 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | DomiGrom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:35:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602567618593 |
-| Players | 3/15 |
-| Host Name | 层楼终究误少年 自由早晚乱余生 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 26, 2023 12:35:24 |
+| Lobby ID | 28531602567797902 |
+| Players | 4/8 |
+| Host Name | This is who ur reporting |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:35:41 |
 
 
 |  | ot3_gardens_duo |
