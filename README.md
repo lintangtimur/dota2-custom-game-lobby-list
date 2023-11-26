@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602576993898 |
+| Players | 1/10 |
+| Host Name | ggwp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:50:48 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602576489520 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602575068503 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | shylock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:47:40 |
@@ -38,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602571728449 |
-| Players | 23/24 |
-| Host Name | WildeManBeats |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
+| Lobby ID | 28531602576813824 |
+| Players | 3/15 |
+| Host Name | Sr. Wick |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:50:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572777677 |
 | Players | 4/8 |
-| Host Name | i play for fun |
+| Host Name | Apelsin |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
 
@@ -65,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602576063858 |
-| Players | 20/24 |
-| Host Name | CharlieBrown |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:49:18 |
+| Lobby ID | 28531602575795051 |
+| Players | 5/8 |
+| Host Name | Blaziken |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 12:48:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rick Sanchez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602576813824 |
-| Players | 3/15 |
-| Host Name | Sr. Wick |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:50:31 |
 
 
