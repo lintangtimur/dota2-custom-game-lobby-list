@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Hasinos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602586510512 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | -Crash |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:06:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602585599737 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Священная Рана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602585586778 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602582555694 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Gamer |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602586641981 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ВОНЮЧАЯ_ЖОПА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:06:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602586982932 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | amacedador de chinos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:06:57 |
