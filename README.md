@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531602589555676 |
-| Players | 9/10 |
-| Host Name | VelCro |
+| Lobby ID | 28531602589872877 |
+| Players | 3/10 |
+| Host Name | Haiya |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:11:00 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:11:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Crunchypopo |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602588981000 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | EBRam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:10:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602589739212 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | фрукты не дышать |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 26, 2023 13:11:17 |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602587971672 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:08:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602589803241 |
-| Players | 1/10 |
-| Host Name | SOY TÍMIDO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:11:23 |
+| Lobby ID | 28531602589820981 |
+| Players | 1/24 |
+| Host Name | zeus2014 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:11:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602589862050 |
+| Players | 1/15 |
+| Host Name | PistolApostle |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:11:29 |
 
 
