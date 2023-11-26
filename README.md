@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:48 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602577214081 |
+| Players | 1/5 |
+| Host Name | Peach |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:51:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602576489520 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602575068503 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | shylock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:47:40 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602576813824 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sr. Wick |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:31 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572777677 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Apelsin |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602575795051 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Blaziken |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 12:48:52 |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602576725430 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Rick Sanchez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602577125232 |
+| Players | 3/24 |
+| Host Name | Panda |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:51:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602577201800 |
+| Players | 2/24 |
+| Host Name | 别问，问就是菜 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:51:08 |
 
 
