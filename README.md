@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602558766320 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Atencio |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602557556230 |
-| Players | 1/8 |
-| Host Name | 春丽 |
+| Lobby ID | 28531602559476198 |
+| Players | 2/10 |
+| Host Name | TestyLime<3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:18:27 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:21:46 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602555969049 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Harvey Specter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:15:44 |
@@ -77,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602559437984 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | twitch.tv/mr_tam1r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602559476198 |
-| Players | 2/10 |
-| Host Name | TestyLime<3 |
+| Lobby ID | 28531602559695197 |
+| Players | 2/8 |
+| Host Name | 春丽 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:21:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602559636519 |
-| Players | 1/24 |
-| Host Name | chakalito |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:22:03 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:22:09 |
 
 
