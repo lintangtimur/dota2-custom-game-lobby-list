@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602613990909 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | VSKotlovan |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:47:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602614203559 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Reinhardt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:48:02 |
