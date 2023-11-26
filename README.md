@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:52:41 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602583250536 |
+| Players | 1/10 |
+| Host Name | Damaged |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:00:59 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602582422074 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602580400249 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Jack (El Cyborg Hanma) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:16 |
@@ -49,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602579863512 |
-| Players | 7/8 |
-| Host Name | - |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:55:25 |
+| Lobby ID | 28531602583054844 |
+| Players | 1/8 |
+| Host Name | never win |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:00:39 |
 
 
 |  | ot3_desert_octet |
@@ -104,27 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602582658820 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | M1loman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602582847536 |
-| Players | 1/15 |
-| Host Name | HaileN- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:17 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602583054844 |
+| Lobby ID | 28531602583313837 |
 | Players | 1/8 |
-| Host Name | never win |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:39 |
+| Host Name | Печаль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:01:06 |
 
 
