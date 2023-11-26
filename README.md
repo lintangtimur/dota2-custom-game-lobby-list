@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602560240980 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Xd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:23:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602559437984 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | twitch.tv/mr_tam1r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:42 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602560298680 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 叛徒 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:23:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602560961862 |
+| Players | 4/8 |
+| Host Name | COCO BASILE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:24:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602560994522 |
+| Players | 1/24 |
+| Host Name | JamesWebb |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:24:20 |
 
 
