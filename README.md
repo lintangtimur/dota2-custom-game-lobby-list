@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602783812901 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | f1shka |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:27:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602786715865 |
-| Players | 5/15 |
-| Host Name | ПАРИКМАХЕР |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:31:06 |
+| Lobby ID | 28531602786672074 |
+| Players | 4/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 17:31:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602786221455 |
-| Players | 8/10 |
-| Host Name | тяночка с ушками |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:30:29 |
+| Lobby ID | 28531602785851438 |
+| Players | 6/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 17:30:02 |
 
 
 |  | ot3_desert_octet |
@@ -56,39 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 17:25:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602782102458 |
-| Players | 1/8 |
-| Host Name | 76561198203261364 |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 17:25:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602785851438 |
-| Players | 2/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 17:30:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602786672074 |
-| Players | 3/24 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:31:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602786860862 |
-| Players | 7/8 |
-| Host Name | Тотальный фид |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:31:17 |
+| Lobby ID | 28531602787377099 |
+| Players | 1/24 |
+| Host Name | Cade |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:31:54 |
 
 
