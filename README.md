@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602564109489 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:29:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602563506244 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602563736485 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602563615885 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 나비 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602564096901 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KICK MADARACHYO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:29:32 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602564433645 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Zoé |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:30:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602564500636 |
+| Players | 2/15 |
+| Host Name | червяк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:30:13 |
 
 
