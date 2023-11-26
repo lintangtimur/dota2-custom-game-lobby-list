@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602564109489 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:29:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602563736485 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:55 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602564604900 |
-| Players | 5/24 |
-| Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
+| Players | 4/24 |
+| Host Name | Gampizuel |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:30:23 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602563615885 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 나비 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:43 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | червяк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:30:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602564998850 |
+| Players | 1/24 |
+| Host Name | CristhianDMC |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:31:03 |
 
 
