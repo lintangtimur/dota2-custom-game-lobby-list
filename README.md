@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:22:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602561517801 |
-| Players | 22/24 |
-| Host Name | Deimos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:25:14 |
+| Lobby ID | 28531602562170421 |
+| Players | 7/10 |
+| Host Name | я турбо демон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:26:19 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602561253288 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602562170421 |
-| Players | 2/10 |
-| Host Name | я турбо демон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:26:19 |
 
 
