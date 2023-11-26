@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602589189772 |
+| Lobby ID | 28531602589341449 |
 | Players | 1/5 |
 | Host Name | StarKiller |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:10:25 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:10:39 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602586510512 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | -Crash |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:06:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602588370558 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | SOY TÍMIDO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:09:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602587971672 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:08:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602587997335 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:08:32 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EBRam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:10:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602589221782 |
-| Players | 1/8 |
-| Host Name | Let 雨 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:10:28 |
 
 
