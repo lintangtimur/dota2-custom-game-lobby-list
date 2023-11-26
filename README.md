@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602781221496 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Lance |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:24:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602781400756 |
-| Players | 3/5 |
-| Host Name | VZ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:24:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602779253351 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 26, 2023 17:21:57 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602781184513 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ЧешуйЧатый-Пиздакрыл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:24:18 |
@@ -90,5 +81,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mc б0$$ рейтинга |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:24:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602781778873 |
+| Players | 2/15 |
+| Host Name | leVoizer |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:25:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602781802880 |
+| Players | 1/8 |
+| Host Name | 死Berserk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 17:25:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602780638727 |
+| Players | 13/15 |
+| Host Name | Tira |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 17:23:38 |
 
 
