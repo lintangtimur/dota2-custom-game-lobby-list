@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602572979059 |
+| Lobby ID | 28531602573040318 |
 | Players | 1/5 |
-| Host Name | 136718060942 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:44:15 |
+| Host Name | クッパ姫私の嫁 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:44:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572888006 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Священная Рана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:44:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602570781507 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Zenic.邓 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:40:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602572534285 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | peru=feed |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602571728449 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | WildeManBeats |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602572075860 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Angel Tuero |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:42:46 |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602572492450 |
-| Players | 6/10 |
-| Host Name | лиза |
+| Lobby ID | 28531602573032824 |
+| Players | 4/15 |
+| Host Name | Yerazog |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:43:27 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:44:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572777677 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Cuz I Remember |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602572792791 |
-| Players | 1/15 |
-| Host Name | Keal Kneegus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:43:56 |
 
 
