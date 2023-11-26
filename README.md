@@ -14,25 +14,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602613192948 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Destiny |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:34 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602613413933 |
-| Players | 1/5 |
-| Host Name | CIRAULO |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 13:46:53 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602613065219 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KUTKH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:23 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602607991180 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:38:55 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602613009319 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Aza阿扎 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:46:18 |
@@ -101,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:45:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602612880415 |
-| Players | 3/8 |
-| Host Name | Paranoiqqq:D |
+| Lobby ID | 28531602613468743 |
+| Players | 2/10 |
+| Host Name | дед инсайд канеки кен гуль 2017 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:46:06 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:46:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602613403597 |
-| Players | 1/8 |
+| Lobby ID | 28531602613533345 |
+| Players | 4/8 |
+| Host Name | рампейджмастер |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:47:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602613536652 |
+| Players | 6/8 |
 | Host Name | Serenya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:46:52 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:47:04 |
 
 
