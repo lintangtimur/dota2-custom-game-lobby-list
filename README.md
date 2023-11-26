@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Hasinos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602585599737 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Священная Рана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602585147467 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | white |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:06 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602585291858 |
-| Players | 2/8 |
-| Host Name | :x PEIN |
+| Players | 1/8 |
+| Host Name | Muerta Lunga Carry Karunga |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:20 |
 
