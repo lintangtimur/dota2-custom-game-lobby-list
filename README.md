@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602600019642 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:27:08 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:28:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602600907388 |
+| Players | 3/10 |
+| Host Name | der führer |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 26, 2023 13:28:27 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602598052177 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ab1cd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:24:11 |
@@ -94,35 +103,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602599855667 |
-| Players | 1/8 |
-| Host Name | GargleGoyle |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 13:26:53 |
+| Lobby ID | 28531602600933806 |
+| Players | 3/8 |
+| Host Name | Fapanya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:28:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602599502102 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:26:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602600669818 |
-| Players | 1/15 |
-| Host Name | ZeyK Rus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:28:07 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602600802677 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Пт на пиво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:28:18 |
