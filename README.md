@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602786672074 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:31:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602793663574 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | _Mazafaka_ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:39:30 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602794806773 |
+| Lobby ID | 28531602795132374 |
 | Players | 1/15 |
-| Host Name | zomorod |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:40:50 |
+| Host Name | 独穿悲喜 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 26, 2023 17:41:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 17:40:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602793101087 |
-| Players | 9/10 |
-| Host Name | ttv/te_tyanka |
+| Lobby ID | 28531602795061049 |
+| Players | 3/8 |
+| Host Name | Джастин мидер |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:38:50 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:41:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602794379550 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | g |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:40:20 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602794822004 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Adam ᕦ(ò_óˇ)ᕤ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:40:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602795061049 |
-| Players | 1/8 |
-| Host Name | Джастин мидер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:41:08 |
 
 
