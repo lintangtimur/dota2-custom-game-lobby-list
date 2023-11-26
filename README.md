@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 17:27:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602784451414 |
-| Players | 1/10 |
-| Host Name | Ginger or Ni...r? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:28:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602783699635 |
-| Players | 4/8 |
-| Host Name | Lil meow meow |
+| Lobby ID | 28531602784174710 |
+| Players | 9/10 |
+| Host Name | Макима |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:27:24 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:27:59 |
 
 
 |  | ot3_desert_octet |
@@ -83,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 17:27:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602784503592 |
-| Players | 1/15 |
-| Host Name | double<3A |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:28:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602784382948 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Fulgencio Batista |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 17:28:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602784174710 |
-| Players | 9/10 |
-| Host Name | Макима |
+| Lobby ID | 28531602784659584 |
+| Players | 2/15 |
+| Host Name | Букет Чувашии |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:27:59 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:28:35 |
 
 
