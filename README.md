@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602596427507 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Yume |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:21:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602594513079 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:18:41 |
@@ -41,18 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602595716571 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | Sign the Contract Big Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:20:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602596686877 |
-| Players | 6/24 |
-| Host Name | 霹雳毒鸡 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:22:04 |
+| Lobby ID | 28531602596771235 |
+| Players | 1/10 |
+| Host Name | Progressive Retard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:22:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602596791816 |
+| Players | 4/10 |
+| Host Name | bob |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:22:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602596813835 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:22:16 |
 
 
