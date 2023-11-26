@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28531602601888882 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | kopiloki |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:29:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602604301465 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Tomerarenai竜 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:33:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602603192295 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602599502102 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:26:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602602905756 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Gamer |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:24 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602603670328 |
-| Players | 7/8 |
-| Host Name | Gonza |
+| Lobby ID | 28531602604588389 |
+| Players | 3/8 |
+| Host Name | Atencio |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:32:32 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:33:55 |
 
 
 |  | ot3_desert_octet |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602604588389 |
-| Players | 3/8 |
-| Host Name | Atencio |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:33:55 |
 
 
