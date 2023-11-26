@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602786672074 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:31:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602788115333 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:32:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602787413459 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | sssiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:31:57 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 17:32:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602788132265 |
-| Players | 8/15 |
-| Host Name | Hentacle Tentai |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:32:50 |
+| Lobby ID | 28531602782251110 |
+| Players | 23/24 |
+| Host Name | NINO` |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 17:25:37 |
 
 
