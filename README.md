@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531602569791610 |
-| Players | 8/10 |
-| Host Name | Big Gringo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:38:59 |
+| Lobby ID | 28531602575249355 |
+| Players | 1/5 |
+| Host Name | Naughty Bear. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:47:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602569651704 |
-| Players | 8/10 |
-| Host Name | El low me hizo reflexionar |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:38:45 |
+| Lobby ID | 28531602575068503 |
+| Players | 2/8 |
+| Host Name | shylock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:47:40 |
 
 
 |  | ot3_desert_octet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602574283127 |
-| Players | 6/24 |
-| Host Name | INFANT ANNIHILATOR |
+| Players | 5/24 |
+| Host Name | 12% |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 26, 2023 12:46:23 |
 
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602575242001 |
+| Players | 1/10 |
+| Host Name | EBRam |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:47:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531602575273081 |
+| Players | 2/10 |
+| Host Name | 征服者Sayonara999<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:48:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602575041631 |
-| Players | 2/8 |
-| Host Name | A GUN WITH ONE BULLET |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:47:37 |
+| Lobby ID | 28531602575106005 |
+| Players | 3/8 |
+| Host Name | Atencio |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:47:44 |
 
 
