@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:42:08 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531602611498122 |
+| Players | 1/5 |
+| Host Name | Yo....watdup |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:44:05 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602606204624 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | WhIn.Calichin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:36:18 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602607991180 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:38:55 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602608561373 |
-| Players | 17/24 |
+| Players | 13/24 |
 | Host Name | Salival |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:39:45 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602609426068 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 霹雳毒鸡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:41:01 |
@@ -122,27 +131,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602611178201 |
-| Players | 2/15 |
-| Host Name | sgem |
+| Players | 3/15 |
+| Host Name | owiuqs矢 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:43:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602607305318 |
-| Players | 14/15 |
-| Host Name | H2O=GOOD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:37:55 |
+| Lobby ID | 28531602611419517 |
+| Players | 2/10 |
+| Host Name | KUTKH |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 13:43:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602609447311 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:41:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602611497238 |
+| Players | 6/15 |
+| Host Name | Zoé |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:44:05 |
 
 
