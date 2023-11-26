@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602561449053 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Vainglory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:25:06 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602561217882 |
+| Lobby ID | 28531602561340266 |
 | Players | 1/15 |
-| Host Name | Wwwesley |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:24:42 |
+| Host Name | Sr. Wick |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:24:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602559437984 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | twitch.tv/mr_tam1r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:21:42 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:24:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602561340266 |
-| Players | 1/15 |
-| Host Name | Sr. Wick |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:24:55 |
+| Lobby ID | 28531602561517801 |
+| Players | 4/24 |
+| Host Name | Deimos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:25:14 |
 
 
