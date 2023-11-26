@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602581258659 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:57:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579274658 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579709902 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:55:10 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JOSEP |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:57:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602581877988 |
+| Players | 3/8 |
+| Host Name | пусси дестроер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:58:40 |
 
 
