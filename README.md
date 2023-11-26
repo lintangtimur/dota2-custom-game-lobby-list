@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602604920286 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Бугименчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602605761412 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Gabbitz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:35:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602604878823 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:21 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:35:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602604588389 |
-| Players | 5/8 |
-| Host Name | Atencio |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:33:55 |
+| Lobby ID | 28531602605759610 |
+| Players | 1/15 |
+| Host Name | mlr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:35:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602602991431 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:32 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602605170636 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602605759610 |
-| Players | 1/15 |
-| Host Name | mlr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:35:39 |
 
 
