@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602576993898 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ggwp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:50:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602577430990 |
-| Players | 1/5 |
-| Host Name | Peach |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:51:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:49:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602575068503 |
-| Players | 7/8 |
-| Host Name | shylock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:47:40 |
+| Lobby ID | 28531602571728449 |
+| Players | 20/24 |
+| Host Name | Yappy |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 12:42:11 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602572777677 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Apelsin |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:43:55 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602577125232 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:01 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602577201800 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 别问，问就是菜 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:08 |
