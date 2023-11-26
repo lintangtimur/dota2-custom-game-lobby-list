@@ -14,10 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602789695919 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | где концерт кишлака? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 17:34:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602790728974 |
+| Players | 1/10 |
+| Host Name | Finn |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531602790759181 |
+| Players | 3/10 |
+| Host Name | 不安生 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Sunday, November 26, 2023 17:36:01 |
 
 
 |  | ot3_desert_octet |
@@ -49,46 +67,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602790129835 |
-| Players | 7/15 |
-| Host Name | Dominus |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:35:15 |
+| Lobby ID | 28531602790533601 |
+| Players | 1/15 |
+| Host Name | ꧁️☠️Շѧмѯ_️θѵэя |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602789941289 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | calm down |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 17:35:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602788138732 |
-| Players | 1/10 |
-| Host Name | Tá muito branco meu filho! |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 26, 2023 17:32:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602789122279 |
-| Players | 6/8 |
-| Host Name | af af |
+| Lobby ID | 28531602790394608 |
+| Players | 3/8 |
+| Host Name | Ех |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 17:34:02 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602789712460 |
-| Players | 8/10 |
-| Host Name | ET CETERA |
+| Lobby ID | 28531602790719346 |
+| Players | 4/10 |
+| Host Name | Кирилл Бледный |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 17:34:45 |
+| Lobby Creation Time | Sunday, November 26, 2023 17:35:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602790769923 |
+| Players | 1/15 |
+| Host Name | ВитяЛибовский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 17:36:02 |
 
 
