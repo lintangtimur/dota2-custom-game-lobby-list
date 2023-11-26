@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602598912054 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | EpicCrisis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:25:28 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:25:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602599495226 |
-| Players | 4/8 |
-| Host Name | Æ F3#BroRust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:26:21 |
+| Lobby ID | 28531602599552583 |
+| Players | 1/24 |
+| Host Name | _____________ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:26:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602598428760 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | IIiIIiII |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:24:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602599037200 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | spiedini |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:25:39 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602599502102 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:26:22 |
@@ -130,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602599552583 |
+| Lobby ID | 28531602599695962 |
 | Players | 1/24 |
-| Host Name | _____________ |
+| Host Name | if you can? |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:26:26 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:26:39 |
 
 
