@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:19:03 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531602555851039 |
-| Players | 9/10 |
-| Host Name | Fallen God |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:15:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602558766320 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602558765188 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Juanito Quespe To Pape |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:33 |
