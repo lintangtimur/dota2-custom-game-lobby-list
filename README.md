@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602618309738 |
-| Players | 8/10 |
-| Host Name | ht |
+| Lobby ID | 28531602619767495 |
+| Players | 3/10 |
+| Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:54:01 |
+| Lobby Creation Time | Sunday, November 26, 2023 13:56:08 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602618676631 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | EpicCrisis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:54:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602613648683 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:47:14 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602619676887 |
-| Players | 2/8 |
-| Host Name | Я гей |
+| Players | 1/8 |
+| Host Name | TIDEHUNTER |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:00 |
 
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | кланийся [hardwork54] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602619767495 |
-| Players | 3/10 |
-| Host Name | Сквиртуоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:56:08 |
 
 
