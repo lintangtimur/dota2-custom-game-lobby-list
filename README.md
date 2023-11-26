@@ -5,28 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602557361022 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:18:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602561449053 |
-| Players | 9/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:25:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602561253288 |
-| Players | 20/24 |
-| Host Name | JamesWebb |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:24:46 |
+| Lobby ID | 28531602564016047 |
+| Players | 1/15 |
+| Host Name | Горящий Жираф |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:29:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602563506244 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:32 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602563736485 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:55 |
@@ -77,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602563615885 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 나비 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:28:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602563897253 |
-| Players | 1/15 |
-| Host Name | TATATTATAATATATATAAAA |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:29:12 |
 
 
