@@ -5,26 +5,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602589555676 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | VelCro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:11:00 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531602589570506 |
-| Players | 2/5 |
-| Host Name | КАЛгон⅞ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:11:01 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 8/24 |
-| Host Name | kerotoo |
+| Players | 7/24 |
+| Host Name | Crunchypopo |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
 
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:05:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602587997335 |
-| Players | 14/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:08:32 |
+| Lobby ID | 28531602589739212 |
+| Players | 2/8 |
+| Host Name | фрукты не дышать |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 13:11:17 |
 
 
 |  | ot3_desert_octet |
@@ -95,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602588370558 |
-| Players | 2/8 |
-| Host Name | SOY TÍMIDO |
+| Players | 1/8 |
+| Host Name | Si |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:09:07 |
 
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:08:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531602589574589 |
-| Players | 1/8 |
-| Host Name | MADжестик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:11:01 |
+| Lobby ID | 28531602589803241 |
+| Players | 1/10 |
+| Host Name | SOY TÍMIDO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:11:23 |
 
 
