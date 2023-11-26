@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:34:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602569826786 |
-| Players | 2/15 |
-| Host Name | sadboi |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 12:39:03 |
+| Lobby ID | 28531602569489759 |
+| Players | 1/8 |
+| Host Name | LuppieNinja ファントム |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:38:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 11/24 |
+| Players | 7/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -110,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:38:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531602569489759 |
-| Players | 1/8 |
-| Host Name | LuppieNinja ファントム |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 12:38:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531602569565455 |
-| Players | 8/10 |
-| Host Name | AdmiralButters |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:38:37 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602569893451 |
+| Lobby ID | 28531602570010462 |
 | Players | 1/15 |
 | Host Name | Smells like Up Dawg in here |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:39:10 |
+| Lobby Creation Time | Sunday, November 26, 2023 12:39:21 |
 
 
