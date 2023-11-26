@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602580389874 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602579274658 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:54:28 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:51:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602582273175 |
+| Players | 1/8 |
+| Host Name | Well played |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:19 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602582177150 |
+| Lobby ID | 28531602582332982 |
 | Players | 1/15 |
-| Host Name | Ya legenda (SPG) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 12:59:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531602582208836 |
-| Players | 1/24 |
-| Host Name | Noct!S |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:59:13 |
+| Host Name | !Ar3s! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:59:25 |
 
 
