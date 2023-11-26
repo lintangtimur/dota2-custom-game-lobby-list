@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602558766320 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Atencio |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:33 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:15:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602558765188 |
-| Players | 14/15 |
-| Host Name | Juanito Quespe To Pape |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 26, 2023 12:20:33 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602558698994 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:20:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602559419798 |
+| Players | 1/15 |
+| Host Name | ILP |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:21:40 |
 
 
