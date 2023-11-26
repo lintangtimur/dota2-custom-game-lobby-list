@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602619101357 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Dranxzy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:55:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602619767495 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:08 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602619808740 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | кланийся [hardwork54] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602618676631 |
-| Players | 23/24 |
-| Host Name | EpicCrisis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:54:33 |
+| Lobby ID | 28531602621023094 |
+| Players | 3/8 |
+| Host Name | Atencio |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:57:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602613648683 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:47:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602619676887 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | TIDEHUNTER |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:56:00 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 13:57:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602621023094 |
-| Players | 3/8 |
-| Host Name | Atencio |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:57:57 |
+| Lobby ID | 28531602621356568 |
+| Players | 1/15 |
+| Host Name | 懒懒的绅士 |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:58:26 |
 
 
