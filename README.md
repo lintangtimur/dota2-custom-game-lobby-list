@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602583481881 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Siskaeee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:01:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602582422074 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602580400249 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jack (El Cyborg Hanma) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:16 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:56:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602583054844 |
-| Players | 1/8 |
-| Host Name | never win |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 26, 2023 13:00:39 |
+| Lobby ID | 28531602583757429 |
+| Players | 7/15 |
+| Host Name | Oczko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:01:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602583470458 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MAMYT PAXAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:01:22 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 26, 2023 13:02:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602583757429 |
-| Players | 7/15 |
-| Host Name | Oczko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:01:50 |
 
 
