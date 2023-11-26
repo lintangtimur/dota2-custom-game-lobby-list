@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602568543171 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Tikovka <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 12:36:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602480761596 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 26, 2023 09:52:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531602566693544 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 12:33:52 |
@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 26, 2023 12:37:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602569178764 |
+| Players | 1/8 |
+| Host Name | El Peke 3k |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 12:37:58 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531602569127898 |
-| Players | 1/24 |
-| Host Name | Djoko |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, November 26, 2023 12:37:53 |
+| Lobby ID | 28531602569169825 |
+| Players | 3/24 |
+| Host Name | Miracle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 26, 2023 12:37:57 |
 
 
