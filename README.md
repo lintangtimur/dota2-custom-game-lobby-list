@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602593491446 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Desolate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:17:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602590966790 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:13:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602594513079 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:18:41 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602594116053 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:18:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531602594963387 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:19:23 |
 
 
