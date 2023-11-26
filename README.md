@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602584498717 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Crunchypopo |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 26, 2023 13:03:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602585374531 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | XXX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:04:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602588370558 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Si |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:09:07 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531602587971672 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:08:30 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602590334995 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | shylock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:12:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602590518255 |
+| Players | 1/24 |
+| Host Name | The Unknown |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:12:30 |
 
 
