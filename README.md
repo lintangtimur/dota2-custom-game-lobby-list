@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602600019642 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:27:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602602027658 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | AkiHiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:30:06 |
@@ -85,28 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531602602929680 |
-| Players | 2/15 |
-| Host Name | NASID |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:31:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531602602672957 |
-| Players | 4/15 |
-| Host Name | old rat(all muted) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 26, 2023 13:31:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531602602905756 |
 | Players | 2/15 |
 | Host Name | Gamer |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602602672957 |
+| Players | 2/15 |
+| Host Name | old rat(all muted) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 26, 2023 13:31:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602602991431 |
+| Players | 4/24 |
+| Host Name | Amaraki |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:31:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602603034691 |
+| Players | 1/15 |
+| Host Name | QuizKnow |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:31:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531602603078671 |
+| Players | 1/24 |
+| Host Name | 带把萌娘 |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, November 26, 2023 13:31:39 |
 
 
