@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602602991431 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 26, 2023 13:31:32 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531602604855098 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Aɮʏʄʄ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:18 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Бугименчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 26, 2023 13:34:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531602605312393 |
+| Players | 4/15 |
+| Host Name | D(I)LE TWO♥ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 26, 2023 13:34:59 |
 
 
