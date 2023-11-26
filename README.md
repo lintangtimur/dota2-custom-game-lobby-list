@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531602583481881 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Siskaeee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 13:01:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531602582422074 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 26, 2023 12:59:34 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531602583713125 |
-| Players | 3/8 |
-| Host Name | yo soy    mia khalifa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 26, 2023 13:01:46 |
+| Lobby ID | 28531602583895066 |
+| Players | 5/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 26, 2023 13:02:04 |
 
 
 |  | ot3_jungle_quintet |
