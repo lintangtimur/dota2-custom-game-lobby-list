@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531603810567979 |
-| Players | 8/10 |
-| Host Name | let the man COOK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 17:53:57 |
+| Lobby ID | 28531603813157748 |
+| Players | 2/5 |
+| Host Name | WaterPiska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 17:57:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | <blank> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 17:57:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603813157748 |
-| Players | 1/5 |
-| Host Name | WaterPiska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 17:57:55 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 17:52:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603811276925 |
-| Players | 23/24 |
-| Host Name | Xy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 17:55:03 |
+| Lobby ID | 28531603813459032 |
+| Players | 5/10 |
+| Host Name | Savolnik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 17:58:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603798715226 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 17:35:09 |
@@ -74,30 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 17:51:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603812489383 |
-| Players | 5/10 |
-| Host Name | арбуз |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 17:56:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603813002962 |
-| Players | 1/15 |
-| Host Name | Delirium |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 17:57:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603813016291 |
-| Players | 6/15 |
-| Host Name | Combustibll |
+| Lobby ID | 28531603813403121 |
+| Players | 2/8 |
+| Host Name | Как мы выиграли? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 17:57:42 |
+| Lobby Creation Time | Monday, November 27, 2023 17:58:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603813363649 |
+| Players | 6/8 |
+| Host Name | الغول |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 17:58:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603813465476 |
+| Players | 11/15 |
+| Host Name | kek2774 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 17:58:23 |
 
 
