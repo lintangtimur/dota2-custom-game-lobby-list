@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603913834482 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 20:00:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603916651781 |
-| Players | 3/24 |
+| Players | 22/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 20:02:51 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603911948438 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:58:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603917968891 |
-| Players | 6/8 |
-| Host Name | sosababy993 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:04:08 |
+| Lobby ID | 28531603919348536 |
+| Players | 9/15 |
+| Host Name | h2obi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 20:05:29 |
 
 
 |  | ot3_desert_octet |
@@ -77,54 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531603892146066 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 27, 2023 19:37:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603916835043 |
-| Players | 13/15 |
-| Host Name | ghost |
+| Lobby ID | 28531603919614513 |
+| Players | 3/10 |
+| Host Name | キリール |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:02 |
+| Lobby Creation Time | Monday, November 27, 2023 20:05:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603911176818 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Bloodseeker |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 27, 2023 19:57:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603918038659 |
-| Players | 5/10 |
-| Host Name | Severe Plaque Psoriasis |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 27, 2023 20:04:12 |
+| Lobby ID | 28531603919228978 |
+| Players | 1/15 |
+| Host Name | 团队成员 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 27, 2023 20:05:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603918375579 |
-| Players | 2/8 |
+| Lobby ID | 28531603919853756 |
+| Players | 1/8 |
 | Host Name | Яйцеглот |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:04:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531603917451676 |
-| Players | 9/10 |
-| Host Name | ๋๋๋๋๋๋๋๋๋๋ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:39 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 27, 2023 20:05:58 |
 
 
