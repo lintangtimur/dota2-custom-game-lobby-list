@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28531603871424279 |
 | Players | 1/7 |
-| Host Name | Шахматист |
+| Host Name | cerf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:14:52 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603871011593 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | mode:Zaraki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 19:14:24 |
@@ -22,11 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531603871450455 |
+| Lobby ID | 28531603872591462 |
 | Players | 1/10 |
-| Host Name | 303 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 19:14:54 |
+| Host Name | Joukahainen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:16:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531603873292896 |
+| Players | 1/5 |
+| Host Name | жужаба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:17:02 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:12:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603871770695 |
-| Players | 5/8 |
-| Host Name | autisto. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:15:17 |
+| Lobby ID | 28531603872508993 |
+| Players | 6/24 |
+| Host Name | PND.Wilarson |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:16:08 |
 
 
 |  | ot3_desert_octet |
@@ -104,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531603872162318 |
-| Players | 2/10 |
-| Host Name | ek8rk3oekeowlwp |
+| Players | 7/10 |
+| Host Name | ~Sqm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 19:15:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603872302741 |
-| Players | 2/15 |
-| Host Name | Bassett |
+| Lobby ID | 28531603873182328 |
+| Players | 5/15 |
+| Host Name | I love Jodie Foster |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 19:15:54 |
+| Lobby Creation Time | Monday, November 27, 2023 19:16:55 |
 
 
