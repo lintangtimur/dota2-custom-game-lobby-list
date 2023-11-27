@@ -5,25 +5,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603943768507 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | LordHeaven |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 20:28:38 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603945343173 |
-| Players | 1/5 |
-| Host Name | ебнименя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:30:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603944144670 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 20:28:59 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Lobo Domingo a Noite |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 27, 2023 15:16:49 |
@@ -77,54 +68,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603868121081 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Dusi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 19:11:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603945848746 |
-| Players | 11/15 |
-| Host Name | Антоха из СЕБИРИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:30:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531603946289045 |
-| Players | 2/10 |
-| Host Name | Daddy Yoda |
+| Lobby ID | 28531603945246519 |
+| Players | 10/24 |
+| Host Name | GrandPa |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 20:31:00 |
+| Lobby Creation Time | Monday, November 27, 2023 20:30:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603946094302 |
-| Players | 6/8 |
-| Host Name | Missing you happiness |
+| Lobby ID | 28531603947270288 |
+| Players | 3/8 |
+| Host Name | данилгомодрил123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:30:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603945322639 |
-| Players | 1/15 |
-| Host Name | Jft |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 27, 2023 20:30:05 |
+| Lobby Creation Time | Monday, November 27, 2023 20:31:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603945246519 |
-| Players | 6/24 |
-| Host Name | GrandPa |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 20:30:01 |
+| Lobby ID | 28531603944681191 |
+| Players | 22/24 |
+| Host Name | Don't Touch My Ass |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603946541690 |
+| Players | 7/8 |
+| Host Name | v3ndetta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 20:31:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603947079523 |
+| Players | 1/15 |
+| Host Name | oㅅo |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 27, 2023 20:31:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603947105181 |
+| Players | 5/15 |
+| Host Name | -PSE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 20:31:46 |
 
 
