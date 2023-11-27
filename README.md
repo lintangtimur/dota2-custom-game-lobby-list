@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603861911549 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | sawita |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 19:03:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531603861360813 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | 100 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 19:03:15 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603860471231 |
-| Players | 5/8 |
-| Host Name | 弑神者mel |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 27, 2023 19:02:16 |
+| Lobby ID | 28531603862853503 |
+| Players | 4/8 |
+| Host Name | 19 CM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:04:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603860259420 |
-| Players | 23/24 |
-| Host Name | 月老離職，財神管姻緣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 19:02:01 |
+| Lobby ID | 28531603862370988 |
+| Players | 6/10 |
+| Host Name | ОГУЗОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:04:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 18:58:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603860160621 |
-| Players | 7/10 |
-| Host Name | SHELEP |
+| Lobby ID | 28531603862866812 |
+| Players | 1/24 |
+| Host Name | Addicted |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 19:01:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603861367255 |
-| Players | 4/15 |
-| Host Name | Dark Fox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:03:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603861703786 |
-| Players | 2/8 |
-| Host Name | waiting for death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:03:38 |
+| Lobby Creation Time | Monday, November 27, 2023 19:04:56 |
 
 
