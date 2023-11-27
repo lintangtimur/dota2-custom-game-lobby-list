@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 18:02:20 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603822373456 |
-| Players | 1/5 |
-| Host Name | 这个可以有 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 18:11:33 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 17:52:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603820600661 |
-| Players | 1/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 27, 2023 18:08:57 |
+| Lobby ID | 28531603822999563 |
+| Players | 9/10 |
+| Host Name | SOKRAT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 18:12:28 |
 
 
 |  | ot3_desert_octet |
@@ -63,33 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 17:35:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603822625180 |
-| Players | 4/8 |
-| Host Name | 只会辅助 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Monday, November 27, 2023 18:11:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531603822212430 |
-| Players | 6/10 |
-| Host Name | bleeding |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 18:11:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531603821240212 |
-| Players | 7/24 |
-| Host Name | efrdsfsdf |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 18:09:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603820931284 |
-| Players | 13/24 |
-| Host Name | Iroha- |
+| Players | 6/24 |
+| Host Name | YOI |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 27, 2023 18:09:26 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603821240212 |
+| Players | 14/24 |
+| Host Name | efrdsfsdf |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 18:09:53 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603822305857 |
+| Lobby ID | 28531603823218970 |
 | Players | 3/8 |
-| Host Name | Big Mama (yulezz) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 18:11:27 |
+| Host Name | Attacker |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 27, 2023 18:12:48 |
 
 
