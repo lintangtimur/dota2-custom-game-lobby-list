@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 18:02:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28531603816515363 |
-| Players | 1/10 |
-| Host Name | Strong Woman |
-| Region | INDIA |
-| Lobby Creation Time | Monday, November 27, 2023 18:02:57 |
+| Lobby ID | 28531603817166228 |
+| Players | 1/5 |
+| Host Name | DayDreamer |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 27, 2023 18:03:54 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603814568071 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DogJeWz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 18:00:03 |
@@ -76,28 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603814812803 |
-| Players | 9/10 |
-| Host Name | Son Goku |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 18:00:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603815514638 |
-| Players | 5/8 |
-| Host Name | ДЮREX |
+| Lobby ID | 28531603817136411 |
+| Players | 1/10 |
+| Host Name | voralexan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:01:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603816340689 |
-| Players | 7/15 |
-| Host Name | (Free PaLestiNe :( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:02:42 |
+| Lobby Creation Time | Monday, November 27, 2023 18:03:51 |
 
 
