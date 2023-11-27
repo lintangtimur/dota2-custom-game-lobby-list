@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603943768507 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | LordHeaven |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 20:28:38 |
@@ -13,35 +13,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531603943883707 |
-| Players | 1/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 20:28:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603943943508 |
-| Players | 1/5 |
-| Host Name | !_crooked_shushu_! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:28:48 |
+| Lobby ID | 28531603944517071 |
+| Players | 5/10 |
+| Host Name | NDA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603944144670 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 20:28:59 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28531603944848848 |
+| Players | 1/7 |
+| Host Name | ебнименя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:38 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Lobo Domingo a Noite |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 27, 2023 15:16:49 |
@@ -74,66 +74,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 20:26:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603941281081 |
-| Players | 10/15 |
-| Host Name | SOKRAT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:26:19 |
+| Lobby ID | 28531603944765417 |
+| Players | 5/8 |
+| Host Name | Estriper |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603868121081 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | Dusi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 19:11:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603942794224 |
-| Players | 1/8 |
-| Host Name | ✪stingytown |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 27, 2023 20:27:43 |
+| Lobby ID | 28531603945137176 |
+| Players | 1/15 |
+| Host Name | Trandal |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603943882899 |
-| Players | 5/10 |
-| Host Name | ALEX_MOR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:28:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603943043523 |
-| Players | 7/8 |
-| Host Name | Itami 痛 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:27:57 |
+| Lobby ID | 28531603944681191 |
+| Players | 2/24 |
+| Host Name | Don't Touch My Ass |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531603943999029 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | senych |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 20:28:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603944026457 |
-| Players | 1/24 |
-| Host Name | The Last Element_ |
+| Lobby ID | 28531603945040266 |
+| Players | 1/8 |
+| Host Name | Denisiusus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603942886754 |
+| Players | 1/8 |
+| Host Name | Shrek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 20:27:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603945160759 |
+| Players | 1/8 |
+| Host Name | Владик ПРИНЦ ДОТЫ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 20:28:52 |
+| Lobby Creation Time | Monday, November 27, 2023 20:29:56 |
 
 
