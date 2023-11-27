@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 15:16:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603801829533 |
-| Players | 20/24 |
-| Host Name | Saudade |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 17:40:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603802733762 |
-| Players | 7/8 |
-| Host Name | Archmage_path |
+| Lobby ID | 28531603803595837 |
+| Players | 1/10 |
+| Host Name | 释放你的灵魂 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 17:41:42 |
+| Lobby Creation Time | Monday, November 27, 2023 17:43:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603803657119 |
+| Players | 9/10 |
+| Host Name | Ocean |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 17:43:12 |
 
 
 |  | ot3_desert_octet |
@@ -63,5 +63,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 17:42:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603803572593 |
+| Players | 11/15 |
+| Host Name | TurgutTaner |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 17:43:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603803879568 |
+| Players | 1/24 |
+| Host Name | po |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 27, 2023 17:43:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603803993950 |
+| Players | 2/10 |
+| Host Name | noob_cheater |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 27, 2023 17:43:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603803991295 |
+| Players | 1/8 |
+| Host Name | :Ddd//.. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 17:43:44 |
 
 
