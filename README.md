@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:32:17 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531603887102818 |
-| Players | 8/10 |
-| Host Name | Akaza |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 19:32:22 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603888290894 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | uo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 19:33:39 |
@@ -67,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603888813287 |
-| Players | 6/10 |
-| Host Name | Мур?(*^.^*) |
+| Lobby ID | 28531603890290176 |
+| Players | 3/10 |
+| Host Name | Аскер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:34:13 |
+| Lobby Creation Time | Monday, November 27, 2023 19:35:50 |
 
 
 |  | ot3_desert_octet |
@@ -85,37 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603888653070 |
+| Lobby ID | 28531603890111941 |
 | Players | 3/8 |
-| Host Name | curse |
+| Host Name | НАЦИОНАЛИЗМ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:34:03 |
+| Lobby Creation Time | Monday, November 27, 2023 19:35:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603890017692 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:35:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603889211637 |
-| Players | 3/15 |
-| Host Name | Sultan |
+| Lobby ID | 28531603890089356 |
+| Players | 2/15 |
+| Host Name | кавасаки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:34:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603889358009 |
-| Players | 3/8 |
-| Host Name | DeadDealer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:34:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603886923816 |
-| Players | 14/15 |
-| Host Name | Demitrius Demarcus Bartholomeus |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 19:32:10 |
+| Lobby Creation Time | Monday, November 27, 2023 19:35:37 |
 
 
