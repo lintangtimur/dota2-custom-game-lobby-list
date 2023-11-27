@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603911948438 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:58:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603911991720 |
-| Players | 6/10 |
-| Host Name | Nzo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:58:13 |
+| Lobby ID | 28531603913461546 |
+| Players | 1/24 |
+| Host Name | Dismantle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:59:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603868121081 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Dusi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 19:11:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531603892146066 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 27, 2023 19:37:49 |
@@ -76,55 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603912210641 |
-| Players | 11/15 |
-| Host Name | Puppey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:58:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531603911176818 |
-| Players | 3/24 |
-| Host Name | Dollar Trump |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 27, 2023 19:57:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531603911864171 |
-| Players | 18/24 |
-| Host Name | Fakar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 19:58:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28531603911628159 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | EDo NoFail |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 27, 2023 19:57:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603911176818 |
+| Players | 6/24 |
+| Host Name | Maxima |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 27, 2023 19:57:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603911613472 |
-| Players | 5/8 |
-| Host Name | Мmm~ Ahh~ |
+| Lobby ID | 28531603913364258 |
+| Players | 2/8 |
+| Host Name | altruisto |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:57:50 |
+| Lobby Creation Time | Monday, November 27, 2023 19:59:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603912616976 |
-| Players | 2/10 |
-| Host Name | Calm Down Baby |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 19:58:51 |
+| Lobby ID | 28531603913704631 |
+| Players | 3/8 |
+| Host Name | НИХУЯ НЕ POMNЮ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:59:55 |
 
 
