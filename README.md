@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603764466586 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | TKD COACH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 16:34:17 |
@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 16:34:49 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531603765387324 |
+| Players | 1/5 |
+| Host Name | Rofllol |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 27, 2023 16:35:58 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
@@ -49,55 +58,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603764418249 |
-| Players | 1/8 |
-| Host Name | Забыл |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 27, 2023 16:34:12 |
+| Lobby ID | 28531603764584167 |
+| Players | 2/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 27, 2023 16:34:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603763690122 |
-| Players | 8/24 |
+| Players | 22/24 |
 | Host Name | Serrito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 16:32:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603765130501 |
+| Players | 8/10 |
+| Host Name | Never mind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 16:35:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603764349229 |
-| Players | 10/15 |
-| Host Name | впадлу дышать |
+| Lobby ID | 28531603765052916 |
+| Players | 4/15 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 16:34:04 |
+| Lobby Creation Time | Monday, November 27, 2023 16:35:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603764393699 |
-| Players | 7/10 |
-| Host Name | Blackout |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 16:34:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603764633412 |
-| Players | 5/8 |
-| Host Name | (/_-) |
+| Lobby ID | 28531603765312360 |
+| Players | 2/10 |
+| Host Name | Joystick |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 16:34:35 |
+| Lobby Creation Time | Monday, November 27, 2023 16:35:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603764584167 |
-| Players | 1/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 27, 2023 16:34:30 |
+| Lobby ID | 28531603765314183 |
+| Players | 4/8 |
+| Host Name | 鄙姓曹，小名阿瞒 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 16:35:50 |
 
 
