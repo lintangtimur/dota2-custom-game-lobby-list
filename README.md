@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 18:16:32 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603826043776 |
-| Players | 1/5 |
-| Host Name | 灵犀一指 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 27, 2023 18:16:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603825131045 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 18:15:35 |
@@ -74,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 17:35:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603825961626 |
-| Players | 3/15 |
-| Host Name | AxlamoN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:16:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603826020327 |
-| Players | 2/8 |
-| Host Name | Sayori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:16:53 |
+| Lobby ID | 28531603826552823 |
+| Players | 1/8 |
+| Host Name | Ubuntu |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 18:17:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603826194949 |
+| Players | 7/10 |
+| Host Name | Crazy Leprechaun |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 18:17:08 |
 
 
 |  | ot3_gardens_duo |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 18:13:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603826006763 |
-| Players | 3/8 |
-| Host Name | LoPiKtOlik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:16:52 |
+| Lobby ID | 28531603826696498 |
+| Players | 2/15 |
+| Host Name | run of wind |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 18:17:51 |
 
 
