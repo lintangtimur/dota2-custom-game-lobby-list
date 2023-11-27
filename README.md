@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531603796406760 |
-| Players | 3/5 |
-| Host Name | КоТ_КоКоС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 17:31:19 |
+| Lobby ID | 28531603797764082 |
+| Players | 7/10 |
+| Host Name | dyyn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 17:33:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Joukahainen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 17:31:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531603797764082 |
-| Players | 6/10 |
-| Host Name | dyyn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 17:33:35 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603794913083 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | PrincePocket |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 17:28:52 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531603798832321 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Водитель по губам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 17:35:21 |
@@ -77,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28531603799061761 |
-| Players | 1/10 |
-| Host Name | Kw3sty |
+| Players | 6/10 |
+| Host Name | д |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 17:35:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531603799001922 |
-| Players | 5/10 |
-| Host Name | kkotikk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 17:35:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531603799186542 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 17:35:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603799495653 |
+| Players | 2/24 |
+| Host Name | Gee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 17:36:26 |
 
 
