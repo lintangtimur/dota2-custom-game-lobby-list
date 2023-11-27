@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603867580215 |
-| Players | 1/5 |
-| Host Name | 🐁 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:10:26 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
@@ -31,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603866783127 |
+| Lobby ID | 28531603868365217 |
 | Players | 6/10 |
-| Host Name | saberlight fan |
+| Host Name | я пидарас |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:09:31 |
+| Lobby Creation Time | Monday, November 27, 2023 19:11:22 |
 
 
 |  | ot3_gardens_duo |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 18:55:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603867558470 |
-| Players | 6/8 |
-| Host Name | 金木 研 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:10:25 |
+| Lobby ID | 28531603868121081 |
+| Players | 8/24 |
+| Host Name | Gigachad thundercock |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 27, 2023 19:11:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531603867922059 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Batang Gi Quiapoy |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 27, 2023 19:10:50 |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:10:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603868020186 |
-| Players | 1/24 |
-| Host Name | Gas-Lightyear |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 27, 2023 19:10:57 |
+| Lobby ID | 28531603868771549 |
+| Players | 1/8 |
+| Host Name | DogJeWz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:11:50 |
 
 
