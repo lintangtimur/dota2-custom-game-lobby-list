@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603908533271 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | brook ブルック |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 19:54:44 |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:24:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28531603908253740 |
-| Players | 9/15 |
-| Host Name | MU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:54:28 |
+| Lobby ID | 28531603908808283 |
+| Players | 17/24 |
+| Host Name | PartofmyW |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:55:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603894465806 |
-| Players | 11/24 |
-| Host Name | Haidilao |
+| Players | 17/24 |
+| Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:40:17 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603868121081 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | Dusi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 19:11:04 |
@@ -94,28 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603908651789 |
-| Players | 1/8 |
-| Host Name | Bedniy |
+| Lobby ID | 28531603909411902 |
+| Players | 4/8 |
+| Host Name | Hate Me! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:54:52 |
+| Lobby Creation Time | Monday, November 27, 2023 19:55:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603906431666 |
-| Players | 5/8 |
-| Host Name | gege |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 27, 2023 19:52:36 |
+| Lobby ID | 28531603909103871 |
+| Players | 5/15 |
+| Host Name | БИБИСОРО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:55:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603907768504 |
-| Players | 3/10 |
-| Host Name | bonti |
+| Lobby ID | 28531603909450226 |
+| Players | 4/10 |
+| Host Name | типа Satoru Gojō |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:53:58 |
+| Lobby Creation Time | Monday, November 27, 2023 19:55:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603909499128 |
+| Players | 1/24 |
+| Host Name | linsu |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 27, 2023 19:55:43 |
 
 
