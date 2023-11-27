@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28531603908533271 |
-| Players | 8/10 |
-| Host Name | brook ブルック |
+| Lobby ID | 28531603917408342 |
+| Players | 2/10 |
+| Host Name | Капитан Зaлупa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:54:44 |
+| Lobby Creation Time | Monday, November 27, 2023 20:03:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -18,24 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 20:00:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28531603917355384 |
-| Players | 1/5 |
-| Host Name | KiZic xD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28531603917408342 |
-| Players | 1/10 |
-| Host Name | Капитан Зaлупa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:36 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603916651781 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 20:02:51 |
@@ -74,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:58:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603917451676 |
-| Players | 6/10 |
-| Host Name | ๋๋๋๋๋๋๋๋๋๋ |
+| Lobby ID | 28531603917968891 |
+| Players | 6/8 |
+| Host Name | sosababy993 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:39 |
+| Lobby Creation Time | Monday, November 27, 2023 20:04:08 |
 
 
 |  | ot3_desert_octet |
@@ -95,36 +77,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531603892146066 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 27, 2023 19:37:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603917293527 |
-| Players | 1/8 |
-| Host Name | sosababy993 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:29 |
+| Lobby ID | 28531603916835043 |
+| Players | 13/15 |
+| Host Name | ghost |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 20:03:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603911176818 |
-| Players | 7/24 |
-| Host Name | Maxima |
+| Players | 5/24 |
+| Host Name | Bloodseeker |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 27, 2023 19:57:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603917606773 |
-| Players | 1/15 |
-| Host Name | ☆SeNp☆ |
+| Lobby ID | 28531603918038659 |
+| Players | 5/10 |
+| Host Name | Severe Plaque Psoriasis |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 27, 2023 20:04:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603918375579 |
+| Players | 2/8 |
+| Host Name | Яйцеглот |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 20:03:48 |
+| Lobby Creation Time | Monday, November 27, 2023 20:04:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603917451676 |
+| Players | 9/10 |
+| Host Name | ๋๋๋๋๋๋๋๋๋๋ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 20:03:39 |
 
 
