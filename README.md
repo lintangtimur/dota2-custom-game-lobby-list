@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603775641505 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | .G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 16:54:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603776570505 |
+| Players | 3/10 |
+| Host Name | Kuya Edu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 16:56:29 |
 
 
 |  | ot3_desert_octet |
@@ -29,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 15:16:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603775630071 |
-| Players | 10/15 |
-| Host Name | Beat Takeshi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 16:54:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603775438536 |
-| Players | 6/8 |
-| Host Name | 5 |
+| Lobby ID | 28531603776377580 |
+| Players | 7/8 |
+| Host Name | Odinn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 16:54:22 |
+| Lobby Creation Time | Monday, November 27, 2023 16:56:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603776199136 |
+| Players | 9/10 |
+| Host Name | moormusel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 16:55:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531603771451543 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ''XRB |
 | Region | INDIA |
 | Lobby Creation Time | Monday, November 27, 2023 16:47:01 |
@@ -65,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 16:48:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603775306136 |
-| Players | 22/24 |
-| Host Name | 爱要弹蛋蛋 |
+| Lobby ID | 28531603776718773 |
+| Players | 2/8 |
+| Host Name | я разочарован( |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 16:54:08 |
+| Lobby Creation Time | Monday, November 27, 2023 16:56:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603776199136 |
-| Players | 2/10 |
-| Host Name | moormusel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 16:55:47 |
+| Lobby ID | 28531603776516404 |
+| Players | 5/15 |
+| Host Name | Delirium |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 16:56:23 |
 
 
