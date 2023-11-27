@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603817203750 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | DayDreamer |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 27, 2023 18:03:57 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603817899775 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | [DarkMoon] Dead Inside zxc1000-7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 18:04:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603820282188 |
+| Players | 1/10 |
+| Host Name | Han Jee-han  한 지한 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 18:08:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28531603820657156 |
+| Players | 1/5 |
+| Host Name | Prigovor |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 18:09:02 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28531603819398166 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | пися(￢‿￢ ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 18:07:10 |
@@ -74,21 +92,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 17:35:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28531603818658784 |
-| Players | 17/24 |
-| Host Name | noob |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 18:06:05 |
+| Lobby ID | 28531603820300481 |
+| Players | 1/8 |
+| Host Name | Hopeツ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 27, 2023 18:08:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603820065092 |
+| Players | 10/15 |
+| Host Name | An |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 18:08:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603819680065 |
-| Players | 5/10 |
-| Host Name | MrPredator135 |
+| Lobby ID | 28531603820332623 |
+| Players | 2/10 |
+| Host Name | Revoker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:07:35 |
+| Lobby Creation Time | Monday, November 27, 2023 18:08:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28531603820223982 |
+| Players | 1/10 |
+| Host Name | Лешенька))) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 18:08:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28531603820600661 |
+| Players | 1/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 27, 2023 18:08:57 |
 
 
