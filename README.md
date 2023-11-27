@@ -5,16 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603890751521 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | RollingMochi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:36:20 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603896229204 |
+| Players | 2/10 |
+| Host Name | . Skye |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:42:09 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Lobo Domingo a Noite |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 27, 2023 15:16:49 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:24:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603895172273 |
-| Players | 4/8 |
-| Host Name | тяжко |
+| Lobby ID | 28531603896583905 |
+| Players | 5/10 |
+| Host Name | э бля о бля |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:41:02 |
+| Lobby Creation Time | Monday, November 27, 2023 19:42:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603894465806 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Haidilao |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:40:17 |
@@ -76,55 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603895137595 |
-| Players | 10/15 |
-| Host Name | 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 27, 2023 19:41:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603895112914 |
-| Players | 3/8 |
-| Host Name | Серега прокурор |
+| Lobby ID | 28531603896939499 |
+| Players | 2/15 |
+| Host Name | Arakunido |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:40:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531603895345020 |
-| Players | 6/10 |
-| Host Name | Ухуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:41:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603894534114 |
-| Players | 14/15 |
-| Host Name | ДРОПКИК В ТАВЕРНУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:40:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603895589616 |
-| Players | 6/8 |
-| Host Name | лютая тапочка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:41:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28531603895661179 |
-| Players | 7/24 |
-| Host Name | JHIIAAEEAK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 19:41:33 |
+| Lobby Creation Time | Monday, November 27, 2023 19:42:53 |
 
 
