@@ -2,6 +2,33 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603815968604 |
+| Players | 2/10 |
+| Host Name | [DarkMoon] Dead Inside zxc1000-7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 18:02:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603816092168 |
+| Players | 1/10 |
+| Host Name | Eddie.Lin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 27, 2023 18:02:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603816515363 |
+| Players | 1/10 |
+| Host Name | Strong Woman |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 27, 2023 18:02:57 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603723498854 |
@@ -41,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603814568071 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | DogJeWz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 18:00:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28531603815508018 |
-| Players | 9/10 |
-| Host Name | glodlogd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:01:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603815514638 |
-| Players | 4/8 |
-| Host Name | ДЮREX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:01:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28531603815535742 |
-| Players | 3/15 |
-| Host Name | sbnavbxx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 18:01:30 |
 
 
 |  | ot3_gardens_duo |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Son Goku |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 18:00:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603815514638 |
+| Players | 5/8 |
+| Host Name | ДЮREX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 18:01:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603816340689 |
+| Players | 7/15 |
+| Host Name | (Free PaLestiNe :( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 18:02:42 |
 
 
