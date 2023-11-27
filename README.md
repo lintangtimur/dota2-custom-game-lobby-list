@@ -4,8 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
+| Lobby ID | 28531603780186914 |
+| Players | 3/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 17:03:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
 | Lobby ID | 28531603778213118 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 16:59:30 |
@@ -22,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28531603779836323 |
-| Players | 7/15 |
-| Host Name | я анскилл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 17:02:32 |
+| Lobby ID | 28531603780473767 |
+| Players | 4/15 |
+| Host Name | DROP.SKIN |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 17:03:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603778543820 |
-| Players | 18/24 |
-| Host Name | [Sunshine] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 27, 2023 17:00:07 |
+| Lobby ID | 28531603780245630 |
+| Players | 8/10 |
+| Host Name | Taunt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 17:03:18 |
 
 
 |  | ot3_desert_octet |
