@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28531603900820249 |
-| Players | 2/7 |
+| Players | 4/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 19:46:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28531603903126405 |
-| Players | 2/7 |
-| Host Name | Figarland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:49:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28531603903151202 |
 | Players | 3/10 |
-| Host Name | Сиделыч |
+| Host Name | crocodile |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 19:49:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28531603904276177 |
+| Players | 2/10 |
+| Host Name | NrAthrMsrh❤ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 27, 2023 19:50:24 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603900687759 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 27, 2023 19:46:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531603894465806 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Haidilao |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 27, 2023 19:40:17 |
@@ -92,30 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 27, 2023 19:37:49 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28531603904416913 |
+| Players | 13/15 |
+| Host Name | Dante |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 27, 2023 19:50:32 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28531603902674097 |
-| Players | 9/10 |
-| Host Name | 𝔂𝓮𝓷𝓸𝓻𝓪✞ |
+| Lobby ID | 28531603903962951 |
+| Players | 6/10 |
+| Host Name | Holly |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:48:46 |
+| Lobby Creation Time | Monday, November 27, 2023 19:50:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28531603904539222 |
+| Players | 2/8 |
+| Host Name | mantr0v |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 27, 2023 19:50:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28531603903675564 |
-| Players | 5/15 |
-| Host Name | GoodStepa |
+| Players | 12/15 |
+| Host Name | HighOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 27, 2023 19:49:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28531603903710134 |
-| Players | 1/8 |
-| Host Name | Бездарность |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 27, 2023 19:49:49 |
 
 
