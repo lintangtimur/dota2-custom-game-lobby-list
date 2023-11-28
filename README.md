@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531604335486840 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 28, 2023 03:49:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28540068941358696 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | blank |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:40:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28540068941004386 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:39:40 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068941451886 |
-| Players | 9/10 |
-| Host Name | Nukenin |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:40:46 |
+| Lobby ID | 28540068941628311 |
+| Players | 4/10 |
+| Host Name | Sant.W |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:41:13 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28540068941417716 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Socrates official |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:40:41 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540068940276794 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | DeadKiss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:37:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28540068940844728 |
-| Players | 6/10 |
-| Host Name | Alberik |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:39:16 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:41:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28540068941783127 |
+| Players | 5/15 |
+| Host Name | adderall abuser |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:41:36 |
 
 
 |  | epic_boss_fight_normal |
