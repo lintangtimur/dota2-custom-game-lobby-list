@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531604335486840 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 28, 2023 03:49:34 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 28, 2023 07:48:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068921141016 |
-| Players | 5/15 |
-| Host Name | Greta Thunberg |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:49:33 |
+| Lobby ID | 28540068920579821 |
+| Players | 9/10 |
+| Host Name | Shigami |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:48:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28540068920188863 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:47:08 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 28, 2023 07:33:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28540068919702848 |
-| Players | 21/24 |
-| Host Name | Mast3rm1nd |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:45:54 |
+| Lobby ID | 28540068920343659 |
+| Players | 13/15 |
+| Host Name | лесная похуистка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:47:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28540068921046127 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:49:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540068921125016 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | Italiano Gangster |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:49:31 |
@@ -77,36 +77,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28540068920499354 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Armando Bond |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:47:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28540068920579821 |
-| Players | 8/10 |
-| Host Name | Shigami |
+| Lobby ID | 28540068921398464 |
+| Players | 4/8 |
+| Host Name | yuca |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:48:07 |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:50:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28540068921396191 |
+| Players | 1/8 |
+| Host Name | MAPACHE_$INC0LA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:50:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28540068920343659 |
-| Players | 15/15 |
-| Host Name | Люберцы |
+| Lobby ID | 28540068921668167 |
+| Players | 1/15 |
+| Host Name | el  real  off |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:50:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28540068921677707 |
+| Players | 1/8 |
+| Host Name | Degenalate |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:47:32 |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:50:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28540068917752898 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Pancho |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:40:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28540068921664546 |
+| Players | 1/10 |
+| Host Name | mode:Zaraki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:50:54 |
 
 
