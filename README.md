@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 28, 2023 07:33:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28540321728958171 |
-| Players | 13/15 |
-| Host Name | Mojac |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:54:27 |
+| Lobby ID | 28540321730084853 |
+| Players | 1/8 |
+| Host Name | kelthusadELpro |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:57:25 |
 
 
 |  | ot3_gardens_duo |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 28, 2023 08:53:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28540321729275838 |
-| Players | 6/8 |
-| Host Name | ты слабый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:55:16 |
+| Lobby ID | 28540321730085112 |
+| Players | 1/15 |
+| Host Name | Neb_Fear_96 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:57:25 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540321729413373 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:55:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28540321728193933 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:52:33 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540321728819282 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Señor villagra |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:54:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28540321729289665 |
-| Players | 1/10 |
-| Host Name | BigKing Assault Mode |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:55:18 |
+| Lobby ID | 28540321729942098 |
+| Players | 1/15 |
+| Host Name | Soy El Corazon De Las Tinieblas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:57:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540321729166056 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Patati |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:54:58 |
@@ -113,25 +113,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531604335486840 |
-| Players | 21/24 |
+| Players | 18/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 28, 2023 03:49:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28540321729866261 |
-| Players | 1/8 |
-| Host Name | アカメ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:56:51 |
+| Lobby ID | 28540321729900586 |
+| Players | 6/15 |
+| Host Name | VeryFezzy |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:56:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28540321729902426 |
+| Players | 2/10 |
+| Host Name | K292 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:56:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28540321727061366 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:49:35 |
@@ -139,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28540068940775385 |
+| Lobby ID | 28540321730310387 |
 | Players | 2/10 |
-| Host Name | ۩br۩XrenanX |
+| Host Name | Rama |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:39:06 |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:57:58 |
 
 
