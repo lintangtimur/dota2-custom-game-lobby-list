@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28531604335486840 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 28, 2023 03:49:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540068918229595 |
-| Players | 13/24 |
+| Players | 22/24 |
 | Host Name | El tipo N |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:42:11 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28540068919046083 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | XFullHouse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:44:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28540068919537030 |
-| Players | 1/15 |
-| Host Name | BANZ |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:45:28 |
+| Lobby ID | 28540068917720376 |
+| Players | 21/24 |
+| Host Name | Agua |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:40:54 |
 
 
 |  | ot3_desert_octet |
@@ -47,40 +47,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 28, 2023 07:33:28 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28540068919702848 |
+| Players | 2/24 |
+| Host Name | Mast3rm1nd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:45:54 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28540068919494999 |
-| Players | 10/15 |
-| Host Name | theWORLD |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:45:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28540068918907148 |
-| Players | 6/8 |
-| Host Name | pato6661 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:43:52 |
+| Lobby ID | 28540068919775677 |
+| Players | 7/15 |
+| Host Name | Carry-Potter |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:46:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28540068919491789 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | 99 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:45:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068919702848 |
-| Players | 1/24 |
-| Host Name | Mast3rm1nd |
+| Lobby ID | 28540068919948016 |
+| Players | 5/10 |
+| Host Name | 2DWRLD PREQUEL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:46:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28540068920060279 |
+| Players | 2/8 |
+| Host Name | Sky |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:45:54 |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:46:49 |
 
 
 |  | epic_boss_fight_nightmare |
