@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068909656602 |
-| Players | 9/10 |
-| Host Name | avestruz |
+| Lobby ID | 28540068911019482 |
+| Players | 1/10 |
+| Host Name | Tucan Mistico :v |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:20:34 |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:24:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28540068910585413 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Emotional Damage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:22:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28540068910247810 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:22:02 |
@@ -47,28 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 28, 2023 07:22:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28540068909636482 |
-| Players | 7/8 |
-| Host Name | Murió EG, ahora fan de qué? De W |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:20:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28540068910653627 |
-| Players | 4/10 |
-| Host Name | otsu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:23:04 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540068909941397 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | PORTOLITA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 07:21:15 |
@@ -76,20 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068910671097 |
-| Players | 1/10 |
-| Host Name | Chogex |
+| Lobby ID | 28540068910653627 |
+| Players | 9/10 |
+| Host Name | otsu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:23:07 |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:23:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068910837442 |
-| Players | 3/8 |
-| Host Name | ☬灯kill me灯forever alone灯 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 07:23:32 |
+| Lobby ID | 28540068910961027 |
+| Players | 2/10 |
+| Host Name | Rupicola |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:23:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28540068910045413 |
+| Players | 9/10 |
+| Host Name | Dell Pentium 4 quad core duo 2.0 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:21:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28540068911028423 |
+| Players | 2/15 |
+| Host Name | BABA YAGA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 07:24:01 |
 
 
 |  | epic_boss_fight_nightmare |
