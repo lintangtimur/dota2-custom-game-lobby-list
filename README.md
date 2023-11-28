@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28540068940236235 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | A` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:37:46 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28540068940112428 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | FIAK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:37:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28540068939856893 |
-| Players | 10/15 |
-| Host Name | Fitty_spenc |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:36:49 |
+| Lobby ID | 28540068940468211 |
+| Players | 4/24 |
+| Host Name | Red Jhon |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:38:20 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540068940276794 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | DeadKiss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 08:37:52 |
@@ -67,19 +67,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068940294067 |
-| Players | 2/10 |
-| Host Name | ☺ |
+| Lobby ID | 28540068940676988 |
+| Players | 1/10 |
+| Host Name | Shaggy |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:37:55 |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:38:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28540068940628526 |
+| Players | 1/8 |
+| Host Name | Socrates official |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:38:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28540068940343317 |
-| Players | 1/10 |
-| Host Name | GodL1ke |
+| Lobby ID | 28540068940725184 |
+| Players | 5/10 |
+| Host Name | SEXmachine |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 08:38:02 |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:38:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28540068940728154 |
+| Players | 3/10 |
+| Host Name | EL VENECO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:38:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28540068940450190 |
+| Players | 1/5 |
+| Host Name | grand magus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 28, 2023 08:38:18 |
 
 
