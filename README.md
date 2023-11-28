@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28540321738788573 |
-| Players | 3/8 |
-| Host Name | Vitrex1111 |
+| Players | 5/8 |
+| Host Name | shika |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 09:19:28 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28540321739697489 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ZдраVствуй СалоРе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 28, 2023 09:21:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540321740371583 |
-| Players | 1/24 |
+| Players | 8/24 |
 | Host Name | drownecro23 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 28, 2023 09:23:22 |
@@ -49,38 +49,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28540321739191200 |
-| Players | 5/8 |
-| Host Name | k e n s h i n |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 09:20:27 |
+| Lobby ID | 28540321740953551 |
+| Players | 3/8 |
+| Host Name | アカメ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 09:24:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28540321739590723 |
-| Players | 7/10 |
-| Host Name | eby |
+| Lobby ID | 28540321740795145 |
+| Players | 1/8 |
+| Host Name | MkBol |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 09:21:25 |
+| Lobby Creation Time | Tuesday, November 28, 2023 09:24:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28540321740415214 |
-| Players | 3/15 |
-| Host Name | DeadKiss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 28, 2023 09:23:29 |
+| Lobby ID | 28540321738989639 |
+| Players | 23/24 |
+| Host Name | rmundel |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 09:19:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28540321738655366 |
-| Players | 8/10 |
-| Host Name | Uncle Frank |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 28, 2023 09:19:08 |
+| Lobby ID | 28540321741034481 |
+| Players | 3/24 |
+| Host Name | NO TE VOY A DEJAR GANAR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 28, 2023 09:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
