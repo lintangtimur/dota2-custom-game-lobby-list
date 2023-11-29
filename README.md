@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631907766218 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:41:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631905002247 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Soulwarrior |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:35:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631905718483 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:37:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631907107942 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | FB🦃 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:39:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631906394522 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | maku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:38:26 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631907678549 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:41:00 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631907747137 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:41:09 |
