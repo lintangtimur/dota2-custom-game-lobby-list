@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996085334904 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Rezys- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:40:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996084970860 |
-| Players | 7/8 |
-| Host Name | Кибок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:40:18 |
+| Lobby ID | 28541996080082433 |
+| Players | 2/8 |
+| Host Name | mirame, mirate y minimizate |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:35:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,17 +76,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996080082433 |
+| Lobby ID | 28541996085906524 |
 | Players | 4/8 |
-| Host Name | mirame, mirate y minimizate |
+| Host Name | ROCK HARD |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:41:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996085925318 |
+| Players | 1/24 |
+| Host Name | 謙虚さを身につけろ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:41:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996085988499 |
+| Players | 1/24 |
+| Host Name | Arpa, |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:41:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996086006646 |
+| Players | 1/24 |
+| Host Name | Chupete |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:35:21 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:41:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996086033712 |
+| Players | 1/24 |
+| Host Name | crimento |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:41:22 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541996080287463 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Крокер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:35:33 |
