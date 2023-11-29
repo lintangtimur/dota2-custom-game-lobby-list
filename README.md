@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995835820710 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:55:42 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:56:14 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541995836487242 |
-| Players | 1/5 |
-| Host Name | Tameo |
+| Lobby ID | 28541995840335006 |
+| Players | 2/10 |
+| Host Name | GreShnik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:56:55 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:04:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:01:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995840335006 |
-| Players | 1/10 |
-| Host Name | GreShnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:04:20 |
 
 
