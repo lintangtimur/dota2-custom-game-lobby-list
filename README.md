@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631841365316 |
-| Players | 2/10 |
-| Host Name | Tu Rata Favorita |
+| Players | 1/10 |
+| Host Name | эа |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:25:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541631836284209 |
+| Players | 10/10 |
+| Host Name | Goblok Slayer |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:15:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631841334770 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Don Quesito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:25:55 |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 09:26:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631841862398 |
-| Players | 1/24 |
-| Host Name | 0 R 0 C H I |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:27:01 |
+| Lobby ID | 28541631841872315 |
+| Players | 2/15 |
+| Host Name | 0_0 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:27:02 |
 
 
