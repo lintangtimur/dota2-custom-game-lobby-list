@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541995835820710 |
 | Players | 13/24 |
-| Host Name | Lulalelilo |
+| Host Name | Arthamiel |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:55:42 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995844522634 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Theforehead |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:12:09 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:12:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995844545610 |
-| Players | 2/8 |
-| Host Name | ODESKIN |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:12:12 |
+| Lobby ID | 28541995844560743 |
+| Players | 1/15 |
+| Host Name | aWarDeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:12:14 |
 
 
 |  | epic_boss_fight_nightmare |
