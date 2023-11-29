@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996056721503 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:10:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996057666469 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | доза 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:11:59 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996057467741 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Fasters |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:11:46 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996057790147 |
+| Players | 1/10 |
+| Host Name | [TGP] T-Virus S>UnusualHats |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996057086009 |
+| Lobby ID | 28541996057912675 |
 | Players | 1/8 |
-| Host Name | kawasaki |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:11:21 |
+| Host Name | CM Axl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Витяня-35см) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:10:37 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541996057683662 |
-| Players | 1/7 |
-| Host Name | s1mplyfat |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:12:00 |
 
 
