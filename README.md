@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:40:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631877954712 |
-| Players | 20/24 |
-| Host Name | Parka |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:39:15 |
+| Lobby ID | 28541631879131988 |
+| Players | 2/10 |
+| Host Name | ^_^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:41:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631878208115 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Estriper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:39:46 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631877319164 |
-| Players | 7/8 |
-| Host Name | Babygroot |
+| Lobby ID | 28541631879153551 |
+| Players | 6/8 |
+| Host Name | 丹生 | lya |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:37:58 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:41:41 |
 
 
 |  | ot3_desert_octet |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541631877371192 |
 | Players | 2/24 |
-| Host Name | IDX |
+| Host Name | VanzrayGx |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:38:04 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631878199130 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Yedolf Westler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:39:45 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631878914038 |
-| Players | 1/15 |
-| Host Name | Dark |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:41:11 |
+| Lobby ID | 28541631879194962 |
+| Players | 2/15 |
+| Host Name | Hello Daddy! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:41:46 |
 
 
