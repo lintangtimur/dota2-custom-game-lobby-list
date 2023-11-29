@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995947660481 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ☮Alive |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996074838941 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Скибиди батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:30:01 |
@@ -117,5 +117,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Auswählen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:31:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996076882604 |
+| Players | 4/8 |
+| Host Name | tOfu prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:32:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996076931838 |
+| Players | 1/10 |
+| Host Name | | Friend | |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:32:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996076967465 |
+| Players | 1/5 |
+| Host Name | bulok066 |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:32:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996076979139 |
+| Players | 1/5 |
+| Host Name | leonidas_rcg |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:32:11 |
 
 
