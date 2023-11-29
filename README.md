@@ -20,31 +20,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995892368784 |
-| Players | 1/8 |
-| Host Name | Дон Доныч |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:34:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995892241719 |
-| Players | 1/15 |
-| Host Name | OPEN YOUR CULIS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:33:48 |
+| Lobby ID | 28541995892398092 |
+| Players | 4/10 |
+| Host Name | имею представлен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995892267882 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | прикуриватель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:33:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995892418310 |
+| Players | 1/8 |
+| Host Name | kiki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995892434450 |
+| Players | 1/8 |
+| Host Name | NVV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995892453377 |
+| Players | 1/15 |
+| Host Name | OPEN YOUR CULIS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995888597696 |
+| Players | 14/15 |
+| Host Name | ПОВОЗКА В ДУРКУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:27:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -74,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 16:31:37 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28541995892366594 |
+| Lobby ID | 28541995892453785 |
 | Players | 1/7 |
 | Host Name | Haseo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:34:00 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995892489459 |
+| Players | 2/5 |
+| Host Name | Лесной житель |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:13 |
 
 
