@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996001221310 |
-| Players | 3/8 |
-| Host Name | November |
+| Lobby ID | 28541996000379477 |
+| Players | 9/10 |
+| Host Name | MAMYT PAXAL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:06:19 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:05:20 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995995472027 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Parrot Pit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:59:20 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПРИНЦЕССА СОФИЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:06:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996000379477 |
-| Players | 7/10 |
-| Host Name | MAMYT PAXAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:05:20 |
 
 
