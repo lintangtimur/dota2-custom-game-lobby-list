@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631911771220 |
-| Players | 22/24 |
-| Host Name | USA IS THE TERRORIST N°1 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:49:01 |
+| Lobby ID | 28541631913342659 |
+| Players | 1/8 |
+| Host Name | Maito Gai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:52:07 |
 
 
 |  | ot3_jungle_quintet |
