@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631886609121 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Strong Woman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:56:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631884092020 |
-| Players | 5/24 |
+| Players | 13/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:51:38 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631887180723 |
-| Players | 2/15 |
-| Host Name | lacroix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:57:48 |
+| Lobby ID | 28541631887588405 |
+| Players | 3/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:58:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631886934033 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | TOP REG in the world |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:57:18 |
@@ -56,48 +56,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631887812046 |
+| Players | 15/24 |
+| Host Name | Vernedomo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:59:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631888148077 |
+| Players | 2/8 |
+| Host Name | mikado御 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:59:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631888058755 |
+| Players | 1/8 |
+| Host Name | 난 그들을 증오 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:59:36 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631886655512 |
-| Players | 9/10 |
-| Host Name | Dell Pentium 4 quad core duo 2.0 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:56:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631887111332 |
-| Players | 9/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:57:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631886931325 |
-| Players | 12/15 |
-| Host Name | 最好的 |
+| Lobby ID | 28541631888124505 |
+| Players | 2/10 |
+| Host Name | I'm sleeping |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:57:18 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:59:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631887588405 |
-| Players | 2/15 |
-| Host Name | Datedi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:58:38 |
+| Lobby ID | 28541631888148967 |
+| Players | 1/8 |
+| Host Name | EMOBED |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:59:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631887812046 |
-| Players | 4/24 |
-| Host Name | Vernedomo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:59:06 |
+| Lobby ID | 28541631888261059 |
+| Players | 1/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:00:02 |
 
 
