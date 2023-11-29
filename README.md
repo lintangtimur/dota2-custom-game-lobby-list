@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:54:29 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541631917319020 |
-| Players | 1/5 |
-| Host Name | full focus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:59:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631916729717 |
@@ -38,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:58:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631916343767 |
-| Players | 11/15 |
-| Host Name | неумехапелемеха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:57:57 |
+| Lobby ID | 28541631917322703 |
+| Players | 1/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:59:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631916050949 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | REWQ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:57:23 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631917190667 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | SHINU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:59:38 |
@@ -86,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631915059570 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:55:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631917322703 |
-| Players | 1/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:59:53 |
+| Lobby ID | 28541631917786924 |
+| Players | 1/15 |
+| Host Name | Animazzy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:00:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631917809479 |
+| Players | 1/15 |
+| Host Name | BBS LM F1 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:00:50 |
 
 
