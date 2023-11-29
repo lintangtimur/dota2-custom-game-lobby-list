@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995947660481 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ☮Alive |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
@@ -47,60 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:09:41 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996059085252 |
-| Players | 7/10 |
-| Host Name | 🍌 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:13:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996030837948 |
-| Players | 8/24 |
-| Host Name | Injoker.Death |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996057912675 |
-| Players | 6/8 |
-| Host Name | CM Axl |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996059446303 |
-| Players | 4/8 |
-| Host Name | психопат? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:13:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996059463599 |
-| Players | 10/15 |
-| Host Name | Rainstorm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:13:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996059542964 |
-| Players | 13/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:13:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996059832116 |
@@ -110,13 +56,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:14:17 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996030837948 |
+| Players | 6/24 |
+| Host Name | Injoker.Death |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996059965422 |
+| Lobby ID | 28541996057912675 |
+| Players | 3/8 |
+| Host Name | CM Axl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996060473546 |
 | Players | 1/8 |
 | Host Name | Традиционикл |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:14:26 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:14:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996060253269 |
+| Players | 5/15 |
+| Host Name | scotland |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:14:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996059542964 |
+| Players | 19/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:13:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996060542361 |
+| Players | 2/10 |
+| Host Name | Juvelir_130 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:15:02 |
 
 
 |  | epic_boss_fight_nightmare |
