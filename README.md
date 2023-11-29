@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996054123549 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:08:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996055793616 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | IGOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:09:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996030837948 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | MADARA |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
@@ -76,15 +76,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996055428279 |
-| Players | 4/8 |
-| Host Name | 7+7-7х7/7=7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:09:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28541996055516378 |
 | Players | 4/8 |
 | Host Name | травмат |
@@ -92,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:09:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996052270163 |
-| Players | 9/10 |
-| Host Name | MKL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:06:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996055280555 |
-| Players | 1/5 |
-| Host Name | 灵犀一指 |
+| Lobby ID | 28541996056042402 |
+| Players | 1/15 |
+| Host Name | 多多益善 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:09:25 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:10:15 |
 
 
