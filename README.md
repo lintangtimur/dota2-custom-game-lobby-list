@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995919390559 |
-| Players | 14/15 |
-| Host Name | Baobab |
+| Lobby ID | 28541995919723139 |
+| Players | 7/10 |
+| Host Name | sunflower? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:18:43 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:19:16 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995919448801 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 3K rank or 3K rank? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:18:49 |
@@ -51,17 +51,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541995919582206 |
 | Players | 1/24 |
-| Host Name | AmBOT |
+| Host Name | CUANPROTPROT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:19:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995919723139 |
-| Players | 2/10 |
-| Host Name | sunflower? |
+| Lobby ID | 28541995919943936 |
+| Players | 3/15 |
+| Host Name | НЕ_БЕЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:19:16 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:19:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995919990004 |
+| Players | 2/10 |
+| Host Name | Clovis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:19:41 |
 
 
