@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849236063 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631849635760 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:05 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849737590 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631849956213 |
-| Players | 1/24 |
-| Host Name | §håđøwBłøøđ |
+| Lobby ID | 28541631850963604 |
+| Players | 6/10 |
+| Host Name | Arthas Menethil |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:43:43 |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:45:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631849985123 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Aka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:47 |
@@ -122,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631850648528 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:45:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631850963604 |
-| Players | 6/10 |
-| Host Name | Arthas Menethil |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:45:43 |
 
 
