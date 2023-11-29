@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631826861533 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Ez Wil |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:53:57 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631827921859 |
-| Players | 1/10 |
-| Host Name | goshiu |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:56:14 |
+| Lobby ID | 28541631828530175 |
+| Players | 2/24 |
+| Host Name | merLO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:37 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631828435534 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:57:24 |
@@ -104,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631828495015 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Histeria |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:57:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631828530175 |
-| Players | 2/24 |
-| Host Name | merLO |
+| Lobby ID | 28541631828705350 |
+| Players | 2/8 |
+| Host Name | Tamborsito |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:57:37 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:58:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631828653646 |
-| Players | 1/8 |
-| Host Name | ☬Brian༄B.V☬ |
+| Lobby ID | 28541631828339201 |
+| Players | 4/8 |
+| Host Name | Pepe Argento |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:57:54 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:11 |
 
 
