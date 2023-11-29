@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996124396672 |
-| Players | 5/10 |
-| Host Name | Мэл Гибсон |
+| Lobby ID | 28541996125229432 |
+| Players | 2/10 |
+| Host Name | Dal ZaZu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:19:25 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:20:15 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996124492580 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Stray228 prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:19:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996121815967 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:16:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996121533544 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:16:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996124807131 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Jighoul |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:19:50 |
