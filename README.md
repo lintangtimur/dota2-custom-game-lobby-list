@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:56:48 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541631828332608 |
+| Players | 1/7 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631827830792 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631827515413 |
-| Players | 19/24 |
-| Host Name | Jimmi Romay |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:55:21 |
+| Lobby ID | 28541631827921859 |
+| Players | 1/10 |
+| Host Name | goshiu |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:56:14 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631827077225 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Dedo |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:54:25 |
@@ -83,30 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:56:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631827921859 |
-| Players | 1/10 |
-| Host Name | goshiu |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:56:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631824436819 |
-| Players | 23/24 |
-| Host Name | gronk |
+| Lobby ID | 28541631828326491 |
+| Players | 1/24 |
+| Host Name | merLO |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631828341403 |
+| Players | 1/15 |
+| Host Name | 0 R 0 C H I |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:48:32 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631828257454 |
-| Players | 1/8 |
-| Host Name | Kaká |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:57:00 |
+| Lobby ID | 28541631828339201 |
+| Players | 4/8 |
+| Host Name | Pepe Argento |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:11 |
 
 
