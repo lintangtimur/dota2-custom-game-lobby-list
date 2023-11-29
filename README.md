@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631854522681 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | alexander  yc |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:52:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631854599671 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | эгоис |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:53:02 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bronchitis enjoyer |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:53:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631854706980 |
+| Players | 11/24 |
+| Host Name | nudlelay |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:53:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631854721272 |
+| Players | 1/8 |
+| Host Name | Legendary Raccoon |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:53:17 |
 
 
