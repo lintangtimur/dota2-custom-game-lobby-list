@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541631828170268 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Rapier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:56:48 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:10:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541631834769775 |
+| Players | 1/5 |
+| Host Name | TxxGunslingerxxT |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:11:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631834285643 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | GREYRAT016 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:10:54 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631833891807 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:10:01 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631834492806 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:11:21 |
@@ -117,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lotus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:11:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631834777551 |
+| Players | 6/10 |
+| Host Name | Anúbis |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:11:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631834797536 |
+| Players | 2/10 |
+| Host Name | /-|-\Liquid_M1nd/-|-\ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:12:02 |
 
 
