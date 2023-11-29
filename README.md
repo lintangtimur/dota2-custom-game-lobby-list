@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995913743613 |
-| Players | 21/24 |
-| Host Name | 我柜子动了 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:09:35 |
+| Lobby ID | 28541995917226125 |
+| Players | 4/15 |
+| Host Name | СНЕГУРОЧКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:15:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995917160294 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | kshkld7ck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:15:08 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995916769450 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Билибоба обычный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:14:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995917197952 |
-| Players | 4/8 |
-| Host Name | Сосик - Отсосик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:15:11 |
 
 
 |  | epic_boss_fight_nightmare |
