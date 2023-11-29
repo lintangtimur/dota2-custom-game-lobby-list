@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995914485077 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ХУЕЖУЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:10:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995914203957 |
-| Players | 8/10 |
-| Host Name | romance in tokyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:10:20 |
+| Lobby ID | 28541995914928634 |
+| Players | 1/15 |
+| Host Name | Shango!!! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:11:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995914843859 |
-| Players | 1/10 |
-| Host Name | [P_P) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:11:22 |
+| Lobby ID | 28541995914904308 |
+| Players | 2/10 |
+| Host Name | qeqe |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:11:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:10:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541995914838137 |
-| Players | 1/5 |
-| Host Name | не банить пуджа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:11:22 |
 
 
