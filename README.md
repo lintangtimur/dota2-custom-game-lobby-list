@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996217438217 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 猫又 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996212340965 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:46:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996217503761 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | АФГАНКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996216939719 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Dan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:09 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:49:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996217981219 |
-| Players | 7/8 |
-| Host Name | Creepachyo |
+| Lobby ID | 28541996218246513 |
+| Players | 15/15 |
+| Host Name | C.P.T.N |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:52:11 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:52:27 |
 
 
 |  | ot3_gardens_duo |
@@ -85,17 +85,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996217608976 |
+| Lobby ID | 28541996218459380 |
 | Players | 2/8 |
-| Host Name | Я ебу алибабу |
+| Host Name | bra4o4a enjoyer pma only |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:52:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996218622828 |
+| Players | 2/10 |
+| Host Name | НОГАЛАДОНЬ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:51:49 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:52:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996215366671 |
+| Players | 8/10 |
+| Host Name | gokirus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:49:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996218751074 |
+| Players | 4/8 |
+| Host Name | Tetsuno_ken |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:52:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996218770473 |
+| Players | 2/15 |
+| Host Name | Dedicated5 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:52:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996215266773 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Sid |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:49:28 |
@@ -104,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28541996215200361 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Камень |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:49:25 |
@@ -113,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996217520804 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ID : T41104 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996217586692 |
-| Players | 1/10 |
-| Host Name | iam HORNY ✪ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:51:47 |
 
 
