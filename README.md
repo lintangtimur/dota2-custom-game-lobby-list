@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:45:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996149910032 |
-| Players | 5/8 |
-| Host Name | Afghanistan |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:45:01 |
+| Lobby ID | 28541996151184975 |
+| Players | 1/15 |
+| Host Name | qou |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:46:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,28 +83,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:45:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996151186252 |
-| Players | 1/15 |
-| Host Name | ✪BikeY 201✪ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:46:20 |
+| Lobby ID | 28541996151212938 |
+| Players | 3/10 |
+| Host Name | Sorry Marte |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:46:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996151166450 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | КАК КАКАТЬ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:19 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996151198832 |
+| Players | 1/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:46:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996147775211 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Mr. Krabs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:42:51 |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alelron |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:42:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996151187048 |
-| Players | 2/5 |
-| Host Name | Mezii |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:46:20 |
 
 
