@@ -41,19 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995811222557 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:11:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995812861077 |
-| Players | 1/8 |
-| Host Name | todd chavez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:14:42 |
+| Lobby ID | 28541995813899466 |
+| Players | 2/15 |
+| Host Name | 大大大Allah Ak Bar大大大 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:16:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995813843328 |
+| Players | 1/15 |
+| Host Name | Obergruppenführer John smith |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:16:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995813869415 |
+| Players | 2/10 |
+| Host Name | высергей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:16:31 |
 
 
 |  | epic_boss_fight_normal |
