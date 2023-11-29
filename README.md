@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996121812357 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ROCK HARD |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:16:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996099086624 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Mr_Anderson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:54:27 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996121815967 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:16:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996122103263 |
-| Players | 9/10 |
-| Host Name | Мать жива? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:17:11 |
+| Lobby ID | 28541996123098169 |
+| Players | 3/15 |
+| Host Name | Whitepuma |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:18:09 |
 
 
 |  | ot3_desert_octet |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:16:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996123165535 |
-| Players | 6/10 |
-| Host Name | Darkness.38 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:18:13 |
+| Lobby ID | 28541996123310450 |
+| Players | 2/8 |
+| Host Name | Stray228 prime |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:18:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996122746289 |
-| Players | 12/15 |
-| Host Name | bon voyage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:17:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996123098169 |
-| Players | 1/15 |
-| Host Name | Whitepuma |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:18:09 |
+| Lobby ID | 28541996123394966 |
+| Players | 1/8 |
+| Host Name | 鴨の嘴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:18:27 |
 
 
 |  | epic_boss_fight_challenger |
