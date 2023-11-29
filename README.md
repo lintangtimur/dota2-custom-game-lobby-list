@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:22:25 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541631886609121 |
-| Players | 9/10 |
-| Host Name | Strong Woman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:56:39 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631884092020 |
@@ -32,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631888693532 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:01:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631886934033 |
-| Players | 12/15 |
-| Host Name | TOP REG in the world |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:57:18 |
+| Lobby ID | 28541631889422362 |
+| Players | 2/10 |
+| Host Name | moose |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:02:53 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631888880639 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Smitty Weber Man Jensen |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:01:37 |
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631888261059 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:00:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631889243824 |
+| Players | 9/15 |
+| Host Name | вопрос с подводником |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:02:29 |
 
 
