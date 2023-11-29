@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996229793667 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | BaBa Yaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:03:55 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:02:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996229334251 |
-| Players | 12/15 |
-| Host Name | MechaNika; |
+| Lobby ID | 28541996230104512 |
+| Players | 2/8 |
+| Host Name | деманы в голаве😈 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:03:27 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:04:13 |
 
 
 |  | ot3_necropolis_ffa |
