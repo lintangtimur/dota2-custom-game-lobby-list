@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995852152911 |
-| Players | 13/15 |
-| Host Name | SBSS |
+| Lobby ID | 28541995852545663 |
+| Players | 3/10 |
+| Host Name | BRAINSONTHECURB! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:26:05 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:26:47 |
 
 
 |  | ot3_desert_octet |
@@ -27,33 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:23:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995849208078 |
-| Players | 23/24 |
-| Host Name | 掌握之中，岂可逃之？ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:20:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995852545663 |
-| Players | 2/10 |
-| Host Name | BRAINSONTHECURB! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:26:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995852636239 |
-| Players | 1/15 |
-| Host Name | nylunds |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:26:57 |
 
 
 |  | epic_boss_fight_nightmare |
