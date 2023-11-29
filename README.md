@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995950151810 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ObKyReN-_- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:03:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995948280034 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995950086919 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:03:23 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995950432277 |
+| Lobby ID | 28541995950598678 |
 | Players | 1/8 |
-| Host Name | rmdir / |
+| Host Name | ||| |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:03:51 |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:04:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995949340912 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | I ATE NOTHING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:02:24 |
