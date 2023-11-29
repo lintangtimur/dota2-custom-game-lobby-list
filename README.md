@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996104395193 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:46 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:01:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996105852042 |
-| Players | 10/15 |
-| Host Name | Тотальный фид |
+| Lobby ID | 28541996106782243 |
+| Players | 3/8 |
+| Host Name | бэжюжю((((((((((((((( |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:01:11 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:02:07 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996104497828 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996106036155 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GoDota2.com |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:01:22 |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:01:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996105403701 |
-| Players | 9/10 |
-| Host Name | BACTERIA |
+| Lobby ID | 28541996106797749 |
+| Players | 1/8 |
+| Host Name | Леха Секс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:02:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996095353576 |
+| Players | 23/24 |
+| Host Name | GOD YOUR DAD |
 | Region | INDIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:00:45 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Наташа 2 баша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:01:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541996106847653 |
+| Players | 2/7 |
+| Host Name | Дед из аниме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:02:11 |
 
 
