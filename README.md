@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995860694853 |
-| Players | 7/8 |
-| Host Name | Долбарик :D |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:41:00 |
+| Lobby ID | 28541995862038863 |
+| Players | 1/24 |
+| Host Name | monkey king |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:43:19 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995859112373 |
-| Players | 22/24 |
-| Host Name | S e x |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:38:15 |
+| Lobby ID | 28541995862262629 |
+| Players | 2/8 |
+| Host Name | mudachyo flow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:43:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995861988153 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | .... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:43:13 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:41:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995862262629 |
-| Players | 2/8 |
-| Host Name | mudachyo flow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:43:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995862038863 |
-| Players | 1/24 |
-| Host Name | monkey king |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:43:19 |
 
 
 |  | epic_boss_fight_nightmare |
