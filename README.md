@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541631835942625 |
 | Players | 2/10 |
-| Host Name | Toffy La Realeza |
+| Host Name | Levi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:14:27 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631835776903 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | YUGO ...:v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:14:06 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 21/24 |
-| Host Name | 123 |
+| Players | 20/24 |
+| Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631834496231 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lotus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:11:22 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631836711970 |
-| Players | 2/24 |
-| Host Name | Akong love language kay "IYOT" |
+| Players | 1/24 |
+| Host Name | Silky Johnson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:16:05 |
 
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | REON |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:13:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631835754145 |
+| Players | 8/10 |
+| Host Name | amiiigh |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:14:03 |
 
 
