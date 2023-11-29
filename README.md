@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631829232084 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Inku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:59:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631830724936 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | yo te cumplo nomas tio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:02:54 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631830680223 |
-| Players | 3/15 |
-| Host Name | Hi! Mito |
+| Players | 6/15 |
+| Host Name | ... |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:02:48 |
 
@@ -81,5 +81,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ФУФЕЛШМЕРЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:02:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631830785682 |
+| Players | 1/24 |
+| Host Name | Mato dois e ainda me escapo!!! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:03:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631830782779 |
+| Players | 1/8 |
+| Host Name | IA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:03:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631830804803 |
+| Players | 2/24 |
+| Host Name | HipeYopukitre |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:03:06 |
 
 
