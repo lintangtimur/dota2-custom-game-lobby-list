@@ -74,20 +74,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996104509712 |
-| Players | 9/10 |
-| Host Name | Cago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
+| Lobby ID | 28541996104933451 |
+| Players | 3/15 |
+| Host Name | ❤Tr1mada❤ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996104344242 |
 | Players | 3/8 |
-| Host Name | 1 vs 5 ?! |
+| Host Name | Светочка из 11А |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:42 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996104497828 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
@@ -110,39 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:58:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996104662015 |
-| Players | 1/8 |
-| Host Name | травмат |
+| Lobby ID | 28541996104939398 |
+| Players | 1/15 |
+| Host Name | Ґедзь |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:00:01 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:18 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541996104124843 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996104509002 |
-| Players | 1/5 |
-| Host Name | leonidas_rcg |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996104762842 |
-| Players | 1/5 |
-| Host Name | Аморальный Урод |
+| Lobby ID | 28541996104940339 |
+| Players | 1/10 |
+| Host Name | Danh hài Vân Sơn |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:00:07 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:18 |
 
 
