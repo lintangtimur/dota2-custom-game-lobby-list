@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995885298871 |
-| Players | 9/10 |
-| Host Name | solo chicken |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:22:24 |
+| Lobby ID | 28541995879168728 |
+| Players | 7/15 |
+| Host Name | moustachio |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:12:11 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:41:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995879168728 |
-| Players | 8/15 |
-| Host Name | moustachio |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:12:11 |
+| Lobby ID | 28541995885701508 |
+| Players | 1/10 |
+| Host Name | Mразь |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:23:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995885698342 |
+| Players | 1/10 |
+| Host Name | ChigaB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:23:04 |
 
 
 |  | epic_boss_fight_nightmare |
