@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631871403922 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Uncle Frank |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:26:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631874899900 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | lacroix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:33:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631874944420 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Patati |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:33:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631875173862 |
-| Players | 6/8 |
+| Players | 1/8 |
 | Host Name | NO SANA NO LIFE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:33:42 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631875600941 |
-| Players | 2/8 |
-| Host Name | Destroyer |
+| Players | 4/8 |
+| Host Name | Ira_Dei_oz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:34:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631875797910 |
-| Players | 5/8 |
-| Host Name | ❀ᴋᴀɴᴀᴏ❀ 』 |
+| Lobby ID | 28541631872835232 |
+| Players | 24/24 |
+| Host Name | (lFuzy^^! |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:34:57 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:29:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631875812141 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | HEROE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:34:58 |
