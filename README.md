@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995772735243 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:58:58 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995775187784 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | (9 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:04:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995774950518 |
-| Players | 2/15 |
-| Host Name | アンへ. ᴊᴀʀɪᴛʜ |
+| Lobby ID | 28541995774212192 |
+| Players | 3/24 |
+| Host Name | 11by |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:03:39 |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:02:07 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995772982018 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:59:27 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:03:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995774212192 |
-| Players | 4/24 |
-| Host Name | 11by |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:02:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995774484037 |
@@ -76,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541995775667487 |
+| Lobby ID | 28541995776473082 |
 | Players | 1/5 |
 | Host Name | Hellcat |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:05:05 |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:06:41 |
 
 
