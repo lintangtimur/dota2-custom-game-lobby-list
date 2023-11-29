@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996094645870 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Zet это Zolo, а Zolo это |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996095170091 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 影子 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:31 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095353576 |
-| Players | 6/24 |
-| Host Name | W1seClover |
+| Players | 5/24 |
+| Host Name | BaiYou |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996095392463 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Captain falafelz |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:44 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996095617080 |
+| Players | 1/15 |
+| Host Name | mr beast |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:50:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996095615283 |
+| Players | 1/24 |
+| Host Name | 大川岛 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:50:58 |
 
 
 |  | epic_boss_fight_nightmare |
