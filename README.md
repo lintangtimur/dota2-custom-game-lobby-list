@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995763809002 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Kirimine |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:42:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995765900543 |
+| Players | 1/10 |
+| Host Name | прочитал = пидop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:46:16 |
 
 
 |  | epic_boss_fight_nightmare |
