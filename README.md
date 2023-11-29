@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996172273402 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Sky Symphony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:07:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996178452207 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | II |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:13:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996177174272 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:12:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996177147812 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | [Sir].BaNooBaBus Hairyman The2nd |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:12:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996178136051 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Afghanistan |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:13:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996178847183 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | goth queen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:14:02 |
