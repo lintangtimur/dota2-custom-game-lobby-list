@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996195118242 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:29:41 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996205671524 |
+| Lobby ID | 28541996203906678 |
 | Players | 3/15 |
-| Host Name | 19 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:39:59 |
+| Host Name | Nuyie2k |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:38:15 |
 
 
 |  | ot3_desert_octet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996204118186 |
-| Players | 6/8 |
-| Host Name | пипер |
+| Lobby ID | 28541996205047216 |
+| Players | 4/8 |
+| Host Name | LARVELL JONES |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:38:27 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:39:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996201442081 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:35:50 |
@@ -77,54 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996205161613 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Миша RAMPAGE |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:39:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996203906678 |
-| Players | 3/15 |
-| Host Name | Nuyie2k |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:38:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996205047216 |
-| Players | 4/8 |
-| Host Name | LARVELL JONES |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:39:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996205653227 |
-| Players | 4/8 |
-| Host Name | Badriq Al Baytmân |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:39:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996201901507 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 666 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:36:17 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996205565879 |
-| Players | 1/5 |
-| Host Name | BABAH | 616 |
+| Lobby ID | 28541996205838877 |
+| Players | 1/10 |
+| Host Name | d1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:39:52 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:40:08 |
 
 
