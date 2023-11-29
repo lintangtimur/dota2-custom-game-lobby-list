@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995906492035 |
-| Players | 2/8 |
-| Host Name | Микроволновка |
+| Lobby ID | 28541995906470772 |
+| Players | 9/15 |
+| Host Name | Nami |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:57:20 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:57:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995905484056 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:55:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995906395989 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | mr_parfumerrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:57:11 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995906109815 |
-| Players | 6/10 |
-| Host Name | 니코 |
+| Players | 9/10 |
+| Host Name | Elindorn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:56:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995906169384 |
-| Players | 10/15 |
-| Host Name | PUTIN WORLD PRESIDENT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:56:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995906470772 |
-| Players | 1/15 |
-| Host Name | Nami |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:57:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995905977052 |
-| Players | 7/8 |
-| Host Name | crying diamond |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:56:30 |
 
 
 |  | epic_boss_fight_nightmare |
