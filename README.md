@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:07:41 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996002632248 |
+| Players | 7/15 |
+| Host Name | Рукожоп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:08:01 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996002320648 |
-| Players | 7/10 |
-| Host Name | May |
+| Lobby ID | 28541996002705307 |
+| Players | 1/10 |
+| Host Name | trash teammate |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:07:38 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:08:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996002719584 |
+| Players | 1/8 |
+| Host Name | recklessive_ 속도 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:08:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996002735316 |
+| Players | 1/8 |
+| Host Name | ₩₮₣?! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:08:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WANDOT |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:07:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996002673260 |
+| Players | 2/5 |
+| Host Name | KeFiR4iK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:08:04 |
 
 
