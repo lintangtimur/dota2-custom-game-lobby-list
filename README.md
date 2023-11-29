@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Mac Sus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631826861533 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Ez Wil |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:53:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631823564585 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | blank |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631827921859 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | goshiu |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:56:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Шестёрка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -76,37 +76,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631827077225 |
-| Players | 14/15 |
-| Host Name | Dedo |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:54:25 |
+| Lobby ID | 28541631828435534 |
+| Players | 2/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631828006065 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | suguru|geto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:56:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631828341403 |
-| Players | 1/15 |
-| Host Name | 0 R 0 C H I |
+| Lobby ID | 28541631828539224 |
+| Players | 1/24 |
+| Host Name | Barbie Lujan Carrion Gil Canes |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:57:11 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631828495015 |
+| Players | 1/10 |
+| Host Name | Histeria |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631828530175 |
+| Players | 2/24 |
+| Host Name | merLO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631828429104 |
+| Lobby ID | 28541631828653646 |
 | Players | 1/8 |
-| Host Name | ME LEDER |
+| Host Name | ☬Brian༄B.V☬ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:57:23 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:57:54 |
 
 
