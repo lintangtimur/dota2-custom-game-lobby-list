@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996087155706 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:42:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996087927191 |
-| Players | 13/15 |
-| Host Name | Zen1tyt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:43:16 |
+| Lobby ID | 28541996087722918 |
+| Players | 9/10 |
+| Host Name | Winston |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:43:04 |
 
 
 |  | ot3_gardens_duo |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996088244299 |
-| Players | 9/10 |
-| Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:43:35 |
+| Lobby ID | 28541996088862260 |
+| Players | 2/10 |
+| Host Name | ChampiKARATE |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:44:13 |
 
 
 |  | epic_boss_fight_nightmare |
