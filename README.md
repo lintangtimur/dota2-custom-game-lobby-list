@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995939433828 |
-| Players | 7/8 |
-| Host Name | увековечено в кам |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:48:46 |
+| Lobby ID | 28541995940288750 |
+| Players | 4/15 |
+| Host Name | 1948esport8 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:49:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,37 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995939867295 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Победа? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:49:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995939997446 |
-| Players | 11/15 |
-| Host Name | EnderDen |
+| Lobby ID | 28541995940535153 |
+| Players | 2/10 |
+| Host Name | Jugger |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:49:33 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:50:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995940090710 |
-| Players | 8/24 |
-| Host Name | V |
+| Players | 9/24 |
+| Host Name | MaxMaster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:49:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995940288750 |
-| Players | 1/15 |
-| Host Name | 1948esport8 |
+| Lobby ID | 28541995940567759 |
+| Players | 2/15 |
+| Host Name | граф де Генерат |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:49:58 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:50:22 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MORPHEUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:49:43 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541995940575368 |
+| Players | 1/7 |
+| Host Name | 8itch please |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:50:22 |
 
 
