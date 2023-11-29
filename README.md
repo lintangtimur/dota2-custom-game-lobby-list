@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631838384226 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | モンキー・D・ルフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:19:44 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631838532300 |
+| Lobby ID | 28541631838637594 |
 | Players | 1/15 |
 | Host Name | Derios pipipi |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:20:03 |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:20:17 |
 
 
