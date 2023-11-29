@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995872880930 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CalculuS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:01:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995873767747 |
+| Players | 4/8 |
+| Host Name | С НОВЫМ ГОДОМ!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:03:13 |
 
 
