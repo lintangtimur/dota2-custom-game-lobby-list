@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807459253 |
-| Players | 12/24 |
-| Host Name | The Last Element_ |
+| Players | 17/24 |
+| Host Name | 617 agi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:04 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995808978205 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:07:47 |
