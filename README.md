@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:01:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996107522803 |
-| Players | 9/10 |
-| Host Name | broking the matter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:02:51 |
+| Lobby ID | 28541996108774987 |
+| Players | 1/8 |
+| Host Name | UNITED WE STAND, DIVIDED WE FALL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:04:06 |
 
 
 |  | ot3_desert_octet |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996107726474 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Da Butchar |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:03:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996106036155 |
-| Players | 1/8 |
-| Host Name | GoDota2.com |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:01:22 |
+| Lobby ID | 28541996108900068 |
+| Players | 4/10 |
+| Host Name | Anatolech |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:04:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996108774987 |
-| Players | 1/8 |
-| Host Name | UNITED WE STAND, DIVIDED WE FALL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:04:06 |
+| Lobby ID | 28541996109064722 |
+| Players | 1/15 |
+| Host Name | ОХОтА-КРепКОЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:04:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:02:32 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28541996108092005 |
-| Players | 2/5 |
-| Host Name | пьяный |
+| Lobby ID | 28541996108892034 |
+| Players | 1/7 |
+| Host Name | Itachi Uchiha |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:03:25 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:04:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БОЛЬНО В НОГЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:03:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996109004471 |
+| Players | 1/5 |
+| Host Name | ГОРЫНЫЧ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:04:20 |
 
 
