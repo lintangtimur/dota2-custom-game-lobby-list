@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995819866766 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SOY CHIBOLOOOO!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:27:14 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:25:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995822444310 |
-| Players | 1/15 |
-| Host Name | 棋技—奇迹 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:31:47 |
+| Lobby ID | 28541995822682727 |
+| Players | 1/10 |
+| Host Name | carol christian поел |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:32:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995820932228 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:29:07 |
