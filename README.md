@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995883411029 |
-| Players | 8/10 |
+| Players | 10/10 |
 | Host Name | Dead_Dragon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:19:16 |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995882155802 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:17:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995882679480 |
-| Players | 9/10 |
-| Host Name | QWASZX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:18:02 |
 
 
