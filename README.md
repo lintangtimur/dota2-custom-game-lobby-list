@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:25:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995786270221 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:25:38 |
+| Lobby ID | 28541995785924757 |
+| Players | 8/15 |
+| Host Name | makpypa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:24:59 |
 
 
 |  | ot3_desert_octet |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:23:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995785924757 |
-| Players | 9/15 |
-| Host Name | makpypa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:24:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995786096545 |
-| Players | 8/10 |
-| Host Name | Middleware |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:25:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995782457899 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:18:19 |
