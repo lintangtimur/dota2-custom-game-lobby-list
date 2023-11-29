@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631844912196 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | tiger gort |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:33:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631843875269 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:31:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631844896220 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EgelatoR the Kingpin |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:33:21 |
