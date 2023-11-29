@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541631846694523 |
-| Players | 8/10 |
-| Host Name | breakdown |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:37:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541631848950595 |
-| Players | 2/5 |
-| Host Name | Parkerhazzah |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:41:42 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28541631849621896 |
@@ -29,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:03 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541631848950595 |
+| Players | 1/5 |
+| Host Name | Parkerhazzah |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:41:42 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849236063 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:17 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849450275 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:43 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631849165409 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Lirral |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:08 |
@@ -86,27 +77,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631849696314 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | H |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:12 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631849737590 |
+| Players | 2/24 |
+| Host Name | Dj cucaracha |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631849956213 |
+| Players | 1/24 |
+| Host Name | §håđøwBłøøđ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631849985123 |
+| Players | 3/15 |
+| Host Name | Nekit13 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:47 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631849741126 |
-| Players | 2/15 |
+| Players | 14/15 |
 | Host Name | モンキー・D・ルフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631849737590 |
-| Players | 1/24 |
-| Host Name | Dj cucaracha |
+| Lobby ID | 28541631850008637 |
+| Players | 3/10 |
+| Host Name | Italiano Gangsta ² |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:43:17 |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:50 |
 
 
