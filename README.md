@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995764402655 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Bắt Con Cọp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:43:30 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 12:34:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995763116714 |
-| Players | 9/10 |
-| Host Name | Kirill Silencer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:41:06 |
+| Lobby ID | 28541995759661087 |
+| Players | 19/24 |
+| Host Name | Elga Tito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:34:38 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995763561236 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | <blank> |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:41:56 |
