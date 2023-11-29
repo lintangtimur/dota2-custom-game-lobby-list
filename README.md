@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995910550107 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995910779560 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995910393299 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | ANTANGA MO ./. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:01 |
@@ -76,26 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995911145924 |
-| Players | 1/15 |
-| Host Name | somein |
+| Lobby ID | 28541995911497660 |
+| Players | 2/15 |
+| Host Name | м0ркв4 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:05:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995911217731 |
-| Players | 2/8 |
-| Host Name | ян брагин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:05:25 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:05:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995906114553 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:56:43 |
@@ -104,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995910237623 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:03:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995911565687 |
+| Players | 1/5 |
+| Host Name | So tired |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:06:00 |
 
 
