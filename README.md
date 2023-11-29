@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995928622917 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:33:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995935461585 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 雕虫小技 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995935955813 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | mirror, mirror |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:52 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995936133254 |
+| Players | 2/15 |
+| Host Name | WinNee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:44:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995936234573 |
+| Players | 1/8 |
+| Host Name | ЛЕХА СТОНКС ЯНИКС 2013 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:44:16 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541995931592035 |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995934113269 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | взаимный отсос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:41:11 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eddie.Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995936248767 |
+| Players | 1/5 |
+| Host Name | 炭烤椒盐海豹 |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:44:17 |
 
 
