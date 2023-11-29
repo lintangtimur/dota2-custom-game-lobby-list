@@ -38,39 +38,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:41:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995873122751 |
-| Players | 8/10 |
-| Host Name | +ARTing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:02:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995867341492 |
-| Players | 1/24 |
-| Host Name | Single Mom Maker |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:52:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995872880930 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | CalculuS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:01:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995873767747 |
-| Players | 4/8 |
-| Host Name | С НОВЫМ ГОДОМ!!! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:03:13 |
+| Lobby ID | 28541995867341492 |
+| Players | 4/24 |
+| Host Name | Single Mom Maker |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:52:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995873824933 |
+| Players | 1/24 |
+| Host Name | Auna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:03:19 |
 
 
