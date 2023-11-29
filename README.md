@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996033241296 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Monty Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:45:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996036406372 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Positive |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:48:35 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996036412264 |
-| Players | 12/15 |
-| Host Name | Gay Fish |
+| Lobby ID | 28541996036921670 |
+| Players | 3/15 |
+| Host Name | Basar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:48:35 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:49:10 |
 
 
 |  | ot3_desert_octet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:48:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996031020380 |
-| Players | 9/10 |
-| Host Name | Makoto Shishio |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:42:31 |
+| Lobby ID | 28541996036830218 |
+| Players | 2/10 |
+| Host Name | EAAM |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:49:04 |
 
 
 |  | epic_boss_fight_challenger |
