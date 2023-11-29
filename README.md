@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631852277686 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Pero eres o no eres? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:48:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849450275 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:43 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:47:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631847077624 |
+| Players | 24/24 |
+| Host Name | Patati |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:37:50 |
 
 
