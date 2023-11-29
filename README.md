@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:13:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996178136051 |
-| Players | 7/8 |
-| Host Name | Afghanistan |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:13:22 |
+| Lobby ID | 28541996180017069 |
+| Players | 4/24 |
+| Host Name | 戯作 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:15:10 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996179996129 |
-| Players | 4/8 |
-| Host Name | fear in my veins |
+| Lobby ID | 28541996180096480 |
+| Players | 1/8 |
+| Host Name | 100 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:15:09 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:15:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996180132398 |
+| Players | 1/15 |
+| Host Name | Bia |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:15:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996180097821 |
+| Players | 1/15 |
+| Host Name | Be Water My Friend. |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:15:15 |
 
 
 |  | epic_boss_fight_nightmare |
