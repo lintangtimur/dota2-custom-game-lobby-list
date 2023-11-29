@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996020340558 |
-| Players | 10/15 |
-| Host Name | Yudachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:29:57 |
+| Lobby ID | 28541996020859484 |
+| Players | 3/15 |
+| Host Name | RAZKOL |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:30:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996019372188 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ETRL-Nerd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:28:46 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996016971992 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Carlton Drake |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:25:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996017612224 |
-| Players | 6/8 |
-| Host Name | Опиаты |
+| Lobby ID | 28541996021016327 |
+| Players | 2/10 |
+| Host Name | OUTWORLDЛЕСИКУРВА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:26:40 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:30:46 |
 
 
 |  | ot3_gardens_duo |
