@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996212473900 |
-| Players | 7/10 |
-| Host Name | _ZIMEN_ |
+| Lobby ID | 28541996213009441 |
+| Players | 3/15 |
+| Host Name | mukrtki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:46:43 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:47:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996212968352 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | alex22k |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:47:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996213009441 |
-| Players | 1/15 |
-| Host Name | mukrtki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:47:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deep Rock Miner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:45:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996211961015 |
-| Players | 1/10 |
-| Host Name | UR friends |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:46:12 |
 
 
 |  | epic_boss_fight_nightmare |
