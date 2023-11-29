@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631869523302 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | asuna |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:22:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631866813820 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | zenzy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:17:05 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631871839008 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:27:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631871909368 |
+| Players | 1/8 |
+| Host Name | mirame, mirate y minimizate |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:27:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631871917165 |
+| Players | 2/15 |
+| Host Name | Wezop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:27:10 |
 
 
