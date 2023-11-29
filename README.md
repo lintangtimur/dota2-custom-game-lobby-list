@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996213791375 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | ambathukam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:48:01 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:43:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996215366671 |
-| Players | 8/10 |
-| Host Name | gokirus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:49:35 |
+| Lobby ID | 28541996216939719 |
+| Players | 1/24 |
+| Host Name | Dan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:51:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996216304102 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Glennou |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:50:31 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996216320472 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | данил лотус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:50:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996216354282 |
-| Players | 13/15 |
-| Host Name | Eshkin Cat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:50:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996216386427 |
-| Players | 7/8 |
-| Host Name | antidepressant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:50:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | серега бомбардир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996216997402 |
+| Players | 8/15 |
+| Host Name | Кабачковый Князь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:51:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996216996947 |
+| Players | 1/15 |
+| Host Name | Catgamer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:51:12 |
 
 
 |  | epic_boss_fight_nightmare |
