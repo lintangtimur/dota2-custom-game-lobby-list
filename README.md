@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995917354237 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Wo die Zitronen bluehen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:15:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995918771796 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Drink some water please |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:17:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995918785666 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Gerardene |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:17:45 |
