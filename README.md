@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631900921129 |
-| Players | 3/10 |
-| Host Name | MALUMABB |
+| Players | 1/10 |
+| Host Name | Pilot.Mark |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:27:28 |
 
@@ -20,31 +20,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:28:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541631900667183 |
-| Players | 14/15 |
-| Host Name | RON |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:26:57 |
+| Lobby ID | 28541631901806287 |
+| Players | 1/10 |
+| Host Name | TriHard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:29:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631901963138 |
+| Players | 1/24 |
+| Host Name | Michael Scott |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:29:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631901149071 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Игорь (Артём) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:27:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631901128972 |
-| Players | 5/8 |
-| Host Name | Hopeツ |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:27:53 |
+| Lobby ID | 28541631901748903 |
+| Players | 5/24 |
+| Host Name | Attentäter |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:29:10 |
 
 
 |  | ot3_desert_octet |
@@ -56,30 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631895995209 |
-| Players | 8/10 |
-| Host Name | wums |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:17:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631901717551 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Карим-Аганим |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:29:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541631901748903 |
-| Players | 1/24 |
-| Host Name | Attentäter |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:29:10 |
 
 
