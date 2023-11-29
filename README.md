@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996048271966 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | RFAB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:01:51 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996048943721 |
-| Players | 9/10 |
-| Host Name | я чмо #RUSTovchane |
+| Players | 7/10 |
+| Host Name | Мать жива? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:02:35 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996048146053 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:01:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996048131201 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Что за бинес-сука? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:01:42 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996049240611 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | No lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:02:54 |
@@ -128,22 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:02:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996048768803 |
-| Players | 14/15 |
-| Host Name | 恋の花 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:02:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996048785056 |
-| Players | 1/5 |
-| Host Name | God B |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:02:25 |
+| Lobby ID | 28541996049434155 |
+| Players | 1/10 |
+| Host Name | Amazon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:03:07 |
 
 
 |  | epic_boss_fight_nightmare |
