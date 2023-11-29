@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:45:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996151184975 |
-| Players | 1/15 |
-| Host Name | qou |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:46:20 |
+| Lobby ID | 28541996151460573 |
+| Players | 3/24 |
+| Host Name | Lion el Messi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:46:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996145786238 |
-| Players | 1/8 |
-| Host Name | Ириски |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:40:51 |
+| Lobby ID | 28541996151603134 |
+| Players | 1/24 |
+| Host Name | Autumn |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:46:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996147363082 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Skif |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:42:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996150100186 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | W2C2 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:45:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996150115820 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Chatuba |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:45:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996151212938 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Sorry Marte |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:21 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996151166450 |
-| Players | 8/15 |
-| Host Name | КАК КАКАТЬ? |
+| Players | 14/15 |
+| Host Name | Биде |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:19 |
 
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996151872534 |
+| Players | 2/15 |
+| Host Name | под пивко |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:47:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996151799300 |
+| Players | 1/24 |
+| Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:46:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996151851908 |
+| Players | 1/8 |
+| Host Name | Luian Camix |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:47:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541996149403598 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:44:30 |
@@ -135,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alelron |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:42:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996151892734 |
+| Players | 1/10 |
+| Host Name | Kurimawski |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:47:03 |
 
 
