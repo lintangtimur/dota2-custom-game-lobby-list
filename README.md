@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 12:03:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631924414568 |
-| Players | 7/8 |
-| Host Name | TrueStories |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:13:39 |
+| Lobby ID | 28541631924401722 |
+| Players | 4/10 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:13:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631923441831 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:11:47 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631922745945 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:10:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631924401722 |
-| Players | 4/10 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:13:37 |
 
 
