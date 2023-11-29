@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631897570529 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mortred |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:20:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631898094569 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Barbie Lujan Carrion Gil Canes |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:21:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631897952123 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | HEAD |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:21:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631897150221 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | egoisto legatoro |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:19:52 |
