@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:32:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996062119971 |
-| Players | 1/15 |
-| Host Name | hakuna10 |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:16:42 |
+| Lobby ID | 28541996077878582 |
+| Players | 1/10 |
+| Host Name | Wi&&ling |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:33:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996073327908 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:28:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996074228953 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Xy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:29:24 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996075876581 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Auswählen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:31:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996077677246 |
-| Players | 1/15 |
-| Host Name | Wi&&ling |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:32:53 |
+| Lobby ID | 28541996077790233 |
+| Players | 1/8 |
+| Host Name | Дабл пенетрейшн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:33:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | | Friend | |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:32:08 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541996077104967 |
-| Players | 1/7 |
-| Host Name | KildasArt |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:32:19 |
 
 
 |  | epic_boss_fight_nightmare |
