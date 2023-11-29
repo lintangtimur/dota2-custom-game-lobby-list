@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631890600496 |
-| Players | 2/10 |
-| Host Name | Oni |
+| Players | 1/10 |
+| Host Name | HealsHereDude |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:05:32 |
 
@@ -20,28 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:03:48 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541631893335423 |
+| Players | 1/10 |
+| Host Name | $ilent |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:11:42 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631889998358 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631892691045 |
-| Players | 5/10 |
-| Host Name | Cherry |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:10:16 |
+| Lobby ID | 28541631893497219 |
+| Players | 1/8 |
+| Host Name | 输了可不好玩,所以我一直觉得不好玩 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:12:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631892694931 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | DRAGONBACKgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:10:16 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -58,19 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631892909984 |
+| Lobby ID | 28541631893344775 |
 | Players | 1/10 |
-| Host Name | 123 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:10:45 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:11:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631892964588 |
-| Players | 10/15 |
-| Host Name | Shadow S.F |
+| Lobby ID | 28541631893310450 |
+| Players | 2/15 |
+| Host Name | roothuyut |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:11:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631893332191 |
+| Players | 1/8 |
+| Host Name | [V] Nero [Z] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:11:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631893495094 |
+| Players | 3/8 |
+| Host Name | Perrolol |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:10:52 |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:12:03 |
 
 
