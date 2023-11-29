@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996085988499 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Arpa, |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:41:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996086355598 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:41:42 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 謙虚さを身につけろ |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:41:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996087096908 |
+| Players | 3/8 |
+| Host Name | >< |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:42:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996087085257 |
+| Players | 1/8 |
+| Host Name | сотик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:42:26 |
 
 
 |  | epic_boss_fight_normal |
