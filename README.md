@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995870069592 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:56:56 |
@@ -50,36 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995867341492 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:52:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995869835172 |
-| Players | 1/24 |
-| Host Name | Medved1337 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:56:32 |
+| Lobby ID | 28541995871438281 |
+| Players | 1/15 |
+| Host Name | 劝学 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:59:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995870819354 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | pressure |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:58:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995869121264 |
-| Players | 9/10 |
-| Host Name | где концерт кишлака? |
+| Lobby ID | 28541995871412965 |
+| Players | 7/8 |
+| Host Name | Царь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:55:19 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:59:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995871479585 |
+| Players | 1/15 |
+| Host Name | QuinnRex |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:59:20 |
 
 
