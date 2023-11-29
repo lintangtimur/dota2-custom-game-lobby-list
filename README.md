@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996018463979 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:27:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996020340558 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Yudachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:29:57 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996019372188 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ETRL-Nerd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:28:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996019678921 |
-| Players | 9/10 |
-| Host Name | molodoy777.七百七十七 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:29:09 |
+| Lobby ID | 28541996016971992 |
+| Players | 1/24 |
+| Host Name | Carlton Drake |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:25:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:25:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996016971992 |
-| Players | 1/24 |
-| Host Name | Carlton Drake |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:25:53 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541996015490882 |
-| Players | 2/7 |
+| Players | 4/7 |
 | Host Name | Vic2or1us |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:24:06 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:29:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996020603289 |
-| Players | 1/5 |
-| Host Name | otaman919 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:30:16 |
 
 
