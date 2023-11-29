@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995755322445 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:27:59 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631924865185 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ProFF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:14:32 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28541995755561560 |
-| Players | 2/7 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:28:06 |
 
 
 |  | epic_boss_fight_nightmare |
