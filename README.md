@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996113919696 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Хороняка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:09:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996112382110 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:07:40 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996099086624 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Mr_Anderson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:54:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996104395193 |
-| Players | 23/24 |
-| Host Name | Yonwalther |
+| Lobby ID | 28541996116012232 |
+| Players | 2/8 |
+| Host Name | Luian Camix |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:46 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:11:13 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996115651596 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Стас Рачеловна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:10:52 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996115614168 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Твое мнение |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:10:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996113755068 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Миша RAMPAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:09:01 |
