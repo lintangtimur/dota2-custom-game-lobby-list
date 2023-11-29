@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995900731405 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | :)))))))) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:47:51 |
@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995900633681 |
-| Players | 5/10 |
-| Host Name | romance in tokyo |
+| Lobby ID | 28541995900717895 |
+| Players | 3/15 |
+| Host Name | Лавашъ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:47:41 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:47:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995900556801 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Красный Шайлушай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:47:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995900717895 |
-| Players | 2/15 |
-| Host Name | Лавашъ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:47:49 |
 
 
 |  | epic_boss_fight_normal |
