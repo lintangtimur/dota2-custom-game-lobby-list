@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:41:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631878208115 |
-| Players | 13/15 |
-| Host Name | Estriper |
+| Lobby ID | 28541631880021148 |
+| Players | 2/8 |
+| Host Name | Наташа два баша |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:39:46 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:43:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631877371192 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | VanzrayGx |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:38:04 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631879681448 |
-| Players | 1/8 |
-| Host Name | ioopsme |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:42:44 |
+| Lobby ID | 28541631879778565 |
+| Players | 3/8 |
+| Host Name | Only pos 4 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:42:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:40:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631878199130 |
-| Players | 7/8 |
-| Host Name | Yedolf Westler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:39:45 |
+| Lobby ID | 28541631880287692 |
+| Players | 1/24 |
+| Host Name | 关注MyGO!!!!!喵谢谢关注 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:43:56 |
 
 
 |  | ot3_gardens_duo |
@@ -110,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:42:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631879778565 |
-| Players | 2/8 |
-| Host Name | Only pos 4 |
+| Lobby ID | 28541631880334684 |
+| Players | 1/15 |
+| Host Name | ab1cd |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:42:56 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:44:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631880021148 |
-| Players | 2/8 |
-| Host Name | Наташа два баша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:43:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541631880287692 |
-| Players | 1/24 |
-| Host Name | 关注MyGO!!!!!喵谢谢关注 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:43:56 |
+| Lobby ID | 28541631880344420 |
+| Players | 2/10 |
+| Host Name | :v |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:44:02 |
 
 
