@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996089943730 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | SaintGhost228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:45:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996089478371 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:44:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996080082433 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | mirame, mirate y minimizate |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:35:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996078110302 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | hakuna10 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:33:19 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996089634340 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | 神力无敌李大海 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:44:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996089640875 |
-| Players | 3/8 |
-| Host Name | Подзалупный творожок |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:44:59 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541996080287463 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Крокер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:35:33 |
