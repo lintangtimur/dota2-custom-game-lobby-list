@@ -11,13 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:22:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541631877309427 |
-| Players | 12/15 |
-| Host Name | Por que no quieres ganar? |
+| Lobby ID | 28541631877888691 |
+| Players | 1/10 |
+| Host Name | TAPIJARO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:39:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541631877911482 |
+| Players | 1/5 |
+| Host Name | Hellcat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:39:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631877954712 |
+| Players | 3/24 |
+| Host Name | Parka |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:37:57 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:39:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631877371192 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | VanzrayGx |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:38:04 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631877223983 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JUANITO ALIMAÑA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:37:46 |
@@ -76,19 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631877865592 |
-| Players | 1/24 |
-| Host Name | PastoRe ° |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:39:05 |
+| Lobby ID | 28541631876287917 |
+| Players | 4/24 |
+| Host Name | ZadKiel |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:35:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631877561749 |
-| Players | 5/8 |
-| Host Name | MrBadTouch |
+| Lobby ID | 28541631877932434 |
+| Players | 7/8 |
+| Host Name | Asmereir |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:38:27 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:39:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631877969074 |
+| Players | 1/8 |
+| Host Name | NO SANA NO LIFE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:39:17 |
 
 
