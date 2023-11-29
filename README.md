@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541631869486450 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | 奇ღ查ツ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:22:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631874758375 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:32:53 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631874944420 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Patati |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:33:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631875039463 |
-| Players | 1/24 |
-| Host Name | 亗₪Jᴏʀᴅᴀɴ₪亗 |
+| Lobby ID | 28541631875173862 |
+| Players | 6/8 |
+| Host Name | NO SANA NO LIFE |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:33:26 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:33:42 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631874294746 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:31:58 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lacroix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:33:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631875173862 |
-| Players | 6/8 |
-| Host Name | NO SANA NO LIFE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:33:42 |
 
 
