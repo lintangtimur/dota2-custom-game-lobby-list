@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995849208078 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 掌握之中，岂可逃之？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:20:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541995850352204 |
+| Lobby ID | 28541995850393662 |
 | Players | 1/5 |
-| Host Name | МОПС МОРЯЧЕК |
+| Host Name | Bruce Lee |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:22:52 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:22:56 |
 
 
