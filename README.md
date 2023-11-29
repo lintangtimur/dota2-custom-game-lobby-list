@@ -2,33 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995899202960 |
-| Players | 11/15 |
-| Host Name | trash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:45:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995807425642 |
-| Players | 3/24 |
-| Host Name | Hash |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995898824574 |
-| Players | 7/8 |
-| Host Name | theOne |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:44:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995899553772 |
@@ -36,6 +9,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CANCELUL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:45:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995807425642 |
+| Players | 4/24 |
+| Host Name | Hash |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995899813835 |
+| Players | 3/24 |
+| Host Name | Gaizu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:46:22 |
 
 
 |  | epic_boss_fight_normal |
