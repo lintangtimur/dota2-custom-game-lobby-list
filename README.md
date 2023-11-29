@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631919199490 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | RazorBach |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:03:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631927952139 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ВВП |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:20:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631925500798 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Socrates official |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:15:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631925808047 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:16:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631927225207 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ✠pain in my soul✠ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:19:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631928062888 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | bonbon |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:20:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631928123684 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:21:01 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STOP POSTING ABOUT BALLER |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:21:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631928236806 |
+| Players | 1/8 |
+| Host Name | Natso - |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:21:14 |
 
 
