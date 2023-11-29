@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996006423883 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Nightcrawler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:12:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996018162385 |
-| Players | 9/15 |
-| Host Name | Kibosh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:27:19 |
+| Lobby ID | 28541996019372188 |
+| Players | 1/24 |
+| Host Name | MaxMaster |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:28:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996017548194 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Dence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:26:35 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:25:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996018918629 |
-| Players | 4/8 |
-| Host Name | Hector Salamanca |
+| Lobby ID | 28541996019495876 |
+| Players | 6/15 |
+| Host Name | Jorjor Well |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:28:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996019054244 |
-| Players | 2/24 |
-| Host Name | Ayam Goreng Mekdi (Pedas) |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:28:23 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:28:56 |
 
 
 |  | epic_boss_fight_challenger |
