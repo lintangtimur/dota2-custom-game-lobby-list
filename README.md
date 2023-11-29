@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995814428490 |
-| Players | 1/8 |
-| Host Name | артем_про_1941 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:17:31 |
+| Lobby ID | 28541995816791611 |
+| Players | 2/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:21:46 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995815418526 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:19:19 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995816266157 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | punkimp Panda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:20:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995816791611 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:21:46 |
 
 
 |  | epic_boss_fight_normal |
