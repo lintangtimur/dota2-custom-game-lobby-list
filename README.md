@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995962002548 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yatoro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:18:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995962138098 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Че аниме пацаны? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:19:07 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995961098477 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Zero Two |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:17:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995962322470 |
+| Players | 1/5 |
+| Host Name | 猛龙不过江 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:19:21 |
 
 
