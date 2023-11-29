@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996213791375 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | ambathukam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:48:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996211578496 |
-| Players | 9/24 |
+| Players | 5/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:45:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996215366671 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | gokirus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:49:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996216320472 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | данил лотус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:50:31 |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996216354282 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Eshkin Cat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:50:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996216084292 |
-| Players | 14/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:50:17 |
+| Lobby ID | 28541996216386427 |
+| Players | 7/8 |
+| Host Name | antidepressant |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:50:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996216386427 |
-| Players | 5/8 |
-| Host Name | antidepressant |
+| Lobby ID | 28541996216874439 |
+| Players | 3/8 |
+| Host Name | серега бомбардир |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:50:35 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:51:05 |
 
 
 |  | epic_boss_fight_nightmare |
