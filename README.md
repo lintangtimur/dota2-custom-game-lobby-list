@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 09:59:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631853384091 |
-| Players | 24/24 |
-| Host Name | headbonk |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:50:36 |
+| Lobby ID | 28541631857749156 |
+| Players | 6/10 |
+| Host Name | Dex - MIDZETA/FB |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:59:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631857333216 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Collapse |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:58:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631857612408 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | meow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:59:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631856790770 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:57:22 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631857916503 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | 1709 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:59:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631857749156 |
-| Players | 5/10 |
-| Host Name | El Prosor |
+| Lobby ID | 28541631858195449 |
+| Players | 1/8 |
+| Host Name | Даша 15 лет дрейнерша |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:00:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631858204120 |
+| Players | 1/15 |
+| Host Name | Mr Cold ☺ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:59:17 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:00:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631858209960 |
+| Players | 5/8 |
+| Host Name | Escarbato |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:00:13 |
 
 
