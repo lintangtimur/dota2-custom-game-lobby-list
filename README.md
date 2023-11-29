@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631823666317 |
-| Players | 23/24 |
-| Host Name | :PowerAutomate |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:46:49 |
+| Lobby ID | 28541631824901416 |
+| Players | 3/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:49:34 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ❈K.ø.t.™❈ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631824436819 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | gronk |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:48:32 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631824901416 |
-| Players | 3/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:49:34 |
+| Lobby ID | 28541631825534770 |
+| Players | 1/15 |
+| Host Name | Alyssa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:50:59 |
 
 
