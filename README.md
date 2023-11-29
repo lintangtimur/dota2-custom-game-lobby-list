@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631859311267 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Douma |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:02:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631858204120 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Mr Cold ☺ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:00:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631858523662 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Даша 15 лет дрейнерша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:00:51 |
