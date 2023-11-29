@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995783913762 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | capibaragod |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:21:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995784863208 |
-| Players | 1/10 |
-| Host Name | Soulwarrior |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:22:57 |
+| Lobby ID | 28541995786282972 |
+| Players | 1/24 |
+| Host Name | Kugisaki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:25:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995785924757 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | makpypa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:24:59 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995786096545 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Middleware |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:25:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995786282972 |
-| Players | 1/24 |
-| Host Name | Kugisaki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:25:40 |
 
 
 |  | epic_boss_fight_nightmare |
