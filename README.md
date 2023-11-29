@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995771974247 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | БЕРИНГОВ ПРОГИБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:57:33 |
@@ -54,6 +54,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sunday |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:59:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995773361897 |
+| Players | 1/8 |
+| Host Name | Lost Story |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:00:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995773382506 |
+| Players | 1/10 |
+| Host Name | Loquillo98 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:00:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995773248524 |
+| Players | 3/8 |
+| Host Name | rohan ko condo ma |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:59:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995773387829 |
+| Players | 5/8 |
+| Host Name | ogubhwe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:00:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995773393672 |
+| Players | 2/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:00:19 |
 
 
 |  | epic_boss_fight_nightmare |
