@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996231755977 |
-| Players | 14/15 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:05:52 |
+| Lobby ID | 28541996240063953 |
+| Players | 2/10 |
+| Host Name | xexexe |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:14:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996236190784 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | tears |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:10:18 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:09:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996236688837 |
-| Players | 11/15 |
-| Host Name | YOLO |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:10:48 |
+| Lobby ID | 28541996240117769 |
+| Players | 2/8 |
+| Host Name | обезьянище |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:14:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996237813106 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | 2PAC |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:11:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996239313960 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | KiroGagl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:13:27 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996238126642 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Trivium |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:12:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996240031936 |
+| Players | 1/5 |
+| Host Name | DEL |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:14:10 |
 
 
