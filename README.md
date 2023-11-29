@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996190382074 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | aruna |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:25:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996190694045 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | USPQR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:25:25 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:24:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996190851180 |
-| Players | 6/8 |
-| Host Name | embarrassé |
+| Lobby ID | 28541996191142630 |
+| Players | 5/15 |
+| Host Name | Яспер Моглот (Dutch) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:25:34 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:25:51 |
 
 
 |  | ot3_desert_octet |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:21:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996191142630 |
-| Players | 5/15 |
-| Host Name | Яспер Моглот (Dutch) |
+| Lobby ID | 28541996191447431 |
+| Players | 3/8 |
+| Host Name | i hate myself. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:25:51 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:26:08 |
 
 
 |  | epic_boss_fight_hard |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ไอหน้าหี |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:22:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996191487334 |
+| Players | 1/5 |
+| Host Name | КАРТОШЕЧКА☻☻☻ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:26:11 |
 
 
