@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 16/24 |
+| Players | 12/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995947660481 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ☮Alive |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996056721503 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:10:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996057912675 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | CM Axl |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996030837948 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Injoker.Death |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996057951336 |
-| Players | 2/15 |
-| Host Name | donny |
+| Players | 10/15 |
+| Host Name | EFF3CTS8<♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:12:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996057954278 |
-| Players | 4/10 |
-| Host Name | HeDen4ik |
+| Lobby ID | 28541996058267165 |
+| Players | 7/10 |
+| Host Name | Positive |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:12:18 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:38 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996056393924 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mr.Fat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:10:37 |
