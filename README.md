@@ -20,19 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:03:48 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541631891538332 |
-| Players | 9/10 |
-| Host Name | Кацапоріз |
+| Lobby ID | 28541631892570308 |
+| Players | 1/5 |
+| Host Name | TurboAntoha™ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:07:38 |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:09:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631889998358 |
+| Players | 6/24 |
+| Host Name | 9527 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:04:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631892145031 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | falcon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:09:01 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631890021123 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | Manaos De Granadina |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:15 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -63,41 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LeD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:09:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541631889998358 |
-| Players | 4/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:04:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631891524475 |
-| Players | 7/8 |
-| Host Name | EG. VACKAS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:07:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631891646273 |
-| Players | 1/8 |
-| Host Name | ressentiment |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:07:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631890925105 |
-| Players | 9/10 |
-| Host Name | Jugador Profesional de Fortnite |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:06:15 |
 
 
