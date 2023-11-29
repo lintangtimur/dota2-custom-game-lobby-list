@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996167218056 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | outlived torments |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:02:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996165426229 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:00:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996161280294 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:56:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996164915207 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | MaoGe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:00:24 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996158707345 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | El 2024 me amarran pipipi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:54:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996167357034 |
-| Players | 12/15 |
-| Host Name | Solist |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:02:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:02:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996167587319 |
-| Players | 3/8 |
-| Host Name | 12.11 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:03:08 |
+| Lobby ID | 28541996167759712 |
+| Players | 2/15 |
+| Host Name | Chien2rue |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:03:19 |
 
 
 |  | epic_boss_fight_nightmare |
