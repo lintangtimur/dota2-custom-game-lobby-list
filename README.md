@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996056721503 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:10:58 |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:09:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996057666469 |
-| Players | 9/10 |
-| Host Name | доза 2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:11:59 |
+| Lobby ID | 28541996057912675 |
+| Players | 3/8 |
+| Host Name | CM Axl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996030837948 |
-| Players | 5/24 |
-| Host Name | MADARA |
+| Players | 4/24 |
+| Host Name | Injoker.Death |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
 
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:12:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996057912675 |
-| Players | 1/8 |
-| Host Name | CM Axl |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
+| Lobby ID | 28541996057951336 |
+| Players | 2/15 |
+| Host Name | donny |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996057954278 |
+| Players | 4/10 |
+| Host Name | HeDen4ik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:18 |
 
 
 |  | epic_boss_fight_nightmare |
