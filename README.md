@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631890234532 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | LUST_4_POON18 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631888880639 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:01:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631888261059 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:00:02 |
@@ -94,10 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631890859423 |
-| Players | 1/8 |
-| Host Name | ressentiment |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:06:06 |
+| Lobby ID | 28541631890887447 |
+| Players | 4/8 |
+| Host Name | EL CHAQUETAS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:06:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631890898362 |
+| Players | 5/8 |
+| Host Name | Yo  + 4 inutiles |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:06:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631890925105 |
+| Players | 3/10 |
+| Host Name | Jugador Profesional de Fortnite |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:06:15 |
 
 
