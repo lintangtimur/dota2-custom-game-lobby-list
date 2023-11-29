@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849236063 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849450275 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631849985123 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Aka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:47 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631850594041 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:44:59 |
