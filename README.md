@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996234220941 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | accidents are not random |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:08:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996232641494 |
-| Players | 21/24 |
-| Host Name | Eren Yeager |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:06:45 |
+| Lobby ID | 28541996235122113 |
+| Players | 1/10 |
+| Host Name | ShoneX |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:09:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,37 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996231755977 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:05:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996234921310 |
-| Players | 1/8 |
-| Host Name | амфетаминка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:09:02 |
+| Lobby ID | 28541996234965811 |
+| Players | 1/15 |
+| Host Name | far fri |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:09:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996232713924 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:06:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996229334251 |
-| Players | 11/15 |
-| Host Name | FULL MOON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:03:27 |
 
 
 |  | epic_boss_fight_normal |
@@ -130,10 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996234810832 |
+| Lobby ID | 28541996235061636 |
 | Players | 2/10 |
+| Host Name | ไอหน้าหี |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:09:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996235104411 |
+| Players | 1/10 |
 | Host Name | Levellar |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:08:55 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:09:13 |
 
 
