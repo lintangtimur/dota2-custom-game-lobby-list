@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | capibaragod |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995819456323 |
-| Players | 7/15 |
-| Host Name | alex krasiuk |
+| Players | 5/15 |
+| Host Name | dazai |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:26:31 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995820824622 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Graveller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:28:55 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Blednaowca |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:24:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995820932228 |
+| Players | 1/10 |
+| Host Name | Tiimii ~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:29:07 |
 
 
