@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995880294560 |
-| Players | 3/8 |
-| Host Name | 808 𝖊𝖒𝖎𝖗𝖎𝖝 |
+| Players | 2/8 |
+| Host Name | !!! |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:14:02 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995882056421 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | dobren'kiy octopus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:17:00 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995882590968 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GOBLIN KING |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:17:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995882679480 |
+| Players | 1/10 |
+| Host Name | Vainglory |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:18:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995882705214 |
+| Players | 1/5 |
+| Host Name | ♛Shadowhunter♛™𝔸wP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:18:05 |
 
 
