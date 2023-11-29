@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995792138297 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Make UrSA Great Again ! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995792744069 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | malken777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:37:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995790794334 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Natso - |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:33:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995793329696 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Euphoria |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:38:47 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | $ilent |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:35:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995793521415 |
+| Players | 1/5 |
+| Host Name | Hioskuld |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:39:09 |
 
 
