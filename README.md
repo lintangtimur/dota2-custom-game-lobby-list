@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995859112373 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | S e x |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:38:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995860480063 |
-| Players | 1/24 |
-| Host Name | monkey king |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:40:38 |
+| Lobby ID | 28541995861468441 |
+| Players | 1/10 |
+| Host Name | Holy Shit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:42:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995860430071 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Commander Omicron |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:40:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995860375078 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | hidden pool resident |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:40:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995861458050 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | эль чача |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:42:19 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:33:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995861522130 |
+| Players | 4/10 |
+| Host Name | Makyoka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:42:26 |
 
 
