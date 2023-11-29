@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996033849490 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | mirame, mirate y minimizate |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:45:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996023163497 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:33:21 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996030837948 |
-| Players | 3/24 |
-| Host Name | Melon |
+| Players | 2/24 |
+| Host Name | incognito |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996045832357 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Dua Lipa & Halsey <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:59:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996046003368 |
-| Players | 13/24 |
+| Players | 21/24 |
 | Host Name | kiw kiw CUKURUK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:59:20 |
@@ -92,49 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:59:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996046928465 |
-| Players | 2/8 |
-| Host Name | балван |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:00:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996046926133 |
-| Players | 1/15 |
-| Host Name | Жириновский.В.В |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:00:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996046911655 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | ute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:00:21 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996047121701 |
+| Players | 5/10 |
+| Host Name | Jugger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:00:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996044954835 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | boiko2112 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:58:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996044466411 |
-| Players | 9/10 |
-| Host Name | Han Jee-han  한 지한 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:57:38 |
 
 
 |  | epic_boss_fight_normal |
