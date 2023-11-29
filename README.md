@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631883441614 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | FB🦃 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:50:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631883594591 |
-| Players | 4/8 |
-| Host Name | 8 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:50:37 |
+| Lobby ID | 28541631884494512 |
+| Players | 5/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:52:26 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631884341661 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | drogos |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:52:07 |
@@ -85,46 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631885330735 |
-| Players | 6/15 |
-| Host Name | Kbroncito el más rico de la TV |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:54:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631884578880 |
-| Players | 7/8 |
-| Host Name | Рассекающий пиво |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:52:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631884494512 |
-| Players | 5/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:52:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28541631884249279 |
 | Players | 1/15 |
 | Host Name | HEAD |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:51:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631885306837 |
-| Players | 6/8 |
-| Host Name | Lord Valdomero |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:54:03 |
 
 
