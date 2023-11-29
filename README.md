@@ -50,37 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995925660122 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | monkey king |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:28:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995926625458 |
-| Players | 8/10 |
-| Host Name | Eleum Loyce |
+| Lobby ID | 28541995927551038 |
+| Players | 1/24 |
+| Host Name | m |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:30:00 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:31:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995927481482 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | romance in tokyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:31:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995927551038 |
-| Players | 2/24 |
-| Host Name | m |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:31:25 |
 
 
 |  | epic_boss_fight_normal |
