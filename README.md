@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631822783727 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | UR friends |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:44:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541631824231664 |
-| Players | 1/10 |
+| Lobby ID | 28541631824264995 |
+| Players | 1/5 |
 | Host Name | Kill Order |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:48:05 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:48:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541631823666317 |
 | Players | 2/24 |
-| Host Name | solo pericotes ardidos |
+| Host Name | :PowerAutomate |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:49 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631822068586 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:43:21 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | krakoonity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631821934127 |
-| Players | 9/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:43:04 |
 
 
