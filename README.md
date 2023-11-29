@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631825959290 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | zzZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:51:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631826561748 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | devuelvan mi celular :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:53:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631825390803 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:50:40 |
