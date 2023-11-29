@@ -4,26 +4,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995758736995 |
-| Players | 6/8 |
-| Host Name | [TMT] Unti-unti akong nabubulok |
+| Lobby ID | 28541995759865639 |
+| Players | 4/8 |
+| Host Name | Depressive mode |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:32:59 |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:35:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995758706303 |
-| Players | 14/15 |
-| Host Name | JrY |
+| Lobby ID | 28541995760224725 |
+| Players | 1/10 |
+| Host Name | I goon therefore I am |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:32:55 |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:35:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631926282242 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | DX7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:17:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995758555257 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:32:39 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995759636880 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | mr.vetements |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:34:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995759865639 |
-| Players | 4/8 |
-| Host Name | Depressive mode |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:35:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995760224725 |
-| Players | 1/10 |
-| Host Name | I goon therefore I am |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:35:42 |
+| Lobby ID | 28541995760516385 |
+| Players | 2/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:36:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vinseeey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:34:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995757512679 |
-| Players | 9/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:30:52 |
 
 
