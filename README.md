@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995868315969 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:53:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995882155802 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:17:10 |
@@ -47,46 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 16:12:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995884689616 |
-| Players | 8/10 |
-| Host Name | Zabrrr |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:21:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995884702286 |
-| Players | 2/10 |
-| Host Name | temych |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:21:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995884944723 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | | AbrahamDaddy | |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:21:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995884194491 |
-| Players | 13/15 |
-| Host Name | Идущий к таверне |
+| Lobby ID | 28541995884702286 |
+| Players | 7/10 |
+| Host Name | temych |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:20:34 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:21:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995884829984 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:21:37 |
