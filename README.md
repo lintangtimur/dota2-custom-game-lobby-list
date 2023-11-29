@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995877258857 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | monkey king |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:09:00 |
@@ -50,55 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995879786399 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | DetiHoronyatOsla |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:13:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995879612605 |
-| Players | 7/10 |
-| Host Name | Агент "Тесак" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:12:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995877644732 |
-| Players | 13/15 |
-| Host Name | Plotina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:09:39 |
+| Lobby ID | 28541995880294560 |
+| Players | 4/8 |
+| Host Name | TeaKoii |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:14:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995880278951 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:14:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995880271875 |
-| Players | 1/8 |
-| Host Name | La-Z Rider |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:14:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995880294560 |
-| Players | 3/8 |
-| Host Name | TeaKoii |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:14:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:06:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995880399595 |
+| Players | 1/5 |
+| Host Name | КИНДЕРС ШЛЕНДРС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:14:12 |
 
 
