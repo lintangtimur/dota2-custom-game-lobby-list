@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995926182436 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BRAINSONTHECURB! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:29:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995925813455 |
-| Players | 11/15 |
+| Players | 15/15 |
 | Host Name | Basar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:28:45 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 17:30:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995925462526 |
-| Players | 1/10 |
-| Host Name | бахтыржан |
+| Lobby ID | 28541995926800647 |
+| Players | 2/8 |
+| Host Name | Mig mig |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:28:13 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:30:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995924191162 |
+| Players | 2/5 |
+| Host Name | Сын Габена |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:26:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995926401614 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | TUS TO DA MOON |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:29:39 |
