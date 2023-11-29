@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995947055560 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | REYSKYWALKER! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:59:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995948280034 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:58 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995948370922 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:01:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995945242494 |
-| Players | 23/24 |
-| Host Name | monkey king |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:56:49 |
+| Lobby ID | 28541995948518830 |
+| Players | 3/10 |
+| Host Name | N!cK Machiavelli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:01:17 |
 
 
 |  | epic_boss_fight_nightmare |
