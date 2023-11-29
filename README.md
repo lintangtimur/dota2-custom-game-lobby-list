@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996175258804 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Гадюка |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:10:36 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996171821394 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:07:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996175025278 |
-| Players | 5/8 |
-| Host Name | ДОЕДАЛА |
+| Lobby ID | 28541996175733113 |
+| Players | 2/15 |
+| Host Name | ОВЦЕЕП |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:10:23 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:11:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996171944519 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | avestruz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:07:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996174917725 |
-| Players | 12/15 |
-| Host Name | Scrido |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:10:16 |
+| Lobby ID | 28541996175757529 |
+| Players | 2/8 |
+| Host Name | kotya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:11:04 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sky Symphony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:07:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996175636989 |
+| Players | 1/8 |
+| Host Name | LooPer |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:10:58 |
 
 
 |  | epic_boss_fight_nightmare |
