@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:03:48 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541631891271383 |
-| Players | 1/5 |
-| Host Name | $ETH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:07:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631889658328 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631891103151 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Cora-san |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:06:39 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631891272437 |
-| Players | 3/8 |
-| Host Name | EL MATA ABUELITAS 3000 |
+| Lobby ID | 28541631890925105 |
+| Players | 8/10 |
+| Host Name | Jugador Profesional de Fortnite |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:07:02 |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:06:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631891155097 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:06:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631890925105 |
-| Players | 7/10 |
-| Host Name | Jugador Profesional de Fortnite |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:06:15 |
 
 
