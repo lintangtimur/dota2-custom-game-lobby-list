@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541631903235363 |
 | Players | 8/10 |
-| Host Name | HealsHereDude |
+| Host Name | ry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:32:10 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631901963138 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Floyd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:29:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631904028837 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:33:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631902668639 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | glhf..! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:31:02 |
