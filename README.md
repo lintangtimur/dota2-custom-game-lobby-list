@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995756640660 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Kollane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:29:22 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631919199490 |
-| Players | 23/24 |
-| Host Name | RazorBach |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:03:32 |
+| Lobby ID | 28541631819990327 |
+| Players | 2/24 |
+| Host Name | Dragos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
 
 
 |  | ot3_desert_octet |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 12:28:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541631819990327 |
-| Players | 2/24 |
-| Host Name | Dragos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995757567064 |
-| Players | 1/15 |
-| Host Name | BANEADOR PROFESIONAL DE TECHIES |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:30:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995756326073 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995757512679 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:30:52 |
