@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995920897836 |
-| Players | 6/8 |
-| Host Name | XXX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:21:09 |
+| Lobby ID | 28541995923145757 |
+| Players | 2/24 |
+| Host Name | DX7 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:24:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995922997947 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | nexus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:24:26 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bALON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:24:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995923145757 |
-| Players | 2/24 |
-| Host Name | Carwyn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:24:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | киндер пингви |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:20:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995922848190 |
-| Players | 7/10 |
-| Host Name | 青椒小新 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:24:12 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28541995923320181 |
-| Players | 1/7 |
-| Host Name | akinavi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:24:56 |
 
 
