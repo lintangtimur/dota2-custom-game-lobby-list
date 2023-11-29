@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995889671511 |
-| Players | 6/8 |
-| Host Name | VJ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:29:30 |
+| Lobby ID | 28541995890212890 |
+| Players | 3/24 |
+| Host Name | hazkem |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:30:24 |
 
 
 |  | ot3_desert_octet |
@@ -29,28 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 16:29:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995889606371 |
-| Players | 13/15 |
-| Host Name | ералаш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:29:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995890212890 |
-| Players | 3/24 |
-| Host Name | hazkem |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:30:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995888857944 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | я летающий зубр аватара самолет |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:28:11 |
@@ -74,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 16:29:21 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28541995890472144 |
+| Lobby ID | 28541995890595191 |
 | Players | 2/7 |
 | Host Name | P.V/komjesteaeng |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:30:51 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:31:03 |
 
 
