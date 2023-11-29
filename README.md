@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995898220108 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:43:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995898324364 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Сомнительно но Ок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:43:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995898335326 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | psy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:43:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995898824574 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | theOne |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:44:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995898895945 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | kØs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:44:51 |
