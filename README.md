@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541631828332608 |
-| Players | 2/7 |
+| Players | 5/7 |
 | Host Name | KING  CRIMSON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:57:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631828539224 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Barbie Lujan Carrion Gil Canes |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:57:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Mac Sus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631823564585 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | blank |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631828530175 |
-| Players | 23/24 |
-| Host Name | merLO |
+| Lobby ID | 28541631829356140 |
+| Players | 1/8 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:57:37 |
+| Lobby Creation Time | Wednesday, November 29, 2023 08:59:30 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631828435534 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:57:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631829227723 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | ебучая серая мышь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:59:12 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZдраVствуй СалоРе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:59:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631829356140 |
-| Players | 1/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 08:59:30 |
 
 
