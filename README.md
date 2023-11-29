@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631868528700 |
+| Lobby ID | 28541631870249234 |
 | Players | 1/8 |
-| Host Name | @_@ |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:20:31 |
+| Host Name | Odinn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:23:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631866813820 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | zenzy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:17:05 |
@@ -144,32 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperUnicorn47 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:23:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631870162871 |
-| Players | 1/8 |
-| Host Name | SIDERAL FRIO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:23:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631870247581 |
-| Players | 5/8 |
-| Host Name | Escarbato |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:23:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631870249234 |
-| Players | 1/8 |
-| Host Name | Odinn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:23:54 |
 
 
