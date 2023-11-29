@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:52:59 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541631913885165 |
-| Players | 9/10 |
-| Host Name | Mortred |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:53:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631912196278 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:49:52 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631913342659 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Maito Gai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:52:07 |
@@ -67,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631914094150 |
+| Lobby ID | 28541631914328448 |
 | Players | 1/15 |
-| Host Name | kawazaki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:53:35 |
+| Host Name | Alxir |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:54:02 |
 
 
