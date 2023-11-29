@@ -49,28 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995772693701 |
+| Lobby ID | 28541995772858854 |
 | Players | 1/10 |
 | Host Name | Hellsing...!! |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:58:54 |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:59:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995769025423 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Aj |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:52:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995771889020 |
-| Players | 8/10 |
-| Host Name | Jebong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:57:25 |
 
 
