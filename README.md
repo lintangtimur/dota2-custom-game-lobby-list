@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996023163497 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:33:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996045832357 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Dua Lipa & Halsey <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:59:08 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:59:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996046928465 |
+| Players | 2/8 |
+| Host Name | балван |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:00:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996046334939 |
-| Players | 13/15 |
-| Host Name | no excuses |
+| Lobby ID | 28541996046926133 |
+| Players | 1/15 |
+| Host Name | Жириновский.В.В |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:59:42 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:00:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996046911655 |
+| Players | 1/15 |
+| Host Name | ute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:00:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:57:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996046892518 |
+| Players | 1/5 |
+| Host Name | atheneyu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:00:20 |
 
 
