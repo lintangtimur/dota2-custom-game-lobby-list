@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631834180916 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:10:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631833891807 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:10:01 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eldarion |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:13:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631833693363 |
-| Players | 14/15 |
-| Host Name | HEAD |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:09:34 |
 
 
