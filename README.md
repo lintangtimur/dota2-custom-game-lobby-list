@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631863480844 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Italiano Gangsta ² |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:10:34 |
@@ -50,9 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631863699620 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:11:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631863813474 |
+| Players | 1/24 |
+| Host Name | Mato dois e ainda me escapo!!! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:11:14 |
 
 
