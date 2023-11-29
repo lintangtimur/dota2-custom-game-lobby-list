@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996208554781 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:42:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996208437868 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ВАЛДИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:42:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996207318506 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Franchesca Maldini |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:41:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996208804529 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ඞඞඞඞඞඞඞඞඞ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:43:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996209491155 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Усатая синица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:43:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996209258726 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | pipipi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:43:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996210035128 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | R<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:44:17 |
