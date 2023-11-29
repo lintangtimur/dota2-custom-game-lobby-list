@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995900731405 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:47:51 |
@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995901191543 |
-| Players | 9/10 |
-| Host Name | Apxfly |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:48:35 |
+| Lobby ID | 28541995902482426 |
+| Players | 7/8 |
+| Host Name | Colours |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:50:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995901411207 |
-| Players | 7/8 |
-| Host Name | KVASLOVER |
+| Lobby ID | 28541995902451181 |
+| Players | 2/8 |
+| Host Name | LOBSTER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:48:57 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:50:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995902063312 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Дон Доныч |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:50:02 |
