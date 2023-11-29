@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995759661087 |
-| Players | 23/24 |
-| Host Name | they all lie |
+| Lobby ID | 28541995771225524 |
+| Players | 6/15 |
+| Host Name | JrY |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:34:38 |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:56:11 |
 
 
 |  | ot3_desert_octet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ｍ８ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:55:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995771225524 |
-| Players | 7/15 |
-| Host Name | JrY |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:56:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995771235701 |
-| Players | 12/15 |
-| Host Name | BASHNASH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:56:12 |
 
 
 |  | epic_boss_fight_nightmare |
