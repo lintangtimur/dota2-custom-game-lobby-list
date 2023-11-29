@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995971522878 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:30:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995968023689 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | КОРОЛЬ ШАМАНОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:26:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995971006339 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Мой кор - запор |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:30:18 |
