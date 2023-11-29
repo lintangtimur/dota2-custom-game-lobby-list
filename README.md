@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995927551038 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | m |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:31:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995936729440 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | betrank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:44:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995936234573 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | ЛЕХА СТОНКС ЯНИКС 2013 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:44:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995935655161 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:25 |
