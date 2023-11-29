@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995771225524 |
-| Players | 14/15 |
-| Host Name | JrY |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:56:11 |
+| Lobby ID | 28541995772735243 |
+| Players | 1/24 |
+| Host Name | PND.Wilarson |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:58:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995771538385 |
 | Players | 1/8 |
-| Host Name | какуличный |
+| Host Name | Фрик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:56:47 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995771974247 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | БЕРИНГОВ ПРОГИБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:57:33 |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 12:55:57 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995772621753 |
+| Players | 1/24 |
+| Host Name | furiano |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:58:45 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995770877157 |
-| Players | 6/10 |
-| Host Name | Ｍ８ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:55:31 |
+| Lobby ID | 28541995772693701 |
+| Players | 1/10 |
+| Host Name | Hellsing...!! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:58:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995771889020 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jebong |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:57:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541995772444074 |
-| Players | 1/5 |
-| Host Name | marygracedairo2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:58:25 |
 
 
