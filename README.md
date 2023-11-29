@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995822820152 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Flame |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:32:26 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995807622556 |
-| Players | 13/15 |
-| Host Name | ^)^)^)^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:05:22 |
+| Lobby ID | 28541995824065934 |
+| Players | 3/15 |
+| Host Name | the One fluffy unicorn fan |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:34:39 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995821903886 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:30:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995823732828 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Яспер Моглот (Dutch) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:34:03 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr Pazuzu |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:32:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995824065934 |
-| Players | 2/15 |
-| Host Name | the One fluffy unicorn fan |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:34:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995823760409 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | lupanamaingatrasa |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:34:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995824447335 |
+| Players | 1/10 |
+| Host Name | Clown |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:35:19 |
 
 
