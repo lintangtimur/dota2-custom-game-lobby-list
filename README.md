@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995900731405 |
-| Players | 21/24 |
-| Host Name | Henry Cavill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:47:51 |
+| Lobby ID | 28541995905307756 |
+| Players | 6/15 |
+| Host Name | .nl |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:55:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995904079815 |
-| Players | 8/10 |
-| Host Name | прочитал = пидop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:53:22 |
+| Lobby ID | 28541995905484056 |
+| Players | 6/24 |
+| Host Name | ym |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:55:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,20 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995904724003 |
-| Players | 6/8 |
-| Host Name | XXX |
+| Lobby ID | 28541995905587605 |
+| Players | 2/8 |
+| Host Name | mr_parfumerrr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:54:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995905249559 |
-| Players | 1/15 |
-| Host Name | ☺☻ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:55:17 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:55:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995904103552 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:53:24 |
