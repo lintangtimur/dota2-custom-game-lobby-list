@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996250190842 |
-| Players | 1/24 |
-| Host Name | Choocs |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:24:28 |
+| Lobby ID | 28541996249651200 |
+| Players | 3/8 |
+| Host Name | last dance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:23:55 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996245516151 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | vicderrR.D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:19:42 |
@@ -49,24 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996245711083 |
-| Players | 1/15 |
-| Host Name | EL KCHA CHAMAS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:19:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996248299463 |
-| Players | 6/8 |
-| Host Name | HELP |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:22:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28541996250012120 |
 | Players | 4/15 |
 | Host Name | Happy Cat |
@@ -74,19 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:24:17 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996250447718 |
+| Players | 3/24 |
+| Host Name | MF |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:24:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996249651200 |
-| Players | 3/8 |
-| Host Name | last dance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:23:55 |
+| Lobby ID | 28541996250593107 |
+| Players | 1/8 |
+| Host Name | alex22k |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:24:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996250327954 |
+| Players | 2/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:24:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996248093667 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Big Gringo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:22:19 |
