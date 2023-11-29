@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996032978140 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Evergloam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996033241296 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Monty Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:45:01 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996033362593 |
-| Players | 2/8 |
-| Host Name | Shoma |
+| Players | 1/8 |
+| Host Name | Тяги бархатные |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:45:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996033522083 |
+| Players | 1/24 |
+| Host Name | Hamizan Collapse |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:45:20 |
 
 
 |  | epic_boss_fight_hard |
