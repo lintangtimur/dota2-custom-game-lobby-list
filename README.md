@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631841939635 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Sushi Devourer |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:27:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631842494145 |
-| Players | 22/24 |
-| Host Name | NAYUTA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:28:21 |
+| Lobby ID | 28541631842224210 |
+| Players | 6/10 |
+| Host Name | ZдраVствуй СалоРе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:27:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631843149017 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | twitch.tv/ache_pe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:29:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
@@ -113,18 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631843487086 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | suguru|geto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:30:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631842224210 |
-| Players | 8/10 |
-| Host Name | ZдраVствуй СалоРе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:27:46 |
+| Lobby ID | 28541631843840594 |
+| Players | 1/15 |
+| Host Name | SheblaEbla |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:31:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631843867672 |
+| Players | 1/24 |
+| Host Name | asuna |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:31:13 |
 
 
