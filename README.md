@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631830862041 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Не дрочил 8 дней |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:03:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631831366960 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Trell |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:04:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631831454380 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Artorias |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:04:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631830785682 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Mato dois e ainda me escapo!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:03:03 |
