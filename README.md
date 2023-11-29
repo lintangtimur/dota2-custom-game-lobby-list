@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631901963138 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Floyd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:29:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631905002247 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | sp_flame |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:35:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631904646570 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Coquit0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:34:58 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631904512376 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | toy rechill |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:34:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631904873076 |
-| Players | 9/10 |
-| Host Name | evol tnac uoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:35:25 |
+| Lobby ID | 28541631906252264 |
+| Players | 4/8 |
+| Host Name | Chechiboy el Baiter :3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:38:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631905718389 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sunset |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:37:06 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:37:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631906252264 |
-| Players | 4/8 |
-| Host Name | Chechiboy el Baiter :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:38:10 |
 
 
