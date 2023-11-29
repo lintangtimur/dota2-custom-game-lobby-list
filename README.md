@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Gabo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:57:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995835436046 |
-| Players | 9/10 |
-| Host Name | Poseidon |
+| Lobby ID | 28541995836686237 |
+| Players | 1/24 |
+| Host Name | drntmanh |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:55:01 |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:57:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995836200903 |
-| Players | 1/10 |
-| Host Name | Ya ALO |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:56:24 |
+| Lobby ID | 28541995836741187 |
+| Players | 1/8 |
+| Host Name | Alita |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:57:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541995836626588 |
+| Lobby ID | 28541995836200903 |
 | Players | 1/10 |
-| Host Name | human |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:57:11 |
+| Host Name | Ya ALO |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:56:24 |
 
 
