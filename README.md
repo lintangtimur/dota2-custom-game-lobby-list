@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996135276064 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Lorenzo el Gallo (Cuti) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:30:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996136281637 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:31:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996139186906 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | 5461536263517344716184 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:34:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996132193351 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Я и бал принцесс |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:27:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996133376924 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:28:23 |
@@ -86,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996138819988 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | The Divine Legion |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:33:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996139252174 |
+| Players | 1/10 |
+| Host Name | Auswählen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:34:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996139359280 |
+| Players | 1/15 |
+| Host Name | типа Satoru Gojō |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:34:23 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541996137557152 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | киндер пингви |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:32:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996139169061 |
-| Players | 1/5 |
-| Host Name | никакого праздника((( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:34:11 |
 
 
