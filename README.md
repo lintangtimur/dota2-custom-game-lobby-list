@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995835820710 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Lulalelilo |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:55:42 |
@@ -50,16 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995843786371 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Серёга Баунти |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:10:49 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995844522634 |
+| Players | 2/24 |
+| Host Name | Theforehead |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:12:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995844524137 |
+| Players | 1/24 |
+| Host Name | Henry Cavill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:12:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995844545610 |
+| Players | 2/8 |
+| Host Name | ODESKIN |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:12:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995840335006 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:04:20 |
