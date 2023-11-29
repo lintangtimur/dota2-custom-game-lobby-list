@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995910814702 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Кастомки для геев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995910779560 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995910393299 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ANTANGA MO ./. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:01 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:04:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995911021321 |
-| Players | 3/8 |
-| Host Name | арбуз воин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:05:05 |
 
 
 |  | epic_boss_fight_nightmare |
