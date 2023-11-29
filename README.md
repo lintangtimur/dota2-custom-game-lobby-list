@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541631824264995 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Kill Order |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:48:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Mac Sus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631823666317 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | :PowerAutomate |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:46:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631824474556 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | El 10 DE TU CASA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:48:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631824391440 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | H |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:48:26 |
