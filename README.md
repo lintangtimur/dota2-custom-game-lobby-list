@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:16:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631896297495 |
-| Players | 7/8 |
-| Host Name | СЛАВЯНСКИЙ ЗАЖИМ ЯЙЦАМИ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:18:02 |
+| Lobby ID | 28541631898094569 |
+| Players | 1/24 |
+| Host Name | Barbie Lujan Carrion Gil Canes |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:21:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631897368116 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Nukenin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:20:20 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:21:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631895446752 |
-| Players | 21/24 |
-| Host Name | Arthamiel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:16:13 |
+| Lobby ID | 28541631897952123 |
+| Players | 1/15 |
+| Host Name | HEAD |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:21:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631896515662 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ♥Miul♥ |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:18:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631897285192 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | амигос адьос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:20:09 |
@@ -128,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:21:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631897952123 |
-| Players | 1/15 |
-| Host Name | HEAD |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:21:33 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631898094569 |
-| Players | 1/24 |
-| Host Name | Barbie Lujan Carrion Gil Canes |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:21:51 |
+| Lobby ID | 28541631898159008 |
+| Players | 2/24 |
+| Host Name | 伏魔御廚子 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:21:59 |
 
 
