@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541631862117436 |
+| Players | 1/10 |
+| Host Name | Inku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:07:55 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631861588832 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:06:51 |
@@ -20,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:06:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631859846359 |
-| Players | 14/15 |
-| Host Name | Khorinmaru ❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:03:28 |
+| Lobby ID | 28541631861583089 |
+| Players | 1/24 |
+| Host Name | Dana Mendez ♥ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:06:50 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631861352123 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Buğra |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:06:22 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631861446616 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | (lFuzy^^! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:06:34 |
@@ -68,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631861533922 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | SlardarXT |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:06:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631861583089 |
-| Players | 1/24 |
-| Host Name | Dana Mendez ♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:06:50 |
+| Lobby ID | 28541631862075415 |
+| Players | 2/15 |
+| Host Name | lacroix |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:07:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631862102073 |
+| Players | 1/8 |
+| Host Name | [V] Nero [Z] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:07:53 |
 
 
