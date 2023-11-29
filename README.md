@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996118740145 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Бандит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:13:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996118310098 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:13:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996115745089 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Auswählen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:10:57 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:04:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996116983954 |
-| Players | 1/24 |
-| Host Name | Loki Laufeyson |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:12:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996117387187 |
-| Players | 23/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:12:34 |
+| Lobby ID | 28541996119046132 |
+| Players | 2/10 |
+| Host Name | sindi |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:14:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,28 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996118525958 |
-| Players | 1/10 |
-| Host Name | Don Pollo |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:13:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996118497832 |
-| Players | 1/10 |
-| Host Name | Ya Ugly Ass |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:13:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28541996119005690 |
 | Players | 1/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:14:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996118497832 |
+| Players | 2/10 |
+| Host Name | Ya Ugly Ass |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:13:38 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541996119200008 |
+| Players | 2/7 |
+| Host Name | Дед из аниме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:14:20 |
 
 
