@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995855872915 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Rainbow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:32:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995850861988 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:23:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995855060122 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | po |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:31:14 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995856262669 |
-| Players | 1/10 |
-| Host Name | Sanyo |
+| Players | 2/10 |
+| Host Name | Dead_Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:33:18 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995856313145 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | 002 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:33:23 |
@@ -59,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995855993332 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:32:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995856417515 |
+| Players | 4/10 |
+| Host Name | Ya ALO |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:33:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995856471503 |
+| Players | 1/10 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:33:39 |
 
 
