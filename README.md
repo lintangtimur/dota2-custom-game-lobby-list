@@ -22,18 +22,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541631871001000 |
+| Lobby ID | 28541631871403922 |
 | Players | 1/10 |
 | Host Name | Uncle Frank |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:25:22 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:26:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631870535839 |
 | Players | 2/24 |
-| Host Name | Celine |
+| Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:24:28 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631869523302 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | asuna |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:22:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631871156393 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:25:40 |
