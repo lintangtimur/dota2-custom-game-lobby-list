@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996256933753 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:31:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996266140312 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Denis rapira |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:41:03 |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:40:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996265903818 |
-| Players | 7/15 |
-| Host Name | okayeg |
+| Lobby ID | 28541996266229520 |
+| Players | 3/8 |
+| Host Name | ururami |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:40:48 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:41:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996265616376 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:40:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996266229520 |
-| Players | 1/8 |
-| Host Name | ururami |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:41:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,18 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996265160338 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Fey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:40:01 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541996265916663 |
-| Players | 2/7 |
-| Host Name | Пора умирать,Ваня |
+| Lobby ID | 28541996266319491 |
+| Players | 1/5 |
+| Host Name | dan00031 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:40:49 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:41:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541996266291961 |
+| Players | 1/7 |
+| Host Name | KyloReee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:41:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996266319101 |
+| Players | 1/10 |
+| Host Name | Giraffe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:41:14 |
 
 
