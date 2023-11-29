@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095353576 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | 爱要弹蛋蛋 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996104093236 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CM Axl |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996101784804 |
-| Players | 13/15 |
-| Host Name | мой кайф |
+| Lobby ID | 28541996104509712 |
+| Players | 9/10 |
+| Host Name | Cago |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:57:10 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996104344242 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 1 vs 5 ?! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:42 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996104509712 |
-| Players | 6/10 |
-| Host Name | Cago |
+| Lobby ID | 28541996102803190 |
+| Players | 9/10 |
+| Host Name | не смотри на меня |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:58:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996104662015 |
+| Players | 1/8 |
+| Host Name | травмат |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:01 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | leonidas_rcg |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996104762842 |
+| Players | 1/5 |
+| Host Name | Аморальный Урод |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:07 |
 
 
