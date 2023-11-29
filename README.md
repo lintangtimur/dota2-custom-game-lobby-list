@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996217438217 |
-| Players | 22/24 |
-| Host Name | 猫又 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:51:38 |
+| Lobby ID | 28541996221654974 |
+| Players | 1/15 |
+| Host Name | cb|fh99^ #have fun |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:55:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996211578496 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:45:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996221483187 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | emer1x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:55:42 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:55:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996221654974 |
-| Players | 1/15 |
-| Host Name | cb|fh99^ #have fun |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:55:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996215266773 |
@@ -128,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:49:28 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28541996215200361 |
-| Players | 6/7 |
-| Host Name | Камень |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:49:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996217520804 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | ID : T41104 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996221719268 |
-| Players | 1/10 |
-| Host Name | Buu-uuu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:55:56 |
 
 
