@@ -56,49 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:55:54 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996095353576 |
-| Players | 22/24 |
-| Host Name | 爱要弹蛋蛋 |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996104093236 |
-| Players | 9/10 |
-| Host Name | CM Axl |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996104933451 |
-| Players | 8/15 |
-| Host Name | ❤Tr1mada❤ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:00:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996104344242 |
-| Players | 6/8 |
-| Host Name | Светочка из 11А |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996104497828 |
-| Players | 7/24 |
-| Host Name | jzcz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
+| Lobby ID | 28541996105592868 |
+| Players | 5/10 |
+| Host Name | rule 19: "bless ropemaxxing" |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:00:50 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996104124843 |
-| Players | 6/7 |
-| Host Name | Karien |
+| Lobby ID | 28541996104933451 |
+| Players | 11/15 |
+| Host Name | ❤Tr1mada❤ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:00:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996105689564 |
+| Players | 1/24 |
+| Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:59:29 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:01:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996104497828 |
+| Players | 10/24 |
+| Host Name | jzcz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
 
 
 |  | epic_boss_fight_nightmare |
