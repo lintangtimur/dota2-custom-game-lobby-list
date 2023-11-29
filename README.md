@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996007642806 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | LARVELL JONES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:14:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996007233392 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:13:50 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996007285172 |
-| Players | 14/15 |
-| Host Name | Кошачий нюхач |
+| Lobby ID | 28541996008585372 |
+| Players | 5/15 |
+| Host Name | accidents are not random |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:13:54 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:15:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996008456768 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Говночуп(Мазно) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:15:22 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:15:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996008585372 |
-| Players | 3/15 |
-| Host Name | accidents are not random |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:15:32 |
+| Lobby ID | 28541996008926430 |
+| Players | 1/8 |
+| Host Name | iseedeadpeople |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:15:57 |
 
 
 |  | epic_boss_fight_nightmare |
