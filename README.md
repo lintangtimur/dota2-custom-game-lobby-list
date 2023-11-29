@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996223755974 |
-| Players | 6/8 |
-| Host Name | Logo_18 |
+| Lobby ID | 28541996223955314 |
+| Players | 1/24 |
+| Host Name | ..... |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996224051732 |
+| Players | 6/15 |
+| Host Name | 4EN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:57:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996223116838 |
-| Players | 1/8 |
-| Host Name | absolute.2kmysorka |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:57:19 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996223068407 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 科尔蒂绝对 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:57:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996221233694 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Juniorch |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:55:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996222640173 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | RAVANDO DE TAUNTO BASED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:56:51 |
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996223582841 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | psy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:57:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996222024977 |
-| Players | 23/24 |
-| Host Name | 乱战先锋第一骚货！ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:56:14 |
+| Lobby ID | 28541996224140460 |
+| Players | 4/8 |
+| Host Name | perfomante |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996223748472 |
-| Players | 11/15 |
-| Host Name | Сальвадор Дали |
+| Lobby ID | 28541996224140998 |
+| Players | 1/8 |
+| Host Name | absolute.2kmysorka |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996224117377 |
+| Players | 1/8 |
+| Host Name | nikRG |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:57:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996223955314 |
-| Players | 1/24 |
-| Host Name | ..... |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:58:09 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EddieR92 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:49:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996224089727 |
+| Players | 1/10 |
+| Host Name | Ст0pUd0v1i |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996224144009 |
+| Players | 1/5 |
+| Host Name | 蒼葉 海月 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:58:20 |
 
 
