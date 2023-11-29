@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996153351920 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:48:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996160318112 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ANGELMAYCRY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:55:42 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996160610291 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Шершень in smoke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:56:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996160763899 |
+| Players | 5/8 |
+| Host Name | fweff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:56:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996158638377 |
+| Players | 9/10 |
+| Host Name | grechka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:54:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996160893339 |
+| Players | 1/24 |
+| Host Name | ukong |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:56:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | МС по КУНИ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:55:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996158044283 |
+| Players | 9/10 |
+| Host Name | dyyn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:53:23 |
 
 
