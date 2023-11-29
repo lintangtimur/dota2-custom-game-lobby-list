@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631924865185 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Inku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:14:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631925350714 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:15:29 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:16:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631927225207 |
+| Players | 2/15 |
+| Host Name | ✠pain in my soul✠ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:19:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631927212050 |
+| Players | 2/8 |
+| Host Name | SIGAN VIENDO MRDS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:19:11 |
 
 
