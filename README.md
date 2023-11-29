@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996151872534 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | под пивко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:47:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996151460573 |
-| Players | 18/24 |
-| Host Name | Lion el Messi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:46:37 |
+| Lobby ID | 28541996152967002 |
+| Players | 2/10 |
+| Host Name | 1000-7=?clown(SaXaroK) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:48:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996152153788 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Valera_Pudge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:47:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996147363082 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Skif |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:42:26 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:44:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996147079652 |
-| Players | 1/5 |
-| Host Name | Alelron |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:42:09 |
 
 
