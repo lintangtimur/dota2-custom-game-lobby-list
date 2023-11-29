@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995860694853 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Долбарик :D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:41:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -29,20 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:38:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995861468441 |
-| Players | 1/10 |
-| Host Name | Holy Shit |
+| Lobby ID | 28541995861988153 |
+| Players | 1/15 |
+| Host Name | .... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:42:20 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:43:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995860420457 |
-| Players | 5/15 |
-| Host Name | LightLord亮天 |
+| Players | 1/15 |
+| Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:40:32 |
 
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995861458050 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | эль чача |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:42:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995861957457 |
+| Players | 1/15 |
+| Host Name | 齐白给 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:43:10 |
 
 
 |  | epic_boss_fight_nightmare |
