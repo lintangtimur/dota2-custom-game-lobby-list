@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631920781484 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | El Peluca |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:06:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631920368617 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:05:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631920060085 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Kristalion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:05:11 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:03:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631915745777 |
+| Players | 23/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:56:48 |
 
 
