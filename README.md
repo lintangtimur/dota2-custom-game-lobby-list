@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996256933753 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:31:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996256030298 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:30:30 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996259194131 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | -mabubs616/4 TEAM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:33:47 |
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996259506282 |
-| Players | 1/15 |
-| Host Name | ебу свой рот |
+| Players | 2/15 |
+| Host Name | bebra drain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:34:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996259539451 |
+| Players | 3/8 |
+| Host Name | say gex |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:34:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996257654898 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | MochiMochi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:32:11 |
@@ -171,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | жулик |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:33:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996259670486 |
+| Players | 1/5 |
+| Host Name | Candyman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:34:16 |
 
 
