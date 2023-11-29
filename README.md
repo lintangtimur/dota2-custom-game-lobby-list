@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:01:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996051482635 |
-| Players | 10/15 |
-| Host Name | 200 IQ Player |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:05:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996049434155 |
-| Players | 7/10 |
-| Host Name | Amazon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:03:07 |
+| Lobby ID | 28541996052246232 |
+| Players | 4/8 |
+| Host Name | мама анархия папы нет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:06:09 |
 
 
 |  | epic_boss_fight_nightmare |
