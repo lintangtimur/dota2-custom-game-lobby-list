@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996081359654 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Mr. BnN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:36:38 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996081516394 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Sutensei (Depressed) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:36:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996080723201 |
+| Players | 9/10 |
+| Host Name | zxaxsajsa\\\///213213/ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:35:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996081779925 |
+| Players | 3/10 |
+| Host Name | 𝓪𝓲𝓶𝒆𝓻 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:37:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996081855853 |
+| Players | 2/24 |
+| Host Name | east e |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:37:08 |
 
 
 |  | epic_boss_fight_nightmare |
