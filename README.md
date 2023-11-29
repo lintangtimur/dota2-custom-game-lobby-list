@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995908276443 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | !Jamata |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:00:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995908891907 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Cын хуйни |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:01:28 |
@@ -47,19 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 17:00:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995908508254 |
-| Players | 9/15 |
-| Host Name | DOMINANT |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:00:48 |
+| Lobby ID | 28541995909189810 |
+| Players | 2/8 |
+| Host Name | Mig mig |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:01:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995907944346 |
+| Players | 7/8 |
+| Host Name | Fighter Jet 52 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:59:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995906114553 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:56:43 |
