@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995791334682 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Gamer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:34:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995792870799 |
-| Players | 1/15 |
-| Host Name | SkiLL_KaK_U_StaLiNa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:37:54 |
+| Lobby ID | 28541995793044034 |
+| Players | 3/8 |
+| Host Name | Tiki Tiki Tiki Tiki |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:38:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995788509804 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:29:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995792138297 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Make UrSA Great Again ! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:30 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995792193299 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | YEAH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995791267801 |
-| Players | 9/10 |
-| Host Name | I'm Lady boy... PAM. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:34:50 |
 
 
