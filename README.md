@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631889658328 |
-| Players | 3/8 |
-| Host Name | GGTA>YK25 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:03:25 |
+| Lobby ID | 28541631890234532 |
+| Players | 3/15 |
+| Host Name | LUST_4_POON18 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:04:43 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631888261059 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:00:02 |
@@ -119,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631890234532 |
-| Players | 2/15 |
-| Host Name | LUST_4_POON18 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:04:43 |
+| Lobby ID | 28541631889658328 |
+| Players | 3/8 |
+| Host Name | GGTA>YK25 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:03:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631890441598 |
+| Players | 3/8 |
+| Host Name | patch 7.34e -1 armor enjoer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:05:11 |
 
 
