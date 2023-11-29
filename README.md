@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:01:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631860670739 |
-| Players | 14/15 |
-| Host Name | Balin428 |
+| Lobby ID | 28541631861215230 |
+| Players | 1/10 |
+| Host Name | 『Lﾒs』 ƤσӃΣяﾁăcє. |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:05:04 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:06:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631859846359 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:03:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631858523662 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Даша 15 лет дрейнерша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:00:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631860538920 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:04:49 |
