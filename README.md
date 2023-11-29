@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995990646726 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | уёбищный фреди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:53:40 |
@@ -49,17 +49,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995991154826 |
-| Players | 1/10 |
-| Host Name | Дуримар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:54:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28541995990145994 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | p2friendship |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:53:05 |
@@ -67,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995991197550 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:54:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995991204700 |
-| Players | 1/10 |
-| Host Name | Elindorn |
+| Lobby ID | 28541995990346196 |
+| Players | 5/8 |
+| Host Name | outlived torments |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:54:20 |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:53:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Waku waku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:50:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995991217743 |
+| Players | 1/5 |
+| Host Name | Тотальный фид |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:54:21 |
 
 
