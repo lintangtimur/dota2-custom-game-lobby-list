@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849450275 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:43 |
@@ -77,9 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631849165409 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lirral |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631849696314 |
+| Players | 1/15 |
+| Host Name | H |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631849741126 |
+| Players | 2/15 |
+| Host Name | モンキー・D・ルフィ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631849737590 |
+| Players | 1/24 |
+| Host Name | Dj cucaracha |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:43:17 |
 
 
