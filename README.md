@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996096619199 |
-| Players | 6/8 |
-| Host Name | 鴨の嘴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:51:58 |
+| Lobby ID | 28541996093888171 |
+| Players | 7/8 |
+| Host Name | i see u in sea of blood |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:49:14 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:52:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996097398807 |
-| Players | 7/15 |
-| Host Name | Tiimmy Turner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:52:46 |
+| Lobby ID | 28541996095838917 |
+| Players | 9/10 |
+| Host Name | freelancer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:51:11 |
 
 
 |  | ot3_desert_octet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095353576 |
-| Players | 4/24 |
-| Host Name | Zero Two |
+| Players | 2/24 |
+| Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095615283 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:58 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541996096419730 |
-| Players | 6/7 |
+| Players | 1/7 |
 | Host Name | KyloReee |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:51:46 |
