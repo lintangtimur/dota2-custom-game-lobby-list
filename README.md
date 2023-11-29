@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995896759009 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Fighter Jet 52 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:41:19 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Шашлик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:40:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995897277712 |
+| Players | 1/10 |
+| Host Name | Медвоблядь из Пскова |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:42:11 |
 
 
 |  | epic_boss_fight_nightmare |
