@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995799522509 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | sdasd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:50:30 |
@@ -50,36 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995799518445 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | 沒有情緒 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:50:29 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995800232320 |
+| Players | 1/8 |
+| Host Name | дыня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:51:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995791517788 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | $ilent |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:35:19 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541995799930148 |
-| Players | 1/5 |
-| Host Name | Mr Saab |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:51:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541995800006446 |
-| Players | 1/5 |
-| Host Name | 葬送的肥可 |
+| Lobby ID | 28541995800088065 |
+| Players | 2/10 |
+| Host Name | Jebong |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:51:22 |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:51:31 |
 
 
