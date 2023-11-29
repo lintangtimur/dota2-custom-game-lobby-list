@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541631869486450 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | 奇ღ查ツ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:22:25 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:28:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631872395644 |
+| Players | 4/10 |
+| Host Name | Soul无名 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:28:09 |
 
 
