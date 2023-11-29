@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995835820710 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | <blank> |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:55:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995846569250 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Коля Коляска |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:15:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995847627233 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 13 y. o. talent♡ sss+ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:17:51 |
