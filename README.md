@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541631850455334 |
-| Players | 1/5 |
-| Host Name | мяу. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:44:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849236063 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:17 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849450275 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:42:43 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849737590 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:17 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:44:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631850648528 |
+| Players | 1/15 |
+| Host Name | Moonlight |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:45:06 |
 
 
