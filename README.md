@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631884092020 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:51:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631883594591 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 8 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:50:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631884341661 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | drogos |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:52:07 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631883927514 |
-| Players | 14/15 |
-| Host Name | CMTRE |
+| Lobby ID | 28541631885330735 |
+| Players | 6/15 |
+| Host Name | Kbroncito el más rico de la TV |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:51:17 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:54:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HEAD |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:51:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631885306837 |
+| Players | 6/8 |
+| Host Name | Lord Valdomero |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:54:03 |
 
 
