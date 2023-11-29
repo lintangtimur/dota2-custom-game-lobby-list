@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995763328937 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | MAMÁ SOY EMO (PXNDX) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:41:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995767291167 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:48:50 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995763809002 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Kirimine |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:42:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995768106092 |
+| Players | 1/15 |
+| Host Name | Strelok228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:50:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995768200921 |
+| Players | 1/15 |
+| Host Name | CANCER RANK! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:50:32 |
 
 
 |  | epic_boss_fight_nightmare |
