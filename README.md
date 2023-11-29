@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995906179619 |
-| Players | 1/15 |
-| Host Name | Grizzlyattack |
+| Lobby ID | 28541995906492035 |
+| Players | 2/8 |
+| Host Name | Микроволновка |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:56:49 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:57:20 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995906109815 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 니코 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:56:42 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995906169384 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | PUTIN WORLD PRESIDENT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:56:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995906470772 |
+| Players | 1/15 |
+| Host Name | Nami |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:57:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995905977052 |
+| Players | 7/8 |
+| Host Name | crying diamond |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:56:30 |
 
 
 |  | epic_boss_fight_nightmare |
