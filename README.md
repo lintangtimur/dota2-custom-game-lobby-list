@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995819456323 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Wip |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:26:31 |
@@ -96,9 +96,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541995835090174 |
 | Players | 7/8 |
-| Host Name | Да ебать его в рот |
+| Host Name | БЕСпоЩАДОВ МУН |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:54:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995837742618 |
+| Players | 3/15 |
+| Host Name | puhveli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:59:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995836967550 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:57:46 |
