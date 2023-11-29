@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995835820710 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Luminous Valentine |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:55:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995842222095 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:07:52 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:11:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995844524137 |
-| Players | 1/24 |
-| Host Name | Henry Cavill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:12:10 |
+| Lobby ID | 28541995845596885 |
+| Players | 5/15 |
+| Host Name | GonzoBloodySpy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:14:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995844522634 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:12:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995845314531 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Captain falafelz |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:13:36 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arthamiel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:13:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995845659864 |
+| Players | 3/8 |
+| Host Name | I will always be alone |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:14:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sHIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:13:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995845647783 |
+| Players | 1/5 |
+| Host Name | original pidors |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:14:12 |
 
 
