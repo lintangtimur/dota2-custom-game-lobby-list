@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631849737590 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:43:17 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fox W.Mulder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:48:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631852277686 |
+| Players | 3/15 |
+| Host Name | Pero eres o no eres? |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:48:20 |
 
 
