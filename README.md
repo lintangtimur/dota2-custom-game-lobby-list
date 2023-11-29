@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:57:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995802568909 |
-| Players | 21/24 |
-| Host Name | Gigachad thundercock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:56:05 |
+| Lobby ID | 28541995804184624 |
+| Players | 2/15 |
+| Host Name | GUEORGUE EL CURIOSO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:59:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995798192843 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Morgangiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:47:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995803517004 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 大大大Allah Ak Bar大大大 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:57:48 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995804184624 |
-| Players | 2/15 |
-| Host Name | GUEORGUE EL CURIOSO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:59:04 |
+| Lobby ID | 28541995804337693 |
+| Players | 5/15 |
+| Host Name | Thorfinn (crop cultivator) |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:59:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541995801549582 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Theophrastus Bombastus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:54:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541995804230182 |
-| Players | 1/10 |
-| Host Name | Emperor⚜ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:59:09 |
 
 
