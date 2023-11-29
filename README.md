@@ -5,25 +5,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631901806287 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:29:17 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541631901381865 |
-| Players | 5/10 |
-| Host Name | MORPHEUS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:28:24 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631901963138 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Michael Scott |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:29:37 |
@@ -40,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631901748903 |
-| Players | 8/24 |
-| Host Name | Attentäter |
+| Lobby ID | 28541631898094569 |
+| Players | 22/24 |
+| Host Name | Barbie Lujan Carrion Gil Canes |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:29:10 |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:21:51 |
 
 
 |  | ot3_desert_octet |
@@ -58,17 +49,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631901717551 |
-| Players | 2/8 |
-| Host Name | Карим-Аганим |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:29:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28541631902220291 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | KamiBoT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:30:08 |
