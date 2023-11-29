@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631890127387 |
-| Players | 6/8 |
-| Host Name | Brewliant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:04:29 |
+| Lobby ID | 28541631889658328 |
+| Players | 5/8 |
+| Host Name | GGTA>YK25 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:03:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631890234532 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | LUST_4_POON18 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631890021123 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Manaos De Granadina |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -68,45 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631888880639 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:01:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631888148077 |
-| Players | 2/8 |
-| Host Name | 2 смурф Головача |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:59:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541631888261059 |
-| Players | 21/24 |
-| Host Name | 乱战先锋专用帐号 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:00:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631889998358 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:04:12 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631888261059 |
+| Players | 23/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:00:02 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631889658328 |
-| Players | 4/8 |
-| Host Name | GGTA>YK25 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 11:03:25 |
+| Lobby ID | 28541631890859423 |
+| Players | 1/8 |
+| Host Name | ressentiment |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:06:06 |
 
 
