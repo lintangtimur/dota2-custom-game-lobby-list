@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 12:04:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631919230092 |
-| Players | 23/24 |
-| Host Name | Wu Gensheng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:03:36 |
+| Lobby ID | 28541631921963387 |
+| Players | 3/10 |
+| Host Name | 47 Chronosphere |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:08:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631920256166 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ck1k3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:05:34 |
@@ -95,27 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631921730354 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:08:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631921963387 |
-| Players | 1/10 |
-| Host Name | 47 Chronosphere |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:08:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631921966483 |
-| Players | 1/10 |
-| Host Name | kkk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 12:08:55 |
 
 
