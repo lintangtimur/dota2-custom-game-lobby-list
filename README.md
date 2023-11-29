@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995793734532 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | Hamas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:39:34 |
@@ -20,28 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:37:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995793329696 |
-| Players | 13/15 |
-| Host Name | Euphoria |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:38:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995790794334 |
-| Players | 9/10 |
-| Host Name | Leoric |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:33:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995792138297 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Make UrSA Great Again ! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:30 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995794091784 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | pepepepe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:40:15 |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995791517788 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | $ilent |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:35:19 |
