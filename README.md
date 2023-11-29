@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996157785677 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ≈NEGODIY≈ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:53:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996153351920 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:48:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996153677124 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 76561198203261364 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:48:54 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:44:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996158517259 |
-| Players | 12/15 |
-| Host Name | svyniacha maty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:53:52 |
+| Lobby ID | 28541996158707345 |
+| Players | 1/24 |
+| Host Name | El 2024 me amarran pipipi |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:54:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996158552505 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Deimos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:53:55 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996158803009 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | INFINITY |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:54:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996158707345 |
-| Players | 2/24 |
-| Host Name | El 2024 me amarran pipipi |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:54:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996158899845 |
-| Players | 1/15 |
-| Host Name | TRV |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:54:16 |
 
 
 |  | epic_boss_fight_nightmare |
