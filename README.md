@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631901963138 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Michael Scott |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:29:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631901149071 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Игорь (Артём) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:27:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631902668639 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | glhf..! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:31:02 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Error.On.Fire.xD |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:31:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631902802148 |
+| Players | 1/8 |
+| Host Name | cerf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:31:18 |
 
 
