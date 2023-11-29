@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996050257296 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | безумный хач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:04:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996050744423 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ГЕНИЙ ДОТЫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:04:32 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIMONINE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:04:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996051232475 |
-| Players | 2/8 |
-| Host Name | Мазафакер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:05:03 |
 
 
 |  | epic_boss_fight_nightmare |
