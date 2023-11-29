@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996161280294 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:56:40 |
@@ -59,46 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996158707345 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | El 2024 me amarran pipipi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:54:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996166984404 |
-| Players | 9/10 |
-| Host Name | 私を殺して |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:02:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996166925819 |
-| Players | 2/15 |
-| Host Name | hakuna10 |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:02:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996167357034 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Solist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:02:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996164823171 |
-| Players | 9/10 |
-| Host Name | Cago |
+| Lobby ID | 28541996166925819 |
+| Players | 1/15 |
+| Host Name | hakuna10 |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:02:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996167587319 |
+| Players | 3/8 |
+| Host Name | 12.11 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:00:18 |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:03:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | C |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:02:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996167369245 |
-| Players | 2/5 |
-| Host Name | oflidismatvej |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:02:55 |
 
 
