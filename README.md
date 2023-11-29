@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541631883055391 |
-| Players | 22/24 |
-| Host Name | ZZZZZZZZ |
+| Lobby ID | 28541631882799143 |
+| Players | 3/10 |
+| Host Name | tocosh |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:49:31 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:49:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631882115260 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BBQ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:47:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631878329627 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | chanito |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:40:01 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:49:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541631882799143 |
-| Players | 2/10 |
-| Host Name | tocosh |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:49:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541631883754067 |
-| Players | 5/8 |
-| Host Name | Escarbato |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:50:56 |
 
 
