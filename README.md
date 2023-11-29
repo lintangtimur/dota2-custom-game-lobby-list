@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995835090174 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Да ебать его в рот |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:54:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Gabo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995836302850 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Auna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:56:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995819456323 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Wip |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:26:31 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | L♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:56:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995836608360 |
+| Players | 1/15 |
+| Host Name | toNY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:57:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lebro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:56:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995836626588 |
+| Players | 1/10 |
+| Host Name | human |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:57:11 |
 
 
