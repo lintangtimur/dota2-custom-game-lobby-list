@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995927551038 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | m |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:31:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995935461585 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 雕虫小技 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:08 |
@@ -50,46 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995937114786 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | эчпочмак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:45:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995937395317 |
-| Players | 7/8 |
-| Host Name | Hasta Luego |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:45:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995937663294 |
-| Players | 1/15 |
-| Host Name | remoff |
+| Players | 3/15 |
+| Host Name | Мой кор - запор |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:46:18 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995931592035 |
-| Players | 1/7 |
-| Host Name | momo&peach princess |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:37:26 |
+| Lobby ID | 28541995937968325 |
+| Players | 3/10 |
+| Host Name | ! 生活vlady$ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:46:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995935413944 |
-| Players | 8/10 |
-| Host Name | Eddie.Lin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:43:04 |
+| Lobby ID | 28541995937920740 |
+| Players | 1/8 |
+| Host Name | One Chance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:46:40 |
 
 
 |  | epic_boss_fight_normal |
