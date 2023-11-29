@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:26:09 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541631871697844 |
-| Players | 9/10 |
-| Host Name | ™PAQUER™ YOU™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:26:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631870535839 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:24:28 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631874332681 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | xpratf |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:32:02 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631872328074 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:28:00 |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:31:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631874899900 |
+| Players | 2/15 |
+| Host Name | lacroix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:33:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631874944420 |
+| Players | 1/24 |
+| Host Name | Patati |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:33:15 |
 
 
