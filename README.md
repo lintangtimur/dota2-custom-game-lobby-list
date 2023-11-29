@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995864682595 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:47:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995864117285 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:46:51 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995864038040 |
-| Players | 13/15 |
-| Host Name | Pahhaa |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:46:43 |
+| Lobby ID | 28541995865477637 |
+| Players | 2/15 |
+| Host Name | The Flag is Raised |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:49:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:49:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995865477637 |
-| Players | 2/15 |
-| Host Name | The Flag is Raised |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:49:09 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995865224529 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:48:43 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541995865494393 |
+| Players | 2/7 |
+| Host Name | LeChonk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:49:11 |
 
 
