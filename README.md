@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996177147812 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | [Sir].BaNooBaBus Hairyman The2nd |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:12:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996180905055 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | TerribleFate |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:16:01 |
@@ -67,15 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996180469463 |
-| Players | 14/15 |
-| Host Name | 11 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:15:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28541996180515240 |
 | Players | 1/15 |
 | Host Name | Pelo |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996178738429 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MaknezZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:13:56 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996180402752 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | KUZUHA |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:15:32 |
