@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631903235363 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:32:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631902668639 |
-| Players | 20/24 |
+| Players | 15/24 |
 | Host Name | glhf..! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:31:02 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:32:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631903693817 |
+| Players | 1/15 |
+| Host Name | SAYANARA BOYZZZ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:33:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541631901748903 |
+| Players | 23/24 |
+| Host Name | Attentäter |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:29:10 |
 
 
