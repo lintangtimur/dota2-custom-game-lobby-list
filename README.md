@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:15:10 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541631867143939 |
-| Players | 9/10 |
-| Host Name | Strong Woman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:17:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631865278883 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631868518899 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | antigamer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:20:30 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631819990327 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 08:38:52 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631865253342 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:14:01 |
