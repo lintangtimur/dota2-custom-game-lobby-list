@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995819866766 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | SOY CHIBOLOOOO!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:27:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995825511168 |
-| Players | 1/8 |
-| Host Name | SodaZ |
+| Lobby ID | 28541995827030002 |
+| Players | 12/24 |
+| Host Name | KomtingKons |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:37:13 |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:39:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995825668740 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:37:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Gabo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995828170806 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | HollowKnight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:42:01 |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:32:48 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995827100372 |
-| Players | 1/24 |
-| Host Name | PND.Wilarson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:40:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995826969557 |
-| Players | 6/10 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:39:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995827030002 |
-| Players | 10/24 |
-| Host Name | KomtingKons |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:39:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995827504512 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:40:49 |
