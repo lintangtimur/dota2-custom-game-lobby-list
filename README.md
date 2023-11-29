@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:54:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996158803009 |
-| Players | 8/10 |
-| Host Name | INFINITY |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:54:10 |
+| Lobby ID | 28541996159692960 |
+| Players | 4/15 |
+| Host Name | БасуПонаваристей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:55:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996153351920 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:48:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996158552505 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Deimos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:53:55 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:54:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996158638377 |
-| Players | 9/10 |
-| Host Name | grechka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:54:00 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541996157424270 |
@@ -99,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:52:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996158044283 |
+| Players | 9/10 |
+| Host Name | dyyn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:53:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541996159837961 |
+| Players | 2/5 |
+| Host Name | МС по КУНИ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:55:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996159839512 |
+| Players | 1/10 |
+| Host Name | MAX POWER |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:55:13 |
 
 
