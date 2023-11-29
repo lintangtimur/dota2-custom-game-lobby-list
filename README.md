@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996160318112 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ANGELMAYCRY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:55:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996158707345 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | El 2024 me amarran pipipi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:54:04 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996160610291 |
-| Players | 7/10 |
-| Host Name | Шершень in smoke |
+| Players | 5/10 |
+| Host Name | Старая брылька |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:56:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996160763899 |
-| Players | 5/8 |
-| Host Name | fweff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:56:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996158638377 |
-| Players | 9/10 |
-| Host Name | grechka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:54:00 |
+| Lobby ID | 28541996161040059 |
+| Players | 1/15 |
+| Host Name | TerribleFate |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:56:25 |
 
 
 |  | ot3_desert_octet |
@@ -99,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ukong |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:56:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996161110842 |
+| Players | 2/8 |
+| Host Name | Dolbaeb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:56:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996161119263 |
+| Players | 4/8 |
+| Host Name | каманда афк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:56:30 |
 
 
 |  | epic_boss_fight_normal |
