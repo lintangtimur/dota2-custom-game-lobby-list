@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631919199490 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Tiberius |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:03:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631925350714 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:15:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631925808047 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:16:23 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Goomba inestable |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 12:17:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631926271682 |
+| Players | 2/15 |
+| Host Name | єℓ ρα∂яιησ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 12:17:18 |
 
 
