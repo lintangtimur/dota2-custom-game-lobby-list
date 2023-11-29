@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:11:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996237675346 |
-| Players | 8/10 |
-| Host Name | Hxrxkiller |
+| Lobby ID | 28541996237898644 |
+| Players | 7/8 |
+| Host Name | Guitir |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:11:48 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:12:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996237816390 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | ArA WAIWAI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:11:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996231755977 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:05:52 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996237904110 |
+| Lobby ID | 28541996238112368 |
 | Players | 1/8 |
-| Host Name | .no lose |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:12:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996237898644 |
-| Players | 1/8 |
-| Host Name | Guitir |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:12:01 |
+| Host Name | crestfallen |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:12:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -121,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996235061636 |
-| Players | 9/10 |
-| Host Name | ไอหน้าหี |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:09:10 |
+| Lobby ID | 28541996238126642 |
+| Players | 1/10 |
+| Host Name | Trivium |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:12:15 |
 
 
