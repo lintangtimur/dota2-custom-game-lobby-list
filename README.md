@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995870348167 |
-| Players | 7/8 |
-| Host Name | goga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:57:24 |
+| Lobby ID | 28541995872282077 |
+| Players | 1/15 |
+| Host Name | 劝学 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:00:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995870069592 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:56:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995867341492 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:52:18 |
@@ -68,45 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995872006574 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | ♡✗darling✗♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:00:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995872053541 |
-| Players | 1/15 |
-| Host Name | 劝学 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:00:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995871861293 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | I'm Lady boy... PAM. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:59:59 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541995872030796 |
-| Players | 1/7 |
-| Host Name | Kazuha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:00:16 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28541995872126517 |
-| Players | 2/7 |
-| Host Name | Jalin |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:00:26 |
 
 
