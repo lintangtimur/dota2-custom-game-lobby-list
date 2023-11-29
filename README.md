@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995927551038 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | m |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:31:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995935461585 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 雕虫小技 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:43:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995936729440 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | betrank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:44:58 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995936234573 |
-| Players | 6/8 |
-| Host Name | ЛЕХА СТОНКС ЯНИКС 2013 |
+| Lobby ID | 28541995937395317 |
+| Players | 3/8 |
+| Host Name | Hasta Luego |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:44:16 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:45:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | эчпочмак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:45:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995937395317 |
-| Players | 2/8 |
-| Host Name | Hasta Luego |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:45:55 |
 
 
 |  | epic_boss_fight_challenger |
