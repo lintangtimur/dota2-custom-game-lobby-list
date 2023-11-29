@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996142755440 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ᅚ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:37:47 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996142074520 |
-| Players | 23/24 |
-| Host Name | P |
+| Lobby ID | 28541996142899758 |
+| Players | 7/24 |
+| Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:37:06 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:37:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996142674605 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | mode: Zitraks 2019 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:37:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996141596950 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Biborten! |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:36:37 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:27:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996142878786 |
-| Players | 3/8 |
-| Host Name | Meatball |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:37:55 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541996142261161 |
@@ -108,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Noobiee |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:37:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996142743705 |
-| Players | 1/10 |
-| Host Name | Death † Doctor |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:37:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996142828382 |
-| Players | 1/10 |
-| Host Name | ZeRo™ |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:37:52 |
 
 
