@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996195118242 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:29:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996195038466 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | BRAINSONTHECURB! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:29:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996194632179 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Zeoleur |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:29:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996190707145 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Vladimir Cerron |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:25:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996195819663 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Гуленок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:30:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996194307585 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | UnderDog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:28:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996195454805 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:30:00 |
@@ -101,31 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:29:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996195654649 |
-| Players | 4/15 |
-| Host Name | пммл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:30:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996193241819 |
 | Players | 4/8 |
-| Host Name | Кого |
+| Host Name | ч€ЂŸп€ԉя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:27:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996196201241 |
+| Players | 7/15 |
+| Host Name | ОВЦЕЕП |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:30:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996196288669 |
+| Players | 3/8 |
+| Host Name | ☁sh0kerwtb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:30:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996196293896 |
+| Players | 5/8 |
+| Host Name | передоз(мефом) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:30:50 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996190554467 |
-| Players | 8/10 |
-| Host Name | 007 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:25:17 |
+| Lobby ID | 28541996196384194 |
+| Players | 1/10 |
+| Host Name | Maia |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:30:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ⓓⓐⓡⓚ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:29:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996196379221 |
+| Players | 1/10 |
+| Host Name | WenZ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:30:55 |
 
 
