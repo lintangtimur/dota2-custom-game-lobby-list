@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996137152326 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:32:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996144878709 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:39:56 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:40:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996145104265 |
-| Players | 1/15 |
-| Host Name | cpt_n3m0 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:40:09 |
+| Lobby ID | 28541996145803599 |
+| Players | 6/10 |
+| Host Name | ek8rk3oekeowlwp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:40:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996145100770 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:40:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996142109132 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:37:08 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996144683149 |
-| Players | 7/8 |
-| Host Name | Spivom Breaker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:39:44 |
+| Lobby ID | 28541996146057244 |
+| Players | 1/8 |
+| Host Name | 鴨の嘴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:41:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996145803599 |
-| Players | 2/10 |
-| Host Name | ek8rk3oekeowlwp |
+| Lobby ID | 28541996146109997 |
+| Players | 1/8 |
+| Host Name | Gott mit uns |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:40:52 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:41:10 |
 
 
 |  | epic_boss_fight_nightmare |
