@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995921290339 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Exzie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:21:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995919582206 |
-| Players | 19/24 |
-| Host Name | CUANPROTPROT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:19:02 |
+| Lobby ID | 28541995920897836 |
+| Players | 4/8 |
+| Host Name | XXX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:21:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995921473020 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Nan4ik1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:22:03 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995921669139 |
-| Players | 1/10 |
-| Host Name | Володя |
+| Lobby ID | 28541995922069928 |
+| Players | 2/10 |
+| Host Name | konadhan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:22:22 |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:22:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995919990004 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Clovis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:19:41 |
