@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995900731405 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:47:51 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995902482426 |
-| Players | 7/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:50:43 |
+| Lobby ID | 28541995902168580 |
+| Players | 4/10 |
+| Host Name | mentallyscaredpsychoshizodepress |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:50:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 16:50:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995902168580 |
-| Players | 4/10 |
-| Host Name | mentallyscaredpsychoshizodepress |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:50:12 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541995897208038 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995901038248 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Heh. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:48:20 |
