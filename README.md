@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995902955742 |
-| Players | 14/15 |
-| Host Name | Exzie |
+| Lobby ID | 28541995904079815 |
+| Players | 1/10 |
+| Host Name | Демон спермоед |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:51:31 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:53:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995903997891 |
-| Players | 3/8 |
-| Host Name | V1TO失明 |
+| Lobby ID | 28541995904106745 |
+| Players | 1/8 |
+| Host Name | Scarface |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:53:14 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:53:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -45,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | киндер пингви |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:42:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995904103552 |
+| Players | 1/10 |
+| Host Name | SASHA_BURIZA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:53:24 |
 
 
