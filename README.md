@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995917160294 |
-| Players | 9/10 |
-| Host Name | kshkld7ck |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:15:08 |
+| Lobby ID | 28541995917683552 |
+| Players | 1/10 |
+| Host Name | Mr Pazuzu |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:15:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995918002425 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:16:30 |
@@ -65,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 17:15:27 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541995917683552 |
+| Lobby ID | 28541995918264351 |
 | Players | 1/10 |
-| Host Name | Mr Pazuzu |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:15:59 |
+| Host Name | sawita |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:16:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995918351888 |
+| Players | 1/5 |
+| Host Name | takina inoue is not my wife |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:17:04 |
 
 
