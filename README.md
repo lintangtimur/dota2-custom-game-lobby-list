@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995779821432 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ↘999↙ SecondAfterGod |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:13:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995777868051 |
-| Players | 23/24 |
-| Host Name | 暴走的小喵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:09:26 |
+| Lobby ID | 28541995779967537 |
+| Players | 5/10 |
+| Host Name | _Ferxxo_ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:13:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995780127062 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Lirral |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:13:46 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:07:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995779967537 |
-| Players | 2/10 |
-| Host Name | _Ferxxo_ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:13:30 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995777270905 |
@@ -56,12 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:08:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541995779621267 |
-| Players | 9/10 |
-| Host Name | oppixoppixfruit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:12:50 |
+| Lobby ID | 28541995781170069 |
+| Players | 2/5 |
+| Host Name | ПАПИНЫ ОЛАДЬИ |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:15:49 |
 
 
