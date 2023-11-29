@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995948280034 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:58 |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995947945459 |
-| Players | 6/10 |
-| Host Name | Mont<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:00:30 |
+| Lobby ID | 28541995948370922 |
+| Players | 3/15 |
+| Host Name | Gay Fish |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:01:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995945242494 |
+| Players | 23/24 |
+| Host Name | monkey king |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:56:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995946917241 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | GoOgLe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:59:06 |
