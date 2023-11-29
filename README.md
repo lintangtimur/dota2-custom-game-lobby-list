@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996006423883 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Nightcrawler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:12:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996018162385 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Kibosh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:27:19 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996018918629 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Hector Salamanca |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:28:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996019054244 |
+| Players | 2/24 |
+| Host Name | Ayam Goreng Mekdi (Pedas) |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:28:23 |
 
 
 |  | epic_boss_fight_challenger |
