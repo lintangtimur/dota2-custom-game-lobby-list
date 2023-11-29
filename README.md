@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995861014687 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:41:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995867382002 |
-| Players | 8/10 |
-| Host Name | Savolnik |
+| Lobby ID | 28541995867912791 |
+| Players | 1/8 |
+| Host Name | 1948esport5 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:52:22 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:53:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995867648583 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:52:49 |
