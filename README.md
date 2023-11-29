@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995818038651 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:24:01 |
@@ -95,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995824533351 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Paradiddle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:35:28 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541995825164427 |
-| Players | 2/7 |
-| Host Name | anuL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:36:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541995826004682 |
-| Players | 1/5 |
-| Host Name | Оля Лукина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:38:06 |
+| Lobby ID | 28541995823760409 |
+| Players | 8/10 |
+| Host Name | lupanamaingatrasa |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:34:06 |
 
 
