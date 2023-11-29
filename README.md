@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995900731405 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:47:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995902955742 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Exzie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:51:31 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995903933133 |
+| Lobby ID | 28541995903997891 |
 | Players | 3/8 |
-| Host Name | Кирюша Гвоздодер |
+| Host Name | V1TO失明 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:53:07 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:53:14 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541995897208038 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | киндер пингви |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:42:04 |
