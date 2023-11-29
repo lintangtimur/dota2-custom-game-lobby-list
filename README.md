@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996099086624 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mr_Anderson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:54:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095353576 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 爱要弹蛋蛋 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996104093236 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | CM Axl |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996104344242 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Светочка из 11А |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996104497828 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:52 |
@@ -110,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:58:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996104939398 |
-| Players | 1/15 |
-| Host Name | Ґедзь |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:00:18 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541996104124843 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:59:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996104940339 |
-| Players | 1/10 |
-| Host Name | Danh hài Vân Sơn |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:00:18 |
 
 
