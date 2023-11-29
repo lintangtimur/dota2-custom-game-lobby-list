@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995893559767 |
-| Players | 1/8 |
-| Host Name | recklessive_ 속도 |
+| Lobby ID | 28541995894055273 |
+| Players | 5/8 |
+| Host Name | НЕ ДУШИТЕ МЕНЯ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:35:59 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:36:48 |
 
 
 |  | ot3_desert_octet |
@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995893478267 |
-| Players | 9/10 |
-| Host Name | Revoker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:35:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541995892561707 |
-| Players | 8/24 |
-| Host Name | noob |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:34:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995893591670 |
-| Players | 11/15 |
-| Host Name | Voenkomat2.0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:36:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995893221095 |
@@ -56,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 16:35:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995894055273 |
-| Players | 2/8 |
-| Host Name | НЕ ДУШИТЕ МЕНЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:36:48 |
+| Lobby ID | 28541995892561707 |
+| Players | 9/24 |
+| Host Name | noob |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:34:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995893175133 |
-| Players | 14/15 |
-| Host Name | uninteresting |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:35:21 |
+| Lobby ID | 28541995894711177 |
+| Players | 1/15 |
+| Host Name | 年轻人 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:37:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995890929529 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Ya ALO |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:31:37 |
