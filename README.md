@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:01:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631858469265 |
-| Players | 24/24 |
-| Host Name | Mahoraga |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:00:45 |
+| Lobby ID | 28541631858553163 |
+| Players | 12/15 |
+| Host Name | HEAD |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:00:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631857933055 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | SadR1der |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:59:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631857612408 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Eric Wimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:59:01 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631856790770 |
-| Players | 7/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:57:22 |
+| Lobby ID | 28541631858523662 |
+| Players | 3/8 |
+| Host Name | veamaybe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:00:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631859023561 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | [ x x x ] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:01:52 |
@@ -94,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631858523662 |
+| Lobby ID | 28541631859272069 |
 | Players | 4/8 |
-| Host Name | veamaybe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:00:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631858553163 |
-| Players | 6/15 |
-| Host Name | HEAD |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:00:55 |
+| Host Name | Пиньята |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:02:21 |
 
 
