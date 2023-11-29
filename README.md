@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995978532888 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | m |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:39:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995989862353 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:52:45 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995988433965 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | CUANPROTPROT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:51:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995990179794 |
-| Players | 1/10 |
-| Host Name | Dence |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:53:07 |
 
 
 |  | ot3_gardens_duo |
@@ -72,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | p2friendship |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:53:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995990346196 |
+| Players | 4/8 |
+| Host Name | cesa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:53:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995990418432 |
+| Players | 1/10 |
+| Host Name | Dence |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:53:24 |
 
 
 |  | epic_boss_fight_nightmare |
