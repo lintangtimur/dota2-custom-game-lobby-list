@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631851944823 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | вопрос с подводником |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:47:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631852800349 |
-| Players | 8/10 |
-| Host Name | 萧瑟.dms.bit |
+| Lobby ID | 28541631852827379 |
+| Players | 11/24 |
+| Host Name | Chupete |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:49:24 |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:49:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28540322598181441 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 04:48:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631853079024 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | BAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:49:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631852161522 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Fox W.Mulder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:48:06 |
@@ -77,18 +77,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631852071725 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:47:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631853451061 |
+| Players | 7/10 |
+| Host Name | Anúbis |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:50:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631853298630 |
+| Players | 3/15 |
+| Host Name | Sushi Devourer |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:50:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631853442293 |
+| Players | 1/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:50:43 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631852827379 |
-| Players | 7/24 |
-| Host Name | Chupete |
+| Lobby ID | 28541631853384091 |
+| Players | 2/24 |
+| Host Name | headbonk |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:50:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631853394915 |
+| Players | 2/15 |
+| Host Name | PillnerTonight |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:50:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631853410943 |
+| Players | 3/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 09:49:27 |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:50:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541631852800349 |
+| Players | 9/10 |
+| Host Name | 萧瑟.dms.bit |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:49:24 |
 
 
