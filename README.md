@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541996170187223 |
-| Players | 23/24 |
-| Host Name | шпрод |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:05:45 |
+| Lobby ID | 28541996172273402 |
+| Players | 6/24 |
+| Host Name | Sky Symphony |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:07:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996176331846 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Memphis Cult |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:11:38 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996176292306 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | land-oliver |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:11:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996175818085 |
-| Players | 5/8 |
-| Host Name | ХУЙВЖОПЕЭНТЕРТЕЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:11:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996172273402 |
-| Players | 3/24 |
-| Host Name | Sky Symphony |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:07:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996176836424 |
-| Players | 5/10 |
-| Host Name | ~Sqm |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:12:07 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | !? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:12:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996177067453 |
+| Players | 2/8 |
+| Host Name | MYXOMOR |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:12:20 |
 
 
 |  | epic_boss_fight_nightmare |
