@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995940567759 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:50:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995940090710 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | MaxMaster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 17:49:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995940964360 |
-| Players | 1/15 |
-| Host Name | Batang Gi Quiapoy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 17:50:55 |
+| Lobby ID | 28541995940998934 |
+| Players | 4/8 |
+| Host Name | миша туберкулёз |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:50:58 |
 
 
 |  | epic_boss_fight_hard |
