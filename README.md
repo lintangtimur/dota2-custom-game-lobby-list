@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995865982651 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Diamond Fish sauce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:50:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995868794245 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | anta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:54:46 |
@@ -58,17 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995868404397 |
-| Players | 7/8 |
-| Host Name | я панда |
+| Lobby ID | 28541995869136301 |
+| Players | 3/8 |
+| Host Name | resonance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:55:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995869167813 |
+| Players | 1/10 |
+| Host Name | sphynxy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 15:54:06 |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:55:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541995869177256 |
+| Players | 1/10 |
+| Host Name | jeyoo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:55:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995867741823 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dendoi Ishuteyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:52:59 |
@@ -77,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541995868793745 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | PrºfessiºnaL NººB |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:54:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995869121264 |
+| Players | 4/10 |
+| Host Name | где концерт кишлака? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:55:19 |
 
 
