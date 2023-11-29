@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996223582841 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | psy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:57:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996220396782 |
-| Players | 7/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:54:36 |
+| Lobby ID | 28541996226354821 |
+| Players | 2/10 |
+| Host Name | aga aga |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:00:30 |
 
 
 |  | ot3_gardens_duo |
@@ -50,46 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996225408116 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | YOU'LL NEVER WALK ALONE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:59:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996225926391 |
-| Players | 7/8 |
-| Host Name | vertolet_helicopter |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:00:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996226688680 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Яспер Моглот (Dutch) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:00:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996226354821 |
-| Players | 1/10 |
-| Host Name | aga aga |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:00:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996226344899 |
-| Players | 5/10 |
-| Host Name | агузок |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:00:29 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ст0pUd0v1i |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:58:17 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28541996226977809 |
+| Players | 2/7 |
+| Host Name | Камень |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:01:07 |
 
 
