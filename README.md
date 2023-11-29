@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631868257098 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:19:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631866887350 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ratzel |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:17:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631865253342 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:14:01 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631867376251 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | MAGINER |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:18:12 |
@@ -121,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631867425060 |
-| Players | 6/8 |
-| Host Name | Yedolf Westler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:18:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28541631868304349 |
 | Players | 1/8 |
 | Host Name | Taison V. Akhal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:20:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631868443982 |
+| Players | 1/15 |
+| Host Name | pichi |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:20:21 |
 
 
