@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631857612408 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Eric Wimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:59:01 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 10:11:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541631863871198 |
-| Players | 6/8 |
-| Host Name | HOY PIERDO, MAÑANA GANO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:11:21 |
+| Lobby ID | 28541631864146241 |
+| Players | 3/15 |
+| Host Name | мушля |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:11:54 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631864002018 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | £雨٭:̶͟͞͞☆ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:11:36 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TuK1 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:11:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541631864146241 |
-| Players | 3/15 |
-| Host Name | мушля |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:11:54 |
 
 
