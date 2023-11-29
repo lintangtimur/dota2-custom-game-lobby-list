@@ -47,40 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:12:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541995995472027 |
-| Players | 14/15 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:59:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996010824078 |
-| Players | 2/10 |
-| Host Name | X'laory |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:18:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996010243618 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | Negate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:17:36 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996010824078 |
+| Players | 7/10 |
+| Host Name | X'laory |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:18:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996009880916 |
-| Players | 7/8 |
-| Host Name | xx_XEXXUA_xx |
+| Lobby ID | 28541996011144761 |
+| Players | 2/8 |
+| Host Name | [V] Nero [Z] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:18:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996011344643 |
+| Players | 4/15 |
+| Host Name | UKRAINE€по персоне€ |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:17:09 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:18:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:17:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996010915667 |
-| Players | 1/5 |
-| Host Name | Shim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:18:27 |
+| Lobby ID | 28541996010961041 |
+| Players | 1/10 |
+| Host Name | nsk_0220 |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:18:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996010964276 |
+| Players | 2/10 |
+| Host Name | Waku waku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:18:30 |
 
 
