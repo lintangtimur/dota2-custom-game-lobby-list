@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631877371192 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | (EL HERMOSO ELEGIDO) |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:38:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541631879778565 |
-| Players | 7/8 |
-| Host Name | Only pos 4 |
+| Lobby ID | 28541631881003410 |
+| Players | 3/24 |
+| Host Name | Fazk.- |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:42:56 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:45:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631878329627 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | chanito |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:40:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631880287692 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 关注MyGO!!!!!喵谢谢关注 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:43:56 |
@@ -95,26 +95,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631880738082 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:44:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541631880334684 |
-| Players | 11/15 |
-| Host Name | ab1cd |
+| Lobby ID | 28541631881158661 |
+| Players | 3/8 |
+| Host Name | Gonza |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 10:44:01 |
+| Lobby Creation Time | Wednesday, November 29, 2023 10:45:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541631880860398 |
 | Players | 1/10 |
-| Host Name | Slobba wat?! |
+| Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:45:05 |
 
