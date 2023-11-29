@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:19:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996246785326 |
-| Players | 4/8 |
-| Host Name | 220 вольт по вене |
+| Lobby ID | 28541996246870107 |
+| Players | 4/10 |
+| Host Name | escapism |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:20:59 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:21:04 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:20:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996246870107 |
-| Players | 2/10 |
-| Host Name | escapism |
+| Lobby ID | 28541996246983172 |
+| Players | 2/8 |
+| Host Name | Пропирдолий |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:21:04 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:21:11 |
 
 
 |  | epic_boss_fight_nightmare |
