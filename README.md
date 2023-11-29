@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996223955314 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ..... |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:58:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996229499963 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Yaz (Selling 2022 & 2023 Cache) |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:03:37 |
@@ -77,19 +77,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996230509824 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | пузо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:04:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996230903577 |
+| Players | 2/8 |
+| Host Name | Я ебу алибабу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:05:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996230486514 |
-| Players | 13/15 |
-| Host Name | Тараканий бог |
+| Lobby ID | 28541996231012313 |
+| Players | 5/15 |
+| Host Name | zzz |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:05:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996231007090 |
+| Players | 1/15 |
+| Host Name | PESOCHEK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:04:36 |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:05:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996231005585 |
+| Players | 1/15 |
+| Host Name | шалунишка |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:05:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996231027925 |
+| Players | 3/8 |
+| Host Name | \what's wrong, scared?/ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:05:08 |
 
 
 |  | epic_boss_fight_nightmare |
