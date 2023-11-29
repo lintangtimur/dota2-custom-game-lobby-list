@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995966041461 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | JD- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:24:09 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995965969133 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | hakuna10 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:24:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995967755705 |
-| Players | 10/15 |
-| Host Name | пивохлеб |
+| Lobby ID | 28541995968207732 |
+| Players | 6/8 |
+| Host Name | Darling |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:26:17 |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:26:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 18:26:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541995968207732 |
-| Players | 6/8 |
-| Host Name | Darling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:26:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995964833544 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Have a Good Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:22:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541995968507541 |
+| Players | 1/5 |
+| Host Name | TheGamingChef6678 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:27:13 |
 
 
