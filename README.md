@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995835820710 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Arthamiel |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:55:42 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 15:12:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995845037646 |
+| Players | 1/15 |
+| Host Name | Scorcher//CHEP |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:13:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995845039512 |
+| Players | 4/8 |
+| Host Name | Я гуль (психокид) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:13:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995844898428 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | antuar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:12:51 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 15:12:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541995844978194 |
+| Players | 1/10 |
+| Host Name | sHIZA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 15:13:00 |
 
 
