@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996151460573 |
-| Players | 3/24 |
+| Players | 13/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:37 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996150100186 |
-| Players | 2/24 |
-| Host Name | W2C2 |
+| Players | 1/24 |
+| Host Name | Haru |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:45:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996150115820 |
-| Players | 9/10 |
-| Host Name | Chatuba |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:45:14 |
+| Lobby ID | 28541996151958105 |
+| Players | 4/15 |
+| Host Name | КАК КАКАТЬ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:47:07 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996151166450 |
-| Players | 14/15 |
-| Host Name | Биде |
+| Lobby ID | 28541996152069218 |
+| Players | 2/8 |
+| Host Name | Бублик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:46:19 |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:47:14 |
 
 
 |  | ot3_desert_octet |
@@ -119,28 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:47:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996151799300 |
-| Players | 1/24 |
-| Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:46:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996151851908 |
-| Players | 1/8 |
-| Host Name | Luian Camix |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:47:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996147775211 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mr. Krabs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:42:51 |
