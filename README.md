@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995978532888 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | m |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:39:20 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995975093927 |
-| Players | 2/24 |
-| Host Name | Mist |
+| Players | 1/24 |
+| Host Name | Tempeste |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:35:16 |
 
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 18:44:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995984904406 |
-| Players | 1/8 |
-| Host Name | Костыль |
+| Lobby ID | 28541995985105840 |
+| Players | 2/15 |
+| Host Name | K L I F |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 18:46:52 |
+| Lobby Creation Time | Wednesday, November 29, 2023 18:47:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995983771822 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | LARVELL JONES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:45:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995984103832 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:45:56 |
