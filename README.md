@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:31:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995790249135 |
-| Players | 1/8 |
-| Host Name | Natso - |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:32:55 |
+| Lobby ID | 28541995790205032 |
+| Players | 1/15 |
+| Host Name | markb0y |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:32:50 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995790099731 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:32:38 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995790205032 |
+| Lobby ID | 28541995790338462 |
 | Players | 1/15 |
-| Host Name | markb0y |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:32:50 |
+| Host Name | Me And 4 Pro Player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:33:04 |
 
 
 |  | epic_boss_fight_nightmare |
