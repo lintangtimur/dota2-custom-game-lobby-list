@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 19:28:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996017740360 |
-| Players | 1/8 |
-| Host Name | YO PINGA LOCA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:26:49 |
+| Lobby ID | 28541996019678921 |
+| Players | 4/10 |
+| Host Name | molodoy777.七百七十七 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:29:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,28 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996016971992 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Carlton Drake |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:25:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996019743206 |
+| Players | 2/10 |
+| Host Name | Солевой король |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:29:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996019656321 |
+| Lobby ID | 28541996019770958 |
 | Players | 1/8 |
 | Host Name | ๖ۣۣۜDead ๖ۣInside 死的 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:29:07 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:29:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996019678921 |
-| Players | 1/10 |
-| Host Name | molodoy777.七百七十七 |
+| Lobby ID | 28541996019772793 |
+| Players | 1/8 |
+| Host Name | YO PINGA LOCA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:29:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996019832984 |
+| Players | 4/8 |
+| Host Name | pO_ollI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:29:09 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:29:20 |
 
 
 |  | epic_boss_fight_challenger |
