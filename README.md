@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631913781450 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | <blank> |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:52:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541631913885165 |
+| Players | 2/10 |
+| Host Name | Mortred |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:53:11 |
 
 
 |  | ot3_desert_octet |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | новогодний Poga/|ic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:52:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631913964011 |
+| Players | 1/15 |
+| Host Name | неумехапелемеха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:53:20 |
 
 
