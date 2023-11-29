@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996096851756 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ZALIM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:52:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996097398807 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Tiimmy Turner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:52:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095353576 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Zero Two |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996096463656 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:51:49 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996097184659 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Auswählen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:52:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996097515444 |
+| Players | 4/8 |
+| Host Name | Flaimi_sad知性кокоё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:52:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541996096419730 |
-| Players | 1/7 |
+| Players | 6/7 |
 | Host Name | KyloReee |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:51:46 |
