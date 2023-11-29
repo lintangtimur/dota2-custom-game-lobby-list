@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996125229432 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Dal ZaZu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:20:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996119046132 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | sindi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:14:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996124492580 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Stray228 prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:19:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996121533544 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:16:37 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996124807131 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Jighoul |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:19:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996125313268 |
+| Players | 3/8 |
+| Host Name | Gott mit uns |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:20:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541996124815299 |
+| Lobby ID | 28541996125447048 |
 | Players | 1/10 |
 | Host Name | 暴力婷 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 21:19:50 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 29, 2023 21:20:28 |
 
 
