@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995907151070 |
-| Players | 8/15 |
-| Host Name | tice |
+| Lobby ID | 28541995907944346 |
+| Players | 2/8 |
+| Host Name | Fighter Jet 52 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:58:25 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:59:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995807425642 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Hash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995906395989 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | mr_parfumerrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 16:57:11 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541995907645121 |
-| Players | 2/8 |
-| Host Name | Микроволновка |
+| Lobby ID | 28541995906964559 |
+| Players | 7/8 |
+| Host Name | HELP |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 16:59:15 |
+| Lobby Creation Time | Wednesday, November 29, 2023 16:58:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541995908108463 |
+| Players | 1/24 |
+| Host Name | !Jamata |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, November 29, 2023 17:00:01 |
 
 
 |  | epic_boss_fight_nightmare |
