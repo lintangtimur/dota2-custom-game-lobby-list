@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995781904893 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SDMastery© |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:17:15 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:13:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995780127062 |
-| Players | 9/10 |
-| Host Name | Lirral |
+| Lobby ID | 28541995782467490 |
+| Players | 1/15 |
+| Host Name | aWarDeeee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:13:46 |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:18:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995782231713 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Кафир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:17:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995781397485 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Euphoria |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:16:15 |
@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 13:17:49 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995782427840 |
+| Players | 1/15 |
+| Host Name | ZeyK Rus |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:18:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995782443337 |
+| Players | 1/8 |
+| Host Name | benitocamitroncote |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:18:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541995777270905 |
-| Players | 9/10 |
-| Host Name | Fran____ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:08:14 |
+| Lobby ID | 28541995782457899 |
+| Players | 1/10 |
+| Host Name | SASHA_BURIZA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:18:19 |
 
 
