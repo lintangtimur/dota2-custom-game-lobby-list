@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996217438217 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 猫又 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996211578496 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:45:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996220651671 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | [JIuoHeS]™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:54:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996216939719 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Dan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:51:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996217863552 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:52:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996220687918 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ладно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:54:53 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996220781356 |
-| Players | 3/15 |
-| Host Name | СНЮСОВИК |
+| Players | 7/15 |
+| Host Name | Taк нaзывaeмый Chefir |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:54:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996220140527 |
-| Players | 4/8 |
-| Host Name | MYXOMOR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:54:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996220790235 |
-| Players | 1/15 |
-| Host Name | ha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:55:00 |
 
 
 |  | epic_boss_fight_nightmare |
