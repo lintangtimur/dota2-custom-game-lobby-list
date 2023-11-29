@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995947660481 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ☮Alive |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996072892667 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ローリー |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:28:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996072277490 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Я ДАГЕСТАНЕЦ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:27:23 |
@@ -86,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996073327908 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:28:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996074111018 |
-| Players | 4/8 |
-| Host Name | 220 вольт по вене |
+| Lobby ID | 28541996074169171 |
+| Players | 7/10 |
+| Host Name | LARVELL JONES |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:29:16 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:29:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996070329996 |
-| Players | 5/10 |
-| Host Name | d1 |
+| Lobby ID | 28541996074191277 |
+| Players | 5/15 |
+| Host Name | Skins9l |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:25:22 |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:29:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541996074228953 |
+| Players | 1/24 |
+| Host Name | Xy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:29:24 |
 
 
