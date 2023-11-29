@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:43:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996268769688 |
-| Players | 2/10 |
-| Host Name | Lonely |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:43:49 |
+| Lobby ID | 28541996269025596 |
+| Players | 1/8 |
+| Host Name | DeD-perdyn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:44:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 23:42:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996268642279 |
-| Players | 12/15 |
-| Host Name | Coldhands |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:43:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996267973039 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Canebo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:42:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996268951538 |
+| Players | 2/8 |
+| Host Name | BabissGr |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:44:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996268948649 |
+| Players | 1/8 |
+| Host Name | ДЕД ДИДЖАЛЯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:44:00 |
 
 
 |  | epic_boss_fight_normal |
