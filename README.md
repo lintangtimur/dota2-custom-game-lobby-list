@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995807622556 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ^)^)^)^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:05:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995812468061 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Chris |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:14:00 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995813843328 |
-| Players | 1/15 |
-| Host Name | Obergruppenführer John smith |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:16:28 |
+| Lobby ID | 28541995816267292 |
+| Players | 13/15 |
+| Host Name | Giant space crab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:20:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995815418526 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:19:19 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 14:20:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541995816267292 |
-| Players | 8/15 |
-| Host Name | Giant space crab |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 14:20:51 |
+| Lobby ID | 28541995816791611 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 14:21:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995810971742 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 14:11:22 |
