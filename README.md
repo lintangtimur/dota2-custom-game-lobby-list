@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996095353576 |
-| Players | 4/24 |
-| Host Name | 504 |
+| Players | 3/24 |
+| Host Name | 爱要弹蛋蛋 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:50:42 |
 
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996099760402 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | <<<((八個惡魔))>>> |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:55:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541996101487963 |
-| Players | 1/8 |
-| Host Name | Sullivan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:56:52 |
+| Lobby ID | 28541996101677621 |
+| Players | 5/15 |
+| Host Name | Bruce Twarze |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:57:03 |
 
 
 |  | ot3_gardens_duo |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vojtec |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:55:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541996101677621 |
-| Players | 4/15 |
-| Host Name | Bruce Twarze |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:57:03 |
 
 
 |  | epic_boss_fight_challenger |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996101738977 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:57:07 |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LeChonk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:56:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996101346888 |
-| Players | 1/10 |
-| Host Name | HC5.  Insence™ |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:56:44 |
 
 
