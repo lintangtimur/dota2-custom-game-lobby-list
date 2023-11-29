@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996151198832 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 21:46:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996170499881 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | BALENCIAGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:06:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996170523525 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Anlatov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:06:04 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 21:55:13 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541996170568897 |
-| Players | 1/5 |
-| Host Name | D™ [D]ance To Corgi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:06:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996170557449 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:06:06 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541996170585869 |
-| Players | 1/7 |
-| Host Name | Sempak_Galang |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:06:08 |
 
 
