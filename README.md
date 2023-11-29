@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541631877969074 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | NO SANA NO LIFE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 10:39:17 |
