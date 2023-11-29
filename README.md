@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996062119971 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | hakuna10 |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:16:42 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996074706193 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | QOTAQBAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:29:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996074832830 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Und3rC0ntr0l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:30:01 |
@@ -137,6 +137,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 20:30:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996075108730 |
+| Players | 4/8 |
+| Host Name | мама анархия папы нет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:30:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541996075136145 |
+| Players | 1/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:30:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996074376474 |
@@ -144,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bananaterecotapieeeeeeeeeeeeeeee |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:29:33 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541996075029709 |
-| Players | 5/7 |
-| Host Name | White Domino |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:30:12 |
 
 
