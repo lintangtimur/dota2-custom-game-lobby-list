@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631894928403 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | KUZUHA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:15:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631895814986 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Ale |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:17:00 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JimPark |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 11:16:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541631895888656 |
+| Players | 1/15 |
+| Host Name | NFL |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 11:17:10 |
 
 
