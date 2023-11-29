@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996256030298 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:30:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996255733533 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:30:12 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996254984170 |
-| Players | 7/15 |
-| Host Name | Gaylord Fucker |
+| Players | 6/15 |
+| Host Name | rudeboy.flick |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:29:26 |
 
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996257475763 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | haunted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:32:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996257487308 |
-| Players | 3/8 |
-| Host Name | Скинь ножки❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 23:32:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996257509256 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | pressure |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:32:02 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:30:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541996257654898 |
+| Players | 2/10 |
+| Host Name | MochiMochi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:32:11 |
 
 
