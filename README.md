@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995790655013 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:33:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995792138297 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Make UrSA Great Again ! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:30 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:31:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541995790503638 |
+| Players | 7/8 |
+| Host Name | пипися |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:33:23 |
 
 
 |  | epic_boss_fight_nightmare |
