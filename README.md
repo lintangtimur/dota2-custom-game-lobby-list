@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996024257557 |
-| Players | 2/8 |
-| Host Name | fearless 立bipolar立 talentle |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:34:39 |
+| Lobby ID | 28541996030753925 |
+| Players | 2/10 |
+| Host Name | Holly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:42:12 |
 
 
 |  | ot3_desert_octet |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 18:00:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541996029140783 |
-| Players | 23/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:40:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541996029862057 |
-| Players | 7/10 |
-| Host Name | pizdec) |
+| Lobby ID | 28541996030630157 |
+| Players | 1/10 |
+| Host Name | Auswählen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:41:11 |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:42:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996030259162 |
+| Players | 3/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 19:41:38 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996030076530 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | DOODLES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:41:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996030259162 |
-| Players | 2/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:41:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541996027113045 |
-| Players | 9/10 |
-| Host Name | Whiteney |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 29, 2023 19:37:59 |
 
 
 |  | epic_boss_fight_hard |
