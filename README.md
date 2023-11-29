@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995779967537 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | _Ferxxo_ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:13:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995782467490 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:18:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995782571191 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:18:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995781500136 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:16:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995782443337 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | benitocamitroncote |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:18:18 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995782198537 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | Greyhoundz XXV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:17:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541995782427840 |
-| Players | 1/15 |
-| Host Name | ZeyK Rus |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:18:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541995782606759 |
-| Players | 2/10 |
-| Host Name | Giant space crab |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:18:37 |
+| Lobby ID | 28541995783184344 |
+| Players | 1/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:19:44 |
 
 
 |  | ot3_jungle_quintet |
