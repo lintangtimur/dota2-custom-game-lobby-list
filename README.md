@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541995790655013 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:33:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995788509804 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:29:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541995791825491 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Manilas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:35:54 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Make UrSA Great Again ! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995789510592 |
+| Players | 13/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:31:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541995792193299 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | YEAH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:36:36 |
