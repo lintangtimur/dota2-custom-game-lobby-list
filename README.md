@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996032648659 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | tu vieja me llama al telefono |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:44:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996059085252 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 🍌 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:13:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996030837948 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Injoker.Death |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 29, 2023 19:42:18 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996057467741 |
-| Players | 6/8 |
-| Host Name | Fasters |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 20:11:46 |
+| Lobby ID | 28541996057912675 |
+| Players | 7/8 |
+| Host Name | CM Axl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:12:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996059463599 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Rainstorm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:13:54 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996059542964 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 20:13:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996059832116 |
+| Players | 6/8 |
+| Host Name | 52 гц кит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:14:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996059849596 |
+| Players | 1/8 |
+| Host Name | Традиционикл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:14:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996059856256 |
+| Players | 6/8 |
+| Host Name | шиноби |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 20:14:19 |
 
 
 |  | epic_boss_fight_nightmare |
