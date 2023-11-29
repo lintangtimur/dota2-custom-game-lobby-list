@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541631836284209 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Goblok Slayer |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:15:11 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541631838691513 |
 | Players | 2/15 |
-| Host Name | 奇跡の神 |
+| Host Name | where-dome |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:20:24 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541631838736200 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Balin428 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:20:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541631838486558 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Mata Kbroz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:19:57 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 09:20:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541631833392051 |
+| Players | 7/8 |
+| Host Name | Hartmann |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 29, 2023 09:08:54 |
 
 
