@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996248933292 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | zomorod |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:23:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996245516151 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | vicderrR.D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:19:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541996248872816 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | $w4G |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:23:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996249390687 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Cukka |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:23:39 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541996249651200 |
-| Players | 1/8 |
-| Host Name |  |
+| Players | 3/8 |
+| Host Name | last dance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 23:23:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541996249727412 |
+| Players | 2/10 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:24:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996249739913 |
+| Players | 2/8 |
+| Host Name | ropchik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:24:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541996249803780 |
+| Players | 3/8 |
+| Host Name | ⭕⃤ chenZER |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 23:24:05 |
 
 
 |  | epic_boss_fight_nightmare |
