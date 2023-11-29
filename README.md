@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995777150388 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Gamer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:08:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995777868051 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:09:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541995774212192 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:02:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541995776960722 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Бугименчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:07:38 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541995776729181 |
-| Players | 13/15 |
-| Host Name | Ataman |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 29, 2023 13:07:11 |
+| Lobby ID | 28541995779068713 |
+| Players | 1/15 |
+| Host Name | ๋ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:11:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541995779149536 |
+| Players | 1/15 |
+| Host Name | @_@ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:11:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 29, 2023 13:08:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541995779134448 |
+| Players | 1/7 |
+| Host Name | Doura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 29, 2023 13:11:54 |
 
 
