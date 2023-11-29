@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541996169255253 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | 🍌 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:04:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996166972890 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | DonPudge |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:02:31 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 29, 2023 22:04:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541996167962709 |
-| Players | 8/10 |
-| Host Name | DarikMoLoi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:03:32 |
+| Lobby ID | 28541996169630650 |
+| Players | 5/8 |
+| Host Name | Dandikiller |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 29, 2023 22:05:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,34 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541996169591374 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | KYRIE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:05:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541996169630650 |
-| Players | 1/8 |
-| Host Name | Dandikiller |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:05:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541996169621523 |
-| Players | 1/10 |
-| Host Name | MAMYT PAXAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 29, 2023 22:05:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541996164899971 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ダークデク |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 29, 2023 22:00:23 |
