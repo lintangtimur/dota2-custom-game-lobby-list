@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997843892033 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Баш Баратрумович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:47:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997839782312 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:38:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997843790881 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Zero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:47:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997843979137 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | S |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 15:47:48 |
@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:47:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997842980950 |
-| Players | 9/10 |
-| Host Name | Anonymousthetic |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 15:45:38 |
+| Lobby ID | 28541997844276868 |
+| Players | 3/10 |
+| Host Name | котелок300 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:48:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997844188614 |
+| Lobby ID | 28541997844269795 |
 | Players | 1/10 |
-| Host Name | TheY cAll me NooB!!! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:48:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997844258955 |
-| Players | 3/5 |
-| Host Name | Red Bull ka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:48:24 |
+| Host Name | koeto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 15:48:26 |
 
 
