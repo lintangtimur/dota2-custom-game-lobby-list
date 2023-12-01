@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997710150543 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997711336829 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | skazka |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:30:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997708322972 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:24:16 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997709469231 |
-| Players | 7/8 |
-| Host Name | Conchito Musculoso |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:26:36 |
+| Lobby ID | 28541997711787853 |
+| Players | 6/8 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:31:14 |
 
 
 |  | epic_boss_fight_nightmare |
