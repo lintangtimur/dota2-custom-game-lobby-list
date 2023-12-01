@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997646019500 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | kötsibëu |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:18:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997645690651 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KosmoAkroshka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:17:27 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:18:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997645460283 |
-| Players | 7/8 |
-| Host Name | XxricardoxX10 |
+| Lobby ID | 28541997646524768 |
+| Players | 3/15 |
+| Host Name | Big Daddy Sweet (BDS) |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:19:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997644739725 |
+| Players | 13/15 |
+| Host Name | †Niel4Four |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:16:58 |
+| Lobby Creation Time | Friday, December 1, 2023 09:15:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997645422275 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | WoTianMu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:53 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997646060979 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ! [kaɪt] // /YS.!.ユルチク |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:18:14 |
