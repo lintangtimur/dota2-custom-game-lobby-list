@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997694938797 |
-| Players | 23/24 |
-| Host Name | Iguana |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:55:52 |
+| Lobby ID | 28541997696481428 |
+| Players | 1/24 |
+| Host Name | jdominiq |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:59:00 |
 
 
 |  | ot3_gardens_duo |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Momam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997696544559 |
+| Players | 1/5 |
+| Host Name | pos_69_or_gayfurryhelicopter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:59:08 |
 
 
