@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997660606156 |
-| Players | 21/24 |
-| Host Name | PIPHELS |
+| Lobby ID | 28541997662942554 |
+| Players | 8/10 |
+| Host Name | My Tears Are Becoming A Sea |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:47:59 |
+| Lobby Creation Time | Friday, December 1, 2023 09:52:34 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997663025928 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | General |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:44 |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:49:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997663122185 |
-| Players | 4/8 |
-| Host Name | El mata cabros 4000 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:52:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997662942554 |
-| Players | 8/10 |
-| Host Name | My Tears Are Becoming A Sea |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:52:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997663122376 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:55 |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N4RC0S |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:51:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997663684431 |
+| Players | 1/5 |
+| Host Name | *-*Feroxx |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:54:01 |
 
 
