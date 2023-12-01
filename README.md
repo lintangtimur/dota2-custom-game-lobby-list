@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997979175127 |
-| Players | 7/8 |
-| Host Name | был внутри адлета |
+| Lobby ID | 28541997980017007 |
+| Players | 5/8 |
+| Host Name | ShlakoBlock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:08:04 |
+| Lobby Creation Time | Friday, December 1, 2023 19:09:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997942116438 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mundialista |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 18:22:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997970614539 |
-| Players | 14/24 |
+| Players | 11/24 |
 | Host Name | Skif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 18:57:52 |
@@ -50,55 +50,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997975190527 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 19:03:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997980745217 |
+| Players | 1/15 |
+| Host Name | キリール |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 19:09:52 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997976497159 |
-| Players | 22/24 |
-| Host Name | BUTUH DANA CEPAT |
+| Lobby ID | 28541997980404509 |
+| Players | 4/24 |
+| Host Name | Kurokongho |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 19:04:58 |
+| Lobby Creation Time | Friday, December 1, 2023 19:09:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997980757980 |
+| Players | 7/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 19:09:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997980702779 |
+| Players | 2/24 |
+| Host Name | Кирюша Гвоздодер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 19:09:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997974780888 |
-| Players | 1/10 |
-| Host Name | Piekna |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 19:02:56 |
+| Lobby ID | 28541997980824269 |
+| Players | 3/10 |
+| Host Name | ВИТЯ ТАЩЕР(с)ты |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 19:09:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997979224800 |
-| Players | 4/8 |
-| Host Name | мидарима |
+| Lobby ID | 28541997980891328 |
+| Players | 1/8 |
+| Host Name | michaeljohnson7408 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:08:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997979355145 |
-| Players | 3/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:08:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997979943219 |
-| Players | 2/8 |
-| Host Name | ShlakoBlock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:08:57 |
+| Lobby Creation Time | Friday, December 1, 2023 19:10:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -119,30 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 19:08:10 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997979696659 |
-| Players | 3/10 |
-| Host Name | Vegabone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 19:08:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997975253287 |
-| Players | 9/10 |
-| Host Name | Joukahainen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:03:30 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997979940352 |
+| Lobby ID | 28541997980885322 |
 | Players | 1/5 |
-| Host Name | Hioskuld |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:08:56 |
+| Host Name | I love DOTA 1X6 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 19:10:02 |
 
 
