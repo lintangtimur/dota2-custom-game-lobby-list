@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:27:14 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997740462988 |
+| Players | 6/24 |
+| Host Name | Itachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:27:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997740338220 |
