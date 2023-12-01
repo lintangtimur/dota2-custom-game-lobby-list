@@ -24,18 +24,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997745151122 |
 | Players | 3/24 |
-| Host Name | Weganerd |
+| Host Name | <3 Young Miko <3 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997745418031 |
-| Players | 12/15 |
-| Host Name | TRESHEBANIY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:36:53 |
+| Lobby ID | 28541997746394155 |
+| Players | 2/24 |
+| Host Name | Empress |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 12:38:46 |
 
 
 |  | ot3_gardens_duo |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:36:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997744000784 |
-| Players | 23/24 |
-| Host Name | Aniki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:34:10 |
+| Lobby ID | 28541997746201093 |
+| Players | 2/15 |
+| Host Name | Sephiroth |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:38:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997745108396 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | FERXXO HANMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:17 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997745748505 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:37:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997745919679 |
-| Players | 1/24 |
-| Host Name | PORTOLITA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:37:52 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:38:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997746201093 |
-| Players | 2/15 |
-| Host Name | Sephiroth |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:38:24 |
+| Lobby ID | 28541997746428329 |
+| Players | 2/10 |
+| Host Name | nymphs in a white dress |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:38:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Quesah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:27:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997746295951 |
-| Players | 1/5 |
-| Host Name | Family Guy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:38:35 |
 
 
