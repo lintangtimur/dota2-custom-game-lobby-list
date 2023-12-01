@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997686880218 |
-| Players | 12/15 |
-| Host Name | Денис Мацуев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 10:39:38 |
+| Lobby ID | 28541997687257026 |
+| Players | 1/8 |
+| Host Name | - |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:40:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997686322862 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Fanss |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:38:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997686768964 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Pos 69 or grief |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:39:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997686759630 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Risas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 10:39:24 |
@@ -67,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997687170395 |
-| Players | 6/24 |
-| Host Name | Astrocyte |
+| Lobby ID | 28541997682881407 |
+| Players | 22/24 |
+| Host Name | CauKie |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:40:13 |
+| Lobby Creation Time | Friday, December 1, 2023 10:31:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997684552409 |
+| Players | 9/10 |
+| Host Name | Clovis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:35:03 |
 
 
