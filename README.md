@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997818062882 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:52:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997816514928 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997818781013 |
-| Players | 7/8 |
-| Host Name | Splinter |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:54:12 |
+| Lobby ID | 28541997818907847 |
+| Players | 4/8 |
+| Host Name | талантбек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:54:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997818858548 |
-| Players | 1/10 |
+| Lobby ID | 28541997818935496 |
+| Players | 2/10 |
 | Host Name | LSDen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:54:20 |
+| Lobby Creation Time | Friday, December 1, 2023 14:54:28 |
 
 
 |  | epic_boss_fight_nightmare |
