@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997640615835 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Es un Elissir xD |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:06:27 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997639714694 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Untitled |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:04:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997640394397 |
-| Players | 7/10 |
-| Host Name | falcon |
+| Lobby ID | 28541997640864746 |
+| Players | 3/8 |
+| Host Name | Jugador Profesional de Fortnite |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:05:57 |
+| Lobby Creation Time | Friday, December 1, 2023 09:07:00 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:04:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997640864746 |
-| Players | 1/8 |
-| Host Name | Jugador Profesional de Fortnite |
+| Lobby ID | 28541997640984036 |
+| Players | 1/10 |
+| Host Name | SrGato |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:07:00 |
+| Lobby Creation Time | Friday, December 1, 2023 09:07:16 |
 
 
 |  | epic_boss_fight_nightmare |
