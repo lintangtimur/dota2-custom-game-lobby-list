@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997762556482 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Improve |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:11:13 |
