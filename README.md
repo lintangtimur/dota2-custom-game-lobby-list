@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997665574338 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Ringo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:44 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997665524736 |
-| Players | 6/10 |
-| Host Name | llegó la SUNAT |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:57:38 |
+| Lobby ID | 28541997666928379 |
+| Players | 3/15 |
+| Host Name | jake69 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:00:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997665199848 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997665563012 |
-| Players | 6/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:57:42 |
+| Lobby ID | 28541997666972548 |
+| Players | 1/24 |
+| Host Name | Potatoes gonna potate! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:00:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solo Leveling |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:59:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997663813619 |
+| Players | 8/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:54:17 |
 
 
 |  | epic_boss_fight_nightmare |
