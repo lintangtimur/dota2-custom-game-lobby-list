@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997757275870 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | AAkeno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:59:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997756885238 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:59:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997751303117 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997757017441 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:59:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751375887 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Aquagio |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
@@ -77,16 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997758256169 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | угардос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:02:09 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997758447123 |
+| Players | 3/10 |
+| Host Name | INAI |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:02:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997758464118 |
+| Players | 1/8 |
+| Host Name | El niño guerrero |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:02:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997757005191 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NMSL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:59:22 |
