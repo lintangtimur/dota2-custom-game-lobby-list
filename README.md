@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:13:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997732299755 |
-| Players | 14/15 |
-| Host Name | raron |
+| Lobby ID | 28541997734663257 |
+| Players | 2/24 |
+| Host Name | BARCO CAMARONERO |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:11:34 |
+| Lobby Creation Time | Friday, December 1, 2023 12:16:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997732496731 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:11:57 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997734663257 |
-| Players | 1/24 |
-| Host Name | BARCO CAMARONERO |
+| Lobby ID | 28541997734733111 |
+| Players | 2/24 |
+| Host Name | fatantogod |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:16:05 |
+| Lobby Creation Time | Friday, December 1, 2023 12:16:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997734797261 |
+| Players | 1/10 |
+| Host Name | AleSix |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:16:21 |
 
 
 |  | epic_boss_fight_nightmare |
