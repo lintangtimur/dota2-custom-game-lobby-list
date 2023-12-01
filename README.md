@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997830497398 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Чувствую smooth criminal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:18:27 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:19:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997829253480 |
+| Players | 14/15 |
+| Host Name | He'ershingenmosiken |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 15:15:41 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997826643173 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
