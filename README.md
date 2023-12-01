@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541998048875843 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Cheris Lee |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 20:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541998056465578 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | eLTree |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, December 1, 2023 20:26:00 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:08:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541998054514100 |
-| Players | 3/15 |
-| Host Name | Antidepressant |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 20:24:12 |
+| Lobby ID | 28541998057206332 |
+| Players | 3/24 |
+| Host Name | Kenny |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:25:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541998056302839 |
-| Players | 9/10 |
-| Host Name | VlaDick |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 20:25:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541998056429750 |
@@ -92,30 +83,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:25:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541998056769260 |
+| Players | 7/8 |
+| Host Name | Bizzy Dee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541998056645670 |
+| Players | 3/10 |
+| Host Name | Elected993 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541998057349320 |
+| Players | 3/15 |
+| Host Name | lost. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541998057511751 |
+| Players | 1/8 |
+| Host Name | POPULAR FORCE |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541998057517981 |
+| Players | 1/15 |
+| Host Name | Pelo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541998056254190 |
+| Lobby ID | 28541998056964377 |
 | Players | 2/5 |
-| Host Name | OpenAl(ℬoτ) ✔ |
+| Host Name | ZomBoy89 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 20:25:48 |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541998056290409 |
-| Players | 5/10 |
-| Host Name | 起个名真纠结 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 20:25:50 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541998056474339 |
-| Players | 2/7 |
-| Host Name | Sukuna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 20:26:01 |
+| Lobby ID | 28541998057419538 |
+| Players | 1/10 |
+| Host Name | VURP |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 20:26:53 |
 
 
