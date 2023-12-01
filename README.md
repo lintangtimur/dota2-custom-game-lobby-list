@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997632552534 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997633251462 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:50:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997633831017 |
+| Players | 4/10 |
+| Host Name | кабан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 08:51:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997633859405 |
+| Players | 1/15 |
+| Host Name | SlimShady |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 08:51:28 |
 
 
 |  | epic_boss_fight_nightmare |
