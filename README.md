@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997959346752 |
-| Players | 8/10 |
-| Host Name | Krico |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 18:43:58 |
+| Lobby ID | 28541997960227187 |
+| Players | 3/8 |
+| Host Name | tOfu prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 18:45:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997957436232 |
-| Players | 2/24 |
-| Host Name | Soma Mikolofitia |
+| Players | 1/24 |
+| Host Name | Yafa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 18:41:35 |
 
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997958393828 |
-| Players | 7/24 |
-| Host Name | Kingpin |
+| Players | 5/24 |
+| Host Name | Pussidon |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 1, 2023 18:42:47 |
 
@@ -59,43 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997960082751 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 18:44:54 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997959074565 |
-| Players | 21/24 |
-| Host Name | Kurokongho |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 18:43:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997959783902 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | sílam moríhoh^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 18:44:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997960188724 |
-| Players | 1/8 |
-| Host Name | half blood prince |
+| Lobby ID | 28541997960472670 |
+| Players | 5/10 |
+| Host Name | Kukoldsexperience |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:45:02 |
+| Lobby Creation Time | Friday, December 1, 2023 18:45:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997959474783 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 18:44:08 |
