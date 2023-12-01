@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997729675469 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:06:28 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:06:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997729337620 |
-| Players | 14/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:05:50 |
+| Lobby ID | 28541997730120840 |
+| Players | 3/8 |
+| Host Name | kris |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 1, 2023 12:07:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997729752028 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | J. |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:06:37 |
