@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631087660 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Ice Wallow Come |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 08:45:36 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997635082860 |
-| Players | 10/15 |
-| Host Name | arp |
+| Lobby ID | 28541997636161013 |
+| Players | 8/10 |
+| Host Name | Anúbis |
 | Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 08:54:03 |
+| Lobby Creation Time | Friday, December 1, 2023 08:56:20 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997635781317 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | B*SønG~BirÐ_♪*K |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:55:32 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:55:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997636161013 |
-| Players | 6/10 |
-| Host Name | Anúbis |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 08:56:20 |
 
 
 |  | epic_boss_fight_nightmare |
