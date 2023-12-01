@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997825719075 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | dumkuntmagee |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 15:07:50 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:11:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997827468139 |
-| Players | 5/8 |
-| Host Name | Hussar |
+| Lobby ID | 28541997828084880 |
+| Players | 2/10 |
+| Host Name | 死ね！ FAIL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:11:44 |
+| Lobby Creation Time | Friday, December 1, 2023 15:13:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:12:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997827898029 |
-| Players | 2/10 |
-| Host Name | 死ね！ FAIL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:12:42 |
 
 
 |  | ot3_jungle_quintet |
