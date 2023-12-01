@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997830899137 |
-| Players | 1/24 |
-| Host Name | Black Lodge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 15:19:20 |
+| Lobby ID | 28541997832685173 |
+| Players | 4/10 |
+| Host Name | CANCELUL |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:23:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997832637286 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ВИННИПУХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:23:09 |
