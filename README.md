@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:34:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997772961547 |
-| Players | 14/15 |
-| Host Name | Bahia.Ganker |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:31:52 |
+| Lobby ID | 28541997774612894 |
+| Players | 1/8 |
+| Host Name | amaster |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:35:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:35:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997774612894 |
-| Players | 1/8 |
-| Host Name | amaster |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:35:03 |
 
 
 |  | epic_boss_fight_nightmare |
