@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997762369044 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:10:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997764485362 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:15:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997764394273 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | RMT(McMani Rockefeller) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:14:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997763945766 |
-| Players | 2/15 |
-| Host Name | Commander Al-Qassam>:) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:14:00 |
+| Lobby ID | 28541997764731424 |
+| Players | 1/24 |
+| Host Name | CryMeARiver |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 13:15:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997763976227 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Kiyotaka Ayanokoji |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:14:04 |
