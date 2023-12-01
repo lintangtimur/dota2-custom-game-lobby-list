@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997660606156 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | PIPHELS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:47:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997659504819 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ПАПА Seed'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:45:47 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | head walker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997663122376 |
+| Players | 3/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:52:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997663122185 |
+| Players | 1/8 |
+| Host Name | El mata cabros 4000 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:52:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997661110232 |
+| Players | 14/15 |
+| Host Name | aWarDeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:48:59 |
 
 
 |  | epic_boss_fight_challenger |
