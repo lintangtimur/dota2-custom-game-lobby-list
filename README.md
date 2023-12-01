@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997633831017 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | кабан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:51:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997634080919 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:51:56 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997632792545 |
-| Players | 3/8 |
-| Host Name | ---- |
+| Players | 1/8 |
+| Host Name | فلادينير أغويلار سانشيز |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:49:12 |
 
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997633251462 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:50:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997634134837 |
-| Players | 2/8 |
-| Host Name | магнус наоборот |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 08:52:03 |
+| Lobby ID | 28541997634248586 |
+| Players | 2/24 |
+| Host Name | ДАВИД |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 08:52:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997634306437 |
+| Players | 1/15 |
+| Host Name | MrPaggy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 08:52:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28541997633483409 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:50:40 |
