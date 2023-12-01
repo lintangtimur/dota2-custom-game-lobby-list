@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997690143321 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ебучая серая мышь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997687942873 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:41:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997690688673 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997690507594 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | EMANS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:56 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Caius Cosades |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997691194340 |
+| Players | 1/8 |
+| Host Name | TE PEGO COMO TU VIEJO |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 1, 2023 10:48:19 |
 
 
 |  | epic_boss_fight_nightmare |
