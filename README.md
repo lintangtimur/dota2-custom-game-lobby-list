@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997877491618 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:50:46 |
@@ -49,35 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997878045612 |
-| Players | 3/8 |
-| Host Name | YT.com/T-Rex DotA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:51:37 |
+| Lobby ID | 28541997880931760 |
+| Players | 2/8 |
+| Host Name | INGREM |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 16:56:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997879963007 |
-| Players | 1/10 |
-| Host Name | Van ♂️ Darkholme |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 16:54:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997879973254 |
-| Players | 8/10 |
-| Host Name | dd |
+| Lobby ID | 28541997880422043 |
+| Players | 9/15 |
+| Host Name | I7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:54:36 |
+| Lobby Creation Time | Friday, December 1, 2023 16:55:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997876240474 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Pinkamena Diane Pie |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 16:48:49 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997879077112 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | YangYang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:53:13 |
