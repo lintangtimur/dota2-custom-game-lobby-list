@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997845978708 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Nino |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 15:52:08 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997852570095 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:05:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997865423115 |
-| Players | 23/24 |
-| Host Name | jzcz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 16:31:25 |
+| Lobby ID | 28541997870266739 |
+| Players | 1/8 |
+| Host Name | Azula |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 16:39:20 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 16:24:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997869411552 |
-| Players | 6/8 |
-| Host Name | TiffyTick |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 16:37:58 |
+| Lobby ID | 28541997870280228 |
+| Players | 3/24 |
+| Host Name | Asam Garam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 16:39:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997869995807 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | life imitates life |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:38:54 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997870502625 |
+| Players | 1/10 |
+| Host Name | TheRealBubmels |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 16:39:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997868053597 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | BAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:35:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997869664575 |
-| Players | 1/10 |
-| Host Name | Limz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 16:38:22 |
 
 
