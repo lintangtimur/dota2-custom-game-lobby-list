@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997792384701 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:08:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997793367189 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Агент габена |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:09:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997793020483 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | talent? hardwork? |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 14:09:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997794065002 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Камиль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:11:03 |
@@ -76,19 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997789531623 |
-| Players | 23/24 |
-| Host Name | Res |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 14:02:50 |
+| Lobby ID | 28541997786054284 |
+| Players | 22/24 |
+| Host Name | pepepepe |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:56:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997791276999 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | TheY cAll me NooB!!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:06:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997794366076 |
+| Players | 1/5 |
+| Host Name | Вентилятор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:11:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997794493849 |
+| Players | 1/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:11:49 |
 
 
