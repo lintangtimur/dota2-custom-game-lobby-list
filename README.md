@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997794768953 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 14:12:19 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997798287528 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Godota2.comGUTS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 14:18:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997798596530 |
-| Players | 1/24 |
-| Host Name | Cabo Productions |
+| Lobby ID | 28541997798740602 |
+| Players | 1/15 |
+| Host Name | MOTOMAMI |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:19:09 |
+| Lobby Creation Time | Friday, December 1, 2023 14:19:24 |
 
 
 |  | epic_boss_fight_nightmare |
