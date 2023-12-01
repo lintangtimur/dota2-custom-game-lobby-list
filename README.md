@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997678130367 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Bolaños El perro alarako |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:22:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997677940499 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | мaиgø |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 10:22:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997677741653 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | -blank- |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:21:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997678043191 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | krakoonity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:22:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997678565142 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:23:15 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997678971497 |
-| Players | 1/10 |
-| Host Name | SEE KUSS |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:24:03 |
+| Lobby ID | 28541997679054996 |
+| Players | 2/10 |
+| Host Name | a |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 10:24:13 |
 
 
 |  | epic_boss_fight_nightmare |
