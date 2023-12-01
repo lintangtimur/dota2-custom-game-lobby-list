@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997803382295 |
-| Players | 8/10 |
-| Host Name | JA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:27:30 |
+| Lobby ID | 28541997805364458 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 14:30:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997799883517 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:21:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997801449386 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | I believe I can......... RUIN |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:24:09 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:30:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997805352505 |
-| Players | 1/8 |
-| Host Name | ч1амуж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:30:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997805364458 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 14:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
