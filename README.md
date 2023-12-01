@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997823273477 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | dealessandro15 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 15:02:28 |
@@ -67,28 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997826839206 |
+| Lobby ID | 28541997826929600 |
 | Players | 1/8 |
-| Host Name | furasshu |
+| Host Name | SmackBq- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:10:20 |
+| Lobby Creation Time | Friday, December 1, 2023 15:10:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997826643173 |
 | Players | 2/10 |
-| Host Name | numcaps |
+| Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997826865715 |
-| Players | 1/7 |
-| Host Name | ゆうとみんと |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:10:24 |
+| Lobby ID | 28541997826938716 |
+| Players | 2/5 |
+| Host Name | Akaza |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 15:10:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997826949002 |
+| Players | 1/5 |
+| Host Name | хербобин демон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:10:35 |
 
 
