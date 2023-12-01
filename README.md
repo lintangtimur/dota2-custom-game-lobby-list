@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997957079972 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | лаги в башке |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 18:41:09 |
@@ -32,55 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997939829165 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | eL EMBARAZADO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 18:19:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997954630253 |
-| Players | 3/8 |
-| Host Name | тузик |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 18:38:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997957349727 |
-| Players | 6/15 |
-| Host Name | Catgamer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:41:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997957586347 |
-| Players | 1/10 |
-| Host Name | 5 pos only |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:41:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997953177554 |
-| Players | 8/10 |
-| Host Name | KoySoyGone |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:36:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997957446054 |
-| Players | 2/10 |
-| Host Name | Krico |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:41:36 |
 
 
 |  | ot3_desert_octet |
@@ -94,37 +49,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997955785569 |
+| Lobby ID | 28541997957349727 |
 | Players | 14/15 |
-| Host Name | The Big Bad Wolf |
+| Host Name | Catgamer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:39:32 |
+| Lobby Creation Time | Friday, December 1, 2023 18:41:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997955263714 |
-| Players | 17/24 |
-| Host Name | Glizzy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 18:38:53 |
+| Lobby ID | 28541997957586347 |
+| Players | 2/10 |
+| Host Name | 5 pos only |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 18:41:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997957787569 |
-| Players | 1/8 |
-| Host Name | ꪶꪮꪖᦔ꠸ꪀᧁ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:42:01 |
+| Lobby ID | 28541997958467227 |
+| Players | 3/8 |
+| Host Name | Krico |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 18:42:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997953741269 |
-| Players | 7/10 |
-| Host Name | Black |
+| Lobby ID | 28541997958444611 |
+| Players | 2/8 |
+| Host Name | дела едут зайбис |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:36:59 |
+| Lobby Creation Time | Friday, December 1, 2023 18:42:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997958393828 |
+| Players | 3/24 |
+| Host Name | 504 |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 1, 2023 18:42:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997958512139 |
+| Players | 1/24 |
+| Host Name | Res |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 1, 2023 18:42:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997953177554 |
+| Players | 10/10 |
+| Host Name | KoySoyGone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 18:36:17 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541997957855820 |
+| Players | 1/7 |
+| Host Name | KyloReee |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 1, 2023 18:42:06 |
 
 
