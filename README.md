@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997695548452 |
 | Players | 2/8 |
-| Host Name | Yomatara |
+| Host Name | YAtronco |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:57:07 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997694938797 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Iguana |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:52 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997690688673 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997695591573 |
-| Players | 1/10 |
-| Host Name | ANONIMOXVR |
+| Lobby ID | 28541997695469908 |
+| Players | 2/15 |
+| Host Name | .: XV :.. |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:57:12 |
+| Lobby Creation Time | Friday, December 1, 2023 10:56:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997694545815 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:05 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997695469908 |
-| Players | 2/15 |
-| Host Name | .: XV :.. |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:56:57 |
+| Lobby ID | 28541997696051486 |
+| Players | 6/15 |
+| Host Name | Денис Мацуев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:58:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997694188767 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:54:22 |
