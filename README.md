@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997834231748 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:26:39 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997829405121 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:16:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997834911755 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 20th Century |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:28:08 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 15:28:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997835501462 |
-| Players | 1/10 |
-| Host Name | SHINU |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:29:26 |
 
 
 |  | epic_boss_fight_normal |
