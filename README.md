@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997795006683 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | eternal dreams |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:12:45 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:13:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997794001598 |
-| Players | 9/10 |
-| Host Name | N!cK Machiavelli |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:10:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997791276999 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | TheY cAll me NooB!!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:06:01 |
