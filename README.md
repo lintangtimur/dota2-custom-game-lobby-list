@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:09:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997672141592 |
-| Players | 22/24 |
-| Host Name | #W Kiwi € / \♥ |
+| Lobby ID | 28541997672598693 |
+| Players | 5/10 |
+| Host Name | pederasta cotas |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:10:38 |
+| Lobby Creation Time | Friday, December 1, 2023 10:11:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997667147393 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Daddy Chill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:00:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997667383882 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ArcaN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997669921172 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 10:06:15 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997672537803 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | kevin el favo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997672598693 |
-| Players | 2/10 |
-| Host Name | pederasta cotas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:11:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N4RC0S |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997672826921 |
-| Players | 1/5 |
-| Host Name | PlayingTheAngel |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 10:11:58 |
 
 
