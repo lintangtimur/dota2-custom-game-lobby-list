@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631087660 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Ice Wallow Come |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 08:45:36 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997638280028 |
-| Players | 23/24 |
-| Host Name | -qwerty |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:01:04 |
+| Lobby ID | 28541997640128002 |
+| Players | 4/24 |
+| Host Name | CauKie |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:05:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997639883728 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 耶罗 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:04:47 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997639754388 |
-| Players | 1/10 |
-| Host Name | YASHA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:04:29 |
+| Lobby ID | 28541997639823559 |
+| Players | 6/10 |
+| Host Name | XxTuviejoxX |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:04:39 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997639794450 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | HIT IN LANE OR I AFK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:04:35 |
@@ -85,35 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997639823559 |
+| Lobby ID | 28541997640394397 |
 | Players | 6/10 |
-| Host Name | XxTuviejoxX |
+| Host Name | falcon |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:04:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997640128002 |
-| Players | 3/24 |
-| Host Name | CauKie |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:05:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997635539601 |
-| Players | 9/10 |
-| Host Name | thEdarK1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 08:55:01 |
+| Lobby Creation Time | Friday, December 1, 2023 09:05:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997637812711 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:59:52 |
