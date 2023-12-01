@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997837557522 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Ankara Messi messi Messi messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:33:55 |
@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997859788995 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:20:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997859943981 |
-| Players | 12/15 |
-| Host Name | Pinkie Pie |
+| Lobby ID | 28541997861276891 |
+| Players | 4/10 |
+| Host Name | Овцеёб |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:21:05 |
+| Lobby Creation Time | Friday, December 1, 2023 16:23:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997860423965 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:22:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997860402914 |
-| Players | 7/10 |
-| Host Name | let's win |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 16:22:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997859148365 |
-| Players | 8/10 |
-| Host Name | Hasnawi S.Kom S14 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 16:19:27 |
+| Lobby ID | 28541997861248133 |
+| Players | 3/8 |
+| Host Name | x3noblade |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 16:23:45 |
 
 
 |  | epic_boss_fight_normal |
