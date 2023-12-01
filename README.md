@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997716171687 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:39:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997714858463 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | elektro |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 11:37:19 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:35:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997715248208 |
-| Players | 13/15 |
-| Host Name | Arthemidas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:38:05 |
+| Lobby ID | 28541997716024099 |
+| Players | 1/8 |
+| Host Name | Cever |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 1, 2023 11:39:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997715562850 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | R-G |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:38:42 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997715812668 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:39:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997716024099 |
-| Players | 1/8 |
-| Host Name | Cever |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 1, 2023 11:39:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997716400908 |
-| Players | 1/24 |
-| Host Name | GANDESBLOOD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 11:40:20 |
 
 
 |  | epic_boss_fight_nightmare |
