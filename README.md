@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:41:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997810134222 |
-| Players | 12/15 |
-| Host Name | MRRAR |
+| Lobby ID | 28541997811756225 |
+| Players | 2/8 |
+| Host Name | kiritych enjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:39:15 |
+| Lobby Creation Time | Friday, December 1, 2023 14:42:05 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997802987032 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:26:49 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:42:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997811756225 |
-| Players | 2/8 |
-| Host Name | kiritych enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:42:05 |
+| Lobby ID | 28541997809551420 |
+| Players | 23/24 |
+| Host Name | _(:з」∠)_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:38:14 |
 
 
 |  | epic_boss_fight_nightmare |
