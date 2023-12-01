@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997807530123 |
-| Players | 6/8 |
-| Host Name | trb. |
+| Lobby ID | 28541997808731379 |
+| Players | 2/10 |
+| Host Name | Ακίτα |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:34:43 |
+| Lobby Creation Time | Friday, December 1, 2023 14:36:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997807682456 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | 28min |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:34:59 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997802987032 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:26:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997808548358 |
-| Players | 1/15 |
-| Host Name | hydraoxygen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:36:29 |
 
 
 |  | ot3_gardens_duo |
@@ -54,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr Seczo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:36:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997808796531 |
+| Players | 1/15 |
+| Host Name | hydraoxygen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:36:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997808823804 |
+| Players | 1/8 |
+| Host Name | J turn police 180° |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 14:36:58 |
 
 
 |  | epic_boss_fight_normal |
