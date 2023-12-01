@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997739186571 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:24:50 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997738185494 |
-| Players | 7/8 |
-| Host Name | ɪᴍᴛʜᴏʀ |
+| Players | 4/8 |
+| Host Name | Abuelo Tuzki |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:22:53 |
 
@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997738223103 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Serenity |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 12:22:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997738133562 |
-| Players | 6/8 |
-| Host Name | Camera Man |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:22:47 |
+| Lobby ID | 28541997738793818 |
+| Players | 7/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:24:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997738681815 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:23:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997738793818 |
-| Players | 3/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:24:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 12:16:45 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541997739320866 |
-| Players | 2/7 |
-| Host Name | нахуй иди |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 12:25:05 |
 
 
