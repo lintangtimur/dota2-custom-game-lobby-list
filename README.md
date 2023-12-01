@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997700138653 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Legna |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997700069468 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997699806351 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ПАПА Seed'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:06:29 |
