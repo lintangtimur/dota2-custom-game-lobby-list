@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997694261800 |
-| Players | 22/24 |
-| Host Name | Dj cucaracha |
+| Lobby ID | 28541997694938797 |
+| Players | 1/24 |
+| Host Name | Un Dotita y a mimir |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:54:30 |
+| Lobby Creation Time | Friday, December 1, 2023 10:55:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997690688673 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997693276449 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | denilson |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:52:31 |
@@ -77,34 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997694943892 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:53 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997694938797 |
-| Players | 1/24 |
-| Host Name | Un Dotita y a mimir |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:55:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997695041910 |
-| Players | 1/15 |
-| Host Name | 三缺一 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, December 1, 2023 10:56:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997694188767 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:54:22 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997694943884 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Momam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:53 |
