@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997779964812 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 悉尼 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:45:10 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arphon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:44:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997781493661 |
-| Players | 1/5 |
-| Host Name | DIОрея |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:48:02 |
 
 
