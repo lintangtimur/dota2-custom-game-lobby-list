@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997698082117 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | xpratf |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997698971982 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997700250439 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | EL PERRO JUDIO |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997700069468 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:03 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПАПА Seed'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:06:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997700726401 |
+| Players | 6/8 |
+| Host Name | Swap commend |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:08:29 |
 
 
 |  | epic_boss_fight_challenger |
