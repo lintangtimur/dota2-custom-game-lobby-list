@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997837557522 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Ankara Messi messi Messi messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:33:55 |
@@ -29,29 +29,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 16:05:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997861659881 |
-| Players | 14/15 |
-| Host Name | KLEOPATRI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:24:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997861709283 |
-| Players | 3/8 |
-| Host Name | Жена бомжа |
+| Lobby ID | 28541997862646158 |
+| Players | 2/8 |
+| Host Name | кровь из носа |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 16:26:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997862569774 |
+| Players | 4/10 |
+| Host Name | prime oguzok |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:24:42 |
+| Lobby Creation Time | Friday, December 1, 2023 16:26:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997861874317 |
-| Players | 6/24 |
-| Host Name | Majin |
+| Players | 15/24 |
+| Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:25:02 |
 
@@ -59,63 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997861655875 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 16:24:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997861975042 |
-| Players | 6/10 |
-| Host Name | デッド |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:25:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997862146585 |
-| Players | 2/8 |
-| Host Name | кровь из носа |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 16:25:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997862309350 |
+| Lobby ID | 28541997862905293 |
 | Players | 1/15 |
-| Host Name | Dog (real) |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 16:25:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997860807247 |
-| Players | 1/5 |
-| Host Name | Shadowheart enjoyer |
+| Host Name | [A]『Wispes21』[A] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:22:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997861461011 |
-| Players | 2/10 |
-| Host Name | ****** |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:24:11 |
+| Lobby Creation Time | Friday, December 1, 2023 16:27:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997862044309 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | YangYang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:25:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997861461011 |
+| Players | 4/10 |
+| Host Name | ****** |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 16:24:11 |
 
 
