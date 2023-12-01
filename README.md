@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997664021412 |
-| Players | 7/8 |
-| Host Name | MrPaggy |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:54:41 |
+| Lobby ID | 28541997664827787 |
+| Players | 6/8 |
+| Host Name | BRASA |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 09:56:16 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997664156508 |
-| Players | 10/15 |
+| Players | 15/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:54:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997662701528 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 東方白 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:06 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997661350689 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:49:28 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997663911984 |
-| Players | 18/24 |
-| Host Name | blank |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:54:28 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997663813619 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:54:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997664894927 |
+| Players | 2/24 |
+| Host Name | -blank- |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:56:24 |
 
 
 |  | epic_boss_fight_normal |
