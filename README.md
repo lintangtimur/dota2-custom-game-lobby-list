@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997729675469 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:06:28 |
@@ -45,5 +45,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mrs.KING |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:08:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997732073266 |
+| Players | 1/24 |
+| Host Name | FB🦃 |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 1, 2023 12:11:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997732100703 |
+| Players | 1/24 |
+| Host Name | meow |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 12:11:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997732095866 |
+| Players | 1/5 |
+| Host Name | •◘◘x◘◘• |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 12:11:10 |
 
 
