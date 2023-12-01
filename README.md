@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997710150543 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:59 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997709148891 |
-| Players | 13/15 |
-| Host Name | Incognito |
+| Lobby ID | 28541997710170455 |
+| Players | 2/15 |
+| Host Name | Harry Styles |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:25:57 |
+| Lobby Creation Time | Friday, December 1, 2023 11:28:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997708322972 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:24:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997709063561 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | бешенный шишак (sei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:25:47 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997710071669 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997710170455 |
-| Players | 1/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:28:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997709694861 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | oppixoppixfruit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:04 |
