@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997794768953 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 14:12:19 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997798764664 |
-| Players | 8/10 |
-| Host Name | смерть |
+| Lobby ID | 28541997799780763 |
+| Players | 2/8 |
+| Host Name | ненавижу дотеров |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:19:27 |
+| Lobby Creation Time | Friday, December 1, 2023 14:21:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♡violet♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:21:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997799780763 |
-| Players | 1/8 |
-| Host Name | ненавижу дотеров |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:21:14 |
 
 
 |  | epic_boss_fight_nightmare |
