@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997676061142 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | ДАВИД |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997676919990 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Nasho ♡ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:20:00 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997676582599 |
+| Lobby ID | 28541997676779543 |
 | Players | 1/10 |
-| Host Name | Alberik |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:19:21 |
+| Host Name | qeqe |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 10:19:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 耶罗 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:19:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997676779543 |
-| Players | 1/10 |
-| Host Name | qeqe |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 10:19:44 |
 
 
 |  | epic_boss_fight_nightmare |
