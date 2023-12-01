@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997942116438 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mundialista |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 18:22:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997996128794 |
-| Players | 6/15 |
-| Host Name | Taharua |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 19:26:52 |
+| Lobby ID | 28541997997473503 |
+| Players | 6/10 |
+| Host Name | Space Chicken |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 19:28:17 |
 
 
 |  | ot3_desert_octet |
@@ -59,36 +59,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997995592817 |
-| Players | 11/24 |
+| Players | 21/24 |
 | Host Name | BOO``` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 19:26:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997996191908 |
-| Players | 7/10 |
-| Host Name | Ray |
+| Lobby ID | 28541997997344534 |
+| Players | 7/8 |
+| Host Name | Sadness_&_Pain |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:26:56 |
+| Lobby Creation Time | Friday, December 1, 2023 19:28:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997997960851 |
+| Players | 3/8 |
+| Host Name | Saeed |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 19:28:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997997176002 |
-| Players | 1/15 |
-| Host Name | sittings na |
+| Lobby ID | 28541997997829196 |
+| Players | 5/15 |
+| Host Name | The_Maustemies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 19:28:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997997896340 |
+| Players | 7/8 |
+| Host Name | Shinra tense |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 19:27:58 |
+| Lobby Creation Time | Friday, December 1, 2023 19:28:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997994830499 |
-| Players | 8/10 |
-| Host Name | ggwp |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 19:25:28 |
+| Lobby ID | 28541997997990885 |
+| Players | 1/10 |
+| Host Name | ****** |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 19:28:51 |
 
 
