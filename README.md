@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997792384701 |
 | Players | 2/24 |
-| Host Name | Felip |
+| Host Name | Pineapple |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:08:02 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997786054284 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | pepepepe |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:56:28 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:08:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997790662091 |
+| Players | 9/10 |
+| Host Name | Carry Or ruin |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 14:04:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997791276999 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheY cAll me NooB!!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:06:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997792488259 |
-| Players | 2/5 |
-| Host Name | Ganzo :v |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:08:13 |
 
 
