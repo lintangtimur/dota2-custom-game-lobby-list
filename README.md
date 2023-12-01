@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997767488740 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997768894163 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Prometey_X |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:23:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997768201491 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Jack Hanma |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997768383985 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SunBentley GoDota2.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:53 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:23:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997767423362 |
-| Players | 2/5 |
-| Host Name | Allah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:20:58 |
 
 
 |  | epic_boss_fight_nightmare |
