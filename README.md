@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631700646 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Future |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997631186678 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | HappyAlways |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:45:49 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997632525904 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997633156761 |
+| Players | 3/15 |
+| Host Name | yra pobeda |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 08:49:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997633238282 |
+| Players | 4/8 |
+| Host Name | JIREN CONDORI |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 08:50:09 |
 
 
 |  | epic_boss_fight_nightmare |
