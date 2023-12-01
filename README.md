@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997684662178 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:35:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997680723068 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:27:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997682646629 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | DarkFlameMaster |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:31:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997684016011 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | N!cK Machiavelli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:33:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997684313432 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Duuuuh |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:34:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997685129482 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ¢ɾעßά๖ฯ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:36:11 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997685132964 |
-| Players | 1/15 |
-| Host Name | PFSR |
+| Lobby ID | 28541997685175854 |
+| Players | 2/15 |
+| Host Name | Bussy Huntah |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 10:36:12 |
+| Lobby Creation Time | Friday, December 1, 2023 10:36:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997684552409 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Clovis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:35:03 |
