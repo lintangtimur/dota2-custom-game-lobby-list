@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997644739725 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ...................... |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:15:25 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997641498444 |
-| Players | 2/24 |
-| Host Name | フランシュチョウ-ゾン |
+| Players | 1/24 |
+| Host Name | Mato dois e ainda me escapo!!! |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:08:25 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642401680 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:15:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997645043169 |
-| Players | 3/15 |
-| Host Name | NO VIBE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:16:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997645047563 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997645168144 |
+| Players | 3/15 |
+| Host Name | Dark_Arxilich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:16:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997642912218 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Como Tan Muchacho |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:11:31 |
