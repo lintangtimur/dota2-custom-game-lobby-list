@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997672141592 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | #W Kiwi € / \♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:10:38 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997669921172 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 10:06:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997672486675 |
+| Players | 1/8 |
+| Host Name | Grimorum ~_^ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997672537803 |
+| Players | 2/15 |
+| Host Name | kevin el favo |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:11:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997672538126 |
+| Players | 1/15 |
+| Host Name | MODO RAGE |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:11:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:10:23 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997672265324 |
-| Players | 2/5 |
-| Host Name | -Musux- |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:10:53 |
+| Lobby ID | 28541997672485198 |
+| Players | 2/10 |
+| Host Name | N4RC0S |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
 
 
