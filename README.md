@@ -32,46 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997632552534 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997632792437 |
-| Players | 8/10 |
-| Host Name | Princesa Yogurt Helado |
+| Lobby ID | 28541997633345116 |
+| Players | 6/15 |
+| Host Name | me quede en el 7.30 |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:49:12 |
+| Lobby Creation Time | Friday, December 1, 2023 08:50:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997632792545 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:49:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997632525904 |
-| Players | 17/24 |
-| Host Name | soy serrano, y que? |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:48:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997633156761 |
-| Players | 14/15 |
-| Host Name | yra pobeda |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 08:49:59 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:50:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997633345116 |
-| Players | 1/15 |
-| Host Name | me quede en el 7.30 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:50:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nasty |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28541997633483409 |
+| Players | 2/7 |
+| Host Name | FishBunnyCat |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 08:50:40 |
 
 
