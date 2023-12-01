@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997641498444 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | Sid, el indomable :v |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:08:25 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maté A Kenny |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:09:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997631087660 |
+| Players | 23/24 |
+| Host Name | Ice Wallow Come |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 08:45:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997641870471 |
+| Players | 1/24 |
+| Host Name | Lt Cmdr Data |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 1, 2023 09:09:15 |
 
 
