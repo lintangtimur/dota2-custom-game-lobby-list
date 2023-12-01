@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997644458811 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 腹有诗书气自华 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:14:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997651094097 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | < blank > |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 09:28:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997652788727 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:32:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997652581649 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | msaade330 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:31:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997650840731 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Sunset |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 09:28:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997652352816 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Jaylaps Brozingis |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:31:17 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997653641496 |
+| Lobby ID | 28541997653764253 |
 | Players | 3/10 |
-| Host Name | OG |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 09:33:56 |
+| Host Name | ndehaZzgiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:34:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997651627864 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ModD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:49 |
