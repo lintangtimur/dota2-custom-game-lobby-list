@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997729675469 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:06:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997732971098 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | PORTOLITA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:12:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997732964393 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ПуссиДжуси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:12:51 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997733620678 |
+| Lobby ID | 28541997733111007 |
 | Players | 1/8 |
-| Host Name | The Manjares |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:14:06 |
+| Host Name | Flower Moon - Serendipia |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:13:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997733718600 |
+| Players | 5/8 |
+| Host Name | ashkel ketchup |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:14:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:13:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997733608052 |
-| Players | 2/5 |
-| Host Name | Ваня Блинк |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 12:14:04 |
 
 
