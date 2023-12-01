@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997654803530 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Tucan Mistico :v |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 09:36:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642401680 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997656445374 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:39:39 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:36:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997655987403 |
-| Players | 1/5 |
-| Host Name | deydara |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:38:42 |
 
 
