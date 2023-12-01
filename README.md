@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997840642895 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | SStar1y |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:40:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997839826154 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:38:50 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997840779699 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:40:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997841019644 |
-| Players | 1/8 |
-| Host Name | MARY JANE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:41:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997840158991 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Y_Tus_Skins? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 15:39:33 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541997840281591 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ゆうとみんと |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:39:50 |
