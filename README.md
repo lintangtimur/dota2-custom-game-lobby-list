@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997714858463 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | elektro |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 11:37:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997715248208 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Arthemidas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:38:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997715562850 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | R-G |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:38:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997715845016 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:39:15 |
