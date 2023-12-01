@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997736191667 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Titanma |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:19:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997736168990 |
-| Players | 1/8 |
-| Host Name | Poseidon |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 12:19:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997736166792 |
-| Players | 2/15 |
-| Host Name | Caramelbear |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:18:59 |
 
 
 |  | ot3_gardens_duo |
@@ -54,6 +36,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AAkeno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:19:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997736166792 |
+| Players | 1/15 |
+| Host Name | Caramelbear |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:18:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997736301138 |
+| Players | 1/8 |
+| Host Name | Poseidon |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 12:19:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997732496731 |
+| Players | 9/10 |
+| Host Name | Mia Khalifa.Onlyfans✪ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:11:57 |
 
 
 |  | epic_boss_fight_normal |
