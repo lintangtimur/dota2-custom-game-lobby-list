@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997822986338 |
-| Players | 14/15 |
-| Host Name | Burning5up |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:01:49 |
+| Lobby ID | 28541997823525190 |
+| Players | 1/10 |
+| Host Name | RaFXander |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:03:02 |
 
 
 |  | ot3_gardens_duo |
@@ -56,20 +56,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:02:28 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997823525190 |
-| Players | 1/10 |
-| Host Name | RaFXander |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:03:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997822822018 |
-| Players | 3/10 |
-| Host Name | бот-хантер |
+| Players | 2/10 |
+| Host Name | Numd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:01:28 |
 
