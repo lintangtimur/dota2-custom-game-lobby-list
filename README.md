@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997658352539 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:43:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997658367132 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:43:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997658174694 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Pinto Bean |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:43:08 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997659055229 |
-| Players | 1/15 |
-| Host Name | He'ershingenmosiken |
+| Players | 2/15 |
+| Host Name | ALFALFITA IS BACK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:44:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997659111411 |
+| Players | 2/10 |
+| Host Name | Young Hokage |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:45:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ModD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997655013082 |
-| Players | 9/10 |
-| Host Name | Farewell, My paradise |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 09:36:43 |
 
 
