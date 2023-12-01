@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997737274471 |
 | Players | 3/10 |
-| Host Name | Yare Yare Daze |
+| Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:21:08 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997736166792 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Caramelbear |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:18:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997736613491 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Yeezuss愛生 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:19:51 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997737539514 |
+| Lobby ID | 28541997737767819 |
 | Players | 1/8 |
 | Host Name | Poseidon |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 12:21:39 |
+| Lobby Creation Time | Friday, December 1, 2023 12:22:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 12:16:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997737484060 |
-| Players | 1/5 |
-| Host Name | kjcsteamer |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 12:21:32 |
 
 
