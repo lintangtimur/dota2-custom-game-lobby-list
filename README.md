@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997772155284 |
-| Players | 14/15 |
-| Host Name | The Flag is Raised |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:30:19 |
+| Lobby ID | 28541997773079740 |
+| Players | 7/24 |
+| Host Name | 苍蝇 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:32:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:31:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997773079740 |
-| Players | 5/24 |
-| Host Name | 苍蝇 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:32:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997768201491 |
-| Players | 22/24 |
-| Host Name | Jack Hanma |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:22:31 |
 
 
 |  | epic_boss_fight_nightmare |
