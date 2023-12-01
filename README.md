@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997659055229 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ALFALFITA IS BACK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:44:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997659111411 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:45:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997659552622 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | :) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:45:53 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:43:31 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541997659696250 |
+| Players | 1/7 |
+| Host Name | grand magus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:46:11 |
 
 
