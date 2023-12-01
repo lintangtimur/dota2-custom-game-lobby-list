@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:36:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997746201093 |
-| Players | 14/15 |
-| Host Name | Sephiroth |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:38:24 |
+| Lobby ID | 28541997744900476 |
+| Players | 7/8 |
+| Host Name | QueFueMano? |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:35:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997745108396 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Euphoria |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:17 |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:40:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997744900476 |
-| Players | 7/8 |
-| Host Name | QueFueMano? |
+| Lobby ID | 28541997747603260 |
+| Players | 2/15 |
+| Host Name | Tek7 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 12:41:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997747600261 |
+| Players | 2/15 |
+| Host Name | BigChicken |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:41:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997747618291 |
+| Players | 1/24 |
+| Host Name | TiltedGuy |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:35:54 |
+| Lobby Creation Time | Friday, December 1, 2023 12:41:09 |
 
 
 |  | epic_boss_fight_nightmare |
