@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997707066935 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:21:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997706321940 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Crow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:20:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997706695693 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 506 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:20:59 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:21:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997707195105 |
-| Players | 1/24 |
-| Host Name | Mr. HDHQ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:22:00 |
+| Lobby ID | 28541997707688323 |
+| Players | 3/10 |
+| Host Name | KG-Toma Para Que Me Respetes |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:22:59 |
 
 
 |  | ot3_desert_octet |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ALL MUTE I AFK FARM MIDAS |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:22:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997707669203 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
 
 
 |  | epic_boss_fight_nightmare |
