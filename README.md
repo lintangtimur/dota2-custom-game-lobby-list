@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997759632714 |
-| Players | 4/15 |
-| Host Name | ObKyReN-_- |
+| Players | 3/15 |
+| Host Name | average kebab enjoyer |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:05:07 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997758447123 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | INAI |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:02:34 |
@@ -56,20 +56,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997757248526 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 12:59:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997757875230 |
-| Players | 5/8 |
-| Host Name | Коклюш |
+| Players | 4/8 |
+| Host Name | Drakalian the Dragon King |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:01:18 |
 
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997760099039 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:06:06 |
