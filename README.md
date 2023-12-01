@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997762556482 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Improve |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:11:13 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997765076441 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | DARWwWwWwWwWwW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:16:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997765149839 |
+| Players | 1/8 |
+| Host Name | М-01 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:16:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997765163990 |
+| Players | 1/8 |
+| Host Name | Harnioff |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:16:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997765166880 |
+| Players | 1/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:16:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kiyotaka Ayanokoji |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:14:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541997765155528 |
+| Players | 2/7 |
+| Host Name | let the man COOK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:16:26 |
 
 
