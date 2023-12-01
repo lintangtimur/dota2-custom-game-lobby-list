@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997681700770 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Yume |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:29:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997680723068 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:27:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997681022437 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | SOLO JUEGO TURBO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:28:05 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:28:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997682282989 |
+| Players | 1/10 |
+| Host Name | Willie Gonzalez |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 10:30:34 |
 
 
 |  | epic_boss_fight_nightmare |
