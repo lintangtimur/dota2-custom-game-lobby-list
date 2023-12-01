@@ -4,26 +4,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997844663152 |
-| Players | 22/24 |
-| Host Name | Hiệp GOD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 15:49:17 |
+| Lobby ID | 28541997846978415 |
+| Players | 3/24 |
+| Host Name | 全年无休游廊 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 15:54:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997845850227 |
-| Players | 9/10 |
-| Host Name | ♡ ᴴᴬᴾᴾᵞ ᴹᴵᴸᶠ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:51:51 |
+| Lobby ID | 28541997846945322 |
+| Players | 1/24 |
+| Host Name | crimento |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 15:54:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997839782312 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:38:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997846479446 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:53:13 |
@@ -56,30 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:52:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997846755725 |
-| Players | 2/8 |
-| Host Name | ХИХАНЬКИ ДА ХАХАНЬКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:53:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997846235059 |
-| Players | 8/10 |
-| Host Name | KUZUHA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 15:52:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997846575305 |
-| Players | 1/5 |
-| Host Name | ЯБЛОЧНЫЙ COCK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:53:25 |
+| Lobby ID | 28541997847263722 |
+| Players | 2/10 |
+| Host Name | tv/swedenstrong |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:54:53 |
 
 
