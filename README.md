@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997807682456 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 28min |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:34:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997808796531 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | hydraoxygen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:36:55 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:36:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997807519941 |
-| Players | 3/5 |
-| Host Name | Allah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 14:34:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997808327609 |
-| Players | 1/10 |
-| Host Name | бот-хантер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:36:06 |
+| Lobby ID | 28541997809041495 |
+| Players | 1/8 |
+| Host Name | человек паук |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 14:37:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:36:16 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997808874899 |
-| Players | 1/7 |
-| Host Name | Кейн Марко |
+| Lobby ID | 28541997808327609 |
+| Players | 1/10 |
+| Host Name | бот-хантер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:37:03 |
+| Lobby Creation Time | Friday, December 1, 2023 14:36:06 |
 
 
