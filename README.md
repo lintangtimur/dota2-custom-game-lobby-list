@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997834231748 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:26:39 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997836290505 |
-| Players | 9/15 |
-| Host Name | I.Khan.N |
+| Lobby ID | 28541997836618206 |
+| Players | 1/8 |
+| Host Name | я проклят FruKt1k |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:31:09 |
+| Lobby Creation Time | Friday, December 1, 2023 15:31:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:28:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997836615326 |
+| Players | 5/15 |
+| Host Name | Ghoust |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:31:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997836137592 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KUZUHA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:30:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997836669194 |
+| Players | 1/5 |
+| Host Name | .папа гетто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:31:59 |
 
 
