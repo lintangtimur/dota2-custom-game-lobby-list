@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997671704070 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | модний |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:09:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997672141592 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | #W Kiwi € / \♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:10:38 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997671317273 |
-| Players | 9/15 |
-| Host Name | Pivo Power |
+| Players | 10/15 |
+| Host Name | Pos 69 or grief |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:09:01 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997669921172 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 10:06:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997672537803 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | kevin el favo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997672598693 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | pederasta cotas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:32 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N4RC0S |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997672826921 |
+| Players | 1/5 |
+| Host Name | PlayingTheAngel |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 10:11:58 |
 
 
