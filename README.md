@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997762369044 |
-| Players | 23/24 |
-| Host Name | Marlito |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:10:50 |
+| Lobby ID | 28541997767230197 |
+| Players | 2/8 |
+| Host Name | sarabaka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:20:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997765166880 |
-| Players | 3/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:16:28 |
+| Lobby ID | 28541997767317387 |
+| Players | 5/8 |
+| Host Name | love |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:20:45 |
 
 
 |  | ot3_gardens_duo |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997767222384 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:20:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997767230197 |
-| Players | 2/8 |
-| Host Name | sarabaka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:20:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997766243339 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:18:37 |
