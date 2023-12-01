@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997788852589 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 2late4youbro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:01:36 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997788058313 |
-| Players | 9/10 |
-| Host Name | ★MMXVII |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:00:08 |
+| Lobby ID | 28541997788042631 |
+| Players | 11/15 |
+| Host Name | Shankeeto #FreePalestine |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 14:00:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pepepepe |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:56:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997788042631 |
-| Players | 10/15 |
-| Host Name | Shankeeto #FreePalestine |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 14:00:07 |
 
 
 |  | epic_boss_fight_nightmare |
