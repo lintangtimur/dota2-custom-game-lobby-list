@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997830497398 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Чувствую smooth criminal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:18:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997833242096 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Serrito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:24:29 |
@@ -56,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:24:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997833524536 |
+| Players | 3/8 |
+| Host Name | Мефедрон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:25:07 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541997832000187 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | _flamingo_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:21:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997833537791 |
+| Players | 1/10 |
+| Host Name | Arphon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 15:25:08 |
 
 
