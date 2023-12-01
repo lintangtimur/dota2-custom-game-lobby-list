@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997801449386 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:24:09 |
@@ -51,9 +51,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997804404308 |
 | Players | 2/8 |
-| Host Name | через слЁзы |
+| Host Name | Typhoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:29:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997804815540 |
+| Players | 1/8 |
+| Host Name | ks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:30:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997804813973 |
+| Players | 1/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:29:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997804847912 |
+| Players | 1/8 |
+| Host Name | Imbecility & Courage♉ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:30:03 |
 
 
 |  | epic_boss_fight_nightmare |
