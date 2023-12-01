@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:11:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997828084880 |
-| Players | 8/10 |
-| Host Name | 死ね！ FAIL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:13:07 |
+| Lobby ID | 28541997828182711 |
+| Players | 6/8 |
+| Host Name | depko13 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:13:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:12:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997828182711 |
-| Players | 2/8 |
-| Host Name | depko13 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:13:20 |
 
 
 |  | epic_boss_fight_nightmare |
