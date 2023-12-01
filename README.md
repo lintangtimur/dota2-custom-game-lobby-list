@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997660897577 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:48:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997660571515 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | KG-Toma Para Que Me Respetes |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:47:55 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:50:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997660606156 |
+| Players | 12/24 |
+| Host Name | Roldan |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:47:59 |
 
 
 |  | epic_boss_fight_challenger |
