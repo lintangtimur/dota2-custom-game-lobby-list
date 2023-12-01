@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997816514928 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997838168070 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | AlphaMCK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:35:15 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997838585514 |
-| Players | 13/15 |
-| Host Name | www.twitch.tv/fominini |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:36:10 |
+| Lobby ID | 28541997839114463 |
+| Players | 1/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:37:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997838577860 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | prince |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:36:09 |
