@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997703217309 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | GODOTA2.COM |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:13:47 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | thrlvldk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:14:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997704296829 |
+| Players | 3/10 |
+| Host Name | Ortega |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:16:02 |
 
 
 |  | epic_boss_fight_challenger |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dumb |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 11:13:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997704337406 |
+| Players | 1/10 |
+| Host Name | Любимые дрова |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:16:07 |
 
 
