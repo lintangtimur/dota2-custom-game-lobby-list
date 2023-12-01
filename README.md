@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997767488740 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997783926212 |
-| Players | 1/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:52:32 |
+| Lobby ID | 28541997786796889 |
+| Players | 3/24 |
+| Host Name | 5h4k3R |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:57:51 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997785055858 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Dudu |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:54:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997784515459 |
-| Players | 6/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
+| Lobby ID | 28541997786681827 |
+| Players | 4/8 |
+| Host Name | El niño guerrero |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:57:38 |
 
 
 |  | ot3_desert_octet |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997785563181 |
-| Players | 8/10 |
-| Host Name | numcaps |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:55:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28541997786358480 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:57:02 |
