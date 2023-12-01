@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997746150458 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:38:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997746428329 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | nymphs in a white dress |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:38:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997746394155 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Empress |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:38:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997746201093 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sephiroth |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:38:24 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997745108396 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | FERXXO HANMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997747152255 |
-| Players | 1/15 |
-| Host Name | Молофья |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 12:40:14 |
+| Lobby ID | 28541997747232866 |
+| Players | 1/8 |
+| Host Name | 111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:40:24 |
 
 
 |  | epic_boss_fight_nightmare |
