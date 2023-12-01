@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997736054729 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | //**aizen**// |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:18:46 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997736191667 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Titanma |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:19:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997736229898 |
-| Players | 8/10 |
-| Host Name | AAkeno |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:19:07 |
+| Lobby ID | 28541997736878883 |
+| Players | 1/8 |
+| Host Name | Poseidon |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 12:20:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997736166792 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Caramelbear |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:18:59 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:19:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997736766689 |
-| Players | 1/8 |
-| Host Name | Poseidon |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 12:20:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997736762632 |
-| Players | 2/10 |
-| Host Name | 霊 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:20:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997736787609 |
@@ -101,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:20:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997736762632 |
+| Players | 1/10 |
+| Host Name | 霊 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:20:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997735006238 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 12:16:45 |
