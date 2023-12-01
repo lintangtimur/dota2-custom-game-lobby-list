@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997932591108 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | Justin Weaver |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 18:09:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997926897325 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Kimimaro |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 18:02:11 |
@@ -22,29 +22,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997932650090 |
-| Players | 1/8 |
-| Host Name | VlaKra |
+| Lobby ID | 28541997933373945 |
+| Players | 3/8 |
+| Host Name | overdose of love |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:09:49 |
+| Lobby Creation Time | Friday, December 1, 2023 18:10:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997932136629 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 18:09:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997933081322 |
+| Players | 1/24 |
+| Host Name | gaston |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 18:10:24 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997932755891 |
+| Lobby ID | 28541997933493904 |
 | Players | 2/10 |
-| Host Name | today PMA dota |
+| Host Name | sirBenzington |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:09:58 |
+| Lobby Creation Time | Friday, December 1, 2023 18:10:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ダークデク |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 18:07:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997932749133 |
-| Players | 1/5 |
-| Host Name | pos_69_or_gayfurryhelicopter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:09:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997932758756 |
-| Players | 1/5 |
-| Host Name | Achimon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 18:09:58 |
 
 
