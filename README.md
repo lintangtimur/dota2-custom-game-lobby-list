@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997694258124 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Dill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:54:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997694938797 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Un Dotita y a mimir |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997690688673 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997693276449 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | denilson |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:52:31 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997694552472 |
-| Players | 9/10 |
-| Host Name | Potato |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:55:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28541997694696939 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ебанат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997694943892 |
-| Players | 11/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:55:53 |
+| Lobby ID | 28541997695463448 |
+| Players | 4/8 |
+| Host Name | Megamente |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:56:56 |
 
 
 |  | epic_boss_fight_nightmare |
