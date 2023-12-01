@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997633831017 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | кабан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:51:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997634080919 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:51:56 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997633251462 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:50:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997634134837 |
+| Players | 2/8 |
+| Host Name | магнус наоборот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 08:52:03 |
 
 
 |  | epic_boss_fight_nightmare |
