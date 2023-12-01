@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997660606156 |
-| Players | 10/24 |
+| Players | 21/24 |
 | Host Name | PIPHELS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:47:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997661840087 |
-| Players | 7/8 |
-| Host Name | Jonas |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 09:50:25 |
+| Lobby ID | 28541997663626379 |
+| Players | 2/10 |
+| Host Name | Mr.Popo |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:53:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997659504819 |
-| Players | 7/8 |
-| Host Name | ПАПА Seed'a |
+| Lobby ID | 28541997663025928 |
+| Players | 1/15 |
+| Host Name | General |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:45:47 |
+| Lobby Creation Time | Friday, December 1, 2023 09:52:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997662701528 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Win or Death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997663122185 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | El mata cabros 4000 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997662942554 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | My Tears Are Becoming A Sea |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:34 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997663122376 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:52:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997663025928 |
-| Players | 1/15 |
-| Host Name | General |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:52:44 |
 
 
 |  | epic_boss_fight_challenger |
