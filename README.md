@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997681010257 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | hola SOY TU TIO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:28:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997681202860 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | hehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:28:26 |
