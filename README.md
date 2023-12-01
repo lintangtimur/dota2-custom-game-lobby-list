@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997777533928 |
-| Players | 14/15 |
-| Host Name | lovely liar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:40:36 |
+| Lobby ID | 28541997775127014 |
+| Players | 9/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:36:02 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997778271387 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:41:59 |
@@ -49,19 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997775127014 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:36:02 |
+| Lobby ID | 28541997779091085 |
+| Players | 2/10 |
+| Host Name | Твое мнение |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:43:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997779016636 |
+| Lobby ID | 28541997779112434 |
 | Players | 2/8 |
 | Host Name | Sanecka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:43:23 |
+| Lobby Creation Time | Friday, December 1, 2023 13:43:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997779077744 |
+| Players | 1/10 |
+| Host Name | TheY cAll me NooB!!! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 13:43:30 |
 
 
