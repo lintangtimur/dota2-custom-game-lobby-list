@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997717574980 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | God |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:42:39 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YA SON EIGHT |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:46:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997719873295 |
+| Players | 4/8 |
+| Host Name | HeyPapi<3 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:47:14 |
 
 
 |  | epic_boss_fight_nightmare |
