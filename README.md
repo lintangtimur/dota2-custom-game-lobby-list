@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997645393273 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | El Sr. L |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:49 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WoTianMu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997646060979 |
+| Players | 3/10 |
+| Host Name | ! [kaɪt] // /YS.!.ユルチク |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:18:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997646096555 |
+| Players | 1/5 |
+| Host Name | SenbonZakura Kageyoshi |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 09:18:19 |
 
 
