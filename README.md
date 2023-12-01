@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997822437969 |
-| Players | 3/8 |
-| Host Name | человек паук |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 15:00:37 |
+| Lobby ID | 28541997822509905 |
+| Players | 2/8 |
+| Host Name | Гoмapджёбa Микyрде |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:00:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997820719438 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:57:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997821419540 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:58:45 |
