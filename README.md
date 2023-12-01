@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997831015238 |
-| Players | 12/24 |
-| Host Name | Superman Pans |
+| Players | 19/24 |
+| Host Name | ВАРЯГ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:19:36 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997826643173 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997832202762 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:22:12 |
