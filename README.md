@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997801369972 |
-| Players | 2/15 |
-| Host Name | DariQQ |
+| Players | 1/15 |
+| Host Name | HIMARS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:24:01 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997800165857 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:21:55 |
