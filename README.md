@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997718094333 |
-| Players | 6/8 |
-| Host Name | Ss |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:43:41 |
+| Lobby ID | 28541997718699078 |
+| Players | 3/15 |
+| Host Name | Люберцы |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:44:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,23 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Crow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:44:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997718699078 |
-| Players | 3/15 |
-| Host Name | Люберцы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:44:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997718270621 |
-| Players | 1/5 |
-| Host Name | Дотер? Ахахахахах |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 11:44:03 |
 
 
