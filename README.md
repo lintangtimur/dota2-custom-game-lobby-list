@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997687942873 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:41:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997686066450 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Serrito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:38:02 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997688046479 |
 | Players | 2/8 |
-| Host Name | i play for fun |
+| Host Name | skrejet |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:41:58 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997688628695 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Hawaiian |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:43:09 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997688683057 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:43:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997688745538 |
+| Players | 1/24 |
+| Host Name | B O X B O N I |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:43:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997688761129 |
+| Players | 1/24 |
+| Host Name | CHICO FITNESS 69 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:43:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:43:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997688824222 |
+| Players | 1/10 |
+| Host Name | 练*两年半,背带加中分 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, December 1, 2023 10:43:33 |
 
 
