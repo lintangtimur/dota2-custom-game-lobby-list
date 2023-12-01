@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997766845625 |
-| Players | 14/15 |
-| Host Name | 0 ОШИБОК |
+| Lobby ID | 28541997768508166 |
+| Players | 2/10 |
+| Host Name | Popig Immortal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:19:48 |
+| Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997768499270 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | [ALPLD] S.U.K.A GG |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:23:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997768158335 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Serpent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997768383985 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Harry's House |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:53 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997768508166 |
+| Lobby ID | 28541997768688802 |
 | Players | 2/10 |
-| Host Name | Popig Immortal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997766243339 |
-| Players | 9/10 |
-| Host Name | Han Jee-han  한 지한 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:18:37 |
+| Host Name | PMA |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:23:29 |
 
 
 |  | epic_boss_fight_normal |
