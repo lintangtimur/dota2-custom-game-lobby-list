@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997823001499 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Владик ПРИНЦ ДОТЫ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:01:51 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997823737949 |
-| Players | 12/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:03:30 |
+| Lobby ID | 28541997823962702 |
+| Players | 1/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 15:03:59 |
 
 
 |  | ot3_gardens_duo |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CANCELUL |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:03:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997824012359 |
+| Players | 1/15 |
+| Host Name | TOP REG in the world |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:04:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997824009960 |
+| Players | 1/10 |
+| Host Name | Paipl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:04:06 |
 
 
