@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631087660 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Ice Wallow Come |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 08:45:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997640128002 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:05:21 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:04:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997639059123 |
-| Players | 8/10 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:02:52 |
+| Lobby ID | 28541997640615835 |
+| Players | 1/15 |
+| Host Name | Es un Elissir xD |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:06:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997639714694 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Untitled |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:04:24 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997639823559 |
-| Players | 9/10 |
-| Host Name | XxTuviejoxX |
+| Lobby ID | 28541997640394397 |
+| Players | 7/10 |
+| Host Name | falcon |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:04:39 |
+| Lobby Creation Time | Friday, December 1, 2023 09:05:57 |
 
 
 |  | ot3_gardens_duo |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997640482597 |
-| Players | 2/8 |
-| Host Name | WORK WORK |
+| Lobby ID | 28541997640653434 |
+| Players | 1/8 |
+| Host Name | Jhon_A |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:06:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997640394397 |
-| Players | 7/10 |
-| Host Name | falcon |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:05:57 |
+| Lobby Creation Time | Friday, December 1, 2023 09:06:32 |
 
 
 |  | epic_boss_fight_nightmare |
