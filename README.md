@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:13:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997734663257 |
-| Players | 20/24 |
-| Host Name | BARCO CAMARONERO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:16:05 |
+| Lobby ID | 28541997734463663 |
+| Players | 9/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:15:42 |
 
 
 |  | ot3_desert_octet |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:14:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997732496731 |
-| Players | 9/10 |
-| Host Name | Mia Khalifa.Onlyfans✪ |
+| Lobby ID | 28541997735710346 |
+| Players | 5/8 |
+| Host Name | ɪᴍᴛʜᴏʀ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:11:57 |
+| Lobby Creation Time | Friday, December 1, 2023 12:18:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997734463663 |
-| Players | 9/15 |
-| Host Name | tice |
+| Lobby ID | 28541997735047051 |
+| Players | 2/5 |
+| Host Name | Licemer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:15:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997733059500 |
-| Players | 9/10 |
-| Host Name | KiraWh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:13:02 |
+| Lobby Creation Time | Friday, December 1, 2023 12:16:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 12:16:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997735047051 |
-| Players | 2/5 |
-| Host Name | Licemer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:16:50 |
 
 
