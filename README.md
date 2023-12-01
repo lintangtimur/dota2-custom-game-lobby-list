@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997677471585 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:21:06 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:20:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997676412052 |
-| Players | 14/15 |
-| Host Name | 耶罗 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 10:19:00 |
+| Lobby ID | 28541997677940499 |
+| Players | 3/10 |
+| Host Name | мaиgø |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 10:22:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997677741653 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Roldan |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:21:38 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997677876712 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:21:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997677940499 |
-| Players | 1/10 |
-| Host Name | мaиgø |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 10:22:01 |
+| Lobby ID | 28541997678043191 |
+| Players | 1/8 |
+| Host Name | krakoonity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:22:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997678054711 |
+| Players | 1/5 |
+| Host Name | sit down dog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:22:15 |
 
 
