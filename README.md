@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997763895710 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:13:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997765166880 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:16:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997765076441 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | DARWwWwWwWwWwW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:16:17 |
@@ -83,30 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:17:04 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997763976227 |
-| Players | 9/10 |
-| Host Name | Kiyotaka Ayanokoji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:14:04 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997765512668 |
+| Lobby ID | 28541997765638333 |
 | Players | 1/5 |
 | Host Name | 彡宏schizophrenic宏彡 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:17:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997765570516 |
-| Players | 2/5 |
-| Host Name | let the man COOK |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 13:17:17 |
+| Lobby Creation Time | Friday, December 1, 2023 13:17:25 |
 
 
