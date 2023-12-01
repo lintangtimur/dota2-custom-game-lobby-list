@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997669202884 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
+| Lobby ID | 28541997670679516 |
+| Players | 23/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:04:51 |
+| Lobby Creation Time | Friday, December 1, 2023 10:07:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997668614288 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Overlord Bagnose |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:03:42 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997667147393 |
 | Players | 4/24 |
-| Host Name | Mute already |
+| Host Name | Frozenmilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:00:49 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997669921172 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Kirtaph |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 10:06:15 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | модний |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:09:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997670679516 |
-| Players | 23/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:07:45 |
 
 
