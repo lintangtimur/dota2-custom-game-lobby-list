@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997762234563 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Most positive player!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:10:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997762153523 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ChipySmith |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:10:24 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997761635208 |
-| Players | 9/15 |
-| Host Name | Norton |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 13:09:20 |
+| Lobby ID | 28541997763945766 |
+| Players | 2/15 |
+| Host Name | {SaTaN}:) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:14:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997763896885 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | era |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:13:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997763976227 |
+| Players | 1/10 |
+| Host Name | Kiyotaka Ayanokoji |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:14:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997763981244 |
+| Players | 1/10 |
+| Host Name | FU XUAN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:14:04 |
 
 
