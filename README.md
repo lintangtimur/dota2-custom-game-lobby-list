@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997763895710 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:13:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997762369044 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:10:50 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997765166880 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:16:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997764485362 |
-| Players | 14/15 |
-| Host Name | SUPREME# [16] |
+| Lobby ID | 28541997765467425 |
+| Players | 1/8 |
+| Host Name | М-01 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:15:05 |
+| Lobby Creation Time | Friday, December 1, 2023 13:17:04 |
 
 
 |  | ot3_desert_octet |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DARWwWwWwWwWwW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:16:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997765467425 |
-| Players | 1/8 |
-| Host Name | М-01 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:17:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997765638333 |
-| Players | 1/5 |
-| Host Name | 彡宏schizophrenic宏彡 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:17:25 |
 
 
