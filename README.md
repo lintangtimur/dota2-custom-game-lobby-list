@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997736229898 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | AAkeno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:19:07 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:18:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997732496731 |
-| Players | 9/10 |
-| Host Name | Mia Khalifa.Onlyfans✪ |
+| Lobby ID | 28541997736613491 |
+| Players | 1/8 |
+| Host Name | Yeezuss愛生 |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:11:57 |
+| Lobby Creation Time | Friday, December 1, 2023 12:19:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,29 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997736613491 |
-| Players | 1/8 |
-| Host Name | Yeezuss愛生 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:19:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997736672481 |
+| Lobby ID | 28541997736766689 |
 | Players | 1/8 |
 | Host Name | Poseidon |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 12:19:58 |
+| Lobby Creation Time | Friday, December 1, 2023 12:20:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997735047051 |
-| Players | 2/5 |
-| Host Name | Licemer |
+| Lobby ID | 28541997736762632 |
+| Players | 2/10 |
+| Host Name | 霊 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:20:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997736787609 |
+| Players | 3/15 |
+| Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:16:50 |
+| Lobby Creation Time | Friday, December 1, 2023 12:20:11 |
 
 
 |  | epic_boss_fight_nightmare |
