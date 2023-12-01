@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997842124957 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Kulebyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:43:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997840158991 |
-| Players | 14/15 |
-| Host Name | Y_Tus_Skins? |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 15:39:33 |
+| Lobby ID | 28541997842531411 |
+| Players | 2/8 |
+| Host Name | eve |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:44:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997839782312 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:38:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997842282306 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:44:11 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997842397625 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | sizam2013 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:44:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997842531411 |
-| Players | 1/8 |
-| Host Name | eve |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:44:41 |
 
 
