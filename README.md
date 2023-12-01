@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997852570095 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:05:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997870266739 |
-| Players | 5/8 |
-| Host Name | Azula |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:39:20 |
+| Lobby ID | 28541997870280228 |
+| Players | 10/24 |
+| Host Name | Asam Garam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 16:39:22 |
 
 
 |  | ot3_desert_octet |
@@ -47,58 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 16:24:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997870280228 |
-| Players | 7/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 16:39:22 |
+| Lobby ID | 28541997871913372 |
+| Players | 1/10 |
+| Host Name | Buğra |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 16:41:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997867424124 |
-| Players | 3/8 |
-| Host Name | олег джигурда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:34:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997869465405 |
-| Players | 1/8 |
-| Host Name | Egoist absolute |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:38:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997871267809 |
-| Players | 2/15 |
-| Host Name | VelascO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:40:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997871345585 |
-| Players | 3/8 |
-| Host Name | Очко Лёхи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:41:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997868053597 |
-| Players | 8/10 |
-| Host Name | BAD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:35:48 |
+| Lobby ID | 28541997871569550 |
+| Players | 1/5 |
+| Host Name | solo chicken |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 16:41:27 |
 
 
 |  | epic_boss_fight_nightmare |
