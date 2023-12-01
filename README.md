@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997657253254 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Malcriado de Rostro |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:41:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997654331588 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:35:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997652581649 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | absolute...?#ultimaterust |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:31:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997651627864 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ModD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:49 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:36:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997657827488 |
+| Players | 1/5 |
+| Host Name | FER :3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:42:27 |
 
 
