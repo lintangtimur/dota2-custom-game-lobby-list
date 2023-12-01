@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997765467425 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | М-01 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:17:04 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997762556482 |
-| Players | 9/10 |
-| Host Name | Improve |
+| Lobby ID | 28541997766137447 |
+| Players | 1/8 |
+| Host Name | Kabal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:11:13 |
+| Lobby Creation Time | Friday, December 1, 2023 13:18:25 |
 
 
 |  | ot3_gardens_duo |
