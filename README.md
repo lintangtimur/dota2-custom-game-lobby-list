@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997690853372 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Caius Cosades |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997689862649 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Камиль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:45:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997691756392 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:49:27 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:48:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997690507594 |
+| Players | 9/10 |
+| Host Name | EMANS |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:46:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheY cAll me NooB!!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997692138013 |
-| Players | 1/10 |
-| Host Name | SenbonZakura Kageyoshi |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 10:50:13 |
 
 
