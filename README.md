@@ -60,9 +60,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997806529119 |
 | Players | 4/10 |
-| Host Name | Люсьен |
+| Host Name | bob |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:32:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997804404308 |
+| Players | 7/8 |
+| Host Name | Gay ruin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:29:16 |
 
 
 |  | epic_boss_fight_nightmare |
