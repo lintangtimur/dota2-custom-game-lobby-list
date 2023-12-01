@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642401680 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997653997495 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Wurger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:34:39 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:35:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997652352816 |
+| Players | 14/15 |
+| Host Name | Jaylaps Brozingis |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:31:17 |
 
 
 |  | epic_boss_fight_nightmare |
