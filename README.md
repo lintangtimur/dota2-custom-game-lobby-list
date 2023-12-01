@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997782426792 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | talent? hardwork? |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:49:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781133405 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:47:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997783144557 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | MC Boss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:51:06 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:47:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997783662808 |
+| Players | 3/15 |
+| Host Name | Madvillainy (2004)™ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:52:03 |
 
 
