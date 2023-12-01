@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997722660997 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997722728588 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 有基础且有偏见 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997722372030 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:12 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997722643766 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | CRIMINAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997723443059 |
+| Players | 1/15 |
+| Host Name | NO VIBE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:54:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997723443142 |
+| Players | 1/15 |
+| Host Name | OME |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 11:54:19 |
 
 
 |  | epic_boss_fight_nightmare |
