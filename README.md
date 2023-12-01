@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997823962702 |
-| Players | 5/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 15:03:59 |
+| Lobby ID | 28541997826550535 |
+| Players | 4/15 |
+| Host Name | Barikkel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:09:42 |
 
 
 |  | ot3_gardens_duo |
@@ -56,21 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:02:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997826022893 |
-| Players | 11/15 |
-| Host Name | ReZarax |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:08:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997826468962 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Chuk Norris |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:09:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997826689879 |
+| Players | 1/8 |
+| Host Name | человек паук |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 15:10:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997826643173 |
+| Players | 1/10 |
+| Host Name | numcaps |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997826643392 |
+| Players | 1/5 |
+| Host Name | ゆうとみんと |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
 
 
