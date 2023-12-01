@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:02:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997698690783 |
-| Players | 1/8 |
-| Host Name | DARYLDIXON |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 1, 2023 11:04:02 |
+| Lobby ID | 28541997698802351 |
+| Players | 6/10 |
+| Host Name | La Zorrilla |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:04:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997696888056 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | abomination of obama's nation |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:59:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997698210539 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997697771029 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Couf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:01:58 |
