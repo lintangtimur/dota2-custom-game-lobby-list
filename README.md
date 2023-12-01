@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997642093414 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:09:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642727562 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Bubbles |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:11:07 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997641498444 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | BAGREZUKO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:08:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997642177037 |
-| Players | 23/24 |
-| Host Name | Amaraki |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:09:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997642792462 |
+| Players | 3/15 |
+| Host Name | melke |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:11:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997642820762 |
+| Players | 1/8 |
+| Host Name | Tsumi wo chirasu nara |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:11:19 |
 
 
 |  | epic_boss_fight_normal |
