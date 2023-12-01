@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997644739725 |
-| Players | 14/15 |
-| Host Name | ...................... |
+| Lobby ID | 28541997645460283 |
+| Players | 3/8 |
+| Host Name | POISON |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:15:25 |
+| Lobby Creation Time | Friday, December 1, 2023 09:16:58 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997645168144 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Dark_Arxilich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997645393273 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | El Sr. L |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:49 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:16:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997645460283 |
-| Players | 3/8 |
-| Host Name | POISON |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:16:58 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541997643364282 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997645422275 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WoTianMu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:16:53 |
