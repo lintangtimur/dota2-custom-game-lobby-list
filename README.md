@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:02:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997760706747 |
-| Players | 12/15 |
-| Host Name | General |
+| Lobby ID | 28541997761372192 |
+| Players | 3/10 |
+| Host Name | Irif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:07:22 |
+| Lobby Creation Time | Friday, December 1, 2023 13:08:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997761059815 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | The Flag is Raised |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:08:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -50,18 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997760689801 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:07:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997760896830 |
-| Players | 5/8 |
-| Host Name | 武士 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:07:46 |
+| Lobby ID | 28541997761339245 |
+| Players | 1/10 |
+| Host Name | Larry Capija |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:08:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997761301631 |
+| Players | 1/24 |
+| Host Name | Cabbit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:08:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997761355063 |
+| Players | 4/10 |
+| Host Name | XBogoVIX |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:08:44 |
 
 
