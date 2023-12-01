@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997689718679 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | PechitoDeGato |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:45:21 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997689907547 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Sutensei (Depressed) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:45:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997690049759 |
+| Players | 1/10 |
+| Host Name | the feeling the ego |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 10:46:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997688620673 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:43:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997690022865 |
-| Players | 1/10 |
-| Host Name | 练*两年半,背带加中分 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, December 1, 2023 10:45:57 |
 
 
