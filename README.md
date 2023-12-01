@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997700782533 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:08:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997701584352 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | 2pik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:10:21 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997703810117 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:15:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997703825183 |
-| Players | 1/24 |
-| Host Name | Champ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:15:03 |
 
 
 |  | epic_boss_fight_challenger |
@@ -114,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997703069653 |
 | Players | 2/10 |
-| Host Name | Dumb |
+| Host Name | пукнул 247 раз |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 11:13:30 |
 
