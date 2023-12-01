@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997942116438 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Mundialista |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 18:22:08 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997952840600 |
-| Players | 3/15 |
-| Host Name | Игорь цыба |
+| Lobby ID | 28541997953490708 |
+| Players | 2/15 |
+| Host Name | детский дом №134 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:35:51 |
+| Lobby Creation Time | Friday, December 1, 2023 18:36:40 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997951469310 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 18:34:07 |
@@ -49,26 +49,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997952587818 |
-| Players | 4/8 |
-| Host Name | MAZOLO |
+| Lobby ID | 28541997953047642 |
+| Players | 2/8 |
+| Host Name | trb. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 18:35:32 |
+| Lobby Creation Time | Friday, December 1, 2023 18:36:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997951602663 |
-| Players | 1/10 |
-| Host Name | Eddie.Lin |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, December 1, 2023 18:34:17 |
+| Lobby ID | 28541997953177554 |
+| Players | 7/10 |
+| Host Name | Пт на пиво |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 18:36:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997953688778 |
+| Players | 2/10 |
+| Host Name | фэшн демон |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 18:36:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997952853064 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | __LeoriC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 18:35:52 |
