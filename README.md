@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997739186571 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:24:50 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:30:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997743070792 |
-| Players | 1/8 |
-| Host Name | Sband_Mirand |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:32:22 |
+| Lobby ID | 28541997740664102 |
+| Players | 16/24 |
+| Host Name | MiniSoGood |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 12:27:42 |
 
 
 |  | ot3_gardens_duo |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | all or nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:27:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997740664102 |
-| Players | 15/24 |
-| Host Name | MiniSoGood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:27:42 |
 
 
 |  | epic_boss_fight_nightmare |
