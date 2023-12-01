@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997754185565 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Aker- |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:53:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997753305578 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:52:08 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751375887 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Aquagio |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997755439959 |
+| Players | 2/24 |
+| Host Name | BARCO CAMARONERO |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:56:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997755455113 |
+| Players | 1/10 |
+| Host Name | spirit animal mauled me to death |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:56:18 |
 
 
 |  | epic_boss_fight_nightmare |
