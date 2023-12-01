@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997671704070 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | модний |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:09:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997672953369 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:12:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997667147393 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Daddy Chill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:00:49 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:13:01 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997673466045 |
+| Players | 2/10 |
+| Host Name | KG-Toma Para Que Me Respetes |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:13:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997672012887 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:10:23 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997672485198 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | N4RC0S |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
