@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997810793238 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Prime Egor 2007 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 14:40:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997811082069 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | gdzie jest mój kask |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:40:55 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:36:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997810144091 |
-| Players | 1/10 |
-| Host Name | бот-хантер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:39:16 |
 
 
