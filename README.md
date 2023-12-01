@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997833410870 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | IzEstonskogoGetto.Ramdes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:24:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997833242096 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Serrito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:24:29 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997833685032 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Чувствую smooth criminal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:25:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997833778463 |
-| Players | 1/10 |
-| Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:25:40 |
 
 
 |  | epic_boss_fight_normal |
