@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997760706747 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | General |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:07:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997761059815 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | The Flag is Raised |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:08:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997760689801 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:07:20 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997760896830 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 武士 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:07:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997761149936 |
-| Players | 4/8 |
-| Host Name | EL SOCIO - Santos Santana |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:08:19 |
 
 
