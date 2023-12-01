@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997767875606 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | CNN fake news |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:21:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997766677286 |
-| Players | 9/10 |
-| Host Name | Ακίτα |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:19:28 |
+| Lobby ID | 28541997768499270 |
+| Players | 4/15 |
+| Host Name | [ALPLD] S.U.K.A GG |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:23:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997768201491 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Jack Hanma |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:31 |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997768499270 |
-| Players | 1/15 |
-| Host Name | [ALPLD] S.U.K.A GG |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:23:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997768525439 |
-| Players | 1/15 |
-| Host Name | GM.Sr4ever.giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:23:09 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997766243339 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:18:37 |
