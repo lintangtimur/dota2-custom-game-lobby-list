@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997711336829 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ヴァルハラ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:30:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997708322972 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:24:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997712321109 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | L |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:32:18 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997713172302 |
-| Players | 1/15 |
+| Lobby ID | 28541997713245077 |
+| Players | 4/15 |
 | Host Name | ¿? |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:33:59 |
+| Lobby Creation Time | Friday, December 1, 2023 11:34:08 |
 
 
 |  | epic_boss_fight_nightmare |
