@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997710150543 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997708322972 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:24:16 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997709469231 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Conchito Musculoso |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:26:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997707669203 |
-| Players | 6/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997711047328 |
+| Lobby ID | 28541997711202596 |
 | Players | 1/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:29:47 |
+| Host Name | Z |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:30:05 |
 
 
 |  | epic_boss_fight_nightmare |
