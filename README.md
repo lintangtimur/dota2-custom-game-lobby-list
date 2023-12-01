@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997810134222 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MRRAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:39:15 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:40:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997811082069 |
+| Players | 2/8 |
+| Host Name | gdzie jest mój kask |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:40:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997811120045 |
+| Players | 1/8 |
+| Host Name | Casa Matusita Lujan Carrion |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 14:40:59 |
 
 
 |  | epic_boss_fight_nightmare |
