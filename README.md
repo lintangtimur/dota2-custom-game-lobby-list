@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:00:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997666139540 |
-| Players | 12/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:58:50 |
+| Lobby ID | 28541997669061819 |
+| Players | 4/24 |
+| Host Name | Aiimer |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:04:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997666928379 |
-| Players | 14/15 |
-| Host Name | jake69 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:00:23 |
+| Lobby ID | 28541997667383882 |
+| Players | 1/8 |
+| Host Name | ArcaN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997667533995 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Wurger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:34 |
@@ -76,38 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997668684061 |
+| Lobby ID | 28541997669202884 |
 | Players | 1/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:03:51 |
+| Lobby Creation Time | Friday, December 1, 2023 10:04:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997667618356 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 耶罗 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997666598510 |
-| Players | 9/10 |
-| Host Name | 110 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:59:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997667383882 |
-| Players | 1/8 |
-| Host Name | ArcaN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
 
 
 |  | epic_boss_fight_nightmare |
