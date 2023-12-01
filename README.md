@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997687942873 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:41:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997689862649 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Камиль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:45:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997690547999 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | La realeza de los andes |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:01 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:47:15 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997690688673 |
+| Players | 2/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997688125073 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 10:42:07 |
