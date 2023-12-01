@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997725754297 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | J |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:58:51 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997725658510 |
 | Players | 3/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Host Name |    デ ︻ ₳₭-❹❼ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:58:40 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997726296010 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:59:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997724933938 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sakuta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:57:14 |
@@ -58,17 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997726555315 |
+| Lobby ID | 28541997726823610 |
 | Players | 1/15 |
-| Host Name | AynN |
+| Host Name | Zero Two |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:00:25 |
+| Lobby Creation Time | Friday, December 1, 2023 12:00:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997726849183 |
+| Players | 2/24 |
+| Host Name | El hombre Capibara |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:01:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997726176655 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:59:41 |
