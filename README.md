@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997828984853 |
+| Lobby ID | 28541997829060581 |
 | Players | 1/8 |
-| Host Name | :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:06 |
+| Host Name | 闭月羞花 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:15:16 |
 
 
 |  | ot3_desert_octet |
@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997816514928 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997827790135 |
-| Players | 13/15 |
-| Host Name | intothebottle |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 15:12:27 |
+| Lobby ID | 28541997829084115 |
+| Players | 3/10 |
+| Host Name | ЛЕША НА КОЛЕНИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:15:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997828907095 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:14:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997829060581 |
-| Players | 1/8 |
-| Host Name | 闭月羞花 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997829084115 |
+| Lobby ID | 28541997829172372 |
 | Players | 1/10 |
-| Host Name | ЛЕША НА КОЛЕНИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:19 |
+| Host Name | :3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 15:15:31 |
 
 
 |  | epic_boss_fight_nightmare |
