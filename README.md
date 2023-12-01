@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997839375685 |
+| Lobby ID | 28541997839468168 |
 | Players | 1/8 |
-| Host Name | ZhaZha |
+| Host Name | Папа Багетто |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:37:53 |
+| Lobby Creation Time | Friday, December 1, 2023 15:38:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997839188231 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | hendra2lm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:37:28 |
