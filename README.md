@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997825803034 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:08:02 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997829291801 |
-| Players | 1/8 |
-| Host Name | Sad Clown((( |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:46 |
+| Lobby ID | 28541997829253480 |
+| Players | 7/15 |
+| Host Name | He'ershingenmosiken |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 15:15:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997828907095 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:14:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997829253480 |
-| Players | 6/15 |
-| Host Name | He'ershingenmosiken |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:41 |
 
 
 |  | epic_boss_fight_nightmare |
