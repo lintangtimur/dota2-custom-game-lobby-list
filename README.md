@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997647878851 |
-| Players | 2/15 |
-| Host Name | 黑暗的靈魂 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 09:22:05 |
+| Lobby ID | 28541997647904535 |
+| Players | 1/24 |
+| Host Name | (lFuzy^^! |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:22:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997646946093 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:20:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997647354788 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | LoloTakatO giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:20:59 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997647471839 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | NIKÃO DOS VENENOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:21:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997647899803 |
+| Players | 1/24 |
+| Host Name | [RV] ¨¨¨¨¨¨¨¨¨¨¨¨¨ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:22:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997647937988 |
+| Players | 1/15 |
+| Host Name | 黑暗的靈魂 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 09:22:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997646060979 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | kappuletti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:18:14 |
