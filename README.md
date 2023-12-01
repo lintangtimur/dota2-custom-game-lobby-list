@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997813974524 |
-| Players | 8/10 |
-| Host Name | Win or Death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:45:53 |
+| Lobby ID | 28541997813525637 |
+| Players | 4/10 |
+| Host Name | MOTOMAMI |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 14:45:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997811946573 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Dᴀᴍᴇ Dᴀᴍᴇ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:42:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997802987032 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:26:49 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997813190018 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | perfect |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 14:44:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997813525637 |
-| Players | 3/10 |
-| Host Name | MOTOMAMI |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:45:07 |
+| Lobby ID | 28541997814366871 |
+| Players | 1/15 |
+| Host Name | suguru|geto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:46:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997813111087 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:44:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997814380378 |
+| Players | 1/10 |
+| Host Name | yophiel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:46:35 |
 
 
