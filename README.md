@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997820713387 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | JA |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 14:57:32 |
@@ -38,30 +38,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997820987700 |
-| Players | 1/8 |
-| Host Name | @***Ykrop***@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:58:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997821039737 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:58:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997821271540 |
+| Players | 1/15 |
+| Host Name | mymoneywon'tjigglejiggle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:58:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997821348528 |
+| Players | 2/8 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:58:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997820719438 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:57:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997821419540 |
+| Players | 1/10 |
+| Host Name | Poseidon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:58:45 |
 
 
