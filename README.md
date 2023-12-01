@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997722643766 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | CRIMINAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997722728588 |
-| Players | 12/15 |
-| Host Name | 有基础且有偏见 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:52:54 |
+| Lobby ID | 28541997720840872 |
+| Players | 21/24 |
+| Host Name | FB🦃 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:49:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997720436972 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | rambo8988304 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:48:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997722372030 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:12 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PMA |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 11:50:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997724140696 |
-| Players | 2/15 |
-| Host Name | Tu kchero :3 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:55:42 |
 
 
 |  | epic_boss_fight_nightmare |
