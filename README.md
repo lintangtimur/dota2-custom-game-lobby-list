@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997838207944 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | stop war mf |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:35:21 |
@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:33:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997838118657 |
-| Players | 7/8 |
-| Host Name | смурф головача |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:35:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997838168070 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | AlphaMCK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:35:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997837345520 |
+| Players | 9/10 |
+| Host Name | витаминка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:33:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997838532153 |
+| Players | 1/8 |
+| Host Name | prince |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:36:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .папа гетто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:31:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997838363705 |
-| Players | 1/10 |
-| Host Name | пидаRUSS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:35:41 |
 
 
