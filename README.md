@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:47:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997783144557 |
-| Players | 14/15 |
-| Host Name | MC Boss |
+| Lobby ID | 28541997784280109 |
+| Players | 5/10 |
+| Host Name | Irif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:51:06 |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781779612 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:48:34 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997784280109 |
-| Players | 4/10 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:53:11 |
 
 
