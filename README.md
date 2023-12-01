@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997789531623 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Res |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:02:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997787222853 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:58:37 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997789701824 |
-| Players | 1/10 |
-| Host Name | niotartnecnoC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:03:09 |
+| Lobby ID | 28541997789879133 |
+| Players | 6/10 |
+| Host Name | Mi primera chamba |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 14:03:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997786796889 |
+| Players | 22/24 |
+| Host Name | 5h4k3R |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:57:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, December 1, 2023 14:02:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997789782842 |
+| Players | 1/5 |
+| Host Name | No_Heart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:03:18 |
 
 
