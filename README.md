@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997684662178 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:35:16 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997680723068 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:27:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997684832468 |
-| Players | 7/8 |
-| Host Name | Patience |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:35:36 |
+| Lobby ID | 28541997685296628 |
+| Players | 2/15 |
+| Host Name | meeto meeto meeto :3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:36:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997685129482 |
-| Players | 14/15 |
-| Host Name | ¢ɾעßά๖ฯ |
+| Lobby ID | 28541997685351041 |
+| Players | 8/24 |
+| Host Name | MoonDio |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:36:11 |
+| Lobby Creation Time | Friday, December 1, 2023 10:36:37 |
 
 
 |  | ot3_gardens_duo |
@@ -63,33 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N!cK Machiavelli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:33:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997684313432 |
-| Players | 8/10 |
-| Host Name | Duuuuh |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:34:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997685296628 |
-| Players | 1/15 |
-| Host Name | meeto meeto meeto :3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 10:36:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997685351041 |
-| Players | 6/24 |
-| Host Name | MoonDio |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:36:37 |
 
 
 |  | epic_boss_fight_nightmare |
