@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997747697380 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:41:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997747232866 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:40:24 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:41:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997747644067 |
-| Players | 1/15 |
-| Host Name | tice |
+| Lobby ID | 28541997748135326 |
+| Players | 2/8 |
+| Host Name | фрик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:41:12 |
+| Lobby Creation Time | Friday, December 1, 2023 12:42:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997744900476 |
+| Players | 6/8 |
+| Host Name | QueFueMano? |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:35:54 |
 
 
 |  | epic_boss_fight_nightmare |
