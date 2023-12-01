@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997775633384 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | xo♥ASR♥xo(Komizar) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:37:00 |
