@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997811756225 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | kiritych enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:42:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997809328160 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:37:51 |
