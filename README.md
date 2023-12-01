@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997834231748 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:26:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997834473555 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Chien2rue |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:27:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997833638685 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:25:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997834681447 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | БОГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:27:38 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:28:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997833685032 |
+| Players | 6/8 |
+| Host Name | Чувствую smooth criminal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:25:28 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28541997832000187 |
@@ -81,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _flamingo_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:21:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997833537791 |
-| Players | 3/10 |
-| Host Name | Arphon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 15:25:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997834907686 |
-| Players | 1/5 |
-| Host Name | breezy.prg |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 1, 2023 15:28:08 |
 
 
