@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997683444997 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | The [P]ro I TeTikCi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:32:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997682881407 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:31:45 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997683948442 |
+| Lobby ID | 28541997684009012 |
 | Players | 1/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:33:51 |
+| Host Name | ktr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:33:58 |
 
 
 |  | ot3_gardens_duo |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997681700770 |
-| Players | 4/8 |
-| Host Name | Tavo- |
+| Players | 3/8 |
+| Host Name | ayayay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:29:25 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997684313432 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Duuuuh |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:34:34 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997684009012 |
+| Lobby ID | 28541997684662178 |
 | Players | 1/8 |
-| Host Name | ktr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 10:33:58 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:35:16 |
 
 
 |  | epic_boss_fight_nightmare |
