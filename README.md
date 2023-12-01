@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997702149201 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:11:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997700782533 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:08:37 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997701952841 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | geartheone |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:11:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997701807190 |
-| Players | 14/15 |
-| Host Name | zebra |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 11:10:49 |
+| Lobby ID | 28541997698971982 |
+| Players | 23/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997701584352 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | fackig loser lol(proebal jiZn))) |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:10:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997702248122 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Boshito |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:11:45 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:12:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997698971982 |
-| Players | 23/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
+| Lobby ID | 28541997702879885 |
+| Players | 1/15 |
+| Host Name | Little BirD |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:13:06 |
 
 
 |  | epic_boss_fight_challenger |
