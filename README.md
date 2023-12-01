@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997813525637 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MOTOMAMI |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:45:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997815345554 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Friendly Cat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:48:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997802987032 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:26:49 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GYPSY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:48:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997815775880 |
+| Players | 1/10 |
+| Host Name | ЮвЕлИр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:49:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997815819551 |
+| Players | 3/15 |
+| Host Name | bravado |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:49:05 |
 
 
 |  | epic_boss_fight_nightmare |
