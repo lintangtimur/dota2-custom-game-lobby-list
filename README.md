@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997672537803 |
-| Players | 13/15 |
-| Host Name | kevin el favo |
+| Lobby ID | 28541997674015619 |
+| Players | 3/10 |
+| Host Name | Mi pinga, Mis reglas |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:11:25 |
+| Lobby Creation Time | Friday, December 1, 2023 10:14:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997672953369 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:12:13 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:00:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997673356227 |
-| Players | 2/8 |
-| Host Name | hippodamia |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 10:13:01 |
+| Lobby ID | 28541997673466045 |
+| Players | 7/10 |
+| Host Name | KG-Toma Para Que Me Respetes |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:13:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997674141923 |
-| Players | 1/15 |
-| Host Name | DOOM SURFER |
+| Players | 3/15 |
+| Host Name | Fear Jr. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:14:32 |
 
@@ -68,34 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997672486675 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Grimorum ~_^ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997673466045 |
-| Players | 6/10 |
-| Host Name | KG-Toma Para Que Me Respetes |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:13:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997674015619 |
-| Players | 2/10 |
-| Host Name | Mi pinga, Mis reglas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:14:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997672012887 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:10:23 |
