@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:25:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997769858434 |
-| Players | 2/8 |
-| Host Name | clown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:25:48 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997768508166 |
@@ -72,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Popig Immortal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997770023489 |
+| Players | 1/8 |
+| Host Name | alimagomedov1232191 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:26:07 |
 
 
 |  | epic_boss_fight_nightmare |
