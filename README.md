@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642727562 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Bubbles |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:11:07 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642401680 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997642792462 |
-| Players | 13/15 |
-| Host Name | melke |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:11:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997642965223 |
-| Players | 4/15 |
-| Host Name | mantisoficial |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 09:11:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997641565806 |
-| Players | 5/8 |
-| Host Name | mastyrbist303 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 09:08:34 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :PowerAutomate |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:12:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997642965223 |
+| Players | 6/15 |
+| Host Name | mantisoficial |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 09:11:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997641565806 |
+| Players | 3/8 |
+| Host Name | mastyrbist303 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 09:08:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bruce Lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:11:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997643364282 |
+| Players | 1/5 |
+| Host Name | ¯̄ ͡ ̶๖ۣۜGrαvιтy |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 09:12:30 |
 
 
