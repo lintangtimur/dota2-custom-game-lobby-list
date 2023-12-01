@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997767488740 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997783144557 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | MC Boss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:51:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781779612 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:48:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997783926212 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:52:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997784280109 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:11 |
@@ -95,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997784485648 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Fadmon |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997784515459 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997784637943 |
+| Players | 2/8 |
+| Host Name | Hokkaidu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:51 |
 
 
