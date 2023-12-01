@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997794768953 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 14:12:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997799577525 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | The Catcher in the Rye |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:20:53 |
@@ -54,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♡violet♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:21:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997799892364 |
+| Players | 5/8 |
+| Host Name | IM BUNNY ISREAL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:21:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997799883517 |
+| Players | 1/24 |
+| Host Name | quiescent |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:21:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997799938015 |
+| Players | 1/10 |
+| Host Name | ★MMXVII |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:21:31 |
 
 
 |  | epic_boss_fight_nightmare |
