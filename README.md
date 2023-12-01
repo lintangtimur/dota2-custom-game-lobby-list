@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997824972072 |
-| Players | 14/15 |
-| Host Name | WinNee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:06:12 |
+| Lobby ID | 28541997825803034 |
+| Players | 3/24 |
+| Host Name | _(:з」∠)_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 15:08:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:07:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997825803034 |
-| Players | 3/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 15:08:02 |
+| Lobby ID | 28541997826022893 |
+| Players | 1/15 |
+| Host Name | ReZarax |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:08:32 |
 
 
