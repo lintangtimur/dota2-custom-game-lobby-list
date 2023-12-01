@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997745151122 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | <3 Young Miko <3 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997746394155 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Empress |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:38:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997745108396 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Euphoria |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997747232866 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:40:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997747489676 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Молофья |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 12:40:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997747603260 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Tek7 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 12:41:07 |
@@ -101,19 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:42:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997740338220 |
-| Players | 8/10 |
-| Host Name | Quesah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:27:04 |
+| Lobby ID | 28541997748576179 |
+| Players | 5/8 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:43:00 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541997748478195 |
+| Players | 1/7 |
+| Host Name | TheY cAll me NooB!!! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:42:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997747545703 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:41:00 |
