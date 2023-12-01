@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631087660 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Ice Wallow Come |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 08:45:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997632792545 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:49:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997632525904 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997633156761 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | yra pobeda |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 08:49:59 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997633251462 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:50:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997633345116 |
+| Players | 1/15 |
+| Host Name | me quede en el 7.30 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 08:50:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997632551779 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nasty |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
