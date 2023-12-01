@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997743502168 |
-| Players | 8/10 |
-| Host Name | Popig Immortal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:33:13 |
+| Lobby ID | 28541997739186571 |
+| Players | 23/24 |
+| Host Name | RiftBreaker |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:24:50 |
 
 
 |  | ot3_desert_octet |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997743461104 |
 | Players | 3/15 |
-| Host Name | daimon |
+| Host Name | СЕКС-ПУЛЕМЕТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:33:08 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997743797779 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | BayBay! |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:33:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997744000784 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:34:10 |
