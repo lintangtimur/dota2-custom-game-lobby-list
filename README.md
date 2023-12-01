@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997707066935 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:21:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997708224101 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:24:04 |
