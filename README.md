@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997707066935 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:21:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997707027719 |
-| Players | 1/24 |
-| Host Name | God |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:21:40 |
+| Lobby ID | 28541997707331602 |
+| Players | 5/8 |
+| Host Name | ALL MUTE I AFK FARM MIDAS |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:22:16 |
 
 
 |  | ot3_desert_octet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997706321940 |
-| Players | 7/8 |
-| Host Name | Crow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 11:20:12 |
+| Lobby ID | 28541997707669203 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997706695693 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | 506 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:20:59 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:22:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997707331602 |
-| Players | 5/8 |
-| Host Name | ALL MUTE I AFK FARM MIDAS |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:22:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997707669203 |
-| Players | 1/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
+| Lobby ID | 28541997707795218 |
+| Players | 1/24 |
+| Host Name | YDD |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 11:23:13 |
 
 
 |  | epic_boss_fight_nightmare |
