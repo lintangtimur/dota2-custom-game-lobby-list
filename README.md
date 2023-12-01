@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997696888056 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | abomination of obama's nation |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:59:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997698971982 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997698210539 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:58 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997698586492 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | I spit what you think about it ! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:03:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997699341794 |
+| Players | 1/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:05:28 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | oppixoppixfruit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:05:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997699330540 |
-| Players | 1/5 |
-| Host Name | DigriZz |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 11:05:26 |
 
 
