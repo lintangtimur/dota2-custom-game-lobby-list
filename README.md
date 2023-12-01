@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997634380856 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Greed黒人のオカマ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:52:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997634550203 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | KG-Toma Para Que Me Respetes |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:52:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997634248586 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | ДАВИД |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:52:17 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997635312513 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Titanma |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:54:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997635613394 |
-| Players | 1/8 |
-| Host Name | ПАПА Seed'a |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 08:55:11 |
 
 
 |  | ot3_jungle_quintet |
