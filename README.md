@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997845978708 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Nino |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 15:52:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997881649905 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:57:10 |
@@ -41,36 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997882636445 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sho Par |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 16:58:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997882369083 |
-| Players | 2/8 |
-| Host Name | 龙 lóng |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:58:16 |
+| Lobby ID | 28541997883245480 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 16:59:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997882781889 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | volodyaツ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:58:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997882920892 |
-| Players | 2/8 |
-| Host Name | Panda |
+| Lobby ID | 28541997882944242 |
+| Players | 2/10 |
+| Host Name | ビアパンダbeer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:59:05 |
+| Lobby Creation Time | Friday, December 1, 2023 16:59:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997883271958 |
+| Players | 1/10 |
+| Host Name | Andreas Maler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 16:59:37 |
 
 
