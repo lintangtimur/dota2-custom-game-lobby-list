@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997705071262 |
-| Players | 2/24 |
-| Host Name | Deimos |
+| Players | 1/24 |
+| Host Name | γηΩσ/בר-אבא |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:17:37 |
 
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997703810117 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:15:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997704389637 |
-| Players | 12/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:16:13 |
+| Lobby ID | 28541997705646048 |
+| Players | 1/8 |
+| Host Name | Alucard |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:18:49 |
 
 
 |  | ot3_gardens_duo |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997704732879 |
-| Players | 3/8 |
-| Host Name | fackig loser lol(proebal jiZn))) |
+| Players | 4/8 |
+| Host Name | > Алекситимия < |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:16:56 |
 
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541997703325180 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | FER :3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:14:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997705478253 |
-| Players | 1/10 |
-| Host Name | Fadhil Bayangan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 11:18:28 |
 
 
 |  | epic_boss_fight_nightmare |
