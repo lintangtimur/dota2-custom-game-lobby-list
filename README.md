@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997831146788 |
-| Players | 12/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:19:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997831159312 |
-| Players | 2/10 |
-| Host Name | kroh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:19:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28541997829253480 |
 | Players | 14/15 |
 | Host Name | He'ershingenmosiken |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 15:15:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997831159312 |
+| Players | 3/10 |
+| Host Name | kroh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 15:19:54 |
 
 
 |  | epic_boss_fight_nightmare |
