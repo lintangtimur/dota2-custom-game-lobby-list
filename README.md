@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997786796889 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 5h4k3R |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:57:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997787733185 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:59:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997787222853 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:58:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997788042631 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:00:07 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No_Heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:01:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997786358480 |
+| Players | 9/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:57:02 |
 
 
