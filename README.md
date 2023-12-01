@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:00:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997665574338 |
-| Players | 13/15 |
-| Host Name | Ringo |
+| Lobby ID | 28541997666719420 |
+| Players | 4/8 |
+| Host Name | Solo Leveling |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:57:44 |
+| Lobby Creation Time | Friday, December 1, 2023 09:59:59 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997666139540 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:58:50 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997667034014 |
-| Players | 3/8 |
-| Host Name | CIELO te amo deja a ese gilll |
+| Lobby ID | 28541997665438479 |
+| Players | 7/8 |
+| Host Name | benitocamitroncote |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:00:36 |
+| Lobby Creation Time | Friday, December 1, 2023 09:57:28 |
 
 
 |  | ot3_gardens_duo |
@@ -101,33 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:59:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997666719420 |
-| Players | 4/8 |
-| Host Name | Solo Leveling |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:59:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997663813619 |
-| Players | 8/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:54:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997665438479 |
-| Players | 7/8 |
-| Host Name | benitocamitroncote |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:57:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997666170728 |
@@ -135,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:58:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997667374651 |
+| Players | 1/10 |
+| Host Name | Ricardo |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:01:16 |
 
 
