@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997694938797 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Un Dotita y a mimir |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997690688673 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
@@ -74,10 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:56:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997695469908 |
+| Players | 1/15 |
+| Host Name | .: XV :.. |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:56:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997695548409 |
+| Players | 6/15 |
+| Host Name | VicennialTunic6 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:57:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997695548452 |
+| Players | 1/8 |
+| Host Name | Yomatara |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:57:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997694188767 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:54:22 |
@@ -86,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997694943884 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Momam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:55:53 |
