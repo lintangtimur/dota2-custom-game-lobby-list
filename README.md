@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997634080919 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:51:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997632792545 |
-| Players | 7/8 |
-| Host Name | فلادينير أغويلار سانشيز |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:49:12 |
+| Lobby ID | 28541997635082860 |
+| Players | 2/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 08:54:03 |
 
 
 |  | ot3_desert_octet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:53:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997635082860 |
-| Players | 2/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 08:54:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997632381928 |
@@ -95,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997632551779 |
-| Players | 2/10 |
-| Host Name | Nill Kiggers |
+| Players | 1/10 |
+| Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28541997633483409 |
-| Players | 5/7 |
-| Host Name | FishBunnyCat |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:50:40 |
+| Lobby ID | 28541997635195043 |
+| Players | 1/7 |
+| Host Name | Nill Kiggers |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 08:54:18 |
 
 
