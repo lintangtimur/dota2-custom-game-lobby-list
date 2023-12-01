@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997634392725 |
-| Players | 5/8 |
-| Host Name | MrPaggy |
+| Players | 6/8 |
+| Host Name | No Future |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:52:36 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997634248586 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ДАВИД |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:52:17 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:52:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997634751420 |
+| Players | 1/24 |
+| Host Name | MrPaggy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 08:53:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997632381928 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | o0o "CAPTAIN BERSERK" o0o ™ |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:21 |
