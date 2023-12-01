@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997815149768 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:47:54 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997809328160 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:37:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997818115307 |
-| Players | 1/8 |
-| Host Name | 123 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 14:53:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997818062882 |
-| Players | 4/15 |
-| Host Name | tice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:52:58 |
 
 
 |  | ot3_gardens_duo |
@@ -74,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:53:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997818062882 |
+| Players | 4/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:52:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997818361651 |
+| Players | 4/8 |
+| Host Name | Gay ruin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:53:29 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997817821273 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:52:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997818303827 |
-| Players | 1/10 |
-| Host Name | ダークデク |
+| Lobby ID | 28541997818449222 |
+| Players | 1/5 |
+| Host Name | 于宝贝 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 14:53:23 |
+| Lobby Creation Time | Friday, December 1, 2023 14:53:38 |
 
 
