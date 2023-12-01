@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997649030460 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Vitrex1111 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997649119952 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | †Niel4Four |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:40 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eooooooooooooooooo |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997649325616 |
+| Players | 2/10 |
+| Host Name | estoy  cansado jefe |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:25:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997649350488 |
+| Players | 3/15 |
+| Host Name | Фархад Гаджиев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:25:09 |
 
 
 |  | epic_boss_fight_normal |
