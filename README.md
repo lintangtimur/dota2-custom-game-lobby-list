@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997661110232 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:48:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997661669112 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:50:05 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997660267190 |
 | Players | 14/15 |
-| Host Name | Dotsz'-,. |
+| Host Name | SUMIMASEN |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:47:18 |
 
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997660606156 |
-| Players | 11/24 |
-| Host Name | Roldan |
+| Players | 5/24 |
+| Host Name | Pan con Huevo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:47:59 |
 
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997662466181 |
+| Lobby ID | 28541997662556651 |
 | Players | 1/8 |
-| Host Name | hakari bailecito |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:51:38 |
+| Host Name | KARMA.giordota.com |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 1, 2023 09:51:48 |
 
 
 |  | epic_boss_fight_challenger |
