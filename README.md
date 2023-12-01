@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997837557522 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Ankara Messi messi Messi messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:33:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997852570095 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:05:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997870266739 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Azula |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:39:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997861655875 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 16:24:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997870280228 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:39:22 |
@@ -76,28 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997869995807 |
-| Players | 14/15 |
-| Host Name | life imitates life |
+| Lobby ID | 28541997871267809 |
+| Players | 2/15 |
+| Host Name | VelascO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:38:54 |
+| Lobby Creation Time | Friday, December 1, 2023 16:40:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997870502625 |
-| Players | 1/10 |
-| Host Name | TheRealBubmels |
+| Lobby ID | 28541997871345585 |
+| Players | 3/8 |
+| Host Name | Очко Лёхи |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:39:43 |
+| Lobby Creation Time | Friday, December 1, 2023 16:41:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997868053597 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:35:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997870721031 |
+| Players | 5/10 |
+| Host Name | QWASZX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 16:40:04 |
 
 
