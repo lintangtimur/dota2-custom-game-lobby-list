@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997718699078 |
-| Players | 13/15 |
-| Host Name | антошка_картошка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:44:54 |
+| Lobby ID | 28541997721235433 |
+| Players | 1/15 |
+| Host Name | surdo_kariz.16 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:49:58 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997720639322 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:48:47 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:49:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997721235433 |
-| Players | 1/15 |
-| Host Name | surdo_kariz.16 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:49:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997720146456 |
@@ -90,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:47:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997721337792 |
+| Players | 1/10 |
+| Host Name | league of children |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 11:50:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997719805298 |
+| Players | 9/10 |
+| Host Name | 青椒小新 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 11:47:06 |
 
 
