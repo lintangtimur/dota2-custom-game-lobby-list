@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:25:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997738793818 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:24:04 |
+| Lobby ID | 28541997740462988 |
+| Players | 8/24 |
+| Host Name | Itachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:27:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997740131974 |
-| Players | 1/10 |
-| Host Name | ♣Reαℓ[G4]ℓife♣ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:26:40 |
+| Lobby ID | 28541997740560083 |
+| Players | 2/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 12:27:30 |
 
 
 |  | ot3_desert_octet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ɪᴍᴛʜᴏʀ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:26:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997740429522 |
-| Players | 2/10 |
-| Host Name | all or nothing |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 12:27:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997740462988 |
-| Players | 6/24 |
-| Host Name | Itachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:27:18 |
 
 
 |  | epic_boss_fight_nightmare |
