@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997803382295 |
-| Players | 5/10 |
-| Host Name | артур желтый глаз |
+| Players | 3/10 |
+| Host Name | JA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:27:30 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997804813973 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:29:59 |
