@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997827486620 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Alkatras |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:11:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997828084880 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 死ね！ FAIL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:13:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997827790135 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:12:27 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | depko13 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:13:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997828305079 |
-| Players | 1/8 |
-| Host Name | Sciron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:13:36 |
 
 
 |  | epic_boss_fight_nightmare |
