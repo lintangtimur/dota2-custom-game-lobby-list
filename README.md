@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997763895710 |
-| Players | 11/15 |
-| Host Name | 50.Centaur |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:13:54 |
+| Lobby ID | 28541997765076441 |
+| Players | 12/24 |
+| Host Name | DARWwWwWwWwWwW |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:16:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997762369044 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:10:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997765467425 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | М-01 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:17:04 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RMT(McMani Rockefeller) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:14:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997765076441 |
-| Players | 12/24 |
-| Host Name | DARWwWwWwWwWwW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:16:17 |
 
 
