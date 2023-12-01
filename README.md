@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997675983967 |
-| Players | 1/8 |
-| Host Name | Papita Frita |
+| Lobby ID | 28541997676919990 |
+| Players | 4/8 |
+| Host Name | Nasho ♡ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:18:10 |
+| Lobby Creation Time | Friday, December 1, 2023 10:20:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676073101 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Shadow S.F |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997667383882 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ArcaN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:19:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997674771816 |
-| Players | 3/8 |
-| Host Name | Thehunter290501 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:15:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997676779543 |
@@ -110,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:19:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997676919990 |
-| Players | 3/8 |
-| Host Name | Nasho ♡ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:20:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997676166336 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:31 |
