@@ -51,18 +51,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997769775106 |
 | Players | 2/15 |
-| Host Name | shhhh Im not trying(: |
+| Host Name | Дрочеслав |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:25:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997768508166 |
-| Players | 9/10 |
-| Host Name | Popig Immortal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
 
 
 |  | ot3_necropolis_ffa |
