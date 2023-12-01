@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997768508166 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Popig Immortal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997768894163 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Prometey_X |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:23:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Allah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:20:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997769507453 |
+| Players | 2/10 |
+| Host Name | Kirito |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 13:25:06 |
 
 
