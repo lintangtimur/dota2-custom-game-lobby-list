@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997814566130 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Луз-Режусь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:46:54 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997815345554 |
-| Players | 2/15 |
-| Host Name | Pigfucker_88<-->41 |
+| Players | 3/15 |
+| Host Name | Friendly Cat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:48:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997815466528 |
+| Players | 1/15 |
+| Host Name | ————————— |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 14:48:28 |
 
 
 |  | epic_boss_fight_nightmare |
