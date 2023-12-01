@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997667383882 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ArcaN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997687257026 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:40:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997686322862 |
-| Players | 12/15 |
-| Host Name | Fanss |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:38:32 |
+| Lobby ID | 28541997687340882 |
+| Players | 1/10 |
+| Host Name | MAad? |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:40:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997686768964 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Pos 69 or grief |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:39:25 |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:31:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997687340882 |
-| Players | 1/10 |
-| Host Name | MAad? |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:40:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997684552409 |
-| Players | 9/10 |
-| Host Name | Clovis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 10:35:03 |
 
 
