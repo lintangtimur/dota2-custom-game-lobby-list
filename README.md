@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997637023416 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:58:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997637976511 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PinguinoParador |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:00:16 |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:00:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997635781317 |
-| Players | 23/24 |
-| Host Name | B*SønG~BirÐ_♪*K |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:55:32 |
+| Lobby ID | 28541997638397436 |
+| Players | 1/8 |
+| Host Name | Dirty Deedz |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:01:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997638311520 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Toni Kroos |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:01:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997638325364 |
-| Players | 5/10 |
-| Host Name | Kirbo? |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:01:10 |
 
 
 |  | epic_boss_fight_nightmare |
