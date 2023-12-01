@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:30:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997771861948 |
-| Players | 6/8 |
-| Host Name | Most positive player!! |
+| Lobby ID | 28541997772155284 |
+| Players | 7/15 |
+| Host Name | The Flag is Raised |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:29:45 |
+| Lobby Creation Time | Friday, December 1, 2023 13:30:19 |
 
 
 |  | ot3_desert_octet |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997772155284 |
-| Players | 5/15 |
-| Host Name | The Flag is Raised |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:30:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997770548960 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | -Panico |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:27:09 |
