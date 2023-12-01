@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997751086209 |
-| Players | 9/10 |
-| Host Name | sp_flame |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:47:49 |
+| Lobby ID | 28541997752868848 |
+| Players | 3/15 |
+| Host Name | Ryuta |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:51:17 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751375887 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | S.M.F. |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751040524 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Сameron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:47:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997752868848 |
-| Players | 2/15 |
-| Host Name | Ryuta |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:51:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997752922677 |
-| Players | 5/8 |
-| Host Name | ELCHEFOSOR. twitch y tiktok live |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:51:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997752702973 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hasta La Vista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:50:57 |
