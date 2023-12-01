@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:33:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997742299992 |
-| Players | 1/8 |
-| Host Name | ThOrflnn |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 12:30:53 |
+| Lobby ID | 28541997743951021 |
+| Players | 2/24 |
+| Host Name | 10 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:34:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997743461104 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | daimon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:33:08 |
@@ -42,18 +42,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997743797779 |
 | Players | 3/15 |
-| Host Name | Con Sueño |
+| Host Name | BayBay! |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:33:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997743951021 |
-| Players | 2/24 |
-| Host Name | 10 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:34:05 |
+| Lobby ID | 28541997744000784 |
+| Players | 1/24 |
+| Host Name | Aniki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 12:34:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997744000733 |
+| Players | 1/8 |
+| Host Name | ThOrflnn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:34:10 |
 
 
 |  | epic_boss_fight_nightmare |
