@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997699007167 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ヴァルハラ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997698840709 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♣Reαℓ[G4]ℓife♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997698586492 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | I spit what you think about it ! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:03:48 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997699341794 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:05:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997698494611 |
-| Players | 23/24 |
-| Host Name | MAIDERINO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:03:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997699625288 |
-| Players | 1/8 |
-| Host Name | anteater |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:06:05 |
 
 
 |  | epic_boss_fight_challenger |
