@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997661534369 |
 | Players | 2/15 |
-| Host Name | Megan Fox |
+| Host Name | Castillo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:49:49 |
 
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997659504819 |
-| Players | 6/8 |
-| Host Name | Manilas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:45:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997661350689 |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:49:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997661669112 |
+| Players | 2/24 |
+| Host Name | Dj cucaracha |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:50:05 |
 
 
 |  | epic_boss_fight_challenger |
