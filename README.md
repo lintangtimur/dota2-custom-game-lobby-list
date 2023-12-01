@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997648732401 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | zoo enjoyer #animals |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:23:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997649099709 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | NIX fury |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997649132834 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | eooooooooooooooooo |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:42 |
