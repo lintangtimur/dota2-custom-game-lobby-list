@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997722643766 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | CRIMINAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:52:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997725658510 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:58:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997724933938 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Sakuta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:57:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997724634102 |
-| Players | 8/10 |
+| Players | 10/10 |
 | Host Name | ♣Reαℓ[G4]ℓife♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:56:39 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:58:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997725835730 |
+| Players | 2/24 |
+| Host Name | D7 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:59:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997725905227 |
+| Players | 4/8 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:59:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997725052677 |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:57:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997725902612 |
+| Players | 1/5 |
+| Host Name | BANNED.天赋egoisto` |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:59:09 |
 
 
