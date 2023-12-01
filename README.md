@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997739186571 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:24:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997740840873 |
-| Players | 9/10 |
-| Host Name | e |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:28:02 |
+| Lobby ID | 28541997742299992 |
+| Players | 1/8 |
+| Host Name | Etern1ty |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 12:30:53 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997741834026 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:29:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997742299992 |
-| Players | 1/8 |
-| Host Name | Etern1ty |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 12:30:53 |
 
 
 |  | epic_boss_fight_nightmare |
