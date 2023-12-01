@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997782426792 |
-| Players | 14/15 |
-| Host Name | talent? hardwork? |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 13:49:46 |
+| Lobby ID | 28541997784637943 |
+| Players | 2/8 |
+| Host Name | Hokkaidu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:51 |
 
 
 |  | ot3_desert_octet |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997784637943 |
-| Players | 2/8 |
-| Host Name | Hokkaidu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:53:51 |
 
 
