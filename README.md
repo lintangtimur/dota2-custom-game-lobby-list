@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997698082117 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | xpratf |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997699007167 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ヴァルハラ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997696888056 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | abomination of obama's nation |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:59:50 |
@@ -67,29 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997699341794 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:05:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28541997699806351 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Дима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:06:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997699836232 |
-| Players | 4/8 |
-| Host Name | //WLLC// |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:06:32 |
 
 
 |  | epic_boss_fight_challenger |
