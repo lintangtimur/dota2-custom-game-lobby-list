@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997778271387 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:41:59 |
@@ -56,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:43:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997779478931 |
+| Players | 1/15 |
+| Host Name | Чёрный Русский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:44:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997779495323 |
+| Players | 2/10 |
+| Host Name | -⁧⁧trankvill |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:44:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997779077744 |
@@ -67,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997779261571 |
+| Lobby ID | 28541997779512660 |
 | Players | 1/10 |
-| Host Name | ggwp |
+| Host Name | Arphon |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:43:51 |
+| Lobby Creation Time | Friday, December 1, 2023 13:44:19 |
 
 
