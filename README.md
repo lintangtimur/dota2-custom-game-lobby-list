@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997666972548 |
 | Players | 1/24 |
-| Host Name | Potatoes gonna potate! |
+| Host Name | Jon Snow |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:00:28 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997667841605 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GORGE PRIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:02:10 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997668152043 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ricardo |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:02:47 |
