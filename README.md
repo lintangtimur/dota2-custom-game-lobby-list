@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997914097643 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Vulva |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 17:44:37 |
@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 17:38:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997914171128 |
-| Players | 2/8 |
-| Host Name | пися(￢‿￢ ) |
+| Lobby ID | 28541997914971629 |
+| Players | 1/15 |
+| Host Name | skyline |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 17:44:43 |
+| Lobby Creation Time | Friday, December 1, 2023 17:45:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997914109393 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 17:44:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997914342590 |
-| Players | 2/15 |
-| Host Name | debooster |
+| Lobby ID | 28541997914965387 |
+| Players | 2/10 |
+| Host Name | KaRaTeL` |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 17:44:58 |
+| Lobby Creation Time | Friday, December 1, 2023 17:45:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -59,9 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997914371069 |
-| Players | 4/10 |
-| Host Name | холодный понос |
+| Players | 3/10 |
+| Host Name | meow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 17:45:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997914724034 |
+| Players | 3/10 |
+| Host Name | холодный понос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 17:45:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997914607605 |
+| Players | 3/5 |
+| Host Name | HiBitches |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 17:45:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997915054272 |
+| Players | 1/5 |
+| Host Name | SuicidalPenguin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, December 1, 2023 17:45:57 |
 
 
