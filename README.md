@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997776101069 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Republica independiente de Arequ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:37:53 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:42:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997775633384 |
+| Players | 23/24 |
+| Host Name | xo♥ASR♥xo(Komizar) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:37:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997777209627 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | let the man COOK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:39:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997776569373 |
+| Players | 9/10 |
+| Host Name | NightBoomer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:38:46 |
 
 
