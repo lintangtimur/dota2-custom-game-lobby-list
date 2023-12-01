@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997713514576 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | jake69 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:34:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997713245077 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:34:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997713328201 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | the most greedy sup |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:34:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997713557998 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 阿宝 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:34:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997714109424 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sweet...Sadistic |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:35:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997705136513 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:17:46 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997714329074 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Solas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:36:16 |
