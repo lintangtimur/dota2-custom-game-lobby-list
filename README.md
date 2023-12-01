@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997674933944 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | `hnrb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:16:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997677876712 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:21:54 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997676779543 |
-| Players | 9/10 |
-| Host Name | qeqe |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 10:19:44 |
+| Lobby ID | 28541997678631077 |
+| Players | 1/15 |
+| Host Name | ватафак) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:23:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:23:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997676303360 |
+| Players | 12/15 |
+| Host Name | Tomsi Lisa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997677741653 |
+| Players | 9/24 |
+| Host Name | Roldan |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:21:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997677602289 |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997676166336 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | SenbonZakura Kageyoshi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:31 |
