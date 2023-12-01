@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997679054996 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | a |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:24:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997679427944 |
-| Players | 7/8 |
-| Host Name | kasuki okino |
+| Lobby ID | 28541997679888626 |
+| Players | 6/24 |
+| Host Name | 埃里克约瑟夫 D'ČAMÏLÀ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:24:56 |
+| Lobby Creation Time | Friday, December 1, 2023 10:25:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,27 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997679957974 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Aurora Liu |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:25:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997679970807 |
-| Players | 6/8 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:26:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997679888626 |
-| Players | 4/24 |
-| Host Name | 埃里克约瑟夫 D'ČAMÏLÀ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:25:51 |
 
 
