@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997700976098 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ExecBaron |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 11:09:02 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:07:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997700212523 |
-| Players | 9/10 |
-| Host Name | CHILINGUS |
+| Lobby ID | 28541997700726401 |
+| Players | 6/8 |
+| Host Name | Swap commend |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:07:22 |
+| Lobby Creation Time | Friday, December 1, 2023 11:08:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997698971982 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997700250439 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | EL PERRO JUDIO |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997700069468 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:03 |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:08:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997699806351 |
-| Players | 7/8 |
-| Host Name | ПАПА Seed'a |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:06:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997700726401 |
-| Players | 6/8 |
-| Host Name | Swap commend |
+| Lobby ID | 28541997698082117 |
+| Players | 11/15 |
+| Host Name | xpratf |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:08:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997701016054 |
-| Players | 2/8 |
-| Host Name | hakari bailecito |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:09:07 |
+| Lobby Creation Time | Friday, December 1, 2023 11:02:41 |
 
 
 |  | epic_boss_fight_challenger |
