@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997692761036 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | γηΩσ/בר-אבא |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:51:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997691358140 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:48:39 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997689862649 |
-| Players | 7/8 |
-| Host Name | Камиль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 10:45:38 |
+| Lobby ID | 28541997693276449 |
+| Players | 4/15 |
+| Host Name | denilson |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 10:52:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M4chi |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 10:51:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997693276449 |
-| Players | 4/15 |
-| Host Name | denilson |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 10:52:31 |
 
 
 |  | epic_boss_fight_nightmare |
