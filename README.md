@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541998095616966 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Helado |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 21:01:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541998085910946 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Cemka |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 20:52:34 |
@@ -22,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541998097166370 |
-| Players | 5/8 |
-| Host Name | КИНТЕ ПОХВАЛЫ ПЖ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 21:02:45 |
+| Lobby ID | 28541998097516046 |
+| Players | 2/8 |
+| Host Name | Laguna |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 21:03:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541998097094307 |
-| Players | 6/15 |
-| Host Name | Levi Ackerman |
+| Lobby ID | 28541998098322622 |
+| Players | 1/8 |
+| Host Name | Gansleger |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 21:02:41 |
+| Lobby Creation Time | Friday, December 1, 2023 21:03:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541998096869641 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | !Jamata |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 21:02:29 |
@@ -65,29 +65,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:36:24 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541998095291535 |
-| Players | 5/10 |
-| Host Name | Сиделыч |
+| Lobby ID | 28541998098563868 |
+| Players | 3/10 |
+| Host Name | Irif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 21:01:03 |
+| Lobby Creation Time | Friday, December 1, 2023 21:04:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541998096987602 |
-| Players | 1/5 |
-| Host Name | gameloftxxx7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 21:02:36 |
+| Lobby ID | 28541998098584288 |
+| Players | 1/15 |
+| Host Name | skywalker |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 21:04:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541998097059543 |
-| Players | 4/10 |
-| Host Name | 菊花撕裂者 |
+| Players | 6/10 |
+| Host Name | Sukuna |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 1, 2023 21:02:40 |
 
