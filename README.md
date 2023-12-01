@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997631087660 |
+| Lobby ID | 28541997638280028 |
 | Players | 23/24 |
-| Host Name | Ice Wallow Come |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 08:45:36 |
+| Host Name | -qwerty |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:01:04 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997640984036 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SrGato |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:07:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997641083849 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | в кабине Padalshchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:07:30 |
