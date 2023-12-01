@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997730448870 |
-| Players | 2/8 |
-| Host Name | The Manjares |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 12:07:57 |
+| Lobby ID | 28541997733162125 |
+| Players | 1/8 |
+| Host Name | Evlogos |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 12:13:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997732971098 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | PORTOLITA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:12:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997733089103 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | NeformaLowSkill8=D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:13:05 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997733111007 |
-| Players | 6/8 |
-| Host Name | ashkel ketchup |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:13:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997733162125 |
+| Lobby ID | 28541997733620678 |
 | Players | 1/8 |
-| Host Name | Evlogos |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 12:13:14 |
+| Host Name | The Manjares |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 12:14:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:13:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997733608052 |
+| Players | 2/5 |
+| Host Name | Ваня Блинк |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 12:14:04 |
 
 
