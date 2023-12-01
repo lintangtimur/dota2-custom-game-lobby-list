@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997679427944 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | kasuki okino |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:24:56 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | falcon |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:25:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997679632034 |
-| Players | 1/10 |
-| Host Name | MihaWk |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:25:20 |
 
 
