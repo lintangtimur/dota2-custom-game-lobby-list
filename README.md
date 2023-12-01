@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997705071262 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Deimos |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:17:37 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997704389637 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:16:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997704922766 |
-| Players | 3/8 |
-| Host Name | Not_Juan 12YT |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:17:19 |
+| Lobby ID | 28541997703681868 |
+| Players | 8/10 |
+| Host Name | thrlvldk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:14:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997703069653 |
-| Players | 5/10 |
-| Host Name | Dumb |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 11:13:30 |
+| Lobby ID | 28541997705478253 |
+| Players | 1/10 |
+| Host Name | Fadhil Bayangan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 11:18:28 |
 
 
 |  | epic_boss_fight_nightmare |
