@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997702436751 |
-| Players | 1/24 |
-| Host Name | ✿迅猛小老虎 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 11:12:09 |
+| Lobby ID | 28541997703342505 |
+| Players | 4/15 |
+| Host Name | ElDoc |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:14:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:11:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997701584352 |
+| Players | 7/8 |
+| Host Name | 2pik |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 11:10:21 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997698971982 |
-| Players | 23/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997702879885 |
-| Players | 13/15 |
-| Host Name | Little BirD |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:13:06 |
+| Lobby ID | 28541997703217309 |
+| Players | 4/24 |
+| Host Name | GODOTA2.COM |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:13:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,33 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boshito |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:11:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997703217309 |
-| Players | 2/24 |
-| Host Name | GODOTA2.COM |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:13:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997703297296 |
-| Players | 1/24 |
-| Host Name | Power Ranger Plomo |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:13:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997703342505 |
-| Players | 3/15 |
-| Host Name | ElDoc |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:14:02 |
 
 
 |  | epic_boss_fight_challenger |
