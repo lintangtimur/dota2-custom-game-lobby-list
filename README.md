@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997684662178 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:35:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997685827069 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:37:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997685296628 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:36:31 |
