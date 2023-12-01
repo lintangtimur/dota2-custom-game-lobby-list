@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997745151122 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | <3 Young Miko <3 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:36:22 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:41:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997747697380 |
-| Players | 11/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:41:18 |
+| Lobby ID | 28541997744900476 |
+| Players | 7/8 |
+| Host Name | QueFueMano? |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:35:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:41:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997748135326 |
-| Players | 2/8 |
-| Host Name | фрик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:42:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997744900476 |
-| Players | 6/8 |
-| Host Name | QueFueMano? |
+| Lobby ID | 28541997748237780 |
+| Players | 1/10 |
+| Host Name | Tatsuro Yamashita |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:35:54 |
+| Lobby Creation Time | Friday, December 1, 2023 12:42:21 |
 
 
 |  | epic_boss_fight_nightmare |
