@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997748905340 |
+| Lobby ID | 28541997749318477 |
 | Players | 1/24 |
 | Host Name | Mr.Baldy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:43:38 |
+| Lobby Creation Time | Friday, December 1, 2023 12:44:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997749227005 |
+| Lobby ID | 28541997749351734 |
 | Players | 1/8 |
-| Host Name | beyond |
+| Host Name | Jesko |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:44:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997749251121 |
-| Players | 1/10 |
-| Host Name | zzz |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:44:18 |
+| Lobby Creation Time | Friday, December 1, 2023 12:44:29 |
 
 
 |  | epic_boss_fight_challenger |
