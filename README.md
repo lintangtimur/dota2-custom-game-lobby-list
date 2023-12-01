@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997667383882 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ArcaN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997678565142 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:23:15 |
@@ -50,27 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997679427944 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | kasuki okino |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:24:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997677602289 |
-| Players | 9/10 |
-| Host Name | KiraWh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 10:21:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997676166336 |
-| Players | 9/10 |
-| Host Name | SenbonZakura Kageyoshi |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 10:18:31 |
 
 
