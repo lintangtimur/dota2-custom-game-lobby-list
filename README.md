@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997644458811 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:14:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631700646 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Future |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997648732401 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | zoo enjoyer #animals |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:23:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997649030460 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | NO. |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:29 |
@@ -58,47 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997649119952 |
-| Players | 12/15 |
-| Host Name | †Niel4Four |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:24:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997649099709 |
-| Players | 20/24 |
-| Host Name | NIX fury |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:24:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997649132834 |
-| Players | 9/10 |
-| Host Name | eooooooooooooooooo |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 1, 2023 09:24:42 |
+| Lobby ID | 28541997649350488 |
+| Players | 14/15 |
+| Host Name | Фархад Гаджиев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:25:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997649325616 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | estoy  cansado jefe |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:25:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997649350488 |
-| Players | 11/15 |
-| Host Name | Фархад Гаджиев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:25:09 |
+| Lobby ID | 28541997650254284 |
+| Players | 1/24 |
+| Host Name | DEMON |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:27:01 |
 
 
 |  | epic_boss_fight_normal |
