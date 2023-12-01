@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997782426792 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | talent? hardwork? |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:49:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781779612 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:48:34 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:52:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997784135588 |
-| Players | 1/8 |
-| Host Name | Fadmon |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:52:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997784280109 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997784397689 |
+| Players | 1/8 |
+| Host Name | Fadmon |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:25 |
 
 
