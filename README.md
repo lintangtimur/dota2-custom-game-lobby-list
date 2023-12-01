@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631700646 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Future |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997651401493 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:21 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997651662284 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997651005073 |
-| Players | 21/24 |
-| Host Name | Dj cucaracha |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:28:33 |
+| Lobby ID | 28541997651927766 |
+| Players | 5/10 |
+| Host Name | B as in Boy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:30:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997651692484 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | determination |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:57 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:29:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997651927766 |
-| Players | 2/10 |
-| Host Name | B as in Boy |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:30:25 |
+| Lobby ID | 28541997652193562 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:30:58 |
 
 
 |  | epic_boss_fight_normal |
