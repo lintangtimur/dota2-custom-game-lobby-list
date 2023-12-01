@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997786081280 |
-| Players | 6/8 |
-| Host Name | РАЗКАГИРОВАЛСЯ2 |
+| Lobby ID | 28541997788058313 |
+| Players | 2/10 |
+| Host Name | ★MMXVII |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:56:31 |
+| Lobby Creation Time | Friday, December 1, 2023 14:00:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997787222853 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:58:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997786054284 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TT |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:56:28 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:00:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997788058313 |
-| Players | 1/10 |
-| Host Name | ★MMXVII |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:00:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997788079917 |
-| Players | 6/8 |
-| Host Name | Mi primera chamba |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:00:11 |
 
 
 |  | epic_boss_fight_normal |
