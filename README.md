@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997640128002 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:05:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997639059123 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:02:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997639823559 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:04:39 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:04:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997639794450 |
-| Players | 14/15 |
-| Host Name | HIT IN LANE OR I AFK |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:04:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997640394397 |
-| Players | 6/10 |
-| Host Name | falcon |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:05:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997640482597 |
@@ -99,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WORK WORK |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:06:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997640394397 |
+| Players | 7/10 |
+| Host Name | falcon |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:05:57 |
 
 
 |  | epic_boss_fight_nightmare |
