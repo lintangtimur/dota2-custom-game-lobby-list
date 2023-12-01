@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997768201491 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Jack Hanma |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:31 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harry's House |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:22:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997768508166 |
+| Players | 2/10 |
+| Host Name | Popig Immortal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:23:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997768499270 |
+| Players | 1/15 |
+| Host Name | [ALPLD] S.U.K.A GG |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:23:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997768525439 |
+| Players | 1/15 |
+| Host Name | GM.Sr4ever.giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:23:09 |
 
 
 |  | epic_boss_fight_nightmare |
