@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997740462988 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Itachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:27:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997741847537 |
-| Players | 1/8 |
-| Host Name | KIRA |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 12:30:00 |
+| Lobby ID | 28541997740687649 |
+| Players | 2/10 |
+| Host Name | all or nothing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:27:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:27:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997740687649 |
-| Players | 2/10 |
-| Host Name | all or nothing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:27:45 |
+| Lobby ID | 28541997742060467 |
+| Players | 1/8 |
+| Host Name | Etern1ty |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 12:30:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Quesah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:27:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997741878908 |
-| Players | 1/10 |
-| Host Name | OLLMEN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:30:04 |
 
 
