@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997710097456 |
-| Players | 5/10 |
-| Host Name | Spire |
+| Players | 1/10 |
+| Host Name | Kj.The Arkham Knight |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:53 |
 
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997710150543 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997710170455 |
-| Players | 11/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:28:01 |
+| Lobby ID | 28541997711117260 |
+| Players | 5/8 |
+| Host Name | Spire |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:29:55 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997709063561 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | бешенный шишак (sei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:25:47 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:26:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997710036713 |
-| Players | 8/10 |
-| Host Name | Licht |
+| Lobby ID | 28541997709469231 |
+| Players | 4/8 |
+| Host Name | Conchito Musculoso |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:27:45 |
+| Lobby Creation Time | Friday, December 1, 2023 11:26:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997711047328 |
+| Players | 1/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:29:47 |
 
 
 |  | epic_boss_fight_nightmare |
