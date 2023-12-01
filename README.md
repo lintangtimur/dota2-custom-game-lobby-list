@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997834231748 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:26:39 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997833685032 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Чувствую smooth criminal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:25:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997834473555 |
+| Players | 1/15 |
+| Host Name | Chien2rue |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:27:11 |
 
 
 |  | epic_boss_fight_normal |
