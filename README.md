@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997674933944 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | `hnrb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:16:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676073101 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Shadow S.F |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:20 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997676153749 |
-| Players | 14/15 |
-| Host Name | Weighted Pull-Up Specialist |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:18:29 |
+| Lobby ID | 28541997676582599 |
+| Players | 2/10 |
+| Host Name | Alberik |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:19:21 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997676303360 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Tomsi Lisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:18:47 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:19:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997672485198 |
-| Players | 9/10 |
-| Host Name | zubec88 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:11:19 |
+| Lobby ID | 28541997674771816 |
+| Players | 4/8 |
+| Host Name | PepeGrisho |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:15:46 |
 
 
 |  | epic_boss_fight_nightmare |
