@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997799883517 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:21:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997801449386 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | I believe I can......... RUIN |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:24:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997804404308 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Typhoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:29:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997804944978 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:30:13 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:26:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997806170857 |
+| Players | 3/10 |
+| Host Name | yophiel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:32:22 |
 
 
