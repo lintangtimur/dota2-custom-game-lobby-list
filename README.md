@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997734663257 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | BARCO CAMARONERO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:16:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997733858546 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:14:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997733059500 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:13:02 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Licemer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:16:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997735057912 |
-| Players | 1/10 |
-| Host Name | Paipl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:16:51 |
 
 
