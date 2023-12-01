@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997658352539 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:43:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997658902384 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | MORDEKAY*^ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:44:35 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997656445374 |
-| Players | 13/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:39:39 |
+| Lobby ID | 28541997658016354 |
+| Players | 14/15 |
+| Host Name | ----- |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:42:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997658367132 |
-| Players | 20/24 |
+| Players | 16/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:43:31 |
@@ -67,35 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997658174694 |
-| Players | 9/10 |
-| Host Name | Pinto Bean |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:43:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997659055229 |
-| Players | 4/15 |
-| Host Name | ALFALFITA IS BACK |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:44:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28541997659111411 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Young Hokage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 09:45:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997659055229 |
+| Players | 7/15 |
+| Host Name | ALFALFITA IS BACK |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:44:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997651627864 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ModD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:29:49 |
