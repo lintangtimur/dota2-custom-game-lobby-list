@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997667618356 |
-| Players | 13/15 |
-| Host Name | 耶罗 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 10:01:44 |
+| Lobby ID | 28541997669202884 |
+| Players | 2/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:04:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997668614288 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Overlord Bagnose |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:03:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997669061819 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:04:34 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997669202884 |
-| Players | 2/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:04:51 |
+| Lobby ID | 28541997669892061 |
+| Players | 1/8 |
+| Host Name | Yume |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:06:11 |
 
 
 |  | epic_boss_fight_nightmare |
