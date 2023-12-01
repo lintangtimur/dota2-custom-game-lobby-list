@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997692696730 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Prisionero lindo lindo |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 10:51:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997693276449 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | denilson |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:52:31 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:50:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997690908845 |
-| Players | 8/10 |
-| Host Name | WEEABOO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 10:47:44 |
+| Lobby ID | 28541997694236266 |
+| Players | 5/8 |
+| Host Name | RoyM |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:54:27 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheY cAll me NooB!!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997694188767 |
+| Players | 2/10 |
+| Host Name | SenbonZakura Kageyoshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:54:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997694202913 |
+| Players | 1/10 |
+| Host Name | Momam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:54:23 |
 
 
