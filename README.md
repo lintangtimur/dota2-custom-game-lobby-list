@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997792384701 |
 | Players | 3/24 |
-| Host Name | Felip |
+| Host Name | VLORE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:08:02 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997792312874 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | СФ не танцуй! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:07:54 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997791424026 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:06:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997790662091 |
-| Players | 9/10 |
-| Host Name | SHINU |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 14:04:53 |
+| Lobby ID | 28541997793020483 |
+| Players | 2/15 |
+| Host Name | talent? hardwork? |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 1, 2023 14:09:11 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KLA$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:08:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997793020483 |
-| Players | 1/15 |
-| Host Name | talent? hardwork? |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 14:09:11 |
 
 
 |  | epic_boss_fight_nightmare |
