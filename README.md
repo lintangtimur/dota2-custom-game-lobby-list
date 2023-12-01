@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997781768502 |
-| Players | 1/24 |
-| Host Name | ttao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:48:33 |
+| Lobby ID | 28541997781171616 |
+| Players | 3/10 |
+| Host Name | :p |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 13:47:26 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997782426792 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | talent? hardwork? |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:49:46 |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:48:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997781171616 |
-| Players | 3/10 |
-| Host Name | :p |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:47:26 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997783662808 |
+| Lobby ID | 28541997783799208 |
 | Players | 3/15 |
 | Host Name | Madvillainy (2004)™ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:52:03 |
+| Lobby Creation Time | Friday, December 1, 2023 13:52:18 |
 
 
