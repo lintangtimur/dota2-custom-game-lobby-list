@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541998044409653 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Mr_Anderson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 20:14:49 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:18:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541998048457203 |
-| Players | 1/15 |
-| Host Name | Racumin |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 20:18:36 |
+| Lobby ID | 28541998050059935 |
+| Players | 4/24 |
+| Host Name | Spongebob |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 20:20:06 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:08:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541998047931455 |
-| Players | 5/10 |
-| Host Name | AperolNeGespritz |
+| Lobby ID | 28541998050295797 |
+| Players | 14/15 |
+| Host Name | Da Butchar |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 20:18:06 |
+| Lobby Creation Time | Friday, December 1, 2023 20:20:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541998050052309 |
-| Players | 13/24 |
+| Players | 23/24 |
 | Host Name | Sunflower |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 20:20:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541998048875843 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Cheris Lee |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 20:19:00 |
@@ -92,66 +92,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 18:19:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541998050342962 |
-| Players | 6/8 |
-| Host Name | kvch |
+| Lobby ID | 28541998051561466 |
+| Players | 8/10 |
+| Host Name | lockdwn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 20:20:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541998050295797 |
-| Players | 1/15 |
-| Host Name | Da Butchar |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 20:20:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541998050059935 |
-| Players | 3/24 |
-| Host Name | Spongebob |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 20:20:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541998049947603 |
-| Players | 10/15 |
-| Host Name | 星十字の騎士 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 20:20:00 |
+| Lobby Creation Time | Friday, December 1, 2023 20:21:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541998048611876 |
-| Players | 7/8 |
-| Host Name | 克里斯佩尔 |
+| Lobby ID | 28541998051832999 |
+| Players | 1/8 |
+| Host Name | СынЮрка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 20:18:45 |
+| Lobby Creation Time | Friday, December 1, 2023 20:21:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541998050658549 |
-| Players | 4/10 |
-| Host Name | Waster |
+| Lobby ID | 28541998051907197 |
+| Players | 4/8 |
+| Host Name | Eza |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 20:21:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541998052085329 |
+| Players | 2/15 |
+| Host Name | ВлажDick |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 20:20:40 |
+| Lobby Creation Time | Friday, December 1, 2023 20:21:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541998052101835 |
+| Players | 4/8 |
+| Host Name | Spella na Shehi ne fashta veche |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 20:21:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541998050852958 |
+| Lobby ID | 28541998051796253 |
 | Players | 1/10 |
-| Host Name | Haiya |
+| Host Name | Ghee |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 20:20:50 |
+| Lobby Creation Time | Friday, December 1, 2023 20:21:42 |
 
 
