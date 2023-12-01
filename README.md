@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997846978415 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | 全年无休游廊 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 15:54:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997850324581 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | hllrser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:01:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997848413661 |
-| Players | 7/24 |
+| Players | 18/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:57:17 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997845978708 |
 | Players | 3/15 |
-| Host Name | Papi Champaño |
+| Host Name | Nino |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 15:52:08 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:33:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997850231242 |
-| Players | 11/15 |
-| Host Name | mr beast |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:01:05 |
+| Lobby ID | 28541997850764746 |
+| Players | 4/8 |
+| Host Name | ocean |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 16:02:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -69,17 +69,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997848269959 |
 | Players | 9/10 |
-| Host Name | QWASZX |
+| Host Name | Baba Yaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:56:59 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28541997850631415 |
-| Players | 1/7 |
-| Host Name | TochnoNEPepega |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 16:01:54 |
 
 
