@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997634080919 |
-| Players | 7/10 |
-| Host Name | absolute |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 08:51:56 |
+| Lobby ID | 28541997635283024 |
+| Players | 1/10 |
+| Host Name | CAMILA :3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 08:54:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,40 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:52:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997635028212 |
-| Players | 1/15 |
-| Host Name | Xavidra |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 08:53:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997635255976 |
-| Players | 3/8 |
-| Host Name | Wisman |
+| Lobby ID | 28541997635312513 |
+| Players | 2/8 |
+| Host Name | Titanma |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:54:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997635283024 |
-| Players | 1/10 |
-| Host Name | CAMILA :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:54:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997632381928 |
-| Players | 9/10 |
-| Host Name | o0o "CAPTAIN BERSERK" o0o ™ |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 1, 2023 08:48:21 |
+| Lobby Creation Time | Friday, December 1, 2023 08:54:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541997635195043 |
-| Players | 1/7 |
-| Host Name | Nill Kiggers |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 08:54:18 |
 
 
