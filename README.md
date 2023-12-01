@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997648732401 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | zoo enjoyer #animals |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:23:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997649030460 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NO. |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997649132834 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | eooooooooooooooooo |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 09:24:42 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ReX |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:18:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997649928344 |
-| Players | 1/5 |
-| Host Name | Yui1is |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 09:26:21 |
 
 
