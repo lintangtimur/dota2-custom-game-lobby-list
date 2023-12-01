@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997779329028 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 【༺𒋲✶...LombriS...✶༺ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:43:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997781171616 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:47:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997779710791 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | morpheenee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:44:42 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997782602421 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 110 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:50:06 |
