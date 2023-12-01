@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:56:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997665438479 |
-| Players | 6/8 |
-| Host Name | benitocamitroncote |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:57:28 |
+| Lobby ID | 28541997666139540 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:58:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997665524736 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:38 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:58:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997666127741 |
-| Players | 3/8 |
-| Host Name | sayat0ri |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:58:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997666139540 |
-| Players | 3/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 09:58:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997666170728 |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:58:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997666431611 |
+| Players | 1/5 |
+| Host Name | Смерть от СОЛИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 09:59:24 |
 
 
