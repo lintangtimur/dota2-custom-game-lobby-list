@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997736054729 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Rene RV- |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:18:46 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997737874990 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:22:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997738414596 |
-| Players | 13/15 |
-| Host Name | The Flag is Raised |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:23:20 |
+| Lobby ID | 28541997738908263 |
+| Players | 8/10 |
+| Host Name | Yamil :D |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:24:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997738223103 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Serenity |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 12:22:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997738681815 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:23:51 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:24:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997738908263 |
-| Players | 5/10 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:24:17 |
 
 
 |  | epic_boss_fight_nightmare |
