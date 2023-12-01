@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:52:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997720840872 |
-| Players | 23/24 |
-| Host Name | FB🦃 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:49:11 |
+| Lobby ID | 28541997724933938 |
+| Players | 4/15 |
+| Host Name | immortal blessed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:57:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997724475848 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Rinor Pantera |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:56:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997724634102 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♣Reαℓ[G4]ℓife♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:56:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997724581475 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Leo <3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:56:33 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Z |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:56:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997724883709 |
-| Players | 2/8 |
-| Host Name | qU1Ts |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 11:57:08 |
 
 
 |  | epic_boss_fight_nightmare |
