@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997689718679 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | PechitoDeGato |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:45:21 |
@@ -47,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997690473209 |
-| Players | 1/15 |
-| Host Name | poopman (FORTNITE) |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:46:52 |
+| Lobby ID | 28541997690507594 |
+| Players | 1/10 |
+| Host Name | EMANS |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:46:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997690547999 |
+| Players | 1/8 |
+| Host Name | La realeza de los andes |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:47:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997690574974 |
+| Players | 1/8 |
+| Host Name | cockygod |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:47:04 |
 
 
 |  | epic_boss_fight_nightmare |
