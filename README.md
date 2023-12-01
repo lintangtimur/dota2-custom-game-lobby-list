@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781779612 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:48:34 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781768502 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ttao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:48:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997778271387 |
-| Players | 23/24 |
-| Host Name | Envy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:41:59 |
 
 
 |  | epic_boss_fight_nightmare |
