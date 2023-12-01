@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997702149201 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:11:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997700782533 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:08:37 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:04:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997701584352 |
-| Players | 7/8 |
-| Host Name | fackig loser lol(proebal jiZn))) |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 11:10:21 |
+| Lobby ID | 28541997702879885 |
+| Players | 2/15 |
+| Host Name | Little BirD |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:13:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:12:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997702879885 |
-| Players | 1/15 |
-| Host Name | Little BirD |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:13:06 |
 
 
 |  | epic_boss_fight_challenger |
