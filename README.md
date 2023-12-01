@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997754341189 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Enzo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:54:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997756454058 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:58:16 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751375887 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Aquagio |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997756807751 |
-| Players | 1/15 |
-| Host Name | ————————— |
-| Region | PWUNICOM |
-| Lobby Creation Time | Friday, December 1, 2023 12:58:58 |
+| Lobby ID | 28541997756885238 |
+| Players | 1/24 |
+| Host Name | Wapo16 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:59:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997756818295 |
-| Players | 6/8 |
-| Host Name | Splinter |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:59:00 |
+| Lobby ID | 28541997756857214 |
+| Players | 1/8 |
+| Host Name | Отдамся за шаурму |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 12:58:04 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28541997756863989 |
+| Players | 1/5 |
+| Host Name | things to d0 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 12:59:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997756807638 |
+| Lobby ID | 28541997756878975 |
 | Players | 1/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:58:58 |
+| Lobby Creation Time | Friday, December 1, 2023 12:59:07 |
 
 
