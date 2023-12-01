@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997839826154 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:38:50 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MARY JANE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:41:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997840158991 |
+| Players | 14/15 |
+| Host Name | Y_Tus_Skins? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 15:39:33 |
 
 
 |  | epic_boss_fight_normal |
