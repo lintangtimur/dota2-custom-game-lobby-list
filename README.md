@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997726849183 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Darphet |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:01:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997725185226 |
-| Players | 7/8 |
-| Host Name | Дима |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:57:44 |
+| Lobby ID | 28541997726823610 |
+| Players | 2/15 |
+| Host Name | Zero Two |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 12:00:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997726991261 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | It's ok I just need a break |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:01:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997726823610 |
-| Players | 1/15 |
-| Host Name | Zero Two |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 12:00:57 |
 
 
 |  | epic_boss_fight_nightmare |
