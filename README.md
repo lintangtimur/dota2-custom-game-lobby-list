@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:34:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997807733843 |
-| Players | 3/8 |
-| Host Name | Infamous |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:35:04 |
+| Lobby ID | 28541997807867015 |
+| Players | 1/15 |
+| Host Name | ’Mr . Big |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 14:35:18 |
 
 
 |  | epic_boss_fight_nightmare |
