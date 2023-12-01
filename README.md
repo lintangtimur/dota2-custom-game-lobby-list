@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:30:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997712407543 |
-| Players | 1/8 |
-| Host Name | немолодой талант |
+| Lobby ID | 28541997709583935 |
+| Players | 1/24 |
+| Host Name | YDD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:32:28 |
+| Lobby Creation Time | Friday, December 1, 2023 11:26:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997709469231 |
-| Players | 6/8 |
-| Host Name | Leo <3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:26:36 |
+| Lobby ID | 28541997712641027 |
+| Players | 1/10 |
+| Host Name | batolya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:32:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997712321109 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | L |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:32:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997709583935 |
-| Players | 1/24 |
-| Host Name | YDD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:26:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997712641027 |
-| Players | 1/10 |
-| Host Name | batolya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:32:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997712725887 |
-| Players | 2/8 |
-| Host Name | Пивной поток |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:33:06 |
 
 
 |  | epic_boss_fight_nightmare |
