@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997770287050 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | BBBBBB |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:26:39 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997769775106 |
-| Players | 14/15 |
-| Host Name | Токсичный дед |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 13:25:38 |
+| Lobby ID | 28541997772276282 |
+| Players | 1/15 |
+| Host Name | Молофья |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 13:30:33 |
 
 
 |  | ot3_gardens_duo |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name |    デ ︻ ₳₭-❹❼ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:29:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997771638618 |
-| Players | 6/8 |
-| Host Name | -~=(BARON)=~- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:29:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997772098934 |
-| Players | 1/15 |
-| Host Name | Молофья |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 13:30:12 |
 
 
 |  | ot3_jungle_quintet |
