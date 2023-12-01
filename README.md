@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997698082117 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | xpratf |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997699007167 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ヴァルハラ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:04:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997696888056 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | abomination of obama's nation |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:59:50 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997698210539 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997698840709 |
-| Players | 6/10 |
-| Host Name | ♣Reαℓ[G4]ℓife♣ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:04:21 |
+| Lobby ID | 28541997700069468 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:07:03 |
 
 
 |  | ot3_gardens_duo |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997699806351 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Дима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:06:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997700138653 |
+| Players | 1/8 |
+| Host Name | Legna |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:07:12 |
 
 
 |  | epic_boss_fight_challenger |
