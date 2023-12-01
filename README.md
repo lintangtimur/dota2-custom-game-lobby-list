@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997690143321 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ебучая серая мышь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997687942873 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:41:45 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997690507594 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | EMANS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997690547999 |
-| Players | 7/8 |
-| Host Name | La realeza de los andes |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:47:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997690853372 |
-| Players | 6/15 |
-| Host Name | Caius Cosades |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:47:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | poopman (FORTNITE) |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:48:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997690853372 |
+| Players | 7/15 |
+| Host Name | Caius Cosades |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:47:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997691358140 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:48:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997691466699 |
+| Players | 1/8 |
+| Host Name | GhosTNeal |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:48:52 |
 
 
 |  | epic_boss_fight_nightmare |
