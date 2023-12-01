@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997687942873 |
-| Players | 23/24 |
-| Host Name | Disastrous Luck |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 10:41:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997692416360 |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:50:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997692652239 |
+| Players | 4/8 |
+| Host Name | Ogholito |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:51:15 |
 
 
 |  | epic_boss_fight_nightmare |
