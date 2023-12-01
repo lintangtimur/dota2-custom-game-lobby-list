@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997674857222 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ЖЕСТКИЙ ЧЕЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:15:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997674950137 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | we lost :( |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:16:07 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:15:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997674015619 |
-| Players | 9/10 |
-| Host Name | Mi pinga, Mis reglas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:14:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997674899718 |
-| Players | 3/15 |
-| Host Name | Montinha |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 10:16:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997674933944 |
-| Players | 1/24 |
-| Host Name | `hnrb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 10:16:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997675000213 |
@@ -101,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 10:16:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997675028309 |
-| Players | 2/8 |
+| Lobby ID | 28541997674899718 |
+| Players | 4/15 |
+| Host Name | Montinha |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 10:16:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997674933944 |
+| Players | 2/24 |
+| Host Name | `hnrb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:16:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997675075361 |
+| Players | 2/10 |
 | Host Name | M E T A L L I C A |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:16:17 |
+| Lobby Creation Time | Friday, December 1, 2023 10:16:22 |
 
 
 |  | epic_boss_fight_nightmare |
