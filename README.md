@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997653282372 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Es un Elissir xD |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:33:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997653764253 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | ndehaZzgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:34:11 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997652961748 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | 耶罗 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:32:32 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997654284260 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:35:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997654331588 |
+| Players | 2/24 |
+| Host Name | CauKie |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 09:35:20 |
 
 
 |  | epic_boss_fight_nightmare |
