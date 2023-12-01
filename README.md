@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997829084115 |
-| Players | 9/10 |
-| Host Name | ЛЕША НА КОЛЕНИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:19 |
+| Lobby ID | 28541997829291801 |
+| Players | 1/8 |
+| Host Name | Sad Clown((( |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 1, 2023 15:15:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997828907095 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:14:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997829172372 |
-| Players | 1/10 |
-| Host Name | :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | He'ershingenmosiken |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 15:15:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997829291801 |
-| Players | 1/8 |
-| Host Name | Sad Clown((( |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 15:15:46 |
 
 
 |  | epic_boss_fight_nightmare |
