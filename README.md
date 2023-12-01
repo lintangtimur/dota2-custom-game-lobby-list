@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997736054729 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | //**aizen**// |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:18:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997736166792 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Caramelbear |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:18:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997736613491 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Yeezuss愛生 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:19:51 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997736473866 |
-| Players | 5/8 |
-| Host Name | ɪᴍᴛʜᴏʀ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 12:19:35 |
+| Lobby ID | 28541997737045335 |
+| Players | 1/8 |
+| Host Name | Poseidon |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 12:20:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997736787609 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:20:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997737045335 |
-| Players | 1/8 |
-| Host Name | Poseidon |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 1, 2023 12:20:41 |
 
 
 |  | epic_boss_fight_nightmare |
