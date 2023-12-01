@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541998018743493 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | W1seClover |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 19:50:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541998015072281 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | murad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 19:46:24 |
@@ -47,55 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 19:18:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541998019334900 |
-| Players | 1/8 |
-| Host Name | Swap Commander |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 19:50:39 |
+| Lobby ID | 28541998020238229 |
+| Players | 6/15 |
+| Host Name | Uzbekistone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 19:51:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541998018126326 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Алишер наоборот |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 19:49:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541998016899725 |
-| Players | 3/10 |
-| Host Name | убер слеер |
+| Lobby ID | 28541998020695784 |
+| Players | 1/8 |
+| Host Name |  |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:48:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541998018471616 |
-| Players | 7/10 |
-| Host Name | all or nothing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:49:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541998019502985 |
-| Players | 5/15 |
-| Host Name | СРУ В КОЛЯСКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 19:50:49 |
+| Lobby Creation Time | Friday, December 1, 2023 19:51:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541998017860530 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 19:49:11 |
@@ -104,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541998014743387 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 19:46:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541998019717531 |
-| Players | 2/10 |
-| Host Name | 1010. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 19:51:01 |
 
 
