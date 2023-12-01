@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997784637943 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hokkaidu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997785055858 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Dudu |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:54:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997784515459 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
