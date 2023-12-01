@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997801369972 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | HIMARS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:24:01 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 14:25:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997799577525 |
+| Players | 14/15 |
+| Host Name | The Catcher in the Rye |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:20:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997800165857 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:21:55 |
