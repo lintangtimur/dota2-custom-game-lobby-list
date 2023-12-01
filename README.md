@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997703342505 |
-| Players | 13/15 |
-| Host Name | ElDoc |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:14:02 |
+| Lobby ID | 28541997705107025 |
+| Players | 2/10 |
+| Host Name | Never mind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:17:42 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997704389637 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:16:13 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:16:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997705107025 |
-| Players | 2/10 |
-| Host Name | Never mind |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:17:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997704641772 |
-| Players | 7/8 |
-| Host Name | SCP |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:16:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997705331801 |
-| Players | 1/15 |
-| Host Name | meeto meeto meeto :3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:18:10 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28541997703325180 |
@@ -95,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997703069653 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Dumb |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 1, 2023 11:13:30 |
