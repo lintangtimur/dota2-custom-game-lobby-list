@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997845978708 |
 | Players | 2/15 |
-| Host Name | Nino |
+| Host Name | Papi Champaño |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 15:52:08 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997876001948 |
-| Players | 10/24 |
+| Players | 7/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:48:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997881649905 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 16:57:10 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 16:24:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997882636445 |
-| Players | 2/15 |
-| Host Name | Sho Par |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 16:58:40 |
+| Lobby ID | 28541997884666347 |
+| Players | 7/8 |
+| Host Name | Титикака |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 17:01:41 |
 
 
 |  | ot3_desert_octet |
@@ -56,37 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 16:59:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997882944242 |
-| Players | 9/10 |
-| Host Name | ビアパンダbeer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 16:59:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997883786814 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | КамаЗик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 17:00:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997884149047 |
-| Players | 1/8 |
-| Host Name | Verrück |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 17:00:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997883271958 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 16:59:37 |
