@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997710097456 |
-| Players | 1/10 |
-| Host Name | Kj.The Arkham Knight |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:27:53 |
+| Lobby ID | 28541997711202596 |
+| Players | 2/10 |
+| Host Name | Z |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:30:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997710150543 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:59 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:26:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997711202596 |
-| Players | 1/10 |
-| Host Name | Z |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:30:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997705136513 |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997709694861 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | oppixoppixfruit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:27:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997710516109 |
-| Players | 1/5 |
-| Host Name |  Real_Ratface  |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:28:43 |
 
 
