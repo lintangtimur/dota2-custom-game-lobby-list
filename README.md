@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997679957974 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Ringo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:25:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997679888626 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | 埃里克约瑟夫 D'ČAMÏLÀ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:25:51 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | You Killed Kenny! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:27:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997680723068 |
+| Players | 1/24 |
+| Host Name | dongu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 10:27:29 |
 
 
 |  | epic_boss_fight_nightmare |
