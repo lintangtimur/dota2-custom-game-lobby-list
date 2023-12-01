@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:27:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997709534433 |
-| Players | 4/8 |
-| Host Name | AkiKo Annaisha kim Sung |
+| Lobby ID | 28541997710097456 |
+| Players | 4/10 |
+| Host Name | Spire |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:26:44 |
+| Lobby Creation Time | Friday, December 1, 2023 11:27:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997707974976 |
-| Players | 14/15 |
-| Host Name | nthg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 11:23:34 |
+| Lobby ID | 28541997710150543 |
+| Players | 1/24 |
+| Host Name | MAIDERINO |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:27:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997709148891 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Incognito |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:25:57 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:26:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997709620731 |
-| Players | 1/8 |
-| Host Name | otro gato ..miau miau |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 1, 2023 11:26:55 |
+| Lobby ID | 28541997710036713 |
+| Players | 1/10 |
+| Host Name | Licht |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:27:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997710071669 |
+| Players | 4/24 |
+| Host Name | Vernedomo |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:27:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997710170455 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:28:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997705136513 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:17:46 |
