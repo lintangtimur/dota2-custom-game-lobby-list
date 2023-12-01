@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997692761036 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | γηΩσ/בר-אבא |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:51:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997693276449 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | denilson |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 10:52:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997692416360 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:50:47 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Prisionero lindo lindo |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 10:51:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997693985526 |
+| Players | 1/8 |
+| Host Name | я бейби мело |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:53:57 |
 
 
 |  | epic_boss_fight_nightmare |
