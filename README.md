@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997672953369 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:12:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997667147393 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Daddy Chill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:00:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997667383882 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ArcaN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:01:17 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997669921172 |
-| Players | 2/15 |
-| Host Name | Kirtaph |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 1, 2023 10:06:15 |
+| Lobby ID | 28541997674141923 |
+| Players | 1/15 |
+| Host Name | DOOM SURFER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 10:14:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997673466045 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | KG-Toma Para Que Me Respetes |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:13:14 |
