@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997761301631 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Cabbit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:08:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997762369044 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:10:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751375887 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Aquagio |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997759154868 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 13:04:07 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:10:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997762954205 |
+| Players | 1/15 |
+| Host Name | Hello Daddy! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:12:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997761355063 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | XBogoVIX |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 13:08:44 |
@@ -104,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997761503413 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Anonymousthetic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:09:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997762870441 |
-| Players | 2/5 |
-| Host Name | KOMANG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:11:51 |
 
 
