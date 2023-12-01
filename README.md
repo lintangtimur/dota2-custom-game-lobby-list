@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997642093414 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:09:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642727562 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Bubbles |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 09:11:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642792462 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | melke |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:11:15 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997642820762 |
+| Lobby ID | 28541997642892666 |
 | Players | 1/8 |
-| Host Name | Tsumi wo chirasu nara |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:11:19 |
+| Host Name | YEs |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 1, 2023 09:11:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997642919405 |
+| Players | 1/10 |
+| Host Name | worst player |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 09:11:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997642506784 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | existengularity |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997642912218 |
+| Players | 1/10 |
+| Host Name | Como Tan Muchacho |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 09:11:31 |
 
 
