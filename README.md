@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 08:46:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997632211122 |
-| Players | 2/8 |
-| Host Name | YEs |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 08:47:59 |
+| Lobby ID | 28541997632271959 |
+| Players | 2/15 |
+| Host Name | Recep Tayyip Erdoğan |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 08:48:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:47:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997632271959 |
-| Players | 1/15 |
-| Host Name | Recep Tayyip Erdoğan |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 08:48:07 |
 
 
