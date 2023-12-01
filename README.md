@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:08:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997700726401 |
-| Players | 7/8 |
-| Host Name | Swap commend |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:08:29 |
+| Lobby ID | 28541997701529968 |
+| Players | 7/10 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:10:14 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997700250439 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | EL PERRO JUDIO |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:07:27 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997701424411 |
-| Players | 4/8 |
-| Host Name | ELCHEFOSOR. twitch y tiktok live |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:10:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997701529968 |
-| Players | 6/10 |
-| Host Name | Mr.Lulu^^ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:10:14 |
+| Lobby ID | 28541997701584352 |
+| Players | 1/8 |
+| Host Name | 死亡 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 11:10:21 |
 
 
 |  | epic_boss_fight_challenger |
