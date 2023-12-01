@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997716778051 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:41:05 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:48:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997720624029 |
-| Players | 1/15 |
-| Host Name | surdo_kariz.16 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:48:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997720639322 |
@@ -72,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:48:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997720840872 |
+| Players | 1/24 |
+| Host Name | FB🦃 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:49:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997720923331 |
+| Players | 1/15 |
+| Host Name | surdo_kariz.16 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:49:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997720146456 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:47:47 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28541997720873335 |
+| Players | 1/7 |
+| Host Name | Teletambis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 11:49:15 |
 
 
