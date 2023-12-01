@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997795006683 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | TheRealBubmels |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:12:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997793808062 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:10:36 |
