@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997690143321 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ебучая серая мышь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:46:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997689862649 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Камиль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 10:45:38 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997690853372 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Caius Cosades |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997691194340 |
-| Players | 1/8 |
-| Host Name | TE PEGO COMO TU VIEJO |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 1, 2023 10:48:19 |
+| Lobby ID | 28541997691277131 |
+| Players | 3/15 |
+| Host Name | poopman (FORTNITE) |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 10:48:29 |
 
 
 |  | epic_boss_fight_nightmare |
