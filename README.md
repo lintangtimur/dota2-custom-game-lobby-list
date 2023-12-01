@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997754185565 |
-| Players | 6/8 |
-| Host Name | Aker- |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 12:53:50 |
+| Lobby ID | 28541997755784448 |
+| Players | 4/8 |
+| Host Name | ormashkaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 12:56:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997754341189 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Enzo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 12:54:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997755249480 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | СуньВынь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 12:55:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997751375887 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Aquagio |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 1, 2023 12:48:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997755439959 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | BARCO CAMARONERO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 12:56:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997755455113 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | spirit animal mauled me to death |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 12:56:18 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997755784448 |
-| Players | 2/8 |
-| Host Name | ormashkaa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 12:56:57 |
+| Lobby ID | 28541997756070474 |
+| Players | 6/8 |
+| Host Name | PEPEMANCHE |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 12:57:31 |
 
 
 |  | epic_boss_fight_nightmare |
