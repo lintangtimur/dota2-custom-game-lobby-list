@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997811946573 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Dᴀᴍᴇ Dᴀᴍᴇ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:42:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997809328160 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:37:51 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997812940078 |
-| Players | 2/8 |
-| Host Name | MOTOMAMI |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:44:07 |
+| Lobby ID | 28541997813477672 |
+| Players | 1/8 |
+| Host Name | Casa Matusita Lujan Carrion |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 14:45:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Corroz1on |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 14:44:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997813525637 |
+| Players | 1/10 |
+| Host Name | MOTOMAMI |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 14:45:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:44:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28541997813366169 |
-| Players | 2/5 |
-| Host Name | я просто ёбнутый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:44:51 |
 
 
