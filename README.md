@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997809551420 |
-| Players | 23/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 14:38:14 |
+| Lobby ID | 28541997811605252 |
+| Players | 1/8 |
+| Host Name | Casa Matusita Lujan Carrion |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 1, 2023 14:41:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997810134222 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | MRRAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:39:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997802987032 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 14:26:49 |
@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997811120045 |
-| Players | 1/8 |
-| Host Name | Casa Matusita Lujan Carrion |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 14:40:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997810751299 |
-| Players | 1/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 14:40:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28541997811082069 |
 | Players | 2/8 |
 | Host Name | gdzie jest mój kask |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 14:40:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997811712535 |
+| Players | 3/8 |
+| Host Name | amням кэжуалс-_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:42:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28541997811482952 |
-| Players | 1/10 |
-| Host Name | Gintoki |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 14:41:37 |
+| Lobby ID | 28541997811518920 |
+| Players | 2/10 |
+| Host Name | бот-хантер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:41:40 |
 
 
