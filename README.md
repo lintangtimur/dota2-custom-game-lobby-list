@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997713557998 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:34:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997715562850 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | R-G |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:38:42 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997713711566 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ебанат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:35:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997714622520 |
-| Players | 9/10 |
-| Host Name | MR.DEAD |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:36:51 |
+| Lobby ID | 28541997715812668 |
+| Players | 4/15 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 11:39:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997715812668 |
-| Players | 3/15 |
-| Host Name | Aggressive Koala |
+| Lobby ID | 28541997715845016 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:39:11 |
+| Lobby Creation Time | Friday, December 1, 2023 11:39:15 |
 
 
 |  | epic_boss_fight_nightmare |
