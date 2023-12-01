@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997825803034 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:08:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997828084880 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 死ね！ FAIL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:13:07 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 15:12:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997826550535 |
-| Players | 14/15 |
-| Host Name | Barikkel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:09:42 |
+| Lobby ID | 28541997828182711 |
+| Players | 1/8 |
+| Host Name | depko13 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 15:13:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997826643173 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
