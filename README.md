@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997631700646 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Future |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 08:46:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997632552534 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997632792437 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Princesa Yogurt Helado |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:49:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997632525904 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | soy serrano, y que? |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 08:48:39 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997633156761 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | yra pobeda |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 08:49:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997633238282 |
-| Players | 4/8 |
-| Host Name | JIREN CONDORI |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 08:50:09 |
+| Lobby ID | 28541997633251462 |
+| Players | 2/10 |
+| Host Name | Young Hokage |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 08:50:11 |
 
 
 |  | epic_boss_fight_nightmare |
