@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997784637943 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Hokkaidu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997783144557 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | MC Boss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:51:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997781779612 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:48:34 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997784053588 |
+| Lobby ID | 28541997784515459 |
 | Players | 1/10 |
-| Host Name | creative |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 1, 2023 13:52:46 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
 
 
 |  | ot3_gardens_duo |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:53:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997784485648 |
-| Players | 2/8 |
-| Host Name | Fadmon |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:53:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997784515459 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:53:38 |
 
 
