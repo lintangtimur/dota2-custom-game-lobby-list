@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997769775106 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Токсичный дед |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 13:25:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997770839233 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ЮвЕлИр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:27:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997770287050 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | BBBBBB |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 13:26:39 |
