@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997783144557 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | MC Boss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 13:51:06 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997784397689 |
+| Lobby ID | 28541997784485648 |
 | Players | 1/8 |
 | Host Name | Fadmon |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 13:53:25 |
+| Lobby Creation Time | Friday, December 1, 2023 13:53:34 |
 
 
