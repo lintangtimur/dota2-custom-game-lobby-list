@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541997816978893 |
-| Players | 6/8 |
-| Host Name | Aomine Daiki |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 1, 2023 14:51:05 |
+| Lobby ID | 28541997815149768 |
+| Players | 8/24 |
+| Host Name | Ntz.Galford.24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 14:47:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997816234660 |
-| Players | 11/15 |
-| Host Name | sextasy |
+| Lobby ID | 28541997815775880 |
+| Players | 7/10 |
+| Host Name | ЮвЕлИр |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 14:49:48 |
+| Lobby Creation Time | Friday, December 1, 2023 14:49:01 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997809328160 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 14:37:51 |
@@ -50,18 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997816864885 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | stop war mf |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 14:50:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997815149768 |
-| Players | 5/24 |
-| Host Name | Ntz.Galford.24 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 14:47:54 |
+| Lobby ID | 28541997818062882 |
+| Players | 1/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:52:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997818115307 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 1, 2023 14:53:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997817821273 |
+| Players | 2/10 |
+| Host Name | Яспер Моглот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 14:52:33 |
 
 
