@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997829405121 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:16:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997837235953 |
-| Players | 10/15 |
-| Host Name | grind2021 |
+| Lobby ID | 28541997837345520 |
+| Players | 6/10 |
+| Host Name | витаминка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:33:14 |
+| Lobby Creation Time | Friday, December 1, 2023 15:33:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997816514928 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 14:50:17 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Willl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 15:33:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997837345520 |
-| Players | 6/10 |
-| Host Name | витаминка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 15:33:28 |
 
 
 |  | epic_boss_fight_normal |
