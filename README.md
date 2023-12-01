@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997691358140 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:48:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997690688673 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:47:18 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997642401680 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:10:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997691756392 |
-| Players | 22/24 |
-| Host Name | Aiimer |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:49:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997692416360 |
-| Players | 1/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:50:47 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:41:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997692416360 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:50:47 |
 
 
 |  | epic_boss_fight_nightmare |
