@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997831499300 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:20:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997831159312 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ✪ Chop Is Dish |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 15:19:54 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997826643173 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | necro |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 1, 2023 15:09:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28541997831783489 |
+| Players | 1/10 |
+| Host Name | 極樂蝶 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 15:21:17 |
 
 
