@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997776101069 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Republica independiente de Arequ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:37:53 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997778271387 |
+| Players | 1/24 |
+| Host Name | Envy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 1, 2023 13:41:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997775326757 |
-| Players | 6/8 |
-| Host Name | El niño guerrero |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 13:36:25 |
+| Lobby ID | 28541997778283442 |
+| Players | 1/8 |
+| Host Name | > Алекситимия < |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:42:00 |
 
 
 |  | epic_boss_fight_nightmare |
