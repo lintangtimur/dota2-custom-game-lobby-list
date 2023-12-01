@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 13:21:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997775633384 |
-| Players | 21/24 |
-| Host Name | xo♥ASR♥xo(Komizar) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:37:00 |
+| Lobby ID | 28541997777533928 |
+| Players | 2/15 |
+| Host Name | lovely liar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 13:40:36 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997777627462 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | æ Haku æ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:40:46 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997775326757 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El niño guerrero |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 13:36:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28541997777533928 |
-| Players | 1/15 |
-| Host Name | gwinya |
+| Lobby ID | 28541997777884565 |
+| Players | 1/5 |
+| Host Name | MPA3Ь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 1, 2023 13:40:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28541997776569373 |
-| Players | 9/10 |
-| Host Name | NightBoomer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 13:38:46 |
+| Lobby Creation Time | Friday, December 1, 2023 13:41:15 |
 
 
 |  | epic_boss_fight_nightmare |
