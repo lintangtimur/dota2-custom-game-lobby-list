@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541997709492377 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:26:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997709148891 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Incognito |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:25:57 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spire |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 11:26:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28541997707669203 |
+| Players | 7/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:22:57 |
 
 
 |  | epic_boss_fight_nightmare |
