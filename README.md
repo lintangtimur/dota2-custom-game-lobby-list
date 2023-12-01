@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28541997714622520 |
-| Players | 8/10 |
-| Host Name | MR.DEAD |
+| Lobby ID | 28541997716171687 |
+| Players | 2/8 |
+| Host Name | AVENA 3 URSITAS |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:36:51 |
+| Lobby Creation Time | Friday, December 1, 2023 11:39:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997715248208 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Arthemidas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:38:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997715562850 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | R-G |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:38:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997715812668 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:39:11 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cever |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 1, 2023 11:39:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997716171687 |
-| Players | 1/8 |
-| Host Name | AVENA 3 URSITAS |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:39:53 |
 
 
 |  | epic_boss_fight_nightmare |
