@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997668614288 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Overlord Bagnose |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 10:03:42 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28541997670174561 |
 | Players | 2/15 |
-| Host Name | Who cares? |
+| Host Name | Pivo Power |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 10:06:45 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997670679516 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:07:45 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Es un Elissir xD |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 10:07:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28541997669061819 |
+| Players | 23/24 |
+| Host Name | Aiimer |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 10:04:34 |
 
 
 |  | epic_boss_fight_nightmare |
