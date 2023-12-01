@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997665350397 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | nvxe |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997665574338 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Ringo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997665438479 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541997665563012 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 09:57:42 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 09:58:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997666247663 |
-| Players | 4/8 |
-| Host Name | FaVi _ Fri |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 09:59:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28541997666170728 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 09:58:53 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28541997666250546 |
-| Players | 1/7 |
-| Host Name | Ricardo |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 09:59:03 |
 
 
