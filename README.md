@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:02:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541997697165647 |
-| Players | 6/8 |
-| Host Name | ABRIL |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 1, 2023 11:00:32 |
+| Lobby ID | 28541997698106841 |
+| Players | 3/10 |
+| Host Name | KO 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:02:44 |
 
 
 |  | ot3_desert_octet |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997698012500 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28541997696677985 |
-| Players | 21/24 |
-| Host Name | WilifWilofWilai |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 10:59:24 |
+| Lobby ID | 28541997698210539 |
+| Players | 4/15 |
+| Host Name | UnLuucky |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 1, 2023 11:02:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xpratf |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 11:02:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997698106841 |
-| Players | 2/10 |
-| Host Name | KO 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:02:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28541997697992180 |
-| Players | 2/8 |
-| Host Name | If I lose I'll spit on you |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:02:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28541997698210539 |
-| Players | 3/15 |
-| Host Name | UnLuucky |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 1, 2023 11:02:58 |
 
 
 |  | epic_boss_fight_nightmare |
