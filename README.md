@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997716778051 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Bad Karma |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 1, 2023 11:41:05 |
@@ -38,28 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 11:35:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28541997715740381 |
-| Players | 9/10 |
-| Host Name | Casa de Saga de Géminis |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:39:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28541997715562850 |
-| Players | 23/24 |
-| Host Name | R-G |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 1, 2023 11:38:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541997715845016 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 11:39:15 |
@@ -72,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mentos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 11:41:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541997717061597 |
+| Players | 5/15 |
+| Host Name | Денис Мацуев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 11:41:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997717093577 |
+| Players | 1/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:41:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28541997715740381 |
+| Players | 9/10 |
+| Host Name | Casa de Saga de Géminis |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 1, 2023 11:39:02 |
 
 
 |  | epic_boss_fight_nightmare |
