@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541998048457203 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | CAPEDBALDY |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 20:18:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28541998047931455 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | we A |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 1, 2023 20:18:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28541998048611876 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | 克里斯佩尔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 1, 2023 20:18:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28541998048875843 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | NOT AFRAID |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 1, 2023 20:19:00 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28541997939829165 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | AnGlz__Strike |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 1, 2023 18:19:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28541998048849726 |
-| Players | 1/15 |
-| Host Name | Murmaider |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, December 1, 2023 20:18:58 |
+| Lobby ID | 28541998049068921 |
+| Players | 8/10 |
+| Host Name | NiF |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 1, 2023 20:19:11 |
 
 
 |  | ot3_gardens_duo |
@@ -110,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 1, 2023 20:19:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28541998048131129 |
-| Players | 3/10 |
-| Host Name | Roadside Stone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 1, 2023 20:18:18 |
+| Lobby ID | 28541998049009441 |
+| Players | 2/24 |
+| Host Name | NARBERAL GAMA |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 1, 2023 20:19:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28541998049947603 |
+| Players | 1/15 |
+| Host Name | 星十字の騎士 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 1, 2023 20:20:00 |
 
 
