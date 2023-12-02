@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001864617489 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 19:54:33 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001843877541 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 19:35:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001866030344 |
-| Players | 2/10 |
-| Host Name | Livin live with no regret |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:55:47 |
+| Lobby ID | 28546001866450394 |
+| Players | 1/24 |
+| Host Name | Don't Touch My Ass |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:56:09 |
 
 
 |  | ot3_desert_octet |
@@ -83,12 +83,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 19:55:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001862206031 |
-| Players | 8/10 |
-| Host Name | drei |
+| Lobby ID | 28546001866261170 |
+| Players | 5/8 |
+| Host Name | Giyuu Tomioka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 19:55:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001866283380 |
+| Players | 7/15 |
+| Host Name | FULL MOON |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:56:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001850109076 |
+| Players | 5/8 |
+| Host Name | Hi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 19:52:24 |
+| Lobby Creation Time | Saturday, December 2, 2023 19:41:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001866454274 |
+| Players | 6/8 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 19:56:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001866670671 |
+| Players | 3/8 |
+| Host Name | БУРАГЕРА |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:56:21 |
 
 
