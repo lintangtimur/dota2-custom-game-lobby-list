@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001647347720 |
-| Players | 9/24 |
+| Players | 19/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 2, 2023 15:55:33 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001651350997 |
-| Players | 4/10 |
-| Host Name | Abominigatious |
+| Lobby ID | 28546001651753169 |
+| Players | 3/10 |
+| Host Name | N33 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:00:28 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:00:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001651670825 |
-| Players | 1/24 |
-| Host Name | ILP |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 16:00:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001651692807 |
-| Players | 1/24 |
-| Host Name | Backi |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 2, 2023 16:00:54 |
+| Lobby ID | 28546001651715468 |
+| Players | 7/8 |
+| Host Name | У MEНЯ TOЖE ECTЬ ПTИЧKИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:00:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001649214411 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | crazy362 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:57:52 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001651233969 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:00:20 |
