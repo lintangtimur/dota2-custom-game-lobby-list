@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001646235612 |
-| Players | 2/24 |
-| Host Name | ุexw_onoma |
+| Players | 1/24 |
+| Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 15:54:11 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001646748691 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 15:54:49 |
@@ -58,38 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001647551067 |
-| Players | 7/10 |
-| Host Name | torpKL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:55:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001647535552 |
-| Players | 2/15 |
-| Host Name | Силиконовая Кося |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:55:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28546001647658714 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | gokirus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:55:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001647660789 |
-| Players | 1/8 |
-| Host Name | бос |
+| Lobby ID | 28546001647535552 |
+| Players | 7/15 |
+| Host Name | Силиконовая Кося |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:55:56 |
+| Lobby Creation Time | Saturday, December 2, 2023 15:55:47 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546001644640832 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Robert |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546001647946247 |
+| Players | 1/5 |
+| Host Name | Urok_One |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 15:56:18 |
 
 
