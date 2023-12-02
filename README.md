@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002338415655 |
-| Players | 5/10 |
-| Host Name | forgive me for all my sins... |
+| Lobby ID | 28546002338613212 |
+| Players | 6/8 |
+| Host Name | Hase |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 03:36:53 |
+| Lobby Creation Time | Sunday, December 3, 2023 03:37:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002338377436 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | OneDap |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 03:36:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002338227852 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | a-L0ne?幸せ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:36:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002337797361 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Se perdió mi ilusión |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:36:06 |
@@ -119,10 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 03:36:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002338662886 |
+| Players | 5/15 |
+| Host Name | смэк май битч ап |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:37:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002338665304 |
+| Players | 1/8 |
+| Host Name | ghoul.1000-7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:37:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002336148026 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | IceWallowCome.com |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 03:34:02 |
@@ -149,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546002337821383 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Monkey D Luffy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 03:36:08 |
