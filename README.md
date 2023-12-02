@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001663407710 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 16:15:24 |
@@ -32,28 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001645192698 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | abnm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001665239649 |
-| Players | 7/10 |
-| Host Name | yeap |
+| Lobby ID | 28546001665547319 |
+| Players | 6/15 |
+| Host Name | Adskii |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:17:41 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:18:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001665343057 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Nikonsooon(kd 0.1) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:17:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001665712229 |
+| Players | 1/8 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:18:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001665742146 |
+| Players | 3/10 |
+| Host Name | Divine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:18:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I ATE NOTHING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:12:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001665526763 |
+| Players | 1/10 |
+| Host Name | Чумной_Док |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:18:03 |
 
 
