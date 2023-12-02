@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001678648472 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | CHEburaska |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:34:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001679570630 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | PartofmyW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:35:26 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001679632709 |
-| Players | 10/15 |
-| Host Name | пися большая228 |
+| Lobby ID | 28546001680502475 |
+| Players | 2/15 |
+| Host Name | `Axon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:35:31 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:36:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001679370037 |
-| Players | 18/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 16:35:12 |
+| Lobby ID | 28546001680631297 |
+| Players | 5/10 |
+| Host Name | ЕБАДОЛБ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:36:45 |
 
 
 |  | ot3_gardens_duo |
@@ -92,48 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 16:35:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001680214836 |
-| Players | 2/8 |
-| Host Name | invite me to a party |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 16:36:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546001676623177 |
-| Players | 1/5 |
-| Host Name | deniz |
+| Lobby ID | 28546001680491204 |
+| Players | 12/15 |
+| Host Name | mr beast |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:31:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001678674195 |
-| Players | 1/10 |
-| Host Name | mrllano |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 16:34:20 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:36:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001678039634 |
-| Players | 4/10 |
-| Host Name | YangYang |
+| Players | 1/10 |
+| Host Name | Code X |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 2, 2023 16:33:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546001680221126 |
-| Players | 1/10 |
-| Host Name | Тенгу-Шреддер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:36:15 |
+| Lobby ID | 28546001678674195 |
+| Players | 5/10 |
+| Host Name | mrllano |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 16:34:20 |
 
 
