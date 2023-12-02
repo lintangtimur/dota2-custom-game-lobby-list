@@ -14,55 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001832740908 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Moica ;D |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 2, 2023 19:25:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001841696961 |
-| Players | 5/8 |
-| Host Name | A63z9Ha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:33:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001841849566 |
-| Players | 7/15 |
-| Host Name | Justin Weaver |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:34:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001839748152 |
-| Players | 14/24 |
-| Host Name | Magnus Stop~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 19:32:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001841790181 |
-| Players | 4/10 |
-| Host Name | год в каменоломне |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:34:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001841548470 |
-| Players | 2/24 |
-| Host Name | SNADY |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 19:33:51 |
 
 
 |  | ot3_gardens_duo |
@@ -74,11 +29,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 19:33:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001842237811 |
+| Players | 7/8 |
+| Host Name | 15 препаратов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 19:34:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001839748152 |
+| Players | 17/24 |
+| Host Name | Magnus Stop~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:32:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001842352587 |
+| Players | 4/15 |
+| Host Name | Sabones |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 19:34:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001841548470 |
+| Players | 1/24 |
+| Host Name | SNADY |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:33:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001842472074 |
+| Players | 4/10 |
+| Host Name | Лесничий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 19:34:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001842767967 |
+| Players | 1/10 |
+| Host Name | MaRiNhA dO BrAsIL |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, December 2, 2023 19:34:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001836308449 |
 | Players | 5/10 |
-| Host Name | Digez--- |
+| Host Name | (W)-(o-O)-(W) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 19:28:58 |
 
