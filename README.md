@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 15:24:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001747427208 |
-| Players | 5/15 |
-| Host Name | bersercer khorna |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:58:03 |
+| Lobby ID | 28546001747593448 |
+| Players | 5/10 |
+| Host Name | JIGA(happy blessed marriage) |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:58:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001747324272 |
-| Players | 3/24 |
+| Players | 15/24 |
 | Host Name | NateBulaks |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:57:56 |
@@ -50,43 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001745274849 |
-| Players | 14/24 |
-| Host Name | ym |
+| Players | 13/24 |
+| Host Name | Ouanny |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 17:55:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001747552531 |
-| Players | 1/8 |
-| Host Name | vvard3n |
+| Lobby ID | 28546001748117068 |
+| Players | 1/24 |
+| Host Name | Super Tom |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 2, 2023 17:58:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001748067020 |
+| Players | 2/15 |
+| Host Name | Leon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:58:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001747549906 |
-| Players | 1/8 |
-| Host Name | ✰НА ВАЙБЕ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 17:58:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001739211979 |
-| Players | 8/10 |
-| Host Name | 🆁🅰🆀 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 2, 2023 17:48:46 |
+| Lobby Creation Time | Saturday, December 2, 2023 17:58:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001747100951 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | @FIONA SZE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:57:41 |
