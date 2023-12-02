@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002034319153 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 22:12:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002042206533 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | RODIPIT(allmute) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 22:18:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002040468851 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | art madgest |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 22:17:31 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002039966677 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Me van a matar causa PIPIPI |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 22:17:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002041436090 |
-| Players | 8/10 |
-| Host Name | Don'tWorryBeHappY |
+| Lobby ID | 28546002042588554 |
+| Players | 1/8 |
+| Host Name | Luckyman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 22:18:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002042416641 |
-| Players | 1/10 |
-| Host Name | ♂typhoon♂ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 22:19:04 |
+| Lobby Creation Time | Saturday, December 2, 2023 22:19:13 |
 
 
 |  | epic_boss_fight_nightmare |
