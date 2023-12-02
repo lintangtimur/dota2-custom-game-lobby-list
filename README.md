@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001637001660 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 15:42:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001634953707 |
-| Players | 2/24 |
-| Host Name | Romashka |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 2, 2023 15:40:12 |
+| Lobby ID | 28546001640548909 |
+| Players | 11/15 |
+| Host Name | Vengeance |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 15:47:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001640495437 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Медвоблядь из Пскова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:47:07 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001636077015 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Cuddlies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:41:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001640548909 |
-| Players | 1/15 |
-| Host Name | Vengeance |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 15:47:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001640556136 |
-| Players | 1/15 |
-| Host Name | Ametsa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:47:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nepogreshim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:38:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001637995640 |
-| Players | 9/10 |
-| Host Name | луплю с ноги соню |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:44:02 |
 
 
