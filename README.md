@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001721078068 |
-| Players | 14/15 |
-| Host Name | pussy cleaner |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 17:27:37 |
+| Lobby ID | 28546001722253216 |
+| Players | 3/15 |
+| Host Name | абьюзер амулета |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:29:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001720173458 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Asasae |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 2, 2023 17:26:32 |
@@ -65,6 +65,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 17:28:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001722205479 |
+| Players | 3/24 |
+| Host Name | Fishoguy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:28:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001722246829 |
+| Players | 5/10 |
+| Host Name | PSG.LGBT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:29:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001717239479 |
+| Players | 14/15 |
+| Host Name | ꪶꪮꪖᦔ꠸ꪀᧁ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:22:57 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546001718301788 |
@@ -77,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001720518872 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Fleeting |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:26:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546001722386240 |
+| Players | 3/5 |
+| Host Name | takizawa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:29:11 |
 
 
