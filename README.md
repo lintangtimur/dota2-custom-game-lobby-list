@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001683317365 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | мазерати блицкриг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:40:05 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001683112382 |
-| Players | 3/8 |
-| Host Name | . |
+| Players | 7/8 |
+| Host Name | лапатасьйон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:39:50 |
 
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001682353572 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Dyoke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:38:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001683147648 |
-| Players | 11/15 |
-| Host Name | САНЁК ПИСЯТ ДВА |
+| Lobby ID | 28546001683722333 |
+| Players | 2/8 |
+| Host Name | Funny Crow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:39:53 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:40:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hated |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:38:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001678653087 |
+| Players | 9/10 |
+| Host Name | rarikrarie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 16:34:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546001683952537 |
+| Players | 2/5 |
+| Host Name | ENNLY eg |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 2, 2023 16:40:53 |
 
 
