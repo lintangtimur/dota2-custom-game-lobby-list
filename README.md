@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001550109790 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO!!! |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 13:44:58 |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001550989801 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | g a m i |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 13:46:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001552030473 |
-| Players | 7/8 |
-| Host Name | win>fun |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 2, 2023 13:47:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001551613007 |
-| Players | 1/10 |
-| Host Name | Grumbledorp |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 2, 2023 13:47:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001551156666 |
-| Players | 5/10 |
-| Host Name | GG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 13:46:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001551707799 |
-| Players | 7/15 |
-| Host Name | QPAD. RED PANDA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 13:47:13 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 13:46:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001551613007 |
+| Players | 4/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 2, 2023 13:47:05 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001551639985 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Fate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 13:47:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001552148352 |
-| Players | 1/10 |
-| Host Name | 影 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 13:47:52 |
+| Lobby ID | 28546001552876299 |
+| Players | 1/15 |
+| Host Name | MGH |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 2, 2023 13:48:54 |
 
 
 |  | epic_boss_fight_nightmare |
