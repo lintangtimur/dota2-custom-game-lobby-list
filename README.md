@@ -32,37 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001726183048 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Я СКИБИДИ ТУАЛЕТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:33:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001726171455 |
-| Players | 4/15 |
-| Host Name | daedramolagbal |
+| Lobby ID | 28546001726331944 |
+| Players | 5/10 |
+| Host Name | Everens |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:33:40 |
+| Lobby Creation Time | Saturday, December 2, 2023 17:33:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001726254873 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Яна Фидел |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:33:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001726331944 |
-| Players | 1/10 |
-| Host Name | Everens |
+| Lobby ID | 28546001725283259 |
+| Players | 7/8 |
+| Host Name | knhts |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:33:52 |
+| Lobby Creation Time | Saturday, December 2, 2023 17:32:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | пенис берсерка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:32:59 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546001726184673 |
-| Players | 1/7 |
-| Host Name | notStannis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:33:41 |
 
 
