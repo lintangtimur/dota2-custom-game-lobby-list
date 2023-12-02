@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002302494768 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | schadenfreude |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 02:53:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002301002877 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | X-ART |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 02:51:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002300569361 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | Pilɡrəm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 02:50:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002301888664 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 02:52:24 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 02:33:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002302558269 |
-| Players | 9/10 |
-| Host Name | m1m1que |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 02:53:13 |
+| Lobby ID | 28546002302934332 |
+| Players | 7/15 |
+| Host Name | Владелец Таверны |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 02:53:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002302636954 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 02:53:18 |
@@ -94,29 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002302635413 |
-| Players | 6/10 |
-| Host Name | Thawne |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 02:53:18 |
+| Lobby ID | 28546002303052391 |
+| Players | 5/10 |
+| Host Name | АХУЕННЫЙ СИГМА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 02:53:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002299822794 |
-| Players | 6/24 |
-| Host Name | $YungCuck$ |
+| Players | 3/24 |
+| Host Name | TheBrokenRobot |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 02:49:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002302339055 |
-| Players | 5/8 |
-| Host Name | XFoRoNeUsXxX |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 02:52:57 |
+| Lobby ID | 28546002303123722 |
+| Players | 2/15 |
+| Host Name | Mr Perturbado |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 02:53:54 |
 
 
 |  | ot3_gardens_duo |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 02:53:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002302724545 |
-| Players | 1/15 |
-| Host Name | новокек |
+| Lobby ID | 28546002303009179 |
+| Players | 4/8 |
+| Host Name | пт на пенис |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 02:53:25 |
+| Lobby Creation Time | Sunday, December 3, 2023 02:53:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 02:51:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002299727727 |
+| Players | 9/10 |
+| Host Name | ✪MODE BAKI |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 02:49:50 |
 
 
