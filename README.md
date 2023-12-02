@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001510660213 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Thorfinn (crop cultivator) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 12:43:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001511137704 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | zamir2v |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 12:44:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001512071559 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Say my name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 12:45:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001512680717 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Melvin-Doo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 12:46:56 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001512726446 |
-| Players | 5/8 |
-| Host Name | ll |
+| Lobby ID | 28546001513257142 |
+| Players | 1/8 |
+| Host Name | tocosh |
 | Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 12:47:00 |
+| Lobby Creation Time | Saturday, December 2, 2023 12:47:51 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 12:46:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001512773812 |
+| Players | 3/10 |
+| Host Name | ATE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 12:47:05 |
 
 
