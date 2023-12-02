@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001989396642 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 艾伦。野鸽想打篮球 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 21:37:12 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 21:37:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001987033862 |
-| Players | 1/8 |
-| Host Name | be afraid of the deadly owl |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 2, 2023 21:35:20 |
+| Lobby ID | 28546001990336450 |
+| Players | 3/10 |
+| Host Name | MANIAK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 21:37:56 |
 
 
 |  | ot3_gardens_duo |
@@ -74,31 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 21:37:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001989721067 |
-| Players | 10/15 |
-| Host Name | yokohama |
+| Lobby ID | 28546001990583331 |
+| Players | 2/24 |
+| Host Name | Скибиди батя |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 21:37:27 |
+| Lobby Creation Time | Saturday, December 2, 2023 21:38:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001989933170 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Thumper Rabbit |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 21:37:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001990336450 |
-| Players | 1/10 |
-| Host Name | MANIAK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 21:37:56 |
+| Lobby ID | 28546001990692456 |
+| Players | 2/15 |
+| Host Name | enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 21:38:13 |
 
 
 |  | epic_boss_fight_challenger |
