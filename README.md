@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002127865247 |
-| Players | 9/10 |
-| Host Name | WK |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 23:39:51 |
+| Lobby ID | 28546002129290426 |
+| Players | 6/15 |
+| Host Name | Greta Thunberg |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 23:41:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002126782352 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | kagni |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 23:38:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002128430625 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Akeno Gremory |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 23:40:26 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 23:41:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002128966135 |
-| Players | 5/8 |
-| Host Name | 22 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 23:40:58 |
+| Lobby ID | 28546002129552700 |
+| Players | 6/10 |
+| Host Name | KRICO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 23:41:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002128795604 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 爱要弹蛋蛋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 23:40:48 |
@@ -59,37 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002129238577 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | hydra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 23:41:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002129290426 |
-| Players | 4/15 |
-| Host Name | Greta Thunberg |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 23:41:18 |
+| Lobby ID | 28546002129816649 |
+| Players | 3/8 |
+| Host Name | чиф киф в афгане |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 23:41:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002129087692 |
-| Players | 9/10 |
-| Host Name | Wedness |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 23:41:06 |
+| Lobby ID | 28546002129854292 |
+| Players | 2/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 23:41:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002127588236 |
-| Players | 9/10 |
-| Host Name | Pattaya |
+| Lobby ID | 28546002129085495 |
+| Players | 2/10 |
+| Host Name | Roadside Stone |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 23:39:34 |
+| Lobby Creation Time | Saturday, December 2, 2023 23:41:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 23:36:44 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002127603792 |
-| Players | 1/5 |
-| Host Name | Виктор Петрович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 23:39:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002128844422 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 303 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 23:40:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002129085495 |
-| Players | 2/10 |
-| Host Name | Roadside Stone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 23:41:06 |
 
 
