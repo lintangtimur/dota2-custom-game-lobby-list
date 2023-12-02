@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001884603880 |
-| Players | 6/8 |
-| Host Name | sayoru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 20:11:42 |
+| Lobby ID | 28546001884782084 |
+| Players | 1/8 |
+| Host Name | ядерная бомбежка |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 20:11:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001882250961 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 20:09:42 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 19:35:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001884486514 |
-| Players | 7/10 |
-| Host Name | Happy |
+| Lobby ID | 28546001884799256 |
+| Players | 5/15 |
+| Host Name | zaharidzzzze |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 20:11:36 |
+| Lobby Creation Time | Saturday, December 2, 2023 20:11:52 |
 
 
 |  | ot3_desert_octet |
@@ -90,32 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shizoprenickid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 20:08:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001884782084 |
-| Players | 1/8 |
-| Host Name | ядерная бомбежка |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 20:11:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001884799256 |
-| Players | 2/15 |
-| Host Name | zaharidzzzze |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 20:11:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001884301421 |
-| Players | 8/10 |
-| Host Name | TONGKENG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 20:11:27 |
 
 
