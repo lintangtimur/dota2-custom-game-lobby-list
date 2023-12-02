@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 14:59:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001630260665 |
-| Players | 7/8 |
-| Host Name | RODIPIT(allmute) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:34:21 |
+| Lobby ID | 28546001628131363 |
+| Players | 22/24 |
+| Host Name | Deimos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 15:31:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001623703348 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | LunaticEyes (Kuroushi) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 15:25:57 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001630759468 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Tioshadow |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 15:34:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001631369764 |
-| Players | 10/15 |
-| Host Name | zeroJoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:35:44 |
+| Lobby ID | 28546001631720569 |
+| Players | 2/10 |
+| Host Name | AltQQ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 15:36:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Apex |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 15:32:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001628131363 |
-| Players | 21/24 |
-| Host Name | Deimos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 15:31:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001631146471 |
-| Players | 2/10 |
-| Host Name | AltQQ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 15:35:27 |
 
 
 |  | epic_boss_fight_nightmare |
