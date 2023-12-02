@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001773519380 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 破空 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:26:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001771907591 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | leisure :)) |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 18:24:36 |
@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001775228154 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Чегумба |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 18:28:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001775606671 |
-| Players | 4/15 |
-| Host Name | Endless |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:28:27 |
+| Lobby ID | 28546001775773291 |
+| Players | 5/10 |
+| Host Name | Sanyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 18:28:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001774741278 |
-| Players | 14/15 |
-| Host Name | Papi Culo |
+| Lobby ID | 28546001776017481 |
+| Players | 1/15 |
+| Host Name | Arthemidas |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:27:33 |
+| Lobby Creation Time | Saturday, December 2, 2023 18:28:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001770848910 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Big Gringo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:23:28 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001775333929 |
-| Players | 3/10 |
-| Host Name | IceWallowCome.com |
+| Players | 1/10 |
+| Host Name | Kung aku nalang diay? |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 18:28:10 |
 
