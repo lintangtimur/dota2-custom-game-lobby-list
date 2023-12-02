@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001717424418 |
-| Players | 4/10 |
-| Host Name | AltQQ |
+| Lobby ID | 28546001718263531 |
+| Players | 2/10 |
+| Host Name | PaVis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:23:11 |
+| Lobby Creation Time | Saturday, December 2, 2023 17:24:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,30 +38,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 17:21:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001717936979 |
-| Players | 3/8 |
-| Host Name | Леха Секс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:23:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001717239479 |
-| Players | 13/15 |
-| Host Name | ꪶꪮꪖᦔ꠸ꪀᧁ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:22:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001717290034 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | MahiwagangBayag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:23:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001718162228 |
+| Players | 1/10 |
+| Host Name | stop cutting yourself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:24:05 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546001718298797 |
+| Players | 1/7 |
+| Host Name | Lil |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:24:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546001718301788 |
+| Players | 1/5 |
+| Host Name | 爱德蒙-唐泰斯 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:24:15 |
 
 
