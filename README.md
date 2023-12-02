@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001738965237 |
-| Players | 13/15 |
-| Host Name | Aureliuss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:48:29 |
+| Lobby ID | 28546001736808032 |
+| Players | 20/24 |
+| Host Name | 宝哥哥 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:46:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001728663749 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:36:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001737999837 |
-| Players | 5/8 |
-| Host Name | 4.П.О.К.Е.Р. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:47:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001736808032 |
-| Players | 20/24 |
-| Host Name | 宝哥哥 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 17:46:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 西西物者 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, December 2, 2023 17:48:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001739479867 |
+| Players | 9/15 |
+| Host Name | Clownself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:49:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001739540604 |
+| Players | 3/10 |
+| Host Name | / |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 17:49:08 |
 
 
 |  | epic_boss_fight_nightmare |
