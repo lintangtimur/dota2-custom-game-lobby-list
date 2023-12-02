@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 22:05:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002020859535 |
-| Players | 9/10 |
-| Host Name | DH.Kaka2.0 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 22:01:58 |
+| Lobby ID | 28546002025745808 |
+| Players | 8/15 |
+| Host Name | Я попрыгулька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 22:05:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002025151238 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | JACKX Str. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 22:05:21 |
@@ -67,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002025809522 |
+| Lobby ID | 28546002026232005 |
 | Players | 1/8 |
-| Host Name | Pepedi  ライオン |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 22:05:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002025745808 |
-| Players | 2/15 |
-| Host Name | Я попрыгулька |
+| Host Name | nobody cares |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 22:05:49 |
+| Lobby Creation Time | Saturday, December 2, 2023 22:06:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002026372082 |
+| Players | 5/10 |
+| Host Name | Zer0 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:06:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002026372246 |
+| Players | 3/8 |
+| Host Name | Грибочек |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:06:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Рамзан Кадыров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 22:05:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002026302083 |
+| Players | 1/5 |
+| Host Name | ^^ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:06:15 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546002026317894 |
+| Players | 1/7 |
+| Host Name | Romanana |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:06:16 |
 
 
