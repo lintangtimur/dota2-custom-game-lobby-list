@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001712110231 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Bartz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:16:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001711376278 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | fp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:15:41 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001713749152 |
-| Players | 5/15 |
-| Host Name | 神の寵愛を受けると悪 |
+| Players | 9/15 |
+| Host Name | полный down |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:18:40 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001713907929 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | dontmakemelaugh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:18:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001713911574 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | женя барсетка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:18:52 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | {THE~@} |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:16:54 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28546001714249376 |
+| Players | 1/7 |
+| Host Name | Eustia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:19:18 |
 
 
