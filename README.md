@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001834962544 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | яспирит маиндсет) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 19:27:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001835042849 |
-| Players | 12/15 |
-| Host Name | coopitman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:27:47 |
+| Lobby ID | 28546001835153090 |
+| Players | 7/24 |
+| Host Name | 浮生幻梦 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:27:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001835058799 |
-| Players | 3/10 |
-| Host Name | Русский |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:27:48 |
+| Lobby ID | 28546001835322543 |
+| Players | 1/24 |
+| Host Name | SNADY |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:28:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001835116149 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | 155мм демократії |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 19:27:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001835153090 |
-| Players | 2/24 |
-| Host Name | 浮生幻梦 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 19:27:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001835097278 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | mrllano |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 19:27:50 |
