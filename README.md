@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002044049096 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | xxxxxx |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 22:20:23 |
@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002044882371 |
-| Players | 3/24 |
-| Host Name | Robert Paulson |
+| Players | 1/24 |
+| Host Name | Indian Yuragi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 22:21:03 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002045218738 |
+| Players | 4/24 |
+| Host Name | po |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:20 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002041643212 |
-| Players | 7/10 |
-| Host Name | SoyChibolo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 22:18:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002044920016 |
-| Players | 3/8 |
-| Host Name | ------------ |
+| Lobby ID | 28546002045899654 |
+| Players | 6/10 |
+| Host Name | ээDotaтэгжшаадгүшд |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 22:21:05 |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002043017633 |
-| Players | 3/24 |
+| Players | 12/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 22:19:34 |
@@ -58,27 +58,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002044429777 |
-| Players | 11/15 |
-| Host Name | Squeakers |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 22:20:42 |
+| Lobby ID | 28546002045659506 |
+| Players | 14/15 |
+| Host Name | Byratino |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002044995889 |
-| Players | 9/10 |
-| Host Name | blue skies |
+| Lobby ID | 28546002045250944 |
+| Players | 5/10 |
+| Host Name | Jesus Pines |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 22:21:09 |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002034756571 |
-| Players | 8/10 |
-| Host Name | Дима Жмыходавов |
+| Players | 4/10 |
+| Host Name | Twinhead Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 22:12:57 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002045000725 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Aoharu Snatch |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 22:21:09 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002045094289 |
-| Players | 1/15 |
-| Host Name | febriiiii |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, December 2, 2023 22:21:14 |
+| Lobby ID | 28546002046047368 |
+| Players | 4/15 |
+| Host Name | Кипяток |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 22:22:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +119,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 22:14:21 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002045289746 |
+| Players | 5/10 |
+| Host Name | ® |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:23 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002045153526 |
+| Lobby ID | 28546002045301163 |
 | Players | 1/5 |
 | Host Name | La_Muerte |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 22:21:17 |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002045575554 |
+| Players | 1/10 |
+| Host Name | Buu-uuu |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:21:37 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28546002046049173 |
+| Players | 2/7 |
+| Host Name | w1nd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 22:22:00 |
 
 
