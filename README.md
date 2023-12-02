@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001644744761 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Aureliuss |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001645189564 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001643334604 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 15:50:34 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001645082042 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | أشكرك أنا غني أنا |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001645549462 |
+| Players | 2/8 |
+| Host Name | Хан Замай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 15:53:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -65,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 15:38:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546001641964962 |
-| Players | 4/5 |
-| Host Name | Isomaki Lesturs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:48:56 |
+| Lobby ID | 28546001644768471 |
+| Players | 6/10 |
+| Host Name | Epic Healer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 15:52:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Robert |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001644768471 |
-| Players | 4/10 |
-| Host Name | Epic Healer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 15:52:21 |
 
 
