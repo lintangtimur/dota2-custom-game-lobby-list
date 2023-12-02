@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002313923176 |
-| Players | 3/24 |
-| Host Name | focus PayToWin |
+| Players | 2/24 |
+| Host Name | Melon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:06:49 |
 
@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002305529234 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Moccio望 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 02:56:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002315585091 |
-| Players | 2/8 |
-| Host Name | DэN4икBLR |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 03:08:48 |
+| Lobby ID | 28546002315458601 |
+| Players | 3/24 |
+| Host Name | [DG] Smurf Aposentado |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 3, 2023 03:08:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002315240323 |
-| Players | 12/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 03:08:23 |
+| Lobby ID | 28546002315936247 |
+| Players | 4/15 |
+| Host Name | Swanky |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:09:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002314681143 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AriBri<3 |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:07:43 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 02:33:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002313941480 |
-| Players | 3/10 |
-| Host Name | GuITaR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 03:06:50 |
+| Lobby ID | 28546002315938352 |
+| Players | 3/8 |
+| Host Name | knep |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:09:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002315435989 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | happy hippo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 03:08:37 |
@@ -95,37 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002314050328 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Mir4iK |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:06:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002315550530 |
-| Players | 5/10 |
-| Host Name | fuck12 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 03:08:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002315458601 |
-| Players | 1/24 |
-| Host Name | [DG] Smurf Aposentado |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 3, 2023 03:08:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002313775354 |
-| Players | 7/8 |
-| Host Name | fid x 240 smertei peek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 03:06:38 |
+| Lobby ID | 28546002316026506 |
+| Players | 4/15 |
+| Host Name | 克里 |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 03:09:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 03:08:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002316030810 |
+| Players | 1/5 |
+| Host Name | 40+40=100 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:09:21 |
 
 
