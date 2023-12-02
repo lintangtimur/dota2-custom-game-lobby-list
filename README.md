@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 20:19:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001893969139 |
-| Players | 5/10 |
-| Host Name | BIG DICK |
+| Lobby ID | 28546001894745012 |
+| Players | 4/8 |
+| Host Name | Solo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 20:19:30 |
+| Lobby Creation Time | Saturday, December 2, 2023 20:20:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,36 +104,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001893796014 |
-| Players | 4/24 |
+| Players | 12/24 |
 | Host Name | Senator |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 20:19:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001894435426 |
-| Players | 5/8 |
-| Host Name | Mushtasham |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 20:19:53 |
+| Lobby ID | 28546001894567463 |
+| Players | 3/15 |
+| Host Name | Ooops? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 20:20:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001894073380 |
-| Players | 2/8 |
-| Host Name | Ялда Уважаемый |
+| Lobby ID | 28546001894494623 |
+| Players | 7/8 |
+| Host Name | CalculuS |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 20:19:35 |
+| Lobby Creation Time | Saturday, December 2, 2023 20:19:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001894782262 |
+| Players | 6/10 |
+| Host Name | ДРЕВНИЙ РУС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 20:20:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001894891638 |
+| Players | 3/8 |
+| Host Name | КАК ЖЕ ОН СИЛЁН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 20:20:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001894815984 |
+| Players | 2/10 |
+| Host Name | EJL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 20:20:12 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546001894384780 |
+| Lobby ID | 28546001894919567 |
 | Players | 1/5 |
 | Host Name | Arcane~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 20:19:51 |
+| Lobby Creation Time | Saturday, December 2, 2023 20:20:17 |
 
 
