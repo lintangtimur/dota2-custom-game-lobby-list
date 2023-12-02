@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001808040057 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Senator |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 19:01:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001812082996 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Путь на дно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 19:05:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001811907118 |
-| Players | 8/24 |
+| Players | 20/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 19:05:25 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 18:55:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001811854746 |
-| Players | 13/15 |
-| Host Name | Фальшивоминьетчи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:05:22 |
+| Lobby ID | 28546001812399782 |
+| Players | 7/10 |
+| Host Name | год в каменоломне |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:05:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001809116491 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 19:02:35 |
@@ -68,36 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001812069948 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sandstorm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 19:05:35 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001811064699 |
-| Players | 1/5 |
-| Host Name | Z-WolF |
+| Lobby ID | 28546001812461931 |
+| Players | 1/8 |
+| Host Name | ICHZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 19:04:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001811187645 |
-| Players | 5/10 |
-| Host Name | MaJIekk |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 19:04:42 |
+| Lobby Creation Time | Saturday, December 2, 2023 19:05:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001811619168 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KiraWh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 19:05:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001811187645 |
+| Players | 4/10 |
+| Host Name | MaJIekk |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 19:04:42 |
 
 
