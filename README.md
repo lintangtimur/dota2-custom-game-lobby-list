@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001571934645 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ГЕРКУЛЕС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 14:15:41 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001564396577 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 14:05:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001571660708 |
-| Players | 4/10 |
-| Host Name | BetBoombl4 |
+| Lobby ID | 28546001572591797 |
+| Players | 2/8 |
+| Host Name | KIT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 14:15:18 |
+| Lobby Creation Time | Saturday, December 2, 2023 14:16:36 |
 
 
 |  | ot3_gardens_duo |
@@ -38,30 +38,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 14:13:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001572069717 |
-| Players | 2/8 |
-| Host Name | ЗАЧЕПАТЫЙ ПОЦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 14:15:52 |
+| Lobby ID | 28546001572504875 |
+| Players | 1/15 |
+| Host Name | rightclick |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 2, 2023 14:16:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001572089608 |
-| Players | 1/24 |
+| Lobby ID | 28546001572151907 |
+| Players | 3/24 |
 | Host Name | felina |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 14:15:54 |
+| Lobby Creation Time | Saturday, December 2, 2023 14:15:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001572072689 |
-| Players | 1/5 |
-| Host Name | Pinkamena Diane Pie |
+| Lobby ID | 28546001572139309 |
+| Players | 2/10 |
+| Host Name | itami71 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 14:15:53 |
+| Lobby Creation Time | Saturday, December 2, 2023 14:15:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001572188193 |
+| Players | 1/24 |
+| Host Name | Elsa Best Girl |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 2, 2023 14:16:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001572468132 |
+| Players | 19/24 |
+| Host Name | HashiRama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 14:16:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001572831217 |
+| Players | 1/8 |
+| Host Name | ✯LTD.RYW |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 2, 2023 14:16:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546001572166065 |
+| Players | 8/10 |
+| Host Name | YangYang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 14:16:00 |
 
 
