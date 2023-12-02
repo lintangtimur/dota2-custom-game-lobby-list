@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002214275921 |
-| Players | 6/8 |
-| Host Name | Стасик Гематоген |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 01:10:52 |
+| Lobby ID | 28546002214495277 |
+| Players | 1/8 |
+| Host Name | last pick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 01:11:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002176969947 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | asuna |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 00:30:53 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002214167132 |
-| Players | 13/15 |
-| Host Name | Shoost |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 01:10:45 |
+| Lobby ID | 28546002214609655 |
+| Players | 3/15 |
+| Host Name | howdafuqmyteamisagathaallalong |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 01:11:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002213804029 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Reincarnationz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 01:10:21 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002213554378 |
-| Players | 7/8 |
-| Host Name | Tishe Malchik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 01:10:05 |
+| Lobby ID | 28546002214528780 |
+| Players | 5/8 |
+| Host Name | ДЖОЙКАНИСТРА |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 01:11:09 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002212750934 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 01:09:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002211808955 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Mr_Anderson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 01:08:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002213014758 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | mirame, mirate y minimizate |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 01:09:29 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 01:10:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002214390582 |
+| Players | 4/15 |
+| Host Name | Vi YB`a.- 퍼지 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 01:11:00 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546002202910798 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002211256374 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Helpi™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 01:07:35 |
@@ -122,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002213066110 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | CockRoach |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 01:09:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002214314021 |
-| Players | 4/5 |
-| Host Name | kirpic330 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 01:10:55 |
 
 
