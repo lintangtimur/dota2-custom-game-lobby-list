@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002338044133 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ♥_『【SHªD¥】』_♥ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 03:36:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002340254896 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Muchtolearn |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 03:39:13 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002340307931 |
-| Players | 4/24 |
-| Host Name | focus PayToWin |
+| Players | 3/24 |
+| Host Name | opZZesion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:39:17 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002340234445 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Recep Tayyip Erdoğan |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 03:39:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002340631408 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | YAMCHA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 03:39:42 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002340181544 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 03:39:08 |
@@ -128,24 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 03:38:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002340925055 |
-| Players | 14/15 |
-| Host Name | Sdnss |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 03:40:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002340982670 |
-| Players | 2/10 |
-| Host Name | cannibal arturik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 03:40:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002339791974 |
@@ -155,22 +137,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 03:38:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002340978454 |
-| Players | 2/8 |
-| Host Name | Kirraa- |
+| Lobby ID | 28546002340982670 |
+| Players | 5/10 |
+| Host Name | cannibal arturik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:40:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002341025111 |
+| Players | 7/15 |
+| Host Name | Hentacle Tentai |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 03:40:09 |
+| Lobby Creation Time | Sunday, December 3, 2023 03:40:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002340980769 |
-| Players | 1/8 |
-| Host Name | 氣氛很親密 |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 03:40:09 |
+| Lobby ID | 28546002335255222 |
+| Players | 7/8 |
+| Host Name | mirame, mirate y minimizate |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:32:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002341107843 |
+| Players | 3/8 |
+| Host Name | Elon Tusk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:40:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002340387009 |
+| Players | 14/15 |
+| Host Name | DuX |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:39:23 |
 
 
 |  | epic_boss_fight_nightmare |
