@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001739917000 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | the off $ea$on® |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 2, 2023 17:49:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001749586084 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Danger Line |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:00:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001748668063 |
-| Players | 10/24 |
+| Players | 7/24 |
 | Host Name | Oldwarx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:59:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001750319928 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Лёня Воронин (ОП) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 18:01:17 |
@@ -67,20 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001750121845 |
-| Players | 4/8 |
-| Host Name | [34522t360864] |
+| Lobby ID | 28546001750415145 |
+| Players | 6/8 |
+| Host Name | Everens |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 18:01:04 |
+| Lobby Creation Time | Saturday, December 2, 2023 18:01:23 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001749524022 |
-| Players | 8/10 |
-| Host Name | Baron Afanas |
+| Lobby ID | 28546001750685167 |
+| Players | 3/8 |
+| Host Name | Archibald von Diber |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 18:01:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001750494014 |
+| Players | 3/10 |
+| Host Name | Albus Wulfric Brian Dumbledore |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 18:00:24 |
+| Lobby Creation Time | Saturday, December 2, 2023 18:01:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546001750649827 |
+| Players | 1/5 |
+| Host Name | fojsk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 18:01:39 |
 
 
 |  | epic_boss_fight_normal |
