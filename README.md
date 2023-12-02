@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001663871261 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | КМС ПО KFC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:15:58 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 15:52:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001663631116 |
-| Players | 8/10 |
-| Host Name | NothingToSay |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 16:15:40 |
+| Lobby ID | 28546001664367375 |
+| Players | 2/15 |
+| Host Name | why? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:16:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001663407710 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 16:15:24 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001664048653 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:16:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001664105994 |
-| Players | 1/24 |
-| Host Name | snrtxtlw |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 16:16:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001660690334 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | I ATE NOTHING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:12:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001661576791 |
-| Players | 1/10 |
-| Host Name | WhyBaby? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:13:08 |
 
 
