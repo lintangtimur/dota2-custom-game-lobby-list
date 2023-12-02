@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002334024690 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Ponte la pilas Crag |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 03:31:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002335113926 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | я огр маг а ты лох |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 03:32:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002331266288 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | jhonagomez104 |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 03:27:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002333789272 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:31:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002335197538 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Jia Sidao |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:32:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002335070253 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | фантазии |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 03:32:41 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 03:32:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002335181480 |
-| Players | 2/8 |
-| Host Name | Lose mid? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 03:32:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002335202931 |
-| Players | 2/10 |
-| Host Name | РУДГЕ |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 03:32:51 |
+| Lobby ID | 28546002335270289 |
+| Players | 4/10 |
+| Host Name | SashkaXvorost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:32:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002335269376 |
+| Players | 1/15 |
+| Host Name | jugar callado es mi terapía |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:32:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,11 +139,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002335265558 |
+| Lobby ID | 28546002335253872 |
 | Players | 1/10 |
-| Host Name | youtube.com/gattu |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 03:32:56 |
+| Host Name | Amigo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:32:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002335392737 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 03:33:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002328919797 |
+| Players | 23/24 |
+| Host Name | romchyg |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 03:24:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,9 +185,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002333878211 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 03:31:11 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28546002335361168 |
+| Players | 3/7 |
+| Host Name | kuro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 03:33:03 |
 
 
