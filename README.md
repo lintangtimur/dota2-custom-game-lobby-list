@@ -14,54 +14,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001612672658 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 15:11:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001611006058 |
-| Players | 22/24 |
-| Host Name | Kiana_Kaslana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 15:09:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001613758168 |
-| Players | 5/10 |
-| Host Name | KinGバン? |
+| Lobby ID | 28546001613918041 |
+| Players | 10/15 |
+| Host Name | [AIRS}_God_Like_Boy_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:12:54 |
+| Lobby Creation Time | Saturday, December 2, 2023 15:13:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001613915221 |
+| Players | 5/8 |
+| Host Name | أشكرك أنا غني أنا |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 15:13:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001603844718 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 14:59:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001613612082 |
-| Players | 12/15 |
-| Host Name | о холеро |
+| Lobby ID | 28546001614467666 |
+| Players | 3/10 |
+| Host Name | Kirill Silencer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:12:43 |
+| Lobby Creation Time | Saturday, December 2, 2023 15:13:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001613277990 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Ⰿ�NoobTank�Ⰿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 15:12:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28546001613862068 |
+| Players | 1/7 |
+| Host Name | Спидозный Бомж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 15:13:03 |
 
 
