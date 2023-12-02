@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001671548419 |
-| Players | 7/8 |
-| Host Name | sfxooz // сухоза |
+| Lobby ID | 28546001671919445 |
+| Players | 5/10 |
+| Host Name | Wukash |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:25:28 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:25:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001671277507 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Lulalelilo |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 2, 2023 16:25:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001671562213 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Ichigo Kurasaki |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:25:30 |
@@ -50,19 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001671286240 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Wee |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 16:25:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001672041002 |
+| Players | 1/8 |
+| Host Name | ttys |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:26:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001672261088 |
+| Players | 1/15 |
+| Host Name | MANG PEPE. |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 2, 2023 16:26:22 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001671919445 |
+| Lobby ID | 28546001672275447 |
 | Players | 1/10 |
-| Host Name | Wukash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:25:57 |
+| Host Name | kyle-desu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 16:26:23 |
 
 
 |  | epic_boss_fight_normal |
