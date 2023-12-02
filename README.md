@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001636711488 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | bunch of worst subhumans |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:42:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001634953707 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ProCarryOat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 15:40:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001636981467 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:42:44 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Løgan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:42:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001637177127 |
-| Players | 2/8 |
-| Host Name | Maybe |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 2, 2023 15:42:59 |
 
 
 |  | epic_boss_fight_normal |
