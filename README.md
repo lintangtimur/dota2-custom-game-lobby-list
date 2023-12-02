@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001774285625 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Chatuba |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 2, 2023 18:27:04 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 18:35:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001780644985 |
-| Players | 22/24 |
-| Host Name | noob team |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:33:39 |
+| Lobby ID | 28546001783097769 |
+| Players | 3/10 |
+| Host Name | Mirage- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 18:36:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001782518310 |
-| Players | 1/8 |
-| Host Name | Pegisuee |
+| Lobby ID | 28546001783163401 |
+| Players | 1/10 |
+| Host Name | trash teammate |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:35:35 |
+| Lobby Creation Time | Saturday, December 2, 2023 18:36:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 18:35:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001782518645 |
-| Players | 5/8 |
-| Host Name | Натури Фурион |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:35:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001782753674 |
-| Players | 8/10 |
-| Host Name | eternalapathy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:35:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001782964971 |
-| Players | 2/8 |
-| Host Name | 11 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 18:36:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001782987708 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | A week without drugs |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:36:04 |
@@ -110,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 18:36:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546001783144438 |
+| Players | 5/15 |
+| Host Name | winter contingency |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 18:36:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001783117392 |
+| Players | 1/24 |
+| Host Name | Пюреша 52 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 18:36:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001779581025 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001781442599 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Peachy |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:34:28 |
