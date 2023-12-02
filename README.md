@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001647347720 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 2, 2023 15:55:33 |
@@ -56,31 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 15:59:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001650330790 |
-| Players | 7/10 |
-| Host Name | Aerosniker |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 2, 2023 15:59:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546001648115907 |
-| Players | 6/10 |
-| Host Name | Mr Pazuzu |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 2, 2023 15:56:31 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001651007138 |
-| Players | 6/15 |
-| Host Name | Wiz [a] rd- |
+| Lobby ID | 28546001651641729 |
+| Players | 1/15 |
+| Host Name | Htut gyi loke see :)) |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 2, 2023 16:00:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546001651350997 |
+| Players | 4/10 |
+| Host Name | Abominigatious |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:00:03 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:00:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001651670825 |
+| Players | 1/24 |
+| Host Name | ILP |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 2, 2023 16:00:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001651692807 |
+| Players | 1/24 |
+| Host Name | Backi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 2, 2023 16:00:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,25 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001649214411 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | crazy362 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:57:52 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546001651234062 |
-| Players | 1/5 |
-| Host Name | ☣Скиньте денег |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:00:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001651233969 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:00:20 |
