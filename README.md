@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001728663749 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:36:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001737680857 |
-| Players | 5/8 |
-| Host Name | волкобой |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 17:47:01 |
+| Lobby ID | 28546001738497419 |
+| Players | 11/15 |
+| Host Name | DIОрея |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 17:47:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001736808032 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 17:46:01 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 4.П.О.К.Е.Р. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 17:47:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001738497419 |
-| Players | 6/15 |
-| Host Name | DIОрея |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 17:47:57 |
 
 
 |  | epic_boss_fight_nightmare |
