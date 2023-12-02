@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002186789783 |
-| Players | 22/24 |
-| Host Name | X-ART |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 00:41:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002190806006 |
-| Players | 9/10 |
-| Host Name | BRITNEY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:45:44 |
+| Lobby ID | 28546002191505570 |
+| Players | 8/10 |
+| Host Name | Tomohise-Sako |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002191756723 |
+| Players | 1/8 |
+| Host Name | NAVIGATOR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:45 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002187911858 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | TeriTeri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 00:42:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002191017827 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | J!N |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 00:45:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002175507655 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Dr. Shaman |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 00:29:19 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002188759898 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | MRsenior |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 00:43:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002191105743 |
-| Players | 14/15 |
-| Host Name | Bingo666 |
+| Lobby ID | 28546002191609841 |
+| Players | 9/10 |
+| Host Name | Inlupa |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 00:46:04 |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002191227629 |
-| Players | 2/8 |
-| Host Name | mejek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:46:12 |
+| Lobby ID | 28546002190540049 |
+| Players | 4/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 00:45:27 |
 
 
 |  | ot3_desert_octet |
@@ -94,37 +94,100 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002190802573 |
-| Players | 7/8 |
-| Host Name | didn`t play for 8 yrs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:45:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002191220522 |
-| Players | 3/8 |
-| Host Name | коля железяка |
+| Lobby ID | 28546002191538021 |
+| Players | 1/8 |
+| Host Name | Plumbus |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 00:46:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002190400133 |
-| Players | 6/8 |
-| Host Name | ДЕД ДИДЖАЛЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:45:18 |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002190540049 |
-| Players | 4/10 |
-| Host Name | Remiferia |
+| Lobby ID | 28546002191889853 |
+| Players | 2/10 |
+| Host Name | Sheriff_FI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002191892631 |
+| Players | 4/8 |
+| Host Name | Azər Babaev |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002186208165 |
+| Players | 14/15 |
+| Host Name | OSMINOG 2.0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 00:40:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002191918483 |
+| Players | 4/8 |
+| Host Name | FL быдло |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002192046475 |
+| Players | 6/10 |
+| Host Name | }I{yI{ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 00:47:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002192053194 |
+| Players | 1/15 |
+| Host Name | Competitive ACNH Player |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 00:47:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002191728391 |
+| Players | 1/5 |
+| Host Name | buzova86 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002191756475 |
+| Players | 3/10 |
+| Host Name | Eisoonn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 00:45:27 |
+| Lobby Creation Time | Sunday, December 3, 2023 00:46:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002191987237 |
+| Players | 1/5 |
+| Host Name | Alluring Bounty |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 00:47:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002190438386 |
+| Players | 8/10 |
+| Host Name | Caesar_091 |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 00:45:21 |
 
 
