@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001954208198 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ROBERT DE NIRO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 21:09:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001960433969 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | its not fair, i found love... |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 21:14:04 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001958260059 |
+| Lobby ID | 28546001960467016 |
 | Players | 1/10 |
-| Host Name | -[Xius |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 21:12:19 |
+| Host Name | Sos Atelp Isunov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 21:14:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001960123481 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Борис Животное |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 21:13:49 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001953409131 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DUQUE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 21:08:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001960426984 |
-| Players | 1/8 |
-| Host Name | I got murder on my mind |
+| Lobby ID | 28546001960489130 |
+| Players | 7/10 |
+| Host Name | Maligus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 21:14:03 |
+| Lobby Creation Time | Saturday, December 2, 2023 21:14:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | memento vivere |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 21:13:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546001960396918 |
-| Players | 1/10 |
-| Host Name | attackuation |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 21:14:02 |
 
 
