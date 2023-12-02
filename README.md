@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001792453646 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Сквиртоcлав Зорич |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:45:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546001789175814 |
-| Players | 1/10 |
-| Host Name | AVO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 2, 2023 18:42:26 |
+| Lobby ID | 28546001792720665 |
+| Players | 3/8 |
+| Host Name | neyzer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 18:46:02 |
 
 
 |  | ot3_desert_octet |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001792603235 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Дима Череп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 18:45:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001792613168 |
-| Players | 2/8 |
-| Host Name | CAGO |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:45:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001792621525 |
-| Players | 5/8 |
-| Host Name | aa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 18:45:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | вздутый бомж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 18:45:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001792621525 |
+| Players | 6/8 |
+| Host Name | aa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 18:45:56 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001792299454 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 18:45:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546001790614820 |
-| Players | 4/5 |
-| Host Name | AБАЛДЕТЬ(!) |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 2, 2023 18:43:54 |
 
 
