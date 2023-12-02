@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001622758963 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 2, 2023 15:24:44 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 16:53:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001694979206 |
-| Players | 4/8 |
-| Host Name | Akuma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:54:40 |
+| Lobby ID | 28546001695257741 |
+| Players | 3/24 |
+| Host Name | 马季福奇 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 16:55:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001694773183 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Melamori |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:54:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001694606955 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Извините... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:54:12 |
@@ -74,12 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 16:54:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001695436870 |
+| Players | 4/8 |
+| Host Name | КМС ПО KFC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 16:55:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001695458450 |
+| Players | 1/24 |
+| Host Name | Monty Bot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 16:55:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546001692334511 |
-| Players | 9/10 |
-| Host Name | луплю с ноги соню |
+| Lobby ID | 28546001695321617 |
+| Players | 2/10 |
+| Host Name | 。。。。。。。。。 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 16:55:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546001695442443 |
+| Players | 1/5 |
+| Host Name | goodmins♡ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:51:20 |
+| Lobby Creation Time | Saturday, December 2, 2023 16:55:15 |
 
 
