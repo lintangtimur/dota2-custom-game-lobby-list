@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001606269897 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | wortless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 15:02:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001606384542 |
-| Players | 3/8 |
-| Host Name | 9 CLASS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 15:02:49 |
+| Lobby ID | 28546001606788413 |
+| Players | 3/15 |
+| Host Name | PsychedelicDaredevil |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 2, 2023 15:03:24 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001606009958 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mr Pazuzu |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 2, 2023 15:02:17 |
@@ -92,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 15:01:33 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546001606638500 |
+| Players | 1/24 |
+| Host Name | Daddy Chill |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 2, 2023 15:03:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546001606997224 |
+| Players | 4/8 |
+| Host Name | Drago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 2, 2023 15:03:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546001604109381 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Provion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 14:59:32 |
