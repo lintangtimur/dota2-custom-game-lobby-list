@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001664048653 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:16:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546001666384751 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | W бозон 弱相互作用 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:19:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546001665983891 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pyrtoper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:18:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546001666973022 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | zmarł z powodu piękna Ayanami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 2, 2023 16:19:50 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 2, 2023 16:19:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546001666787559 |
-| Players | 1/5 |
-| Host Name | Котик Походик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 16:19:36 |
 
 
