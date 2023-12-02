@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 00:41:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002185691461 |
-| Players | 21/24 |
-| Host Name | Gaben Prophet |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 00:40:15 |
+| Lobby ID | 28546002187419452 |
+| Players | 4/8 |
+| Host Name | Luckyman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 00:42:07 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002179295300 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | アヌダリ |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 00:33:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002186280935 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | yatoro de dia / teatoro de noche |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 00:40:53 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002186798246 |
-| Players | 1/8 |
-| Host Name | ◘ 2nBall  ττ ◘ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 00:41:27 |
+| Lobby ID | 28546002187477915 |
+| Players | 4/8 |
+| Host Name | PeaceDuke |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 00:42:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002186752836 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Onichan bot |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 00:41:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002176969947 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 00:30:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002186613618 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 2077 sin ti |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 00:41:15 |
@@ -103,38 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002187009362 |
+| Lobby ID | 28546002187418277 |
 | Players | 2/8 |
-| Host Name | DanyMean333 |
+| Host Name | Simon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:41:40 |
+| Lobby Creation Time | Sunday, December 3, 2023 00:42:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002187497363 |
+| Players | 9/10 |
+| Host Name | Absolutе psihoKids ghoul 1000-7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 00:42:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002182829482 |
-| Players | 14/15 |
-| Host Name | Logan Ninefingers |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 00:37:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002187016916 |
-| Players | 11/15 |
-| Host Name | МОНСТР ИЗ СПЕРМЫ |
+| Lobby ID | 28546002187330954 |
+| Players | 13/15 |
+| Host Name | ...#_KANEFERON_#... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:41:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002187153775 |
-| Players | 6/8 |
-| Host Name | Just nothing |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 00:41:50 |
+| Lobby Creation Time | Sunday, December 3, 2023 00:42:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЛЮБЛЮ АНИМЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 00:40:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002186946587 |
-| Players | 2/5 |
-| Host Name | чеченская дота |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 00:41:36 |
 
 
