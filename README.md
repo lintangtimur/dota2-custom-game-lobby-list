@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546001969467043 |
-| Players | 22/24 |
-| Host Name | MiniSoGood |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 2, 2023 21:21:21 |
+| Lobby ID | 28546001975434651 |
+| Players | 14/24 |
+| Host Name | chill doto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 2, 2023 21:26:08 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546001954297056 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 2, 2023 21:09:05 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001976021398 |
-| Players | 11/15 |
-| Host Name | Антонина Чапалах |
+| Lobby ID | 28546001976616503 |
+| Players | 13/15 |
+| Host Name | LM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 21:26:36 |
+| Lobby Creation Time | Saturday, December 2, 2023 21:27:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 21:23:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546001975714529 |
-| Players | 1/24 |
-| Host Name | Kenjisakura |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 21:26:22 |
+| Lobby ID | 28546001976308248 |
+| Players | 4/15 |
+| Host Name | Aspirin |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 2, 2023 21:26:50 |
 
 
 |  | ot3_desert_octet |
@@ -92,40 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 2, 2023 21:26:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546001976213800 |
-| Players | 2/24 |
-| Host Name | Coco丶 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, December 2, 2023 21:26:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546001975434651 |
-| Players | 11/24 |
-| Host Name | chill doto |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 2, 2023 21:26:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546001976175439 |
-| Players | 4/8 |
-| Host Name | なぜ翻訳したのですか |
+| Lobby ID | 28546001976601400 |
+| Players | 8/10 |
+| Host Name | Cooldown |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 2, 2023 21:26:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546001976308248 |
-| Players | 2/15 |
-| Host Name | Aspirin |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 2, 2023 21:26:50 |
+| Lobby Creation Time | Saturday, December 2, 2023 21:27:04 |
 
 
 |  | epic_boss_fight_nightmare |
