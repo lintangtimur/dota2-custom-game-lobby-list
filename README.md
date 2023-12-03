@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002742965406 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Grimes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:15:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002743875704 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 15:16:50 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002744739761 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | beddytear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:17:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002744778459 |
+| Players | 5/10 |
+| Host Name | бос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:17:56 |
 
 
 |  | epic_boss_fight_nightmare |
