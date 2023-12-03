@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002595306047 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:47:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002595020997 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | TheSicaRiO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:47:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002595396259 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:47:57 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002594719016 |
-| Players | 14/15 |
-| Host Name | Incognito |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:46:51 |
+| Lobby ID | 28546002596200386 |
+| Players | 1/15 |
+| Host Name | Sutensei (Depressed) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:49:15 |
 
 
 |  | ot3_gardens_duo |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:48:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002595868512 |
-| Players | 7/10 |
-| Host Name | millky~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:48:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002596136970 |
-| Players | 5/15 |
-| Host Name | Redeye |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:49:09 |
+| Lobby ID | 28546002596265422 |
+| Players | 1/15 |
+| Host Name | må¥ïÐð†å.COM |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:49:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002596265513 |
+| Players | 1/8 |
+| Host Name | Yo  + 4 inutiles |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:49:22 |
 
 
 |  | epic_boss_fight_hard |
