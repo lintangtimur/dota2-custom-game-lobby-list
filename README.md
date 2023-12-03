@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002688174732 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Muichiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:06:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002687254552 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:05:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002688595620 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Mr.Banana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:07:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002689058746 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | RASTAFARI 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:07:50 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002689101026 |
+| Lobby ID | 28546002689246244 |
 | Players | 1/15 |
 | Host Name | 最好的 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:07:53 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:08:04 |
 
 
 |  | epic_boss_fight_nightmare |
