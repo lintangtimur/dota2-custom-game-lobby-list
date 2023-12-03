@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003098406661 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 21:01:26 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003102446571 |
-| Players | 22/24 |
-| Host Name | ☠ Kira Yoshikage☢ |
+| Lobby ID | 28546003104998100 |
+| Players | 7/24 |
+| Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 21:04:42 |
+| Lobby Creation Time | Sunday, December 3, 2023 21:06:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003100772143 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 21:03:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003102930212 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mizuhara |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 21:05:06 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003100894383 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Sunny gay |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 21:03:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003104037631 |
-| Players | 2/15 |
-| Host Name | M1DNighT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:06:00 |
+| Lobby ID | 28546003100647903 |
+| Players | 22/24 |
+| Host Name | Good день |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 21:03:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003103849350 |
-| Players | 8/10 |
+| Players | 4/10 |
 | Host Name | EmeZeta |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 21:05:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003102785508 |
-| Players | 4/24 |
+| Players | 12/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:04:59 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003103462682 |
-| Players | 6/10 |
-| Host Name | Mr_Vojlovr |
+| Lobby ID | 28546003105083131 |
+| Players | 8/10 |
+| Host Name | Где мой нос? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:05:32 |
+| Lobby Creation Time | Sunday, December 3, 2023 21:06:51 |
 
 
 |  | ot3_desert_octet |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003102780275 |
-| Players | 6/8 |
-| Host Name | ICHZ |
+| Lobby ID | 28546003105334618 |
+| Players | 4/8 |
+| Host Name | SLAVA GITLERU |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:04:59 |
+| Lobby Creation Time | Sunday, December 3, 2023 21:07:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003104044122 |
-| Players | 10/15 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 21:06:00 |
+| Lobby ID | 28546003105355015 |
+| Players | 1/15 |
+| Host Name | МНЕ ГУЛЬ Я ПОХУЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:07:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 583545749 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, December 3, 2023 20:53:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003105099209 |
+| Players | 1/10 |
+| Host Name | Mr. BnN |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 21:06:52 |
 
 
