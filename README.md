@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002793555330 |
-| Players | 6/8 |
-| Host Name | тихо |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 16:13:35 |
+| Lobby ID | 28546002794983207 |
+| Players | 6/15 |
+| Host Name | Жабычь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:15:12 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002793774064 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 16:13:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002793181249 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 苍蝇 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:13:11 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002794895620 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Ah hell nah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:15:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002795062682 |
+| Players | 3/8 |
+| Host Name | tears <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:15:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002795093531 |
+| Players | 4/10 |
+| Host Name | победа или поражение |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:15:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,28 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002794455770 |
-| Players | 2/10 |
-| Host Name | OrangeF_sH |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 16:14:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002794911903 |
-| Players | 4/5 |
-| Host Name | Тайлер Дерден |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:15:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002794941940 |
-| Players | 1/5 |
+| Lobby ID | 28546002795115898 |
+| Players | 1/10 |
 | Host Name | skrillex- |
 | Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 16:15:09 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:15:21 |
 
 
