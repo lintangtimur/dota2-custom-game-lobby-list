@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002898151752 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Дощика не буде |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:10:01 |
@@ -47,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 18:09:57 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002898365498 |
+| Players | 1/15 |
+| Host Name | Долбаеб |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:10:14 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002898112648 |
-| Players | 7/10 |
-| Host Name | Purple Star |
+| Lobby ID | 28546002898410902 |
+| Players | 4/10 |
+| Host Name | porcavacca(allmuted) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:10:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002898488104 |
+| Players | 2/10 |
+| Host Name | ВиталяБластОФ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:09:59 |
+| Lobby Creation Time | Sunday, December 3, 2023 18:10:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002897851604 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Pattaya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:09:43 |
