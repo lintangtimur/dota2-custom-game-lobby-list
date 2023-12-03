@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002774498255 |
-| Players | 3/8 |
-| Host Name | Пловец |
+| Players | 2/8 |
+| Host Name | tOfu prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:52:07 |
 
@@ -68,27 +68,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002774344935 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:51:56 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002774137600 |
-| Players | 2/7 |
-| Host Name | Батя Габен |
+| Lobby ID | 28546002774593964 |
+| Players | 1/24 |
+| Host Name | shockwaveJZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:51:42 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:52:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002774541875 |
+| Players | 2/10 |
+| Host Name | sushka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:52:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002774545430 |
+| Players | 1/10 |
+| Host Name | DoNtCliCKoNThiS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:52:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002774678908 |
+| Players | 1/24 |
+| Host Name | faxkoku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:52:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002772265769 |
-| Players | 9/10 |
-| Host Name | 𝔼𝕃-ℙ𝔸𝕋ℝ𝕆ℕ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:49:35 |
+| Lobby ID | 28546002774532756 |
+| Players | 1/10 |
+| Host Name | Gandy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:52:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002774692654 |
+| Players | 1/5 |
+| Host Name | Lavoste™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:52:20 |
 
 
