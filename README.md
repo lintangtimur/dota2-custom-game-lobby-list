@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:54:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002563764838 |
-| Players | 19/24 |
-| Host Name | Vito |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:54:55 |
+| Lobby ID | 28546002564825172 |
+| Players | 3/15 |
+| Host Name | kentaho666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:56:47 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002563347419 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | mymoneywon'tjigglejiggle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:54:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002563994044 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Tia Paolaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:55:19 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тналаT и яилисY |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:54:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002564825172 |
-| Players | 2/15 |
-| Host Name | kentaho666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:56:47 |
 
 
