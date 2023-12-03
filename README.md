@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003235034294 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 37blok |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 22:59:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003236818512 |
-| Players | 21/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:00:58 |
+| Lobby ID | 28546003236851709 |
+| Players | 6/10 |
+| Host Name | warcharu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 23:01:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,46 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003234659137 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:58:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003239590044 |
-| Players | 1/8 |
-| Host Name | HollowKnight |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 23:03:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003236113464 |
-| Players | 5/24 |
-| Host Name | kagni |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:00:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003236497669 |
-| Players | 5/8 |
-| Host Name | Лесное Быдло |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 23:00:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003236851709 |
-| Players | 6/10 |
-| Host Name | warcharu |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 23:01:00 |
 
 
 |  | ot3_desert_octet |
@@ -101,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 23:02:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003236113464 |
+| Players | 5/24 |
+| Host Name | kagni |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:00:13 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003239676154 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Cеркан Болат |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:03:53 |
@@ -112,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003239692196 |
-| Players | 2/8 |
-| Host Name | x_Sato_x |
+| Lobby ID | 28546003239855327 |
+| Players | 1/8 |
+| Host Name | HollowKnight |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:03:54 |
+| Lobby Creation Time | Sunday, December 3, 2023 23:04:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003236719172 |
-| Players | 9/10 |
-| Host Name | 喜欢短发的女生 |
+| Lobby ID | 28546003239856057 |
+| Players | 6/8 |
+| Host Name | MAN 100% |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:00:52 |
+| Lobby Creation Time | Sunday, December 3, 2023 23:04:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003239871968 |
+| Players | 1/10 |
+| Host Name | ナpain妻death妻painナ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
