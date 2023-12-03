@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002639017803 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 啪！一个Ori |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 12:57:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002636544881 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:53:28 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:01:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002641604526 |
+| Players | 1/24 |
+| Host Name | Eren Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:01:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002637676610 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002634761625 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MORPHEUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:50:41 |
