@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003237983555 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 23:02:09 |
@@ -68,55 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003236113464 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | kagni |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003240677152 |
-| Players | 8/10 |
-| Host Name | NeBoleiSuka |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:04:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003240229735 |
-| Players | 14/15 |
-| Host Name | Sponsz |
+| Lobby ID | 28546003240979744 |
+| Players | 3/15 |
+| Host Name | Balbes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:04:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003240743787 |
-| Players | 5/8 |
-| Host Name | The Golden |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:04:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003240789198 |
-| Players | 9/15 |
-| Host Name | Meowww |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 23:05:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003239676154 |
-| Players | 12/15 |
-| Host Name | Cеркан Болат |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:03:53 |
+| Lobby Creation Time | Sunday, December 3, 2023 23:05:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,19 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 23:05:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003240743787 |
+| Players | 5/8 |
+| Host Name | The Golden |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:04:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003240952585 |
+| Players | 9/10 |
+| Host Name | саламоLEXUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:05:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003240877246 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | СИГМА ВИКТОР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 23:05:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003241115521 |
+| Players | 5/15 |
+| Host Name | Meowww |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:05:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003240208394 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Gandy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:04:26 |
