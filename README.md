@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003057590865 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | 666 маи руки прада |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:59 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003056790870 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Нафотомоядевушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003056774663 |
-| Players | 12/15 |
-| Host Name | pzdc.4ipalina |
+| Lobby ID | 28546003057715138 |
+| Players | 3/8 |
+| Host Name | -Zeep0ch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:28:21 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:05 |
 
 
 |  | ot3_gardens_duo |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003057578156 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | 김정은 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:59 |
@@ -175,29 +175,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003053120637 |
-| Players | 7/10 |
-| Host Name | Шеденков Виктор Е |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:25:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003057655943 |
+| Lobby ID | 28546003057872251 |
 | Players | 1/10 |
 | Host Name | Отец |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003055465865 |
-| Players | 23/24 |
-| Host Name | TheBlindShibaInuSexyah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:27:20 |
+| Lobby ID | 28546003057872470 |
+| Players | 1/8 |
+| Host Name | um... |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003057874784 |
+| Players | 3/8 |
+| Host Name | Only I am worthy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:13 |
 
 
 |  | epic_boss_fight_nightmare |
