@@ -2,37 +2,37 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002563483028 |
+| Players | 2/10 |
+| Host Name | bob |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002563764838 |
+| Players | 1/24 |
+| Host Name | Vito |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:55 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002563167491 |
-| Players | 6/8 |
-| Host Name | Алиса♡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:53:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002563117574 |
-| Players | 3/15 |
-| Host Name | Rincewind's Luggage |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:53:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002562744297 |
-| Players | 1/15 |
-| Host Name | Mr Cold ☺ |
+| Lobby ID | 28546002563625651 |
+| Players | 3/8 |
+| Host Name | тналаT и яилисY |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:53:07 |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002562994007 |
-| Players | 3/24 |
+| Players | 13/24 |
 | Host Name | same san |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:53:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002562401667 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | moustachio |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:52:31 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:53:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002560888993 |
-| Players | 4/8 |
-| Host Name | alexmercerjta123 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:49:49 |
+| Lobby ID | 28546002563347419 |
+| Players | 3/24 |
+| Host Name | mymoneywon'tjigglejiggle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002562943211 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:53:28 |
@@ -77,54 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002562950674 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Sakirious |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:53:29 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002563347419 |
-| Players | 2/24 |
-| Host Name | mymoneywon'tjigglejiggle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:54:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002562782700 |
-| Players | 6/8 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:53:12 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002563412285 |
+| Lobby ID | 28546002563745946 |
 | Players | 2/10 |
-| Host Name | ez |
+| Host Name | El amor de mi vida |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:54:18 |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002563408181 |
-| Players | 5/8 |
-| Host Name | Skarp. TRADEIT.GG |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:54:18 |
+| Lobby ID | 28546002563772086 |
+| Players | 2/8 |
+| Host Name | steps.s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002557073893 |
-| Players | 8/10 |
-| Host Name | Vainglory |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:43:00 |
+| Lobby ID | 28546002563827478 |
+| Players | 1/5 |
+| Host Name | ^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:55:02 |
 
 
