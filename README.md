@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:04:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002606842872 |
-| Players | 9/10 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:06:19 |
+| Lobby ID | 28546002607642234 |
+| Players | 7/24 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:07:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002607672427 |
-| Players | 9/10 |
-| Host Name | Zaratustra |
+| Lobby ID | 28546002607914640 |
+| Players | 1/15 |
+| Host Name | Little BirD |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:07:38 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:08:02 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002606820093 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Gandalf the White |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:06:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002607861179 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | EL CUCU MELLET |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:07:57 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002607625145 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Su |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:07:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002607642234 |
-| Players | 7/24 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:07:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002607914640 |
-| Players | 2/15 |
-| Host Name | ZhenG ShaDoW |
+| Lobby ID | 28546002608009372 |
+| Players | 2/10 |
+| Host Name | El vago de la Sunat |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:08:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:08:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:06:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002608038356 |
+| Players | 1/5 |
+| Host Name | Escanor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:08:13 |
 
 
