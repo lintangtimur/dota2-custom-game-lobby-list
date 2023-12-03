@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002607408555 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | ILP |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:07:13 |
@@ -47,30 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:08:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002607861179 |
-| Players | 8/10 |
-| Host Name | EL CUCU MELLET |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:07:57 |
+| Lobby ID | 28546002609790345 |
+| Players | 6/8 |
+| Host Name | Yo  + 4 inutiles |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:11:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002609812438 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 3, 2023 12:11:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002608734168 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Maro4ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:09:20 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28546002609744446 |
-| Players | 1/7 |
-| Host Name | дитя лп |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:10:58 |
 
 
