@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002603103563 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:00:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002604001709 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:01:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002602735964 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Frog |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:59:46 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002603146190 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Hisoka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:00:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002603458361 |
-| Players | 12/15 |
-| Host Name | Mo' Cake |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:00:55 |
+| Lobby ID | 28546002604451354 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 12:02:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:02:13 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002604533050 |
+| Players | 1/24 |
+| Host Name | Los amigos te olvidan |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:02:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002604569164 |
+| Players | 1/24 |
+| Host Name | Kenny |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:02:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002604678816 |
+| Players | 5/15 |
+| Host Name | The chosen one ♠ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:02:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002600820100 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jurisprudencia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:56:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002604333303 |
-| Players | 1/5 |
-| Host Name | Koko |
+| Lobby ID | 28546002604372549 |
+| Players | 2/10 |
+| Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:02:18 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:02:22 |
 
 
