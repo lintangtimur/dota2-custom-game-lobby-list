@@ -5,37 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002668834075 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:40:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002670491931 |
-| Players | 7/10 |
-| Host Name | SDMastery© |
+| Lobby ID | 28546002670970982 |
+| Players | 1/15 |
+| Host Name | Sl1me |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:43:04 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:43:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669594050 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | xd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:41:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002668494827 |
-| Players | 6/8 |
-| Host Name | LOBSTER |
+| Lobby ID | 28546002671218524 |
+| Players | 9/15 |
+| Host Name | XBOX SERIES Z |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:40:20 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:44:03 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002667515958 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Sandra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:39:00 |
@@ -83,48 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:43:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002670970982 |
-| Players | 1/15 |
-| Host Name | Sl1me |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:43:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002671218524 |
-| Players | 2/15 |
-| Host Name | XBOX SERIES Z |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:44:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002671277211 |
-| Players | 6/8 |
-| Host Name | Kzuyuki |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 13:44:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002670859857 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | shushkan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:43:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002669670744 |
-| Players | 7/10 |
-| Host Name | jusplayin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:41:56 |
 
 
