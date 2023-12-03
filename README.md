@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002940548755 |
-| Players | 13/15 |
-| Host Name | de_1uxe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:50:45 |
+| Lobby ID | 28546002940716203 |
+| Players | 5/15 |
+| Host Name | F.H |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:50:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002940088474 |
-| Players | 9/10 |
-| Host Name | Swag под себя |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:50:19 |
+| Lobby ID | 28546002940954036 |
+| Players | 2/10 |
+| Host Name | Копьё Аллаха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 18:51:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002938726319 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | SANTOSO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:49:03 |
@@ -59,54 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002940662284 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:50:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28546002940716203 |
-| Players | 1/15 |
-| Host Name | havoc |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:50:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002939854535 |
-| Players | 7/8 |
-| Host Name | Конгресс победы |
+| Lobby ID | 28546002941051667 |
+| Players | 1/7 |
+| Host Name | I_ZIM_I |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:50:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002940864871 |
-| Players | 2/15 |
-| Host Name | 我是大笨蛋 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:51:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002940885079 |
-| Players | 1/24 |
-| Host Name | Xzenero |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:51:03 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28546002940852786 |
-| Players | 2/7 |
-| Host Name | Targaryen |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:51:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 18:51:13 |
 
 
