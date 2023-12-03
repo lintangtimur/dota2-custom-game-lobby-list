@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002632834349 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 诺菲尔 (anoda victory for th |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:47:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002632343335 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:46:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632492832 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:47:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002632103372 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Папа Багетто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:46:33 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002633163628 |
-| Players | 4/8 |
-| Host Name | Lemi Shó de china |
+| Lobby ID | 28546002633548488 |
+| Players | 1/8 |
+| Host Name | ~.~ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:48:12 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:48:49 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632441129 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | ae5 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:47:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002630355612 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Zʌvʌ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:43:47 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002633281527 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | alpha den4ik) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:48:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002633299110 |
+| Players | 5/15 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:48:25 |
 
 
 |  | epic_boss_fight_nightmare |
