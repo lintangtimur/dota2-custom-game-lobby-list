@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002880416340 |
-| Players | 20/24 |
-| Host Name | 9руг |
+| Lobby ID | 28546002888075833 |
+| Players | 1/8 |
+| Host Name | RODIPIT(allmute) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:52:04 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:59:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,29 +29,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002886206403 |
-| Players | 5/8 |
-| Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:57:58 |
+| Lobby ID | 28546002888016920 |
+| Players | 6/24 |
+| Host Name | kieve |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:59:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002887121511 |
-| Players | 4/10 |
-| Host Name | НАТЯЖНЫЕ ПОТОЛКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:58:55 |
+| Lobby ID | 28546002887210120 |
+| Players | 8/24 |
+| Host Name | www.instumblr.top |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:59:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002886638249 |
-| Players | 2/15 |
-| Host Name | D3ath |
+| Players | 3/15 |
+| Host Name | Rxseboy |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 17:58:25 |
 
@@ -67,56 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002886919621 |
+| Lobby ID | 28546002887579544 |
 | Players | 1/24 |
-| Host Name | jnikko |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 17:58:42 |
+| Host Name | ruby |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 17:59:23 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002887210120 |
-| Players | 3/24 |
-| Host Name | www.instumblr.top |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:59:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002887034272 |
-| Players | 3/8 |
-| Host Name | Серёга Баунти |
+| Lobby ID | 28546002886010564 |
+| Players | 2/5 |
+| Host Name | deniz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:58:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002887391890 |
-| Players | 4/15 |
-| Host Name | ! АДЕКВАТНЫЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:59:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002886438424 |
-| Players | 12/15 |
-| Host Name | Myerka |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:58:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002883485575 |
-| Players | 8/10 |
-| Host Name | Cyrus |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:55:10 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:57:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -130,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002885101097 |
-| Players | 9/10 |
-| Host Name | EJL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:56:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002886010564 |
-| Players | 3/5 |
-| Host Name | deniz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:57:46 |
+| Lobby ID | 28546002888177900 |
+| Players | 1/10 |
+| Host Name | Anonymousthetic |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 18:00:00 |
 
 
