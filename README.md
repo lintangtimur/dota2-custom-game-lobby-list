@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002644577386 |
-| Players | 7/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:05:54 |
+| Lobby ID | 28546002648007810 |
+| Players | 5/15 |
+| Host Name | The chosen one ♠ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:11:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:08:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002645940775 |
-| Players | 23/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:07:58 |
+| Lobby ID | 28546002641413876 |
+| Players | 7/8 |
+| Host Name | ~.~ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:01:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:11:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002648007810 |
-| Players | 5/15 |
-| Host Name | The chosen one ♠ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:11:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002641413876 |
-| Players | 7/8 |
-| Host Name | ~.~ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:01:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002643907696 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002644947382 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | shushkan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:06:27 |
