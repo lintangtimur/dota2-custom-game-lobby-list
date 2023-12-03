@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002564183874 |
-| Players | 14/15 |
-| Host Name | 勝利 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:55:39 |
+| Lobby ID | 28546002563625651 |
+| Players | 7/8 |
+| Host Name | тналаT и яилисY |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:54:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002563772086 |
-| Players | 7/8 |
-| Host Name | steps.s |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:54:56 |
+| Lobby ID | 28546002565016727 |
+| Players | 3/8 |
+| Host Name | COCO BASILE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:57:07 |
 
 
 |  | ot3_gardens_duo |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002565209014 |
-| Players | 1/15 |
-| Host Name | XD |
+| Lobby ID | 28546002563994044 |
+| Players | 14/15 |
+| Host Name | Tia Paolaaaaaaa |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:57:27 |
+| Lobby Creation Time | Sunday, December 3, 2023 10:55:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ALFALFITA EL SOLITARIO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:57:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002565016727 |
-| Players | 3/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:57:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002563625651 |
-| Players | 6/8 |
-| Host Name | тналаT и яилисY |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:54:41 |
 
 
