@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003302565890 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Saul Goodman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 00:10:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003301896321 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | COCOBONGO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 00:10:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003301600693 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Teniente roca |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 00:09:41 |
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 00:10:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003302532713 |
-| Players | 13/15 |
-| Host Name | EZ_TRIZ |
+| Lobby ID | 28546003302844614 |
+| Players | 4/8 |
+| Host Name | ExNatic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:10:43 |
+| Lobby Creation Time | Monday, December 4, 2023 00:11:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003302532184 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Bob The Patata |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 00:10:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003302551212 |
-| Players | 9/10 |
-| Host Name | JORDAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:10:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -135,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 00:10:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003302818052 |
-| Players | 1/15 |
-| Host Name | Jonathan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:11:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003302844614 |
-| Players | 3/8 |
-| Host Name | ExNatic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:11:03 |
 
 
 |  | epic_boss_fight_nightmare |
