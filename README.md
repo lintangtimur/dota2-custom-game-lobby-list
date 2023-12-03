@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002803997435 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:25:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002816381786 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Скибиди пидарас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:39:33 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:39:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002816658229 |
-| Players | 1/8 |
-| Host Name | сисечный сомелье |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 16:39:52 |
+| Lobby ID | 28546002816706656 |
+| Players | 2/24 |
+| Host Name | SKIBIDI DOB DOB DOB YES YES |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 3, 2023 16:39:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002816804803 |
+| Players | 1/15 |
+| Host Name | Dodiquel |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:40:02 |
 
 
 |  | epic_boss_fight_nightmare |
