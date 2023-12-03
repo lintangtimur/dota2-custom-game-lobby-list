@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003050534033 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 20:23:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003056439010 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | GoodGuyLavince |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003056571543 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ＮＯＲＬＬＡＮＤ(U27) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:12 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:26:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003055465865 |
-| Players | 21/24 |
-| Host Name | TheBlindShibaInuSexyah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:27:20 |
+| Lobby ID | 28546003056856454 |
+| Players | 6/15 |
+| Host Name | Kori❄♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,34 +122,70 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003046168595 |
-| Players | 3/24 |
-| Host Name | BOT Dezze |
+| Players | 2/24 |
+| Host Name | arhikent |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:20:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003056871946 |
+| Players | 1/15 |
+| Host Name | summerkid |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:25 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003053120637 |
-| Players | 8/10 |
-| Host Name | ☻ |
+| Lobby ID | 28546003056792889 |
+| Players | 7/10 |
+| Host Name | семга (сигма) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:25:29 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003056698039 |
-| Players | 1/15 |
-| Host Name | boss |
+| Lobby ID | 28546003056774663 |
+| Players | 2/15 |
+| Host Name | pzdc.4ipalina |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:28:17 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003056761142 |
+| Players | 1/8 |
+| Host Name | Крутой Пацан2005 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003056790870 |
+| Players | 1/15 |
+| Host Name | Нафотомоядевушка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003056897664 |
+| Players | 2/10 |
+| Host Name | 김정은 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003048738637 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RED.DAYS YAWA |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:22:04 |
@@ -166,19 +202,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546003056589102 |
+| Lobby ID | 28546003056833446 |
 | Players | 1/5 |
 | Host Name | 千夜 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 20:28:12 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003056679906 |
-| Players | 1/10 |
-| Host Name | Gintoki |
+| Lobby ID | 28546003056738827 |
+| Players | 2/10 |
+| Host Name | Malakh player |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:28:17 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:19 |
 
 
