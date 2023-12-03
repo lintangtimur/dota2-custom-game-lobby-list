@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002572407861 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Meat Eye |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:09:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002571181619 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | W бозон 弱相互作用 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:07:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002572058580 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:09:12 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ae5 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:10:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002572676514 |
+| Players | 2/8 |
+| Host Name | Freker ♦ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:10:15 |
 
 
 |  | epic_boss_fight_nightmare |
