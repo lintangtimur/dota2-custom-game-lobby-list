@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002584557784 |
-| Players | 10/24 |
+| Players | 21/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:30:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002585365640 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jose Alejandro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:31:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:31:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002583813238 |
-| Players | 7/8 |
-| Host Name | -200 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:28:52 |
+| Lobby ID | 28546002585807331 |
+| Players | 3/10 |
+| Host Name | Шабит Хапаев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:32:10 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002585108153 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | thnaaake |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:31:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002585455907 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | De Partie ~Peter~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:31:35 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xxGodInstincxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:31:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002585682951 |
-| Players | 6/8 |
-| Host Name | Yo  + 4 inutiles |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:31:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002581954223 |
-| Players | 23/24 |
-| Host Name | Dexter |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:25:48 |
 
 
 |  | epic_boss_fight_nightmare |
