@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002950461770 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:59:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002957118274 |
-| Players | 9/15 |
-| Host Name | Byrhen |
+| Lobby ID | 28546002957327094 |
+| Players | 4/10 |
+| Host Name | Umm... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:06:03 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:06:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955715928 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Балбес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:04:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002956253771 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | STEFON |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:15 |
@@ -67,55 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002956663654 |
-| Players | 9/10 |
-| Host Name | JIGA(happy blessed marriage) |
+| Lobby ID | 28546002957325263 |
+| Players | 2/10 |
+| Host Name | VlaDick |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:05:38 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:06:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002957366773 |
+| Players | 1/24 |
+| Host Name | ASD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:06:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002957179502 |
-| Players | 4/8 |
-| Host Name | . |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:06:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002957159885 |
-| Players | 3/8 |
-| Host Name | прищемил пиструн |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:06:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002957267824 |
-| Players | 4/8 |
-| Host Name | Amigo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:06:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002955350820 |
-| Players | 8/10 |
-| Host Name | Neverrain |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:04:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002957269413 |
-| Players | 1/5 |
-| Host Name | zahar03092015 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:06:11 |
+| Lobby ID | 28546002957343938 |
+| Players | 2/8 |
+| Host Name | Byrhen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:06:15 |
 
 
