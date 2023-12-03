@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003212321027 |
-| Players | 1/10 |
-| Host Name | Boje bombi Belgorod |
+| Lobby ID | 28546003213026238 |
+| Players | 2/10 |
+| Host Name | MeJLki |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:36:27 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:37:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003210988316 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Don payiyo de Pumitas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:35:08 |
@@ -49,37 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003212616287 |
-| Players | 1/15 |
-| Host Name | CAIGOU |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Sunday, December 3, 2023 22:36:45 |
+| Lobby ID | 28546003212864377 |
+| Players | 8/15 |
+| Host Name | Tour de tete |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:36:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003212721131 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AZRA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:36:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003212301284 |
-| Players | 8/10 |
-| Host Name | Resurrection, segunda etapa |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:36:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003212723696 |
-| Players | 2/24 |
-| Host Name | MeJLki |
-| Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:36:51 |
 
 
@@ -94,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003212864377 |
+| Lobby ID | 28546003213041070 |
 | Players | 2/15 |
-| Host Name | Tour de tete |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:36:59 |
+| Host Name | lloll -.-! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 22:37:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Popoye |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:36:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003212903767 |
+| Players | 3/10 |
+| Host Name | TOROTOT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:37:02 |
 
 
