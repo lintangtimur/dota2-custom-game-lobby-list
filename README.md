@@ -32,81 +32,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002574888231 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:14:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002575284093 |
-| Players | 8/15 |
-| Host Name | Skarp. TRADEIT.GG |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:14:40 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002574529339 |
-| Players | 20/24 |
-| Host Name | Attentäter |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:13:25 |
+| Lobby ID | 28546002575991360 |
+| Players | 6/24 |
+| Host Name | 黃人韋厷隹 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:15:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002575905764 |
+| Players | 7/8 |
+| Host Name | Sunset |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:15:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002575151969 |
-| Players | 3/10 |
-| Host Name | 99 |
+| Lobby ID | 28546002575877354 |
+| Players | 1/10 |
+| Host Name | Vaioleto Parr |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:14:26 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:15:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002573984909 |
-| Players | 22/24 |
-| Host Name | Fleek |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:12:29 |
+| Lobby ID | 28546002576020542 |
+| Players | 2/15 |
+| Host Name | ZHAGYX |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:15:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002575218210 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:14:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002575372247 |
-| Players | 6/8 |
-| Host Name | tyred |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:14:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002575228287 |
-| Players | 2/8 |
-| Host Name | VLI1RUS |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 11:14:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002571945425 |
-| Players | 8/10 |
-| Host Name | kymhnju |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:09:00 |
+| Lobby ID | 28546002576048509 |
+| Players | 1/15 |
+| Host Name | yang |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:15:57 |
 
 
