@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003166288891 |
-| Players | 4/8 |
-| Host Name | спустился с небес |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:56:05 |
+| Lobby ID | 28546003166616267 |
+| Players | 1/8 |
+| Host Name | Derka.uk.net |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 21:56:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003166431369 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ytuры gbljрасы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 21:56:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003166319590 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:56:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003161943290 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | 𝓪𝓲𝓶𝒆𝓻 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 21:52:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003166287994 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | АНТИПОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 21:56:05 |
@@ -94,20 +94,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003164774986 |
-| Players | 22/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 21:54:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28546003165636426 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | ftw. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:55:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003166531550 |
+| Players | 7/10 |
+| Host Name | АХУЕННЫЙ СИГМА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:56:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003166698874 |
+| Players | 3/8 |
+| Host Name | help_urself絶望 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:56:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003166698958 |
+| Players | 3/8 |
+| Host Name | Продал деда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:56:25 |
 
 
 |  | epic_boss_fight_normal |
