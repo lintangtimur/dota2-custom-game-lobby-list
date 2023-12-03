@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:00:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002604105409 |
-| Players | 1/24 |
-| Host Name | протащите пж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:01:57 |
+| Lobby ID | 28546002603863321 |
+| Players | 1/8 |
+| Host Name | Mi peor enemigo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:01:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,46 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002603439881 |
-| Players | 14/15 |
-| Host Name | Perc Angle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:00:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002603458361 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Mo' Cake |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:00:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002603863321 |
-| Players | 1/8 |
-| Host Name | Mi peor enemigo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:01:33 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002600820100 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jurisprudencia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:56:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002603641974 |
-| Players | 1/10 |
-| Host Name | 起个名真纠结 |
+| Lobby ID | 28546002604176585 |
+| Players | 2/5 |
+| Host Name | -30MMR |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:01:12 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:02:03 |
 
 
