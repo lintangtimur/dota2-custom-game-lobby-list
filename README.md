@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002620114653 |
-| Players | 11/15 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:27:32 |
+| Lobby ID | 28546002621145173 |
+| Players | 2/10 |
+| Host Name | MySc.JimPark |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:29:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002620650368 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:28:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002620800509 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | BodyFucker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:28:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002620559052 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:28:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002620719067 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | dead outside ィ彡zxc king彡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:28:29 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mi peor enemigo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:28:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002621129661 |
+| Players | 1/10 |
+| Host Name | Sg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:29:08 |
 
 
