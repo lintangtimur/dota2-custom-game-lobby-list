@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002551450405 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:31:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002552887410 |
-| Players | 14/15 |
-| Host Name | Pan con locro |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:34:16 |
+| Lobby ID | 28546002553141066 |
+| Players | 7/8 |
+| Host Name | BLAC-K上帝 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 10:34:49 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002553242822 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Tigerclaw |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:35:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002553473152 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Dialed in. |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:35:32 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:35:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002552695609 |
-| Players | 14/15 |
-| Host Name | steps.s |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:33:50 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002553708970 |
@@ -110,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:36:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002553141066 |
-| Players | 7/8 |
-| Host Name | BLAC-K上帝 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:34:49 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002553771141 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:36:11 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002553776253 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:36:12 |
