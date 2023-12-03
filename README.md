@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002786788971 |
-| Players | 6/8 |
-| Host Name | я мистер достать |
+| Lobby ID | 28546002787629664 |
+| Players | 3/10 |
+| Host Name | godzilla |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:05:58 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:06:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002785172463 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Touhou |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 16:04:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002786690869 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:05:51 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002786899863 |
-| Players | 6/15 |
-| Host Name | bersercer khorna |
+| Lobby ID | 28546002787706036 |
+| Players | 8/15 |
+| Host Name | Jaduka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:06:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002786888632 |
-| Players | 2/10 |
-| Host Name | ensa.berk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:06:04 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:06:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002785698210 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:04:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002787178619 |
+| Players | 1/10 |
+| Host Name | kØs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:06:24 |
 
 
