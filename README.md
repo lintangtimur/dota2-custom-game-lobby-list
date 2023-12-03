@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002594547082 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:46:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002593413176 |
-| Players | 21/24 |
-| Host Name | pajazlocas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:44:45 |
+| Lobby ID | 28546002594814290 |
+| Players | 4/8 |
+| Host Name | Syn999#%*%*%#* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:47:01 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002593796457 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Parazittus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:45:22 |
@@ -103,24 +103,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002593728696 |
-| Players | 13/15 |
-| Host Name | twitch.tv/k1r0vec228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:45:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002594119078 |
-| Players | 5/8 |
-| Host Name | PEPESOR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:45:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002594719016 |
 | Players | 1/15 |
 | Host Name | Incognito |
@@ -130,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002594814290 |
-| Players | 1/8 |
-| Host Name | Syn999#%*%*%#* |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:47:01 |
+| Lobby ID | 28546002594119078 |
+| Players | 6/8 |
+| Host Name | PEPESOR |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:45:53 |
 
 
 |  | epic_boss_fight_hard |
