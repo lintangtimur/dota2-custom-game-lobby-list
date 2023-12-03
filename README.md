@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003052871878 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | saj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:25:18 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:20:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003051303438 |
-| Players | 22/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:24:04 |
+| Lobby ID | 28546003053738725 |
+| Players | 9/15 |
+| Host Name | no blame |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:25:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003052917413 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Dimgo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:25:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003052910304 |
-| Players | 9/10 |
-| Host Name | N!cK Machiavelli |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:25:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | idcmmriplay4fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:25:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003053181872 |
-| Players | 12/15 |
-| Host Name | Byrhen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:25:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003052881616 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:25:18 |
