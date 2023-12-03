@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002862226272 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Good день |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:32:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002868720417 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | blxssxd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:39:41 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002868783425 |
-| Players | 7/8 |
-| Host Name | depressed egoist |
+| Lobby ID | 28546002869023833 |
+| Players | 6/8 |
+| Host Name | Vladjin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:39:45 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:40:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002868774823 |
-| Players | 11/15 |
-| Host Name | hichin enjoyer |
+| Lobby ID | 28546002868911268 |
+| Players | 2/10 |
+| Host Name | DJ жаба |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:39:44 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:39:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -98,33 +98,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 2/8 |
 | Host Name | yasuragi |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:39:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002868911268 |
-| Players | 2/10 |
-| Host Name | DJ жаба |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:39:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002865798679 |
-| Players | 22/24 |
-| Host Name | 武小道 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:36:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002868932826 |
-| Players | 1/24 |
-| Host Name | sdasd |
-| Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 17:39:54 |
 
 
