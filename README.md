@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003018324695 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Not Human |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:58:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002997859964 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | suzy |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003012882787 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Dr. Vegapunk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:53:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003018348282 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | _-_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:58:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003016602409 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Раймондо |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 19:56:36 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003018481722 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | LeRmAnT :D |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:58:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003017267276 |
+| Players | 1/8 |
+| Host Name | Luckyman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:57:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003018647969 |
+| Players | 6/10 |
+| Host Name | BichAssPunk |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:58:15 |
 
 
 |  | epic_boss_fight_nightmare |
