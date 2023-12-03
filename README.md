@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002845710367 |
-| Players | 5/8 |
-| Host Name | snowpain |
+| Lobby ID | 28546002846374761 |
+| Players | 3/8 |
+| Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:14:01 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:14:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002843645088 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Delicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:11:37 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002845613740 |
-| Players | 7/10 |
-| Host Name | Ch1pso3d |
+| Lobby ID | 28546002846356232 |
+| Players | 5/10 |
+| Host Name | bullwinkle |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:13:54 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:14:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002846364983 |
+| Players | 1/8 |
+| Host Name | supermark02 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:14:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002845328576 |
-| Players | 13/15 |
-| Host Name | Wip |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 17:13:34 |
+| Lobby ID | 28546002846407852 |
+| Players | 2/15 |
+| Host Name | fearless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:14:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28546002846002641 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | МОПС МОРЯЧЕК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:14:22 |
