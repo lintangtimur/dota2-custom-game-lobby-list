@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002603863321 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Mi peor enemigo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:01:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002605553590 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Red Jhon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:04:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002605627527 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Шабит Хапаев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:04:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002605919218 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:04:50 |
@@ -119,21 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:05:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002606097202 |
+| Players | 6/8 |
+| Host Name | LIAT0N |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:05:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002606162896 |
+| Players | 1/8 |
+| Host Name | Terry Quacks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 12:05:13 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002606088580 |
-| Players | 1/10 |
+| Lobby ID | 28546002606186287 |
+| Players | 2/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:05:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002604372549 |
-| Players | 9/10 |
-| Host Name | 起个名真纠结 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:02:22 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:05:16 |
 
 
