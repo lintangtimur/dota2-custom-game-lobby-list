@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:26:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002806662060 |
-| Players | 6/8 |
-| Host Name | Casa Matusita Lujan Carrion |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 16:28:25 |
+| Lobby ID | 28546002807232535 |
+| Players | 1/15 |
+| Host Name | EnotRed |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:29:03 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002807061391 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Диего Кастро |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:28:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002807114906 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | bullwinkle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:28:55 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:29:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002799633496 |
-| Players | 9/10 |
-| Host Name | #pdf |
+| Lobby ID | 28546002807130967 |
+| Players | 1/8 |
+| Host Name | Tiny |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:20:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002804020910 |
-| Players | 2/5 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:25:25 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:28:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:27:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002804020910 |
+| Players | 2/5 |
+| Host Name | 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:25:25 |
 
 
