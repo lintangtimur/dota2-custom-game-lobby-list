@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002851316066 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | Deimos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 17:20:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002859143080 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | гена кундалини |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:29:18 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002859862857 |
-| Players | 1/10 |
-| Host Name | PHOS |
+| Players | 5/10 |
+| Host Name | Meyniu_ruku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:30:05 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002859275076 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Wip |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 17:29:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002859900267 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | snowpain |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:30:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002858056637 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | fakeplastictree |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:28:06 |
@@ -110,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:29:53 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546002860028550 |
+| Players | 1/7 |
+| Host Name | Fate |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:30:17 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002859885526 |
+| Lobby ID | 28546002860067614 |
 | Players | 1/5 |
-| Host Name | Pestilence XI |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, December 3, 2023 17:30:07 |
+| Host Name | ふしぐろ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:30:19 |
 
 
