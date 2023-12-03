@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003001488047 |
-| Players | 9/10 |
-| Host Name | 993+7? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:44:17 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003000664264 |
-| Players | 16/24 |
-| Host Name | Arkky |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:43:36 |
+| Lobby ID | 28546003004550153 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003004333285 |
+| Players | 1/8 |
+| Host Name | Takimi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:37 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003002825859 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:45:23 |
@@ -67,20 +67,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003002270950 |
-| Players | 3/8 |
-| Host Name | СИСЯН |
+| Lobby ID | 28546003004678984 |
+| Players | 1/8 |
+| Host Name | Кирюша Гвоздодер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:44:56 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003003146095 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 19:45:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003004328551 |
+| Players | 8/15 |
+| Host Name | Ержан Is No More |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003004604006 |
+| Players | 4/10 |
+| Host Name | Атвертка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003004684628 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003000664264 |
+| Players | 22/24 |
+| Host Name | Arkky |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:43:36 |
 
 
 |  | ot3_gardens_duo |
@@ -92,24 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:45:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003003789190 |
-| Players | 1/8 |
-| Host Name | Luckyman |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:46:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003003873638 |
-| Players | 4/15 |
-| Host Name | Obra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:46:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003002407578 |
@@ -119,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:45:02 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546003004049124 |
-| Players | 1/7 |
-| Host Name | Gundam-X |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:46:23 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546003004046427 |
-| Players | 1/7 |
-| Host Name | Zala |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:46:23 |
+| Lobby ID | 28546003004227501 |
+| Players | 1/5 |
+| Host Name | ppvs |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 19:46:31 |
 
 
