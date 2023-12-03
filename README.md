@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002586834470 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:33:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002585043367 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ROSA MELANO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:30:54 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sid |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:29:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002587543678 |
+| Players | 1/10 |
+| Host Name | Shinzou wo Sasageyo! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:35:03 |
 
 
