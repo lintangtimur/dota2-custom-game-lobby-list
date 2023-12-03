@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002878157263 |
-| Players | 9/10 |
-| Host Name | Humanoid Typhoon |
+| Lobby ID | 28546002878615503 |
+| Players | 1/10 |
+| Host Name | 113 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:49:42 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:50:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002834998186 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | H F F F |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 17:01:18 |
@@ -47,6 +47,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:49:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002878486181 |
+| Players | 7/15 |
+| Host Name | Hoza |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:50:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002878641772 |
+| Players | 2/8 |
+| Host Name | регби это теннис |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:50:12 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546002877784590 |
@@ -54,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pzdc |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:49:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002878657478 |
+| Players | 1/5 |
+| Host Name | Lose and Losing |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:50:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002878680929 |
+| Players | 1/10 |
+| Host Name | AHyperDuck |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:50:15 |
 
 
