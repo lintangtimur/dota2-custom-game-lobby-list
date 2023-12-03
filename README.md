@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002610819717 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | travieso |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:12:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002611323467 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | NiD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:13:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002608734168 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Maro4ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:09:20 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:30 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546002611801670 |
+| Players | 1/7 |
+| Host Name | 196全服第一 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:16 |
 
 
