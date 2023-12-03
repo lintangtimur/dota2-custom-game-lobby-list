@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002549338222 |
-| Players | 5/8 |
-| Host Name | ¡Adич! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:26:30 |
+| Lobby ID | 28546002547906575 |
+| Players | 2/8 |
+| Host Name | Almutally |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:23:20 |
 
 
 |  | ot3_gardens_duo |
@@ -47,49 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:26:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002547811941 |
-| Players | 6/8 |
-| Host Name | Lemi Shó de china |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:23:07 |
+| Lobby ID | 28546002549677979 |
+| Players | 3/15 |
+| Host Name | shmunky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:27:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002548861324 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:25:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002549413422 |
-| Players | 12/15 |
-| Host Name | no, just no |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:26:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002549427700 |
-| Players | 4/24 |
-| Host Name | MAIDERINO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:26:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002549435386 |
-| Players | 6/8 |
-| Host Name | 76561199196836346 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:26:43 |
 
 
 |  | ot3_desert_octet |
@@ -101,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:26:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002547906575 |
-| Players | 4/8 |
-| Host Name | Almutally |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:23:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002549620430 |
-| Players | 1/8 |
-| Host Name | Josieeee |
+| Lobby ID | 28546002549427700 |
+| Players | 6/24 |
+| Host Name | MAIDERINO |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:27:07 |
+| Lobby Creation Time | Sunday, December 3, 2023 10:26:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002549435386 |
+| Players | 7/8 |
+| Host Name | 76561199196836346 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:26:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002549662247 |
+| Players | 2/8 |
+| Host Name | Taison V. Akhal |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:27:12 |
 
 
 |  | epic_boss_fight_hard |
