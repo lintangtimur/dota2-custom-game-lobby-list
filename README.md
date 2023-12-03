@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002673558770 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:47:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002675508831 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Olejarivera |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:49:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669594050 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Yvan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:41:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002674683808 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Sgt Struthers |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:48:45 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002675250207 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:49:31 |
