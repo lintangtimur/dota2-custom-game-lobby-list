@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002865462853 |
-| Players | 3/15 |
-| Host Name | ^_^ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:36:10 |
+| Lobby ID | 28546002865363250 |
+| Players | 1/10 |
+| Host Name | хуйчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:36:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002862226272 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Good день |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:32:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002864940792 |
-| Players | 15/24 |
+| Players | 11/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:35:36 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546002861552752 |
 | Players | 4/8 |
-| Host Name | 我吃了我的祖父 |
+| Host Name | ItsMail |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:31:56 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002863938813 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Captain Usopp |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 17:34:31 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002865389383 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ВиталяБластОФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:36:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002865363250 |
-| Players | 1/10 |
-| Host Name | хуйчик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:36:03 |
 
 
 |  | epic_boss_fight_nightmare |
