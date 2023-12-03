@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002699155331 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Bury the Light |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:20:54 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002699535965 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:21:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002700057434 |
-| Players | 1/10 |
-| Host Name | stop war mf |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 14:22:04 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shushkan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:21:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002700204274 |
+| Players | 1/5 |
+| Host Name | Scoshka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:22:15 |
 
 
