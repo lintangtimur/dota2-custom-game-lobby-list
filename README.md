@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002544029423 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | BARCO CAMARONERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:14:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002543337247 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | BoYzzTz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:13:15 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002543660421 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | COPIUM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:13:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002519255419 |
-| Players | 7/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 09:18:20 |
+| Lobby ID | 28546002544216253 |
+| Players | 4/10 |
+| Host Name | Moog City 2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:15:09 |
 
 
 |  | epic_boss_fight_hard |
