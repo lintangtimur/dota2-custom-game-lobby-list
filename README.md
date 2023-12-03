@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003098406661 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 21:01:26 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003111310276 |
-| Players | 8/10 |
-| Host Name | mr_parfumerrr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:11:51 |
+| Lobby ID | 28546003111916409 |
+| Players | 4/10 |
+| Host Name | Testosteron+ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 21:12:20 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003110159367 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Deimos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:10:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003108711094 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DEPILATEE Y EMPAPATEE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 21:09:46 |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 21:11:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003111846521 |
-| Players | 3/8 |
-| Host Name | 100КГ НА ПЕНИС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:12:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003111875678 |
-| Players | 1/15 |
-| Host Name | Cеркан Болат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:12:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003111861211 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | саянчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 21:12:18 |
