@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002841267556 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | гена кундалини |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:08:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002842671634 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Конгресс победы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:10:28 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002843036154 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | its |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:10:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002843390444 |
+| Players | 1/24 |
+| Host Name | kkkkkkkkkkkkkkkkkkkkkkkk |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 17:11:19 |
 
 
 |  | epic_boss_fight_normal |
