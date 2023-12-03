@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:29:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002983731955 |
-| Players | 10/15 |
-| Host Name | In L♥ve With a Fat Pikachu =3 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 19:29:34 |
+| Lobby ID | 28546002984328754 |
+| Players | 3/8 |
+| Host Name | quince. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:30:04 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002984122018 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Witch) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:29:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002984260137 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | μολὼν λαβέ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:30:01 |
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:30:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002984361805 |
+| Players | 3/24 |
+| Host Name | EBANELLO |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:30:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002978900688 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | k. Danger-Zone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:25:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002984488382 |
+| Players | 1/5 |
+| Host Name | Bebop |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:30:13 |
 
 
