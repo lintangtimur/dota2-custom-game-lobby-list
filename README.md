@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002687254552 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:05:28 |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002688040250 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | тру анимешник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:06:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002687984791 |
-| Players | 12/15 |
-| Host Name | fushd1k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:06:26 |
+| Lobby ID | 28546002688595620 |
+| Players | 1/24 |
+| Host Name | Mr.Banana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:07:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002688625853 |
+| Players | 1/24 |
+| Host Name | Kokodrile |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:07:16 |
 
 
 |  | epic_boss_fight_normal |
