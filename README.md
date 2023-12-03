@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002686439075 |
-| Players | 6/10 |
-| Host Name | Skarp. TRADEIT.GG |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 14:04:23 |
+| Lobby ID | 28546002688174732 |
+| Players | 2/8 |
+| Host Name | Muichiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:06:41 |
 
 
 |  | ot3_desert_octet |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fushd1k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:06:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002688174732 |
-| Players | 2/8 |
-| Host Name | Muichiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:06:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002688201712 |
-| Players | 1/24 |
-| Host Name | Mr.Banana |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 14:06:43 |
 
 
 |  | epic_boss_fight_normal |
