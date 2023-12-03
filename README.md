@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002705820951 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:29:27 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:30:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002706973081 |
-| Players | 1/8 |
-| Host Name | Koyomin |
+| Lobby ID | 28546002707106169 |
+| Players | 1/10 |
+| Host Name | La-Z Rider |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:30:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002700274070 |
-| Players | 1/5 |
-| Host Name | Djoe |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 14:22:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002705795177 |
-| Players | 5/10 |
-| Host Name | ベビーポテト |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:29:25 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:31:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:30:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002705795177 |
+| Players | 5/10 |
+| Host Name | ベビーポテト |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:29:25 |
 
 
