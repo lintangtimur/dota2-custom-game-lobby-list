@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002820455824 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:44:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002816706656 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 16:39:55 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002821014708 |
-| Players | 14/15 |
-| Host Name | Tofus |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 16:44:58 |
+| Lobby ID | 28546002821893348 |
+| Players | 6/10 |
+| Host Name | DAJAK✌ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:45:58 |
 
 
 |  | ot3_desert_octet |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:45:35 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002822012533 |
+| Players | 1/15 |
+| Host Name | DOOM SURFER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:46:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002822023040 |
+| Players | 3/15 |
+| Host Name | ute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:46:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002821645185 |
@@ -86,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002821711496 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Aria |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 16:45:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002821775590 |
-| Players | 2/10 |
-| Host Name | Rama |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:45:50 |
 
 
