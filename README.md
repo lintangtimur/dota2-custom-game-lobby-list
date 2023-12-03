@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002607914640 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Little BirD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:08:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002607650310 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | jack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:07:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002606820093 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Gandalf the White |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:06:17 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002608038356 |
+| Lobby ID | 28546002608138645 |
 | Players | 1/5 |
-| Host Name | Escanor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:08:13 |
+| Host Name | methed |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 3, 2023 12:08:23 |
 
 
