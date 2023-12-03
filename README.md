@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002678010764 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Miles~ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:53:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002678760580 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:55:30 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002679910658 |
-| Players | 1/5 |
-| Host Name | Satan |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:55:45 |
+| Lobby ID | 28546002680101505 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:56:01 |
 
 
