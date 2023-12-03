@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002979365475 |
-| Players | 8/10 |
-| Host Name | Osamena |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:25:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002963673049 |
-| Players | 14/15 |
-| Host Name | фп пудж 5 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 19:12:01 |
+| Lobby ID | 28546002980473207 |
+| Players | 5/15 |
+| Host Name | Глебус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:26:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002980026683 |
+| Players | 16/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:26:24 |
 
 
 |  | ot3_desert_octet |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002978164333 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | TONYAFİNOPEEKGG |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:24:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002979772033 |
-| Players | 14/15 |
-| Host Name | ...... |
+| Lobby ID | 28546002979933582 |
+| Players | 3/8 |
+| Host Name | T.R |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:26:11 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:26:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002980078881 |
-| Players | 1/24 |
-| Host Name | ShhPanda™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:26:27 |
+| Lobby ID | 28546002974624666 |
+| Players | 1/10 |
+| Host Name | AVO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 19:21:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,58 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:18:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002970348068 |
-| Players | 7/8 |
-| Host Name | KOTOMAH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:18:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002974624666 |
-| Players | 1/10 |
-| Host Name | AVO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 19:21:45 |
+| Lobby ID | 28546002980269654 |
+| Players | 3/10 |
+| Host Name | halypa |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 19:26:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002979969905 |
-| Players | 7/10 |
-| Host Name | / |
+| Lobby ID | 28546002980731306 |
+| Players | 3/8 |
+| Host Name | ARTURWORLD DESTROYER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:26:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002979933582 |
-| Players | 1/8 |
-| Host Name | T.R |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:26:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002980026683 |
-| Players | 2/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:26:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002980139485 |
-| Players | 5/8 |
-| Host Name | Collapse |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:26:30 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:27:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -139,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002977858975 |
-| Players | 7/10 |
-| Host Name | Fozzzey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:24:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28546002978900688 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Батя Габен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:25:26 |
