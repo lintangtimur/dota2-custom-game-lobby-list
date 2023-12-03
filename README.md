@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003087650363 |
-| Players | 7/8 |
-| Host Name | МУСОРОВОЗ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:52:40 |
+| Lobby ID | 28546003088353684 |
+| Players | 3/8 |
+| Host Name | ??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:53:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003085631987 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:51:02 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:50:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003088171115 |
-| Players | 6/15 |
-| Host Name | Naboo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:53:05 |
+| Lobby ID | 28546003088296689 |
+| Players | 5/10 |
+| Host Name | Негрошай |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:53:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003088436816 |
+| Players | 3/24 |
+| Host Name | Boos |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 20:53:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003086926653 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Goblok Slayer |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:52:05 |
