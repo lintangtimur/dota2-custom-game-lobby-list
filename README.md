@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002765986071 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | #манипулятор |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002766152018 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KRICO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002766258904 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002766257963 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ядерная бомбежка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:48 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002766285265 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 掌握之中，岂可逃之？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:50 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002766385015 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Fleek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002766342402 |
-| Players | 2/8 |
-| Host Name | gomer |
+| Lobby ID | 28546002766424071 |
+| Players | 1/15 |
+| Host Name | Точно ждал меня? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:42:54 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:43:00 |
 
 
 |  | epic_boss_fight_nightmare |
