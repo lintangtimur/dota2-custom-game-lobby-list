@@ -68,34 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002712410490 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | RATAMANCHE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:37:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002705820951 |
-| Players | 24/24 |
-| Host Name | Fleek |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:29:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002712458621 |
-| Players | 4/8 |
-| Host Name | EL MEJOR RAPPI DEL PERÚ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 14:37:55 |
+| Lobby ID | 28546002712559127 |
+| Players | 1/15 |
+| Host Name | Молофья |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:38:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002706933936 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:30:53 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002712134481 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EJL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:37:30 |
