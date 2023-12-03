@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002662190677 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | The chosen one ♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002662363730 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | EXIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002661985452 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002662097072 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sherlock Holmes |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002661917250 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | only 1pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:16 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002662508481 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | nraza |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002662710358 |
+| Players | 1/10 |
+| Host Name | Redtubero |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:32:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002662729459 |
+| Players | 1/15 |
+| Host Name | ArcaN |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 3, 2023 13:32:25 |
 
 
 |  | epic_boss_fight_normal |
