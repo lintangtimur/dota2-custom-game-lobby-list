@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002684191478 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | 米粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:01:24 |
@@ -13,35 +13,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002685457733 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:03:05 |
+| Lobby ID | 28546002686439075 |
+| Players | 2/10 |
+| Host Name | Skarp. TRADEIT.GG |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:04:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002684472020 |
-| Players | 9/10 |
-| Host Name | HaweeK |
+| Lobby ID | 28546002685076445 |
+| Players | 1/24 |
+| Host Name | dba07 |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 14:01:46 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:02:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002685599023 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | jungle teknah |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:03:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002662906166 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:39 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677757789 |
-| Players | 4/24 |
-| Host Name | X-ART |
+| Players | 3/24 |
+| Host Name | Sandra |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:53 |
 
@@ -83,48 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:01:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002685076445 |
-| Players | 2/24 |
-| Host Name | dba07 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 14:02:34 |
+| Lobby ID | 28546002686778975 |
+| Players | 2/15 |
+| Host Name | XBOX SERIES Z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:04:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002685679462 |
-| Players | 7/15 |
-| Host Name | 63 y.o. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:03:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002686046352 |
-| Players | 9/10 |
-| Host Name | RASTAFARI 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 14:03:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002683281893 |
-| Players | 14/15 |
-| Host Name | Woolf42 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:00:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002686303232 |
-| Players | 1/24 |
-| Host Name | Faiz |
+| Lobby ID | 28546002686860925 |
+| Players | 1/15 |
+| Host Name | 。。。 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:04:13 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:04:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002686452666 |
+| Players | 1/5 |
+| Host Name | миньон неглиже |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:04:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002686573769 |
+| Players | 1/10 |
+| Host Name | Fozzzey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:04:34 |
 
 
