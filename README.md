@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002662508481 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | nraza |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002661985452 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002662097072 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sherlock Holmes |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:31 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Itachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002663275325 |
+| Players | 1/24 |
+| Host Name | Michael Scott |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:33:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002663391143 |
+| Players | 1/10 |
+| Host Name | TaKiTo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:33:20 |
 
 
