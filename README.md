@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003246149520 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Sebastian Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:10:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003247311895 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ужасен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 23:11:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003242015897 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Устрица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 23:06:17 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003246848253 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | mallico |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 23:11:13 |
@@ -131,19 +131,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003247368512 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Cypher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 23:11:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003247506030 |
-| Players | 2/8 |
-| Host Name | BURSOLOD |
+| Lobby ID | 28546003247633015 |
+| Players | 3/10 |
+| Host Name | протеин по вене |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:11:53 |
+| Lobby Creation Time | Sunday, December 3, 2023 23:12:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003244467822 |
+| Players | 23/24 |
+| Host Name | MONO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 23:08:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003247610734 |
+| Players | 1/10 |
+| Host Name | pAu1man |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:11:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003247612935 |
+| Players | 1/24 |
+| Host Name | Ah Zai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:11:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003247699244 |
+| Players | 1/15 |
+| Host Name | Fukuma Mizushi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:12:05 |
 
 
 |  | epic_boss_fight_nightmare |
