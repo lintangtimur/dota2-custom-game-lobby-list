@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002787991534 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ядерная бомбежка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:07:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002785172463 |
-| Players | 14/15 |
-| Host Name | Touhou |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 16:04:08 |
+| Lobby ID | 28546002788167658 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:07:31 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002786690869 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:05:51 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002787991870 |
-| Players | 3/15 |
-| Host Name | 0v3r |
+| Lobby ID | 28546002788441131 |
+| Players | 2/15 |
+| Host Name | ? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:07:19 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:07:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002784968997 |
-| Players | 9/10 |
-| Host Name | ruined image |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:03:54 |
+| Lobby ID | 28546002788559876 |
+| Players | 1/10 |
+| Host Name | -mr.Evg1k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:07:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002787178619 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | kØs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:06:24 |
