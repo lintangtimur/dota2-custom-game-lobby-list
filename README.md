@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002592592895 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:43:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002591735260 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:42:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002592679045 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:43:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002592213029 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | soy muy pingon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:42:47 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:44:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002592931853 |
-| Players | 1/8 |
-| Host Name | criszalo *-*/ |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:43:58 |
+| Lobby ID | 28546002592973024 |
+| Players | 4/10 |
+| Host Name | DANICH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:44:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002592973024 |
-| Players | 2/10 |
-| Host Name | DANICH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:44:02 |
+| Lobby ID | 28546002593154453 |
+| Players | 1/10 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:44:20 |
 
 
 |  | epic_boss_fight_hard |
