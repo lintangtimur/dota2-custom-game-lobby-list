@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002589501332 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:38:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002590283174 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Luulu :) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:39:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002590133364 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | DealtrenS |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:39:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002589291638 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:37:58 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002590480058 |
-| Players | 2/10 |
-| Host Name | ._. abslt Т0ТАLHbIЙ FNД ._. |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 11:39:55 |
+| Lobby ID | 28546002590489475 |
+| Players | 1/10 |
+| Host Name | let`s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:39:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002590596586 |
+| Players | 1/8 |
+| Host Name | AQUI LLEGO TU TIBURON |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:40:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:36:33 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28546002588169218 |
-| Players | 1/7 |
-| Host Name | Teletambis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:36:06 |
 
 
