@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002810721936 |
-| Players | 8/15 |
-| Host Name | Cilly |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:33:03 |
+| Lobby ID | 28546002811092651 |
+| Players | 5/24 |
+| Host Name | 做任务咯 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:33:28 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002810086112 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:32:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002810652278 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Quick Gun Murugan |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 16:32:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002809989293 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ВиталяБластОФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:32:13 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002810383336 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Killerok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:32:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002811105760 |
+| Players | 1/15 |
+| Host Name | KDC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:33:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:31:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002810902251 |
-| Players | 1/10 |
+| Lobby ID | 28546002811101246 |
+| Players | 1/5 |
 | Host Name | Nozl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:33:15 |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 3, 2023 16:33:29 |
 
 
