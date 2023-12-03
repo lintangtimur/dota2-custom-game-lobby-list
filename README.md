@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:26:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002806018445 |
-| Players | 6/8 |
-| Host Name | (Α)λυσσα |
+| Lobby ID | 28546002799791606 |
+| Players | 23/24 |
+| Host Name | Satijah (free Palestine) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:27:40 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:20:38 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002805912196 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | blxssxd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:27:33 |
@@ -85,35 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002806238893 |
-| Players | 1/8 |
+| Lobby ID | 28546002806662060 |
+| Players | 3/8 |
 | Host Name | Casa Matusita Lujan Carrion |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 16:27:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002799791606 |
-| Players | 22/24 |
-| Host Name | Satijah (free Palestine) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:20:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002804981091 |
-| Players | 11/15 |
-| Host Name | Bric1203 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:26:30 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 16:28:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002799633496 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | #pdf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:20:27 |
