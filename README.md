@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002724992001 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CH1naZEs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:53:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002718116637 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ✝ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:45:04 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002724555470 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:53:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002724776006 |
-| Players | 8/10 |
-| Host Name | f4fgw |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 14:53:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002724344684 |
-| Players | 12/15 |
-| Host Name | Mubarak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:52:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002724257217 |
-| Players | 8/24 |
-| Host Name | Reincarnationz |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 14:52:41 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ........ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:53:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002725436019 |
+| Players | 1/10 |
+| Host Name | dlarion |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 14:54:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002724257217 |
+| Players | 8/24 |
+| Host Name | Reincarnationz |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 3, 2023 14:52:41 |
 
 
 |  | epic_boss_fight_nightmare |
