@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677750582 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | MangaDubInggrisSubJepang |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677017309 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:51:54 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002678280899 |
+| Lobby ID | 28546002679171542 |
 | Players | 8/10 |
-| Host Name | DJDOWUPAK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:53:35 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002678760580 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002678942312 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Прoтaceвич Гена |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:54:28 |
@@ -112,29 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002678991071 |
-| Players | 1/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:54:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002679171542 |
-| Players | 2/10 |
-| Host Name | de_dota2 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 13:54:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002679225059 |
-| Players | 6/10 |
-| Host Name | 诺菲尔 (anoda victory for th |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 13:54:51 |
+| Lobby ID | 28546002679444229 |
+| Players | 2/24 |
+| Host Name | 선우공 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:55:08 |
 
 
 |  | epic_boss_fight_nightmare |
