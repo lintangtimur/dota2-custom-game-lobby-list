@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002599468029 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | xkeimaxx |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:54:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002601913524 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Rincewind's Luggage |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:58:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002600579151 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | ._. abslt Т0ТАLHbIЙ FNД ._. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:56:17 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002601312016 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:57:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002602405252 |
+| Players | 4/15 |
+| Host Name | Feed Control |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:59:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002602429460 |
+| Players | 5/8 |
+| Host Name | Desu-Desu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:59:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002602479402 |
+| Players | 1/15 |
+| Host Name | 地爆星 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:59:21 |
 
 
 |  | epic_boss_fight_nightmare |
