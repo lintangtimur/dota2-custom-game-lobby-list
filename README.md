@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002932262533 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 18:43:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002941352940 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | Monty Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:51:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002942832841 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Sherlock |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:52:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002942058521 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | hate voker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:52:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002919878084 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | MurZik |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 18:31:19 |
@@ -86,18 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002942662441 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Byrhen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:52:42 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002942269430 |
-| Players | 7/10 |
-| Host Name | SummYourMom |
+| Lobby ID | 28546002943130444 |
+| Players | 5/10 |
+| Host Name | Шланг |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:52:20 |
+| Lobby Creation Time | Sunday, December 3, 2023 18:53:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002943191817 |
+| Players | 5/15 |
+| Host Name | ҐҐ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:53:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002943258702 |
+| Players | 1/5 |
+| Host Name | Elżbieta |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 18:53:14 |
 
 
