@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002628836681 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | X4nD3riiXx |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:41:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002626855913 |
-| Players | 2/8 |
-| Host Name | 中国是愚民最多的国家 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:38:14 |
+| Lobby ID | 28546002629355129 |
+| Players | 1/15 |
+| Host Name | Amigo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 12:42:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002626691996 |
-| Players | 1/10 |
-| Host Name | Pacemaker |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:37:58 |
+| Lobby ID | 28546002629293365 |
+| Players | 4/10 |
+| Host Name | .l. |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:42:06 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002629033616 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | de_dota2 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:41:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002628555423 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Deimos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:40:55 |
@@ -94,26 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002629302640 |
+| Lobby ID | 28546002629348379 |
 | Players | 1/8 |
-| Host Name | denitrox |
+| Host Name | Manco pero Winner |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:42:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002629293365 |
-| Players | 2/10 |
-| Host Name | .l. |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:42:06 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:42:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002626025595 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Haseo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:36:55 |
