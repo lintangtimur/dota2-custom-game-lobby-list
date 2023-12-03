@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002580506996 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:23:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002579948268 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | DAEMON |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:22:28 |
