@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002591192506 |
-| Players | 9/15 |
-| Host Name | 一斤大板鲫 |
+| Players | 5/15 |
+| Host Name | GHOST |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:41:06 |
 
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:36:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002589479429 |
-| Players | 22/24 |
-| Host Name | Sleeping Giant |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:38:17 |
+| Lobby ID | 28546002592592895 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:43:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002592380717 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | The chosen one ♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:43:03 |
@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002591735260 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:42:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002591666254 |
-| Players | 8/10 |
-| Host Name | 10 iq bot |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:41:53 |
+| Lobby ID | 28546002592850417 |
+| Players | 1/8 |
+| Host Name | Рыгобор Яйцеснюс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:43:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002591969529 |
-| Players | 6/15 |
-| Host Name | Rincewind's Luggage |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:42:23 |
+| Lobby ID | 28546002592679045 |
+| Players | 11/24 |
+| Host Name | Nerfstyle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:43:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002592213029 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | soy muy pingon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:42:47 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002592315654 |
-| Players | 4/10 |
-| Host Name | Who? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:42:57 |
+| Lobby ID | 28546002592791329 |
+| Players | 2/10 |
+| Host Name | Rofl Chick-Fil-A Copter |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:43:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002591411040 |
-| Players | 14/15 |
-| Host Name | tmr |
+| Lobby ID | 28546002592904265 |
+| Players | 6/10 |
+| Host Name | LIAT0N |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:43:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002592931853 |
+| Players | 1/8 |
+| Host Name | Lord Valdomero |
 | Region | CHILE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:41:28 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:43:58 |
 
 
 |  | epic_boss_fight_hard |
@@ -110,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:36:33 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002591948421 |
-| Players | 2/5 |
-| Host Name | GIATAY KA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:42:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002592148493 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:42:40 |
