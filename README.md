@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002639017803 |
-| Players | 4/24 |
-| Host Name | Emrys |
+| Players | 2/24 |
+| Host Name | shiraishi urara |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 12:57:16 |
 
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002639237892 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Продавец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:57:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002639604093 |
-| Players | 11/15 |
-| Host Name | Amigo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:58:11 |
+| Lobby ID | 28546002639761791 |
+| Players | 14/24 |
+| Host Name | *mene; |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:58:26 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002639693993 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Winter Night |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:58:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002639761791 |
-| Players | 14/24 |
-| Host Name | *mene; |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:58:26 |
 
 
 |  | epic_boss_fight_nightmare |
