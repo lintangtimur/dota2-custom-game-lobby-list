@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002657086051 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Твой котик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:24:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002657381488 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Cheer up ^^ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:24:50 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:25:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002658228050 |
-| Players | 6/15 |
-| Host Name | KuKin.Punkkeke |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:26:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002658272828 |
-| Players | 1/10 |
-| Host Name |  |
+| Players | 3/10 |
+| Host Name | gfwegfkms,flwelf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:26:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002658369268 |
+| Players | 1/15 |
+| Host Name | EL PAJAS giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:26:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:22:58 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002658257142 |
-| Players | 1/5 |
-| Host Name | Trekr |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 13:26:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002658264066 |
+| Lobby ID | 28546002658352789 |
 | Players | 1/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:26:06 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:26:13 |
 
 
