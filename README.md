@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:16:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003058302689 |
-| Players | 1/8 |
-| Host Name | ЭЩ ЭЩ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:32 |
+| Lobby ID | 28546003058680385 |
+| Players | 1/15 |
+| Host Name | Замир Безгеев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:50 |
 
 
 |  | ot3_desert_octet |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003050534033 |
-| Players | 8/10 |
-| Host Name | AVO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 20:23:28 |
+| Lobby ID | 28546003058689120 |
+| Players | 15/15 |
+| Host Name | MRayimov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003058125243 |
-| Players | 7/8 |
-| Host Name | Gramadan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:24 |
+| Lobby ID | 28546003058783618 |
+| Players | 6/8 |
+| Host Name | Ferguson♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003057452950 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ambathukam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003058753939 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Nolinaer_TTV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:29:53 |
@@ -131,46 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003058573926 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Free Israel from earth |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 20:29:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003058689120 |
-| Players | 11/15 |
-| Host Name | MRayimov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003058680385 |
-| Players | 1/15 |
-| Host Name | Замир Безгеев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003058783618 |
-| Players | 6/8 |
-| Host Name | Ferguson♥ |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003058783943 |
-| Players | 1/8 |
-| Host Name | ЧЕМПИОН ЗВЕРЕЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:29:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Malakh player |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003058865004 |
+| Players | 1/10 |
+| Host Name | Luffy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:29:59 |
 
 
