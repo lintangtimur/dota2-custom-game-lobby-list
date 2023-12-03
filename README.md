@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002570379687 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Varian Wrynn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:06:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002571102509 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Punisher |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:07:33 |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:07:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002571188495 |
-| Players | 1/10 |
-| Host Name | Tomate Barraza |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:07:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002571360077 |
-| Players | 6/8 |
-| Host Name | Carebear |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:07:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002571362774 |
-| Players | 1/10 |
-| Host Name | 绝活蓝猫王 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 11:08:00 |
+| Lobby ID | 28546002571425969 |
+| Players | 2/15 |
+| Host Name | Chitachik |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:08:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:03:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002571356550 |
-| Players | 1/5 |
-| Host Name | Aikido |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:07:59 |
 
 
