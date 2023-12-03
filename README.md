@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003061195334 |
-| Players | 11/15 |
-| Host Name | ateri |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:31:47 |
+| Lobby ID | 28546003046168595 |
+| Players | 12/24 |
+| Host Name | arhikent |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 20:20:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003061164031 |
-| Players | 3/10 |
-| Host Name | DAZAS |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:31:46 |
+| Lobby ID | 28546003057452950 |
+| Players | 22/24 |
+| Host Name | ambathukam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:28:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003057428223 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Sanshy(U27) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:52 |
@@ -86,19 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003060444602 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Тех-админ доты 3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:31:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003061510525 |
+| Players | 5/15 |
+| Host Name | Osman Abdül-Celil Şişa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003061589128 |
+| Players | 6/10 |
+| Host Name | dj dog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:06 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003046168595 |
-| Players | 12/24 |
-| Host Name | arhikent |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 20:20:03 |
+| Lobby ID | 28546003061589377 |
+| Players | 1/24 |
+| Host Name | ₆⁶₆ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +144,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Malakh player |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:19 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546003061507545 |
+| Players | 1/7 |
+| Host Name | BRD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003061649093 |
+| Players | 1/5 |
+| Host Name | LegenDaddy |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:08 |
 
 
