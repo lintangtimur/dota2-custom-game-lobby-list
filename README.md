@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002830727283 |
-| Players | 8/10 |
-| Host Name | fikys |
+| Lobby ID | 28546002831349470 |
+| Players | 5/15 |
+| Host Name | VBog |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:56:12 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:56:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002830687115 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 모모 |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 16:56:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002823659967 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | oㅅo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:48:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002823314769 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:47:36 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:55:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002831477427 |
+| Players | 1/10 |
+| Host Name | Leafy(H) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:57:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002831459157 |
+| Players | 1/8 |
+| Host Name | revamble.. |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:57:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002828586613 |
@@ -77,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002829720081 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Pattaya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:55:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002831315237 |
-| Players | 1/5 |
-| Host Name | Pestilence XI |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, December 3, 2023 16:56:53 |
 
 
