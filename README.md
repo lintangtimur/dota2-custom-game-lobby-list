@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002862731589 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | whyyyyyyyyyyyy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:33:13 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002861665906 |
-| Players | 6/10 |
-| Host Name | EG.Pakazs |
+| Lobby ID | 28546002862770564 |
+| Players | 11/15 |
+| Host Name | Las Noches |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:32:03 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:33:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002860355798 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | road _to_5K_XD |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 17:30:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002862184087 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | <blank> |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:32:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002862226272 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Good день |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:32:40 |
@@ -76,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002862760718 |
-| Players | 1/8 |
-| Host Name | Уинстон Черчиль |
+| Lobby ID | 28546002861552752 |
+| Players | 7/8 |
+| Host Name | wak joss |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:33:15 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:31:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002862147586 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | EJL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:32:35 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546002862954366 |
+| Players | 1/7 |
+| Host Name | Let him cook |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:33:27 |
 
 
