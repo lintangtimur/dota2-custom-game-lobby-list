@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002949199180 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:58:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002951294677 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | reZaTb RYZKEX |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:00:36 |
@@ -65,19 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 18:59:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002951421348 |
-| Players | 10/15 |
-| Host Name | wannarepette |
+| Lobby ID | 28546002951893020 |
+| Players | 1/8 |
+| Host Name | ДЖОНИ СНЮС |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:00:44 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:01:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002951755971 |
+| Players | 2/10 |
+| Host Name | Присел на грибок |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:01:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002951556766 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | dardx |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:00:51 |
