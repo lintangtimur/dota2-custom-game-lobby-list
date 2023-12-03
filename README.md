@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003040883168 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | ™Legolas™ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 20:15:55 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003038440860 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 1 |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 20:14:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003043138044 |
-| Players | 8/10 |
-| Host Name | Blast220 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:17:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,26 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003043432511 |
-| Players | 3/15 |
-| Host Name | СФ не танцуй! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:17:56 |
+| Lobby ID | 28546003039780683 |
+| Players | 14/15 |
+| Host Name | Beealzeebob |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 20:15:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003043466346 |
-| Players | 2/15 |
-| Host Name | LOL |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 20:17:57 |
+| Lobby ID | 28546003043678982 |
+| Players | 4/15 |
+| Host Name | КМС по водному |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:18:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003043704641 |
+| Players | 1/15 |
+| Host Name | farm kripov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:18:08 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28546003041915018 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:16:44 |
@@ -128,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:17:39 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003043723867 |
+| Players | 1/5 |
+| Host Name | ZET |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 20:18:09 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28546003043485460 |
+| Lobby ID | 28546003043747825 |
 | Players | 2/7 |
-| Host Name | Пенсил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:17:58 |
+| Host Name | Gengarino |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:18:10 |
 
 
