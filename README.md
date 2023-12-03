@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002654055857 |
-| Players | 7/8 |
-| Host Name | SCP |
+| Lobby ID | 28546002659028496 |
+| Players | 1/8 |
+| Host Name | El niño guerrero |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:20:01 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:27:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002657761653 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Долбаеб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:25:23 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:26:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002658931152 |
-| Players | 4/8 |
-| Host Name | why not? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:27:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002658943126 |
-| Players | 1/15 |
-| Host Name | X1a0Yu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:27:04 |
+| Lobby ID | 28546002658979199 |
+| Players | 3/10 |
+| Host Name | EL CUCU MELLET |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 13:27:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002658352789 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:26:13 |
