@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002676550206 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ЧВК Фембойчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:51:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677017309 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:51:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002662906166 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | ArcaN |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002675508831 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Olejarivera |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:49:52 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002674683808 |
-| Players | 13/15 |
-| Host Name | Sgt Struthers |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 13:48:45 |
+| Lobby ID | 28546002677221885 |
+| Players | 7/15 |
+| Host Name | Maldiño |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 3, 2023 13:52:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002675917812 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:50:25 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002677153715 |
+| Lobby ID | 28546002677321474 |
 | Players | 1/8 |
-| Host Name | Paradise- |
+| Host Name | имбецилий |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:52:05 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:52:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002677336440 |
+| Players | 4/8 |
+| Host Name | Miyazono #VEGAS |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 3, 2023 13:52:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002677331094 |
+| Players | 1/8 |
+| Host Name | Lizard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:52:19 |
 
 
 |  | epic_boss_fight_nightmare |
