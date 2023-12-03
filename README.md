@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002765687381 |
-| Players | 5/24 |
-| Host Name | zxczxc |
+| Players | 9/24 |
+| Host Name | Muted all |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:09 |
 
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002765587134 |
-| Players | 4/15 |
-| Host Name | сосальщик 229 |
+| Players | 13/15 |
+| Host Name | Krink |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:02 |
 
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002764016960 |
-| Players | 3/5 |
-| Host Name | 𝓢𝓱𝓲𝓱𝓲𝓽𝓮𝓸 |
+| Lobby ID | 28546002765860570 |
+| Players | 1/15 |
+| Host Name | M1lk |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 15:42:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002765873037 |
+| Players | 1/24 |
+| Host Name | ashen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:40:15 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:42:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002765751523 |
+| Players | 1/10 |
+| Host Name | HarBonDioxide |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:42:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002765317251 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Noel |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 15:41:44 |
@@ -137,21 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:41:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002765579300 |
-| Players | 1/10 |
-| Host Name | __LeoriC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:42:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002765751523 |
-| Players | 1/10 |
-| Host Name | HarBonDioxide |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:42:13 |
+| Lobby ID | 28546002764016960 |
+| Players | 3/5 |
+| Host Name | 𝓢𝓱𝓲𝓱𝓲𝓽𝓮𝓸 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:40:15 |
 
 
