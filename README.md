@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:41:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002670970982 |
-| Players | 12/15 |
-| Host Name | no se |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:43:43 |
+| Lobby ID | 28546002673529506 |
+| Players | 1/8 |
+| Host Name | I am inicible雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:47:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002672275502 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:45:29 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002669153802 |
+| Lobby ID | 28546002673558770 |
 | Players | 1/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:41:14 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:47:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002670817210 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | alpha den4ik) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:43:31 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:46:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002673472452 |
-| Players | 1/15 |
-| Host Name | ’Mr . Big |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:47:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002673430384 |
-| Players | 1/8 |
-| Host Name | #idinaxyi MaLo9_ToP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:47:03 |
 
 
 |  | epic_boss_fight_nightmare |
