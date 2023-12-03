@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002775759950 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:53:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002783194164 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Khyleberg jr. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:01:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002784226444 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Talib |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:03:05 |
