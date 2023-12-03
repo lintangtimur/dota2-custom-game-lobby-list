@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002997859964 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 你説的都對餒 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:18 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002998635432 |
-| Players | 5/10 |
-| Host Name | Макима |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:41:56 |
+| Lobby ID | 28546002998612897 |
+| Players | 9/10 |
+| Host Name | outlived torments |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:41:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002994902705 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | digataba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:38:52 |
@@ -76,26 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002998188189 |
+| Lobby ID | 28546002998962837 |
 | Players | 6/8 |
-| Host Name | Пожилой грибок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:41:34 |
+| Host Name | БОМБЁЖКА ТВ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:42:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002997987884 |
-| Players | 2/15 |
-| Host Name | Imbecility & Courage♉ |
+| Lobby ID | 28546002999081302 |
+| Players | 5/15 |
+| Host Name | Виссарионович |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:41:24 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:42:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002998427571 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 617 agi |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:45 |
@@ -110,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002998612897 |
-| Players | 1/10 |
-| Host Name | outlived torments |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:41:54 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28546002995063949 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | macDONALD |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:39:00 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546002994988143 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Monkey D Luffy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:38:56 |
