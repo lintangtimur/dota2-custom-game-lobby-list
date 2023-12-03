@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002841267556 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | гена кундалини |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:08:49 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002841575958 |
-| Players | 2/15 |
-| Host Name | ТимАн |
+| Lobby ID | 28546002842084217 |
+| Players | 1/10 |
+| Host Name | seekres |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:09:10 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:09:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002841476493 |
-| Players | 4/24 |
+| Players | 14/24 |
 | Host Name | 别问，问就是菜 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:09:03 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002841199958 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | zahar03092015 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:08:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002842209881 |
+| Players | 2/10 |
+| Host Name | zapaxseksa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:09:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002842260642 |
+| Players | 4/15 |
+| Host Name | Dota veteran |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:09:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -65,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:09:00 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002841229589 |
-| Players | 1/7 |
-| Host Name | MightyHorn |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:08:45 |
+| Lobby ID | 28546002841644155 |
+| Players | 2/10 |
+| Host Name | antut™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:09:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002841644155 |
-| Players | 1/10 |
-| Host Name | antut™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:09:15 |
+| Lobby ID | 28546002841974058 |
+| Players | 3/10 |
+| Host Name | RААААААААА 333 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:09:39 |
 
 
