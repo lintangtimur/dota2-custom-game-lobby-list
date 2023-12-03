@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:17:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002745451941 |
-| Players | 12/15 |
-| Host Name | Hentacle Tentai |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:18:44 |
+| Lobby ID | 28546002739485247 |
+| Players | 13/24 |
+| Host Name | Satijah (free Palestine) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:11:32 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002745026675 |
-| Players | 5/8 |
-| Host Name | МАТВЕЙ ЭЙКЕЙ ГЕЙ |
+| Lobby ID | 28546002745820550 |
+| Players | 3/10 |
+| Host Name | Panda |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:18:14 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:19:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aquagio |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:14:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002739485247 |
-| Players | 13/24 |
-| Host Name | Satijah (free Palestine) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:11:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002745820550 |
-| Players | 2/10 |
-| Host Name | Panda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:19:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002745587972 |
-| Players | 2/10 |
-| Host Name | hendra2lm |
+| Players | 3/10 |
+| Host Name | C&C |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 15:18:54 |
 
