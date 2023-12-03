@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003223069275 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Boris |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:47:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003222461807 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | КОТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:46:35 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003221458599 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | MONO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:45:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003219270640 |
-| Players | 21/24 |
-| Host Name | UncleVit0 |
+| Lobby ID | 28546003223174285 |
+| Players | 3/10 |
+| Host Name | Asmodeus |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:43:22 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:47:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003222028772 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:46:08 |
@@ -128,21 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 22:46:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003223175847 |
+| Players | 1/8 |
+| Host Name | Nouns.AlenRoize(ALIAHHN) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:47:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003222786816 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ******* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:46:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003223069288 |
-| Players | 1/10 |
-| Host Name | KazuyA |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 22:47:12 |
 
 
