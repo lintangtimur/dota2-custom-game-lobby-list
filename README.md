@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002544029423 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | BARCO CAMARONERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:14:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002543866098 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | white |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:14:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002543660421 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | COPIUM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:13:55 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002544216253 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Moog City 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:15:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002542220401 |
+| Players | 14/15 |
+| Host Name | Yaga |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:10:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002544329336 |
+| Players | 1/8 |
+| Host Name | EJ-Smill3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:15:23 |
 
 
 |  | epic_boss_fight_hard |
@@ -81,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heh |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:08:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002544319496 |
+| Players | 1/5 |
+| Host Name | Mr.Einsiedler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:15:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002544376069 |
+| Players | 1/10 |
+| Host Name | Night_Revenge |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 10:15:29 |
 
 
