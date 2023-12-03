@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002560152895 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Fleek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:48:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002562558000 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Spooking |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:52:48 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:52:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002562800348 |
-| Players | 1/15 |
-| Host Name | 奥密克戎 |
-| Region | Unknown |
-| Lobby Creation Time | Sunday, December 3, 2023 10:53:13 |
+| Lobby ID | 28546002562807110 |
+| Players | 2/10 |
+| Host Name | Br0ker |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 10:53:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002562089201 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Shigami |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:51:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002557073893 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Vainglory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:43:00 |
