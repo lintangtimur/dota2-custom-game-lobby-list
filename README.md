@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677017309 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:51:54 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002678426186 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | kentaho666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:53:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002678755204 |
+| Players | 1/8 |
+| Host Name | A63z9Ha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002678760580 |
+| Players | 3/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
 
 
 |  | epic_boss_fight_nightmare |
