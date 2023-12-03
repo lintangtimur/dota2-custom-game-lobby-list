@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003235034294 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 37blok |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 22:59:06 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003233508866 |
-| Players | 21/24 |
-| Host Name | Arpa, |
+| Lobby ID | 28546003236818512 |
+| Players | 5/24 |
+| Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:57:32 |
+| Lobby Creation Time | Sunday, December 3, 2023 23:00:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003236249228 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | NFL |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003236666152 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | SLUTMAKER |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:48 |
@@ -77,10 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003236497669 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Pashka |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003236851709 |
+| Players | 1/10 |
+| Host Name | warcharu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 23:01:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003236888030 |
+| Players | 5/10 |
+| Host Name | Knopka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:01:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003236881460 |
+| Players | 1/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:01:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003236914493 |
+| Players | 2/8 |
+| Host Name | как работает пиво? |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:01:03 |
 
 
 |  | epic_boss_fight_nightmare |
