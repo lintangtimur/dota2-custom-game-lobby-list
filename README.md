@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002565862941 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SANTOSO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:58:36 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002564825172 |
-| Players | 13/15 |
-| Host Name | kentaho666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:56:47 |
+| Lobby ID | 28546002563994044 |
+| Players | 14/15 |
+| Host Name | Tia Paolaaaaaaa |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:55:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002564437126 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:56:06 |
@@ -56,37 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:57:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002565987886 |
-| Players | 3/8 |
-| Host Name | czy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:58:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002566059035 |
-| Players | 2/15 |
-| Host Name | HANJIEE HEHEHE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:58:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002566063817 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 😈😈😈 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:58:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002566100601 |
+| Players | 4/8 |
+| Host Name | mode: clown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:59:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002565914893 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Maro4ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:58:42 |
