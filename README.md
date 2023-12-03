@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:16:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003051306670 |
-| Players | 4/8 |
-| Host Name | s3 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:24:04 |
+| Lobby ID | 28546003052214440 |
+| Players | 9/10 |
+| Host Name | evol tnac uoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:24:47 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003050534033 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | AVO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 20:23:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003051303438 |
-| Players | 6/24 |
+| Players | 16/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:24:04 |
@@ -65,19 +65,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:18:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003052420544 |
+| Players | 5/15 |
+| Host Name | 浪風 ❟❛❟ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:24:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003052429336 |
+| Players | 3/8 |
+| Host Name | ТвердосплавЪ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:24:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003052414584 |
+| Players | 1/8 |
+| Host Name | Джидай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:24:56 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003051737397 |
-| Players | 2/10 |
-| Host Name | ඞ |ᴛᴏᴄ🚬ʜᴋᴀ| ඞ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:24:24 |
+| Lobby ID | 28546003052445007 |
+| Players | 3/10 |
+| Host Name | Xaronov |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:24:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003049215333 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Старый ЭР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:22:26 |
