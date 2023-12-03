@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003218072639 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Sebastian Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:42:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003220873949 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Me van a matar causa PIPIPI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:44:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003220499875 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | я не макс, я макима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:44:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003220396809 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | hells paradise~ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 22:44:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003219270640 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | UncleVit0 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:43:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003216689123 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Delay no more |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:40:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003217804903 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | WeaWar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:41:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003219008682 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DEPILATEE Y EMPAPATEE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:43:06 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003220229190 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | igor destroyer |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:44:20 |
@@ -139,11 +139,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003220649110 |
-| Players | 12/15 |
-| Host Name | полный down |
+| Lobby ID | 28546003221001058 |
+| Players | 2/15 |
+| Host Name | простофиля |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:44:45 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:45:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003220985811 |
+| Players | 4/15 |
+| Host Name | произошел дебуст |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:45:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003219912347 |
+| Players | 14/15 |
+| Host Name | Ed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:44:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003221048846 |
+| Players | 1/15 |
+| Host Name | Baroco |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 22:45:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003220235086 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | kØs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:44:20 |
