@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002919878084 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MurZik |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 18:31:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002943307119 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | баню пуджа |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:53:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002941598386 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Roshmake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:51:43 |
@@ -58,20 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002946111174 |
-| Players | 1/10 |
-| Host Name | ШРЭК |
+| Lobby ID | 28546002946454820 |
+| Players | 2/10 |
+| Host Name | trash |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:55:50 |
+| Lobby Creation Time | Sunday, December 3, 2023 18:56:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002946272710 |
-| Players | 2/8 |
-| Host Name | Чиназес |
+| Lobby ID | 28546002946416873 |
+| Players | 7/8 |
+| Host Name | sam_atakuy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:56:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002946400405 |
+| Players | 1/8 |
+| Host Name | Овощёна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:55:59 |
+| Lobby Creation Time | Sunday, December 3, 2023 18:56:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002946433624 |
+| Players | 4/8 |
+| Host Name | _EGASH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 18:56:08 |
 
 
 |  | epic_boss_fight_normal |
