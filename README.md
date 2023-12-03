@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002693201516 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | M.R-YoEL |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:13:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002691083852 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | pajazlocas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:10:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677757789 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Sandra |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:53 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002693123171 |
-| Players | 9/10 |
-| Host Name | Григорий Гвоздь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:13:07 |
+| Lobby ID | 28546002693893855 |
+| Players | 1/10 |
+| Host Name | VOID ESPONJA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:14:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002693258404 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ShhPanda™ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 14:13:18 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:13:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002693815084 |
+| Players | 2/10 |
+| Host Name | DZIGYN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:14:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002689270729 |
+| Players | 12/15 |
+| Host Name | LIL  MAESTRO YOGA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:08:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002689903928 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | EJL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:08:56 |
