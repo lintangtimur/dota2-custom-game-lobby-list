@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003174305756 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | саламоLEXUS |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:02:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003173293183 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | =) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:01:50 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 22:02:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003174690059 |
-| Players | 1/15 |
-| Host Name | <Sata> |
+| Lobby ID | 28546003174760494 |
+| Players | 1/8 |
+| Host Name | Наташа два баша |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:02:59 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:03:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003174681698 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Callin mё |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:02:59 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 22:03:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003173415051 |
+| Players | 23/24 |
+| Host Name | LaGood |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:01:56 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003154631541 |
@@ -119,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 21:46:35 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28546003174704747 |
-| Players | 1/5 |
-| Host Name | Old Bot |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:03:00 |
+| Lobby ID | 28546003174889241 |
+| Players | 2/7 |
+| Host Name | Teletambis |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 22:03:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003174944695 |
+| Players | 1/10 |
+| Host Name | RB19 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:03:12 |
 
 
