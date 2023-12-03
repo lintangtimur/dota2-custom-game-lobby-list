@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002662190677 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ESTERILIZA CHOLAS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:31:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002665402717 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Молофья |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:36:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002664615249 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | joder |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:35:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002665381495 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | swl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:36:05 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002666165847 |
-| Players | 1/24 |
-| Host Name | pepe |
+| Players | 5/24 |
+| Host Name | My fart doesn't stink |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 13:37:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002666337631 |
+| Players | 1/8 |
+| Host Name | pepe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:37:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002663653422 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | hendra2lm |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 13:33:42 |
