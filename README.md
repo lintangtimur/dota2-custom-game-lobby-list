@@ -112,24 +112,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002677706771 |
-| Players | 5/8 |
-| Host Name | CUBANO |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 13:52:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002681921534 |
-| Players | 6/10 |
-| Host Name | вечно срать |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:58:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28546002682037959 |
 | Players | 3/8 |
 | Host Name | Uber-Pownage™ |
@@ -139,29 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002682526334 |
-| Players | 1/15 |
-| Host Name | Yami |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:59:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002682561862 |
 | Players | 1/15 |
-| Host Name | »¤♣♂PaTrIk17♂♣¤« |
+| Host Name | NINETEEN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:59:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002680232477 |
-| Players | 9/10 |
-| Host Name | ria |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 13:56:11 |
+| Lobby ID | 28546002682679569 |
+| Players | 1/10 |
+| Host Name | Григорий Гвоздь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:59:23 |
 
 
 |  | epic_boss_fight_normal |
