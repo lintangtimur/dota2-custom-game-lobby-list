@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002858678231 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Nooddi |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:28:48 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002851316066 |
-| Players | 22/24 |
-| Host Name | Deimos |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 17:20:33 |
+| Lobby ID | 28546002858851351 |
+| Players | 11/15 |
+| Host Name | Monke |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:28:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002858186372 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:28:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002858628016 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ПАПА Seed'a |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:28:44 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ДАЖЕ ЧУРКА |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:28:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002858851351 |
-| Players | 4/15 |
-| Host Name | Monke |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:28:59 |
 
 
 |  | epic_boss_fight_nightmare |
