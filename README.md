@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002775426411 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | |-|and|3R |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 15:53:10 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002774749027 |
-| Players | 21/24 |
-| Host Name | AikoSora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:52:24 |
+| Lobby ID | 28546002775648657 |
+| Players | 2/8 |
+| Host Name | не обязан! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:53:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002774678908 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DrX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:52:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002775491204 |
+| Players | 1/24 |
+| Host Name | Romashka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:53:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002775585047 |
+| Players | 6/8 |
+| Host Name | OG uzok |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:53:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002775203170 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ʀɪɴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:52:55 |
