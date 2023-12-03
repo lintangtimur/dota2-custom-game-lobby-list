@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002597543401 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Mc |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:51:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002597357806 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | cockygod |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:51:07 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002595396259 |
-| Players | 22/24 |
-| Host Name | Jing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:47:57 |
+| Lobby ID | 28546002597913346 |
+| Players | 3/24 |
+| Host Name | ⅅαn₲hɛℓℓ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:52:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,36 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002597759869 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dota Veteran |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:51:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002597913346 |
-| Players | 2/24 |
-| Host Name | ⅅαn₲hɛℓℓ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:52:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002597968148 |
-| Players | 6/8 |
-| Host Name | Naranjo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:52:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002598000701 |
-| Players | 1/24 |
-| Host Name | PPPFFFTTT |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 11:52:09 |
+| Lobby ID | 28546002598085860 |
+| Players | 5/8 |
+| Host Name | popochka |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 11:52:17 |
 
 
