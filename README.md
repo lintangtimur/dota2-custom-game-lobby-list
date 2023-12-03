@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003155045630 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | colapse da shopee |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 21:46:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003157646271 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Okay |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 21:49:02 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003157805665 |
-| Players | 3/8 |
-| Host Name | yuki |
+| Lobby ID | 28546003157888431 |
+| Players | 6/8 |
+| Host Name | runawway(Positive, mental unstab |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:49:09 |
+| Lobby Creation Time | Sunday, December 3, 2023 21:49:13 |
 
 
 |  | ot3_gardens_duo |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003157719107 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | СИГМА ВИКТОР |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:49:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003158018405 |
+| Players | 4/15 |
+| Host Name | A&h |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 21:49:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003155166389 |
+| Players | 23/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 21:47:02 |
 
 
 |  | epic_boss_fight_normal |
