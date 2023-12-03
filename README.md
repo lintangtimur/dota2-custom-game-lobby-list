@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002561518018 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Exor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:50:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002561491915 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Deicide |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:50:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002561197158 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Varian Wrynn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:50:23 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mode: clown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:50:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002561705793 |
+| Players | 2/8 |
+| Host Name | VAGO DE MRD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:51:17 |
 
 
 |  | epic_boss_fight_nightmare |
