@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002624952655 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:35:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002625980284 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | HUAYNA CAPAC |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:36:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002626792917 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Замшелый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002627022545 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | el mata bolivianos 3k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:29 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002626855913 |
-| Players | 3/8 |
-| Host Name | Star |
+| Players | 2/8 |
+| Host Name | 中国是愚民最多的国家 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:14 |
 
@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002627176729 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002627399002 |
+| Players | 1/10 |
+| Host Name | Star |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:39:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002625511561 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | FERXXO HANMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:36:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002627346919 |
-| Players | 1/15 |
-| Host Name | Rony |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:39:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002627354196 |
-| Players | 3/8 |
-| Host Name | M142 HIMARS |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:39:01 |
 
 
 |  | epic_boss_fight_nightmare |
