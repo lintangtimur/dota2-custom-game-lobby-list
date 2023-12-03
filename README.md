@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002725672977 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | myls |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:54:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002724555470 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:53:02 |
@@ -49,47 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002726153728 |
-| Players | 6/8 |
-| Host Name | Mihiko |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:54:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002725592539 |
-| Players | 18/24 |
-| Host Name | bangali |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:54:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002724257217 |
-| Players | 23/24 |
-| Host Name | Reincarnationz |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 14:52:41 |
+| Lobby ID | 28546002726950842 |
+| Players | 3/8 |
+| Host Name | r.rpaaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:55:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002726566234 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Windranger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:55:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002726924584 |
-| Players | 1/10 |
-| Host Name | dlarion |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 14:55:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:44:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002727072083 |
+| Players | 1/5 |
+| Host Name | AtrocitY |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 14:56:08 |
 
 
