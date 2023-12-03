@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003218072639 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Sebastian Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:42:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003219505671 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Губной водитель |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:43:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003218333355 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 9I_y_Mambl_balerina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:42:25 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003217804903 |
-| Players | 21/24 |
-| Host Name | Instantaneous Death//OT3.0 |
+| Players | 16/24 |
+| Host Name | 浮生幻梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:41:53 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003218833261 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ꧁༺ParZival༻꧂ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:42:55 |
@@ -128,28 +128,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 22:43:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003219928866 |
-| Players | 1/15 |
-| Host Name | KING |
+| Lobby ID | 28546003220099948 |
+| Players | 5/10 |
+| Host Name | Meowww |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:44:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:44:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003219912347 |
-| Players | 5/15 |
-| Host Name | Ed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:44:00 |
+| Lobby ID | 28546003220098085 |
+| Players | 2/15 |
+| Host Name | Умер в конце драйва |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:44:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003217749681 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | k. Danger-Zone |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 22:41:50 |
