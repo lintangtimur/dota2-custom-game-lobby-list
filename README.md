@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002545745518 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:18:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002545235310 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:17:24 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:18:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002545368673 |
-| Players | 8/10 |
-| Host Name | Goodbye |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:17:42 |
+| Lobby ID | 28546002546002627 |
+| Players | 1/24 |
+| Host Name | MAKE ARGENTINA GREAT AGAIN |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:19:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002545737131 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Dialed in. |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:18:31 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:17:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002545948960 |
-| Players | 5/8 |
-| Host Name | House |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:18:59 |
+| Lobby ID | 28546002546053818 |
+| Players | 1/15 |
+| Host Name | 自行车 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:19:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002545964595 |
+| Lobby ID | 28546002546059967 |
 | Players | 1/10 |
 | Host Name | inyourdream |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:19:01 |
+| Lobby Creation Time | Sunday, December 3, 2023 10:19:13 |
 
 
 |  | epic_boss_fight_hard |
