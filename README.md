@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002698402517 |
-| Players | 14/15 |
-| Host Name | Ƶ口ω℟ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:19:55 |
+| Lobby ID | 28546002699155331 |
+| Players | 6/15 |
+| Host Name | Bury the Light |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 14:20:54 |
 
 
 |  | ot3_desert_octet |
@@ -27,33 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002698778858 |
-| Players | 7/8 |
-| Host Name | أشكرك أنا غني أنا |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:20:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002695589688 |
-| Players | 1/8 |
-| Host Name | прыщик on improve |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:16:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002698071566 |
-| Players | 19/24 |
-| Host Name | win lane lose game |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:19:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:20:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002699155331 |
-| Players | 3/15 |
-| Host Name | Bury the Light |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 14:20:54 |
+| Lobby ID | 28546002698071566 |
+| Players | 21/24 |
+| Host Name | win lane lose game |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:19:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002699333677 |
-| Players | 1/10 |
+| Lobby ID | 28546002699483906 |
+| Players | 2/10 |
 | Host Name | 起个名真纠结 |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 14:21:08 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:21:20 |
 
 
