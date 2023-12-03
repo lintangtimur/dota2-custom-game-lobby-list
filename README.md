@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003285880990 |
-| Players | 2/8 |
-| Host Name | Bommy |
+| Players | 1/8 |
+| Host Name | BloodyGnomka |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 23:52:27 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003286775087 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AnYeloUruri |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 23:53:26 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003286970019 |
-| Players | 7/8 |
-| Host Name | Ориентация север< |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:53:39 |
+| Lobby ID | 28546003287387788 |
+| Players | 2/8 |
+| Host Name | yODAI |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 23:54:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003286909077 |
-| Players | 4/8 |
-| Host Name | малышка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:53:35 |
+| Lobby ID | 28546003287408993 |
+| Players | 1/8 |
+| Host Name | Miyazono #VEGAS |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 3, 2023 23:54:08 |
 
 
 |  | ot3_gardens_duo |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 23:53:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003287187843 |
-| Players | 9/15 |
-| Host Name | Jabroni |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:53:54 |
+| Lobby ID | 28546003287368810 |
+| Players | 6/8 |
+| Host Name | TheCadic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:54:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003286858779 |
+| Players | 8/10 |
+| Host Name | IDK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:53:31 |
 
 
 |  | epic_boss_fight_nightmare |
