@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003118182110 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Marshals |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 21:17:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003129068594 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Gr1zz_lee4 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 21:26:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003128354421 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Хуевый Лимон |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 21:25:32 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003128160535 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Inukami Korone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:25:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003129906826 |
-| Players | 9/15 |
-| Host Name | dante |
+| Lobby ID | 28546003130114399 |
+| Players | 6/8 |
+| Host Name | but |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:26:46 |
+| Lobby Creation Time | Sunday, December 3, 2023 21:26:56 |
 
 
 |  | ot3_desert_octet |
@@ -149,10 +149,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003129781671 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Nan |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:26:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003130184900 |
+| Players | 6/8 |
+| Host Name | РУБЕЖ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:27:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003130204257 |
+| Players | 3/15 |
+| Host Name | akumu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:27:01 |
 
 
 |  | epic_boss_fight_nightmare |
