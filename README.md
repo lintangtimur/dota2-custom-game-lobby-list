@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002957541556 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | bangali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:06:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955984913 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Pinochet |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002958944647 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | ТАЛАНТ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:07:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955715928 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Балбес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:04:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002958992251 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | я талант |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:07:46 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002959468176 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Do you really wanna die, fam? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:08:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002959646598 |
+| Players | 1/8 |
+| Host Name | Волк с луз стрик |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:08:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002959277787 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:08:02 |
