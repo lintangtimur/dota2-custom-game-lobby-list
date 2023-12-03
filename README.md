@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002658097897 |
-| Players | 1/24 |
-| Host Name | |{yk0J|Д¥№ |
+| Lobby ID | 28546002657086051 |
+| Players | 7/15 |
+| Host Name | Твой котик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:25:52 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:24:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002657381488 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Cheer up ^^ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:24:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002657594023 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:25:08 |
@@ -58,28 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002657086051 |
+| Lobby ID | 28546002658228050 |
 | Players | 6/15 |
-| Host Name | Твой котик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:24:24 |
+| Host Name | KuKin.Punkkeke |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:26:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002656577827 |
-| Players | 7/10 |
-| Host Name | de_dota2 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 13:23:40 |
+| Lobby ID | 28546002658272828 |
+| Players | 1/10 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:26:07 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546002656087917 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | ckalazyb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:22:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002658257142 |
+| Players | 1/5 |
+| Host Name | Trekr |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 3, 2023 13:26:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002658264066 |
+| Players | 1/10 |
+| Host Name | 起个名真纠结 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:26:06 |
 
 
