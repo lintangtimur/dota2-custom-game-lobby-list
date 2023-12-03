@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002574794407 |
-| Players | 9/10 |
-| Host Name | Sk4znt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:13:50 |
+| Lobby ID | 28546002577095986 |
+| Players | 1/10 |
+| Host Name | Flame Retardant Polar Bear |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:17:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002575270803 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | LЄՏLіЄ СӉѺЩ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:14:38 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002570702500 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:06:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002574888231 |
-| Players | 18/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:14:00 |
+| Lobby ID | 28546002576048509 |
+| Players | 10/15 |
+| Host Name | TINI |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:15:57 |
 
 
 |  | ot3_desert_octet |
@@ -49,55 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002576094308 |
-| Players | 4/8 |
-| Host Name | EgorVor228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:16:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002575877354 |
-| Players | 1/10 |
-| Host Name | Vaioleto Parr |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:15:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002576048509 |
-| Players | 7/15 |
-| Host Name | TINI |
+| Lobby ID | 28546002577029674 |
+| Players | 3/8 |
+| Host Name | Hold that sound! |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:15:57 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:17:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002575218210 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:14:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002576081067 |
-| Players | 10/15 |
-| Host Name | LuK |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:16:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002573942519 |
-| Players | 8/10 |
-| Host Name | Shigami |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:12:24 |
+| Lobby ID | 28546002577241925 |
+| Players | 2/5 |
+| Host Name | DizVen |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:17:58 |
 
 
