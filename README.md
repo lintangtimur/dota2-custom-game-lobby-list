@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002919878084 |
-| Players | 14/15 |
-| Host Name | MurZik |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 18:31:19 |
+| Lobby ID | 28546002938907187 |
+| Players | 6/8 |
+| Host Name | signalis |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:49:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002938129320 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:48:30 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002937454140 |
-| Players | 5/24 |
-| Host Name | AYAYA |
+| Players | 1/24 |
+| Host Name | HotCoffee |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 18:47:52 |
 
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002938119642 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | HopeCounty |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:48:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002938862350 |
-| Players | 4/8 |
-| Host Name | I came to raise mmr |
+| Lobby ID | 28546002938973472 |
+| Players | 6/15 |
+| Host Name | One kiss, but what<3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:49:11 |
+| Lobby Creation Time | Sunday, December 3, 2023 18:49:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | asvdlascklp1v23!)@#!)@# |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:49:01 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546002938857958 |
-| Players | 2/7 |
-| Host Name | NoName |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:49:11 |
 
 
