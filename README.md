@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002629348379 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Manco pero Winner |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:42:11 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002628600567 |
-| Players | 12/15 |
+| Players | 8/15 |
 | Host Name | EL AYUWOKI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:41:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002629853442 |
-| Players | 13/15 |
-| Host Name | K(-)МШоТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:42:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002630126108 |
-| Players | 6/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:43:25 |
 
 
 |  | ot3_desert_octet |
@@ -74,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:43:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002630126108 |
+| Players | 7/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:43:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002630461101 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | bingbongbiang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:43:57 |
