@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002856910394 |
-| Players | 6/10 |
-| Host Name | Takashi |
+| Lobby ID | 28546002856921160 |
+| Players | 9/15 |
+| Host Name | l4klRasta |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:26:50 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:26:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002834998186 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | H F F F |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 17:01:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002853063261 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | heso |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:22:32 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002856819591 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | чин чан чон чи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:26:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002856921160 |
-| Players | 5/15 |
-| Host Name | l4klRasta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:26:51 |
+| Lobby ID | 28546002857239112 |
+| Players | 3/8 |
+| Host Name | истрибитель пивка |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:27:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002854016790 |
-| Players | 9/10 |
-| Host Name | Lose and Losing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:23:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28546002856645605 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Daenerys |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 17:26:32 |
