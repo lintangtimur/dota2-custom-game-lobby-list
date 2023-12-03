@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002555643329 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:40:20 |
@@ -54,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:41:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002556549427 |
+| Players | 1/8 |
+| Host Name | CRIMSON™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:42:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002556575375 |
+| Players | 1/15 |
+| Host Name | 24 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 10:42:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002553776253 |
+| Players | 8/10 |
+| Host Name | Jurisprudencia |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 10:36:12 |
 
 
