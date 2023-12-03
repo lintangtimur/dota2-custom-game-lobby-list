@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002587392251 |
-| Players | 2/15 |
-| Host Name | K1 de dia Kchero de noche |
+| Players | 1/15 |
+| Host Name | La Pobreza |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:34:48 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002586959283 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ПуссиДжуси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:34:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002585043367 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ROSA MELANO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:30:54 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002587160481 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:34:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002587626684 |
+| Players | 4/15 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:35:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002587049834 |
+| Players | 12/15 |
+| Host Name | ポKatsuroポ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:34:13 |
 
 
 |  | epic_boss_fight_nightmare |
