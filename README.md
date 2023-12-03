@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002792429631 |
-| Players | 7/8 |
-| Host Name | Иван Дубохуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:12:20 |
+| Lobby ID | 28546002792982982 |
+| Players | 3/8 |
+| Host Name | че молчите |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 16:12:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002792310895 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | MurDay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:12:12 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002792701791 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Андрей Щикатило |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:12:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002792982982 |
-| Players | 1/8 |
-| Host Name | че молчите |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 16:12:57 |
 
 
 |  | epic_boss_fight_nightmare |
