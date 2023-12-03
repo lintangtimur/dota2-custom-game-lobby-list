@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002823400441 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 16:47:42 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002826094362 |
-| Players | 4/15 |
-| Host Name | Замир Безгеев |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:50:49 |
+| Lobby ID | 28546002826141801 |
+| Players | 9/10 |
+| Host Name | Sandwich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:50:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002826141801 |
+| Lobby ID | 28546002826327936 |
 | Players | 4/10 |
-| Host Name | Sandwich |
+| Host Name | Jennmenn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:50:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002825512385 |
-| Players | 6/8 |
-| Host Name | Коля Коляска |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:50:09 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:51:05 |
 
 
 |  | epic_boss_fight_hard |
