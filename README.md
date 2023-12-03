@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002850992727 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | winx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:20:10 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002850467304 |
-| Players | 5/8 |
-| Host Name | Питон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:19:34 |
+| Lobby ID | 28546002850812507 |
+| Players | 1/8 |
+| Host Name | Пожилая жидкость |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:19:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:18:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002849598581 |
-| Players | 22/24 |
-| Host Name | <3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:18:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002850660112 |
-| Players | 1/15 |
-| Host Name | oㅅo |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 17:19:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002850812507 |
-| Players | 1/8 |
-| Host Name | Пожилая жидкость |
+| Lobby ID | 28546002849306097 |
+| Players | 4/8 |
+| Host Name | Mr. Hippo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:18:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002851161604 |
+| Players | 1/24 |
+| Host Name | Hermionthony ハーマイオニ |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:19:58 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:20:22 |
 
 
 |  | epic_boss_fight_nightmare |
