@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003046168595 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | arhikent |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:20:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003057452950 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ambathukam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003057428223 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sanshy(U27) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:52 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:31:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003061510525 |
-| Players | 5/15 |
-| Host Name | Osman Abdül-Celil Şişa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:32:02 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003061589128 |
-| Players | 6/10 |
-| Host Name | dj dog |
+| Lobby ID | 28546003061874322 |
+| Players | 4/10 |
+| Host Name | Buğra |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003061715451 |
+| Players | 3/8 |
+| Host Name | ЭЩ ЭЩ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:32:06 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:11 |
 
 
 |  | ot3_desert_octet |
@@ -157,10 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546003061649093 |
-| Players | 1/5 |
-| Host Name | LegenDaddy |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 20:32:08 |
+| Lobby ID | 28546003061742885 |
+| Players | 2/5 |
+| Host Name | Сосунок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:32:13 |
 
 
