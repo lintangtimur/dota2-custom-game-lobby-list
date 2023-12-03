@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002739485247 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:11:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002747674078 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | unhinged |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:21:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002748273927 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | محمد بن سلمان بن ا |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:22:07 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002748394528 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mordi__63 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:22:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002748526738 |
+| Players | 4/8 |
+| Host Name | Унитазный вор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:22:25 |
 
 
 |  | epic_boss_fight_nightmare |
