@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002700062508 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | 掌握之中，岂可逃之？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:22:04 |
@@ -32,25 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002700574417 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | stop war mf |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:22:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002699535965 |
-| Players | 5/8 |
-| Host Name | kvch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:21:24 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002700554372 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | мориарти |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:22:42 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CALIBRANDO NO ME FEDEES |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:22:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002700981246 |
+| Players | 2/5 |
+| Host Name | Лишайный Блямбус |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:23:15 |
 
 
