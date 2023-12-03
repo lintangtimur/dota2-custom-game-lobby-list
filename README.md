@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002581150357 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | trey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:24:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002581307676 |
-| Players | 6/24 |
+| Players | 21/24 |
 | Host Name | a |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:24:44 |
@@ -49,11 +49,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002580788886 |
-| Players | 13/15 |
-| Host Name | ROCKITA |
+| Lobby ID | 28546002581778596 |
+| Players | 8/15 |
+| Host Name | Chef Clone 23 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002581824593 |
+| Players | 12/15 |
+| Host Name | Rincewind's Luggage |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002581835986 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002581890559 |
+| Players | 3/10 |
+| Host Name | XxTuviejoxX |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:23:52 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002581954223 |
+| Players | 1/24 |
+| Host Name | Dexter |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dark Herras |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 11:24:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002582024528 |
+| Players | 1/5 |
+| Host Name | Halucard |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:55 |
 
 
