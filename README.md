@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003031686136 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:08:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003027221214 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:05:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003031259393 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | проверка связи |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:08:20 |
@@ -95,34 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003031954502 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | Бугименчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:08:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003032040686 |
-| Players | 1/15 |
-| Host Name | 碧落黄泉九千胜 |
-| Region | AUSTRALIA |
+| Lobby ID | 28546003032054184 |
+| Players | 3/8 |
+| Host Name | Блискавиця |
+| Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:08:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003032064298 |
-| Players | 4/8 |
-| Host Name | анальная сучка |
-| Region | JAPAN |
+| Lobby ID | 28546003032075706 |
+| Players | 1/8 |
+| Host Name | поменял маму на ману |
+| Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:08:59 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28546003018363249 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 19:58:02 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003030772208 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ベビーポテト |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:07:57 |
