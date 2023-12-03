@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002738495132 |
-| Players | 6/8 |
-| Host Name | N\E |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:10:18 |
+| Lobby ID | 28546002739899267 |
+| Players | 2/24 |
+| Host Name | Kumiiii |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 15:12:02 |
 
 
 |  | ot3_desert_octet |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002739636083 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | #манипулятор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:11:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002739847084 |
-| Players | 1/15 |
-| Host Name | Tempest |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 15:11:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002739846421 |
-| Players | 1/24 |
-| Host Name | GimmeBrownies |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 15:11:58 |
 
 
 |  | epic_boss_fight_nightmare |
