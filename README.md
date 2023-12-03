@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002919878084 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | MurZik |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 18:31:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002934202082 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Rikes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:44:50 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002935592883 |
-| Players | 1/15 |
-| Host Name | 四道口捞鱼狂兵 |
+| Players | 3/15 |
+| Host Name | konduktor312 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:46:08 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002935198334 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:45:46 |
@@ -85,29 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002933934691 |
-| Players | 12/15 |
-| Host Name | drainey |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 18:44:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002935146960 |
-| Players | 8/10 |
-| Host Name | nut- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:45:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002935394907 |
-| Players | 3/8 |
-| Host Name | ICHZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:45:57 |
+| Lobby ID | 28546002935898891 |
+| Players | 1/15 |
+| Host Name | взонен |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:46:25 |
 
 
 |  | epic_boss_fight_nightmare |
