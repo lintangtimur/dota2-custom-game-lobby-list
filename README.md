@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002965299497 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | AnythingToSay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:13:29 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002965740601 |
-| Players | 6/8 |
-| Host Name | DİMDİCK |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:13:53 |
+| Lobby ID | 28546002966104225 |
+| Players | 2/8 |
+| Host Name | nuck figgers |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:14:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002965821385 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | solo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:13:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002965685651 |
-| Players | 8/10 |
-| Host Name | no mood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:13:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002965423223 |
-| Players | 9/10 |
-| Host Name | вивер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:13:35 |
 
 
 |  | ot3_desert_octet |
@@ -103,29 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002965956300 |
-| Players | 1/8 |
-| Host Name | камни в почках |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:14:04 |
+| Lobby ID | 28546002966112540 |
+| Players | 3/8 |
+| Host Name | shelban po klitory |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:14:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002959928727 |
-| Players | 9/10 |
-| Host Name | CLLOSEHEIMER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:08:38 |
+| Lobby ID | 28546002966113089 |
+| Players | 4/10 |
+| Host Name | Krico |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:14:13 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002965471469 |
-| Players | 1/5 |
-| Host Name | Lokki  UA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:13:38 |
+| Lobby ID | 28546002966131676 |
+| Players | 4/5 |
+| Host Name | cdmas7292 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 19:14:13 |
 
 
 |  | epic_boss_fight_normal |
