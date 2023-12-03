@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002546397296 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | King |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:19:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002547155287 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Fan ti Fan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:21:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002547370357 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Dani| |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:22:09 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -sumkiller- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:22:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002547811941 |
+| Players | 1/8 |
+| Host Name | Lemi Shó de china |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:23:07 |
 
 
 |  | epic_boss_fight_hard |
