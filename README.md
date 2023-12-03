@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002766285265 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 掌握之中，岂可逃之？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002766385015 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Fleek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:42:57 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002767352757 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | Ути-пути |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:44:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002767078015 |
-| Players | 10/15 |
-| Host Name | DabblEr |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:43:45 |
+| Lobby ID | 28546002767661224 |
+| Players | 1/8 |
+| Host Name | Lion the onLIONe |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 15:44:24 |
 
 
 |  | epic_boss_fight_hard |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002765082743 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:41:28 |
