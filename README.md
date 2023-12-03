@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002604001709 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:01:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002602735964 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Frog |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:59:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002603146190 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hisoka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:00:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002604533050 |
-| Players | 1/24 |
+| Players | 8/24 |
 | Host Name | Los amigos te olvidan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:02:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002604569164 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Kenny |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:02:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002600820100 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Jurisprudencia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:56:41 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002604372549 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:02:22 |
