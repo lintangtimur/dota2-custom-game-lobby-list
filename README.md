@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002625980284 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | HUAYNA CAPAC |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:36:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002627022545 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | el mata bolivianos 3k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002627176729 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:44 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:39:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002625511561 |
-| Players | 12/15 |
-| Host Name | FERXXO HANMA |
+| Lobby ID | 28546002627476818 |
+| Players | 3/10 |
+| Host Name | DAEMON |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:36:06 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:39:12 |
 
 
 |  | epic_boss_fight_nightmare |
