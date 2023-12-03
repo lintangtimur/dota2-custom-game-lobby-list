@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:06:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002541607119 |
-| Players | 9/10 |
-| Host Name | Pepe El Grillo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:09:24 |
+| Lobby ID | 28546002541995368 |
+| Players | 8/24 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 10:10:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002541937302 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:10:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002541966972 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:10:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002541952249 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:10:10 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:10:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002541995368 |
-| Players | 6/24 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:10:16 |
+| Lobby ID | 28546002542064779 |
+| Players | 2/10 |
+| Host Name | CGVelcer |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:10:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002542006682 |
-| Players | 1/15 |
-| Host Name | 東方白 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:10:18 |
+| Lobby ID | 28546002541607119 |
+| Players | 9/10 |
+| Host Name | Pepe El Grillo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 10:09:24 |
 
 
 |  | epic_boss_fight_nightmare |
