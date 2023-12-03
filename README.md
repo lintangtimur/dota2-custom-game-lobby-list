@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002814525958 |
-| Players | 7/8 |
-| Host Name | never let me die again |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:37:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002816099076 |
-| Players | 2/8 |
-| Host Name | yasuragi |
+| Lobby ID | 28546002816693804 |
+| Players | 4/8 |
+| Host Name | OG uzok |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:39:13 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:39:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002815479907 |
+| Players | 1/24 |
+| Host Name | bored monkey(﻿ ͡° ͜ʖ ͡°) |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 16:38:31 |
 
 
 |  | ot3_desert_octet |
@@ -50,61 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002815907571 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Гатс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:39:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002813795995 |
-| Players | 19/24 |
-| Host Name | AikoSora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:36:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002815479907 |
-| Players | 2/24 |
-| Host Name | bored monkey(﻿ ͡° ͜ʖ ͡°) |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 16:38:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002815758049 |
-| Players | 13/15 |
-| Host Name | EnotRed |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:38:50 |
+| Lobby ID | 28546002816381786 |
+| Players | 5/8 |
+| Host Name | Скибиди пидарас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:39:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002816042029 |
-| Players | 6/10 |
-| Host Name | Gliknot |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:39:09 |
+| Lobby ID | 28546002816624950 |
+| Players | 3/10 |
+| Host Name | каго |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:39:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002816224464 |
-| Players | 5/8 |
-| Host Name | джонни депп |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:39:22 |
+| Lobby ID | 28546002816658229 |
+| Players | 1/8 |
+| Host Name | сисечный сомелье |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 16:39:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002815326589 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | antut™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:38:20 |
