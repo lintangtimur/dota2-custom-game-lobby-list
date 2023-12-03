@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002579938162 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DANICH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:22:27 |
@@ -32,46 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002581150357 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | trey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:24:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002581307676 |
-| Players | 21/24 |
-| Host Name | a |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:24:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002581778596 |
-| Players | 8/15 |
-| Host Name | Chef Clone 23 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:25:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002581824593 |
-| Players | 12/15 |
-| Host Name | Rincewind's Luggage |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:25:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002581835986 |
-| Players | 1/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:25:36 |
 
 
 |  | ot3_gardens_duo |
@@ -83,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:25:41 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002581778596 |
+| Players | 10/15 |
+| Host Name | Chef Clone 23 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:30 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002581954223 |
@@ -90,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dexter |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:25:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002581835986 |
+| Players | 6/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:25:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:24:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002582024528 |
-| Players | 1/5 |
-| Host Name | Halucard |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 11:25:55 |
+| Lobby ID | 28546002582113247 |
+| Players | 1/10 |
+| Host Name | AGENT U |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:26:04 |
 
 
