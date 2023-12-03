@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002957541556 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | bangali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:06:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:06:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002961107853 |
-| Players | 6/8 |
-| Host Name | ПИРАТ СЕРГАТ |
+| Lobby ID | 28546002961646567 |
+| Players | 1/10 |
+| Host Name | dj dog |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:09:43 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:10:12 |
 
 
 |  | ot3_desert_octet |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002960709365 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | hidden pool resident |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:09:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002961530794 |
+| Players | 9/10 |
+| Host Name | bq201 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:10:06 |
 
 
 |  | epic_boss_fight_nightmare |
