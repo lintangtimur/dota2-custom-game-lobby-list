@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002730703702 |
-| Players | 10/15 |
-| Host Name | XBOX SERIES Z |
+| Lobby ID | 28546002730922273 |
+| Players | 6/8 |
+| Host Name | Ути-пути |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:00:39 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:00:56 |
 
 
 |  | ot3_gardens_duo |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002730913167 |
-| Players | 1/24 |
-| Host Name | chernobyl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:00:55 |
+| Lobby ID | 28546002730980218 |
+| Players | 6/10 |
+| Host Name | ayawaska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:01:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002724555470 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | *choclo con queso* |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:53:02 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002729619135 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:59:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002729613354 |
-| Players | 13/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 14:59:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002730304677 |
-| Players | 2/24 |
-| Host Name | Calo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:00:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002730922273 |
-| Players | 2/8 |
-| Host Name | Максим-Базука |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:00:56 |
 
 
 |  | ot3_desert_octet |
@@ -101,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:00:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002730980218 |
-| Players | 3/10 |
-| Host Name | ayawaska |
+| Lobby ID | 28546002731674772 |
+| Players | 7/15 |
+| Host Name | Это ты пернул? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:01:00 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:01:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002728707667 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ****** |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:58:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002729041678 |
-| Players | 7/10 |
-| Host Name | Haiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:58:33 |
 
 
 |  | epic_boss_fight_normal |
