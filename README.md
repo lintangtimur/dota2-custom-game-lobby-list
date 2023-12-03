@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002958944647 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ТАЛАНТ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:07:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955715928 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Балбес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:04:45 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002958992251 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | я талант |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:07:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002959242970 |
-| Players | 4/8 |
-| Host Name | I came to raise mmr |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 19:08:00 |
+| Lobby ID | 28546002959468176 |
+| Players | 2/10 |
+| Host Name | Do you really wanna die, fam? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:08:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002959277787 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:08:02 |
