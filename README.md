@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002949199180 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:58:38 |
@@ -41,46 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002950768805 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | C10H15N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:00:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002950783208 |
-| Players | 1/15 |
-| Host Name | подпивас Артём |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:00:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002950192245 |
-| Players | 3/24 |
-| Host Name | Yvan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:59:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002950093538 |
-| Players | 4/8 |
-| Host Name | drag373 FAIL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:59:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002944778629 |
-| Players | 23/24 |
-| Host Name | Satan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:54:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:59:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002950192245 |
+| Players | 5/24 |
+| Host Name | Yvan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:59:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002950093538 |
+| Players | 5/8 |
+| Host Name | drag373 FAIL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 18:59:27 |
 
 
 |  | epic_boss_fight_nightmare |
