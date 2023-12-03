@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002811092651 |
-| Players | 21/24 |
-| Host Name | 做任务咯 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:33:28 |
+| Lobby ID | 28546002813589703 |
+| Players | 7/15 |
+| Host Name | Ванильный пряник :3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:36:20 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002803997435 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:25:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002814525958 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | never let me die again |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:37:25 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002813795995 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:36:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002814654110 |
-| Players | 12/15 |
-| Host Name | [MI8]ЯНДЕКС ЗАКЛАДК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:37:33 |
 
 
 |  | ot3_gardens_duo |
@@ -81,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sandwich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:37:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002813589703 |
-| Players | 7/15 |
-| Host Name | 离上坎下 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:36:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002814939612 |
-| Players | 4/8 |
-| Host Name | Адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:37:53 |
 
 
 |  | epic_boss_fight_normal |
