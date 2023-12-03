@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002972959574 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:20:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955984913 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Pinochet |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002973073699 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:20:24 |
@@ -112,38 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002975558892 |
-| Players | 1/15 |
+| Lobby ID | 28546002976133657 |
+| Players | 2/15 |
 | Host Name | Rico |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:22:34 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:23:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002975988230 |
+| Lobby ID | 28546002976206021 |
 | Players | 1/8 |
 | Host Name | R2D2 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:22:56 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:23:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002975545087 |
-| Players | 12/15 |
-| Host Name | Мной зват Гнам |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:22:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002974922138 |
-| Players | 7/10 |
-| Host Name | ExSide- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:22:00 |
+| Lobby ID | 28546002976257503 |
+| Players | 2/8 |
+| Host Name | баню пуджа |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:23:10 |
 
 
 |  | epic_boss_fight_nightmare |
