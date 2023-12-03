@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 00:06:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003298726145 |
-| Players | 4/8 |
-| Host Name | Виктор Петрович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:06:31 |
+| Lobby ID | 28546003299245251 |
+| Players | 4/10 |
+| Host Name | Mu8eTSu |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 4, 2023 00:07:06 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003297955844 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | freshejka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 00:05:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003298461961 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 00:06:14 |
@@ -95,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003298547464 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Mr Pazuzu |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 00:06:19 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003299234331 |
+| Players | 2/8 |
+| Host Name | малышка |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 00:07:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003299161902 |
-| Players | 2/15 |
-| Host Name | Logon284 |
+| Lobby ID | 28546003299346203 |
+| Players | 1/15 |
+| Host Name | похуй |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:07:00 |
+| Lobby Creation Time | Monday, December 4, 2023 00:07:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003299230880 |
+| Players | 1/10 |
+| Host Name | Dekker86 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 00:07:05 |
 
 
