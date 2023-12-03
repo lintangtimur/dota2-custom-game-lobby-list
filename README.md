@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002551450405 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:31:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002549821727 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 发牌员的爹 |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 10:27:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002551678645 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Киса(≧ヮ≦) 💕 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:31:37 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:23:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002549925201 |
+| Players | 13/15 |
+| Host Name | Solenya |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 10:27:46 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28546002541318691 |
@@ -96,8 +105,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546002551112836 |
 | Players | 7/10 |
-| Host Name | Leinach |
+| Host Name | อู้วววว นักเก็ตปลา |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:30:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002551988528 |
+| Players | 1/10 |
+| Host Name | OMGCOLA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:32:19 |
 
 
