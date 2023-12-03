@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002768927214 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 15:45:50 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002766385015 |
-| Players | 18/24 |
-| Host Name | Fleek |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:42:57 |
+| Lobby ID | 28546002769973830 |
+| Players | 3/15 |
+| Host Name | 700 кг рабов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:47:00 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002769803196 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Lalalalisa |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 15:46:49 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002769493046 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ♛™icefrog™♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:46:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002769973830 |
-| Players | 2/15 |
-| Host Name | 700 кг рабов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:47:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002770119062 |
-| Players | 2/8 |
-| Host Name | Анальный Перфора |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:47:10 |
 
 
 |  | epic_boss_fight_hard |
@@ -108,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:41:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002767906759 |
-| Players | 1/5 |
-| Host Name | |Sasaki-Haise| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:44:41 |
 
 
 |  | epic_boss_fight_nightmare |
