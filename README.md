@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002584319890 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:29:42 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:28:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002583866053 |
-| Players | 1/8 |
-| Host Name | Potersor god giordota.com |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:28:57 |
+| Lobby ID | 28546002584155228 |
+| Players | 15/24 |
+| Host Name | Sign the Contract Big Boy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:29:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002584278831 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Norton |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:29:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002583815392 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:28:52 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002583762981 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | microchy 科斯 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:28:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002584155228 |
-| Players | 13/24 |
-| Host Name | Sign the Contract Big Boy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:29:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002580921542 |
-| Players | 9/10 |
-| Host Name | Dark Herras |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 11:24:05 |
 
 
 |  | epic_boss_fight_nightmare |
