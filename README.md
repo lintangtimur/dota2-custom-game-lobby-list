@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003035185420 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:11:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003035493053 |
-| Players | 3/8 |
-| Host Name | коля железяка |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 20:11:41 |
+| Lobby ID | 28546003035842446 |
+| Players | 5/10 |
+| Host Name | сисечный сомелье |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:11:58 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:09:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003033461367 |
-| Players | 22/24 |
-| Host Name | sudo rm -rf  /* |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:10:04 |
+| Lobby ID | 28546003035674107 |
+| Players | 1/8 |
+| Host Name | ЖИРНЫЙ АНАНАС |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 20:11:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003032634327 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | SVARC-それで |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:09:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003035648208 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | eNvy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:11:49 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003035475201 |
-| Players | 6/8 |
-| Host Name | БОМБЁЖКА ТВ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 20:11:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003035674107 |
-| Players | 1/8 |
-| Host Name | ЖИРНЫЙ АНАНАС |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 20:11:50 |
+| Lobby ID | 28546003035973918 |
+| Players | 2/8 |
+| Host Name | WW |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:12:04 |
 
 
 |  | epic_boss_fight_hard |
@@ -146,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:09:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28546003034317575 |
-| Players | 1/10 |
-| Host Name | Scoshka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:10:45 |
+| Lobby ID | 28546003035733115 |
+| Players | 1/7 |
+| Host Name | 神的豆B |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 20:11:53 |
 
 
 |  | epic_boss_fight_challenger |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GigaN1ga |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:11:48 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546003035733115 |
-| Players | 1/7 |
-| Host Name | 神的豆B |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 20:11:53 |
 
 
