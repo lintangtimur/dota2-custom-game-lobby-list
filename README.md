@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002816693804 |
-| Players | 1/8 |
-| Host Name | сисечный сомелье |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:39:54 |
+| Lobby ID | 28546002817840844 |
+| Players | 4/10 |
+| Host Name | YAPOPROBOVALSVOYPRODUKT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:41:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002817224408 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:40:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002817010011 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | mode: Yator021 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:40:17 |
