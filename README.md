@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 18:31:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002949377190 |
-| Players | 14/15 |
-| Host Name | RIP |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 18:58:48 |
+| Lobby ID | 28546002950582578 |
+| Players | 9/10 |
+| Host Name | OxxxyMIRANA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 18:59:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 18:58:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002950005502 |
-| Players | 1/8 |
-| Host Name | камни в почках |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:59:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002949420644 |
-| Players | 1/24 |
-| Host Name | 彼女から覆われて |
+| Lobby ID | 28546002950768805 |
+| Players | 4/10 |
+| Host Name | C10H15N |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:58:50 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:00:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002950783208 |
+| Players | 1/15 |
+| Host Name | подпивас Артём |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:00:05 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002950093538 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | drag373 FAIL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:59:27 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:59:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002950582578 |
-| Players | 4/10 |
-| Host Name | OxxxyMIRANA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:59:53 |
 
 
 |  | epic_boss_fight_nightmare |
