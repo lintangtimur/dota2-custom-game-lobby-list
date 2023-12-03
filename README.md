@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002677706771 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | PoonDip |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677750582 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | MangaDubInggrisSubJepang |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677017309 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:51:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002662906166 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677757789 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002678280899 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | DJDOWUPAK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:53:35 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002678010764 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Miles~ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:53:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002678426186 |
-| Players | 13/15 |
-| Host Name | kentaho666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:53:46 |
+| Lobby ID | 28546002678760580 |
+| Players | 11/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,30 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002678942312 |
+| Players | 5/15 |
+| Host Name | Прoтaceвич Гена |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:28 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002678760580 |
-| Players | 3/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
+| Lobby ID | 28546002678991071 |
+| Players | 1/24 |
+| Host Name | jnikko |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:54:13 |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002679171542 |
+| Players | 2/10 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002679225059 |
+| Players | 6/10 |
+| Host Name | 诺菲尔 (anoda victory for th |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 13:54:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002675250207 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:49:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002678366702 |
-| Players | 1/10 |
-| Host Name | Ma Ling |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 13:53:42 |
 
 
