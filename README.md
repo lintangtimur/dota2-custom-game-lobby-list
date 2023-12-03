@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002949199180 |
-| Players | 23/24 |
-| Host Name | Buu |
+| Lobby ID | 28546002952886754 |
+| Players | 9/10 |
+| Host Name | Инфоцыган Руслан |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:58:38 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:02:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 18:31:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002952806540 |
-| Players | 5/10 |
-| Host Name | ханна монтана |
+| Lobby ID | 28546002953045561 |
+| Players | 7/8 |
+| Host Name | Конгресс победы |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:02:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:02:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002952882218 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Aureliuss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:02:06 |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002950192245 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Yvan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:59:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002952886754 |
-| Players | 2/10 |
-| Host Name | Инфоцыган Руслан |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:02:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002953045561 |
-| Players | 2/8 |
-| Host Name | Конгресс победы |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:02:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002951556766 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | _ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:00:51 |
