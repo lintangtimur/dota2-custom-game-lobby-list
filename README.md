@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002834998186 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | H F F F |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 17:01:18 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:57:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002885931331 |
-| Players | 8/10 |
-| Host Name | prime.geroin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:57:41 |
+| Lobby ID | 28546002886252561 |
+| Players | 5/8 |
+| Host Name | ICHZ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:58:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002886063958 |
+| Lobby ID | 28546002886438424 |
 | Players | 12/15 |
-| Host Name | ☪Bilal Abdul Kareem☪ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:57:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002886252561 |
-| Players | 4/8 |
-| Host Name | ICHZ |
+| Host Name | Myerka |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:58:01 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:58:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | deniz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:57:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002886388258 |
-| Players | 2/10 |
-| Host Name | IvanFlamer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:58:09 |
 
 
