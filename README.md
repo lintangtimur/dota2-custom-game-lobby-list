@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002797398571 |
-| Players | 12/15 |
-| Host Name | EnotRed |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:17:56 |
+| Lobby ID | 28546002797712138 |
+| Players | 14/24 |
+| Host Name | Tiger |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:18:17 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002790033737 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ็ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:09:37 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002797297429 |
-| Players | 7/10 |
-| Host Name | PHOS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:17:49 |
+| Lobby ID | 28546002797787658 |
+| Players | 3/10 |
+| Host Name | Жест доброй воли |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:18:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,30 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:18:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002798310425 |
-| Players | 3/8 |
-| Host Name | Better Call MeDick |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:18:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002797712138 |
-| Players | 15/24 |
-| Host Name | Tiger |
+| Lobby ID | 28546002795588574 |
+| Players | 9/10 |
+| Host Name | Fozzzey |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:18:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002797787658 |
-| Players | 3/10 |
-| Host Name | Жест доброй воли |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:18:22 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:15:52 |
 
 
