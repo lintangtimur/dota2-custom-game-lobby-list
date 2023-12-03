@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002662906166 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002719160461 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | 煉獄 杏寿郎 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 14:46:22 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002718116637 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | ✝ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:45:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002719155914 |
-| Players | 1/8 |
-| Host Name | La-Z Rider |
+| Lobby ID | 28546002719461885 |
+| Players | 7/10 |
+| Host Name | Mazerone14 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:46:21 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:46:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002719130428 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | shymelle_ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:46:19 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002719460812 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:46:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002719461885 |
-| Players | 5/10 |
-| Host Name | Mazerone14 |
+| Lobby ID | 28546002719735389 |
+| Players | 1/8 |
+| Host Name | 333 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:46:44 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:47:05 |
 
 
 |  | epic_boss_fight_nightmare |
