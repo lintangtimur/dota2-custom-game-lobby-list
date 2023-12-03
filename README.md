@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002711124852 |
-| Players | 7/8 |
-| Host Name | Кирпич |
+| Lobby ID | 28546002711703575 |
+| Players | 2/10 |
+| Host Name | TvoiTamada |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:36:13 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:36:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002711377463 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | gusnay |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:36:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002711293752 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | AltaExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:36:26 |
@@ -58,38 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002711511560 |
-| Players | 2/15 |
-| Host Name | AwesomeAssassin |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 14:36:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002711654355 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Kubick |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:36:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002705820951 |
-| Players | 23/24 |
-| Host Name | Fleek |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:29:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002711703575 |
-| Players | 2/10 |
-| Host Name | TvoiTamada |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:36:57 |
+| Lobby ID | 28546002711827150 |
+| Players | 1/8 |
+| Host Name | andou |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:37:07 |
 
 
 |  | epic_boss_fight_nightmare |
