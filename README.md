@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002674280671 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | badBIG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:48:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002673558770 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:47:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002674580962 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:48:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669594050 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | xd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:41:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002674683808 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sgt Struthers |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:48:45 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tofu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:48:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002674975195 |
+| Players | 1/8 |
+| Host Name | sex offender |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:49:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ma Ling |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:45:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002674965509 |
+| Players | 1/5 |
+| Host Name | CocountCream |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 13:49:08 |
 
 
