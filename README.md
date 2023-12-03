@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003151677829 |
-| Players | 5/15 |
-| Host Name | dante |
+| Lobby ID | 28546003151897369 |
+| Players | 3/15 |
+| Host Name | посмотреть |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 21:44:12 |
+| Lobby Creation Time | Sunday, December 3, 2023 21:44:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003151467118 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | JustinTimbersaw |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:44:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003151649432 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 21:44:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003151446996 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Gufner Amself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 21:44:02 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Twerkaa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 21:44:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003150070925 |
+| Players | 1/8 |
+| Host Name | Vasilisk96 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 21:42:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003151947177 |
+| Players | 1/8 |
+| Host Name | شريك |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 21:44:25 |
 
 
 |  | epic_boss_fight_hard |
