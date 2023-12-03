@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002632492832 |
-| Players | 14/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:47:10 |
+| Lobby ID | 28546002633299110 |
+| Players | 5/15 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:48:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632441129 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ae5 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:47:05 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | alpha den4ik) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:48:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002633299110 |
-| Players | 5/15 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:48:25 |
 
 
 |  | epic_boss_fight_nightmare |
