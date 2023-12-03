@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002607672427 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Zaratustra |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:07:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002609865680 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | game is hard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002611073244 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name |  ℵξℴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:13:07 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002611188557 |
+| Players | 1/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 12:13:18 |
 
 
 |  | epic_boss_fight_nightmare |
