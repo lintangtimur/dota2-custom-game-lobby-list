@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002686778975 |
-| Players | 13/15 |
-| Host Name | XBOX SERIES Z |
+| Lobby ID | 28546002687361060 |
+| Players | 2/10 |
+| Host Name | тру анимешник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:04:50 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:05:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002686439075 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:04:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002677757789 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sandra |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:52:53 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002684659265 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:02:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002687361060 |
-| Players | 2/10 |
-| Host Name | тру анимешник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:05:36 |
 
 
 |  | epic_boss_fight_normal |
