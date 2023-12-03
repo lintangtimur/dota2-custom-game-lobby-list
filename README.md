@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002622635351 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:31:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002623270477 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | alpha den4ik) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:32:32 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:30:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002623176905 |
-| Players | 8/10 |
-| Host Name | Wa1t |
+| Lobby ID | 28546002623670359 |
+| Players | 3/15 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:32:23 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:33:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002623096286 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Monty Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:32:15 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:30:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002620559052 |
-| Players | 20/24 |
-| Host Name | VIVA LA LIBERTAD CARAJO!!! |
+| Lobby ID | 28546002623734263 |
+| Players | 2/15 |
+| Host Name | MAWZ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:28:14 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:33:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:29:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002623624208 |
-| Players | 2/5 |
-| Host Name | 逆天の神隐 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 12:33:05 |
 
 
