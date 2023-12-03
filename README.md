@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002714056337 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | AikoSora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:39:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002715174618 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Machine being |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:41:20 |
