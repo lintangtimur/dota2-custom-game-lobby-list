@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002589501332 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:38:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002589479429 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Sleeping Giant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:38:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002590489475 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | dRAKe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:39:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002590596586 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | AQUI LLEGO TU TIBURON |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:40:07 |
@@ -58,29 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002589291638 |
-| Players | 14/15 |
-| Host Name | meeto meeto meeto :3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:37:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002587964483 |
-| Players | 4/15 |
-| Host Name | hiro |
+| Players | 1/15 |
+| Host Name | Молофья |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 11:35:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002591141482 |
-| Players | 2/10 |
-| Host Name | xD |
+| Lobby ID | 28546002591192506 |
+| Players | 4/15 |
+| Host Name | 一斤大板鲫 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:41:01 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:41:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002590133364 |
+| Players | 12/15 |
+| Host Name | DealtrenS |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 11:39:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002591238471 |
+| Players | 1/15 |
+| Host Name | K(-)МШоТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:41:11 |
 
 
 |  | epic_boss_fight_nightmare |
