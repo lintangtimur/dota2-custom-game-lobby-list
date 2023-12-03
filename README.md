@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002624952655 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:35:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002625980284 |
-| Players | 20/24 |
-| Host Name | HUAYNA CAPAC |
+| Lobby ID | 28546002627476818 |
+| Players | 9/10 |
+| Host Name | DAEMON |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:36:51 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:39:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002626792917 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Замшелый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:08 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002627176729 |
-| Players | 11/24 |
+| Players | 23/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:38:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002627399002 |
-| Players | 1/10 |
-| Host Name | Star |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:39:05 |
+| Lobby ID | 28546002627879216 |
+| Players | 5/15 |
+| Host Name | DealtrenS |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:39:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002627779439 |
+| Players | 1/8 |
+| Host Name | 不可触摸的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 12:39:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002627476818 |
-| Players | 3/10 |
-| Host Name | DAEMON |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:39:12 |
+| Lobby ID | 28546002627871817 |
+| Players | 2/10 |
+| Host Name | YaSherif必胜信心 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 12:39:50 |
 
 
 |  | epic_boss_fight_nightmare |
