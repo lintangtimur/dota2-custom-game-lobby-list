@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002789418554 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | rue |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:08:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002789203661 |
-| Players | 14/15 |
-| Host Name | EridÜ |
+| Lobby ID | 28546002788980404 |
+| Players | 3/10 |
+| Host Name | Krutoi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:08:41 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:08:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002787774148 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | k |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:07:04 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:08:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002788980404 |
-| Players | 3/10 |
-| Host Name | Krutoi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:08:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002789557018 |
-| Players | 3/15 |
-| Host Name | Meiling乳 |
+| Lobby ID | 28546002789733889 |
+| Players | 1/15 |
+| Host Name | Hood Rat |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:09:04 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:09:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:04:43 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546002789741306 |
+| Players | 1/7 |
+| Host Name | KPOP VIRUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:09:17 |
 
 
