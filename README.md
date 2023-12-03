@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -76,38 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002796298099 |
+| Lobby ID | 28546002797820061 |
 | Players | 6/8 |
-| Host Name | Maito Gai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:16:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002797705410 |
-| Players | 1/15 |
-| Host Name | Shine |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 16:18:17 |
+| Host Name | тихо |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 16:18:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002797712138 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Tiger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:18:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002795588574 |
-| Players | 9/10 |
-| Host Name | Fozzzey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:15:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 16:15:23 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002795589504 |
-| Players | 1/10 |
-| Host Name | Momam |
+| Lobby ID | 28546002797882958 |
+| Players | 1/5 |
+| Host Name | D.Xu Em |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:15:52 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:18:29 |
 
 
