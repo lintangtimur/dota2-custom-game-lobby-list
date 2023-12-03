@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002735563386 |
-| Players | 17/24 |
-| Host Name | CNN fake news |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:06:42 |
+| Lobby ID | 28546002736597797 |
+| Players | 3/8 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 15:07:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002735847319 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Унитазный вор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:07:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002735624970 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | СОСРЕДОТОЧИЕ ИСЧАДИЯ АДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:06:47 |
