@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003225937557 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Absolut v potoke spermi |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 22:50:05 |
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 22:49:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003225969821 |
-| Players | 3/15 |
-| Host Name | ..... |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:50:07 |
+| Lobby ID | 28546003226055749 |
+| Players | 3/8 |
+| Host Name | ♛(✪㉨✪)♛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:50:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003226006225 |
-| Players | 2/24 |
-| Host Name | Ah Zai |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 22:50:09 |
+| Lobby ID | 28546003226083556 |
+| Players | 1/8 |
+| Host Name | ICHZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:50:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003225960227 |
-| Players | 1/15 |
+| Players | 13/15 |
 | Host Name | dj dog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:50:06 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003220428469 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 22:44:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003224854882 |
-| Players | 9/10 |
-| Host Name | Resurrection, segunda etapa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:48:59 |
+| Lobby ID | 28546003226116773 |
+| Players | 6/24 |
+| Host Name | 'le Yan |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 22:50:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003222233179 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | "Siempre Parador" |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:46:21 |
@@ -113,36 +113,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003225917040 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Wakke22 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:50:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003225995381 |
-| Players | 1/24 |
-| Host Name | TuTs TuTs |
+| Lobby ID | 28546003226208332 |
+| Players | 1/8 |
+| Host Name | Arthas PRIME |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:50:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003224715525 |
+| Players | 14/15 |
+| Host Name | Пиво на ебанате |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:50:08 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:48:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28546003225804660 |
-| Players | 1/10 |
-| Host Name | Belike柠檬ICE |
+| Lobby ID | 28546003226127264 |
+| Players | 1/7 |
+| Host Name | OZAWA |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:49:57 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003225783692 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | dyyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:49:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003226080015 |
+| Players | 1/5 |
+| Host Name | Gtu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:50:13 |
 
 
