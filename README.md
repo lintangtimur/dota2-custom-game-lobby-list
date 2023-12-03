@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002874913740 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | произошел дебуст |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002863938813 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Captain Usopp |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 17:34:31 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002874245009 |
-| Players | 4/8 |
-| Host Name | kosakana |
+| Players | 2/8 |
+| Host Name | ZlicH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:45:33 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002875027747 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002875243428 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Sychyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002874697233 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002875186324 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | TRUMP president of the world ! |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:32 |
