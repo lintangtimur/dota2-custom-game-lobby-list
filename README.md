@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:31:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002990153280 |
-| Players | 10/15 |
-| Host Name | Cowpoke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:34:59 |
+| Lobby ID | 28546002989889683 |
+| Players | 5/8 |
+| Host Name | баню пуджа |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 19:34:46 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:21:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002989992135 |
-| Players | 7/10 |
-| Host Name | dalzazy |
+| Lobby ID | 28546002990452596 |
+| Players | 9/15 |
+| Host Name | R1KSIZE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:34:51 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:35:14 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:34:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002988629319 |
-| Players | 1/8 |
-| Host Name | писька джан ♿ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 3, 2023 19:33:42 |
+| Lobby ID | 28546002989367495 |
+| Players | 8/24 |
+| Host Name | Leman Russ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:34:20 |
 
 
 |  | ot3_desert_octet |
@@ -85,27 +85,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002989889683 |
-| Players | 3/8 |
-| Host Name | баню пуджа |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 19:34:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002989367495 |
-| Players | 9/24 |
-| Host Name | Leman Russ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:34:20 |
+| Lobby ID | 28546002990576617 |
+| Players | 1/8 |
+| Host Name | aze1 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 19:35:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002988948888 |
 | Players | 6/10 |
-| Host Name | rbg |
+| Host Name | TwoOneMuda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:33:58 |
 
