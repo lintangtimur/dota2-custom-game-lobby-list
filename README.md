@@ -2,37 +2,37 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002546397296 |
-| Players | 20/24 |
-| Host Name | King |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:19:58 |
+| Lobby ID | 28546002547810407 |
+| Players | 6/8 |
+| Host Name | MandragoraIvanna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 10:23:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002547668585 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | -sumkiller- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:22:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002546972612 |
-| Players | 2/10 |
-| Host Name | overdose  |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 10:21:15 |
+| Lobby ID | 28546002547906575 |
+| Players | 3/8 |
+| Host Name | Almutally |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:23:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002547147565 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:21:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002547811941 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:23:07 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002547207636 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 10:21:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002547251386 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:21:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002547562074 |
-| Players | 6/8 |
-| Host Name | MotoMoto |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:22:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002547906575 |
-| Players | 3/8 |
-| Host Name | Almutally |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:23:20 |
 
 
 |  | epic_boss_fight_hard |
