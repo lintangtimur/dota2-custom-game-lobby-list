@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003246149520 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Sebastian Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:10:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003246646406 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Valkyrie |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 23:11:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003246719026 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Recep Tayyip Erdoğan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 23:11:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003245434174 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CHECHITOO <3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 23:09:47 |
@@ -104,25 +104,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003245145816 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | no way |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 23:09:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003241956070 |
-| Players | 8/10 |
-| Host Name | HarBonDioxide |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 23:06:14 |
+| Lobby ID | 28546003246799684 |
+| Players | 2/10 |
+| Host Name | blade of the mail |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 23:11:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003246848253 |
+| Players | 1/24 |
+| Host Name | mallico |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 23:11:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003246924951 |
+| Players | 2/24 |
+| Host Name | Укус Бомжа |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 23:11:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003246926743 |
+| Players | 1/8 |
+| Host Name | ужасен |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 23:11:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003246217221 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KazuyA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:10:34 |
