@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002747666937 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | BigBillzGetPaid |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 15:21:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002754950591 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Pi pin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:29:54 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002754594126 |
-| Players | 13/15 |
-| Host Name | 1С |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:29:29 |
+| Lobby ID | 28546002754623871 |
+| Players | 23/24 |
+| Host Name | AikoSora |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:29:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002755056906 |
-| Players | 1/24 |
-| Host Name | jzcz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:30:01 |
+| Lobby ID | 28546002754020401 |
+| Players | 2/24 |
+| Host Name | equilibrium |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:28:49 |
 
 
 |  | ot3_gardens_duo |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002751413906 |
-| Players | 19/24 |
+| Players | 17/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 15:25:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002753627292 |
-| Players | 4/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:28:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002754623871 |
-| Players | 19/24 |
-| Host Name | AikoSora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:29:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002754020401 |
-| Players | 2/24 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:28:49 |
 
 
 |  | epic_boss_fight_normal |
