@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002854058372 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | WARNING ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:23:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002852643801 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:22:04 |
@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:22:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002854296958 |
+| Players | 2/8 |
+| Host Name | Uci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:23:56 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002853858234 |
-| Players | 13/15 |
-| Host Name | ^_^ |
+| Lobby ID | 28546002854348310 |
+| Players | 7/15 |
+| Host Name | |+|SiC|+| |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:23:26 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:23:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002854255439 |
-| Players | 3/8 |
-| Host Name | vioce |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 17:23:53 |
+| Lobby ID | 28546002854402328 |
+| Players | 1/8 |
+| Host Name | KOTOMAH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:24:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:20:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002852730827 |
-| Players | 7/10 |
-| Host Name | Apsulov |
+| Lobby ID | 28546002854286201 |
+| Players | 1/5 |
+| Host Name | я мечтаю |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:22:10 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:23:55 |
 
 
 |  | epic_boss_fight_nightmare |
