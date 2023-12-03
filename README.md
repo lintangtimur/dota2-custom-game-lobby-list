@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002662906166 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | SodaZ |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 13:32:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002725694342 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | хаги вагнер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:54:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002724555470 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:53:02 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:55:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002727175526 |
+| Players | 3/8 |
+| Host Name | FLOPPA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:56:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002726566234 |
-| Players | 12/15 |
-| Host Name | Windranger |
+| Lobby ID | 28546002727225858 |
+| Players | 2/15 |
+| Host Name | ку ку |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:55:30 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:56:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002727230295 |
+| Players | 5/24 |
+| Host Name | AikoSora |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:56:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:44:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002727072083 |
-| Players | 1/5 |
-| Host Name | AtrocitY |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 14:56:08 |
 
 
