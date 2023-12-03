@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003022923092 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:01:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002997859964 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | suzy |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003023094506 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Biborten! |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:01:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003023022891 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Лучше не станет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:01:46 |
@@ -94,20 +94,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003023040357 |
-| Players | 1/15 |
-| Host Name | SOLO_PARA _CACHAR...!! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 20:01:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003023300563 |
-| Players | 3/8 |
-| Host Name | Tendo Akira |
+| Lobby ID | 28546003023390304 |
+| Players | 2/15 |
+| Host Name | Solomonic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:02:00 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:02:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003023411803 |
+| Players | 1/15 |
+| Host Name | Chingiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:02:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003023420274 |
+| Players | 2/15 |
+| Host Name | John Wesson |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:02:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003023420078 |
+| Players | 1/15 |
+| Host Name | Χ Ψ Ω Impressive Χ Ψ Ω |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:02:05 |
 
 
 |  | epic_boss_fight_hard |
