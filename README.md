@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002694070868 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 200 IQ Player |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:14:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002691083852 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | pajazlocas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:10:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002692485092 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Lizard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:12:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002693258404 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | kyle-desu |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 14:13:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002694068215 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Kamusari |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:14:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002694222464 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:14:32 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ae5 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:14:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002690488723 |
+| Players | 24/24 |
+| Host Name | The Last Element_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:09:41 |
 
 
 |  | epic_boss_fight_nightmare |
