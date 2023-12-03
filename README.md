@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:21:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002997033889 |
-| Players | 5/15 |
-| Host Name | PITBULM4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:40:37 |
+| Lobby ID | 28546002997859964 |
+| Players | 2/24 |
+| Host Name | 你説的都對餒 |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 19:41:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002997119268 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | СИГМА ВИКТОР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:40:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002994902705 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | digataba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:38:52 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | top 2 kakish in the world |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002997943044 |
+| Players | 1/15 |
+| Host Name | KiaKiller |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 19:41:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002998008036 |
+| Players | 1/15 |
+| Host Name | VeNoMuS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:41:25 |
 
 
 |  | epic_boss_fight_challenger |
