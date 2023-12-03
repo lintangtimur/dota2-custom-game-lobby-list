@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002616625265 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:21:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002616641303 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mickeyisdumby |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:22:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002616439512 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | God |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:21:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002615463738 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Lord changostiny |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:20:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002616082306 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | YaSherif必胜信心 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:21:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002616463750 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Alyssa Rayne |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:21:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002617079048 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:22:42 |
