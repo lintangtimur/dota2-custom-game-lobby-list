@@ -32,45 +32,81 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002882629938 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | [Area`] msad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:54:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002884916977 |
+| Players | 1/8 |
+| Host Name | Shizo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:56:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002884820251 |
+| Players | 3/8 |
+| Host Name | Страус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:56:32 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002884779406 |
-| Players | 1/10 |
-| Host Name | fumimochi prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:56:29 |
+| Lobby ID | 28546002885103682 |
+| Players | 4/10 |
+| Host Name | Sk4znt |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:56:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002884762810 |
-| Players | 1/15 |
+| Lobby ID | 28546002884896469 |
+| Players | 7/15 |
 | Host Name | Immune to tilt |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:56:28 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:56:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002884790326 |
-| Players | 1/10 |
-| Host Name | ЧВК " Кузя Лакомка |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 17:56:30 |
+| Lobby ID | 28546002885278063 |
+| Players | 2/8 |
+| Host Name | Дюдюка Барбидовс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:57:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002883485575 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Cyrus |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:55:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002885022411 |
+| Players | 2/10 |
+| Host Name | iam HORNY ✪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:56:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002885101097 |
+| Players | 3/10 |
+| Host Name | EJL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:56:49 |
 
 
