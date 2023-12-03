@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003013630998 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Биба и боба |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:54:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003010240705 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | YATOGOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:51:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003013325956 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:53:57 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003012028199 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | LD_77 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:52:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003013746885 |
+| Players | 5/10 |
+| Host Name | Cuddlies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:54:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003013819649 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:54:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003013823177 |
+| Players | 3/8 |
+| Host Name | Микроавтобус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:54:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003012141644 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Anonymousthetic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:52:59 |
