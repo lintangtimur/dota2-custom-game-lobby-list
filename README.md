@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002916783835 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Josephine Stalin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:28:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002916710061 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:28:15 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002918025065 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ДОЕДАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 18:29:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002918640866 |
+| Players | 9/15 |
+| Host Name | Ya lybly sobak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 18:30:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:29:48 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28546002918776501 |
+| Players | 1/7 |
+| Host Name | Shaka |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 18:30:15 |
 
 
