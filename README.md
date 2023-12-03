@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002841267556 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | гена кундалини |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:08:49 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002842084217 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | seekres |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:09:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002841476493 |
-| Players | 23/24 |
-| Host Name | 别问，问就是菜 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:09:03 |
+| Lobby ID | 28546002843013656 |
+| Players | 7/10 |
+| Host Name | jkS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:10:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002842671634 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Конгресс победы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:10:28 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002843036154 |
-| Players | 4/15 |
-| Host Name | xXx_V/a/l/e/r/a_xXx |
+| Players | 8/15 |
+| Host Name | its |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:10:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002843013656 |
-| Players | 2/10 |
-| Host Name | jkS |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:10:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002841644155 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | antut™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:09:15 |
