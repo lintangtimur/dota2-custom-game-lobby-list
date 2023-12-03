@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002867694944 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Miyabi Halal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:38:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002873718180 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | CHAMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:45:00 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002873294976 |
-| Players | 7/8 |
-| Host Name | СЫН |
+| Lobby ID | 28546002873800163 |
+| Players | 5/8 |
+| Host Name | Arkeint |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:44:33 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:45:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002873386999 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:44:39 |
@@ -94,26 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002873800163 |
-| Players | 4/8 |
-| Host Name | Arkeint |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:45:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002869466910 |
-| Players | 23/24 |
-| Host Name | Buddha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:40:29 |
+| Lobby ID | 28546002873848242 |
+| Players | 2/8 |
+| Host Name | 165Hz |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:45:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002866642096 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 印度代购神药专卖 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:37:26 |
