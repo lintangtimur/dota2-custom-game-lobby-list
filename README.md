@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:21:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002758350780 |
-| Players | 3/10 |
-| Host Name | kitaec |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:33:48 |
+| Lobby ID | 28546002759345441 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 15:34:57 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002757613408 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | -mabubs616/4 TEAM |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 15:32:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002754020401 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:28:49 |
@@ -74,48 +74,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:32:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002758419408 |
-| Players | 4/15 |
-| Host Name | TZT |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:33:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002757474109 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:32:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002757154488 |
-| Players | 8/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:32:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002755350580 |
-| Players | 2/10 |
-| Host Name | Saeraeat |
+| Lobby ID | 28546002759178132 |
+| Players | 7/15 |
+| Host Name | Razvalution |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:30:22 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:34:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002759229243 |
+| Players | 3/15 |
+| Host Name | Touhou |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 15:34:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002759231441 |
+| Players | 9/10 |
+| Host Name | WIN PROBABILITY:  1% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:34:49 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28546002754949200 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | anxiety |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:29:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002755350580 |
+| Players | 3/10 |
+| Host Name | Saeraeat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:30:22 |
 
 
