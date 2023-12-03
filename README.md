@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003009574091 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | RAP WOYSKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:50:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002997859964 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | suzy |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 19:41:18 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002974624666 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BoTan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 19:21:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003007825469 |
-| Players | 2/15 |
-| Host Name | suga |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 19:49:27 |
+| Lobby ID | 28546003009781650 |
+| Players | 5/8 |
+| Host Name | Lalalalisa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:51:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003007902489 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Молофья |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 19:49:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003009519677 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | KözGetirSeri |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:50:50 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ppvs |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 19:47:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003009867013 |
+| Players | 4/10 |
+| Host Name | asvdlascklp1v23!)@#!)@# |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:51:07 |
 
 
