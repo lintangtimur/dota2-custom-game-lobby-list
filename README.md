@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546002587964483 |
 | Players | 2/15 |
-| Host Name | hiro |
+| Host Name | Молофья |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 11:35:45 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002586834470 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 11:33:52 |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002586959283 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ПуссиДжуси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 11:34:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002585556315 |
-| Players | 1/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:31:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002585043367 |
-| Players | 23/24 |
-| Host Name | ROSA MELANO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:30:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002587130158 |
-| Players | 5/8 |
-| Host Name | HappyAlways |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:34:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002587160481 |
-| Players | 9/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:34:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:35:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002587130158 |
+| Players | 6/8 |
+| Host Name | HappyAlways |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:34:22 |
 
 
 |  | epic_boss_fight_nightmare |
