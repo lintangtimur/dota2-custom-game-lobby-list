@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002569629004 |
-| Players | 6/10 |
+| Players | 2/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:05:03 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:04:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002568896481 |
-| Players | 12/15 |
-| Host Name | KYOQA |
+| Lobby ID | 28546002569283170 |
+| Players | 3/8 |
+| Host Name | Закусь азота |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:03:49 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:04:28 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002569514252 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:04:52 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002568575540 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Mikooz |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:03:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002569283170 |
-| Players | 1/8 |
-| Host Name | Закусь азота |
+| Lobby ID | 28546002569801503 |
+| Players | 2/10 |
+| Host Name | KJ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:04:28 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:05:21 |
 
 
 |  | epic_boss_fight_nightmare |
