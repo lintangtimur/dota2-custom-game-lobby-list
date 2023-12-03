@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002750175751 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Ronald Araujo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:24:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002750555668 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | AnyPie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:24:48 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002750780285 |
-| Players | 5/8 |
-| Host Name | Maybe |
+| Players | 1/8 |
+| Host Name | Shinra |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 3, 2023 15:25:04 |
 
