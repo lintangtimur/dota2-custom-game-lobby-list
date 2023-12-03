@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002898924711 |
-| Players | 9/10 |
-| Host Name | Я потушу весь ад |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:10:47 |
+| Lobby ID | 28546002899466771 |
+| Players | 2/10 |
+| Host Name | PHOS |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:11:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,65 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002887579544 |
-| Players | 23/24 |
-| Host Name | Neltron |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 17:59:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002899191766 |
-| Players | 2/10 |
-| Host Name | Akina |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 18:11:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002898770756 |
-| Players | 3/8 |
-| Host Name | radge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:10:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002899080043 |
-| Players | 1/8 |
-| Host Name | S1a3x |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:10:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002899200017 |
-| Players | 10/15 |
-| Host Name | drainey |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 18:11:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28546002898951303 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | UncleVit0 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 18:10:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002899160231 |
-| Players | 1/8 |
-| Host Name | Лысый Йети |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 18:11:01 |
+| Lobby ID | 28546002899191766 |
+| Players | 9/10 |
+| Host Name | Akina |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:11:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002899200017 |
+| Players | 13/15 |
+| Host Name | drainey |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 18:11:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002899599639 |
+| Players | 2/10 |
+| Host Name | Talib |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 18:11:27 |
 
 
 |  | epic_boss_fight_nightmare |
