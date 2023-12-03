@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003048375115 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | .. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:21:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003047537851 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Херхеулидзе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:21:08 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:21:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003048329389 |
-| Players | 2/10 |
-| Host Name | ♂ pyphoon ♂ |
+| Lobby ID | 28546003048740713 |
+| Players | 5/15 |
+| Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:21:45 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:22:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,37 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003045816249 |
-| Players | 7/8 |
-| Host Name | Shaggoth |
+| Lobby ID | 28546003048845743 |
+| Players | 3/8 |
+| Host Name | Хороняка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:19:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003048585349 |
-| Players | 1/8 |
-| Host Name | Барбарис |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:21:57 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:22:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003045422695 |
-| Players | 6/10 |
-| Host Name | ШМАРОКРАД |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:19:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003048689889 |
-| Players | 1/5 |
+| Lobby ID | 28546003048817996 |
+| Players | 1/10 |
 | Host Name | ******* |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:22:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:22:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003048738637 |
+| Players | 1/10 |
+| Host Name | RED.DAYS YAWA |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 20:22:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003048929832 |
+| Players | 2/10 |
+| Host Name | 1010. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:22:13 |
 
 
