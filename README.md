@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003078775277 |
-| Players | 3/24 |
-| Host Name | Dr. Strange |
+| Players | 2/24 |
+| Host Name | TNT_Rich |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:33 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003079139825 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003079146942 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ЯЙЦЕСЛАВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:51 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003079516620 |
+| Players | 3/8 |
+| Host Name | зашквар и чебурек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:46:09 |
 
 
 |  | epic_boss_fight_nightmare |
