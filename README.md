@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002874697233 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:01 |
@@ -59,46 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002875027747 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:46:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002875243428 |
-| Players | 7/8 |
-| Host Name | Sychyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:46:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002875865001 |
-| Players | 1/10 |
-| Host Name | darknessistheone |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:47:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002875864376 |
-| Players | 3/10 |
-| Host Name | Ьтми Тить |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:47:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002875876227 |
-| Players | 1/15 |
-| Host Name | Garfield |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:47:16 |
 
 
 |  | ot3_gardens_duo |
@@ -108,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trb. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:47:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002875864376 |
+| Players | 6/10 |
+| Host Name | Ьтми Тить |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:47:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002876051382 |
+| Players | 2/15 |
+| Host Name | HotLight |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:47:27 |
 
 
 |  | epic_boss_fight_nightmare |
