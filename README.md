@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002610819717 |
-| Players | 13/15 |
-| Host Name | travieso |
+| Lobby ID | 28546002612221651 |
+| Players | 1/24 |
+| Host Name | Jesse Pinkman |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:12:43 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002609812438 |
-| Players | 11/24 |
+| Players | 8/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:04 |
@@ -32,16 +32,79 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002611073244 |
-| Players | 4/24 |
+| Players | 14/24 |
 | Host Name |  ℵξℴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:13:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002612060161 |
+| Players | 5/24 |
+| Host Name | Fy |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002611981179 |
+| Players | 5/10 |
+| Host Name | de_dota2 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002612151647 |
+| Players | 5/15 |
+| Host Name | Skarp. TRADEIT.GG |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002612158480 |
+| Players | 1/10 |
+| Host Name | 丶jiayou a chun yu |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002612159470 |
+| Players | 1/24 |
+| Host Name | God |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002612209123 |
+| Players | 1/10 |
+| Host Name | Yosep Santillan |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002612116776 |
+| Players | 1/8 |
+| Host Name | short legs, you know? |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:46 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002611579551 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:13:55 |
@@ -49,29 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002611319988 |
-| Players | 6/8 |
-| Host Name | ShowTime 2do! |
+| Lobby ID | 28546002612244218 |
+| Players | 1/8 |
+| Host Name | Ahuritita |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:13:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546002611323467 |
-| Players | 15/24 |
-| Host Name | NiD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:13:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002611661367 |
-| Players | 1/15 |
-| Host Name | Генерал ЕБЛЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:14:02 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:14:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002610075006 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:30 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546002611801670 |
-| Players | 1/7 |
-| Host Name | 196全服第一 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:14:16 |
 
 
