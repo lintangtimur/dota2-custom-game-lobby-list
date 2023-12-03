@@ -121,17 +121,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002763581150 |
-| Players | 14/15 |
-| Host Name | mode: Genjutsu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:39:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002763574995 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | EnotRed |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:39:45 |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ダークデク |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:38:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002764016960 |
+| Players | 1/5 |
+| Host Name | 𝓢𝓱𝓲𝓱𝓲𝓽𝓮𝓸 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:40:15 |
 
 
