@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002809303162 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:31:26 |
@@ -59,28 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002809727893 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Rax |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:31:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002809977838 |
+| Players | 5/8 |
+| Host Name | Lalalalisa |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 3, 2023 16:32:12 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002809543319 |
-| Players | 9/10 |
-| Host Name | Отче наш |
+| Lobby ID | 28546002809989293 |
+| Players | 2/10 |
+| Host Name | ВиталяБластОФ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:31:42 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:32:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002808192811 |
-| Players | 1/8 |
-| Host Name | yap yap |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:30:10 |
+| Lobby ID | 28546002810030807 |
+| Players | 3/8 |
+| Host Name | Mist |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 16:32:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002810086112 |
+| Players | 6/24 |
+| Host Name | AikoSora |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:32:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 阿努比斯 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:31:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002799633496 |
-| Players | 9/10 |
-| Host Name | #pdf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:20:27 |
 
 
