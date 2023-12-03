@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002736843498 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Joyce |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 15:08:16 |
@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002739636083 |
-| Players | 13/15 |
-| Host Name | #манипулятор |
+| Lobby ID | 28546002740613801 |
+| Players | 7/10 |
+| Host Name | Кузя Лакомкин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:11:43 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:12:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002738200390 |
-| Players | 21/24 |
-| Host Name | pajazlocas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 15:09:56 |
+| Lobby ID | 28546002740567144 |
+| Players | 4/24 |
+| Host Name | AikoSora |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:12:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002739485247 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:11:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002740096247 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | AltaExile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:12:17 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:11:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002740567144 |
-| Players | 4/24 |
-| Host Name | AikoSora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:12:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002740613801 |
-| Players | 2/10 |
-| Host Name | Кузя Лакомкин |
+| Lobby ID | 28546002740708838 |
+| Players | 7/15 |
+| Host Name | PaN1C |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:12:54 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:13:01 |
 
 
 |  | epic_boss_fight_nightmare |
