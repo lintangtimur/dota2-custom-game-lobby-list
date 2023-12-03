@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002704901233 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:28:17 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:28:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002705479629 |
-| Players | 2/10 |
-| Host Name | A N O N Y M O U S |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 3, 2023 14:29:01 |
+| Lobby ID | 28546002705501392 |
+| Players | 2/24 |
+| Host Name | Fleek |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 14:29:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002705083613 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:28:31 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:28:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002705501392 |
-| Players | 2/24 |
-| Host Name | Fleek |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:29:03 |
+| Lobby ID | 28546002705616621 |
+| Players | 2/8 |
+| Host Name | Kartowka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:29:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002705640869 |
+| Players | 1/8 |
+| Host Name | faow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:29:13 |
 
 
 |  | epic_boss_fight_normal |
