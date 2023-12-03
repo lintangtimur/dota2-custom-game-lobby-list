@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003041424783 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SabrosonxD322 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 20:16:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003046168595 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | arhikent |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 20:20:03 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:28:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003063798192 |
-| Players | 4/10 |
-| Host Name | XANAXpower |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:33:49 |
+| Lobby ID | 28546003064105568 |
+| Players | 2/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 20:34:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003063613486 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | CP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:33:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003063817086 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | YTUH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:33:50 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003063853661 |
-| Players | 6/15 |
-| Host Name | Tvorets |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 20:33:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003063950042 |
-| Players | 1/15 |
-| Host Name | Meat Eye |
+| Lobby ID | 28546003062746186 |
+| Players | 12/15 |
+| Host Name | Geralt - |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:33:56 |
+| Lobby Creation Time | Sunday, December 3, 2023 20:33:00 |
 
 
 |  | epic_boss_fight_nightmare |
