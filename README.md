@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002962048588 |
-| Players | 13/15 |
-| Host Name | märt ringmuskel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:10:34 |
+| Lobby ID | 28546002962021962 |
+| Players | 5/10 |
+| Host Name | заслуга hand of midasa |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:10:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002957541556 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | bangali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:06:26 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002961285928 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | FuNky* |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:09:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002962021962 |
-| Players | 3/10 |
-| Host Name | заслуга hand of midasa |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:10:32 |
 
 
 |  | epic_boss_fight_nightmare |
