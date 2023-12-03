@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002690791719 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Modified.[Yatoro雨] |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:10:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002689270729 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | VOID ESPONJA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:08:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002690488723 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | The Last Element_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:09:41 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002690672873 |
-| Players | 2/8 |
-| Host Name | 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:09:55 |
+| Lobby ID | 28546002690926415 |
+| Players | 4/8 |
+| Host Name | I always come back |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:10:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002690947021 |
+| Players | 1/10 |
+| Host Name | WRTK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:10:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EJL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:08:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002690808170 |
-| Players | 1/5 |
-| Host Name | Adobo.Suplex |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 14:10:06 |
 
 
