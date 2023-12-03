@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002797712138 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Tiger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:18:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002797787658 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Жест доброй воли |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:18:22 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002798036847 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | роудислав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:18:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002797820061 |
+| Players | 1/8 |
+| Host Name | финита ля драма |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 3, 2023 16:18:24 |
 
 
 |  | epic_boss_fight_nightmare |
