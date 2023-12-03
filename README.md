@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:15:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002543866098 |
-| Players | 14/15 |
-| Host Name | white |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 10:14:23 |
+| Lobby ID | 28546002545016359 |
+| Players | 1/8 |
+| Host Name | suseł |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:16:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002543594684 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:13:46 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002544569922 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 10:15:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002544329336 |
-| Players | 7/8 |
-| Host Name | EJ-Smill3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:15:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002544918062 |
-| Players | 3/15 |
-| Host Name | Sakirious |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 10:16:41 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 10:10:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002545016359 |
-| Players | 1/8 |
-| Host Name | suseł |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:16:54 |
+| Lobby ID | 28546002544918062 |
+| Players | 5/15 |
+| Host Name | Sakirious |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 10:16:41 |
 
 
 |  | epic_boss_fight_hard |
