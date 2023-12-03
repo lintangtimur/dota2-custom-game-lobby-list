@@ -4,44 +4,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002571848094 |
-| Players | 7/8 |
-| Host Name | Carebear |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 11:08:50 |
+| Lobby ID | 28546002571878025 |
+| Players | 3/8 |
+| Host Name | Racso |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 11:08:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002569018789 |
-| Players | 1/10 |
-| Host Name | 예쁜 돼지 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 11:04:01 |
+| Lobby ID | 28546002571181619 |
+| Players | 2/8 |
+| Host Name | W бозон 弱相互作用 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:07:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002570702500 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 11:06:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002571701058 |
-| Players | 5/8 |
-| Host Name | El vago de la Sunat |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:08:35 |
+| Lobby ID | 28546002571425969 |
+| Players | 12/15 |
+| Host Name | Chitachik |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 11:08:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002571690736 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | nvxe |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 11:08:34 |
@@ -65,40 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 11:06:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002571181619 |
-| Players | 3/8 |
-| Host Name | W бозон 弱相互作用 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 11:07:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002571425969 |
-| Players | 10/15 |
-| Host Name | Chitachik |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:08:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002571878025 |
-| Players | 1/8 |
-| Host Name | Racso |
+| Lobby ID | 28546002571992415 |
+| Players | 1/24 |
+| Host Name | Shadow |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 11:08:53 |
+| Lobby Creation Time | Sunday, December 3, 2023 11:09:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002571990564 |
+| Players | 1/10 |
+| Host Name | OG.WasaBi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:09:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002568936237 |
-| Players | 9/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 11:03:53 |
+| Lobby ID | 28546002571945425 |
+| Players | 1/10 |
+| Host Name | kymhnju |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 11:09:00 |
 
 
 |  | epic_boss_fight_challenger |
