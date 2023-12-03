@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002981941945 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Инфоцыган Руслан |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:28:02 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002978164333 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | TONYAFİNOPEEKGG |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:24:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002981855118 |
-| Players | 9/15 |
-| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:27:58 |
+| Lobby ID | 28546002982158153 |
+| Players | 1/24 |
+| Host Name | 头 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, December 3, 2023 19:28:13 |
 
 
 |  | ot3_gardens_duo |
@@ -67,26 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002970694603 |
-| Players | 3/8 |
-| Host Name | クソ雌犬クソ雌犬 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:18:18 |
+| Lobby ID | 28546002982143049 |
+| Players | 2/8 |
+| Host Name | .m0desta/? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:28:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002981751075 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | sarme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:27:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002982272761 |
+| Players | 3/10 |
+| Host Name | Cookie Monsta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 19:28:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002978900688 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | k. Danger-Zone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:25:26 |
