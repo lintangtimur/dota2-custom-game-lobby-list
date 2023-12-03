@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003237418837 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Eeo |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 23:01:34 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003237980972 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Fantazia |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:02:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003238136501 |
-| Players | 12/15 |
-| Host Name | Матовэи Кoбудзэфу |
+| Lobby ID | 28546003238703071 |
+| Players | 2/8 |
+| Host Name | Король Демонов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:02:19 |
+| Lobby Creation Time | Sunday, December 3, 2023 23:02:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003234659137 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:58:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003236113464 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | kagni |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003236497669 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Pashka |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:37 |
@@ -121,29 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003238667017 |
-| Players | 6/10 |
-| Host Name | ArCHeR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 23:02:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003238694440 |
-| Players | 5/8 |
-| Host Name | Kasharik but SIGMA |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 23:02:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003238709666 |
-| Players | 3/8 |
-| Host Name | Детская травма. |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 23:02:53 |
+| Lobby ID | 28546003238881221 |
+| Players | 3/10 |
+| Host Name | Løgan |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 23:03:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 23:00:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003238908444 |
+| Players | 4/10 |
+| Host Name | дал зазу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 23:03:05 |
 
 
