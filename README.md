@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002688174732 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Muichiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:06:41 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002687254552 |
-| Players | 7/15 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 14:05:28 |
+| Lobby ID | 28546002689544071 |
+| Players | 7/10 |
+| Host Name | мистер большие яй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 14:08:28 |
 
 
 |  | ot3_desert_octet |
@@ -59,45 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002688595620 |
-| Players | 15/24 |
-| Host Name | Mr.Banana |
+| Players | 17/24 |
+| Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:07:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002689244480 |
-| Players | 4/15 |
-| Host Name | xzc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 14:08:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546002689270729 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | VOID ESPONJA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 14:08:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002689903528 |
+| Players | 6/10 |
+| Host Name | RASTAFARI 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:08:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002686573769 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 14:04:34 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002689369668 |
-| Players | 1/5 |
-| Host Name | Gel |
+| Lobby ID | 28546002689903928 |
+| Players | 1/10 |
+| Host Name | EJL |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:08:14 |
+| Lobby Creation Time | Sunday, December 3, 2023 14:08:56 |
 
 
