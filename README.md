@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002981666388 |
-| Players | 8/10 |
-| Host Name | dadayanis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:27:48 |
+| Lobby ID | 28546002981941945 |
+| Players | 4/10 |
+| Host Name | Инфоцыган Руслан |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:28:02 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002978164333 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | TONYAFİNOPEEKGG |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 19:24:48 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002981240610 |
-| Players | 13/15 |
-| Host Name | Buugi |
+| Lobby ID | 28546002981855118 |
+| Players | 9/15 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:27:26 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:27:58 |
 
 
 |  | ot3_gardens_duo |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:27:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002981855118 |
-| Players | 4/15 |
-| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:27:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002978900688 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | k. Danger-Zone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 19:25:26 |
