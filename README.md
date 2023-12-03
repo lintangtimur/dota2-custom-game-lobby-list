@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002754020401 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:28:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002757402677 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Desemputol |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 15:32:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002757474109 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 15:32:48 |
@@ -98,15 +98,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 3/15 |
 | Host Name | Touhou |
 | Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 15:34:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546002759231441 |
-| Players | 9/10 |
-| Host Name | WIN PROBABILITY:  1% |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:34:49 |
 
 
