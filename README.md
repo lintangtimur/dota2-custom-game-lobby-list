@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003078775277 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TNT_Rich |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003078716795 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | пустота. |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955984913 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ♥FREE YOURSELF♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003078604541 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Zeoleur |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003079139825 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 20:45:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003079647733 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Борис |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 20:46:15 |
@@ -119,22 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 20:46:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003079651350 |
-| Players | 9/10 |
-| Host Name | Илюня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:46:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003079687906 |
-| Players | 2/10 |
-| Host Name | Whoim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 20:46:17 |
+| Lobby ID | 28546003079874670 |
+| Players | 1/8 |
+| Host Name | сисечный сомелье |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 20:46:26 |
 
 
 |  | epic_boss_fight_nightmare |
