@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002776510388 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | G!Dnova |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:54:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002778008953 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Fearx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:56:04 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:56:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002778254081 |
+| Players | 1/8 |
+| Host Name | мамикс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 15:56:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002774532756 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002777623285 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | tahwah1 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 15:55:38 |
