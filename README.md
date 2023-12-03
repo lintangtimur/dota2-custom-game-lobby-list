@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002669844100 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:42:11 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 14:45:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002714056337 |
-| Players | 23/24 |
-| Host Name | AikoSora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 14:39:56 |
+| Lobby ID | 28546002718924265 |
+| Players | 4/15 |
+| Host Name | Gator |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 14:46:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002718674031 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | shmunky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:45:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002718116637 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ✝ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 14:45:04 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002718875252 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 14:46:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002719022410 |
+| Players | 1/15 |
+| Host Name | 30 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 14:46:11 |
 
 
 |  | epic_boss_fight_nightmare |
