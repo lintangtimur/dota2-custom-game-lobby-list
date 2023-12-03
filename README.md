@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002565862941 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | SANTOSO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 10:58:36 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002563994044 |
-| Players | 14/15 |
-| Host Name | Tia Paolaaaaaaa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 10:55:19 |
+| Lobby ID | 28546002566196604 |
+| Players | 3/15 |
+| Host Name | czy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 10:59:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002564437126 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:56:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002566063817 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | 😈😈😈 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 10:58:57 |
@@ -67,19 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002566100601 |
-| Players | 4/8 |
-| Host Name | mode: clown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:59:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002565914893 |
-| Players | 8/10 |
-| Host Name | Maro4ka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 10:58:42 |
+| Lobby ID | 28546002566278319 |
+| Players | 1/8 |
+| Host Name | HANJIEE HEHEHE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 10:59:19 |
 
 
