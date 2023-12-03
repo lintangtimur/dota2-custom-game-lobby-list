@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:50:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002634218606 |
-| Players | 21/24 |
-| Host Name | Daantz |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:49:51 |
+| Lobby ID | 28546002635063615 |
+| Players | 1/15 |
+| Host Name | Sgt Struthers |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 12:51:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002633237486 |
-| Players | 7/10 |
-| Host Name | VOOPOO DRAG S PRO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:48:19 |
+| Lobby ID | 28546002634981706 |
+| Players | 4/15 |
+| Host Name | TurgutTaner |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:51:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632385095 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:46:59 |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:50:53 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002635137165 |
+| Players | 1/24 |
+| Host Name | æ Haku æ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:51:17 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002634686534 |
+| Lobby ID | 28546002635163837 |
 | Players | 1/8 |
 | Host Name | Utopia |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:50:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002634981706 |
-| Players | 3/15 |
-| Host Name | TurgutTaner |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 12:51:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546002635063615 |
-| Players | 1/15 |
-| Host Name | Sgt Struthers |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:51:10 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:51:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MORPHEUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:50:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546002635150399 |
+| Players | 1/5 |
+| Host Name | GIATAY KA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:51:18 |
 
 
