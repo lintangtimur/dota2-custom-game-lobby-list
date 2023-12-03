@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002851316066 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Deimos |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 17:20:33 |
@@ -29,67 +29,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:19:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002852449973 |
+| Players | 7/10 |
+| Host Name | fumimochi prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:21:51 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002851598583 |
-| Players | 13/15 |
-| Host Name | шахтер твоих дыро |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:20:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002849278377 |
-| Players | 5/8 |
-| Host Name | Arkeint |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:18:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002851268624 |
-| Players | 1/8 |
-| Host Name | Casa Matusita Lujan Carrion |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 17:20:29 |
+| Lobby ID | 28546002852588092 |
+| Players | 4/15 |
+| Host Name | Schniix |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 17:22:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002851945929 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Magnus Stop~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:21:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002851919936 |
-| Players | 4/10 |
-| Host Name | ssjsj |
+| Lobby ID | 28546002852581985 |
+| Players | 2/8 |
+| Host Name | aa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:21:14 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:22:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002847910728 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 17:16:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546002846065982 |
-| Players | 10/10 |
-| Host Name | シャドーダイブ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 17:14:26 |
 
 
 |  | epic_boss_fight_nightmare |
