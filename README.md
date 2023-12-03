@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002650539582 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | doom13524 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:14:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002650412450 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:14:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002651546059 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | h0h0 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 3, 2023 13:16:20 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002651795261 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:16:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002651950120 |
-| Players | 1/8 |
-| Host Name | ✟ מִיכָאֵל ✟ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 13:16:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002644947382 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | shushkan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:06:27 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 13:16:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002651944707 |
-| Players | 1/5 |
-| Host Name | Порванный Туз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:16:55 |
 
 
