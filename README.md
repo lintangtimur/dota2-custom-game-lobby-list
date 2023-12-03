@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002972959574 |
-| Players | 18/24 |
-| Host Name | TheKraken |
+| Lobby ID | 28546002978331967 |
+| Players | 2/15 |
+| Host Name | Психонафт |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:20:18 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002955984913 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Pinochet |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 19:05:00 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:10:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002977529771 |
-| Players | 7/15 |
-| Host Name | ape |
+| Lobby ID | 28546002978119158 |
+| Players | 3/8 |
+| Host Name | queue swap cm |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:24:16 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 19:18:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002976727533 |
-| Players | 9/10 |
-| Host Name | russian genius |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:23:35 |
+| Lobby ID | 28546002976605929 |
+| Players | 8/24 |
+| Host Name | ambathukam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:23:29 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002977306823 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | TerroRY.GoDota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 19:24:04 |
@@ -121,26 +121,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002976583021 |
-| Players | 6/8 |
-| Host Name | EzaeZ1 |
+| Lobby ID | 28546002978113355 |
+| Players | 1/8 |
+| Host Name | WAYNE |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002977907069 |
+| Players | 8/10 |
+| Host Name | d46e51669e56 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:23:27 |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002976605929 |
-| Players | 5/24 |
-| Host Name | ambathukam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:23:29 |
+| Lobby ID | 28546002978164333 |
+| Players | 3/24 |
+| Host Name | TONYAFİNOPEEKGG |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002974136597 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | クリシャ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 19:21:19 |
@@ -148,19 +157,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002975061399 |
-| Players | 8/10 |
-| Host Name | ШМАРОКРАД |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 19:22:08 |
+| Lobby ID | 28546002977858975 |
+| Players | 1/10 |
+| Host Name | Fozzzey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:33 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002977575554 |
-| Players | 1/7 |
-| Host Name | Ylylysha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 19:24:18 |
+| Lobby ID | 28546002978185413 |
+| Players | 1/5 |
+| Host Name | лисий грех[BAN] |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 19:24:49 |
 
 
