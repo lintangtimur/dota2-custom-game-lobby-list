@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002831534747 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:57:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002830687115 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Greywalker |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 16:56:09 |
@@ -68,25 +68,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002831477427 |
-| Players | 4/10 |
-| Host Name | Leafy(H) |
+| Players | 7/10 |
+| Host Name | _ZIMEN_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:57:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002831647035 |
-| Players | 1/8 |
-| Host Name | Stuwark |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 3, 2023 16:57:16 |
+| Lobby ID | 28546002831683816 |
+| Players | 5/15 |
+| Host Name | Darwin |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:57:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002831678714 |
+| Players | 7/15 |
+| Host Name | BadBox:) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:57:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002831716162 |
+| Players | 2/10 |
+| Host Name | Nooddi |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 16:57:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002828586613 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:53:42 |
