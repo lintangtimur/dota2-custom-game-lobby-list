@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002792701791 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Андрей Щикатило |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 16:12:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002793181249 |
+| Players | 2/24 |
+| Host Name | 苍蝇 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:13:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002791942595 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | термоядерный понос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 16:11:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002793298114 |
+| Players | 2/10 |
+| Host Name | O₂ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 16:13:19 |
 
 
