@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002609812438 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002611073244 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name |  ℵξℴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:13:07 |
@@ -83,31 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 12:14:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002612209123 |
-| Players | 1/10 |
-| Host Name | Yosep Santillan |
+| Lobby ID | 28546002612263898 |
+| Players | 2/15 |
+| Host Name | ßęşĕĺäŝĩý Ğąž |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 12:15:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546002612308886 |
+| Players | 5/8 |
+| Host Name | ☢Joshua☢ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:14:55 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:15:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002612116776 |
+| Lobby ID | 28546002612283323 |
 | Players | 1/8 |
-| Host Name | short legs, you know? |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:14:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002611579551 |
-| Players | 7/8 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:13:55 |
+| Host Name | kurono |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 12:15:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002610075006 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 12:11:30 |
