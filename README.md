@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002663275325 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Michael Scott |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 13:33:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002663946140 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | el mata bolivianos 3k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 13:34:06 |
@@ -65,21 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 13:34:54 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002664613942 |
+| Players | 1/24 |
+| Host Name | Kuro |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:35:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546002664615249 |
+| Players | 2/24 |
+| Host Name | joder |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 13:35:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546002664618483 |
+| Players | 2/15 |
+| Host Name | doom13524 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 13:35:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002663653422 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | hendra2lm |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 13:33:42 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546002664559685 |
-| Players | 1/5 |
-| Host Name | KpenkuuApaxuc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 13:34:57 |
+| Lobby ID | 28546002664655843 |
+| Players | 1/10 |
+| Host Name | ベビーポテト |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 3, 2023 13:35:05 |
 
 
