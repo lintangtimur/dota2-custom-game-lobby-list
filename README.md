@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632492832 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 12:47:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632385095 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:46:59 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002632389119 |
+| Lobby ID | 28546002633163628 |
 | Players | 4/8 |
-| Host Name | Vaioleto Parr |
+| Host Name | Lemi Shó de china |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:47:00 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:48:12 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002632441129 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ae5 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 12:47:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002630355612 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Zʌvʌ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 12:43:47 |
@@ -85,35 +85,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002632917734 |
-| Players | 8/10 |
-| Host Name | laughter |
+| Lobby ID | 28546002633237486 |
+| Players | 1/10 |
+| Host Name | VOOPOO DRAG S PRO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 12:47:49 |
+| Lobby Creation Time | Sunday, December 3, 2023 12:48:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002633097941 |
-| Players | 1/8 |
-| Host Name | 76561198801201209 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 3, 2023 12:48:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546002633163628 |
-| Players | 1/8 |
-| Host Name | Lemi Shó de china |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 12:48:12 |
+| Lobby ID | 28546002633281527 |
+| Players | 4/10 |
+| Host Name | alpha den4ik) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 12:48:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002633061713 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Stars |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 12:48:03 |
