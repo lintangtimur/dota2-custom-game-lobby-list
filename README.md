@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003216237132 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Xy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:40:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003214276093 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mata limeños |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:38:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003213296141 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Глубокослав |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 22:37:25 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003216686339 |
-| Players | 14/15 |
-| Host Name | Даня Позитив (нет) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:40:46 |
+| Lobby ID | 28546003216812035 |
+| Players | 2/15 |
+| Host Name | Sr. Wick |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 3, 2023 22:40:54 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003216675554 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Воробушек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:40:45 |
@@ -103,47 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003216887712 |
-| Players | 8/10 |
-| Host Name | сигма |
+| Lobby ID | 28546003217048139 |
+| Players | 6/10 |
+| Host Name | Mysor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:40:58 |
+| Lobby Creation Time | Sunday, December 3, 2023 22:41:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003216766781 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | godzilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:40:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003216861906 |
-| Players | 1/8 |
-| Host Name | ✞ $k1ppa ✞ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:40:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003216812035 |
-| Players | 1/15 |
-| Host Name | Sr. Wick |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 3, 2023 22:40:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003217018785 |
-| Players | 1/15 |
-| Host Name | YUJI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:41:06 |
 
 
 |  | epic_boss_fight_normal |
