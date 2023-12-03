@@ -50,25 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002856819591 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | чин чан чон чи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:26:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546002857239112 |
-| Players | 3/8 |
-| Host Name | истрибитель пивка |
-| Region | EUROPE |
+| Lobby ID | 28546002857246304 |
+| Players | 1/10 |
+| Host Name | I'm a beast. |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:27:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002856910394 |
+| Players | 7/10 |
+| Host Name | Takashi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:26:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002847910728 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 17:16:34 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daenerys |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 17:26:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002857382919 |
+| Players | 1/10 |
+| Host Name | hao |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 3, 2023 17:27:22 |
 
 
