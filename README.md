@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002846374761 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 17:14:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002843645088 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Delicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:11:37 |
@@ -56,22 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:14:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002846364983 |
-| Players | 1/8 |
-| Host Name | supermark02 |
+| Lobby ID | 28546002846809008 |
+| Players | 1/15 |
+| Host Name | Mask |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 3, 2023 17:15:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002846829529 |
+| Players | 2/10 |
+| Host Name | Гатс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:14:47 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:15:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546002844357914 |
+| Players | 8/10 |
+| Host Name | ilya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:12:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002846407852 |
-| Players | 8/15 |
-| Host Name | fearless |
+| Lobby ID | 28546002846865167 |
+| Players | 1/15 |
+| Host Name | ХВОСТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:14:50 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:15:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | シャドーダイブ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:14:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002846855350 |
+| Players | 2/10 |
+| Host Name | Серёжа Пивогрыз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 17:15:21 |
 
 
