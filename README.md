@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002862226272 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Good день |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:32:40 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 17:40:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002869515187 |
-| Players | 11/15 |
-| Host Name | Рекс хочет секс |
+| Lobby ID | 28546002869826435 |
+| Players | 2/8 |
+| Host Name | Данилахукай |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 17:40:32 |
+| Lobby Creation Time | Sunday, December 3, 2023 17:40:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546002869796030 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Asmodeus |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:40:50 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002866642096 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 印度代购神药专卖 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 3, 2023 17:37:26 |
