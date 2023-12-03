@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002816706656 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 3, 2023 16:39:55 |
@@ -50,27 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546002821014708 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Tofus |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 3, 2023 16:44:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546002821013419 |
-| Players | 8/10 |
-| Host Name | burn ’em all before I’m gone |
+| Lobby ID | 28546002821556415 |
+| Players | 1/24 |
+| Host Name | panimay |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 16:44:58 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:45:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546002821351615 |
-| Players | 2/8 |
-| Host Name | Easymoden |
+| Lobby ID | 28546002821566011 |
+| Players | 5/8 |
+| Host Name | LALO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 16:45:21 |
+| Lobby Creation Time | Sunday, December 3, 2023 16:45:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002821645185 |
+| Players | 1/10 |
+| Host Name | ako po si Daniel Seda Padilla |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 3, 2023 16:45:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002821711496 |
+| Players | 2/10 |
+| Host Name | Aria |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 16:45:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546002821775590 |
+| Players | 2/10 |
+| Host Name | Rama |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 16:45:50 |
 
 
