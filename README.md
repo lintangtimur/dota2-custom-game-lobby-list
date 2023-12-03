@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003197682355 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 22:22:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003198744326 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Tomoya Uryuu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 3, 2023 22:23:11 |
@@ -58,71 +58,62 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003198219772 |
-| Players | 23/24 |
-| Host Name | Hey Jayyy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:22:44 |
+| Lobby ID | 28546003199837807 |
+| Players | 1/24 |
+| Host Name | UncleVit0 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 3, 2023 22:24:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003196406494 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 3, 2023 22:21:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003199606731 |
-| Players | 12/15 |
-| Host Name | Саша Белый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:23:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003199515319 |
-| Players | 4/8 |
-| Host Name | Пингуй мне похуй |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 22:23:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003198113692 |
-| Players | 7/8 |
-| Host Name | Грига гамак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 22:22:38 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003199758923 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | >ReLaXX< |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:24:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003199837807 |
-| Players | 1/24 |
-| Host Name | ChimaerA |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 3, 2023 22:24:11 |
+| Lobby ID | 28546003199515319 |
+| Players | 7/8 |
+| Host Name | Пингуй мне похуй |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 22:23:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003199924531 |
+| Players | 5/15 |
+| Host Name | корова |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:24:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003199960642 |
+| Players | 1/8 |
+| Host Name | Закон 50% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 3, 2023 22:24:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003199229340 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Old Bot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 22:23:36 |
