@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546002750495837 |
-| Players | 15/24 |
-| Host Name | Jupino1 |
+| Players | 16/24 |
+| Host Name | torkotor |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 3, 2023 15:24:44 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546002755326066 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | бос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:30:20 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546002755624486 |
-| Players | 9/15 |
-| Host Name | WTF?!о_0 |
+| Lobby ID | 28546002756022941 |
+| Players | 1/15 |
+| Host Name | нос 19см |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 3, 2023 15:30:41 |
+| Lobby Creation Time | Sunday, December 3, 2023 15:31:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 3, 2023 15:28:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546002754441851 |
-| Players | 9/10 |
-| Host Name | Eisoonn |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 3, 2023 15:29:18 |
+| Lobby ID | 28546002755671592 |
+| Players | 1/5 |
+| Host Name | 🤍☠ 454714745 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 3, 2023 15:30:44 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,27 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546002755350580 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Saeraeat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 3, 2023 15:30:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546002755671592 |
-| Players | 1/5 |
-| Host Name | 🤍☠ 454714745 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:30:44 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546002755863751 |
-| Players | 1/7 |
-| Host Name | Nan0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 3, 2023 15:30:57 |
 
 
