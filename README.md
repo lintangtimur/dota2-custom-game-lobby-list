@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003655742288 |
-| Players | 6/8 |
-| Host Name | Hopeツ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:21:02 |
+| Lobby ID | 28546003658054391 |
+| Players | 3/15 |
+| Host Name | tR1ckY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 10:25:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003657399862 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:24:22 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:24:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003656515437 |
-| Players | 21/24 |
-| Host Name | Cptn.Canuck |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 10:22:34 |
+| Lobby ID | 28546003658030064 |
+| Players | 4/10 |
+| Host Name | Spider Victor |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:25:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003657961190 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Soodeira |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:25:30 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003653473431 |
-| Players | 2/10 |
-| Host Name | Maharaja Lawana |
+| Players | 1/10 |
+| Host Name | BANgiordota.com |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:16:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003653953203 |
-| Players | 9/10 |
-| Host Name | Akaza |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 10:17:27 |
 
 
 |  | epic_boss_fight_normal |
