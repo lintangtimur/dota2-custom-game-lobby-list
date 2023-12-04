@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003675038904 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ✯ P0W ✯ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:00:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003673286363 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | maus 空な |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003673695701 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Lil cucker spaniel |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:54 |
@@ -110,33 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:01:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003673055533 |
-| Players | 23/24 |
-| Host Name | real human bean |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 10:56:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003675523450 |
-| Players | 3/15 |
-| Host Name | KDIO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:01:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003675563773 |
-| Players | 3/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:01:52 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003675591031 |
@@ -146,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:01:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003675615432 |
-| Players | 1/8 |
-| Host Name | †♥Pw♥† |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 4, 2023 11:01:59 |
+| Lobby ID | 28546003675523450 |
+| Players | 7/15 |
+| Host Name | KDIO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:01:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003675563773 |
+| Players | 6/10 |
+| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:01:52 |
 
 
 |  | epic_boss_fight_nightmare |
