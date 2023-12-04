@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003644665925 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003655120977 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 10:19:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003655355505 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | raron |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:20:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003655742288 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hopeツ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:21:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003653473431 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:16:30 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003653953203 |
-| Players | 3/10 |
-| Host Name | Raikenzi |
+| Players | 2/10 |
+| Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:17:27 |
 
