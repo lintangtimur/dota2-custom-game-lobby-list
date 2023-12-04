@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003670796650 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:51:46 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:50:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003670784898 |
-| Players | 14/15 |
-| Host Name | Caramelbear |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 10:51:45 |
+| Lobby ID | 28546003671282192 |
+| Players | 5/8 |
+| Host Name | FUCK IT ALL |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:52:47 |
 
 
 |  | ot3_gardens_duo |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003670748712 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | LARRI CAPIJA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:51:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003671282192 |
-| Players | 3/8 |
-| Host Name | FUCK IT ALL |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:52:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003671354665 |
-| Players | 1/8 |
-| Host Name | DealtrenS |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 10:52:57 |
 
 
 |  | epic_boss_fight_nightmare |
