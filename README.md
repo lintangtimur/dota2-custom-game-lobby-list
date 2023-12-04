@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:57:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003727896774 |
-| Players | 14/15 |
-| Host Name | =LaPetiteMort= |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 12:59:51 |
+| Lobby ID | 28546003729279843 |
+| Players | 6/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 13:03:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003728070825 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | A-H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:00:17 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (RSO)EMINEM(RSO) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 13:02:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003729279843 |
-| Players | 6/10 |
-| Host Name | Jane.A7x |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 13:03:10 |
 
 
 |  | epic_boss_fight_normal |
