@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003655882237 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Duracho la real llanta baja |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:21:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003655625619 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:20:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003655355505 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | raron |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:20:15 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:21:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003656277818 |
-| Players | 2/8 |
-| Host Name | Умный Ишак |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 10:22:06 |
+| Lobby ID | 28546003656346814 |
+| Players | 1/15 |
+| Host Name | Fungus the Bogeyman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 10:22:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003656348207 |
+| Players | 1/10 |
+| Host Name | ALEJANDRO TOLEDO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:22:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003653953203 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:17:27 |
