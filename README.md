@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003709283414 |
-| Players | 6/8 |
-| Host Name | Metal Cooler |
+| Lobby ID | 28546003710138170 |
+| Players | 12/15 |
+| Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 12:17:29 |
+| Lobby Creation Time | Monday, December 4, 2023 12:19:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003709159962 |
-| Players | 9/10 |
-| Host Name | Filipo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 12:17:12 |
+| Lobby ID | 28546003710232506 |
+| Players | 7/24 |
+| Host Name | Pericotito de Nelly Rossinelli |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 12:19:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bank of Braavos |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:20:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003710138170 |
-| Players | 5/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 12:19:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003710232506 |
-| Players | 2/24 |
-| Host Name | Pericotito de Nelly Rossinelli |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:19:39 |
 
 
 |  | epic_boss_fight_nightmare |
