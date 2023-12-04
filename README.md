@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003645250895 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | kamatheblack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:00:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003642617160 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 09:54:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003635638171 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:40:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003645760978 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:01:10 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003646205122 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Animazzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:02:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003645339796 |
+| Players | 9/15 |
+| Host Name | Angεl_φF_Chaos |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 10:00:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003646292516 |
+| Players | 1/15 |
+| Host Name | Xinfinty- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 10:02:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003646363802 |
+| Players | 1/10 |
+| Host Name | Dumb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 10:02:21 |
 
 
