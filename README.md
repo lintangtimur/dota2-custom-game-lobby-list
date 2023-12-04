@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003662156865 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:33:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003664666167 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:39:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003665459688 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | muchacho |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:40:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003664631096 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | bangali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:38:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003667053446 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | babyniksha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:43:57 |
