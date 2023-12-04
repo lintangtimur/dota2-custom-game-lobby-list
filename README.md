@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003736166589 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Shedu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:17:56 |
@@ -22,29 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003733498006 |
-| Players | 19/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:12:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003737736876 |
-| Players | 7/10 |
-| Host Name | жоский чел |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:21:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28546003738011379 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Loading... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:21:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003738530536 |
+| Players | 2/15 |
+| Host Name | Not Today |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 13:22:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003738594928 |
+| Players | 1/8 |
+| Host Name | bad vibes forever |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 13:22:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:14:20 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003738310649 |
-| Players | 1/7 |
-| Host Name | Ювелир |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:22:23 |
+| Lobby ID | 28546003735663144 |
+| Players | 5/10 |
+| Host Name | Teletambis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 13:16:54 |
 
 
