@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003736166589 |
-| Players | 13/15 |
-| Host Name | Shedu |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:17:56 |
+| Lobby ID | 28546003739836747 |
+| Players | 1/8 |
+| Host Name | Evlogos |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 13:25:30 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003738011379 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Loading... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:21:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003738705117 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Los amigos te olvidan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:23:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003739457144 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | WinNee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:24:43 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I Love Mid Mother Fucker♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:25:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003740085202 |
+| Players | 4/8 |
+| Host Name | Deutsu |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:26:00 |
 
 
 |  | epic_boss_fight_normal |
