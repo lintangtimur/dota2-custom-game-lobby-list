@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003678142679 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | fhy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:07:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003679553235 |
-| Players | 3/8 |
-| Host Name | PALTITAAAAAAA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:10:34 |
+| Lobby ID | 28546003680126195 |
+| Players | 1/15 |
+| Host Name | Golly |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 11:11:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003678689950 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | shit happens |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:08:41 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:09:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003679299355 |
-| Players | 14/15 |
-| Host Name | Tarrence12 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 11:10:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003679936334 |
-| Players | 1/15 |
-| Host Name | Oka |
+| Lobby ID | 28546003679995166 |
+| Players | 1/8 |
+| Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:11:24 |
+| Lobby Creation Time | Monday, December 4, 2023 11:11:32 |
 
 
 |  | epic_boss_fight_nightmare |
