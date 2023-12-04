@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003758271463 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:01:00 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003760321850 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [ZIG]Arthas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:04:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003760362393 |
-| Players | 3/5 |
-| Host Name | Darcy Weisbach |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 4, 2023 14:04:55 |
 
 
