@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003715963563 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003718925914 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | My Tears Are Becoming A Sea |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:39:24 |
