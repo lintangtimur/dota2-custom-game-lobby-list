@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:42:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003720105804 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:42:07 |
+| Lobby ID | 28546003720933520 |
+| Players | 3/24 |
+| Host Name | Just die already |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:44:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003717970462 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Xavidra |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:37:13 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:43:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003720845226 |
-| Players | 1/24 |
-| Host Name | blank / |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:43:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003720919532 |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | It's ok I just need a break |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:43:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003720933520 |
-| Players | 1/24 |
-| Host Name | tutu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 12:44:01 |
 
 
 |  | epic_boss_fight_nightmare |
