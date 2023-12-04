@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003649998932 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:09:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003652826458 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | The chosen one ♠ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003652333661 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Heckin' Peepers |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:14:13 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trismegistus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:08:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003652951659 |
+| Players | 1/5 |
+| Host Name | questionable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 10:15:28 |
 
 
