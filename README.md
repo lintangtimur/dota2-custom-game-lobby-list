@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003715963563 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:40 |
