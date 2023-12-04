@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003728294613 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Gambetto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:00:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003727896774 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | =LaPetiteMort= |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 12:59:51 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:01:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003728879340 |
+| Players | 1/15 |
+| Host Name | FountainDivePro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 13:02:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003728908929 |
+| Players | 1/10 |
+| Host Name | Mia Khalifa.Onlyfans✪ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:02:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003725342339 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ID : 氷 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:54:02 |
