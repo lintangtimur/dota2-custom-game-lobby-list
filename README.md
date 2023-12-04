@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003780125967 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ♥FREE YOURSELF♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:41:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003798075348 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:14:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003801731725 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Ky6a³♫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:21:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003801738659 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 15:21:10 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003802163265 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Voland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:21:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003802631615 |
+| Players | 1/15 |
+| Host Name | Ambition |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 4, 2023 15:22:45 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003802243387 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:22:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003802508672 |
+| Players | 2/5 |
+| Host Name | APEX |
+| Region | PWUNICOM |
+| Lobby Creation Time | Monday, December 4, 2023 15:22:32 |
 
 
