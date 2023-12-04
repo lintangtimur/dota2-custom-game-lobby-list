@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003780702141 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Satoru Gojo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:42:03 |
