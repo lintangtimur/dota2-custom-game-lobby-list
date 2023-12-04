@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003657961190 |
-| Players | 12/15 |
-| Host Name | Soodeira |
+| Lobby ID | 28546003658844765 |
+| Players | 1/24 |
+| Host Name | Emo Morales |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:25:30 |
+| Lobby Creation Time | Monday, December 4, 2023 10:27:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003658054391 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | tR1ckY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:25:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003658725212 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | shit happens |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:03 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003658747248 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | kamatheblack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003657563739 |
-| Players | 2/5 |
-| Host Name | questionable |
+| Lobby ID | 28546003658825491 |
+| Players | 2/10 |
+| Host Name | EMPERATOOR_No1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 10:24:42 |
+| Lobby Creation Time | Monday, December 4, 2023 10:27:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003658847205 |
+| Players | 1/10 |
+| Host Name | iCouldNotAskForMore. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 10:27:17 |
 
 
