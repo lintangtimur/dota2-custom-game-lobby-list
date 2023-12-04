@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003696710959 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Eloyito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:49:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003696359914 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:48:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003696875416 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:49:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003696883386 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | viejafobico |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:49:28 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003697149123 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:50:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003696384862 |
-| Players | 23/24 |
-| Host Name | Zerabian |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 11:48:20 |
+| Lobby ID | 28546003697273421 |
+| Players | 3/15 |
+| Host Name | Monster |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 4, 2023 11:50:20 |
 
 
 |  | epic_boss_fight_nightmare |
