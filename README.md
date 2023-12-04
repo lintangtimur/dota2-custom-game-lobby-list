@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003678142679 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | pos 4 Jungla |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:07:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003677814343 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | sgem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:06:46 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:08:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003678418055 |
-| Players | 1/24 |
-| Host Name | viejafobico |
+| Lobby ID | 28546003678498364 |
+| Players | 1/10 |
+| Host Name | Manguito |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:08:05 |
+| Lobby Creation Time | Monday, December 4, 2023 11:08:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003678495423 |
+| Players | 2/8 |
+| Host Name | el cuarto dedo del meepo |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:08:15 |
 
 
 |  | epic_boss_fight_nightmare |
