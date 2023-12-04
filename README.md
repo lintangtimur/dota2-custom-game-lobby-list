@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003685811737 |
-| Players | 3/8 |
-| Host Name | ♦?♦ |
+| Players | 2/8 |
+| Host Name | KmiK |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:30 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003684912636 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:22:29 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:24:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003685792183 |
-| Players | 10/15 |
-| Host Name | Cross ' |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:24:28 |
+| Lobby ID | 28546003686350298 |
+| Players | 2/24 |
+| Host Name | 博士 1ng |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 4, 2023 11:25:44 |
 
 
 |  | ot3_desert_octet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003686089131 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | Cabo Productions |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:25:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003686350298 |
-| Players | 2/24 |
-| Host Name | 博士 1ng |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 4, 2023 11:25:44 |
 
 
 |  | epic_boss_fight_nightmare |
