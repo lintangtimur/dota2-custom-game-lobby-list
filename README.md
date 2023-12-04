@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003678540189 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Shasther |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:08:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003679553235 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | PALTITAAAAAAA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:10:34 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:08:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003679651730 |
-| Players | 2/24 |
-| Host Name | nfwhh |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 11:10:47 |
+| Lobby ID | 28546003679764997 |
+| Players | 1/8 |
+| Host Name | Skarp. TRADEIT.GG |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:11:02 |
 
 
 |  | epic_boss_fight_nightmare |
