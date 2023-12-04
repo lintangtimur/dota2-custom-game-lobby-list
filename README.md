@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003692997419 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Alexor10 giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:40:40 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003689622908 |
-| Players | 23/24 |
-| Host Name | Cubs |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 4, 2023 11:33:05 |
+| Lobby ID | 28546003693913728 |
+| Players | 5/24 |
+| Host Name | Vernedomo |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:42:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:42:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003693913728 |
-| Players | 3/24 |
-| Host Name | Vernedomo |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:42:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003693928650 |
-| Players | 1/24 |
-| Host Name | CHOLITO MISIO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:42:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003693954140 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:42:50 |
