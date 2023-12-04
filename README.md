@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003765962376 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Lolita |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 14:15:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003765936219 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Demonic Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:15:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003764222124 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:12:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003766752642 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Таракан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:16:38 |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003766890400 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Poebat' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:16:54 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28546003766905893 |
-| Players | 1/7 |
-| Host Name | Teletambis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:16:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003766990215 |
-| Players | 2/5 |
-| Host Name | SL•AY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:17:05 |
 
 
