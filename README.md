@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003695170655 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:45:35 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003693543505 |
-| Players | 7/8 |
-| Host Name | Astaroth |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:41:55 |
+| Lobby ID | 28546003695373204 |
+| Players | 2/8 |
+| Host Name | ПодзалупнаяТреще |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 11:46:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003694757643 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:44:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003691992982 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | moustachio |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 11:38:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003695274776 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:45:48 |
