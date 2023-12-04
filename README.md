@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003656179130 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | KEEPER OF DELAY |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:21:53 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003656515437 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:22:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003657479854 |
-| Players | 1/24 |
-| Host Name | Wu Gensheng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 10:24:32 |
+| Lobby ID | 28546003657961190 |
+| Players | 5/15 |
+| Host Name | Soodeira |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:25:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003657563739 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | questionable |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:24:42 |
