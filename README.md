@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003776632791 |
-| Players | 1/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 14:34:40 |
+| Lobby ID | 28546003784690123 |
+| Players | 2/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 14:49:17 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003785141941 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 14:50:06 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003784690123 |
-| Players | 2/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:49:17 |
+| Lobby ID | 28546003786232022 |
+| Players | 1/8 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 14:52:05 |
 
 
 |  | epic_boss_fight_normal |
