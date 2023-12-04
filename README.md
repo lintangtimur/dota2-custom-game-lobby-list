@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003801160811 |
-| Players | 12/15 |
-| Host Name | Decrementum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:20:07 |
+| Lobby ID | 28546003801439274 |
+| Players | 1/15 |
+| Host Name | TON *_* 618 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 15:20:38 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003798075348 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:14:31 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:18:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003801439274 |
-| Players | 1/15 |
-| Host Name | TON *_* 618 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 15:20:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003798596285 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Mayarasamee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:15:27 |
