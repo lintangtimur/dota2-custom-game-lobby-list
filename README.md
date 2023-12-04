@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003673286363 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | (ebanaya krыsa) Sanchoyzzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003673944023 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | POLINA SKAZALA CHOBI TI SOSALA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:58:25 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:58:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003674214370 |
+| Players | 1/15 |
+| Host Name | HIM |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:58:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003674234106 |
+| Players | 5/8 |
+| Host Name | Hierbaneitor |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:59:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003673658974 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Nice |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:49 |
