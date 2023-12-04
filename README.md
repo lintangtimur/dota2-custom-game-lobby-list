@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003733498006 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:12:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003734738317 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Tarrence12 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 13:15:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003733914858 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | NMIXXO.O |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:13:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003732473601 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:10:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003734886287 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | miss 2B |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:15:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003734847012 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | P-sune 666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:15:13 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | iblv-13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:15:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003734969445 |
-| Players | 1/8 |
-| Host Name | COVID 19 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 4, 2023 13:15:28 |
 
 
 |  | epic_boss_fight_nightmare |
