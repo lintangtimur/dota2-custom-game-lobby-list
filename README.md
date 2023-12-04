@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:53:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003757100255 |
-| Players | 9/10 |
-| Host Name | Макс Тайсон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:58:48 |
+| Lobby ID | 28546003758334542 |
+| Players | 1/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 14:01:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003757592082 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 13:59:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003758036529 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | -💧✋☹☜0⚐☠- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 14:00:33 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:01:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003758334542 |
-| Players | 1/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 14:01:07 |
 
 
 |  | epic_boss_fight_nightmare |
