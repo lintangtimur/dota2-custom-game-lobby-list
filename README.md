@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003668911499 |
-| Players | 23/24 |
-| Host Name | Mad |
+| Lobby ID | 28546003670293476 |
+| Players | 3/24 |
+| Host Name | El Peluca |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:47:49 |
+| Lobby Creation Time | Monday, December 4, 2023 10:50:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003669750920 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | saneking fun)) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:49:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003669971701 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | All muted |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:50:02 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:50:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003670293476 |
-| Players | 2/24 |
-| Host Name | El Peluca |
+| Lobby ID | 28546003670559023 |
+| Players | 4/8 |
+| Host Name | 陳Nightfall |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:50:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003670443643 |
-| Players | 1/15 |
-| Host Name | alofoke |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 10:51:02 |
+| Lobby Creation Time | Monday, December 4, 2023 10:51:16 |
 
 
 |  | epic_boss_fight_nightmare |
