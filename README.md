@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003795625721 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | La Cartel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:09:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003794985095 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Dota veteran |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:08:42 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003795451234 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:09:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003796321691 |
+| Players | 1/8 |
+| Host Name | крошечные яйца |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 4, 2023 15:11:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003796324989 |
+| Players | 3/8 |
+| Host Name | aka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 15:11:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003796174735 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Bleed bloody |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:10:58 |
