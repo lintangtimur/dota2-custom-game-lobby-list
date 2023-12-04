@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003699752685 |
-| Players | 13/15 |
-| Host Name | vicjug |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 11:55:59 |
+| Lobby ID | 28546003700422491 |
+| Players | 4/8 |
+| Host Name | Armaill* |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 4, 2023 11:57:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003698716959 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 開ღ♥*♥ღ.開•*¨)開(? |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:53:37 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 111 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:56:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003700422491 |
-| Players | 4/8 |
-| Host Name | Armaill* |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 4, 2023 11:57:30 |
 
 
 |  | epic_boss_fight_nightmare |
