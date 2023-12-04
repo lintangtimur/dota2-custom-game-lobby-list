@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003681265277 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | TOP REG in the world |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:14:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003681664927 |
-| Players | 10/24 |
+| Players | 18/24 |
 | Host Name | M a u u |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:15:11 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003681691188 |
-| Players | 10/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 11:15:15 |
+| Lobby ID | 28546003682393770 |
+| Players | 4/15 |
+| Host Name | Ivan Shinkarev |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:16:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003682204030 |
-| Players | 3/8 |
-| Host Name | M142 HIMARS |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 11:16:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003678531857 |
-| Players | 9/10 |
-| Host Name | Kirito |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 11:08:20 |
+| Lobby ID | 28546003682423965 |
+| Players | 1/8 |
+| Host Name | runawway(Positive, mental unstab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 11:16:53 |
 
 
 |  | epic_boss_fight_nightmare |
