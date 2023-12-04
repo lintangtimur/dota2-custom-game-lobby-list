@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003776632791 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:34:40 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003778421793 |
-| Players | 1/8 |
-| Host Name | киллми |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:37:55 |
+| Lobby ID | 28546003778521006 |
+| Players | 7/8 |
+| Host Name | EL CUCU MELLET |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 14:38:06 |
 
 
 |  | epic_boss_fight_nightmare |
