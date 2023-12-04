@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003715255205 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | GES.ГОМЫЗЯ.CRYPTOCRAFT.PW |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:03 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003715790729 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Dota Veteran |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003716521693 |
+| Players | 2/10 |
+| Host Name | millky~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 12:33:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003715248527 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Xippu ≧◉ᴥ◉≦ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:03 |
