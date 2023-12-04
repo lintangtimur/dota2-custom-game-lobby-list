@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003742321940 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Enryu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:30:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003742822151 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Morty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:31:26 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003743604628 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 13:32:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003744071570 |
-| Players | 6/8 |
-| Host Name | Dobraik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:33:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003740261574 |
-| Players | 7/8 |
-| Host Name | MADARA666 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:26:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003743929947 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ʀɪɴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:33:38 |
