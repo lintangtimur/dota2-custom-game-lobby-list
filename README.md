@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003715963563 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003715335690 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Los amigos te olvidan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003715621699 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:54 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota Veteran |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003714778549 |
+| Players | 4/8 |
+| Host Name | Sband_Mirand |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 12:29:59 |
 
 
 |  | epic_boss_fight_nightmare |
