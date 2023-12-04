@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003728294613 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Gambetto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:00:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003728718877 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | аменгушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:01:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003728070825 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | A-H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:00:17 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003729528440 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:03:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003729625337 |
-| Players | 1/15 |
+| Lobby ID | 28546003729657100 |
+| Players | 1/24 |
 | Host Name | ‡PULGA‡ |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:03:58 |
+| Lobby Creation Time | Monday, December 4, 2023 13:04:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003729659694 |
+| Players | 1/15 |
+| Host Name | Xavidra |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 13:04:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asmodeus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:03:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003729702890 |
+| Players | 1/5 |
+| Host Name | Jingle-Bell |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 13:04:08 |
 
 
