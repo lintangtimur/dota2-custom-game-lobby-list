@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 09:58:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003644446543 |
-| Players | 14/15 |
-| Host Name | @_@ |
+| Lobby ID | 28546003645318923 |
+| Players | 2/10 |
+| Host Name | YO EL NENE |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 09:58:33 |
+| Lobby Creation Time | Monday, December 4, 2023 10:00:18 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003644575880 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:48 |
@@ -74,12 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:00:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003645339796 |
+| Players | 2/15 |
+| Host Name | Angεl_φF_Chaos |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 10:00:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003645377675 |
+| Players | 1/15 |
+| Host Name | Soodeira |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:00:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003644336797 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Ryujiin.GG [ Buunja ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003645341229 |
+| Players | 1/10 |
+| Host Name | Teddy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 10:00:20 |
 
 
