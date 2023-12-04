@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003668004122 |
-| Players | 8/10 |
-| Host Name | Monster |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 10:45:55 |
+| Lobby ID | 28546003664631096 |
+| Players | 17/24 |
+| Host Name | bangali |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 10:38:59 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003667632697 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Prototype |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 10:45:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003667326051 |
-| Players | 23/24 |
-| Host Name | 5o4 |
+| Lobby ID | 28546003667293242 |
+| Players | 4/8 |
+| Host Name | TU GFA EN 4 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:44:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003664631096 |
-| Players | 16/24 |
-| Host Name | bangali |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 10:38:59 |
+| Lobby Creation Time | Monday, December 4, 2023 10:44:27 |
 
 
 |  | epic_boss_fight_nightmare |
