@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003681265277 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | TOP REG in the world |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:14:18 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003680417742 |
-| Players | 9/10 |
-| Host Name | D O M I N I C |
+| Lobby ID | 28546003681229647 |
+| Players | 6/15 |
+| Host Name | Cruckson |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:12:29 |
+| Lobby Creation Time | Monday, December 4, 2023 11:14:13 |
 
 
 |  | ot3_gardens_duo |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Edit Profile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:08:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003680817373 |
-| Players | 23/24 |
-| Host Name | trash |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:13:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003681229647 |
-| Players | 5/15 |
-| Host Name | Cruckson |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:14:13 |
 
 
 |  | epic_boss_fight_nightmare |
