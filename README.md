@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003687643349 |
-| Players | 7/8 |
-| Host Name | Alek |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:28:38 |
+| Lobby ID | 28546003687497969 |
+| Players | 8/15 |
+| Host Name | Yves Saint Laurent |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 11:28:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003684912636 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:22:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003686332885 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:25:41 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:27:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003687497969 |
-| Players | 7/15 |
-| Host Name | Yves Saint Laurent |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 11:28:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003684349747 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | AHyperDuck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:21:13 |
