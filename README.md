@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003700422491 |
-| Players | 2/8 |
-| Host Name | Armaill* |
+| Players | 1/8 |
+| Host Name | COVID 19 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 4, 2023 11:57:30 |
 
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:58:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003701019735 |
-| Players | 1/24 |
-| Host Name | Just die already |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 11:58:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003701036493 |
-| Players | 1/10 |
-| Host Name | ERES COLOR CARTON QUEMADO |
+| Lobby ID | 28546003701100158 |
+| Players | 7/15 |
+| Host Name | imledbartopoma |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:58:53 |
+| Lobby Creation Time | Monday, December 4, 2023 11:59:01 |
 
 
 |  | epic_boss_fight_nightmare |
