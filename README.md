@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003695685514 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:46:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003695509379 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Сlit Сommander |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:46:20 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:45:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003695373204 |
+| Players | 1/8 |
+| Host Name | Трансгендр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 11:46:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003693954140 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:42:50 |
