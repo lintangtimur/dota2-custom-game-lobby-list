@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:21:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003807714836 |
-| Players | 5/8 |
-| Host Name | Отдамся за шаурму |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:31:41 |
+| Lobby ID | 28546003808530191 |
+| Players | 1/10 |
+| Host Name | Leoric |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 15:33:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003808308632 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:32:43 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003807986495 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 76561198204787636 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:32:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003808530191 |
-| Players | 1/10 |
-| Host Name | Leoric |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 15:33:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | термоядерный понос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:23:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003803982719 |
-| Players | 9/10 |
-| Host Name | A |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:25:08 |
 
 
 |  | epic_boss_fight_nightmare |
