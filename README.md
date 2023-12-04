@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003699141146 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 11:54:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003700422491 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Armaill* |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 4, 2023 11:57:30 |
@@ -63,6 +63,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 111 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:56:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003700897263 |
+| Players | 2/8 |
+| Host Name | COCO BASILE |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:58:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003700982115 |
+| Players | 5/8 |
+| Host Name | GargleGoyle |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:58:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003701019735 |
+| Players | 1/24 |
+| Host Name | Just die already |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 11:58:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003701036493 |
+| Players | 1/10 |
+| Host Name | ERES COLOR CARTON QUEMADO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:58:53 |
 
 
 |  | epic_boss_fight_nightmare |
