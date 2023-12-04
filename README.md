@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003715790729 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Dota Veteran |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003716521693 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | millky~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:33:55 |
