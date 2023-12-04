@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003802989215 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 28min |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:23:23 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:21:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003805767981 |
-| Players | 9/10 |
-| Host Name | Сосок_улитки |
+| Lobby ID | 28546003806506643 |
+| Players | 10/15 |
+| Host Name | Чушпан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:28:16 |
+| Lobby Creation Time | Monday, December 4, 2023 15:29:35 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:29:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003806845572 |
+| Players | 1/8 |
+| Host Name | suguru|geto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 15:30:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003806506643 |
-| Players | 8/15 |
-| Host Name | Чушпан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:29:35 |
+| Lobby ID | 28546003806881989 |
+| Players | 2/15 |
+| Host Name | Tomas |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 4, 2023 15:30:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003803982719 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:25:08 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28546003806762205 |
-| Players | 1/7 |
-| Host Name | Мафиозник |
+| Lobby ID | 28546003806927500 |
+| Players | 1/5 |
+| Host Name | DontMindMe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:30:02 |
+| Lobby Creation Time | Monday, December 4, 2023 15:30:19 |
 
 
