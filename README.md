@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003768417693 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ht |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:19:43 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:19:24 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003768679516 |
+| Players | 1/24 |
+| Host Name | 逐逐月 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 14:20:11 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003767701082 |
-| Players | 7/8 |
-| Host Name | Егор гей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:18:23 |
+| Lobby ID | 28546003768738059 |
+| Players | 1/8 |
+| Host Name | Ice Scream |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 14:20:18 |
 
 
 |  | epic_boss_fight_nightmare |
