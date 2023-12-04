@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -47,48 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:13:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003797813603 |
-| Players | 13/15 |
-| Host Name | kroh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:14:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003797841343 |
-| Players | 8/10 |
-| Host Name | zohreh |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 15:14:05 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003798075348 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:14:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003798148273 |
-| Players | 1/24 |
-| Host Name | am i a idiot? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:14:39 |
+| Lobby ID | 28546003797841343 |
+| Players | 9/10 |
+| Host Name | zohreh |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 15:14:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003798202484 |
-| Players | 1/24 |
-| Host Name | drew* |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:14:45 |
+| Lobby ID | 28546003798387355 |
+| Players | 2/10 |
+| Host Name | Skotbanditcamp.com |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 15:15:05 |
 
 
