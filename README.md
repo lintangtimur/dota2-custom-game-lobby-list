@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003672797822 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:56:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003673065991 |
-| Players | 1/8 |
-| Host Name | .... |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:56:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003672364716 |
-| Players | 4/15 |
-| Host Name | MauricioCal |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:55:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (ebanaya krыsa) Sanchoyzzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003672364716 |
+| Players | 8/15 |
+| Host Name | MauricioCal |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:55:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003673376761 |
+| Players | 1/8 |
+| Host Name | .... |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:57:13 |
 
 
 |  | epic_boss_fight_nightmare |
