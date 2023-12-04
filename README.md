@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003765936219 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Demonic Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:15:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003759472089 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:03:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003764222124 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:12:02 |
