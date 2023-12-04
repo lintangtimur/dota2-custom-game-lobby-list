@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003699141146 |
-| Players | 2/24 |
-| Host Name | Loki Laufeyson |
+| Players | 1/24 |
+| Host Name | Weganerd |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 11:54:34 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003707987933 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:14:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003709159962 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Filipo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:17:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003708895117 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | onaforp xessib |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 4, 2023 12:16:36 |
