@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003706305513 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | elmanquit |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:10:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003706416406 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:11:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Zero! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003706335641 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Чимин#mrazrust |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:10:50 |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:11:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003705479316 |
-| Players | 22/24 |
-| Host Name | xXx |
+| Lobby ID | 28546003707429944 |
+| Players | 1/8 |
+| Host Name | El mata cabros 4000 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:08:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003707170973 |
-| Players | 1/5 |
-| Host Name | qwerty |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 4, 2023 12:12:44 |
+| Lobby Creation Time | Monday, December 4, 2023 12:13:20 |
 
 
