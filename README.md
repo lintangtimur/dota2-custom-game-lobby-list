@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003730459413 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 13:05:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003728718877 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | аменгушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:01:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003731060143 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Роман Данунахуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:07:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003731107505 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:07:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003731111858 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:07:17 |
@@ -76,11 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003728070825 |
-| Players | 22/24 |
-| Host Name | A-H |
+| Lobby ID | 28546003731275688 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 13:07:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003731317666 |
+| Players | 1/15 |
+| Host Name | Halo Gay |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 13:00:17 |
+| Lobby Creation Time | Monday, December 4, 2023 13:07:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003731372105 |
+| Players | 6/15 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:07:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003731373622 |
+| Players | 1/8 |
+| Host Name | вопросы? grand-rust |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 13:07:51 |
 
 
 |  | epic_boss_fight_normal |
