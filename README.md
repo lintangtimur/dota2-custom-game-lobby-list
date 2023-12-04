@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003708895117 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | onaforp xessib |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 4, 2023 12:16:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003709408911 |
-| Players | 13/15 |
-| Host Name | НеВникал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:17:46 |
+| Lobby ID | 28546003710653908 |
+| Players | 2/10 |
+| Host Name | Bank of Braavos |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 12:20:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003710138170 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:26 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003710232506 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003707987933 |
-| Players | 23/24 |
-| Host Name | EduBan |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:14:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003710597241 |
+| Players | 1/5 |
+| Host Name | Не знаю что выбра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 12:20:29 |
 
 
