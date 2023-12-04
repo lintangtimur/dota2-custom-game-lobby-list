@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003738011379 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Loading... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:21:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003738705117 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Los amigos te olvidan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:23:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003739150100 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Poebat' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:24:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003739457144 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | WinNee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:24:43 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:25:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003740261574 |
+| Players | 1/8 |
+| Host Name | MADARA666 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:26:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003740244854 |
+| Players | 2/15 |
+| Host Name | Sephiroth |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 13:26:20 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003740126539 |
@@ -72,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SL•AY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:26:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003740201206 |
+| Players | 1/10 |
+| Host Name | Otep |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 13:26:14 |
 
 
