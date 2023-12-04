@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003715255205 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | GES.ГОМЫЗЯ.CRYPTOCRAFT.PW |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003715621699 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003714036492 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:28:18 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xippu ≧◉ᴥ◉≦ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003716226646 |
+| Players | 1/10 |
+| Host Name | YangYang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:33:16 |
 
 
