@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003794443969 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Deadline |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 15:07:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003794985095 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | AOOB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:08:42 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003794990496 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Pablo Escobar |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 15:08:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003792601225 |
-| Players | 23/24 |
-| Host Name | LoŸal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:04:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D0nuts_FTW_ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 15:08:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003795234826 |
+| Players | 1/5 |
+| Host Name | -- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 15:09:10 |
 
 
