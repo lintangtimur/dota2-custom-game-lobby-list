@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003777094969 |
-| Players | 14/15 |
-| Host Name | GoriLL@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:35:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003776632791 |
@@ -36,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:34:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003777908821 |
-| Players | 6/10 |
-| Host Name | EL CUCU MELLET |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 14:36:59 |
 
 
 |  | epic_boss_fight_nightmare |
