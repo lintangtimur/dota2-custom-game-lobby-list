@@ -65,10 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:04:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003647689657 |
+| Players | 6/8 |
+| Host Name | 'Mjollnir 雨' |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:05:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003647695472 |
+| Players | 2/24 |
+| Host Name | Fy |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:05:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003645760978 |
+| Players | 14/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 10:01:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003646601538 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dumb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:02:50 |
