@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003772689765 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Conquest |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:27:31 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003772548251 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:27:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003768244366 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 14:19:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003773848751 |
-| Players | 4/8 |
-| Host Name | Древний чорт |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 14:29:37 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:30:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003773848751 |
+| Players | 4/8 |
+| Host Name | Древний чорт |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 14:29:37 |
 
 
 |  | epic_boss_fight_nightmare |
