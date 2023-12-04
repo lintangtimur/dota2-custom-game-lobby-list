@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003802989215 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 28min |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:23:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003801738659 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 15:21:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003806506643 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Чушпан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:29:35 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:25:08 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28546003806762205 |
+| Players | 1/7 |
+| Host Name | Мафиозник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 15:30:02 |
 
 
