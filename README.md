@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003642617160 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 09:54:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003635638171 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:40:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003645760978 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:01:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003646205122 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Animazzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:02:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003646513988 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Soodeira |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:02:39 |
