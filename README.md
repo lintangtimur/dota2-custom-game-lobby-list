@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
 | Players | 3/24 |
-| Host Name | poo-zinping |
+| Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003705181771 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Pablo Escobar |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:08:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003705479316 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | xXx |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:08:54 |
