@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003662443996 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:34:33 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:32:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003658725212 |
-| Players | 23/24 |
-| Host Name | shit happens |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 10:27:03 |
+| Lobby ID | 28546003662743040 |
+| Players | 6/8 |
+| Host Name | †♥Pw♥† |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 4, 2023 10:35:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003662323526 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | me comi varias de amarillo xd |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:34:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003662694702 |
+| Players | 1/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:35:04 |
 
 
 |  | epic_boss_fight_nightmare |
