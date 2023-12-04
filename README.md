@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003707987933 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:14:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003708198245 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | KorbenDallas |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 12:15:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003706421151 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Pablo Escobar |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:11:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Zero! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003708545274 |
-| Players | 1/15 |
-| Host Name | MRayimov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:15:49 |
+| Lobby ID | 28546003708895117 |
+| Players | 3/15 |
+| Host Name | LOS DEL ESPACIO |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 4, 2023 12:16:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:15:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003708704008 |
-| Players | 1/5 |
-| Host Name | dyrachoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:16:10 |
+| Lobby ID | 28546003708825817 |
+| Players | 1/10 |
+| Host Name | :p |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 12:16:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003709022957 |
+| Players | 3/8 |
+| Host Name | Metal Cooler |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 12:16:54 |
 
 
