@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003655742288 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hopeツ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:21:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003657399862 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:24:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003656515437 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:22:34 |
@@ -58,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003655882237 |
-| Players | 23/24 |
-| Host Name | Duracho la real llanta baja |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:21:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28546003657479854 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:24:32 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003653953203 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:17:27 |
