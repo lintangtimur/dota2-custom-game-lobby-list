@@ -31,73 +31,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003695274776 |
+| Lobby ID | 28546003696093695 |
 | Players | 1/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:45:48 |
+| Lobby Creation Time | Monday, December 4, 2023 11:47:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003695434416 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Metal Cooler |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:46:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003695685514 |
-| Players | 11/15 |
-| Host Name | Lemi Shó de china |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:46:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003695509379 |
-| Players | 7/15 |
-| Host Name | Сlit Сommander |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 11:46:20 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003695234754 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Pablo Escobar |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:45:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003695373204 |
-| Players | 1/8 |
-| Host Name | Трансгендр |
+| Lobby ID | 28546003695509379 |
+| Players | 11/15 |
+| Host Name | Сlit Сommander |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 11:46:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003695930052 |
-| Players | 3/8 |
-| Host Name | Zendo |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:47:17 |
+| Lobby Creation Time | Monday, December 4, 2023 11:46:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003693954140 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:42:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003696190402 |
+| Players | 1/5 |
+| Host Name | SmArT NiGa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 11:47:53 |
 
 
