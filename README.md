@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003655882237 |
-| Players | 22/24 |
-| Host Name | Duracho la real llanta baja |
+| Lobby ID | 28546003656777767 |
+| Players | 2/10 |
+| Host Name | peru=feed |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:21:18 |
+| Lobby Creation Time | Monday, December 4, 2023 10:23:07 |
 
 
 |  | ot3_desert_octet |
@@ -114,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546003656524894 |
 | Players | 2/8 |
-| Host Name | MODUS |
+| Host Name | maiki ft.M ♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:22:36 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003653953203 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:17:27 |
