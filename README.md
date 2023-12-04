@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003753099004 |
-| Players | 2/10 |
-| Host Name | La Pixiris |
+| Players | 1/10 |
+| Host Name | Eloyito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:51:15 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003752952241 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | ✪  yENKING |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:50:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003753775625 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Ramu Kaka |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 4, 2023 13:52:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003753789785 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | BigBillzGetPaid |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 13:52:33 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003753796441 |
-| Players | 2/15 |
-| Host Name | $$$ |
+| Players | 4/15 |
+| Host Name | PORASED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:52:33 |
 
