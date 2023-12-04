@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:33:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003661236156 |
-| Players | 9/10 |
-| Host Name | behind closed doors |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 10:32:07 |
+| Lobby ID | 28546003664508178 |
+| Players | 1/24 |
+| Host Name | Un Dotita y a mimir |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:38:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003664455222 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ЭРЕКЦИЯ ПУТИНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:38:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003663103643 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:35:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003663625851 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:36:57 |
@@ -103,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003664508178 |
+| Lobby ID | 28546003664631096 |
 | Players | 1/24 |
-| Host Name | Un Dotita y a mimir |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:38:44 |
+| Host Name | bangali |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 10:38:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003664666167 |
+| Players | 1/15 |
+| Host Name | Papi Champaño |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 4, 2023 10:39:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003664674558 |
+| Players | 2/10 |
+| Host Name | 9mm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 10:39:05 |
 
 
 |  | epic_boss_fight_nightmare |
