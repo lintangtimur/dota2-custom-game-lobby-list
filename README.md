@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003689622908 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Cubs |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 4, 2023 11:33:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003690781139 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:35:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003691079158 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:36:21 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003690729448 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:35:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003691436087 |
+| Players | 1/8 |
+| Host Name | (ebanaya krыsa) Sanchoyzzz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 11:37:10 |
 
 
 |  | epic_boss_fight_nightmare |
