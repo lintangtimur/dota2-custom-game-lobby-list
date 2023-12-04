@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003673560408 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Dominic Fike |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:36 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546003673695701 |
 | Players | 4/15 |
-| Host Name | Lil cucker spaniel |
+| Host Name | RDT || Maximillion |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:54 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003673944023 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | POLINA SKAZALA CHOBI TI SOSALA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:58:25 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:58:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003674234106 |
-| Players | 5/8 |
-| Host Name | Hierbaneitor |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:59:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003673658974 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Nice |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:57:49 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28546003674331318 |
+| Players | 4/7 |
+| Host Name | LAXXUS |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 4, 2023 10:59:14 |
 
 
