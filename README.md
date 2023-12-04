@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003675804264 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 11:02:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003675285092 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:01:17 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003676708855 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:04:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003674630151 |
-| Players | 22/24 |
-| Host Name | Mato dois e ainda me escapo!!! |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:59:53 |
 
 
 |  | ot3_necropolis_ffa |
