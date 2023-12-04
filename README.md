@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003743701932 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Pyaterochka Pidarasina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:33:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003743929947 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ʀɪɴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:33:38 |
