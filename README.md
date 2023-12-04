@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003749334569 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Я конченый беги |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:44:03 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003743383298 |
-| Players | 9/10 |
-| Host Name | Aj |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 13:32:33 |
+| Lobby ID | 28546003747595342 |
+| Players | 6/10 |
+| Host Name | Teletambis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 13:40:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SL•AY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:44:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003747595342 |
-| Players | 8/10 |
-| Host Name | Teletambis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 13:40:45 |
 
 
