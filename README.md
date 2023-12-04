@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003754253411 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Егор гей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003753099004 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Chris Lucky |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:51:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003754347526 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003754584230 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Lou Bang Tay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:54:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003755930366 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:56:36 |
