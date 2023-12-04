@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003685798195 |
-| Players | 6/8 |
-| Host Name | Dereck Zoolander. |
+| Lobby ID | 28546003685811737 |
+| Players | 4/8 |
+| Host Name | Astro Guti Jobs |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:24:28 |
+| Lobby Creation Time | Monday, December 4, 2023 11:24:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003684912636 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:22:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003685635920 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | NTD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003686075309 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | sp_flame |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:25:07 |
