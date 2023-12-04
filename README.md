@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003762357403 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:08:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:12:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003765788975 |
-| Players | 1/8 |
-| Host Name | Наhyi так Live |
+| Lobby ID | 28546003765686881 |
+| Players | 1/15 |
+| Host Name | Ăbšõłųţë |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:14:52 |
+| Lobby Creation Time | Monday, December 4, 2023 14:14:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003759472089 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:03:15 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:12:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003765686881 |
-| Players | 1/15 |
-| Host Name | Ăbšõłųţë |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:14:41 |
 
 
 |  | epic_boss_fight_nightmare |
