@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003769038666 |
-| Players | 9/10 |
-| Host Name | Kharamun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:20:52 |
+| Lobby ID | 28546003768679516 |
+| Players | 8/24 |
+| Host Name | 逐逐月 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 14:20:11 |
 
 
 |  | ot3_desert_octet |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:19:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003768679516 |
-| Players | 8/24 |
-| Host Name | 逐逐月 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:20:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003767603533 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28546003768588165 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | TimBo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:20:01 |
