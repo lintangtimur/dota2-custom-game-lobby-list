@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003685811737 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Astro Guti Jobs |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003684912636 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:22:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003685635920 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | NTD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:06 |
