@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003738705117 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Los amigos te olvidan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:23:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003739150100 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Poebat' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:24:05 |
