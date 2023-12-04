@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003796579127 |
-| Players | 10/15 |
-| Host Name | EXIT |
+| Lobby ID | 28546003796908787 |
+| Players | 3/10 |
+| Host Name | Flippi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:11:44 |
+| Lobby Creation Time | Monday, December 4, 2023 15:12:22 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003795451234 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:09:35 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003796908787 |
-| Players | 3/10 |
-| Host Name | Flippi |
+| Lobby ID | 28546003797110543 |
+| Players | 2/10 |
+| Host Name | iblv-14 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:12:22 |
+| Lobby Creation Time | Monday, December 4, 2023 15:12:44 |
 
 
 |  | epic_boss_fight_nightmare |
