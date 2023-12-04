@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003659942771 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DEMON |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:29:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003661146820 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Anthropologysali Kaur |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:31:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003658725212 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | shit happens |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003661145334 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | DealtrenS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:31:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003661138254 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Classic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:31:55 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:32:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003661240221 |
-| Players | 7/8 |
-| Host Name | RON/ALL |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:32:08 |
 
 
 |  | ot3_gardens_duo |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WoTianMu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:30:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003661393121 |
+| Players | 1/5 |
+| Host Name | WUT |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 10:32:26 |
 
 
