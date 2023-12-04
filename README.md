@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003699752685 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:55:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003699507179 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sad Clown((( |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 11:55:25 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003698716959 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 開ღ♥*♥ღ.開•*¨)開(? |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:53:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003698502613 |
-| Players | 7/8 |
-| Host Name | Ｓｏｈｅｅ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:53:07 |
+| Lobby ID | 28546003700208898 |
+| Players | 5/10 |
+| Host Name | Never mind EPICLOOT.IN |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 11:57:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003699173711 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | El inge pepe |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:54:38 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003700048926 |
-| Players | 2/8 |
-| Host Name | СЕКС-ПУЛЕМЕТ |
+| Players | 4/8 |
+| Host Name | 111 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:56:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003700208898 |
-| Players | 3/10 |
-| Host Name | Never mind EPICLOOT.IN |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 11:57:00 |
+| Lobby ID | 28546003700422491 |
+| Players | 4/8 |
+| Host Name | Armaill* |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 4, 2023 11:57:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003699326948 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Buzzlaytyir |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:54:59 |
