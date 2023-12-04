@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003647041436 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:03:42 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 09:58:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003642617160 |
-| Players | 23/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 09:54:50 |
+| Lobby ID | 28546003647084622 |
+| Players | 8/10 |
+| Host Name | OK |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:03:47 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Uero-Ro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:00:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003647084622 |
-| Players | 8/10 |
-| Host Name | OK |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:03:47 |
 
 
 |  | epic_boss_fight_nightmare |
