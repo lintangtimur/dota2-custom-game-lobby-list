@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003747231789 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 13:40:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003758271463 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:01:00 |
@@ -49,28 +49,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003754347526 |
-| Players | 23/24 |
-| Host Name | roswel |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:53:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28546003759472089 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:03:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003760044739 |
+| Players | 1/10 |
+| Host Name | Leoric |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 14:04:19 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003759942186 |
+| Lobby ID | 28546003760068328 |
 | Players | 1/8 |
 | Host Name | Убийца Нубов 2013 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:04:08 |
+| Lobby Creation Time | Monday, December 4, 2023 14:04:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003760086551 |
+| Players | 1/8 |
+| Host Name | YIIIIIIIIIIII |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 14:04:24 |
 
 
