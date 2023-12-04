@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003809747333 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 睡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:35:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003809668562 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Archyes |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 15:35:03 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003801738659 |
-| Players | 3/8 |
-| Host Name | Punisher PMA |
+| Players | 2/8 |
+| Host Name | BigBillzGetPaid |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 15:21:10 |
 
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:33:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003809932944 |
+| Players | 1/8 |
+| Host Name | вышел из спячки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 15:35:31 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003803073437 |
-| Players | 9/10 |
-| Host Name | термоядерный понос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:23:32 |
+| Lobby ID | 28546003808823361 |
+| Players | 4/10 |
+| Host Name | Xiao Xiao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 15:33:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 15:31:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003808823361 |
-| Players | 3/10 |
-| Host Name | Xiao Xiao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:33:36 |
 
 
