@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003754253411 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Егор гей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:26 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003755227112 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Личность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:55:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003755562852 |
+| Players | 2/10 |
+| Host Name | Nikola (Tesla) luv))) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 13:55:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003754494372 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kuya Edu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:53 |
