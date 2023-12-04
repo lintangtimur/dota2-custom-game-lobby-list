@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003644446543 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | @_@ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:33 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003644665925 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003642979511 |
-| Players | 13/15 |
-| Host Name | S... |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 09:55:34 |
+| Lobby ID | 28546003642617160 |
+| Players | 9/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 09:54:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,36 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003644575880 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:48 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003642617160 |
-| Players | 9/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 09:54:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003644336797 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Ryujiin.GG [ Buunja ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003644722458 |
-| Players | 1/5 |
-| Host Name | a |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 09:59:06 |
 
 
