@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003791409364 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Wiedźmin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:01:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003791688753 |
+| Players | 3/8 |
+| Host Name | под дозой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 15:02:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003790136285 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | unknow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:59:13 |
