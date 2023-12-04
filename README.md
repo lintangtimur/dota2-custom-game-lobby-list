@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003685811737 |
-| Players | 5/8 |
-| Host Name | Astro Guti Jobs |
+| Players | 3/8 |
+| Host Name | ♦?♦ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:30 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003685815266 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | anatoliy zhigul |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003685792183 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Cross ' |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:24:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003686089131 |
-| Players | 6/24 |
+| Players | 2/24 |
 | Host Name | Cabo Productions |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:25:08 |
