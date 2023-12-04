@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003740374035 |
-| Players | 2/8 |
-| Host Name | Zennnn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 13:26:35 |
+| Lobby ID | 28546003741016086 |
+| Players | 7/8 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 13:27:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003740714373 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 9mm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:27:16 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:27:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003740516237 |
-| Players | 6/8 |
-| Host Name | аменгушка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:26:52 |
+| Lobby ID | 28546003738705117 |
+| Players | 22/24 |
+| Host Name | Los amigos te olvidan |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:23:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:27:44 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003738705117 |
-| Players | 22/24 |
-| Host Name | Los amigos te olvidan |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:23:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003741016086 |
+| Lobby ID | 28546003741180942 |
 | Players | 6/8 |
-| Host Name | Jane.A7x |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 13:27:52 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:28:12 |
 
 
 |  | epic_boss_fight_normal |
