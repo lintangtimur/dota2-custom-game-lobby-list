@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003670796650 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:51:46 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003669971701 |
-| Players | 14/15 |
-| Host Name | All muted |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:50:02 |
+| Lobby ID | 28546003671441237 |
+| Players | 1/15 |
+| Host Name | бθльшℴӤ Կл€Ή |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 4, 2023 10:53:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003670748712 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | LARRI CAPIJA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:51:40 |
