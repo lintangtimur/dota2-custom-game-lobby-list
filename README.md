@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003719103266 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:39:48 |
@@ -38,31 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:47:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003721873145 |
-| Players | 14/15 |
-| Host Name | zeta male |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 12:46:10 |
+| Lobby ID | 28546003721726254 |
+| Players | 2/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 12:45:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003721720519 |
-| Players | 8/15 |
-| Host Name | Sam |
+| Players | 7/15 |
+| Host Name | 1n3pt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:45:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003721726254 |
-| Players | 1/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:45:50 |
+| Lobby ID | 28546003722829321 |
+| Players | 2/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:48:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003722880626 |
+| Players | 1/24 |
+| Host Name | SnAckKiLLeR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:48:30 |
 
 
 |  | epic_boss_fight_nightmare |
