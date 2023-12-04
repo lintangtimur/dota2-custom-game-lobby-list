@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -29,20 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:15:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003768417693 |
-| Players | 7/10 |
-| Host Name | ht |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:19:43 |
+| Lobby ID | 28546003768775576 |
+| Players | 3/8 |
+| Host Name | One |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 14:20:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003759472089 |
-| Players | 3/24 |
-| Host Name | El racista de la FIEE |
+| Players | 4/24 |
+| Host Name | R-G |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:03:15 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003768244366 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 14:19:24 |
@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003768679516 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | 逐逐月 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:20:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003768738059 |
-| Players | 1/8 |
-| Host Name | Ice Scream |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 14:20:18 |
+| Lobby ID | 28546003769038666 |
+| Players | 4/10 |
+| Host Name | Сосок_улитки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 14:20:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003767603533 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | IceWallowCome.com |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:18:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003768496226 |
-| Players | 1/5 |
-| Host Name | SL•AY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:19:51 |
 
 
 |  | epic_boss_fight_normal |
