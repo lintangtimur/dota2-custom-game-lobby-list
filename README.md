@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003770308857 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | НАXУЙ ДОТУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:23:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003771234993 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 14:24:52 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:25:01 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003759472089 |
+| Players | 22/24 |
+| Host Name | Fred el bisonte no binario |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 14:03:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003771150786 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:24:43 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TimBo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:20:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003771368559 |
-| Players | 1/5 |
-| Host Name | KOMANG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:25:07 |
 
 
