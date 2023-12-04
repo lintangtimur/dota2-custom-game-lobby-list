@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003722615444 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | My Whore Wife Took Everything |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:47:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003721720519 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | 1n3pt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:45:49 |
