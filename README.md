@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003780125967 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | ♥FREE YOURSELF♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:41:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003793025107 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 15:04:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003793357237 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | no comment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:05:37 |
@@ -59,36 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003791861522 |
-| Players | 3/8 |
-| Host Name | **   B   U   D   D  Y   ** |
+| Players | 1/8 |
+| Host Name | Мазафакер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:02:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003792538009 |
-| Players | 9/10 |
-| Host Name | trance |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 15:04:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003793350804 |
-| Players | 2/5 |
-| Host Name | SL•AY |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 4, 2023 15:05:36 |
+| Lobby ID | 28546003793512097 |
+| Players | 5/10 |
+| Host Name | Kurimawski |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 15:05:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003793512097 |
+| Lobby ID | 28546003793675279 |
 | Players | 1/10 |
-| Host Name | Kurimawski |
+| Host Name | Raiden Ei |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:05:54 |
+| Lobby Creation Time | Monday, December 4, 2023 15:06:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003793652712 |
+| Players | 1/5 |
+| Host Name | D0nuts_FTW_ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 15:06:10 |
 
 
