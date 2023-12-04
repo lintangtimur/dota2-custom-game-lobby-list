@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003715255205 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DESPAPITO |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003724418534 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | I LIke you Body |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:51:57 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZUZI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:52:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546003725306369 |
+| Players | 1/10 |
+| Host Name | Arab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 12:53:57 |
 
 
