@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003678142679 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | fhy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:07:29 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003679299355 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Tarrence12 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:10:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003679341996 |
-| Players | 1/15 |
-| Host Name | buscando la win |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 11:10:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003676154101 |
-| Players | 7/10 |
-| Host Name | Hobbit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 11:03:09 |
+| Lobby ID | 28546003679431035 |
+| Players | 1/10 |
+| Host Name | Natso - |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 4, 2023 11:10:18 |
 
 
 |  | epic_boss_fight_nightmare |
