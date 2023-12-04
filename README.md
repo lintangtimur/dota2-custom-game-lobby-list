@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003772548251 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:27:16 |
@@ -40,20 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003773796623 |
+| Lobby ID | 28546003768244366 |
 | Players | 14/15 |
-| Host Name | Qwizit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:29:31 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 14:19:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003773848751 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Древний чорт |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 14:29:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003774057618 |
+| Players | 1/24 |
+| Host Name | El racista de la FIEE |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 14:30:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:24:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003774014845 |
-| Players | 1/10 |
-| Host Name | unknow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:29:55 |
 
 
 |  | epic_boss_fight_nightmare |
