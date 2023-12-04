@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003664508178 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Un Dotita y a mimir |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:38:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003663696038 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Kaasesit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:37:06 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003664455222 |
-| Players | 9/15 |
-| Host Name | ЭРЕКЦИЯ ПУТИНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 10:38:38 |
+| Lobby ID | 28546003664666167 |
+| Players | 3/15 |
+| Host Name | Papi Champaño |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 4, 2023 10:39:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003661783737 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 4, 2023 10:33:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003664674558 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 9mm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:39:05 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003663625851 |
-| Players | 3/8 |
-| Host Name | CURSE |
+| Players | 4/8 |
+| Host Name | La chola Azucena |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:36:57 |
 
@@ -112,37 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003664666167 |
-| Players | 3/15 |
-| Host Name | Papi Champaño |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 10:39:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003662418749 |
-| Players | 8/10 |
-| Host Name | JAVxECCHI |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:34:30 |
+| Lobby ID | 28546003665097446 |
+| Players | 2/15 |
+| Host Name | Bury the Light |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 10:39:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003658825491 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | EMPERATOOR_No1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003660109960 |
-| Players | 9/10 |
-| Host Name | AEA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:29:51 |
 
 
