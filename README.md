@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003672272050 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | chlnpx |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:54:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003672524096 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | sindi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:55:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003672797822 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:56:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003670335783 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:50:48 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003672380457 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | CHE GUEV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:55:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003672384844 |
-| Players | 1/15 |
-| Host Name | Witch-king of Angmar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 10:55:08 |
+| Lobby ID | 28546003672893083 |
+| Players | 4/8 |
+| Host Name | Sayouri Neko |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:56:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003670304800 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | DAPLINI MO AGI ANG BAYOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:50:44 |
