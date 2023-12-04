@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003649259083 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Kael |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:08:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003648210891 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:06:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003649746108 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Princesa Yogurt Helado |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:09:05 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003649218155 |
-| Players | 14/15 |
-| Host Name | OverFlown |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 10:08:02 |
+| Lobby ID | 28546003649656529 |
+| Players | 8/15 |
+| Host Name | CACHA TOMBOS! |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 10:08:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003644559670 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ВАЙБМЭН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:46 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003635638171 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 09:40:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003649656529 |
-| Players | 6/15 |
-| Host Name | CACHA TOMBOS! |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:08:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003649772149 |
-| Players | 1/8 |
-| Host Name | ♂ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:09:08 |
 
 
 |  | epic_boss_fight_nightmare |
