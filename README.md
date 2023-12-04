@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003715963563 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | skuukzky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:40 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003717970462 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Xavidra |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:37:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003719271134 |
-| Players | 6/8 |
-| Host Name | А? ЧАСЫ?(NT.JABA) |
+| Lobby ID | 28546003719746570 |
+| Players | 9/15 |
+| Host Name | Ювелир |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:40:12 |
+| Lobby Creation Time | Monday, December 4, 2023 12:41:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003718925914 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | My Tears Are Becoming A Sea |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:39:24 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003719103266 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Егор гей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:39:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003719746570 |
-| Players | 6/15 |
-| Host Name | Ювелир |
+| Lobby ID | 28546003720434196 |
+| Players | 3/10 |
+| Host Name | 嫌 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:41:17 |
+| Lobby Creation Time | Monday, December 4, 2023 12:42:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003716979210 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:34:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28546003720443887 |
+| Players | 1/5 |
+| Host Name | EllMao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:42:53 |
 
 
