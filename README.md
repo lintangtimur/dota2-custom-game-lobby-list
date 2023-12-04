@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003710653908 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Bank of Braavos |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:20:37 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003704910165 |
+| Players | 23/24 |
+| Host Name | 暴走的小喵 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
 
 
 |  | epic_boss_fight_nightmare |
