@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003752877269 |
-| Players | 5/8 |
-| Host Name | Carebear |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 13:50:49 |
+| Lobby ID | 28546003753099004 |
+| Players | 1/10 |
+| Host Name | La Pixiris |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 13:51:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003751647993 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Samaritan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:48:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003752679284 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Сиська Bugbier |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:50:27 |
