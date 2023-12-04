@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003715335690 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Los amigos te olvidan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003715790729 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 東方白 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:32:17 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N•R] Shaker.PMA:) |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:34:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003717595951 |
+| Players | 6/10 |
+| Host Name | Sayouri Neko |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 12:36:22 |
 
 
 |  | epic_boss_fight_nightmare |
