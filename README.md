@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003693913728 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:42:44 |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:43:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003694446670 |
-| Players | 1/10 |
-| Host Name | ПУТИН |
+| Lobby ID | 28546003694482606 |
+| Players | 5/15 |
+| Host Name | ЭРЕКЦИЯ ПУТИНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 11:43:57 |
+| Lobby Creation Time | Monday, December 4, 2023 11:44:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003689622908 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Cubs |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 4, 2023 11:33:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003694482606 |
-| Players | 1/15 |
-| Host Name | ЭРЕКЦИЯ ПУТИНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 11:44:02 |
 
 
 |  | epic_boss_fight_nightmare |
