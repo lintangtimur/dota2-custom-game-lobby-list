@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -22,35 +22,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003785244051 |
-| Players | 6/10 |
-| Host Name | Ywn- |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 14:50:18 |
+| Lobby ID | 28546003785872600 |
+| Players | 2/10 |
+| Host Name | Древний чорт |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 14:51:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003780125967 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ♥FREE YOURSELF♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:41:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003784195154 |
-| Players | 12/15 |
-| Host Name | •● ZaGg ●• |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:48:23 |
+| Lobby ID | 28546003784860743 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 14:49:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003785487360 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:50:44 |
@@ -65,40 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:50:16 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003784620956 |
-| Players | 7/10 |
-| Host Name |    デ ︻ ₳₭-❹❼ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:49:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003784690123 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:49:17 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003785141941 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 14:50:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003784860743 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 14:49:36 |
+| Lobby ID | 28546003784690123 |
+| Players | 2/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 14:49:17 |
 
 
 |  | epic_boss_fight_normal |
