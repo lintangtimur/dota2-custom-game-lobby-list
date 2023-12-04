@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:41:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003798075348 |
-| Players | 21/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:14:31 |
+| Lobby ID | 28546003802631615 |
+| Players | 1/15 |
+| Host Name | Ambition |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 4, 2023 15:22:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:18:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003801731725 |
-| Players | 13/15 |
-| Host Name | Ky6a³♫ |
+| Lobby ID | 28546003802163265 |
+| Players | 4/8 |
+| Host Name | pashmak golabi on the top |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:21:09 |
+| Lobby Creation Time | Monday, December 4, 2023 15:21:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 15:21:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003802163265 |
-| Players | 5/8 |
-| Host Name | Voland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:21:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003802631615 |
-| Players | 1/15 |
-| Host Name | Ambition |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 4, 2023 15:22:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | APEX |
 | Region | PWUNICOM |
 | Lobby Creation Time | Monday, December 4, 2023 15:22:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546003798596285 |
-| Players | 9/10 |
-| Host Name | [DarkMoon] Dead Inside zxc1000-7 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 15:15:27 |
 
 
