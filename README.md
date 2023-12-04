@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003698057040 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | 9mm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:52:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003697928203 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Чимин#mrazrust |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:51:50 |
@@ -45,5 +45,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 11:52:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003698107127 |
+| Players | 7/8 |
+| Host Name | UNSTOPPABLE M LuV♥ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:52:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003698502613 |
+| Players | 1/8 |
+| Host Name | Ｓｏｈｅｅ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 11:53:07 |
 
 
