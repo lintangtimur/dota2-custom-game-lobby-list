@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546003699507179 |
 | Players | 3/8 |
-| Host Name | Chris |
+| Host Name | Sad Clown((( |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 11:55:25 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003705479316 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | xXx |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:08:54 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
 | Players | 5/24 |
-| Host Name | ANIKI 兄貴 |
+| Host Name | Zero! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
 
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003706335641 |
-| Players | 5/8 |
-| Host Name | Estriper |
+| Players | 4/8 |
+| Host Name | Чимин#mrazrust |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:10:50 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003706384601 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ZORD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:10:57 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003706776604 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Lemi Shó de china |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:11:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003706997046 |
+| Players | 3/15 |
+| Host Name | Bury the Light |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 12:12:20 |
 
 
