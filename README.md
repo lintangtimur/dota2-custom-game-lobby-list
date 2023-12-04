@@ -2,111 +2,84 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003305455149 |
-| Players | 2/8 |
-| Host Name | last dance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003304956380 |
-| Players | 1/24 |
-| Host Name | Varian Wrynn |
+| Lobby ID | 28546003634344527 |
+| Players | 2/10 |
+| Host Name | Histeria |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546003305253446 |
-| Players | 1/24 |
-| Host Name | Räyok |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:39 |
+| Lobby Creation Time | Monday, December 4, 2023 09:38:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003305474667 |
-| Players | 6/8 |
-| Host Name | Miyazono #VEGAS |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003305715810 |
-| Players | 5/8 |
-| Host Name | リル・レキャム・プー |
+| Lobby ID | 28546003632029366 |
+| Players | 4/8 |
+| Host Name | AnderXD |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 00:14:09 |
+| Lobby Creation Time | Monday, December 4, 2023 09:33:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003304952406 |
-| Players | 1/15 |
-| Host Name | ✪ EsuJon |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003304279809 |
+| Lobby ID | 28546003634274986 |
 | Players | 13/15 |
-| Host Name | zaharidzzzze |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:12:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003301081371 |
-| Players | 6/8 |
-| Host Name | secret tricks (MASTER) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 00:09:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003305030787 |
-| Players | 12/15 |
-| Host Name | 胡桃 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:26 |
+| Host Name | ♥-℉ïŘ€Mă₦-♥ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 09:37:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003304950900 |
-| Players | 1/10 |
-| Host Name | ez |
+| Lobby ID | 28546003633091692 |
+| Players | 3/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 09:35:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003634088855 |
+| Players | 2/8 |
+| Host Name | RODIPIT(allmute) |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 4, 2023 09:37:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003634815480 |
+| Players | 2/10 |
+| Host Name | 9mm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 09:39:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003634984177 |
+| Players | 9/15 |
+| Host Name | CACHA TOMBOS! |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:21 |
+| Lobby Creation Time | Monday, December 4, 2023 09:39:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003634918887 |
+| Players | 3/24 |
+| Host Name | MoonDio |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 09:39:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003303634187 |
-| Players | 5/10 |
-| Host Name | ʀɪɴ |
+| Lobby ID | 28546003634755834 |
+| Players | 1/10 |
+| Host Name | DayDreamer |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 00:11:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003305269459 |
-| Players | 1/5 |
-| Host Name | 11:11 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 00:13:40 |
+| Lobby Creation Time | Monday, December 4, 2023 09:38:56 |
 
 
