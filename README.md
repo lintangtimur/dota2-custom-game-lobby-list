@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003699141146 |
-| Players | 1/24 |
-| Host Name | Weganerd |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 4, 2023 11:54:34 |
+| Lobby ID | 28546003709829712 |
+| Players | 1/15 |
+| Host Name | RAI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 12:18:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003653180936 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003707987933 |
-| Players | 15/24 |
+| Players | 23/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:14:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003709159962 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Filipo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 12:17:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003708895117 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | onaforp xessib |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 4, 2023 12:16:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003709408911 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | НеВникал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:17:46 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003704910165 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Over Time Kill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:07:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003708825817 |
-| Players | 7/10 |
-| Host Name | J |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:16:27 |
 
 
 |  | epic_boss_fight_nightmare |
