@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003715255205 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | DESPAPITO |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 4, 2023 12:31:03 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 12:39:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003720933520 |
-| Players | 23/24 |
-| Host Name | ˜*°•ИinjaRockOn•°*˜ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 12:44:01 |
+| Lobby ID | 28546003722615444 |
+| Players | 1/15 |
+| Host Name | My Whore Wife Took Everything |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 12:47:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:45:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003722615444 |
-| Players | 1/15 |
-| Host Name | My Whore Wife Took Everything |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 4, 2023 12:47:53 |
 
 
 |  | epic_boss_fight_nightmare |
