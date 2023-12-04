@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003764520385 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Pussy Destroyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 14:12:34 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003763772320 |
-| Players | 2/8 |
-| Host Name | hahahehehoho |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:11:12 |
+| Lobby ID | 28546003764193727 |
+| Players | 1/8 |
+| Host Name | Demonic Fox |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 14:11:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003759472089 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 14:03:15 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003762357403 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:08:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003764193727 |
-| Players | 2/8 |
-| Host Name | Demonic Fox |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 14:11:58 |
 
 
