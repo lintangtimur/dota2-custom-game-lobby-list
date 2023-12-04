@@ -2,40 +2,40 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28546003636097524 |
+| Players | 3/10 |
+| Host Name | ロイヤー |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 09:41:40 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003635394371 |
-| Players | 7/8 |
-| Host Name | Hi. |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 09:40:14 |
+| Lobby ID | 28546003636239962 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 4, 2023 09:41:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003635318803 |
-| Players | 4/15 |
-| Host Name | "†YoNhACoffIN†"†RAmPaSSO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 09:40:05 |
+| Lobby ID | 28546003636084666 |
+| Players | 8/15 |
+| Host Name | Iαɳ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 09:41:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003634918887 |
-| Players | 21/24 |
-| Host Name | MoonDio |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 09:39:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003631853171 |
-| Players | 9/10 |
-| Host Name | модний |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 09:32:59 |
+| Lobby ID | 28546003635638171 |
+| Players | 2/24 |
+| Host Name | MankoS~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 09:40:44 |
 
 
 |  | ot3_desert_octet |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 09:39:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003635205551 |
-| Players | 6/15 |
-| Host Name | Levi Ackerman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 09:39:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003635638171 |
-| Players | 1/24 |
-| Host Name | MankoS~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 09:40:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546003635873995 |
-| Players | 2/15 |
-| Host Name | KARMA |
+| Lobby ID | 28546003636169161 |
+| Players | 4/24 |
+| Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 4, 2023 09:41:12 |
+| Lobby Creation Time | Monday, December 4, 2023 09:41:48 |
 
 
 |  | epic_boss_fight_nightmare |
