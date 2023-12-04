@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003754347526 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003754584230 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Lou Bang Tay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:54:04 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003755227112 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Личность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:55:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003755788470 |
+| Players | 1/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 13:56:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003755726761 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:56:13 |
