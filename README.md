@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003662323526 |
-| Players | 20/24 |
-| Host Name | me comi varias de amarillo xd |
+| Lobby ID | 28546003661177308 |
+| Players | 7/10 |
+| Host Name | Pachacutec |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:34:18 |
+| Lobby Creation Time | Monday, December 4, 2023 10:32:00 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003662360038 |
-| Players | 7/8 |
+| Players | 1/8 |
 | Host Name | rocket:v |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:34:23 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sayouri Neko |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:35:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003661177308 |
-| Players | 8/10 |
-| Host Name | Pachacutec |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:32:00 |
 
 
 |  | epic_boss_fight_nightmare |
