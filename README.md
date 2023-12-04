@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 13:40:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003753775625 |
-| Players | 1/15 |
-| Host Name | Halo Gay |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 4, 2023 13:52:31 |
+| Lobby ID | 28546003755562852 |
+| Players | 2/10 |
+| Host Name | Nikola (Tesla) luv))) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 13:55:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003754584230 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Lou Bang Tay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:54:04 |
@@ -77,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003755227112 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Личность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:55:16 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546003755562852 |
-| Players | 2/10 |
-| Host Name | Nikola (Tesla) luv))) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:55:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003754494372 |
-| Players | 8/10 |
-| Host Name | Kuya Edu |
+| Lobby ID | 28546003755726761 |
+| Players | 1/10 |
+| Host Name | Da Wae |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 13:53:53 |
+| Lobby Creation Time | Monday, December 4, 2023 13:56:13 |
 
 
