@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003794985095 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Dota veteran |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 15:08:42 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 15:09:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003796128591 |
-| Players | 1/8 |
-| Host Name | 橘 瑠衣 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 15:10:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003794676224 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | WenZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 15:08:07 |
