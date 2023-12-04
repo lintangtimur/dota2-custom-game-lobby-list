@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003652970372 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Mauricio Estrada |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:15:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003652115860 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:13:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003652333661 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Heckin' Peepers |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:14:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003649609281 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | C K I A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:08:49 |
