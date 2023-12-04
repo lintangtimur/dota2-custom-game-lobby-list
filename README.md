@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003647610491 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | SadlyItsBradley |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 10:04:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003645250895 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | kamatheblack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:00:09 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003647285349 |
-| Players | 6/8 |
-| Host Name | ......25............ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:04:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28546003647689657 |
 | Players | 6/8 |
 | Host Name | 'Mjollnir 雨' |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:05:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546003647919646 |
+| Players | 1/15 |
+| Host Name | Levi Ackerman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 4, 2023 10:05:28 |
 
 
 |  | epic_boss_fight_nightmare |
