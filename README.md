@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003683613173 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | HGH |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:19:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003678689950 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | ドラゴン Seryuu. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:08:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003683601326 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Aghanim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:19:31 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 11:21:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003684456323 |
+| Players | 3/8 |
+| Host Name | Lord Davy Crockett |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 11:21:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003681416727 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003684349747 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Leinach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 11:21:13 |
