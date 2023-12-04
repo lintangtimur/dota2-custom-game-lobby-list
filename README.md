@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003711537588 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:22:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003710232506 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:39 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chakalito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:23:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003712121330 |
-| Players | 4/8 |
-| Host Name | osito peru d dia egpanda d noche |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:23:57 |
 
 
 |  | ot3_desert_octet |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:17 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28546003712133907 |
-| Players | 2/7 |
-| Host Name | NoName |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 4, 2023 12:23:58 |
 
 
