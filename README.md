@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003659082313 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | Jdc tunes |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003658889892 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Avena 3 Ursitas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003658725212 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | shit happens |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003659065495 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | .I.("-").I. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:27:44 |
