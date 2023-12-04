@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003720933520 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ˜*°•ИinjaRockOn•°*˜ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:44:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003721050663 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | blank / |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 12:44:17 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:45:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28546003721830299 |
+| Players | 2/8 |
+| Host Name | My Whore Wife Took Everything |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 12:46:04 |
 
 
 |  | epic_boss_fight_nightmare |
