@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003747231789 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 13:40:03 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003754347526 |
-| Players | 21/24 |
-| Host Name | roswel |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 13:53:37 |
+| Lobby ID | 28546003758271463 |
+| Players | 2/24 |
+| Host Name | 黃人韋厷隹 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 4, 2023 14:01:00 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:02:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003758271463 |
-| Players | 3/24 |
-| Host Name | 黃人韋厷隹 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 14:01:00 |
+| Lobby ID | 28546003759384532 |
+| Players | 1/8 |
+| Host Name | Убийца Нубов 2013 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 14:03:05 |
 
 
 |  | epic_boss_fight_nightmare |
