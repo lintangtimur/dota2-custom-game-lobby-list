@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003710138170 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003708895117 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | onaforp xessib |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 4, 2023 12:16:36 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:19:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546003710854092 |
-| Players | 1/5 |
-| Host Name | Не знаю что выбра |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:21:04 |
 
 
