@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003758271463 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 14:01:00 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Leoric |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 4, 2023 14:04:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546003747231789 |
+| Players | 23/24 |
+| Host Name | Leonidas |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 4, 2023 13:40:03 |
 
 
 |  | epic_boss_fight_nightmare |
