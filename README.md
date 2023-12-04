@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003677259393 |
-| Players | 3/10 |
-| Host Name | DeepThroat the Boot! SNACkGod |
+| Players | 1/10 |
+| Host Name | ZXC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:05:33 |
 
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003677746930 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ็ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 11:06:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003675285092 |
-| Players | 22/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 11:01:17 |
+| Lobby ID | 28546003677814343 |
+| Players | 5/8 |
+| Host Name | sgem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 11:06:46 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | サイバーサイコシス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 11:06:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003677814343 |
-| Players | 5/8 |
-| Host Name | sgem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 11:06:46 |
 
 
 |  | epic_boss_fight_nightmare |
