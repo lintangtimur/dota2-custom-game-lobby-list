@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28546003754253411 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Егор гей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003747231789 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 4, 2023 13:40:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003754584230 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Lou Bang Tay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:54:04 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003753796441 |
-| Players | 14/15 |
-| Host Name | PORASED |
+| Lobby ID | 28546003755227112 |
+| Players | 1/15 |
+| Host Name | Личность |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 13:52:33 |
+| Lobby Creation Time | Monday, December 4, 2023 13:55:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003754494372 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kuya Edu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 13:53:53 |
