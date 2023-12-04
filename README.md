@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003649259083 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Kael |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:08:07 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003649926592 |
-| Players | 6/8 |
-| Host Name | El Frabi (¥) |
+| Lobby ID | 28546003650350290 |
+| Players | 7/8 |
+| Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:09:27 |
+| Lobby Creation Time | Monday, December 4, 2023 10:10:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003649262379 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Я_ЗАМУТИЛ_БОГА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:08:07 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 10:09:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546003650350290 |
-| Players | 5/8 |
-| Host Name | Skarp. TRADEIT.GG |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 10:10:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546003649440703 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Nice |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:08:29 |
