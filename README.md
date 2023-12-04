@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003720434196 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 嫌 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 12:42:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28546003720933520 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Just die already |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 4, 2023 12:44:01 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003717970462 |
-| Players | 12/15 |
-| Host Name | Xavidra |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 4, 2023 12:37:13 |
+| Lobby ID | 28546003721088783 |
+| Players | 5/15 |
+| Host Name | OverFlown |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 4, 2023 12:44:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28546003719746570 |
-| Players | 13/15 |
-| Host Name | Ювелир |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 12:41:17 |
+| Lobby ID | 28546003721050663 |
+| Players | 1/24 |
+| Host Name | blank / |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 4, 2023 12:44:17 |
 
 
 |  | ot3_gardens_duo |
