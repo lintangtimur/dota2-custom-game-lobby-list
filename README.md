@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546003644559670 |
-| Players | 3/10 |
-| Host Name | Шабит Хапаев |
+| Players | 1/10 |
+| Host Name | oniqzone- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 09:58:46 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003645760978 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:01:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003646205122 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Animazzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 4, 2023 10:02:03 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28546003645339796 |
-| Players | 8/15 |
-| Host Name | Angεl_φF_Chaos |
+| Players | 5/15 |
+| Host Name | Uero-Ro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 4, 2023 10:00:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546003646292516 |
-| Players | 1/15 |
-| Host Name | Xinfinty- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 10:02:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28546003646513988 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Soodeira |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 4, 2023 10:02:39 |
@@ -103,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546003646363802 |
-| Players | 1/10 |
+| Lobby ID | 28546003646601538 |
+| Players | 2/10 |
 | Host Name | Dumb |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 4, 2023 10:02:21 |
+| Lobby Creation Time | Monday, December 4, 2023 10:02:50 |
 
 
