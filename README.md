@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:41:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546003784860743 |
-| Players | 6/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 4, 2023 14:49:36 |
+| Lobby ID | 28546003788152756 |
+| Players | 2/8 |
+| Host Name | Наhyi так Live |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 4, 2023 14:55:34 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 4, 2023 14:54:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546003788152756 |
-| Players | 1/8 |
-| Host Name | Наhyi так Live |
+| Lobby ID | 28546003788408436 |
+| Players | 2/10 |
+| Host Name | severe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 4, 2023 14:55:34 |
+| Lobby Creation Time | Monday, December 4, 2023 14:56:03 |
 
 
 |  | epic_boss_fight_normal |
