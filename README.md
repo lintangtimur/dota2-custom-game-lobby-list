@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28546004987381425 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | I Love Low |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 5, 2023 19:30:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546004990229206 |
-| Players | 3/10 |
-| Host Name | SPICE |
+| Lobby ID | 28546004991295864 |
+| Players | 3/8 |
+| Host Name | ExSide- |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:33:27 |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:34:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546004988105014 |
-| Players | 18/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:31:12 |
+| Lobby ID | 28546004977422124 |
+| Players | 1/8 |
+| Host Name | Sarapan Srinivasan |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:19:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,42 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 5, 2023 19:20:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546004977422124 |
-| Players | 1/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:19:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28546004990200782 |
-| Players | 4/8 |
-| Host Name | Salahuddin Ayyubi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:33:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546004990608924 |
-| Players | 1/15 |
-| Host Name | DOTA META |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:33:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28546004990592398 |
-| Players | 1/15 |
-| Host Name | 212vvulev |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:33:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28546004987374746 |
@@ -117,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | И В Джугашвили |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 5, 2023 19:30:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28546004989861685 |
-| Players | 2/5 |
-| Host Name | Ищу Милфу тг@ZxCBaHkAi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 5, 2023 19:33:04 |
 
 
 |  | epic_boss_fight_nightmare |
