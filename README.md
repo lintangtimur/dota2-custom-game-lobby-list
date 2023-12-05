@@ -2,93 +2,93 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546004947554879 |
+| Players | 4/24 |
+| Host Name | 别问，问就是菜 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 5, 2023 18:44:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546004964629495 |
+| Players | 2/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:04:53 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28546004563616017 |
-| Players | 11/15 |
-| Host Name | dmr.[ ] |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:06:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546004503869386 |
-| Players | 4/24 |
-| Host Name | BlueFace |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 5, 2023 05:09:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28546004564219841 |
-| Players | 6/10 |
-| Host Name | SORI |
+| Lobby ID | 28546004970337804 |
+| Players | 1/15 |
+| Host Name | WUTFK |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:07:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546004548179688 |
-| Players | 3/24 |
-| Host Name | You Mad? |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 5, 2023 06:33:07 |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:11:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546004561995284 |
-| Players | 9/10 |
-| Host Name | Lifealope |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:02:38 |
+| Lobby ID | 28546004971346005 |
+| Players | 1/10 |
+| Host Name | AVO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:12:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28546004972933949 |
+| Players | 9/24 |
+| Host Name | Reclusive Port |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:14:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28546004974085092 |
+| Players | 5/15 |
+| Host Name | Adobe Valorant |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:15:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28546004561435034 |
-| Players | 6/8 |
-| Host Name | MAHLER HAMMER |
+| Lobby ID | 28546004971331006 |
+| Players | 5/8 |
+| Host Name | ZaqpaZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:01:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28546004563819811 |
-| Players | 6/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:06:53 |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:12:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28546004564488778 |
-| Players | 4/10 |
-| Host Name | Titus Livius |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:08:25 |
+| Lobby ID | 28546004972567730 |
+| Players | 9/10 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:14:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28546004561094592 |
-| Players | 7/10 |
-| Host Name | Thiago Garcia |
+| Lobby ID | 28546004972217984 |
+| Players | 5/10 |
+| Host Name | MKL |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:13:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28546004973352798 |
+| Players | 6/10 |
+| Host Name | Finn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:00:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28546004564583149 |
-| Players | 1/10 |
-| Host Name | English Breakfast Tea |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 5, 2023 07:08:38 |
+| Lobby Creation Time | Tuesday, December 5, 2023 19:14:58 |
 
 
