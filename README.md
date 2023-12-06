@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761008154274 |
-| Players | 18/24 |
-| Host Name | Almond Butter Honey |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:23:32 |
+| Lobby ID | 28551761016998307 |
+| Players | 2/10 |
+| Host Name | h332w |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:37:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551761016876675 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | НЕгр в Пене |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:37:33 |
@@ -49,35 +49,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761015607873 |
-| Players | 6/8 |
-| Host Name | miss 2B |
+| Lobby ID | 28551761017208343 |
+| Players | 7/8 |
+| Host Name | Exzems |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:35:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761016998307 |
-| Players | 2/10 |
-| Host Name | h332w |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:37:44 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:38:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761016651182 |
-| Players | 14/15 |
-| Host Name | Skalmold |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:37:12 |
+| Lobby ID | 28551761017520532 |
+| Players | 4/15 |
+| Host Name | chernovi4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:38:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551761017760553 |
+| Players | 1/24 |
+| Host Name | > |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:38:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761008863693 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:24:41 |
