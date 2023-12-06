@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760916854759 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Bubblegum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:38:06 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760917884765 |
-| Players | 8/24 |
-| Host Name | LazyMeow~ |
+| Players | 7/24 |
+| Host Name | VCL sao k len BKB? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:39:59 |
 
