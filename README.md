@@ -50,18 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760949805886 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | McDi |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:37:30 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551760950099855 |
+| Players | 5/10 |
+| Host Name | Hecker |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:38:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760950146697 |
+| Players | 1/8 |
+| Host Name | ++你妈 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:38:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760948126110 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | oppixoppixfruit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:34:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551760950151895 |
+| Players | 1/5 |
+| Host Name | CL |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:38:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551760950149450 |
+| Players | 1/5 |
+| Host Name | Alluring Bounty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:38:07 |
 
 
