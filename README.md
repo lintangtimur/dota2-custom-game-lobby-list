@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760914258343 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:33:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760913615173 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:32:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760914623601 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | Sneaky Murloc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:34:01 |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760914684011 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Вася кипяток 2023 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:34:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760914733737 |
-| Players | 1/10 |
-| Host Name | EL SACA LOW |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:34:13 |
+| Lobby ID | 28551760914766340 |
+| Players | 2/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:34:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760914681733 |
-| Players | 1/10 |
-| Host Name | ******* |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:34:07 |
+| Lobby ID | 28551760914607672 |
+| Players | 5/8 |
+| Host Name | TINI ROSADO |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:33:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551760915096171 |
+| Players | 1/24 |
+| Host Name | Weganerd |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:34:53 |
 
 
