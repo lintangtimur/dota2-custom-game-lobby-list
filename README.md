@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761118148056 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:56:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761099522355 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:35:02 |
@@ -40,35 +40,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761119776578 |
-| Players | 4/10 |
-| Host Name | Machine being |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761119752127 |
-| Players | 5/8 |
-| Host Name | james lee |
+| Lobby ID | 28551761118858731 |
+| Players | 9/10 |
+| Host Name | SweetBoom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:10 |
+| Lobby Creation Time | Wednesday, December 6, 2023 18:57:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551761120786068 |
+| Players | 7/24 |
+| Host Name | Mode: Sonichu Afterdark |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 18:59:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761120286214 |
-| Players | 5/8 |
-| Host Name | YALNIZKURT42!! |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:47 |
+| Lobby ID | 28551761120681700 |
+| Players | 4/8 |
+| Host Name | 1234 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 18:59:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761119921810 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:22 |
@@ -83,40 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761120366014 |
-| Players | 1/10 |
-| Host Name | JJJO |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:53 |
+| Lobby ID | 28551761120680111 |
+| Players | 3/8 |
+| Host Name | あなたは誰ですか。 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 18:59:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761120845507 |
+| Players | 6/8 |
+| Host Name | Watchmestun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 18:59:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551761120866779 |
+| Players | 5/15 |
+| Host Name | 悲しい |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 18:59:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761120359938 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | YX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761120442446 |
-| Players | 1/10 |
-| Host Name | tororo霧 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761120524683 |
-| Players | 1/8 |
-| Host Name | K*S*a |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28551761120533463 |
-| Players | 1/5 |
-| Host Name | SL•AY |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:59:04 |
 
 
