@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761006818266 |
-| Players | 9/10 |
-| Host Name | freddy fazber |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:21:21 |
+| Lobby ID | 28551761007778510 |
+| Players | 3/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:22:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 16:20:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761007833777 |
-| Players | 1/15 |
+| Lobby ID | 28551761007942791 |
+| Players | 1/8 |
 | Host Name | V |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:23:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761007710428 |
-| Players | 1/10 |
-| Host Name | Абэмэ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:22:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761007778510 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:22:55 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:23:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Создатель доты |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:16:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28551761007781833 |
-| Players | 2/5 |
-| Host Name | Джек Подрочитель |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:22:55 |
 
 
