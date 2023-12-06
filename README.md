@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760898736889 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | pohuisto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:03:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760896066127 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | It's a NO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 12:57:22 |
@@ -81,5 +81,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:02:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760899721059 |
+| Players | 5/8 |
+| Host Name | Wonderfull shkeet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:05:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551760899646132 |
+| Players | 2/10 |
+| Host Name | Pos3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:04:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551760899697870 |
+| Players | 1/10 |
+| Host Name | Song Jin Woo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:05:04 |
 
 
