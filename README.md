@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760991312560 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | ЧЕЛОВЕК ЯЙЦА |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:55:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760989518749 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | main character vibes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:52:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760991809301 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:56:31 |
