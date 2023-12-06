@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760951006718 |
+| Lobby ID | 28551760952666030 |
 | Players | 1/15 |
 | Host Name | (RSO)EMINEM(RSO) |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:39:36 |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:42:31 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760950644708 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | musicstar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:38:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760951738915 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | // |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:40:53 |
@@ -50,18 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760952194633 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Mastur Beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:41:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760952482660 |
-| Players | 1/15 |
+| Lobby ID | 28551760952858741 |
+| Players | 1/8 |
 | Host Name | it_g_mah |
 | Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:42:12 |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:42:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551760952673041 |
+| Players | 5/10 |
+| Host Name | Han |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:42:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551760952784723 |
+| Players | 1/10 |
+| Host Name | Ryujiin.GG [ Buunja ] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:42:44 |
 
 
