@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761118148056 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Ban PA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:56:20 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761247606639 |
-| Players | 3/8 |
-| Host Name | DDP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 21:03:29 |
+| Lobby ID | 28551761248680453 |
+| Players | 6/8 |
+| Host Name | sadマ能white prince能マhate |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 21:04:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761214993871 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Scrreeww |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:33:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761245137776 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Viskinga |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 21:01:10 |
@@ -50,43 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761151372958 |
-| Players | 17/24 |
+| Players | 12/24 |
 | Host Name | SANSEXO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:33:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761245626898 |
-| Players | 21/24 |
-| Host Name | 大川岛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 21:01:38 |
+| Lobby ID | 28551761249046896 |
+| Players | 6/8 |
+| Host Name | хочу кушать |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 21:04:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761248875064 |
+| Players | 2/8 |
+| Host Name | WhatsWrongWithDOGA2/VOLVO? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 21:04:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761247914382 |
-| Players | 6/15 |
-| Host Name | O_- |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 21:03:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761247903570 |
-| Players | 2/10 |
-| Host Name | Salman (no flame) |
+| Lobby ID | 28551761248756136 |
+| Players | 5/15 |
+| Host Name | Mad Crowd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 21:03:45 |
+| Lobby Creation Time | Wednesday, December 6, 2023 21:04:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761240396661 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ̷D̷ϋ❦ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:56:47 |
@@ -94,28 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761244651129 |
-| Players | 5/8 |
-| Host Name | sadマ能white prince能マhate |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 21:00:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761247584466 |
-| Players | 2/10 |
-| Host Name | zzz |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 21:03:28 |
+| Lobby ID | 28551761249156432 |
+| Players | 2/8 |
+| Host Name | emo𓆩 𓆪 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 21:04:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761246375337 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | (HA)² |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 21:02:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551761248825774 |
+| Players | 1/5 |
+| Host Name | Сосунок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 21:04:37 |
 
 
