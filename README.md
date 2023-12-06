@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:51:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760989662394 |
-| Players | 9/15 |
-| Host Name | Nemro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:52:53 |
+| Lobby ID | 28551760987279530 |
+| Players | 9/10 |
+| Host Name | Gliknot |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:48:51 |
 
 
 |  | ot3_desert_octet |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:53:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760987279530 |
-| Players | 8/10 |
-| Host Name | Gliknot |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:48:51 |
 
 
 |  | epic_boss_fight_nightmare |
