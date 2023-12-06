@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760975619846 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Oncom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:27:54 |
@@ -31,10 +31,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760979487538 |
-| Players | 1/15 |
-| Host Name | tipitoxa_ttv |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:35:04 |
+| Lobby ID | 28551760979513129 |
+| Players | 4/15 |
+| Host Name | Alpachio Kundalini |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:35:07 |
 
 
