@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551761019474183 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | EL EJECUTOR |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:41:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761011505290 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:28:58 |
@@ -40,47 +40,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761023101918 |
-| Players | 9/15 |
-| Host Name | H0N |
+| Lobby ID | 28551761023856500 |
+| Players | 10/15 |
+| Host Name | rockw0w |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:47:21 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:48:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551761023432270 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | секс с зомби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:47:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28551761022921701 |
-| Players | 7/8 |
-| Host Name | get high |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:47:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761023036600 |
-| Players | 1/8 |
-| Host Name | ModeratelySlow |
+| Lobby ID | 28551761023561013 |
+| Players | 5/24 |
+| Host Name | Rivalle |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:47:15 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:48:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761023059019 |
-| Players | 6/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:47:17 |
+| Lobby ID | 28551761024125918 |
+| Players | 2/8 |
+| Host Name | Drakalian the Dragon King |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:48:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 2pac nakur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:43:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551761023579214 |
+| Players | 5/10 |
+| Host Name | エッラ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:48:06 |
 
 
