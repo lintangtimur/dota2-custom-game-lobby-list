@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761003327310 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | غراندايزر |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:15:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760994964042 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Small Balls |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:01:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551761002614721 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Machine being |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:14:29 |
