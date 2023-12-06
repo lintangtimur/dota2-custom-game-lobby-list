@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760972494931 |
-| Players | 12/15 |
-| Host Name | Капитан Флинт |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:21:40 |
+| Lobby ID | 28551760973947184 |
+| Players | 5/15 |
+| Host Name | Small Balls |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:24:39 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760973503145 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Absmuui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:23:45 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:23:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760973499791 |
-| Players | 1/15 |
-| Host Name | need +space |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:23:45 |
+| Lobby ID | 28551760974619649 |
+| Players | 1/8 |
+| Host Name | Kaneki 1000-7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:25:58 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760974135689 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:25:01 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551760973947184 |
-| Players | 5/15 |
-| Host Name | Small Balls |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:24:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760974619649 |
-| Players | 1/8 |
-| Host Name | Kaneki 1000-7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:25:58 |
 
 
 |  | epic_boss_fight_nightmare |
