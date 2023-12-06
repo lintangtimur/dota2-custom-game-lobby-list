@@ -40,29 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760987728745 |
-| Players | 3/8 |
-| Host Name | Me voy winer Y? |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:49:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551760987817232 |
-| Players | 1/15 |
-| Host Name | Imbecility & Courage♉ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:49:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28551760987902428 |
 | Players | 2/8 |
 | Host Name | Kaneki 1000-7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:49:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551760987817232 |
+| Players | 2/15 |
+| Host Name | Imbecility & Courage♉ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:49:46 |
 
 
 |  | epic_boss_fight_nightmare |
