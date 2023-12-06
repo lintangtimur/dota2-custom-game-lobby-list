@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760999491233 |
-| Players | 1/24 |
-| Host Name | Daughters |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:09:21 |
+| Lobby ID | 28551761000566406 |
+| Players | 3/15 |
+| Host Name | Napalm. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:11:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 16:01:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760999605247 |
-| Players | 13/15 |
-| Host Name | I.L. Caragiale |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:09:32 |
+| Lobby ID | 28551761000355249 |
+| Players | 5/8 |
+| Host Name | Odinn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:10:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760998494710 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:07:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761000355249 |
-| Players | 2/8 |
-| Host Name | Odinn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:10:47 |
 
 
 |  | epic_boss_fight_nightmare |
