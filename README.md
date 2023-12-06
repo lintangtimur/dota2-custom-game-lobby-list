@@ -5,28 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760947171375 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Lenathea |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:32:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760946943558 |
-| Players | 6/8 |
-| Host Name | CAXARock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:32:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760947903151 |
-| Players | 3/8 |
-| Host Name | анчоус фараон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:34:10 |
 
 
 |  | ot3_desert_octet |
@@ -49,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760947786005 |
-| Players | 12/15 |
-| Host Name | 𝖈𝖔𝖔𝖐𝖎𝖊𝖘🎲 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:33:57 |
+| Lobby ID | 28551760948854223 |
+| Players | 1/15 |
+| Host Name | Reddy |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:35:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760941353787 |
-| Players | 9/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:22:31 |
+| Lobby ID | 28551760948911438 |
+| Players | 1/15 |
+| Host Name | ДОКТОР ЛИВСИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:35:56 |
 
 
 |  | epic_boss_fight_nightmare |
