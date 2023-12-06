@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761358380987 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | El 2024 me amarran pipipi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 22:44:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761358765404 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | [Pao] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 22:45:01 |
@@ -50,63 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551761358222080 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | WK |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 22:44:28 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551761360860270 |
+| Players | 10/15 |
+| Host Name | TerribleFate |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 22:47:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761360319324 |
+| Lobby ID | 28551761361326018 |
 | Players | 7/8 |
-| Host Name | radbix |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 22:46:35 |
+| Host Name | Im_Enot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 22:47:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761360465389 |
-| Players | 7/10 |
-| Host Name | двойная кружка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 22:46:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761360617170 |
-| Players | 7/8 |
-| Host Name | экстракт окуня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 22:46:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761360748036 |
-| Players | 6/8 |
-| Host Name | Podonok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 22:47:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28551761358302268 |
-| Players | 8/10 |
-| Host Name | 𝔼𝕃-ℙ𝔸𝕋ℝ𝕆ℕ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 22:44:33 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28551761360075274 |
-| Players | 1/7 |
-| Host Name | I_Love_69 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 22:46:20 |
+| Lobby ID | 28551761361566837 |
+| Players | 1/10 |
+| Host Name | idntcareyuo |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 22:47:51 |
 
 
