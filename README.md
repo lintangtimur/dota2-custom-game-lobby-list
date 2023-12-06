@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760914607672 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TeeBan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:33:59 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28551760918150503 |
 | Players | 4/8 |
-| Host Name | RK |
+| Host Name | БОСС ТАВЕРНЫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:40:28 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760916854759 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Bubblegum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:38:06 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760917884765 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | VCL sao k len BKB? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:39:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760918082042 |
-| Players | 1/8 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:40:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760918408771 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Levi Ackerman |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:40:56 |
@@ -94,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28551760918808219 |
-| Players | 1/10 |
-| Host Name | Hobbit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:41:41 |
+| Lobby ID | 28551760918973817 |
+| Players | 5/10 |
+| Host Name | アイ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:41:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28551760918973817 |
+| Lobby ID | 28551760919258933 |
 | Players | 1/10 |
-| Host Name | アイ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:41:59 |
+| Host Name | Hobbit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:42:31 |
 
 
