@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761118148056 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:56:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761099522355 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:35:02 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761118858731 |
-| Players | 9/10 |
-| Host Name | SweetBoom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:57:09 |
+| Lobby ID | 28551761121468288 |
+| Players | 7/10 |
+| Host Name | Dr.Electro |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:00:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761120786068 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | Mode: Sonichu Afterdark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:59:22 |
@@ -74,57 +74,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551761121680773 |
+| Players | 6/15 |
+| Host Name | PAPA KARLO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:00:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761120343519 |
-| Players | 2/8 |
+| Lobby ID | 28551761121416021 |
+| Players | 5/8 |
+| Host Name | james lee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:00:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761121861898 |
+| Players | 3/8 |
+| Host Name | не играю в доту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:00:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761121979891 |
+| Players | 1/8 |
 | Host Name | истинный вор 228 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761120680111 |
-| Players | 3/8 |
-| Host Name | あなたは誰ですか。 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:59:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761120845507 |
-| Players | 6/8 |
-| Host Name | Watchmestun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:59:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551761120866779 |
-| Players | 5/15 |
-| Host Name | 悲しい |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:59:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551761120359938 |
-| Players | 14/15 |
-| Host Name | YX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 18:58:52 |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:00:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761119637086 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551761122001183 |
+| Players | 1/5 |
+| Host Name | 11101010010 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:00:51 |
 
 
