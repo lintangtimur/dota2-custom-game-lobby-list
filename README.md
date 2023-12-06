@@ -23,28 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760950644708 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | musicstar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:38:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760950146697 |
-| Players | 6/8 |
-| Host Name | Uncle Joseph |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:38:06 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760951426765 |
-| Players | 4/10 |
-| Host Name | KingPin |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:40:20 |
+| Lobby ID | 28551760952046756 |
+| Players | 6/10 |
+| Host Name | Лии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:41:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,5 +45,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | // |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:40:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760952194633 |
+| Players | 1/8 |
+| Host Name | Mastur Beast |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:41:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760952368515 |
+| Players | 1/8 |
+| Host Name | BBYoda ツ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:42:00 |
 
 
