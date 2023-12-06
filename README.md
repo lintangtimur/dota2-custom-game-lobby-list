@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760972232807 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:21:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760962578279 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:00:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760971206347 |
-| Players | 10/24 |
+| Players | 18/24 |
 | Host Name | Greggy Liwanag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:18:59 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:20:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760971816170 |
-| Players | 6/8 |
-| Host Name | ding ding ding mtf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:20:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760972494931 |
-| Players | 7/15 |
-| Host Name | annalastone |
+| Players | 5/15 |
+| Host Name | Куни для твоей мамы |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:21:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760972974341 |
+| Players | 2/8 |
+| Host Name | Goblins |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:22:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:13:22 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28551760972612335 |
-| Players | 1/5 |
+| Lobby ID | 28551760973073933 |
+| Players | 1/10 |
 | Host Name | Адольф Чикатило |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:21:54 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:22:51 |
 
 
