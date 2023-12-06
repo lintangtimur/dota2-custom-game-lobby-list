@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 16:03:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760995748128 |
+| Players | 1/8 |
+| Host Name | CCCP |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:03:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760991477813 |
