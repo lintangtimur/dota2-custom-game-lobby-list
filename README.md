@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761202560519 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | E.N.D |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:22:13 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761201941777 |
-| Players | 4/10 |
-| Host Name | Я РУССКИЙ |
+| Lobby ID | 28551761203832730 |
+| Players | 9/10 |
+| Host Name | .dione them |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:21:39 |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761197445291 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Kan✨ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:17:31 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28551761199557800 |
 | Players | 4/24 |
-| Host Name | FOREVER YOUNG |
+| Host Name | 嗯啊 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:19:27 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761119921810 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | คุวยไรโยม |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:22 |
@@ -83,31 +83,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 20:20:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761200549650 |
-| Players | 21/24 |
-| Host Name | Chi Bao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:20:22 |
+| Lobby ID | 28551761203413025 |
+| Players | 4/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761203898196 |
+| Players | 1/8 |
+| Host Name | Lorx |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761204053264 |
+| Players | 4/8 |
+| Host Name | ❤🍭❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761203137680 |
-| Players | 8/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:22:45 |
+| Lobby ID | 28551761204154143 |
+| Players | 3/15 |
+| Host Name | к[а]пытце_228 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551761204204714 |
+| Players | 1/24 |
+| Host Name | 米粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761203413025 |
-| Players | 1/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:23:00 |
+| Lobby ID | 28551761204357899 |
+| Players | 2/10 |
+| Host Name | demon igrushka otchima |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:23:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761198220887 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:18:13 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28551761203425451 |
-| Players | 2/7 |
-| Host Name | Пт на пиво |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:23:01 |
 
 
