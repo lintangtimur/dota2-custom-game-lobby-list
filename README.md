@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:32:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760915917908 |
-| Players | 1/24 |
-| Host Name | Rainyy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:36:24 |
+| Lobby ID | 28551760917403961 |
+| Players | 1/8 |
+| Host Name | Kano |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:39:06 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760917082413 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Piña Cola |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:38:31 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760916098748 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | МаксимПОДЁМпопиз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:36:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551760917421546 |
+| Players | 1/24 |
+| Host Name | Rainyy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:39:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Thiccler |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:38:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551760917344836 |
+| Players | 1/5 |
+| Host Name | чвк сын растишки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:39:00 |
 
 
