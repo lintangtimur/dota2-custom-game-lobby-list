@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760903507946 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:12:46 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:15:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760903015230 |
-| Players | 14/15 |
-| Host Name | hxhx |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:11:47 |
+| Lobby ID | 28551760905683261 |
+| Players | 1/10 |
+| Host Name | Avestruz |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:17:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760904835215 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | |||||||||||| |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:15:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760905289754 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Кравиноснй сасут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:16:15 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:12:00 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760904522667 |
+| Players | 6/8 |
+| Host Name | yzf |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:14:44 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760905683261 |
-| Players | 3/10 |
-| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:17:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28551760904500756 |
-| Players | 9/10 |
-| Host Name | DayDreamer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:14:42 |
+| Lobby ID | 28551760906166459 |
+| Players | 2/10 |
+| Host Name | cyg3ns long lost ranger son |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:17:58 |
 
 
