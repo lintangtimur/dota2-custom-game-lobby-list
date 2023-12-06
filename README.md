@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760923884884 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | обезьянище |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:50:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760921577985 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Cancell ^^ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:46:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760923086193 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:49:28 |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BomBiTa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:49:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760924415425 |
+| Players | 4/8 |
+| Host Name | ᲼᲼᲼᲼᲼᲼᲼ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:51:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551760924342393 |
+| Players | 1/10 |
+| Host Name | 喜欢短发的女生 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:51:45 |
 
 
