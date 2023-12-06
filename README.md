@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760973947184 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Larry The HoboKing |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760974125989 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:25:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760975704323 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | kol_fnl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:28:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760973708140 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:10 |
@@ -50,34 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760975619846 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Oncom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:27:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760975810363 |
-| Players | 13/15 |
-| Host Name | Prometey_X |
+| Lobby ID | 28551760976472616 |
+| Players | 2/10 |
+| Host Name | ThOrflnn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:28:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760975871032 |
-| Players | 7/8 |
-| Host Name | PUSSY DESTROYER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:28:23 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:29:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760975947976 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:28:32 |
