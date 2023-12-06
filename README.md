@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760902487089 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:10:44 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:15:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760904891731 |
-| Players | 1/10 |
-| Host Name | Louigi (ルイージ) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:15:28 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760905105059 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760904500756 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:14:42 |
