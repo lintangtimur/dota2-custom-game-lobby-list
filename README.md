@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:51:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760987279530 |
-| Players | 9/10 |
-| Host Name | Gliknot |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:48:51 |
+| Lobby ID | 28551760990451938 |
+| Players | 1/8 |
+| Host Name | WYHM (медиалох) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:54:12 |
 
 
 |  | ot3_desert_octet |
