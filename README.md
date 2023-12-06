@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761000566406 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Napalm. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:11:08 |
@@ -29,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 16:01:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761000355249 |
-| Players | 5/8 |
-| Host Name | Odinn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:10:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760998494710 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:07:42 |
