@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760925735112 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:54:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760924615853 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:52:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760925610526 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:54:01 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ★ᶦᶰᵈ᭄❂Gᴀᴍᴇʀ࿐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:53:57 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28551760925887102 |
-| Players | 2/7 |
-| Host Name | K.K. нуф-нуф funny rake |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:54:31 |
 
 
