@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760973376455 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | мрак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:23:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760973503145 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Absmuui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:23:45 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760973499791 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | need +space |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:23:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28551760973545785 |
-| Players | 4/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
+| Lobby ID | 28551760974125989 |
+| Players | 2/24 |
+| Host Name | BLEHHHHH :P |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:23:50 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:25:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760972494931 |
-| Players | 8/15 |
-| Host Name | SoNrYx |
+| Players | 12/15 |
+| Host Name | Капитан Флинт |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:21:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28551760974125989 |
-| Players | 2/24 |
-| Host Name | BLEHHHHH :P |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:25:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760968581027 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | loosStreak1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:13:22 |
