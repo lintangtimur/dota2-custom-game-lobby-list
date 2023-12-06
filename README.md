@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760994964042 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Small Balls |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:01:51 |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761020853327 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | G_Ruysik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:43:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761020438351 |
-| Players | 3/10 |
-| Host Name | wAcky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:43:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761020812965 |
-| Players | 7/15 |
-| Host Name | мистер резистор |
+| Lobby ID | 28551761021347051 |
+| Players | 9/15 |
+| Host Name | ☪Bilal Abdul Kareem☪ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:43:45 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:44:36 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28551761019989088 |
-| Players | 6/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
+| Lobby ID | 28551761021362235 |
+| Players | 3/24 |
+| Host Name | ^.^ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:42:27 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:44:37 |
 
 
 |  | epic_boss_fight_normal |
