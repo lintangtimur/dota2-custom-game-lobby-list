@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761189976850 |
-| Players | 8/24 |
+| Players | 20/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:10:38 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 19:54:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28551761189425399 |
-| Players | 4/8 |
-| Host Name | Berserk mode |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:10:07 |
+| Lobby ID | 28551761190392702 |
+| Players | 6/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:01 |
 
 
 |  | ot3_gardens_duo |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761151372958 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | SANSEXO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:33:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761187380502 |
-| Players | 3/8 |
-| Host Name | ПТ на Легенду |
+| Lobby ID | 28551761190813993 |
+| Players | 2/15 |
+| Host Name | BoSS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:08:13 |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761119921810 |
-| Players | 11/24 |
+| Players | 7/24 |
 | Host Name | SplavDzzzzila |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:22 |
@@ -76,29 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761190036871 |
-| Players | 2/10 |
-| Host Name | a0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:10:41 |
+| Lobby ID | 28551761190921251 |
+| Players | 7/10 |
+| Host Name | detore |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761189775523 |
-| Players | 9/15 |
-| Host Name | Uzurpator |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:10:27 |
+| Lobby ID | 28551761191313390 |
+| Players | 1/10 |
+| Host Name | Crocodilo amassado |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:53 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551761188230647 |
+| Lobby ID | 28551761191125300 |
 | Players | 6/10 |
-| Host Name | 阿峰 |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:09:01 |
+| Host Name | DLivé |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761191404022 |
+| Players | 2/8 |
+| Host Name | Burr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:58 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28551761190671733 |
+| Players | 2/7 |
+| Host Name | EddieR92 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:11:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761186490002 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | fluxxy |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:07:23 |
@@ -122,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761186519948 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ♪ Ragrats-. |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:07:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28551761190194598 |
-| Players | 2/5 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:10:50 |
 
 
