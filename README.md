@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760973947184 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Larry The HoboKing |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:39 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:25:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760975704323 |
-| Players | 7/10 |
-| Host Name | kol_fnl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:28:04 |
+| Lobby ID | 28551760976736997 |
+| Players | 14/15 |
+| Host Name | Ficatzeanu |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:30:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760973708140 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760975619846 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Oncom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:27:54 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:28:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760976736997 |
-| Players | 6/15 |
-| Host Name | Ficatzeanu |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:30:00 |
+| Lobby ID | 28551760977095110 |
+| Players | 2/10 |
+| Host Name | Серёга Баунти |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:30:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760973660774 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | cece |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:04 |
