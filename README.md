@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761119921810 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | คุวยไรโยม |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761151372958 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | SANSEXO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:33:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761214928719 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Viskinga |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:33:30 |
@@ -95,46 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761224107961 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 9 6erу TAkou a BoJIocbI Ha3ad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:41:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761224019155 |
-| Players | 9/10 |
-| Host Name | бустер на 4лене |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:41:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551761224360697 |
-| Players | 12/15 |
-| Host Name | 神 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:42:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761224852572 |
-| Players | 1/8 |
-| Host Name | invite me to a party |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:42:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761225058168 |
-| Players | 4/10 |
-| Host Name | Александр Кишка |
+| Lobby ID | 28551761225662543 |
+| Players | 2/8 |
+| Host Name | YEs |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:42:44 |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:43:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -146,13 +119,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 20:42:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761224852572 |
+| Players | 2/8 |
+| Host Name | invite me to a party |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:42:33 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761225302310 |
-| Players | 1/15 |
-| Host Name | 雅俗共赏 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:42:58 |
+| Lobby ID | 28551761225377066 |
+| Players | 11/15 |
+| Host Name | Позитив Мирошкин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:43:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761226058330 |
+| Players | 3/8 |
+| Host Name | proebali |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:43:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551761226063855 |
+| Players | 7/10 |
+| Host Name | darkolicе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 20:43:40 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761222001897 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | И В Джугашвили |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:39:56 |
@@ -176,18 +176,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761223845848 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 20:41:38 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28551761225311611 |
-| Players | 1/7 |
-| Host Name | ホワイト |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 20:42:58 |
 
 
