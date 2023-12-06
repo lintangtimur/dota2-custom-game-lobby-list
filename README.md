@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760946943558 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | CAXARock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:32:28 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760941587347 |
-| Players | 7/8 |
-| Host Name | ketamine girl |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:22:57 |
+| Lobby ID | 28551760947903151 |
+| Players | 3/8 |
+| Host Name | анчоус фараон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:34:10 |
 
 
 |  | ot3_desert_octet |
@@ -50,27 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760947786005 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | 𝖈𝖔𝖔𝖐𝖎𝖊𝖘🎲 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:33:57 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28551760947801609 |
-| Players | 2/10 |
-| Host Name | Mronplihg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:33:59 |
+| Lobby ID | 28551760941353787 |
+| Players | 9/10 |
+| Host Name | Maharaja Lawana |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:22:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28551760941353787 |
-| Players | 5/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:22:31 |
+| Lobby ID | 28551760948126110 |
+| Players | 1/10 |
+| Host Name | oppixoppixfruit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:34:33 |
 
 
