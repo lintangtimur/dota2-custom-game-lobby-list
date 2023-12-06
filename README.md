@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28551760914607672 |
 | Players | 2/8 |
-| Host Name | JosDan |
+| Host Name | TeeBan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:33:59 |
 
@@ -32,46 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760913615173 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:32:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28551760914623601 |
-| Players | 23/24 |
-| Host Name | show me ur dixk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:34:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760915475210 |
-| Players | 7/10 |
-| Host Name | ketamine girl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:35:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760916098748 |
-| Players | 1/10 |
-| Host Name | МаксимПОДЁМпопиз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:36:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551760914766340 |
-| Players | 5/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:34:16 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +45,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rainyy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:36:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551760915475210 |
+| Players | 5/10 |
+| Host Name | ketamine girl |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:35:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551760916098748 |
+| Players | 6/10 |
+| Host Name | МаксимПОДЁМпопиз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:36:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551760914766340 |
+| Players | 10/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:34:16 |
 
 
