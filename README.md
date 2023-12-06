@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 14:28:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760963180294 |
-| Players | 7/8 |
-| Host Name | Super Santa |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:01:32 |
+| Lobby ID | 28551760963951917 |
+| Players | 5/10 |
+| Host Name | Gargulia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:03:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Пивной Барон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:02:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760963951917 |
-| Players | 5/10 |
-| Host Name | Gargulia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:03:12 |
 
 
