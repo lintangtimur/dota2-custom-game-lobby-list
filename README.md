@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28551760914258343 |
-| Players | 5/8 |
-| Host Name | ABOBA BOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:33:20 |
+| Lobby ID | 28551760915096171 |
+| Players | 1/24 |
+| Host Name | Weganerd |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:34:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760914623601 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Sneaky Murloc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:34:01 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760914607672 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | TINI ROSADO |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:33:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28551760915096171 |
-| Players | 1/24 |
-| Host Name | Weganerd |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:34:53 |
 
 
