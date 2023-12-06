@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760903507946 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:12:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760905105059 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:15:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760902487089 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:10:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760906836884 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ДАНЯ ПУДЖИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:19:18 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760907041865 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Demonic Fox |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:19:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28551760906292870 |
-| Players | 9/10 |
-| Host Name | Clown |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:18:13 |
 
 
 |  | epic_boss_fight_nightmare |
