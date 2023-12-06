@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760999252287 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | i will never accept my loss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:08:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760999444808 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | スキビディ・インフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:09:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760999605247 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | I.L. Caragiale |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:09:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760998624092 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ビンタング |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:07:55 |
