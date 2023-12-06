@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761003092749 |
-| Players | 6/8 |
-| Host Name | herman Shatz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:15:16 |
+| Lobby ID | 28551761003327310 |
+| Players | 8/15 |
+| Host Name | غراندايزر |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:15:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761000838475 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Chiiiiiiiiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:11:35 |
@@ -45,14 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Machine being |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:14:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551761003327310 |
-| Players | 3/15 |
-| Host Name | غراندايزر |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:15:39 |
 
 
