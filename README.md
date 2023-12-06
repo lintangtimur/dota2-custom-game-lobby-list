@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760962578279 |
-| Players | 1/24 |
-| Host Name | Shou |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:00:12 |
+| Lobby ID | 28551760978736399 |
+| Players | 2/8 |
+| Host Name | ДОЕДАЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:33:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760977797841 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:31:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760977808390 |
-| Players | 5/8 |
-| Host Name | DODODOD13 |
+| Lobby ID | 28551760978648524 |
+| Players | 7/15 |
+| Host Name | я анскилл |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:31:59 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:33:32 |
 
 
 |  | ot3_desert_octet |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:27:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551760977559669 |
-| Players | 14/15 |
-| Host Name | BEZDARb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:31:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760977430640 |
@@ -72,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:31:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28551760974125989 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:25:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28551760978485093 |
-| Players | 2/5 |
-| Host Name | чупик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:33:14 |
 
 
