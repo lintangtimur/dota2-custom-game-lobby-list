@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760903507946 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:12:46 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:15:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760905683261 |
-| Players | 1/10 |
-| Host Name | Avestruz |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:17:01 |
+| Lobby ID | 28551760906215307 |
+| Players | 5/8 |
+| Host Name | Carebear |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:18:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760902487089 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:10:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760905289754 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Кравиноснй сасут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:16:15 |
