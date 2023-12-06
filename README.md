@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760983854275 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:42:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760984977379 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | кровь из носа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:44:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760984985263 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Chiiiiiiiiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:44:55 |
