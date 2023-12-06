@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760955419405 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:47:23 |
@@ -40,17 +40,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760955517555 |
-| Players | 14/15 |
-| Host Name | Small Balls |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:47:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28551760957572314 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Dazar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:51:11 |
@@ -58,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760958679656 |
-| Players | 2/8 |
+| Lobby ID | 28551760958958472 |
+| Players | 1/8 |
 | Host Name | CRIMSON™ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:53:08 |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:53:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760956144555 |
-| Players | 8/10 |
-| Host Name | fullsend2k16 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:48:40 |
+| Lobby ID | 28551760959200961 |
+| Players | 1/10 |
+| Host Name | Mr.Cock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:54:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760959208615 |
+| Players | 5/8 |
+| Host Name | Carebear |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:54:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gua Bao |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:52:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551760958925702 |
+| Players | 2/5 |
+| Host Name | God Bless America |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:53:34 |
 
 
