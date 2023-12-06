@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760908235923 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:22:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760910327262 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Былабытвояматьря |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:26:01 |
@@ -32,34 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760912444432 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | BLESS THIS MESS |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:29:59 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28551760911865941 |
-| Players | 18/24 |
-| Host Name | Collapse |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:28:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551760912185629 |
-| Players | 14/15 |
-| Host Name | Kuzya Lakomkin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:29:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760912949145 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Ant1ka`s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:30:56 |
@@ -67,10 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760913049397 |
+| Lobby ID | 28551760913315462 |
+| Players | 4/15 |
+| Host Name | TrAfiCanSs |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:31:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551760913461479 |
 | Players | 1/15 |
-| Host Name | limp dick |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:31:07 |
+| Host Name | Secretly a hamburger |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:31:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551760913462488 |
+| Players | 1/15 |
+| Host Name | MONSTER ENERGY |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:31:52 |
 
 
