@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760956211667 |
-| Players | 14/15 |
-| Host Name | AcheroNesh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:48:47 |
+| Lobby ID | 28551760957076935 |
+| Players | 1/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:50:18 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 14:47:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760955042195 |
-| Players | 2/10 |
-| Host Name | wyyglock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:46:42 |
+| Lobby ID | 28551760954718971 |
+| Players | 7/8 |
+| Host Name | ϬỢթՅӸŬ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:46:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760955419405 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:47:23 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760957076935 |
-| Players | 1/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:50:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760954718971 |
-| Players | 6/8 |
-| Host Name | ϬỢթՅӸŬ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:46:08 |
+| Lobby ID | 28551760955203638 |
+| Players | 7/10 |
+| Host Name | сигаретный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:47:00 |
 
 
 |  | epic_boss_fight_nightmare |
