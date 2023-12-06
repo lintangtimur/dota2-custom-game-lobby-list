@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760906166459 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | cyg3ns long lost ranger son |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:17:58 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:19:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760907590586 |
-| Players | 13/15 |
-| Host Name | руиню игры |
+| Lobby ID | 28551760908698026 |
+| Players | 1/8 |
+| Host Name | igrushka otchima雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:20:47 |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:22:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:12:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760908698026 |
-| Players | 1/8 |
-| Host Name | igrushka otchima雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:22:55 |
 
 
 |  | epic_boss_fight_nightmare |
