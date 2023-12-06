@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761159092070 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Kan✨ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:40:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761158828842 |
-| Players | 6/24 |
+| Players | 17/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:40:38 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28551761151372958 |
 | Players | 4/24 |
-| Host Name | Storm |
+| Host Name | SANSEXO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:33:03 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761099522355 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | UNITED WE STAND, DIVIDED WE FALL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:35:02 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761119921810 |
-| Players | 6/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
+| Players | 4/24 |
+| Host Name | The Last Element_ |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 6, 2023 18:58:22 |
 
@@ -86,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551761159232429 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | ROCKETPAPOCHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 19:41:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761159283739 |
-| Players | 3/8 |
-| Host Name | dxr >3 |
+| Lobby ID | 28551761159306878 |
+| Players | 4/15 |
+| Host Name | fakinfak |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 19:41:05 |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:41:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28551761156016309 |
-| Players | 7/10 |
-| Host Name | 青椒小新 |
+| Lobby ID | 28551761160022281 |
+| Players | 1/10 |
+| Host Name | Fozzzey |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 19:37:48 |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:41:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551761159785097 |
+| Players | 6/10 |
+| Host Name | turnOver! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 19:41:34 |
 
 
