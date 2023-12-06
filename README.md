@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760914607672 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | TeeBan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:33:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760918150503 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | RK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:40:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760916854759 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Bubblegum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:38:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760917082413 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Piña Cola |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:38:31 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Levi Ackerman |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:40:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28551760917083276 |
-| Players | 1/5 |
-| Host Name | Thiccler |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:38:31 |
 
 
 |  | epic_boss_fight_normal |
