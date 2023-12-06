@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760901385192 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ketamine girl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:08:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760901022316 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:07:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760901213463 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Cooper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:08:10 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760901160176 |
-| Players | 6/10 |
-| Host Name | pearl |
+| Players | 5/10 |
+| Host Name | EL GATO BOB |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:08:04 |
 
@@ -113,16 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760901968922 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ISRAELITA DE INKASEXXX |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:09:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551760902162399 |
+| Players | 1/10 |
+| Host Name | Blacksad |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:10:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760901675348 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:09:06 |
