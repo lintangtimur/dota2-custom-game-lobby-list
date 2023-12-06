@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761008217150 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:23:38 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761009100382 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Exzems |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:25:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551761009675424 |
+| Players | 2/15 |
+| Host Name | dota 2 < irl sex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:26:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551761008863693 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:24:41 |
