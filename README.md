@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760927333001 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Et tu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:57:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:59:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760928734295 |
-| Players | 12/15 |
-| Host Name | twitch.tv/senjarin |
+| Lobby ID | 28551760929005390 |
+| Players | 3/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:59:43 |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:00:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RILR |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:59:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760929005390 |
-| Players | 3/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:00:13 |
 
 
 |  | epic_boss_fight_nightmare |
