@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760990451938 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | WYHM (медиалох) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:54:12 |
@@ -29,21 +29,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:52:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551760991317159 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:55:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551760991312560 |
+| Players | 2/15 |
+| Host Name | ЧЕЛОВЕК ЯЙЦА |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:55:40 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760989856924 |
-| Players | 8/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Lobby ID | 28551760991436740 |
+| Players | 5/10 |
+| Host Name | ThOrflnn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:53:13 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:55:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760989472545 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | The teammate U didn't ask for |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:52:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28551760991477813 |
+| Players | 1/10 |
+| Host Name | SASHA_BURIZA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:55:57 |
 
 
