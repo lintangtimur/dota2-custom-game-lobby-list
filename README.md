@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760953027848 |
-| Players | 8/10 |
-| Host Name | Сладкий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:43:10 |
+| Lobby ID | 28551760953487104 |
+| Players | 9/15 |
+| Host Name | INZOI |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:43:58 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760952194633 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Mastur Beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:41:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760953259928 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Lightroom Classic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:43:34 |
@@ -47,21 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 14:43:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760953487104 |
-| Players | 2/15 |
-| Host Name | INZOI |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:43:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28551760952673041 |
-| Players | 9/10 |
-| Host Name | Han |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:42:32 |
+| Lobby ID | 28551760954059720 |
+| Players | 1/10 |
+| Host Name | Я люблю свою жену |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:44:58 |
 
 
