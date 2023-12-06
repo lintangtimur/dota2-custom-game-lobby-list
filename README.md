@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760973947184 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Larry The HoboKing |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:24:39 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 15:25:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760974757370 |
-| Players | 14/15 |
-| Host Name | JS |
+| Lobby ID | 28551760975704323 |
+| Players | 3/10 |
+| Host Name | kol_fnl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:26:14 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:28:04 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760975619846 |
-| Players | 2/8 |
-| Host Name | ADICTO |
+| Players | 1/8 |
+| Host Name | Oncom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:27:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760975704323 |
-| Players | 1/10 |
-| Host Name | kol_fnl |
+| Lobby ID | 28551760975810363 |
+| Players | 3/15 |
+| Host Name | Prometey_X |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:28:04 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:28:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551760975871032 |
+| Players | 1/8 |
+| Host Name | PUSSY DESTROYER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:28:23 |
 
 
 |  | epic_boss_fight_hard |
