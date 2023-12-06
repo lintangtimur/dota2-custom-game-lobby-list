@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760957076935 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:50:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760956670865 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | TH.herald.TH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:49:35 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760956414952 |
+| Lobby ID | 28551760958277784 |
 | Players | 1/15 |
 | Host Name | (RSO)EMINEM(RSO) |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:49:08 |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:52:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760955517555 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Small Balls |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:47:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760957572314 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Dazar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:51:11 |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760955419405 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:47:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760957612678 |
-| Players | 1/8 |
-| Host Name | 594525 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:51:15 |
+| Lobby ID | 28551760958568945 |
+| Players | 1/10 |
+| Host Name | revolution |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:52:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760956144555 |
-| Players | 6/10 |
-| Host Name | rbg |
+| Players | 8/10 |
+| Host Name | fullsend2k16 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:48:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28551760958411149 |
+| Players | 1/5 |
+| Host Name | Gua Bao |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:52:39 |
 
 
