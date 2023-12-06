@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760994964042 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KINCHA NA! |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:01:51 |
@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761011505290 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:28:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28551761024125918 |
+| Players | 5/8 |
+| Host Name | Drakalian the Dragon King |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:48:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551761023856500 |
-| Players | 10/15 |
-| Host Name | rockw0w |
+| Lobby ID | 28551761024663496 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:48:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761023432270 |
-| Players | 5/10 |
-| Host Name | секс с зомби |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:47:52 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:49:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761023561013 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Rivalle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:48:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761024125918 |
-| Players | 2/8 |
-| Host Name | Drakalian the Dragon King |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:48:57 |
 
 
 |  | epic_boss_fight_normal |
