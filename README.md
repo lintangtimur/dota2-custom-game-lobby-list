@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760944164255 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:27:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760944621721 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ϬỢթՅӸŬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:28:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760942466393 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | zero MMR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:24:31 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760944175932 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:27:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551760944967917 |
-| Players | 1/15 |
-| Host Name | alex krasiuk |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:28:58 |
 
 
 |  | epic_boss_fight_nightmare |
