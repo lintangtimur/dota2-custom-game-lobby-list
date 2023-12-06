@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761004940182 |
-| Players | 2/15 |
-| Host Name | Underwater Hunter |
+| Players | 1/15 |
+| Host Name | hiro |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:18:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551761004988783 |
-| Players | 7/8 |
-| Host Name | Черный маг |
+| Lobby ID | 28551761005378419 |
+| Players | 3/8 |
+| Host Name | Avadamus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:18:22 |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:19:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551761004958563 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kekw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:18:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551761005378419 |
-| Players | 3/8 |
-| Host Name | Avadamus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:19:00 |
 
 
 |  | epic_boss_fight_nightmare |
