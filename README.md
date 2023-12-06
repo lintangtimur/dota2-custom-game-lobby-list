@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760905105059 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:15:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760902487089 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:10:44 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ALFALFITA IS BACK |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:21:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551760908235923 |
+| Players | 1/24 |
+| Host Name | eh? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:22:02 |
 
 
 |  | epic_boss_fight_nightmare |
