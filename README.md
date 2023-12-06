@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760899605493 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:04:52 |
+| Lobby ID | 28551760901160176 |
+| Players | 4/10 |
+| Host Name | EL GATO BOB |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:08:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760901900177 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | No Preasure Fest |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:09:33 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760902487089 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:10:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760901160176 |
-| Players | 5/10 |
-| Host Name | EL GATO BOB |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:08:04 |
 
 
 |  | epic_boss_fight_nightmare |
