@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760969315240 |
-| Players | 19/24 |
-| Host Name | Kenny |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:14:56 |
+| Lobby ID | 28551760970855610 |
+| Players | 5/10 |
+| Host Name | Gargulia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:18:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760970646602 |
-| Players | 10/15 |
-| Host Name | Giustino Dell'Ostia |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:17:48 |
+| Lobby ID | 28551760971107104 |
+| Players | 2/15 |
+| Host Name | ChrryI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:18:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760969842841 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Mode:Извечный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:16:04 |
@@ -32,34 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760962578279 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:00:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28551760970055676 |
-| Players | 5/10 |
-| Host Name | woe 心から |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:16:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760970790846 |
-| Players | 1/8 |
-| Host Name | COVID 19 |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:18:06 |
+| Lobby ID | 28551760971206347 |
+| Players | 2/24 |
+| Host Name | Greggy Liwanag |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:18:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28551760968068625 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 年轻人不气盛叫年轻人吗 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:12:14 |
