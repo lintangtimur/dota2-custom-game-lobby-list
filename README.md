@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551761026711548 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Kiro Wolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:52:59 |
@@ -38,42 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 16:28:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761026272006 |
-| Players | 8/10 |
-| Host Name | Dissonans |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:52:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551761024856718 |
-| Players | 3/10 |
-| Host Name | Radical |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:50:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28551761023561013 |
-| Players | 23/24 |
-| Host Name | Rivalle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:48:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28551761026251535 |
-| Players | 6/15 |
-| Host Name | Nemro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 16:52:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551761026502181 |
@@ -81,6 +45,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | John the Jester |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 16:52:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551761024856718 |
+| Players | 4/10 |
+| Host Name | Radical |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:50:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28551761026251535 |
+| Players | 10/15 |
+| Host Name | Nemro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:52:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28551761027045168 |
+| Players | 7/10 |
+| Host Name | Заснеженная Елка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:53:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28551761027266030 |
+| Players | 1/24 |
+| Host Name | Plague |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 6, 2023 16:53:50 |
 
 
 |  | epic_boss_fight_normal |
