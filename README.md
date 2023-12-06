@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760966906098 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Cooper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:09:41 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760967207439 |
-| Players | 9/15 |
-| Host Name | BEZDARb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:10:20 |
+| Lobby ID | 28551760967841164 |
+| Players | 2/15 |
+| Host Name | Monkey Queen |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:11:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,27 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760966377146 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | p1xeLe❤ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:08:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28551760966799044 |
-| Players | 1/8 |
-| Host Name | unicornparadise |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:09:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760967183514 |
-| Players | 7/10 |
-| Host Name | Лии |
+| Lobby ID | 28551760967738752 |
+| Players | 1/7 |
+| Host Name | ._. Переулок Между Булок ._. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:10:17 |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:11:30 |
 
 
