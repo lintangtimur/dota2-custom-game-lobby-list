@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760944164255 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:27:33 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760944621721 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ϬỢթՅӸŬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:28:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28551760942944394 |
-| Players | 6/8 |
-| Host Name | Puk |
+| Lobby ID | 28551760945220441 |
+| Players | 7/10 |
+| Host Name | フリーク |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:25:23 |
+| Lobby Creation Time | Wednesday, December 6, 2023 14:29:26 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760941587347 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ketamine girl |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:22:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760945281180 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 高育良书记 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:29:32 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:27:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28551760945220441 |
-| Players | 3/10 |
-| Host Name | フリーク |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:29:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 14:22:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28551760944924780 |
-| Players | 1/5 |
-| Host Name | Orionthestar |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 6, 2023 14:28:54 |
 
 
 |  | epic_boss_fight_normal |
