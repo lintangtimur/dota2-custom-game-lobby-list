@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760977430640 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:31:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28551760975619846 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Oncom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:27:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760979314836 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Cooper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:34:45 |
@@ -31,10 +31,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28551760979388895 |
-| Players | 3/15 |
-| Host Name | can't lose |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:34:53 |
+| Lobby ID | 28551760979487538 |
+| Players | 1/15 |
+| Host Name | tipitoxa_ttv |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:35:04 |
 
 
