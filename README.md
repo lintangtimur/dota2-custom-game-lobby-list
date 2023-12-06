@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28551760922600298 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:48:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760921762028 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | raron |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:47:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760921577985 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Cancell ^^ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:46:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760922802842 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | BodS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:48:57 |
@@ -74,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:49:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760922937839 |
-| Players | 7/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:49:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28551760922987275 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Enough |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:49:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760921349288 |
-| Players | 9/10 |
-| Host Name | VURP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:46:20 |
+| Lobby ID | 28551760923461643 |
+| Players | 1/8 |
+| Host Name | Mr crash |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:50:09 |
 
 
