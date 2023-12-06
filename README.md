@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760972232807 |
-| Players | 7/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:21:07 |
+| Lobby ID | 28551760972974341 |
+| Players | 3/8 |
+| Host Name | Goblins |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 6, 2023 15:22:39 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28551760971206347 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Greggy Liwanag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:18:59 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Куни для твоей мамы |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 6, 2023 15:21:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760972974341 |
-| Players | 2/8 |
-| Host Name | Goblins |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 6, 2023 15:22:39 |
 
 
 |  | epic_boss_fight_nightmare |
