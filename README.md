@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 6, 2023 13:11:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28551760922987275 |
-| Players | 14/15 |
-| Host Name | Enough |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:49:17 |
+| Lobby ID | 28551760923884884 |
+| Players | 3/8 |
+| Host Name | обезьянище |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 6, 2023 13:50:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BomBiTa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 6, 2023 13:49:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28551760923884884 |
-| Players | 1/8 |
-| Host Name | обезьянище |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 6, 2023 13:50:55 |
 
 
