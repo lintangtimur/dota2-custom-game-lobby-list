@@ -32,73 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146602284672 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 22:30:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146598679357 |
-| Players | 2/15 |
-| Host Name | alucard. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:27:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146602967559 |
-| Players | 4/10 |
-| Host Name | 404 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:31:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146599517190 |
-| Players | 20/24 |
-| Host Name | 风显 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:28:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146601483718 |
-| Players | 4/8 |
-| Host Name | darK |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:29:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146600476519 |
-| Players | 1/8 |
-| Host Name | zxcvgaga |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:28:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146602619801 |
-| Players | 2/10 |
-| Host Name | BuddySyciov |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:31:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146600092347 |
-| Players | 14/15 |
-| Host Name | 🥀十億年 💔 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 22:28:37 |
 
 
 |  | ot3_gardens_duo |
@@ -110,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 22:30:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146602573302 |
-| Players | 7/8 |
-| Host Name | naga_Invoker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:30:58 |
+| Lobby ID | 28553146602967559 |
+| Players | 9/10 |
+| Host Name | 404 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 22:31:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146599517190 |
+| Players | 22/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 22:28:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,30 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 22:31:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146602685883 |
-| Players | 4/15 |
-| Host Name | Gay Fish |
+| Lobby ID | 28553146600476519 |
+| Players | 1/8 |
+| Host Name | zxcvgaga |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:31:04 |
+| Lobby Creation Time | Thursday, December 7, 2023 22:28:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146601964690 |
-| Players | 13/15 |
-| Host Name | Игрок. |
+| Lobby ID | 28553146603606121 |
+| Players | 3/15 |
+| Host Name | HeDoq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:30:23 |
+| Lobby Creation Time | Thursday, December 7, 2023 22:31:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146603392001 |
+| Players | 2/8 |
+| Host Name | iruka sensei |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 22:31:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146600179850 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Костянтин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:28:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146603339357 |
+| Players | 3/10 |
+| Host Name | tonotbabi |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 7, 2023 22:31:42 |
 
 
