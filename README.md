@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146335764565 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:59:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146335530973 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:58:56 |
@@ -32,28 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146318989793 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Max Verstappen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146335960545 |
-| Players | 8/10 |
-| Host Name | JIGA(happy blessed marriage) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:59:32 |
+| Lobby ID | 28553146337076987 |
+| Players | 4/15 |
+| Host Name | puhveli |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 18:01:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146336258464 |
-| Players | 2/8 |
-| Host Name | Basuka Hands |
+| Players | 4/8 |
+| Host Name | слово пацана? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 17:59:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146337152499 |
+| Players | 3/10 |
+| Host Name | zxcruna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 18:01:11 |
 
 
 |  | epic_boss_fight_nightmare |
