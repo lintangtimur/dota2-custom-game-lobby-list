@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146395783464 |
-| Players | 8/10 |
-| Host Name | Nhe4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:14:24 |
+| Lobby ID | 28553146391504143 |
+| Players | 5/8 |
+| Host Name | Viking Adobo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 19:09:30 |
 
 
 |  | ot3_gardens_duo |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146397982981 |
-| Players | 5/8 |
-| Host Name | ABOBA BOY |
+| Lobby ID | 28553146398162355 |
+| Players | 8/8 |
+| Host Name | jb |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:16:53 |
+| Lobby Creation Time | Thursday, December 7, 2023 19:17:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146390269280 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | T y |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:08:05 |
@@ -59,45 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146396526015 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:15:16 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146398626739 |
+| Players | 1/24 |
+| Host Name | Fckend |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 19:17:35 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146397745597 |
-| Players | 12/15 |
-| Host Name | эщпощмак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:16:37 |
+| Lobby ID | 28553146398955664 |
+| Players | 2/15 |
+| Host Name | Я Енот,Сука! |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 19:17:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146391504143 |
-| Players | 6/8 |
-| Host Name | Viking Adobo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:09:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146398162355 |
-| Players | 1/8 |
-| Host Name | jb |
+| Lobby ID | 28553146399030785 |
+| Players | 3/8 |
+| Host Name | Sargeras |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:17:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146397383470 |
-| Players | 6/10 |
-| Host Name | SoGEKINGGG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:16:14 |
+| Lobby Creation Time | Thursday, December 7, 2023 19:18:01 |
 
 
