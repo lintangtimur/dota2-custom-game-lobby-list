@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146275666354 |
-| Players | 8/10 |
-| Host Name | Dell Pentium 4 quad core duo 2.0 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 7, 2023 16:25:30 |
+| Lobby ID | 28553146276087492 |
+| Players | 4/8 |
+| Host Name | Ferguson♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 7, 2023 16:26:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146273927613 |
-| Players | 5/10 |
-| Host Name | Flex |
+| Lobby ID | 28553146276455244 |
+| Players | 1/15 |
+| Host Name | FyFL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:22:38 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:26:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146276087492 |
-| Players | 3/8 |
-| Host Name | Ferguson♥ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 16:26:11 |
+| Lobby ID | 28553146276344103 |
+| Players | 4/8 |
+| Host Name | 喜喜 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:26:37 |
 
 
 |  | epic_boss_fight_nightmare |
