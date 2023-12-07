@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146481738387 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MOJO JOJO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 20:41:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146472786054 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | SSS |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 7, 2023 20:33:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146481052860 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Gilderoy Fickthart |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:41:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146479726740 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | WHAANCHAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:39:48 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 20:39:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146482312670 |
+| Players | 5/15 |
+| Host Name | stupid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:42:14 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146480127419 |
-| Players | 3/24 |
+| Lobby ID | 28553146482420922 |
+| Players | 1/24 |
 | Host Name | Ostapi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:40:11 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:42:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146482110782 |
+| Lobby ID | 28553146474230336 |
+| Players | 10/10 |
+| Host Name | ID : 氷 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 20:34:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146482501807 |
 | Players | 1/10 |
-| Host Name | 紫玉ねぎ |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, December 7, 2023 20:42:02 |
+| Host Name | noob team |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 7, 2023 20:42:25 |
 
 
