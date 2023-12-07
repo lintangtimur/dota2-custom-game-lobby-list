@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553146561695933 |
 | Players | 20/24 |
-| Host Name | PointBlank |
+| Host Name | Chisato |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 7, 2023 21:53:34 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146564219866 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | YUUTA |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 21:55:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146564753593 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | los dos estan por la escalera |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 21:56:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146564809383 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | АДСКИЙ САТАНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 21:56:19 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 21:56:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146565426378 |
-| Players | 2/24 |
-| Host Name | Brrrrrrrrrrrr |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 21:56:52 |
+| Lobby ID | 28553146565546501 |
+| Players | 4/15 |
+| Host Name | Фрилансер |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 21:56:58 |
 
 
 |  | epic_boss_fight_hard |
@@ -112,10 +112,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553146565456794 |
-| Players | 1/5 |
-| Host Name | 🤍☠ 454714745 |
+| Lobby ID | 28553146565662425 |
+| Players | 2/5 |
+| Host Name | Cory & Trevor |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 21:56:54 |
+| Lobby Creation Time | Thursday, December 7, 2023 21:57:05 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553146565907516 |
+| Players | 2/7 |
+| Host Name | Дон Нутело |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 21:57:18 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553146565946863 |
+| Players | 1/7 |
+| Host Name | KennyPaaa |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 21:57:20 |
 
 
