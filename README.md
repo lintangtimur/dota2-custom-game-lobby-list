@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146456466433 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Личность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:17:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | FernanDove |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146450120979 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | // EDUARDO GOOZU   // |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 20:11:27 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:56:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146457589465 |
-| Players | 4/10 |
-| Host Name | LADY_BAG |
+| Lobby ID | 28553146456519891 |
+| Players | 14/15 |
+| Host Name | женя барсетка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:18:44 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:17:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146455403610 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:16:36 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146456274376 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Rey Helado |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 20:17:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146458266012 |
+| Players | 2/8 |
+| Host Name | -balenci balenci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:19:24 |
 
 
 |  | epic_boss_fight_normal |
