@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146304126319 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Maverick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:12:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146295998190 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 16:59:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146304456611 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Gargulia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:12:54 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146304585643 |
-| Players | 3/8 |
-| Host Name | уебище |
+| Players | 2/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:13:07 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146305089461 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | f |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:13:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146304106573 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Autsayder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:12:21 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146304244756 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | zzZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:12:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146305347121 |
+| Players | 1/5 |
+| Host Name | F13 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:14:18 |
 
 
