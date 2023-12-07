@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146277041962 |
-| Players | 23/24 |
-| Host Name | eggsandwich |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:27:45 |
+| Lobby ID | 28553146279515500 |
+| Players | 5/8 |
+| Host Name | БАРАБАШАННЫЙ СВИН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:31:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146279200132 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Xuyatt.! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:31:18 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gliknot |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:31:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146279515500 |
-| Players | 5/8 |
-| Host Name | БАРАБАШАННЫЙ СВИН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:31:49 |
 
 
 |  | epic_boss_fight_challenger |
