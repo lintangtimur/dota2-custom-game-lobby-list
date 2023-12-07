@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553146278142171 |
 | Players | 2/8 |
-| Host Name | PES DA |
+| Host Name | HUMPA |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:29:34 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146278124665 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | >< |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:29:32 |
@@ -58,37 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146278249949 |
-| Players | 8/10 |
-| Host Name | Luntik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:29:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146278374848 |
-| Players | 1/8 |
-| Host Name | DeMeow |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 16:29:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146278570225 |
-| Players | 3/10 |
-| Host Name | Gargulia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:30:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28553146276668513 |
 | Players | 9/10 |
 | Host Name | Ksandr〤〤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:27:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146278570225 |
+| Players | 7/10 |
+| Host Name | Gargulia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:30:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146278714500 |
+| Players | 3/24 |
+| Host Name | Backi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 16:30:31 |
 
 
