@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146155709996 |
-| Players | 2/24 |
+| Players | 13/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:45:15 |
@@ -31,18 +31,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146154082083 |
-| Players | 5/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 12:41:50 |
+| Lobby ID | 28553146156859821 |
+| Players | 1/8 |
+| Host Name | Koma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 12:47:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146155293099 |
-| Players | 10/24 |
-| Host Name | ДАВИД |
+| Players | 17/24 |
+| Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 12:44:22 |
 
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146156160795 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Gregor Samsa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:46:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146156409079 |
-| Players | 4/8 |
-| Host Name | GoDDaD |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 12:46:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146156463487 |
-| Players | 4/8 |
-| Host Name | Sumin en 4 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 12:46:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | лави лунарный гле |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:42:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146157014225 |
+| Players | 1/5 |
+| Host Name | dyrachoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 12:47:55 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553146157018670 |
+| Players | 1/7 |
+| Host Name | jusplayin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 7, 2023 12:47:56 |
 
 
