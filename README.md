@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146448120050 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | @Casper_zzZ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:09:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146448194785 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Пос. Шмаляево |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:09:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146446708339 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:08:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146448289014 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Ameno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:09:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146448466790 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:09:52 |
@@ -110,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:27:16 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146448811186 |
+| Players | 1/5 |
+| Host Name | Liberty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:10:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146448473241 |
-| Players | 1/10 |
+| Lobby ID | 28553146448826871 |
+| Players | 2/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:09:52 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:10:13 |
 
 
