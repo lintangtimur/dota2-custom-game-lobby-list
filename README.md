@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146467120617 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Анлак |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:27:56 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:56:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146469544339 |
-| Players | 12/15 |
-| Host Name | баночка гачички |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:30:14 |
+| Lobby ID | 28553146471663215 |
+| Players | 5/8 |
+| Host Name | LGTMoon阪大qwe |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 20:25:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146471669398 |
+| Players | 1/15 |
+| Host Name | 魔袄毛 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146470503302 |
-| Players | 6/8 |
-| Host Name | kyford |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:31:09 |
+| Lobby ID | 28553146471708803 |
+| Players | 4/8 |
+| Host Name | AVGANISTAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:17 |
 
 
 |  | epic_boss_fight_normal |
