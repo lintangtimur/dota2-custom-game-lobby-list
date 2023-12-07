@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146150362721 |
-| Players | 9/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 12:34:06 |
+| Lobby ID | 28553146152714568 |
+| Players | 1/8 |
+| Host Name | Maleyvich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 12:38:58 |
 
 
 |  | ot3_gardens_duo |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 12:03:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146152202218 |
-| Players | 6/8 |
-| Host Name | Hoflayt.高频 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 12:37:55 |
+| Lobby ID | 28553146152790398 |
+| Players | 2/24 |
+| Host Name | Mike Oxlong |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 12:39:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146152020337 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Tsubasa Amami |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:37:33 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146149268643 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 12:31:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146151749504 |
-| Players | 6/15 |
-| Host Name | Bloodscourge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 12:36:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146146305885 |
-| Players | 1/10 |
-| Host Name | _Ferxxo_ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 12:25:56 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | poo-zinping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:37:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146146305885 |
+| Players | 7/10 |
+| Host Name | _Ferxxo_ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 12:25:56 |
 
 
 |  | epic_boss_fight_nightmare |
