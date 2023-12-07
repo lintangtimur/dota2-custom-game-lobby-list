@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146294725039 |
-| Players | 5/8 |
-| Host Name | absolution. |
+| Lobby ID | 28553146295008015 |
+| Players | 7/10 |
+| Host Name | Dj.SF |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:57:01 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:57:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,31 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:56:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146291730927 |
-| Players | 20/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:52:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146295008015 |
-| Players | 5/10 |
-| Host Name | Dj.SF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:57:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146295295565 |
-| Players | 4/8 |
-| Host Name | В ЖОПУ ДАВАТЕЛЬ |
+| Lobby ID | 28553146293980772 |
+| Players | 7/8 |
+| Host Name | Ymg |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:57:57 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:55:46 |
 
 
 |  | epic_boss_fight_nightmare |
