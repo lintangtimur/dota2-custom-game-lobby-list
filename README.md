@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146150083940 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | nvxe |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 12:33:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146150806340 |
-| Players | 1/8 |
-| Host Name | Ivan from Hell |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 12:35:02 |
+| Lobby ID | 28553146151430216 |
+| Players | 13/24 |
+| Host Name | LION EL MESI |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 12:36:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146149268643 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 12:31:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146148757060 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | niotartnecnoC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:30:47 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 12:32:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146148593915 |
-| Players | 21/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 12:30:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146148401329 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:30:04 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146150192436 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | YangYang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:33:46 |
