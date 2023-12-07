@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:16:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146358988350 |
-| Players | 14/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:29:57 |
+| Lobby ID | 28553146360346469 |
+| Players | 5/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 18:31:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146301506560 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Vitrex1111 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146359193059 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PerpleXity_ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 18:30:13 |
@@ -49,35 +49,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146359400193 |
-| Players | 7/8 |
-| Host Name | СТРАШНЫЙ РУИН |
+| Lobby ID | 28553146360324961 |
+| Players | 2/8 |
+| Host Name | кещьбек |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:30:29 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:31:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146359364912 |
-| Players | 1/10 |
-| Host Name | avestruz |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 18:30:26 |
+| Lobby ID | 28553146360598689 |
+| Players | 1/24 |
+| Host Name | jnikko |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 7, 2023 18:32:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146359407266 |
-| Players | 7/10 |
-| Host Name | прошманда |
+| Lobby ID | 28553146360645061 |
+| Players | 1/15 |
+| Host Name | Raureif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:30:30 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:32:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146360646013 |
+| Players | 4/8 |
+| Host Name | мактрахер_2008 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 18:32:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146359045104 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | city HUNTER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:30:02 |
