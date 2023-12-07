@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146281787046 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Eblis |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:35:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146281915861 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | zangetsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:35:47 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146282640057 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | The Last Element_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:36:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146281059647 |
-| Players | 14/15 |
-| Host Name | НИК НЕВМЕЩАЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:34:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146282606438 |
-| Players | 2/8 |
-| Host Name | taha |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 7, 2023 16:36:56 |
+| Lobby ID | 28553146283101666 |
+| Players | 3/8 |
+| Host Name | miraвыкакал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:37:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146283223838 |
+| Players | 2/10 |
+| Host Name | Dell Pentium 4 quad core duo 2.0 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 7, 2023 16:37:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:32:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146282998460 |
+| Players | 2/10 |
+| Host Name | TornadoMekusMekusmuna yan Insan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:37:35 |
 
 
