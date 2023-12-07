@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146148433184 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:30:08 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146147626476 |
-| Players | 10/15 |
-| Host Name | Violador de Venecas |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 12:28:30 |
+| Lobby ID | 28553146149268643 |
+| Players | 2/15 |
+| Host Name | killjoy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 12:31:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146147597213 |
-| Players | 8/10 |
-| Host Name | dogical |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 12:28:27 |
+| Lobby ID | 28553146148757060 |
+| Players | 4/10 |
+| Host Name | niotartnecnoC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 12:30:47 |
 
 
 |  | ot3_gardens_duo |
@@ -77,34 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146148593915 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:30:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146148757060 |
-| Players | 1/10 |
-| Host Name | niotartnecnoC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 12:30:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146148848894 |
-| Players | 1/15 |
-| Host Name | 先杀我队友 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, December 7, 2023 12:30:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146148401329 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:30:04 |
