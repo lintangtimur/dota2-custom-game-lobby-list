@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146163393262 |
-| Players | 7/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 13:01:30 |
+| Lobby ID | 28553146168241043 |
+| Players | 5/8 |
+| Host Name | Gavin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 13:11:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146135322585 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:03:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146167533364 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 13:10:06 |
@@ -47,31 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 13:06:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146167985497 |
+| Players | 9/24 |
+| Host Name | Komm, süßer Tod |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 13:11:01 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146163658182 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 13:02:06 |
+| Lobby ID | 28553146168204783 |
+| Players | 3/10 |
+| Host Name | Waste |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 13:11:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146167383495 |
-| Players | 1/15 |
-| Host Name | Gregor Samsa |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 13:09:48 |
+| Lobby ID | 28553146168299878 |
+| Players | 2/15 |
+| Host Name | Hell's Paradise |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 13:11:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146167985497 |
-| Players | 2/24 |
-| Host Name | Komm, süßer Tod |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 13:11:01 |
+| Lobby ID | 28553146168404528 |
+| Players | 1/15 |
+| Host Name | =LaPetiteMort= |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 7, 2023 13:11:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -87,7 +96,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553146164050378 |
 | Players | 3/10 |
-| Host Name | 晴宝宝 |
+| Host Name | Fulgrim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 13:02:56 |
 
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146166504647 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 13:08:01 |
