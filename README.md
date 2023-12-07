@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146066761502 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Goodbai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 09:42:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146087037409 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | EgorVor228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 10:23:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146087825184 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Virtual Energy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 10:24:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146087206962 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ⎾ベアトリーチェ⏌ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:23:40 |
@@ -59,43 +59,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146086822051 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 10:22:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146086495880 |
-| Players | 15/24 |
-| Host Name | D-MF |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 10:22:12 |
+| Lobby ID | 28553146087937064 |
+| Players | 4/15 |
+| Host Name | dllm |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 10:25:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146087804993 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Perrolol |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 10:24:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146087865670 |
-| Players | 4/8 |
-| Host Name | PICKEO-HVDS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 10:25:03 |
+| Lobby ID | 28553146088269525 |
+| Players | 1/24 |
+| Host Name | Jotun- |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 7, 2023 10:25:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146085636221 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 10:20:24 |
