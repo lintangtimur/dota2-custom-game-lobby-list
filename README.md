@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146318989793 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Max Verstappen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146337076987 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | puhveli |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 18:01:05 |
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146337536587 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | shmunky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:01:42 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146337721539 |
-| Players | 1/10 |
-| Host Name | Gfif |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 18:01:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146337726046 |
-| Players | 4/8 |
-| Host Name | ehыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:01:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146332615192 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | kael |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:54:54 |
