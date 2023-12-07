@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146420815877 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:41:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146419836065 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Chiki Briki Iv Damke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:40:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | Risas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146421657973 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | something |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:42:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146421577953 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | TORONTOADIDAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 19:42:33 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146421941810 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | За жетонами |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 19:42:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146421954122 |
+| Players | 1/8 |
+| Host Name | MOJO JOJO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 19:42:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146418971128 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | takina inoue is not my wife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:39:48 |
