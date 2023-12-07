@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146303380034 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:11:11 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146303648195 |
-| Players | 5/10 |
-| Host Name | Clamyツ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:11:37 |
+| Lobby ID | 28553146304056545 |
+| Players | 3/10 |
+| Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:12:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146301953605 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | круасамочка |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:55 |
@@ -56,28 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146303926917 |
-| Players | 6/10 |
-| Host Name | Отважный Томми |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:12:04 |
+| Lobby ID | 28553146304000599 |
+| Players | 1/8 |
+| Host Name | AW.shadow of past956 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 7, 2023 17:12:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146303934716 |
-| Players | 2/15 |
+| Lobby ID | 28553146304034354 |
+| Players | 3/15 |
 | Host Name | yospelun Саратов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:12:05 |
+| Lobby Creation Time | Thursday, December 7, 2023 17:12:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146304048322 |
+| Players | 2/10 |
+| Host Name | I'm sleeping |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:12:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146299886855 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Zack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:05:35 |
