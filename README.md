@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146208133873 |
-| Players | 8/10 |
-| Host Name | Dj Onny |
+| Lobby ID | 28553146209107319 |
+| Players | 4/10 |
+| Host Name | JD00 grand-rust |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 14:28:28 |
+| Lobby Creation Time | Thursday, December 7, 2023 14:30:17 |
 
 
 |  | ot3_desert_octet |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146208537489 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | MAHSWEN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 14:29:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146209324990 |
+| Players | 1/8 |
+| Host Name | PERIS@DE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 14:30:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146203066588 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 14:18:58 |
