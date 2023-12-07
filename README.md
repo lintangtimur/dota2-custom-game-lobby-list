@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146310738392 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:22:46 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146318295141 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | clielaceanguarl |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:34:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146315970205 |
-| Players | 21/24 |
-| Host Name | sap |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:30:45 |
+| Lobby ID | 28553146319186414 |
+| Players | 1/8 |
+| Host Name | сигаретный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:35:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146318472469 |
+| Lobby ID | 28553146318989793 |
 | Players | 1/15 |
-| Host Name | Small Balls |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 7, 2023 17:34:28 |
+| Host Name | Max Verstappen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146318644589 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | arX |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:34:43 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146318989793 |
-| Players | 2/15 |
-| Host Name | Max Verstappen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
+| Lobby ID | 28553146319418327 |
+| Players | 1/15 |
+| Host Name | Small Balls |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 7, 2023 17:35:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146319304226 |
+| Players | 3/8 |
+| Host Name | Barebuh |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:35:41 |
 
 
 |  | epic_boss_fight_nightmare |
