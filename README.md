@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146465466886 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | Bart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:26:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146464530877 |
-| Players | 1/24 |
-| Host Name | wasd! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:25:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146471246940 |
-| Players | 4/10 |
-| Host Name | YaMaKK |
+| Lobby ID | 28553146471708803 |
+| Players | 4/8 |
+| Host Name | AVGANISTAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:31:51 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146471880306 |
+| Players | 5/15 |
+| Host Name | IOVI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Kyle |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146471663215 |
-| Players | 5/8 |
-| Host Name | LGTMoon阪大qwe |
+| Lobby ID | 28553146471700042 |
+| Players | 6/8 |
+| Host Name | teca |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:32:15 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 20:30:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146465088393 |
-| Players | 6/8 |
-| Host Name | Bajador de Pepa Profesional |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 20:25:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146471669398 |
-| Players | 1/15 |
-| Host Name | 魔袄毛 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 7, 2023 20:32:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146471708803 |
-| Players | 4/8 |
-| Host Name | AVGANISTAN |
+| Lobby ID | 28553146446708339 |
+| Players | 23/24 |
+| Host Name | MAGA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:32:17 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:08:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146472253862 |
+| Players | 1/10 |
+| Host Name | hipssing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:32:48 |
 
 
 |  | epic_boss_fight_normal |
