@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146317113745 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:32:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146327586210 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | (Α)λυσσα |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:47:48 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146318989793 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Max Verstappen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146326935174 |
-| Players | 6/10 |
-| Host Name | Talant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:46:53 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:47:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146327920656 |
+| Players | 2/10 |
+| Host Name | 17 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:48:18 |
 
 
 |  | epic_boss_fight_hard |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146327680439 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Finn |
 | Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:47:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146327683342 |
+| Players | 1/5 |
+| Host Name | ayyyf |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:47:57 |
 
 
