@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146287874121 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Backi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 16:45:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146288232848 |
-| Players | 8/10 |
-| Host Name | 110 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:46:15 |
+| Lobby ID | 28553146286145029 |
+| Players | 23/24 |
+| Host Name | ^^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:42:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,43 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146288473051 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Smokey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:46:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146286145029 |
-| Players | 23/24 |
-| Host Name | ^^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:42:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146288017227 |
-| Players | 13/15 |
-| Host Name | Richard Rahl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:45:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146288669454 |
-| Players | 4/8 |
-| Host Name | Мусораб Ляди |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:46:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146287582504 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Mr. PoTato |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 16:45:10 |
@@ -110,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:46:03 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553146288742138 |
+| Players | 1/7 |
+| Host Name | david |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:47:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146288597512 |
+| Lobby ID | 28553146288915228 |
 | Players | 1/10 |
-| Host Name | PIKONEE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:46:51 |
+| Host Name | Фе́ликс  Дзержи́н |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 7, 2023 16:47:23 |
 
 
