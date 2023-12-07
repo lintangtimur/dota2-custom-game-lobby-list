@@ -11,60 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146271477768 |
-| Players | 13/24 |
-| Host Name | Bniuoas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:18:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146267683998 |
-| Players | 3/24 |
-| Host Name | 步枪步.top1.电竞让你很 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:12:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146261135090 |
-| Players | 6/15 |
-| Host Name | כבשים |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 16:01:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146270947949 |
-| Players | 5/10 |
-| Host Name | Tentek balaqai |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 16:17:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146272535092 |
-| Players | 12/15 |
-| Host Name | niWo |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:20:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146272844822 |
-| Players | 4/8 |
-| Host Name | Шкипер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:20:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146272896076 |
@@ -74,28 +20,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:20:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146273046641 |
-| Players | 4/8 |
-| Host Name | Мусораб Ляди |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:21:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146273063590 |
-| Players | 3/8 |
-| Host Name | equality is just a fantasy |
+| Lobby ID | 28553146267683998 |
+| Players | 2/24 |
+| Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:21:13 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:12:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146261135090 |
+| Players | 7/15 |
+| Host Name | כבשים |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 16:01:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146270947949 |
+| Players | 5/10 |
+| Host Name | шлюхагон 42 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 16:17:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146273313846 |
+| Players | 5/15 |
+| Host Name | Тащер в макасах |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:21:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146273293100 |
+| Players | 3/10 |
+| Host Name | Blackout |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:21:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146273555688 |
+| Players | 1/24 |
+| Host Name | ⎾ベアトリーチェ⏌ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:22:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146270713058 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Deadlyiel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:17:21 |
@@ -104,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146270180603 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:16:30 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553146273143057 |
-| Players | 2/7 |
-| Host Name | Bipolarbear |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 7, 2023 16:21:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146273148780 |
-| Players | 1/5 |
-| Host Name | VETERAN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:21:21 |
 
 
