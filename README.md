@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146373299173 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Quick Gun Murugan |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 7, 2023 18:47:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146373181629 |
-| Players | 9/10 |
-| Host Name | falauter132 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:47:44 |
+| Lobby ID | 28553146373801621 |
+| Players | 13/15 |
+| Host Name | Nigma.Miracle- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 18:48:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,28 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146373287070 |
-| Players | 11/15 |
-| Host Name | Яспер Моглот (Dutch) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:47:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146373438032 |
-| Players | 7/8 |
-| Host Name | У MEНЯ TOЖE ECTЬ ПTИЧKИ |
+| Lobby ID | 28553146373845607 |
+| Players | 6/8 |
+| Host Name | Кхурбан Кхаджиев |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:48:02 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:48:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146373419495 |
-| Players | 6/24 |
+| Players | 15/24 |
 | Host Name | VanAugurr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:48:01 |
@@ -63,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 레오나르도 |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 7, 2023 18:43:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146373854812 |
+| Players | 1/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:48:33 |
 
 
