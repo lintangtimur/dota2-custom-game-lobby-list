@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146274895100 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Мистер  Чикатило |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:24:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146261135090 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | כבשים |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 16:01:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146273927613 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Flex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:22:38 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146275183247 |
-| Players | 2/8 |
-| Host Name | desmond_doss |
+| Players | 1/8 |
+| Host Name | holyweed |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, December 7, 2023 16:24:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146275454275 |
+| Players | 3/24 |
+| Host Name | OUTbreak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:25:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:16:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146275388549 |
-| Players | 1/5 |
-| Host Name | Alien Where??? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:25:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146275399207 |
-| Players | 3/10 |
-| Host Name | иван тараска |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:25:03 |
 
 
