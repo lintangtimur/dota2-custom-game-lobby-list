@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146442120112 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Ludanto |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:03:36 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146429692972 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Juls |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:51:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146441659283 |
-| Players | 5/8 |
-| Host Name | 911 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:03:09 |
+| Lobby ID | 28553146442830148 |
+| Players | 2/15 |
+| Host Name | 五星陈冠希 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 7, 2023 20:04:18 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146421770142 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:42:45 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146434961112 |
-| Players | 2/24 |
-| Host Name | eggsandwich |
+| Players | 1/24 |
+| Host Name | คุวยไรโยม |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 7, 2023 19:56:25 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146425545897 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:46:43 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146440599571 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | The Pie of Sauron |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:02:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146442329352 |
-| Players | 3/10 |
-| Host Name | zerg |
+| Lobby ID | 28553146442885840 |
+| Players | 2/15 |
+| Host Name | vskrilsya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:03:49 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:04:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:03:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146442565935 |
+| Players | 4/10 |
+| Host Name | Sea Server Cancer |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 7, 2023 20:04:03 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553146439591510 |
+| Players | 2/7 |
+| Host Name | Can you feel my heart? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:06 |
 
 
