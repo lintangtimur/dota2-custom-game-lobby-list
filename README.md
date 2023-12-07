@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553146131389299 |
 | Players | 2/8 |
-| Host Name | Grizzly |
+| Host Name | ^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 11:55:54 |
 
@@ -33,18 +33,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553146132372510 |
 | Players | 3/8 |
-| Host Name | Jota |
+| Host Name | Fear |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 11:57:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146132338887 |
-| Players | 1/10 |
-| Host Name | avgn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 11:57:49 |
+| Lobby ID | 28553146131291160 |
+| Players | 6/10 |
+| Host Name | P福特メ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:55:42 |
 
 
 |  | ot3_desert_octet |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146131291160 |
-| Players | 6/10 |
-| Host Name | P福特メ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 11:55:42 |
+| Lobby ID | 28553146132846410 |
+| Players | 1/10 |
+| Host Name | avgn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 11:58:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146131601699 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | WTF |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 7, 2023 11:56:20 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553146132131047 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | Kiokasuyetsu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 11:57:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146132502690 |
+| Players | 3/10 |
+| Host Name | Mr Jack Bean |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 11:58:09 |
 
 
