@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146377296416 |
-| Players | 6/10 |
-| Host Name | Show me the skill |
+| Lobby ID | 28553146377465511 |
+| Players | 6/8 |
+| Host Name | LIBERTY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:52:42 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:52:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146375706532 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | minmin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:50:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146377428757 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Ну очень слабый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:52:52 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146377465511 |
+| Lobby ID | 28553146377818559 |
 | Players | 1/8 |
-| Host Name | LIBERTY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:52:55 |
+| Host Name | NAGETS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:53:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Papa RANDOM |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:49:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146377668151 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:53:09 |
 
 
