@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146464530877 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | wasd! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:25:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146446708339 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:08:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ElemenT |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146450120979 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | // EDUARDO GOOZU   // |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 20:11:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146464214282 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | sudo rm -rf  /* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:25:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146460598308 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | TerribleFate |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 20:21:40 |
@@ -86,46 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146465743304 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | VBog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:26:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146465742099 |
-| Players | 6/15 |
-| Host Name | nunlord |
+| Lobby ID | 28553146466183893 |
+| Players | 9/10 |
+| Host Name | Archangel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:26:37 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:27:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146465875505 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 🐐G.O.A.T🐐 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:26:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146466055898 |
-| Players | 4/8 |
-| Host Name | ПОПАЛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:26:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146463822536 |
-| Players | 4/5 |
-| Host Name | Herald Enjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:24:46 |
+| Lobby ID | 28553146466409771 |
+| Players | 1/15 |
+| Host Name | 天才麻将少年 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 7, 2023 20:27:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -137,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 20:26:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553146465992408 |
-| Players | 1/10 |
-| Host Name | Lie |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 7, 2023 20:26:51 |
+| Lobby ID | 28553146466278291 |
+| Players | 1/5 |
+| Host Name | ЗИМА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:27:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146463822536 |
+| Players | 4/5 |
+| Host Name | Herald Enjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 20:24:46 |
 
 
