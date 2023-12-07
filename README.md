@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146047205395 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | wums |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 7, 2023 09:00:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146045407817 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bob Denircrow |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 7, 2023 08:56:15 |
@@ -32,64 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146046347458 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | ressentiment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 08:58:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146046978440 |
-| Players | 6/8 |
-| Host Name | Depressive Player |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 08:59:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146045561376 |
-| Players | 20/24 |
-| Host Name | Enma < |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 08:56:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146046634037 |
-| Players | 7/15 |
-| Host Name | I Have No Enemies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 08:59:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146045707243 |
-| Players | 9/10 |
-| Host Name | ZдраVствуй СалоРе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 08:56:56 |
+| Lobby ID | 28553146047698639 |
+| Players | 1/15 |
+| Host Name | Mr Cold ☺ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 09:01:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146047297800 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | HERALDO MACHADO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 09:00:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146047334979 |
-| Players | 5/10 |
-| Host Name | kekegozu |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 09:00:47 |
+| Lobby ID | 28553146046634037 |
+| Players | 11/15 |
+| Host Name | I Have No Enemies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 08:59:03 |
 
 
 |  | ot3_gardens_duo |
@@ -101,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 09:00:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146043308130 |
-| Players | 8/10 |
-| Host Name | Noobiee |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 08:51:28 |
+| Lobby ID | 28553146047696494 |
+| Players | 1/10 |
+| Host Name | да |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 09:01:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146047699929 |
+| Players | 5/15 |
+| Host Name | Po |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 09:01:40 |
 
 
