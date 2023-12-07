@@ -2,37 +2,37 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146093625664 |
-| Players | 9/10 |
-| Host Name | herchell222 |
+| Lobby ID | 28553146094736066 |
+| Players | 6/8 |
+| Host Name | Carebear |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 10:36:53 |
+| Lobby Creation Time | Thursday, December 7, 2023 10:39:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146094446469 |
-| Players | 2/15 |
-| Host Name | arX |
+| Players | 3/15 |
+| Host Name | kötsibëu |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:38:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146093494675 |
-| Players | 5/8 |
-| Host Name | .DETH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 10:36:37 |
+| Lobby ID | 28553146094954288 |
+| Players | 7/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 10:39:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146087206962 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Flameismyname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:23:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146092847702 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 7, 2023 10:35:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146093606700 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | House |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:36:51 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146093639045 |
-| Players | 4/24 |
+| Players | 14/24 |
 | Host Name | DaRk_MaNu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 10:36:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146093176900 |
-| Players | 7/8 |
-| Host Name | Tipsybow♪ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 10:35:58 |
 
 
 |  | epic_boss_fight_nightmare |
