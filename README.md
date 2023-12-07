@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146027572085 |
-| Players | 10/15 |
-| Host Name | Buğra |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 08:16:09 |
+| Lobby ID | 28553146028109437 |
+| Players | 3/15 |
+| Host Name | Ninguém |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 7, 2023 08:17:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,25 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146027807027 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Sband_Mirand |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 08:16:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146028024841 |
+| Players | 3/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 08:17:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146027942328 |
+| Lobby ID | 28553146028301007 |
 | Players | 1/15 |
-| Host Name | DTU.Shroud |
+| Host Name | maria.alexandra |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 08:17:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146028396238 |
+| Players | 1/24 |
+| Host Name | Kicho |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 08:16:58 |
+| Lobby Creation Time | Thursday, December 7, 2023 08:17:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146024766418 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Aria |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 08:09:57 |
