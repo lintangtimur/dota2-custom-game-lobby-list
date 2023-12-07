@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:21:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146314844571 |
-| Players | 7/10 |
-| Host Name | Шайлушай |
+| Lobby ID | 28553146315484789 |
+| Players | 2/8 |
+| Host Name | Samarskiy traktorniy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:29:02 |
+| Lobby Creation Time | Thursday, December 7, 2023 17:30:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146313592608 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Series |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:27:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146315220308 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Ed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:29:36 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146315299081 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Мамут Рахал |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 17:29:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146315484789 |
-| Players | 2/8 |
-| Host Name | Samarskiy traktorniy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:30:01 |
 
 
 |  | epic_boss_fight_nightmare |
