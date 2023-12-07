@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146114599472 |
-| Players | 1/8 |
-| Host Name | الزنجي |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 11:21:41 |
+| Lobby ID | 28553146115757249 |
+| Players | 1/15 |
+| Host Name | Chumamee Mu Nien Yo ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146114194135 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 11:20:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146115433909 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Mode: Sonichu Afterdark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146115552205 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | ГАСТРИТБАЙТЕР |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:41 |
@@ -41,16 +41,88 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146115261555 |
-| Players | 2/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146115879773 |
+| Players | 1/15 |
+| Host Name | lLitOl |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146115815688 |
+| Players | 8/24 |
+| Host Name | Toshiro... |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146116058629 |
+| Players | 2/24 |
+| Host Name | Everest |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146116059881 |
+| Players | 8/15 |
+| Host Name | Hubert |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146116152254 |
+| Players | 1/10 |
+| Host Name | TUPELADA |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146114890699 |
+| Players | 14/15 |
+| Host Name | easy to play against |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 11:22:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146116145009 |
+| Players | 1/8 |
+| Host Name | SabrosonxD322 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146116153046 |
+| Players | 2/10 |
+| Host Name | Fuck Love |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:56 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146113391590 |
-| Players | 4/5 |
+| Players | 2/5 |
 | Host Name | Kiras |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 11:19:09 |
@@ -59,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146115663741 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146115783683 |
+| Players | 2/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:10 |
 
 
