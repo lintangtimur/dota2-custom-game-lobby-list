@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146552865999 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 21:45:43 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146554599459 |
-| Players | 4/24 |
-| Host Name | Hamich |
+| Players | 6/24 |
+| Host Name | Miller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 21:47:15 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146556605108 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Homealone |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 21:49:01 |
@@ -65,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 21:44:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146556723205 |
+| Players | 1/10 |
+| Host Name | optiqd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 21:49:08 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146554921364 |
-| Players | 15/15 |
-| Host Name | Би-Ба |
+| Lobby ID | 28553146556857257 |
+| Players | 3/15 |
+| Host Name | htern1k |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 21:47:32 |
+| Lobby Creation Time | Thursday, December 7, 2023 21:49:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146556864495 |
+| Players | 5/8 |
+| Host Name | ДЕД ДИДЖАЛЯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 21:49:15 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 🗣 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 21:47:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146555815626 |
-| Players | 1/5 |
-| Host Name | Квашня |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 21:48:20 |
 
 
