@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146258675902 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | brethy. |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 15:57:36 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146257058029 |
-| Players | 7/8 |
-| Host Name | легенда |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 15:54:55 |
+| Lobby ID | 28553146258614954 |
+| Players | 1/8 |
+| Host Name | Amason |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 15:57:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146258126033 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | bro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 15:56:41 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:57:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146258614954 |
-| Players | 1/8 |
-| Host Name | Amason |
+| Lobby ID | 28553146259000091 |
+| Players | 4/15 |
+| Host Name | arX |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 15:57:30 |
+| Lobby Creation Time | Thursday, December 7, 2023 15:58:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146255535406 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | -GeOz- |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 15:52:22 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146258711033 |
-| Players | 1/5 |
-| Host Name | Mr Prab |
+| Players | 2/5 |
+| Host Name | Uhh*PriVstal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 15:57:40 |
 
