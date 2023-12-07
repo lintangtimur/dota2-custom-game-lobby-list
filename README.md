@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146205188996 |
-| Players | 6/10 |
-| Host Name | Amikari |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 14:22:56 |
+| Lobby ID | 28553146206089067 |
+| Players | 6/8 |
+| Host Name | mAcUiN |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 14:24:38 |
 
 
 |  | ot3_gardens_duo |
@@ -31,44 +31,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146204823754 |
-| Players | 12/15 |
-| Host Name | MONSTER ENERGY |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 14:22:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146205184065 |
-| Players | 5/8 |
-| Host Name | 911 |
+| Lobby ID | 28553146205867243 |
+| Players | 8/15 |
+| Host Name | tice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 14:22:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146205541689 |
-| Players | 2/10 |
-| Host Name | задоджил аборт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 14:23:36 |
+| Lobby Creation Time | Thursday, December 7, 2023 14:24:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146205615198 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Kamikaze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 14:23:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146206091357 |
+| Players | 4/8 |
+| Host Name | ¤︻デ≡ 一 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 14:24:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146203066588 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | посейдот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 14:18:58 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 14:23:55 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553146206046091 |
+| Players | 2/7 |
+| Host Name | Karien |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 14:24:33 |
 
 
