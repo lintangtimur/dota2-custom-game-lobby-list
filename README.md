@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146471880306 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | IOVI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:32:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Kyle |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:56:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146471700042 |
-| Players | 6/8 |
-| Host Name | teca |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:32:17 |
+| Lobby ID | 28553146472646145 |
+| Players | 4/10 |
+| Host Name | в поисках MMR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:33:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 20:08:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146472253862 |
-| Players | 1/10 |
-| Host Name | hipssing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:32:48 |
+| Lobby ID | 28553146472786054 |
+| Players | 4/15 |
+| Host Name | 悲伤电炒饭 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 7, 2023 20:33:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VioLeNce |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:28:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146472799892 |
+| Players | 1/5 |
+| Host Name | [Last_Hope] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 20:33:18 |
 
 
