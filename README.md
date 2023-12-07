@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146348473848 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:16:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146347153252 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | PerpleXity_ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 18:14:36 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146354261945 |
-| Players | 4/15 |
-| Host Name | Рамзан Ахматович |
+| Lobby ID | 28553146354206915 |
+| Players | 12/15 |
+| Host Name | Bit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:23:53 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:23:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146354065377 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ✪ WINTER™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:23:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146353682011 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Chiiiiiiiiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:23:09 |
@@ -74,19 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:23:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146354206915 |
-| Players | 4/15 |
-| Host Name | Bit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:23:49 |
+| Lobby ID | 28553146353429243 |
+| Players | 5/8 |
+| Host Name | круасамочка |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:22:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146354536192 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:24:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146351568984 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Макар Циркульбег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:20:25 |
