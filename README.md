@@ -65,55 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:34:02 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146413513315 |
-| Players | 7/8 |
-| Host Name | ZAMN SHE'S 12 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:33:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146408762070 |
-| Players | 13/15 |
-| Host Name | Tolia22 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:28:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146414442332 |
-| Players | 1/15 |
-| Host Name | ReD |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 7, 2023 19:34:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146414472960 |
-| Players | 2/10 |
-| Host Name | Bart |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:34:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146414487826 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | noobie |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:35:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146414603349 |
+| Players | 6/10 |
+| Host Name | Erlon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 19:35:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146410852058 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Niko🔥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:31:03 |
