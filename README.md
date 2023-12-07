@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146322955987 |
-| Players | 5/15 |
+| Players | 1/15 |
 | Host Name | Small Balls |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 7, 2023 17:41:04 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146317113745 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:32:28 |
+| Lobby ID | 28553146324396959 |
+| Players | 2/15 |
+| Host Name | Misfit |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:43:10 |
 
 
 |  | ot3_gardens_duo |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:42:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146323378449 |
-| Players | 13/15 |
-| Host Name | Mr.BomBasёnock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:41:41 |
+| Lobby ID | 28553146324239564 |
+| Players | 6/24 |
+| Host Name | 月老離職，財神管姻緣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:42:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146318989793 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Max Verstappen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146323355367 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:41:39 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146323816742 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:42:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146324239564 |
-| Players | 1/24 |
-| Host Name | 月老離職，財神管姻緣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:42:57 |
+| Lobby ID | 28553146324485280 |
+| Players | 2/8 |
+| Host Name | I want? |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:43:18 |
 
 
 |  | epic_boss_fight_hard |
