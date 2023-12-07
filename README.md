@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:20:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146362842302 |
-| Players | 13/15 |
-| Host Name | Praeses |
+| Lobby ID | 28553146363701879 |
+| Players | 5/10 |
+| Host Name | Avada Kedavra |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:34:51 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:35:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:35:01 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146363666521 |
-| Players | 5/8 |
-| Host Name | 年輕的惡魔 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:35:54 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146363103406 |
@@ -81,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:35:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146363701879 |
-| Players | 1/10 |
-| Host Name | Avada Kedavra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:35:56 |
 
 
 |  | epic_boss_fight_normal |
