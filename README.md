@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146354779532 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Kisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:24:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146354065377 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ✪ WINTER™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:23:39 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146354790657 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | A.t.K |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:24:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146354133706 |
-| Players | 1/5 |
-| Host Name | Pahan solo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:23:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146354948418 |
-| Players | 5/10 |
-| Host Name | SuperBoneHack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:24:46 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гений |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:24:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146354948418 |
+| Players | 5/10 |
+| Host Name | SuperBoneHack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:24:46 |
 
 
