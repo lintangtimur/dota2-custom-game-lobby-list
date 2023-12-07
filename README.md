@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146379931948 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | голубиный хуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:55:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146301506560 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Vitrex1111 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146379653984 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Musorab Lyadi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:55:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146379658273 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | kavabanga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:55:33 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:55:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146380068670 |
+| Players | 4/8 |
+| Host Name | круасамочка |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:56:02 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146375134019 |
@@ -68,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146378341636 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:53:58 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146380071045 |
+| Players | 1/5 |
+| Host Name | Пожилое пианино |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 18:56:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146373854812 |
-| Players | 10/10 |
-| Host Name | Raiden Ei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:48:33 |
+| Lobby ID | 28553146380278854 |
+| Players | 1/10 |
+| Host Name | MightyHorn |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:56:17 |
 
 
