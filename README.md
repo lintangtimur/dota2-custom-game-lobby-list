@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146164884940 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 13:04:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146165613071 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 13:06:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146165841958 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 13:06:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146163658182 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 13:02:06 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146165768542 |
-| Players | 2/8 |
-| Host Name | Drakoncoop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 13:06:33 |
+| Lobby ID | 28553146166188001 |
+| Players | 4/8 |
+| Host Name | GoDDaD |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 13:07:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146162467962 |
+| Players | 20/24 |
+| Host Name | Radiance |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 7, 2023 12:59:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | лави лунарный гле |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:42:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146162514685 |
-| Players | 1/5 |
-| Host Name | Savage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 12:59:29 |
 
 
 |  | epic_boss_fight_nightmare |
