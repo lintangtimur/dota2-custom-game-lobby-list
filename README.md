@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146347153252 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | PerpleXity_ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 18:14:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146351118466 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | 49UP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:19:49 |
@@ -58,29 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146351998161 |
-| Players | 9/10 |
-| Host Name | сигаретный |
+| Lobby ID | 28553146352611092 |
+| Players | 5/10 |
+| Host Name | Gargulia |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:20:58 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:21:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146352339532 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Nihdogg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:21:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146352611092 |
-| Players | 2/10 |
-| Host Name | Gargulia |
+| Lobby ID | 28553146353051587 |
+| Players | 1/8 |
+| Host Name | FLOOPI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:21:46 |
+| Lobby Creation Time | Thursday, December 7, 2023 18:22:20 |
 
 
 |  | epic_boss_fight_nightmare |
