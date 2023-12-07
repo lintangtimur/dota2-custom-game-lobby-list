@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146298498120 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Watchmestun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:03:20 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:05:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146300241947 |
+| Players | 4/15 |
+| Host Name | Valli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:06:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146297837864 |
@@ -65,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:02:14 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553146298448115 |
-| Players | 1/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:03:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146299886855 |
-| Players | 1/10 |
-| Host Name | Zack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:05:35 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146300111309 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SL•AY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:05:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146299886855 |
+| Players | 3/10 |
+| Host Name | Zack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:05:35 |
 
 
