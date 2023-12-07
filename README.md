@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146684109330 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Frinedly! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 00:01:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146684077101 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | danling |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 00:01:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146681552539 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ิBrod1nski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:58:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146684023533 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | двойная кружка |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 00:01:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146683117951 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | CHOSO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 00:00:39 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 00:02:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146684374755 |
+| Players | 1/24 |
+| Host Name | ADAM KADYROV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 00:02:07 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553146674441813 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Krucha |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:56:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146684342658 |
-| Players | 1/10 |
-| Host Name | Lorqqy |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 00:02:05 |
 
 
