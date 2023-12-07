@@ -11,51 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146286444292 |
-| Players | 9/10 |
-| Host Name | xd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:43:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146286950854 |
-| Players | 4/15 |
-| Host Name | Kami Mirael |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:44:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146261135090 |
-| Players | 2/15 |
-| Host Name | כבשים |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 16:01:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146278714500 |
-| Players | 3/24 |
-| Host Name | Backi |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 16:30:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146286145029 |
-| Players | 16/24 |
-| Host Name | ^^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:42:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146286397627 |
@@ -65,22 +20,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:43:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146286423581 |
-| Players | 6/8 |
-| Host Name | Серега Жидкий |
+| Lobby ID | 28553146286950854 |
+| Players | 7/15 |
+| Host Name | Kami Mirael |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:43:15 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:44:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146287096186 |
-| Players | 2/8 |
-| Host Name | KOTOMAH |
+| Lobby ID | 28553146261135090 |
+| Players | 5/15 |
+| Host Name | כבשים |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 16:01:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146286145029 |
+| Players | 19/24 |
+| Host Name | ^^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 16:42:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146287358790 |
+| Players | 6/10 |
+| Host Name | Памперс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:44:22 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:44:48 |
 
 
 |  | epic_boss_fight_nightmare |
