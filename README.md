@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146066761502 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Goodbai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 09:42:13 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 09:42:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146083317689 |
-| Players | 5/8 |
-| Host Name | Super Santa |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 7, 2023 10:15:40 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146084332381 |
-| Players | 10/15 |
-| Host Name | Mr.Bass |
+| Lobby ID | 28553146084857733 |
+| Players | 12/15 |
+| Host Name | Друг твоей жены |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 10:18:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146085380285 |
+| Players | 1/8 |
+| Host Name | Diamonds & Dancefloor |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 10:17:44 |
+| Lobby Creation Time | Thursday, December 7, 2023 10:19:52 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146084412916 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 10:17:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146084279605 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | HiNt |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 10:17:37 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 10:16:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146083317689 |
+| Players | 7/8 |
+| Host Name | (FOXЯ) |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 7, 2023 10:15:40 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146084857733 |
-| Players | 5/15 |
-| Host Name | Друг твоей жены |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 10:18:46 |
+| Lobby ID | 28553146085412382 |
+| Players | 1/15 |
+| Host Name | IBlink182 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 10:19:56 |
 
 
 |  | epic_boss_fight_nightmare |
