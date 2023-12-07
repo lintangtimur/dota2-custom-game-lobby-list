@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146115261555 |
-| Players | 19/24 |
-| Host Name | RiftBreaker |
+| Lobby ID | 28553146120795828 |
+| Players | 7/10 |
+| Host Name | Full-Time Griefer |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 11:23:04 |
+| Lobby Creation Time | Thursday, December 7, 2023 11:34:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146120331770 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Катагири Юичи |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 11:33:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146120338356 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ㅜㅐㄷ |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 7, 2023 11:33:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146120202935 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 11:33:07 |
@@ -50,27 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146120275808 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Dark_Phantom |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 11:33:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146120633267 |
-| Players | 1/15 |
-| Host Name | MAKIMA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 11:34:00 |
+| Lobby ID | 28553146121028566 |
+| Players | 1/8 |
+| Host Name | TSpirit.YATORO雨.1XBET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 11:34:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146115663741 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146121060228 |
+| Players | 1/10 |
+| Host Name | Mr Jack Bean |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 11:34:52 |
 
 
