@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146301506560 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Vitrex1111 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146328046202 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Dying King |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:48:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146326203122 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | justforfun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:45:49 |
@@ -77,36 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146328242986 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Grizzly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:48:45 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553146321804137 |
-| Players | 2/7 |
-| Host Name | penumbra |
+| Lobby ID | 28553146328508170 |
+| Players | 1/5 |
+| Host Name | ayyyf |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:39:23 |
+| Lobby Creation Time | Thursday, December 7, 2023 17:49:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146327680439 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Finn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:47:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146328117901 |
-| Players | 1/5 |
-| Host Name | ayyyf |
+| Lobby ID | 28553146328681856 |
+| Players | 1/10 |
+| Host Name | Тенгу-Шреддер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:48:34 |
+| Lobby Creation Time | Thursday, December 7, 2023 17:49:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146328684416 |
+| Players | 1/10 |
+| Host Name | Crokci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:49:23 |
 
 
