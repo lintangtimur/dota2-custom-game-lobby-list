@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146438937530 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | PLODOTVOR |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:00:27 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:51:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146438795534 |
-| Players | 2/8 |
-| Host Name | Батрак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:00:18 |
+| Lobby ID | 28553146440134573 |
+| Players | 10/24 |
+| Host Name | BensenT |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:39 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146421770142 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:42:45 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146434961112 |
-| Players | 5/24 |
-| Host Name | Terrorblade |
+| Players | 3/24 |
+| Host Name | eggsandwich |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 7, 2023 19:56:25 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146425545897 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:46:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146432691042 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | FIAK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:54:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146439525891 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | ШНЫРЬ КУРЬЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 20:01:02 |
@@ -85,38 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146438812118 |
-| Players | 8/15 |
-| Host Name | CAN I PET DAT DAWWWGG |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:00:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146438700698 |
-| Players | 2/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 20:00:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146439625535 |
-| Players | 4/8 |
-| Host Name | BensenT |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 20:01:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146439697949 |
-| Players | 2/8 |
-| Host Name | ꪶꪮꪖᦔ꠸ꪀᧁ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:01:13 |
+| Lobby ID | 28553146440448006 |
+| Players | 1/15 |
+| Host Name | 𝓿𝓿♋ motita |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146431106866 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | S.G |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:52:28 |
@@ -139,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146438890388 |
-| Players | 9/10 |
-| Host Name | sawita |
+| Lobby ID | 28553146439997065 |
+| Players | 4/10 |
+| Host Name | Zack |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:00:24 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:30 |
 
 
