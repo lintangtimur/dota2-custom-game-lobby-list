@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146233849832 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146293520247 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | abiboss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:55:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146292983659 |
-| Players | 4/8 |
-| Host Name | ДОЕДАЛА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:54:06 |
+| Lobby ID | 28553146294059186 |
+| Players | 1/15 |
+| Host Name | BELIEVE ME |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 7, 2023 16:55:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146291730927 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:52:02 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146292989459 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:54:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146293980772 |
+| Players | 2/8 |
+| Host Name | Ymg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:55:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The teammate U didn't ask for |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:51:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146291483132 |
-| Players | 3/5 |
-| Host Name | ам ням |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:51:38 |
 
 
