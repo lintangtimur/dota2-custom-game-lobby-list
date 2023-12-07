@@ -14,55 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146566661102 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 21:57:59 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146568919535 |
-| Players | 23/24 |
-| Host Name | MAGA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:00:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146569804525 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | 瞬身之术 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:00:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146578302664 |
-| Players | 13/15 |
-| Host Name | ни чего себе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:08:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146564753593 |
-| Players | 5/15 |
-| Host Name | los dos estan por la escalera |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 21:56:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146576555177 |
-| Players | 8/24 |
-| Host Name | LGDisappoint |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:06:54 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146578693319 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | глеб твикс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:08:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146578753955 |
-| Players | 5/10 |
-| Host Name | ♏ リアス・グレモリー |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:08:53 |
+| Lobby ID | 28553146564753593 |
+| Players | 5/15 |
+| Host Name | los dos estan por la escalera |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 21:56:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553146576555177 |
+| Players | 7/24 |
+| Host Name | LGDisappoint |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 22:06:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146579202730 |
+| Players | 1/15 |
+| Host Name | Jon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 22:09:17 |
 
 
 |  | epic_boss_fight_hard |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553146577795283 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 22:08:01 |
