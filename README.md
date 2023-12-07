@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146398162355 |
-| Players | 8/8 |
-| Host Name | jb |
+| Lobby ID | 28553146399030785 |
+| Players | 4/8 |
+| Host Name | TaTaRiN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:17:05 |
+| Lobby Creation Time | Thursday, December 7, 2023 19:18:01 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146396979030 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | VanAugurr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:15:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146396526015 |
-| Players | 23/24 |
-| Host Name | After Midnight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:15:16 |
+| Lobby ID | 28553146399114541 |
+| Players | 4/10 |
+| Host Name | Сакура Бобра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 19:18:06 |
 
 
 |  | ot3_desert_octet |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146398955664 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Я Енот,Сука! |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:17:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146399030785 |
-| Players | 3/8 |
-| Host Name | Sargeras |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:18:01 |
 
 
