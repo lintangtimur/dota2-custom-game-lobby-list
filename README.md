@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146673310244 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 23:49:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146674071302 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Хан Баба |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 23:50:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146675482905 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | 28min |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:51:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146665558280 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:40:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146675538621 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Grinor番 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:51:49 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 8 AM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 23:51:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146675812265 |
+| Players | 5/8 |
+| Host Name | deserve better |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 23:52:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146676064276 |
+| Players | 4/10 |
+| Host Name | iminacord |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 7, 2023 23:52:25 |
 
 
 |  | epic_boss_fight_challenger |
