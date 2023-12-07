@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Risas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -74,28 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 19:44:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146425796289 |
-| Players | 3/15 |
-| Host Name | EvilLieAmalone |
+| Lobby ID | 28553146425817264 |
+| Players | 5/10 |
+| Host Name | ВЫЖИВАЛОВО БЕАНО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:46:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146425531747 |
-| Players | 11/15 |
-| Host Name | Und3rC0ntr0l |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:46:42 |
+| Lobby Creation Time | Thursday, December 7, 2023 19:47:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146425633890 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | lnk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 19:46:48 |
@@ -103,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146425818090 |
+| Lobby ID | 28553146426019416 |
 | Players | 1/15 |
-| Host Name | Morphorfrost |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 19:47:00 |
+| Host Name | Steffe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 19:47:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146424149648 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | AkdVq |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:45:15 |
