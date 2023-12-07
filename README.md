@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553146233849832 |
 | Players | 7/24 |
-| Host Name | Rainyy |
+| Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 15:17:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146239510459 |
-| Players | 4/8 |
-| Host Name | Rubert Dubert |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 7, 2023 15:25:36 |
+| Lobby ID | 28553146241329306 |
+| Players | 9/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 15:28:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146240898762 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 15:27:57 |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146241228029 |
-| Players | 2/15 |
+| Lobby ID | 28553146241696384 |
+| Players | 1/15 |
 | Host Name | диванный рэмбо |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 15:28:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146241329306 |
-| Players | 2/24 |
-| Host Name | Lulalelilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 15:28:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146241424379 |
-| Players | 1/5 |
-| Host Name | 私は気にしない |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 15:28:50 |
+| Lobby Creation Time | Thursday, December 7, 2023 15:29:18 |
 
 
 |  | epic_boss_fight_normal |
