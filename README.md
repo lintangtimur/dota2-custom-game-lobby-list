@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146587538453 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PMA.BlessingSoul |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 22:16:51 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146589569087 |
-| Players | 2/10 |
-| Host Name | cyborg. |
+| Players | 6/10 |
+| Host Name | Zabrrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:18:43 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146582187520 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:11:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146589218176 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Matye Bal |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:18:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146587513585 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:16:50 |
