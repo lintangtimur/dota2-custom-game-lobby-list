@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146694356140 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 00:13:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146692670509 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | LoKi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 00:11:49 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 00:10:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146696347966 |
-| Players | 1/10 |
-| Host Name | sr 8 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 00:16:06 |
+| Lobby ID | 28553146697212196 |
+| Players | 2/24 |
+| Host Name | Pucho ッ |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 8, 2023 00:17:07 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146697153306 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | iSP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 00:17:03 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146697130906 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Tolia22 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 00:17:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146697162482 |
-| Players | 6/15 |
-| Host Name | Mronplihg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 00:17:04 |
+| Lobby ID | 28553146697255084 |
+| Players | 1/8 |
+| Host Name | Yes way |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 8, 2023 00:17:10 |
 
 
