@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146391504143 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Viking Adobo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:09:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146388881099 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | TransQuil |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 7, 2023 19:06:31 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146391516056 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 333ZZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:09:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146394005675 |
-| Players | 9/10 |
-| Host Name | За что ? (:( |
+| Lobby ID | 28553146395542911 |
+| Players | 1/8 |
+| Host Name | Миколка |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:12:23 |
+| Lobby Creation Time | Thursday, December 7, 2023 19:14:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,24 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146393676323 |
-| Players | 5/8 |
-| Host Name | Æ F3#BroRust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:12:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146395005785 |
-| Players | 10/15 |
-| Host Name | stupid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:13:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28553146395177803 |
 | Players | 4/8 |
 | Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
@@ -112,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146395327703 |
+| Lobby ID | 28553146395651647 |
 | Players | 1/10 |
-| Host Name | REMURMUR- |
+| Host Name | midwest enjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 19:13:53 |
+| Lobby Creation Time | Thursday, December 7, 2023 19:14:15 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553146394403914 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | SORA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 19:12:50 |
