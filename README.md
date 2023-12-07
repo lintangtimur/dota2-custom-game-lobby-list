@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146099324443 |
-| Players | 2/10 |
-| Host Name | Tohsaka |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 10:48:50 |
+| Lobby ID | 28553146095261037 |
+| Players | 23/24 |
+| Host Name | CryMeARiver |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 10:40:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146101620569 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | PoLoTTnO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:53:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146100898685 |
-| Players | 10/24 |
+| Players | 19/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 10:52:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146101580188 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | / |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 10:53:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146101486709 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 10:53:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146101637323 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:53:45 |
@@ -85,28 +85,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146101735978 |
-| Players | 1/15 |
-| Host Name | samowamo |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 10:53:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28553146100321941 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | tiny fiddle |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 10:50:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146101863658 |
+| Players | 8/10 |
+| Host Name | Hubert |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 10:54:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146101886893 |
+| Players | 1/15 |
+| Host Name | Yves Saint Laurent |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 10:54:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146101945325 |
+| Players | 3/15 |
+| Host Name | samowamo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 10:54:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146102135569 |
+| Players | 1/15 |
+| Host Name | グリムセクリティ セブ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 10:54:50 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146101631495 |
-| Players | 2/5 |
-| Host Name | Just subscribe for Linda H |
+| Players | 1/5 |
+| Host Name | REXUS132 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 10:53:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146102104165 |
+| Players | 1/10 |
+| Host Name | Just subscribe for Linda H |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 10:54:46 |
 
 
