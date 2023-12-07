@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146318989793 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | WinNee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:35:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146339427136 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Absolute Caustic Grass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:04:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146338466366 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:02:58 |
@@ -50,18 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146339468855 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Лиза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:04:19 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146339645669 |
+| Players | 4/8 |
+| Host Name | увековечено в кам |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:04:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146339943133 |
+| Players | 2/10 |
+| Host Name | Unsaved info |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 7, 2023 18:04:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146337574735 |
-| Players | 4/10 |
-| Host Name | Pora |
+| Players | 3/10 |
+| Host Name | Autsayder |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 18:01:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146339942639 |
+| Players | 1/5 |
+| Host Name | Lookas |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:04:58 |
 
 
