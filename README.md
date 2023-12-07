@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146687139208 |
-| Players | 5/8 |
-| Host Name | MegaKabanchick |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 00:05:21 |
+| Lobby ID | 28553146686536840 |
+| Players | 6/8 |
+| Host Name | جورب القدر |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 00:04:39 |
 
 
 |  | ot3_gardens_duo |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146684374755 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | ADAM KADYROV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 00:02:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146685130765 |
-| Players | 13/15 |
-| Host Name | †§±lord wolf±§† |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 00:03:00 |
+| Lobby ID | 28553146687383846 |
+| Players | 4/8 |
+| Host Name | СТРАШНЫЙ РУИН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 00:05:38 |
 
 
 |  | ot3_gardens_duo |
@@ -50,63 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146684980108 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 00:02:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146686355713 |
-| Players | 6/8 |
-| Host Name | kvch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 00:04:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146683117951 |
-| Players | 21/24 |
-| Host Name | CHOSO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 00:00:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146686536840 |
-| Players | 5/8 |
-| Host Name | جورب القدر |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 00:04:39 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146686832481 |
-| Players | 8/10 |
-| Host Name | darkness空虚 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 00:04:59 |
+| Lobby ID | 28553146687321434 |
+| Players | 4/10 |
+| Host Name | 666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 00:05:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146687506270 |
+| Players | 4/15 |
+| Host Name | licklicklicklicklicklick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 00:05:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146687048117 |
-| Players | 2/8 |
-| Host Name | 平凡Heibon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 00:05:14 |
+| Lobby ID | 28553146687596861 |
+| Players | 1/8 |
+| Host Name | Javi |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 00:05:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146686832011 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 00:04:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146687415126 |
+| Players | 1/5 |
+| Host Name | Latcher |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 00:05:40 |
 
 
