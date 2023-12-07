@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:12:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146262548187 |
-| Players | 2/15 |
-| Host Name | BIJJI |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 16:04:00 |
+| Lobby ID | 28553146268320195 |
+| Players | 1/8 |
+| Host Name | winged |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:13:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146268137264 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Где враги? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:13:11 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146268123754 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | kura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:13:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146268320195 |
-| Players | 1/8 |
-| Host Name | winged |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:13:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146268695350 |
+| Lobby ID | 28553146268779682 |
 | Players | 3/10 |
 | Host Name | Flippi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:14:05 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:14:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -GeOz- |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 16:10:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146268699484 |
-| Players | 1/5 |
-| Host Name | Privetkin |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:14:05 |
 
 
