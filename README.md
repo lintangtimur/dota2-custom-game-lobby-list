@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146208537489 |
-| Players | 12/15 |
-| Host Name | Phoenix_650 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 14:29:13 |
+| Lobby ID | 28553146212653985 |
+| Players | 1/10 |
+| Host Name | warcay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 14:36:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146135322585 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 12:03:54 |
@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 14:31:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146212276377 |
+| Players | 6/8 |
+| Host Name | YURNERO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 14:36:14 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553146206046091 |
@@ -58,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553146205705356 |
-| Players | 9/10 |
-| Host Name | Deadlyiel |
+| Lobby ID | 28553146212549679 |
+| Players | 1/10 |
+| Host Name | MagnusCarlsen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 14:23:55 |
+| Lobby Creation Time | Thursday, December 7, 2023 14:36:45 |
 
 
