@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:12:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146346132531 |
-| Players | 2/15 |
-| Host Name | FireFireFire |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:13:17 |
+| Lobby ID | 28553146346183659 |
+| Players | 2/10 |
+| Host Name | 侍 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 18:13:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,48 +29,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146345844859 |
-| Players | 5/8 |
-| Host Name | tymba-ymba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:12:54 |
+| Lobby ID | 28553146346617457 |
+| Players | 5/15 |
+| Host Name | JS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:13:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146345883272 |
-| Players | 5/15 |
-| Host Name | Покакал без мамы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:12:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146345936813 |
-| Players | 2/10 |
-| Host Name | undosssss777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:13:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146346005519 |
-| Players | 1/8 |
-| Host Name | gobicbot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:13:07 |
+| Lobby ID | 28553146346558136 |
+| Players | 4/15 |
+| Host Name | FireFireFire |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:13:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146346117227 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Autsayder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:13:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146346673974 |
+| Players | 1/5 |
+| Host Name | SL•AY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:13:58 |
 
 
