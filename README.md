@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146383189910 |
-| Players | 7/10 |
-| Host Name | Sir Mahmud |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:59:45 |
+| Lobby ID | 28553146383081948 |
+| Players | 2/8 |
+| Host Name | Rayug4 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:59:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146379902796 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Fat Niagre |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:55:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146382312202 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Nevermind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:58:42 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:59:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146383081948 |
-| Players | 2/8 |
-| Host Name | Rayug4 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:59:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146383313060 |
-| Players | 2/24 |
-| Host Name | S.art.O |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 7, 2023 18:59:53 |
+| Lobby ID | 28553146383624626 |
+| Players | 1/15 |
+| Host Name | Real Gosling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 19:00:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146382512745 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | XYZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:58:56 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:59:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146383380701 |
-| Players | 1/10 |
-| Host Name | momo&peach princess |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 7, 2023 18:59:58 |
 
 
