@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146351477515 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Avril- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 18:20:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146365442612 |
-| Players | 4/8 |
-| Host Name | яна чене |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:38:07 |
+| Lobby ID | 28553146366115694 |
+| Players | 2/10 |
+| Host Name | Ecstacy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:38:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 18:35:01 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146363103406 |
-| Players | 1/24 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:35:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146366006424 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | god's pray |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:38:50 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146364136517 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:36:29 |
