@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146503485944 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | CHERK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 21:02:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146400425470 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:19:33 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146509924768 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 21:07:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146511683771 |
-| Players | 5/8 |
-| Host Name | Estriper |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 21:09:25 |
+| Lobby ID | 28553146512624624 |
+| Players | 7/10 |
+| Host Name | Pilches |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 21:10:16 |
 
 
 |  | ot3_desert_octet |
@@ -101,28 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 21:08:05 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146511430203 |
-| Players | 8/10 |
-| Host Name | KIVA RIP |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 21:09:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146511868617 |
-| Players | 14/15 |
-| Host Name | АТАМАН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 21:09:35 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146511877126 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Djuret himself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 21:09:35 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146510158267 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 21:08:03 |
