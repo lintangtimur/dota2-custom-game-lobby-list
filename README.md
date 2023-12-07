@@ -2,46 +2,46 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146115757249 |
-| Players | 1/15 |
-| Host Name | Chumamee Mu Nien Yo ? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 11:24:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146114194135 |
-| Players | 12/15 |
-| Host Name | meeto meeto meeto :3 |
+| Lobby ID | 28553146116239771 |
+| Players | 2/10 |
+| Host Name | 热性与你的妈妈 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 11:20:50 |
+| Lobby Creation Time | Thursday, December 7, 2023 11:25:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146116145009 |
+| Players | 6/8 |
+| Host Name | SabrosonxD322 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 11:24:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146115433909 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Mode: Sonichu Afterdark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146115552205 |
-| Players | 8/10 |
-| Host Name | ГАСТРИТБАЙТЕР |
+| Lobby ID | 28553146116384146 |
+| Players | 4/15 |
+| Host Name | Imagio |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 11:23:41 |
+| Lobby Creation Time | Thursday, December 7, 2023 11:25:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146115261555 |
-| Players | 10/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 11:23:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146115879773 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 11:24:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146115815688 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 11:24:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146116059881 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Hubert |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 11:24:45 |
@@ -94,35 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146114890699 |
-| Players | 14/15 |
-| Host Name | easy to play against |
+| Lobby ID | 28553146116553983 |
+| Players | 2/15 |
+| Host Name | Mojac |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 11:22:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146116145009 |
-| Players | 1/8 |
-| Host Name | SabrosonxD322 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 11:24:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146116153046 |
-| Players | 2/10 |
-| Host Name | Fuck Love |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 11:24:56 |
+| Lobby Creation Time | Thursday, December 7, 2023 11:25:45 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146113391590 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Kiras |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 7, 2023 11:19:09 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146115783683 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 11:24:10 |
