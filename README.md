@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146429692972 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Andrew |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:51:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146421770142 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:42:45 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146432691042 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | FIAK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 19:54:06 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146436000583 |
-| Players | 22/24 |
-| Host Name | Bart |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:57:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146438370002 |
-| Players | 9/10 |
-| Host Name | ЛЁВА АКЕРМАНОВ |
+| Lobby ID | 28553146439525891 |
+| Players | 2/10 |
+| Host Name | ШНЫРЬ КУРЬЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146438812118 |
+| Players | 8/15 |
+| Host Name | CAN I PET DAT DAWWWGG |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 19:59:52 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:00:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 20:00:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146438812118 |
-| Players | 6/15 |
-| Host Name | CAN I PET DAT DAWWWGG |
+| Lobby ID | 28553146439625535 |
+| Players | 4/8 |
+| Host Name | BensenT |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146439697949 |
+| Players | 2/8 |
+| Host Name | ꪶꪮꪖᦔ꠸ꪀᧁ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 20:00:19 |
+| Lobby Creation Time | Thursday, December 7, 2023 20:01:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553146431106866 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | S.G |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 19:52:28 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146438890388 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | sawita |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 20:00:24 |
