@@ -4,26 +4,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146590824886 |
-| Players | 8/10 |
-| Host Name | КРОBЬCYKA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 22:19:52 |
+| Lobby ID | 28553146591754259 |
+| Players | 1/10 |
+| Host Name | fhy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146590390007 |
-| Players | 5/8 |
-| Host Name | нескромный путинский ватник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:19:28 |
+| Lobby ID | 28553146591852618 |
+| Players | 1/24 |
+| Host Name | MIRÁCULO SENPAI |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146582187520 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:11:59 |
@@ -31,47 +31,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146590822361 |
-| Players | 11/15 |
-| Host Name | Доня |
+| Lobby ID | 28553146591607051 |
+| Players | 10/15 |
+| Host Name | Адидас Младший |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:19:52 |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146587513585 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:16:50 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146553369284 |
-| Players | 1/7 |
-| Host Name | Iashtu Otzi Gara |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 21:46:10 |
+| Lobby ID | 28553146591488249 |
+| Players | 2/8 |
+| Host Name | Suki Suki |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146587976623 |
-| Players | 3/10 |
-| Host Name | ДЕВОЧКА ИЗ АНИМЕ |
+| Lobby ID | 28553146591599116 |
+| Players | 1/24 |
+| Host Name | gaston |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146591896367 |
+| Players | 3/8 |
+| Host Name | starfall |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:17:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146586783279 |
-| Players | 3/5 |
-| Host Name | [T]he[G]reat[E]rika |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 22:16:10 |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +81,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr Prab |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:20:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146587976623 |
+| Players | 4/10 |
+| Host Name | ДЕВОЧКА ИЗ АНИМЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 22:17:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146591781110 |
+| Players | 1/10 |
+| Host Name | MAKAROV? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146584063089 |
+| Players | 9/10 |
+| Host Name | Lie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 22:13:41 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553146591936480 |
+| Players | 3/7 |
+| Host Name | kwertyl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 22:20:54 |
 
 
