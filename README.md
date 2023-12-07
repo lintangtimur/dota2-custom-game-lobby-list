@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:31:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146279928390 |
-| Players | 3/8 |
-| Host Name | bufuTOOGA 9mm |
+| Lobby ID | 28553146280482105 |
+| Players | 2/10 |
+| Host Name | я не вайпер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:32:31 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:33:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:33:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146279310612 |
-| Players | 7/10 |
-| Host Name | OOFOrange |
+| Lobby ID | 28553146280397592 |
+| Players | 6/15 |
+| Host Name | Bubblegum |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:31:29 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:33:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146280228947 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | tv/swedenstrong |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:33:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146280397592 |
-| Players | 1/15 |
-| Host Name | Bubblegum |
+| Lobby ID | 28553146280766958 |
+| Players | 3/8 |
+| Host Name | Отчим фараона |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 16:33:17 |
+| Lobby Creation Time | Thursday, December 7, 2023 16:33:54 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 16:32:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553146280243103 |
-| Players | 6/10 |
-| Host Name | nyThanh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 16:33:02 |
 
 
