@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146300241947 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Valli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:06:10 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dlate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:06:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146300837185 |
+| Players | 2/15 |
+| Host Name | Bearded Seal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:07:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146298878238 |
+| Players | 2/10 |
+| Host Name | Misha грозный 2010 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:03:57 |
 
 
 |  | epic_boss_fight_nightmare |
