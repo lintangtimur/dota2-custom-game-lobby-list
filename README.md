@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146373299173 |
-| Players | 3/15 |
-| Host Name | Quick Gun Murugan |
+| Players | 1/15 |
+| Host Name | Captain falafelz |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 7, 2023 18:47:52 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146374617885 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ПЮ ЧАЙ [сильно] |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 18:49:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146301506560 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Vitrex1111 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
@@ -32,46 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146375193707 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Was ist hier los? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:50:11 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553146373419495 |
-| Players | 23/24 |
-| Host Name | VanAugurr |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 7, 2023 18:48:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146374378353 |
-| Players | 14/15 |
-| Host Name | saD3Dziy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:49:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146375321363 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | я Серожа! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 18:50:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553146375360008 |
-| Players | 1/15 |
-| Host Name | Турбо воин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 18:50:23 |
+| Lobby ID | 28553146375706532 |
+| Players | 3/24 |
+| Host Name | minmin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 18:50:48 |
 
 
 |  | epic_boss_fight_nightmare |
