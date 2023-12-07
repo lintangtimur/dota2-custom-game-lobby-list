@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146233849832 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146240446202 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Сherkashlena |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 15:27:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146241791554 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 15:29:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146241930559 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | so dark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 15:29:42 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146240773859 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 7, 2023 15:27:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553146240641285 |
+| Players | 13/15 |
+| Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 7, 2023 15:27:31 |
 
 
 |  | epic_boss_fight_normal |
