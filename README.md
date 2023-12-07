@@ -13,35 +13,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146132846410 |
-| Players | 9/10 |
-| Host Name | avgn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 11:58:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553146133582975 |
-| Players | 13/15 |
-| Host Name | Levi Ackerman |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 12:00:21 |
+| Lobby ID | 28553146135322585 |
+| Players | 1/10 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 12:03:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146133749191 |
-| Players | 6/8 |
-| Host Name | ya fue algoritmos |
+| Lobby ID | 28553146135193824 |
+| Players | 3/8 |
+| Host Name | Doraemon |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 12:00:41 |
+| Lobby Creation Time | Thursday, December 7, 2023 12:03:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146133504615 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 12:00:11 |
@@ -49,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553146134899037 |
+| Lobby ID | 28553146135012864 |
 | Players | 1/15 |
-| Host Name | Kenner |
+| Host Name | Bart Cuervo del Campeonato |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 7, 2023 12:03:02 |
+| Lobby Creation Time | Thursday, December 7, 2023 12:03:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146135345371 |
+| Players | 1/10 |
+| Host Name | myclauss! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 12:03:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vvw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 11:59:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553146132502690 |
+| Players | 9/10 |
+| Host Name | Mr Jack Bean |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 7, 2023 11:58:09 |
 
 
