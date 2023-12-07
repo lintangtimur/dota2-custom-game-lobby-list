@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146233849832 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 7, 2023 15:15:43 |
+| Lobby ID | 28553146309133367 |
+| Players | 5/10 |
+| Host Name | ))) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 17:20:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146307682015 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ^^ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 7, 2023 17:18:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146308548563 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ПРЯНЯ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:19:20 |
@@ -47,28 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:19:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553146308028523 |
-| Players | 7/10 |
-| Host Name | I YVIDEL SMERT' |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:18:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553146308393305 |
-| Players | 1/8 |
-| Host Name | Сейджер АРтуРЧИк |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 7, 2023 17:19:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146308879666 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Trialik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:19:52 |
@@ -90,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Autsayder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:12:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553146308892290 |
-| Players | 2/5 |
-| Host Name | ХАХА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:19:53 |
 
 
