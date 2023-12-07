@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146652383376 |
-| Players | 6/8 |
-| Host Name | Роток распивающий пиво |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 23:25:13 |
+| Lobby ID | 28553146654040404 |
+| Players | 1/8 |
+| Host Name | Javi |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 23:27:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146652619750 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | T y |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 23:25:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146653420878 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Witchcraft |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:26:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146650440778 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | xd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 23:23:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146653128271 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Drakenus |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 23:26:04 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146653785992 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | .neff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 23:26:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146654108815 |
+| Players | 6/8 |
+| Host Name | Azər Babaev |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 23:27:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146654171497 |
+| Players | 4/8 |
+| Host Name | 1234 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 23:27:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146654185532 |
+| Players | 2/10 |
+| Host Name | 6mentis |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 23:27:16 |
 
 
 |  | epic_boss_fight_nightmare |
