@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 16:52:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146291820663 |
+| Players | 3/8 |
+| Host Name | владелец сто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 16:52:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146291408669 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | The teammate U didn't ask for |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 16:51:32 |
