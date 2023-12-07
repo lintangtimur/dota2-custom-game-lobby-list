@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146300436364 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ежик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 17:06:29 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146300051396 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Theforehead |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:05:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146300837185 |
-| Players | 8/15 |
-| Host Name | Bearded Seal |
+| Lobby ID | 28553146301786143 |
+| Players | 7/10 |
+| Host Name | 123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:07:08 |
+| Lobby Creation Time | Thursday, December 7, 2023 17:08:39 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:05:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553146298878238 |
-| Players | 2/10 |
-| Host Name | Misha грозный 2010 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 7, 2023 17:03:57 |
+| Lobby ID | 28553146301617643 |
+| Players | 2/8 |
+| Host Name | FCD.4F |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:08:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 7, 2023 17:08:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553146301617643 |
-| Players | 1/8 |
-| Host Name | FCD.4F |
+| Lobby ID | 28553146301953605 |
+| Players | 1/10 |
+| Host Name | круасамочка |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 7, 2023 17:08:23 |
+| Lobby Creation Time | Thursday, December 7, 2023 17:08:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553146299886855 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Zack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 17:05:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553146301988904 |
+| Players | 1/5 |
+| Host Name | MightyHorn |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 7, 2023 17:08:58 |
 
 
