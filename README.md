@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146571919656 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Siopaolicius |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:02:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146566661102 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 21:57:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553146568919535 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:00:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146569804525 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 瞬身之术 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:00:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553146573940011 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | I was 1 mmr but im depressed now |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 7, 2023 22:04:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553146574395226 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | dj jabi |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 7, 2023 22:04:57 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553146569805055 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Bondom_+30 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 7, 2023 22:00:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553146574610972 |
+| Players | 2/8 |
+| Host Name | (-_-)乂0_0乂 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 7, 2023 22:05:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553146574660941 |
+| Players | 2/10 |
+| Host Name | Экстрасекс с ТНТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 7, 2023 22:05:11 |
 
 
 |  | epic_boss_fight_hard |
