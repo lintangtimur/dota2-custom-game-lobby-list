@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147057427683 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Gamer |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 11:45:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147057361562 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Witch-king of Angmar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:45:00 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 11:43:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147056498316 |
-| Players | 22/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 11:43:19 |
+| Lobby ID | 28553147058440460 |
+| Players | 1/8 |
+| Host Name | JD00 grand-rust |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 11:47:06 |
 
 
 |  | epic_boss_fight_nightmare |
