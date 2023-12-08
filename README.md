@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147185108683 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | (RSO)EMINEM(RSO) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:35:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147189985363 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | debust mmr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:43:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147189328487 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ))) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:42:04 |
