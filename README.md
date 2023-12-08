@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147215989188 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BarFaCk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:24:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147214411484 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:21:54 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RAY OF HOPE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:17:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553147216613765 |
+| Players | 1/10 |
+| Host Name | Zokov |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:25:22 |
 
 
