@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147267366971 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 女神减速带 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:43:07 |
@@ -45,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:21:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147267474810 |
+| Players | 5/10 |
+| Host Name | пупуня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:43:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147267516137 |
+| Players | 2/15 |
+| Host Name | Ryoiki Tenkai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:43:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147267534175 |
+| Players | 1/8 |
+| Host Name | хайнц фюррершмер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:43:22 |
 
 
 |  | epic_boss_fight_nightmare |
