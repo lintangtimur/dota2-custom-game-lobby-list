@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:35:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147150239090 |
-| Players | 12/15 |
-| Host Name | Carry on, my wayward son |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:33:53 |
+| Lobby ID | 28553147151291664 |
+| Players | 4/10 |
+| Host Name | ruined image |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 14:35:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147151183965 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Bury the Light |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 14:35:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147151291664 |
-| Players | 4/10 |
-| Host Name | ruined image |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 14:35:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:32:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147151166805 |
-| Players | 4/5 |
-| Host Name | Mr Prab |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 14:35:29 |
+| Lobby ID | 28553147148325891 |
+| Players | 9/10 |
+| Host Name | Emperor of Mankind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:30:34 |
 
 
 |  | epic_boss_fight_nightmare |
