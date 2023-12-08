@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147141452521 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | -BLUE LABEL De JHONNIE WALKER |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:18:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147142861789 |
-| Players | 1/10 |
-| Host Name | IsILdor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:21:00 |
+| Lobby ID | 28553147141358834 |
+| Players | 6/8 |
+| Host Name | KamyChoppercita |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 14:18:21 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:18:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147141358834 |
-| Players | 6/8 |
-| Host Name | KamyChoppercita |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 14:18:21 |
+| Lobby ID | 28553147142901877 |
+| Players | 3/10 |
+| Host Name | IsILdor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:21:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147142891210 |
+| Players | 2/15 |
+| Host Name | LEGEND |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 14:21:03 |
 
 
 |  | epic_boss_fight_hard |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147138658816 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Aj |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 14:13:40 |
