@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147221332855 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:32:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147222385809 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | บังหมัด |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:34:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147224533637 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ☪Bilal Abdul Kareem☪ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:37:41 |
@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147224824543 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Raoul Duke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:38:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147225034984 |
+| Players | 3/8 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:38:27 |
 
 
