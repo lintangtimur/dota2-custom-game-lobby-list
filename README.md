@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147098550275 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | corx |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:02:33 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147099742237 |
-| Players | 6/15 |
-| Host Name | DactarDeEsSalud |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:04:53 |
+| Lobby ID | 28553147100858810 |
+| Players | 13/15 |
+| Host Name | ебучая серая мышь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:07:00 |
 
 
 |  | ot3_gardens_duo |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147096821952 |
-| Players | 13/24 |
+| Players | 22/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:59:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147099180678 |
-| Players | 8/10 |
-| Host Name | Mongoose |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 13:03:48 |
+| Lobby ID | 28553147101069302 |
+| Players | 5/24 |
+| Host Name | R1ki |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:07:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,28 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147100858810 |
+| Lobby ID | 28553147099742237 |
 | Players | 7/15 |
-| Host Name | ебучая серая мышь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:07:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147087009522 |
-| Players | 1/10 |
-| Host Name | Yitane |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 8, 2023 12:40:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147100138297 |
-| Players | 8/10 |
-| Host Name | Dota 2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:05:38 |
+| Host Name | DactarDeEsSalud |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:04:53 |
 
 
