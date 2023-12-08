@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147176239552 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Rafael |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:20:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147171917647 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Rudeus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:12:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147176687722 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:20:55 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:22:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147177433353 |
+| Players | 1/15 |
+| Host Name | jordanfernandezalvarez5 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 15:22:12 |
 
 
 |  | epic_boss_fight_challenger |
