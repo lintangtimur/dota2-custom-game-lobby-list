@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147164947807 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Таракан |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 14:59:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147165362014 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | hllrser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:00:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147165187174 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | пир во имя чумы |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 15:00:13 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147165717862 |
-| Players | 1/15 |
-| Host Name | PQ LO HICISTE YARELIS |
+| Lobby ID | 28553147165987986 |
+| Players | 2/15 |
+| Host Name | SeiyaInuzuka |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 15:01:20 |
+| Lobby Creation Time | Friday, December 8, 2023 15:01:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147165222610 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:00:18 |
