@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147206881736 |
+| Lobby ID | 28553147207069857 |
 | Players | 1/8 |
-| Host Name | corx |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 16:10:07 |
+| Host Name | desomorphine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:10:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147203489653 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Эдсон Вера Девяты |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 16:04:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147205163192 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:24 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147206947647 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Бугименчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:10:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147207125308 |
+| Players | 1/8 |
+| Host Name | Plobi_bi bi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 16:10:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:08:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147207098712 |
+| Players | 4/5 |
+| Host Name | Пережил 4 аборта |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:10:27 |
 
 
