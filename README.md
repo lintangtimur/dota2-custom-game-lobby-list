@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147054443151 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:39:16 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147055585402 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:41:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147054776547 |
-| Players | 6/8 |
-| Host Name | MIYACOLAMI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 11:39:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trucker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 11:38:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147055257653 |
-| Players | 5/10 |
-| Host Name | K1 de dia Kchero de noche |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 11:40:53 |
 
 
