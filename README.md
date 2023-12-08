@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147221332855 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:32:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147226884642 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Fucking Pencil |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:41:20 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147227662713 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Skadi.Alienware.GG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:42:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147228045133 |
+| Players | 5/8 |
+| Host Name | я не вайпер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:43:08 |
 
 
 |  | epic_boss_fight_nightmare |
