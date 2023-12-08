@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147149309231 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | sf abuzer ィeverlasting hateィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:32:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147148804971 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Bibip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:31:25 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:32:04 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147149662231 |
-| Players | 1/24 |
-| Host Name | Desvirgenser |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 14:32:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553147149345978 |
-| Players | 1/5 |
-| Host Name | ам ням |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:32:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147148325891 |
-| Players | 3/10 |
-| Host Name | SummYourMom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:30:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147149421481 |
@@ -90,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:32:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553147148325891 |
+| Players | 4/10 |
+| Host Name | SummYourMom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:30:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147149816345 |
+| Players | 1/5 |
+| Host Name | ам ням |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:33:09 |
 
 
