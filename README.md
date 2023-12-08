@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147075316502 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | show me ur dixk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:19:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147077825089 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | COSMO EL GATO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:23:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147075551591 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 12:19:29 |
@@ -50,43 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147074224058 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | North |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 8, 2023 12:16:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147078376206 |
-| Players | 1/8 |
-| Host Name | KaTheDirector |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 12:24:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147078412728 |
-| Players | 1/15 |
-| Host Name | Republica independiente de Arequ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:24:50 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147078489989 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:24:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147078412728 |
+| Players | 3/15 |
+| Host Name | Republica independiente de Arequ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:24:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147074314939 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TAPIJARO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:17:09 |
