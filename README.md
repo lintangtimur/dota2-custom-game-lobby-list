@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147204952707 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:04 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147205395865 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ini-on |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147205661594 |
-| Players | 1/8 |
-| Host Name | Plobi_bi bi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 16:08:11 |
+| Lobby ID | 28553147205506457 |
+| Players | 1/15 |
+| Host Name | baoeq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:07:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147205163192 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:24 |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147205490216 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Sonnum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147205506457 |
-| Players | 1/15 |
-| Host Name | baoeq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:07:56 |
+| Lobby ID | 28553147206080023 |
+| Players | 1/10 |
+| Host Name | Nicole Labiano |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:08:51 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147204439108 |
-| Players | 9/10 |
-| Host Name | Yami |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 16:06:15 |
+| Lobby ID | 28553147206062847 |
+| Players | 1/10 |
+| Host Name | VURP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:08:49 |
 
 
