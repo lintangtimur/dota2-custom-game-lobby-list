@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147085854100 |
-| Players | 1/15 |
-| Host Name | Puppey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 12:38:36 |
+| Lobby ID | 28553147088741274 |
+| Players | 2/8 |
+| Host Name | Яна Члене |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:44:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147085583384 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | 逐逐月 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:38:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147086776557 |
-| Players | 8/15 |
+| Players | 2/15 |
 | Host Name | 43 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 8, 2023 12:40:20 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147087421625 |
-| Players | 7/10 |
-| Host Name | ARIANA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:41:33 |
+| Lobby ID | 28553147088547230 |
+| Players | 5/10 |
+| Host Name | Five Nights at Kazakhstan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:43:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147087823364 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | nightmare |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:42:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147086718486 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:40:14 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147088547230 |
-| Players | 5/10 |
-| Host Name | Five Nights at Kazakhstan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 12:43:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147088741274 |
-| Players | 1/8 |
-| Host Name | Яна Члене |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 12:44:00 |
+| Lobby ID | 28553147089162809 |
+| Players | 3/10 |
+| Host Name | :p |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:44:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147087982079 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Smufff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:42:36 |
