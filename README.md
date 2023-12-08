@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147217417186 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Kulebyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:26:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147217405258 |
-| Players | 6/8 |
-| Host Name | мирось 200 м от вас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:26:36 |
 
 
 |  | epic_boss_fight_nightmare |
