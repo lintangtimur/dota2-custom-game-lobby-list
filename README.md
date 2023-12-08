@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147124564807 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | qweque |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:49:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147121512303 |
-| Players | 13/24 |
+| Players | 23/24 |
 | Host Name | ToXiC PlAyEr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:44:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147125032520 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Bundestagswal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 13:50:35 |
@@ -41,43 +41,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147124316580 |
-| Players | 2/8 |
-| Host Name | Evlogos |
+| Players | 5/8 |
+| Host Name | Conor McGregor |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 13:49:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147120823568 |
+| Lobby ID | 28553147125811180 |
 | Players | 1/24 |
-| Host Name | Surprize mother farker |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 8, 2023 13:43:15 |
+| Host Name | Hüskoras |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 13:51:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147125254708 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Fadealy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:50:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147123781498 |
-| Players | 9/10 |
-| Host Name | zzZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:48:25 |
+| Lobby ID | 28553147125494001 |
+| Players | 3/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:51:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147125804541 |
+| Players | 4/8 |
+| Host Name | mudachyo flow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:51:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147125852834 |
+| Players | 2/24 |
+| Host Name | Madvillainy (2004)™ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:51:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147125260068 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:50:58 |
