@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147234918018 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | riaS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:53:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147235145805 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Бубуки Буранки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:54:15 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Цибуля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:54:03 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553147235263644 |
+| Players | 2/7 |
+| Host Name | good student andrewfhg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:54:26 |
 
 
