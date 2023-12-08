@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147235290443 |
-| Players | 5/8 |
-| Host Name | Немножка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:54:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147231305432 |
-| Players | 1/10 |
-| Host Name | ZzZ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 16:48:12 |
+| Lobby ID | 28553147235851443 |
+| Players | 3/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:55:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147235999143 |
+| Players | 3/15 |
+| Host Name | Amigo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:55:35 |
 
 
 |  | ot3_desert_octet |
@@ -29,57 +29,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:51:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147235303083 |
-| Players | 1/8 |
-| Host Name | darK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:54:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147234060107 |
-| Players | 2/8 |
-| Host Name | Hi |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 16:52:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147235145805 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Бубуки Буранки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:54:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147235851443 |
-| Players | 3/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:55:21 |
+| Lobby ID | 28553147234060107 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 8, 2023 16:52:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147234550900 |
-| Players | 1/10 |
-| Host Name | 。。。。。。。。。 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:53:18 |
+| Lobby ID | 28553147236048103 |
+| Players | 4/8 |
+| Host Name | ZzZ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 16:55:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147235025707 |
-| Players | 2/5 |
-| Host Name | Цибуля |
+| Lobby ID | 28553147235290443 |
+| Players | 7/8 |
+| Host Name | Немножка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:54:03 |
+| Lobby Creation Time | Friday, December 8, 2023 16:54:28 |
 
 
