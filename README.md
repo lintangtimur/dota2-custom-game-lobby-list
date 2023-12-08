@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147096524211 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Mi peor enemigo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:58:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147094812963 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Jazzer1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:55:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147086593096 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Orph3us |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 12:39:59 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The chosen one ♠ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:58:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147096821952 |
+| Players | 2/24 |
+| Host Name | N8 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 12:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
