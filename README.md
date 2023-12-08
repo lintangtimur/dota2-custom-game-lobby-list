@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147109036983 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 10032 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:22:15 |
@@ -22,20 +22,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147107486539 |
-| Players | 6/8 |
-| Host Name | JosDan |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:19:24 |
+| Lobby ID | 28553147110091322 |
+| Players | 1/8 |
+| Host Name | Яна Члене |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:24:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147109580115 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | demonyo mag dota |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 13:23:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147109976510 |
+| Players | 3/15 |
+| Host Name | УСКУФНИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:23:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147104806441 |
+| Players | 23/24 |
+| Host Name | Wu Gensheng |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 13:14:23 |
 
 
 |  | epic_boss_fight_nightmare |
