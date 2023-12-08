@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147068091041 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | & |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147067638176 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:04:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147068314576 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | badboy.1 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:52 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147068370692 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | BARCO CAMARONERO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147068078489 |
+| Players | 2/8 |
+| Host Name | stupid banana |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:05:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147067972376 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Volition |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:14 |
