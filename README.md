@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:16:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147135754559 |
-| Players | 20/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 14:08:43 |
+| Lobby ID | 28553147141125944 |
+| Players | 2/15 |
+| Host Name | Glimmer of Hope |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:17:57 |
 
 
 |  | ot3_desert_octet |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:12:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147138894761 |
-| Players | 14/15 |
-| Host Name | dumb, wicked, and white |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 14:14:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147141125944 |
-| Players | 1/15 |
-| Host Name | Glimmer of Hope |
+| Lobby ID | 28553147141234506 |
+| Players | 1/10 |
+| Host Name | Metraflex |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:17:57 |
+| Lobby Creation Time | Friday, December 8, 2023 14:18:08 |
 
 
 |  | epic_boss_fight_hard |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ам ням |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 8, 2023 14:17:25 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553147141207748 |
+| Players | 1/7 |
+| Host Name | |Sasaki-Haise| |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:18:05 |
 
 
