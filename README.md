@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147083994491 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Xowin |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 12:35:10 |
@@ -41,37 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147083352464 |
-| Players | 13/15 |
+| Players | 10/15 |
 | Host Name | Hajon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 12:33:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147083819638 |
-| Players | 8/10 |
-| Host Name | прочитал = пидop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 12:34:51 |
+| Lobby ID | 28553147084303122 |
+| Players | 1/24 |
+| Host Name | sin vesicula |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 8, 2023 12:35:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147083840300 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | вошел в аналы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:34:53 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147084399710 |
+| Players | 1/24 |
+| Host Name | Fitzcarraldo |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:35:56 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147083878803 |
-| Players | 5/8 |
+| Lobby ID | 28553147084395002 |
+| Players | 6/8 |
 | Host Name | OtaGame |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:34:57 |
+| Lobby Creation Time | Friday, December 8, 2023 12:35:56 |
 
 
 |  | epic_boss_fight_normal |
