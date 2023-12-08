@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147121512303 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | ToXiC PlAyEr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:44:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147122237436 |
+| Players | 5/10 |
+| Host Name | javaer_f_lores |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:45:44 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147124304985 |
-| Players | 12/15 |
-| Host Name | <LiMbO> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:49:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147120673767 |
-| Players | 1/8 |
-| Host Name | Conor McGregor |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 13:42:59 |
+| Lobby ID | 28553147125032520 |
+| Players | 3/15 |
+| Host Name | Bundestagswal |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 13:50:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147120823568 |
-| Players | 3/24 |
-| Host Name | OD Spammer EZ MID |
+| Players | 1/24 |
+| Host Name | Surprize mother farker |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 8, 2023 13:43:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147122237436 |
-| Players | 4/10 |
-| Host Name | javaer_f_lores |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:45:44 |
 
 
 |  | epic_boss_fight_nightmare |
