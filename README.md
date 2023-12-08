@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 15:27:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147180682004 |
-| Players | 8/10 |
-| Host Name | dog |
+| Lobby ID | 28553147180810142 |
+| Players | 4/8 |
+| Host Name | путь к перегару |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:27:45 |
+| Lobby Creation Time | Friday, December 8, 2023 15:27:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147180512163 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Parovoz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:27:28 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147180744730 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Легенда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:27:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147181001891 |
+| Players | 1/8 |
+| Host Name | Bob3r |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 15:28:18 |
 
 
 |  | epic_boss_fight_challenger |
