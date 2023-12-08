@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147062089431 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Plague |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 11:54:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147063000284 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Hash |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:55:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147063341226 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Pompinchu |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:56:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147063464607 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 空から涙が落ちる |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:56:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147063523470 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Blizario |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:56:49 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147063711830 |
-| Players | 3/8 |
-| Host Name | Ackerman |
+| Players | 2/8 |
+| Host Name | Hellsing |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 11:57:11 |
 
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MySc.JimPark |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:57:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147064183284 |
+| Players | 1/8 |
+| Host Name | >< |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 8, 2023 11:58:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147064237110 |
+| Players | 2/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 11:58:11 |
 
 
 |  | epic_boss_fight_nightmare |
