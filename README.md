@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147146562125 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | I Love Mid Mother Fucker♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:27:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147141358834 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | KamyChoppercita |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:18:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147146502766 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I.Khan.N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:27:22 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147146369904 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Твой папочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:27:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147147037451 |
+| Players | 1/8 |
+| Host Name | адекватный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:28:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AWESOME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:27:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147147022109 |
+| Players | 2/5 |
+| Host Name | ❄void enjoyer❄ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 14:28:16 |
 
 
