@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147111953155 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | FILIPINAS SAD :c |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:27:33 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147111864695 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | -BLUE LABEL De JHONNIE WALKER |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:27:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147112792292 |
-| Players | 1/8 |
-| Host Name | 76561199196836346 |
+| Lobby ID | 28553147112214181 |
+| Players | 7/15 |
+| Host Name | Do you feel? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:29:02 |
+| Lobby Creation Time | Friday, December 8, 2023 13:28:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147110348321 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | HeHe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:24:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147110367231 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:24:41 |
@@ -56,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:26:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147113209626 |
+| Players | 2/10 |
+| Host Name | mkz |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 13:29:48 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147107486539 |
-| Players | 1/8 |
-| Host Name | JosDan |
+| Lobby ID | 28553147110300856 |
+| Players | 6/8 |
+| Host Name | JIMMY EL BARDO |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:19:24 |
+| Lobby Creation Time | Friday, December 8, 2023 13:24:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147112214181 |
-| Players | 4/15 |
-| Host Name | Do you feel? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:28:00 |
+| Lobby ID | 28553147112945478 |
+| Players | 2/10 |
+| Host Name | Bankai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 13:29:19 |
 
 
