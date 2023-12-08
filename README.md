@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147066255976 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | KiDPER |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:02:00 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dark♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:04:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147067963348 |
+| Players | 1/15 |
+| Host Name | Clay |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 12:05:13 |
 
 
