@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147302487817 |
-| Players | 13/15 |
-| Host Name | No fs |
+| Lobby ID | 28553147303854860 |
+| Players | 2/15 |
+| Host Name | LOVE_yandere |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:30:36 |
+| Lobby Creation Time | Friday, December 8, 2023 18:32:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147301398501 |
-| Players | 1/15 |
-| Host Name | Ratelbeth |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 8, 2023 18:29:16 |
+| Lobby ID | 28553147303824885 |
+| Players | 3/8 |
+| Host Name | PERIS@DE |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 18:32:15 |
 
 
 |  | ot3_desert_octet |
@@ -83,40 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:26:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147303253058 |
-| Players | 7/10 |
-| Host Name | qweque |
+| Lobby ID | 28553147303887489 |
+| Players | 3/8 |
+| Host Name | Разгруженный |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:31:33 |
+| Lobby Creation Time | Friday, December 8, 2023 18:32:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147302955445 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:31:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147303680970 |
-| Players | 2/8 |
-| Host Name | Разгруженный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:32:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147303687519 |
-| Players | 4/8 |
-| Host Name | Мирон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:32:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big Poppa |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 8, 2023 18:30:10 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553147303952769 |
+| Players | 1/7 |
+| Host Name | II |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 18:32:24 |
 
 
