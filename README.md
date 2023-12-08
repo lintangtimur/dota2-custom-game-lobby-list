@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147166651778 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | MF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:03:09 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 15:03:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147167381977 |
-| Players | 10/15 |
-| Host Name | Antidepressant |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 15:04:29 |
+| Lobby ID | 28553147167769547 |
+| Players | 1/24 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 15:05:11 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147167536193 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:04:46 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wang Taupik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:03:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147167698458 |
+| Players | 1/5 |
+| Host Name | LIlDick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 15:05:03 |
 
 
