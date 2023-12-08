@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147200789795 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | no_fame |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:00:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147200976201 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | S'chizO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:00:47 |
@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:01:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147201340431 |
+| Players | 1/24 |
+| Host Name | Джимми Вагнер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:01:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147195324102 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147200472832 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | VancouverOsaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:59:58 |
