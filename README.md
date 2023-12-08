@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147154828024 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 雨墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:41:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147153249729 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:39:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147155416716 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | whats'up |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:42:54 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147155885351 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:43:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147156298942 |
+| Players | 3/8 |
+| Host Name | напёздник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:44:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553147154144452 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | proptop0987 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:40:39 |
@@ -77,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147154295295 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:40:55 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553147156210924 |
-| Players | 1/7 |
-| Host Name | Серёжа Пивогрыз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:44:18 |
 
 
