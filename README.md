@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147235999143 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Amigo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:55:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147236727972 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | это непросто гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:56:43 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:57:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147237044902 |
+| Players | 4/8 |
+| Host Name | мы их бам-бам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:57:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147236283304 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Цибуля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:56:01 |
@@ -74,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:56:12 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147236938176 |
-| Players | 1/7 |
-| Host Name | NPS |
+| Lobby ID | 28553147237061811 |
+| Players | 1/10 |
+| Host Name | ПоДпивас на Бристе |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:57:03 |
+| Lobby Creation Time | Friday, December 8, 2023 16:57:15 |
 
 
