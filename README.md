@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:02:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147280951599 |
-| Players | 6/8 |
-| Host Name | existence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:02:25 |
+| Lobby ID | 28553147281492449 |
+| Players | 1/15 |
+| Host Name | 出棋不意必自闭 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 8, 2023 18:03:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147281144653 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | lil shaniqua |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:02:41 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147281217702 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | No fs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:02:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147281473970 |
-| Players | 1/15 |
-| Host Name | 阳光开朗小冰女 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 18:03:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147281492449 |
-| Players | 1/15 |
-| Host Name | 出棋不意必自闭 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 18:03:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147281525001 |
-| Players | 1/10 |
-| Host Name | Yami |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:03:12 |
 
 
 |  | epic_boss_fight_normal |
