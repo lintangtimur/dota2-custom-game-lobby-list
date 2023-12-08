@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147277714693 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ライラック |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:57:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147279128439 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | OneDay_Definitly_Suicide |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:59:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147279278132 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | MikHo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:00:06 |
@@ -62,6 +62,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | HUMAN |
 | Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 18:00:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147279272879 |
+| Players | 3/8 |
+| Host Name | NeEwl |
+| Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:00:05 |
 
 
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147276929563 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:56:48 |
