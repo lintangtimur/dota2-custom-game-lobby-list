@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147149309231 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | sf abuzer ィeverlasting hateィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:32:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147149043735 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | HUMPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:31:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147134236767 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 14:06:11 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:32:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147143685931 |
-| Players | 8/10 |
-| Host Name | Kirito |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 14:22:26 |
+| Lobby ID | 28553147149662231 |
+| Players | 1/24 |
+| Host Name | Desvirgenser |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 14:32:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147149345978 |
+| Players | 1/5 |
+| Host Name | ам ням |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:32:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:30:34 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147149340975 |
-| Players | 1/5 |
-| Host Name | Meo |
+| Lobby ID | 28553147149421481 |
+| Players | 1/10 |
+| Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 14:32:21 |
+| Lobby Creation Time | Friday, December 8, 2023 14:32:29 |
 
 
