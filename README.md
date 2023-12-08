@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147257474772 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | GasPoll |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:28:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147258885052 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | アブソリュート |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:30:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147259260597 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Watchmestun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:31:16 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Century Toenail |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:28:28 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553147259358915 |
+| Players | 2/7 |
+| Host Name | Kaban4k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:31:24 |
 
 
