@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147081470895 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Grizzly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:30:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147069206332 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dr. Shaman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:07:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147081062982 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | 78q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:29:47 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arab |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:17:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553147080735343 |
-| Players | 1/5 |
-| Host Name | Gzzy |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:29:10 |
 
 
