@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147111864695 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | -BLUE LABEL De JHONNIE WALKER |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:27:24 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147110300856 |
-| Players | 6/8 |
-| Host Name | KamyChoppercita |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:24:34 |
+| Lobby ID | 28553147112792292 |
+| Players | 1/8 |
+| Host Name | 76561199196836346 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:29:02 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147110367231 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:24:41 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147107486539 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | JosDan |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:19:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147111840587 |
-| Players | 8/10 |
-| Host Name | QWE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:27:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147112214181 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Do you feel? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:28:00 |
