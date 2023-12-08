@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147197372778 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | PERIS@DE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:55:00 |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147197373443 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | CiàÕ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:55:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147197593850 |
-| Players | 8/10 |
-| Host Name | yachez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:55:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147185813194 |
-| Players | 2/24 |
-| Host Name | Хaoсит  Untimely |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:36:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147197803006 |
-| Players | 6/8 |
-| Host Name | Рассекающий пиво |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:55:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147196455313 |
-| Players | 1/10 |
-| Host Name | SE FUE, SE FUE |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 15:53:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 15:55:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147198021131 |
-| Players | 9/15 |
-| Host Name | plxsm |
+| Lobby ID | 28553147185813194 |
+| Players | 2/24 |
+| Host Name | Хaoсит  Untimely |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:56:02 |
+| Lobby Creation Time | Friday, December 8, 2023 15:36:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147198561396 |
+| Players | 1/10 |
+| Host Name | Shut_666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 15:56:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147196455313 |
+| Players | 1/10 |
+| Host Name | SE FUE, SE FUE |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 15:53:31 |
 
 
 |  | epic_boss_fight_nightmare |
