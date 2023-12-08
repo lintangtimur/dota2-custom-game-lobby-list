@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147197000298 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | shmunky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:54:24 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147194977593 |
-| Players | 23/24 |
-| Host Name | HeHe |
+| Lobby ID | 28553147197373443 |
+| Players | 1/24 |
+| Host Name | CiàÕ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 15:51:09 |
+| Lobby Creation Time | Friday, December 8, 2023 15:55:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147196652473 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Вот вам и ХАМАС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:53:51 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147195667536 |
-| Players | 6/8 |
-| Host Name | Fabos |
+| Players | 5/8 |
+| Host Name | Sad Clown((( |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 15:52:15 |
 
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 15:53:31 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147197372778 |
+| Players | 1/8 |
+| Host Name | PERIS@DE |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 15:55:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147195324102 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ng:) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:51:42 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:54:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147192741607 |
-| Players | 9/10 |
-| Host Name | HarBonDioxide |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 15:47:36 |
 
 
