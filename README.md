@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147136589630 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | <LiMbO> |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:10:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147135754559 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:08:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147134750801 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | meadow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:07:02 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147136440101 |
+| Lobby ID | 28553147137036726 |
 | Players | 1/8 |
-| Host Name | Ro2z |
+| Host Name | 11:11 雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:09:53 |
+| Lobby Creation Time | Friday, December 8, 2023 14:10:54 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147134988221 |
-| Players | 1/5 |
-| Host Name | ам ням |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 8, 2023 14:07:26 |
+| Lobby ID | 28553147136476628 |
+| Players | 5/10 |
+| Host Name | MaryAnna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 14:09:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:09:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553147136476628 |
-| Players | 2/10 |
-| Host Name | MaryAnna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 14:09:57 |
+| Lobby ID | 28553147137067975 |
+| Players | 1/5 |
+| Host Name | ам ням |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 8, 2023 14:10:57 |
 
 
