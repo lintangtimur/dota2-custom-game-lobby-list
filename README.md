@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147281845940 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Yami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:03:39 |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:03:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147281736326 |
-| Players | 7/8 |
-| Host Name | genocide in hell |
+| Lobby ID | 28553147282752401 |
+| Players | 9/15 |
+| Host Name | BLOOD_DJO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:03:30 |
+| Lobby Creation Time | Friday, December 8, 2023 18:04:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147281144653 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | lil shaniqua |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:02:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147282752401 |
-| Players | 4/15 |
-| Host Name | BLOOD_DJO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:04:55 |
 
 
 |  | epic_boss_fight_challenger |
