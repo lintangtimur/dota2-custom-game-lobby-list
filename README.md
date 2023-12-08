@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147178526652 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PELICANITO2.0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:24:04 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147180026398 |
-| Players | 12/15 |
-| Host Name | 17 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 15:26:38 |
+| Lobby ID | 28553147177628648 |
+| Players | 14/15 |
+| Host Name | Churchill |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 15:22:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147176687722 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:20:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147180303891 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:27:07 |
