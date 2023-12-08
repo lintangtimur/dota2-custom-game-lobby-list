@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147104806441 |
-| Players | 23/24 |
-| Host Name | Wu Gensheng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:14:23 |
+| Lobby ID | 28553147107975686 |
+| Players | 3/8 |
+| Host Name | GAD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:20:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147107798895 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Kfuman8292 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:19:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147106929477 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SOY TÍMIDO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:18:22 |
@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:19:24 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147107960148 |
+| Players | 2/15 |
+| Host Name | NINDZA TEN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:20:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147103567814 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:12:05 |
@@ -49,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147106527752 |
-| Players | 7/10 |
-| Host Name | DMIEL |
+| Lobby ID | 28553147108169746 |
+| Players | 3/10 |
+| Host Name | Kurimawski |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:17:36 |
+| Lobby Creation Time | Friday, December 8, 2023 13:20:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147108322841 |
+| Players | 2/5 |
+| Host Name | СИГМА БАРА |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 13:20:57 |
 
 
