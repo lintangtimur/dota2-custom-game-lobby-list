@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147093482291 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:52:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147094000405 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sona |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:53:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147093004319 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | musicstar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:51:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147086593096 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Orph3us |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 12:39:59 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147093738778 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Annette |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:53:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147094445793 |
+| Players | 3/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:54:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147094447267 |
+| Players | 1/8 |
+| Host Name | sluker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:54:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147094468773 |
+| Players | 2/8 |
+| Host Name | jb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:54:40 |
 
 
 |  | epic_boss_fight_nightmare |
