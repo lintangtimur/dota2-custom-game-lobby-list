@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147207440856 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Я в лес на ходу |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:10:59 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:04:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147207662866 |
-| Players | 12/15 |
-| Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:11:20 |
+| Lobby ID | 28553147205163192 |
+| Players | 23/24 |
+| Host Name | Henry Cavill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:07:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147207922668 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | Rasputina |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:11:44 |
@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147206062847 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:08:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553147207297766 |
-| Players | 3/10 |
-| Host Name | DJ Жаба |
+| Lobby ID | 28553147208595279 |
+| Players | 4/5 |
+| Host Name | Yachiru |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:10:46 |
+| Lobby Creation Time | Friday, December 8, 2023 16:12:48 |
 
 
