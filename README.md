@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147075316502 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | show me ur dixk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:19:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147077825089 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | COSMO EL GATO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:23:43 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147075551591 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 12:19:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147074224058 |
-| Players | 13/15 |
-| Host Name | North |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 8, 2023 12:16:59 |
+| Lobby ID | 28553147079174687 |
+| Players | 1/10 |
+| Host Name | LA ABUELA LOLA |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:26:15 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Republica independiente de Arequ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:24:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147079091623 |
+| Players | 6/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 12:26:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147079106908 |
+| Players | 1/8 |
+| Host Name | Серега Жидкий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:26:07 |
 
 
 |  | epic_boss_fight_nightmare |
