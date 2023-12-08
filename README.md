@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147128125865 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:55:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147127492325 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | nereshka youtube |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 13:54:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147127981753 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Лии |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:55:40 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:57:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147129264316 |
-| Players | 2/24 |
-| Host Name | Sr. Isma |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:57:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147129291704 |
@@ -65,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:57:55 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147129401199 |
+| Players | 1/24 |
+| Host Name | X-ART |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 13:58:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147125260068 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:50:58 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147128008457 |
-| Players | 5/10 |
-| Host Name | Draccster |
+| Players | 1/10 |
+| Host Name | <<<generosbili>>> |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:55:43 |
 
