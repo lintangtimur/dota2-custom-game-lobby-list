@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147111864695 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | -BLUE LABEL De JHONNIE WALKER |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:27:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147110348321 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | HeHe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:24:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147111840587 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | QWE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:27:21 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147112214181 |
-| Players | 1/15 |
-| Host Name |  |
+| Players | 3/15 |
+| Host Name | Do you feel? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:28:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147112409397 |
+| Players | 1/24 |
+| Host Name | poombang |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:28:21 |
 
 
