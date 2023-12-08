@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 17:43:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147273905318 |
-| Players | 23/24 |
-| Host Name | Ҝ丨几丂卄丨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 17:52:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147276154566 |
-| Players | 7/15 |
-| Host Name | Наруто Узумаки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:55:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147275358094 |
-| Players | 6/10 |
-| Host Name | 请讲英语 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:54:35 |
+| Lobby ID | 28553147276538434 |
+| Players | 3/15 |
+| Host Name | nenax |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 17:56:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147274527980 |
-| Players | 4/10 |
-| Host Name | jimmy rizz |
+| Players | 3/10 |
+| Host Name | ggwp |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 8, 2023 17:53:25 |
 
