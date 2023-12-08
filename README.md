@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147068091041 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | h0h0 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147070196717 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:09:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147070265687 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:09:33 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147071991871 |
-| Players | 1/15 |
-| Host Name | SEEEHUMILLA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:12:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28553147072199081 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | RexBeto |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:13:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147072508680 |
+| Players | 4/24 |
+| Host Name | Maltitos! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 12:13:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147072570300 |
+| Players | 1/24 |
+| Host Name | Bniuoas |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 8, 2023 12:13:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147070834129 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | honey_bunch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:10:37 |
