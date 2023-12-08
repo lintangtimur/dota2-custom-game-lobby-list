@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147045285446 |
-| Players | 14/15 |
-| Host Name | Incognito |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 11:20:17 |
+| Lobby ID | 28553147046534830 |
+| Players | 11/15 |
+| Host Name | KeKu |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 11:22:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147045295134 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Мненоромас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:20:18 |
@@ -32,19 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147046636520 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Watchmestun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:23:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147046534830 |
-| Players | 7/15 |
-| Host Name | KeKu |
+| Lobby ID | 28553147047033150 |
+| Players | 1/24 |
+| Host Name | GaymeR♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 8, 2023 11:23:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147047130056 |
+| Players | 1/24 |
+| Host Name | MAKIZAPA |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 11:22:54 |
+| Lobby Creation Time | Friday, December 8, 2023 11:24:07 |
 
 
 |  | epic_boss_fight_nightmare |
