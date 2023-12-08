@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147218554077 |
-| Players | 9/15 |
-| Host Name | saitama |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:28:24 |
+| Lobby ID | 28553147219537239 |
+| Players | 1/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 8, 2023 16:29:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147219189774 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ZzZ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 16:29:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147219410421 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Лии |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:29:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147219460787 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Parokya ni Allah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:29:49 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:29:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147219537239 |
-| Players | 1/15 |
-| Host Name | Locomobile | The Chimney |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 8, 2023 16:29:56 |
 
 
 |  | epic_boss_fight_nightmare |
