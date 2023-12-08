@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147117758898 |
-| Players | 9/15 |
-| Host Name | we lost :( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:37:49 |
+| Lobby ID | 28553147118138281 |
+| Players | 12/15 |
+| Host Name | Dream |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 13:38:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147115928388 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | goshiu |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:34:36 |
@@ -45,32 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Abelex |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 13:36:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147118138281 |
-| Players | 11/15 |
-| Host Name | Dream |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 13:38:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147118486023 |
-| Players | 7/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:39:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553147118987097 |
-| Players | 1/5 |
-| Host Name | Tom And Jerry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:40:00 |
 
 
