@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147063000284 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Hash |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:55:49 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 11:55:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147063464607 |
-| Players | 9/10 |
-| Host Name | 空から涙が落ちる |
+| Lobby ID | 28553147064237110 |
+| Players | 2/8 |
+| Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 11:56:43 |
+| Lobby Creation Time | Friday, December 8, 2023 11:58:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147063523470 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Blizario |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:56:49 |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 11:58:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147064237110 |
-| Players | 2/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 11:58:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147055257653 |
-| Players | 9/10 |
-| Host Name | Jemi |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 11:40:53 |
+| Lobby ID | 28553147064767969 |
+| Players | 1/10 |
+| Host Name | ^^Heaven |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 11:59:12 |
 
 
 |  | epic_boss_fight_nightmare |
