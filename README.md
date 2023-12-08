@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:10:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147205506457 |
-| Players | 13/15 |
-| Host Name | baoeq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:07:56 |
+| Lobby ID | 28553147207440856 |
+| Players | 1/8 |
+| Host Name | pro gamer 2005 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 16:10:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147205163192 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:24 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147204871143 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:06:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147207419441 |
+| Players | 1/8 |
+| Host Name | desomorphine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:10:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147207297766 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | DJ Жаба |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:10:46 |
