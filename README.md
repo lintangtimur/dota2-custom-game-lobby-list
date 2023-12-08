@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147118212787 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | ♡Lina-chan♡ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:38:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147121560726 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | voidwalk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:44:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147120823568 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | OD Spammer EZ MID |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 8, 2023 13:43:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147121915743 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | прочитал = пидop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:45:11 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147121885792 |
-| Players | 9/15 |
-| Host Name | сиськаплюй скуф |
+| Players | 12/15 |
+| Host Name | YouTube:Kamada4estan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:45:08 |
 
@@ -86,25 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147122237436 |
-| Players | 2/10 |
-| Host Name | SITH El Gato solitario de la lun |
+| Players | 1/10 |
+| Host Name | javaer_f_lores |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:45:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147122347370 |
+| Lobby ID | 28553147122445174 |
 | Players | 1/8 |
-| Host Name | javaer_f_lores |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:45:55 |
+| Host Name | Abelex |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 13:46:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147122554326 |
+| Players | 1/10 |
+| Host Name | it_g_mah |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 13:46:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147119723644 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | All mute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:41:17 |
