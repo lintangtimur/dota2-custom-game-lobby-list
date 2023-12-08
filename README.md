@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:13:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147101494417 |
-| Players | 23/24 |
-| Host Name | Dawar Bin Trump |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:08:12 |
+| Lobby ID | 28553147104592317 |
+| Players | 3/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:13:59 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147104470845 |
+| Lobby ID | 28553147104741124 |
 | Players | 1/8 |
-| Host Name | Хасбу в Городэ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:13:45 |
+| Host Name | boltak |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 13:14:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:12:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147104727579 |
+| Players | 1/5 |
+| Host Name | Елисей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:14:14 |
 
 
