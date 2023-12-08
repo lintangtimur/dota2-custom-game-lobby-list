@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147204952707 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147223993571 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:36:51 |
@@ -41,45 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147223970761 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ТВОЯ СОВЕСТЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:36:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147222438470 |
-| Players | 8/10 |
-| Host Name | Токийский Пудж |
+| Lobby ID | 28553147224533637 |
+| Players | 3/10 |
+| Host Name | ☪Bilal Abdul Kareem☪ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:34:27 |
+| Lobby Creation Time | Friday, December 8, 2023 16:37:41 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147223734143 |
-| Players | 2/7 |
-| Host Name | Kaban4k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:36:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147224290907 |
-| Players | 1/10 |
-| Host Name | Mr. BnN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:37:18 |
+| Lobby ID | 28553147224540290 |
+| Players | 2/8 |
+| Host Name | ZzZ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 16:37:41 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553147224351030 |
+| Lobby ID | 28553147224725037 |
 | Players | 1/5 |
-| Host Name | УБИЙЦА МАЗАФАКАААААА |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 16:37:24 |
+| Host Name | 後•|•클라이드シ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:37:59 |
 
 
