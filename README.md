@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147204952707 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:04 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147222385809 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | บังหมัด |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:34:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147225582924 |
-| Players | 12/15 |
-| Host Name | DEVIL |
+| Lobby ID | 28553147226114069 |
+| Players | 1/10 |
+| Host Name | Sanyo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:39:19 |
+| Lobby Creation Time | Friday, December 8, 2023 16:40:08 |
 
 
 |  | ot3_necropolis_ffa |
