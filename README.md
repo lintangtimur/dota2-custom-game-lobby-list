@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147274660633 |
-| Players | 7/8 |
-| Host Name | 187 |
+| Lobby ID | 28553147275077069 |
+| Players | 1/8 |
+| Host Name | ICHZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:53:36 |
+| Lobby Creation Time | Friday, December 8, 2023 17:54:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147267366971 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | krЭmovaya Чayka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:43:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147273905318 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:52:32 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147274555441 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Clown... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:53:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147274888218 |
+| Players | 5/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:53:56 |
 
 
 |  | epic_boss_fight_normal |
