@@ -2,51 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147103052088 |
-| Players | 14/15 |
-| Host Name | Mo' Cake |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 13:11:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147101494417 |
-| Players | 21/24 |
-| Host Name | Dawar Bin Trump |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:08:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147103362872 |
-| Players | 3/24 |
-| Host Name | PARC |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:11:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147103277007 |
-| Players | 7/8 |
-| Host Name | Miking |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:11:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147103665915 |
-| Players | 4/10 |
-| Host Name | EL MARINO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:12:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147104107930 |
@@ -56,10 +11,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:13:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147101494417 |
+| Players | 23/24 |
+| Host Name | Dawar Bin Trump |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 13:08:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147103362872 |
+| Players | 5/24 |
+| Host Name | PARC |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:11:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147103665915 |
+| Players | 5/10 |
+| Host Name | EL MARINO |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:12:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147104470845 |
+| Players | 1/8 |
+| Host Name | Хасбу в Городэ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:13:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147102044605 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | RED.DAYS YAWA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:09:14 |
