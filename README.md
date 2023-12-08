@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 17:11:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147245639972 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 17:10:54 |
+| Lobby ID | 28553147247345173 |
+| Players | 1/24 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 17:13:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147247120783 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:13:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147246731699 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | fanatwarda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:12:33 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147247216031 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | какашки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:13:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147247631656 |
+| Players | 1/15 |
+| Host Name | Final feliz |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 17:13:55 |
 
 
 |  | epic_boss_fight_nightmare |
