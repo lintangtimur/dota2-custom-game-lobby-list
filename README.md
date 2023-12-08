@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:42:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147228314508 |
-| Players | 7/8 |
-| Host Name | Пажылой Скилет |
+| Lobby ID | 28553147228543682 |
+| Players | 8/10 |
+| Host Name | Fabos |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 16:43:33 |
+| Lobby Creation Time | Friday, December 8, 2023 16:43:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:43:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147228543682 |
-| Players | 7/10 |
-| Host Name | Fabos |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 16:43:55 |
+| Lobby ID | 28553147228868307 |
+| Players | 1/8 |
+| Host Name | motyzavr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:44:25 |
 
 
 |  | epic_boss_fight_nightmare |
