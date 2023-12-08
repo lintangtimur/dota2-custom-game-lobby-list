@@ -29,37 +29,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:01:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147281030016 |
-| Players | 7/10 |
-| Host Name | шизик(НГОЛО КАНТЕ |
+| Lobby ID | 28553147281736326 |
+| Players | 1/8 |
+| Host Name | genocide in hell |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:02:32 |
+| Lobby Creation Time | Friday, December 8, 2023 18:03:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147281144653 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | lil shaniqua |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:02:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147281723545 |
+| Players | 1/8 |
+| Host Name | Illusion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 18:03:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147281845940 |
+| Players | 2/10 |
+| Host Name | Yami |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 18:03:39 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147281217702 |
-| Players | 12/15 |
-| Host Name | No fs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:02:47 |
+| Lobby ID | 28553147281835087 |
+| Players | 13/15 |
+| Host Name | ДАНИЛА Я |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 18:03:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147281995616 |
+| Players | 1/8 |
+| Host Name | PRODIGY |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 8, 2023 18:03:52 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553147267436345 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | dom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:43:13 |
