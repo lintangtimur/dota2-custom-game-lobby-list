@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147068091041 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | & |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147067638176 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:04:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147066196927 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 12:01:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147068314576 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | badboy.1 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:05:52 |
@@ -58,11 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147068078489 |
+| Lobby ID | 28553147068648172 |
+| Players | 1/8 |
+| Host Name | preñador de paisanas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:06:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147067377456 |
+| Players | 12/15 |
+| Host Name | Dark♥ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:04:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147068686617 |
 | Players | 2/8 |
 | Host Name | stupid banana |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 12:05:26 |
+| Lobby Creation Time | Friday, December 8, 2023 12:06:34 |
 
 
 |  | epic_boss_fight_nightmare |
