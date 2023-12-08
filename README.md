@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147243355786 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 17:07:24 |
@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147250416626 |
-| Players | 7/10 |
-| Host Name | noir |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 17:18:11 |
+| Lobby ID | 28553147251386631 |
+| Players | 9/10 |
+| Host Name | i{ce}{s}cream |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:19:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147250535157 |
-| Players | 13/15 |
-| Host Name | apureshadowhasnoflaws |
+| Lobby ID | 28553147251324250 |
+| Players | 9/15 |
+| Host Name | Churchill |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:18:21 |
+| Lobby Creation Time | Friday, December 8, 2023 17:19:33 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 17:18:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147251324485 |
+| Players | 1/15 |
+| Host Name | wanna kill dude in da mirror |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:19:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147251177242 |
-| Players | 2/8 |
-| Host Name | suguru|geto |
+| Lobby ID | 28553147251622101 |
+| Players | 1/8 |
+| Host Name | Бычик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:19:20 |
+| Lobby Creation Time | Friday, December 8, 2023 17:19:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147249956703 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | UA l makson |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 17:17:29 |
