@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147221332855 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:32:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147230291661 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:46:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147232656721 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | xD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:50:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147232952900 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Лёня Пидорин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:50:47 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147233045201 |
-| Players | 4/8 |
-| Host Name | путь к перегару |
+| Lobby ID | 28553147233146622 |
+| Players | 3/8 |
+| Host Name | и чо? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 16:50:56 |
+| Lobby Creation Time | Friday, December 8, 2023 16:51:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147229900644 |
-| Players | 8/10 |
-| Host Name | Hasta La Vista |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:46:02 |
+| Lobby ID | 28553147233135184 |
+| Players | 13/15 |
+| Host Name | 200 IQ Player |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 16:51:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147233284496 |
+| Players | 4/8 |
+| Host Name | クソ雌犬クソ雌犬 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:51:19 |
 
 
 |  | epic_boss_fight_nightmare |
