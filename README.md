@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147283629864 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kovitoko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:06:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147285664195 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | / |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:08:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147285667208 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:08:58 |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:09:29 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553147286620460 |
-| Players | 1/24 |
-| Host Name | Rick & Clancy |
+| Lobby ID | 28553147286677005 |
+| Players | 1/5 |
+| Host Name | Kenpachi 更木 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 18:10:14 |
+| Lobby Creation Time | Friday, December 8, 2023 18:10:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147283475639 |
+| Players | 2/5 |
+| Host Name | キルア absolute |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 18:05:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553147286718371 |
+| Players | 1/10 |
+| Host Name | Anonymousthetic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 18:10:22 |
 
 
