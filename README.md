@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147066255976 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | KiDPER |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:02:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147066240665 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Meat Eye |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:01:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147063054284 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:55:55 |
@@ -49,10 +49,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147067272375 |
-| Players | 1/15 |
-| Host Name | 基督教 |
+| Lobby ID | 28553147067377456 |
+| Players | 2/15 |
+| Host Name | Dark♥ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:03:55 |
+| Lobby Creation Time | Friday, December 8, 2023 12:04:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147067302862 |
+| Players | 3/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 12:03:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147066896942 |
+| Players | 2/8 |
+| Host Name | stupid banana |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:03:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147067469459 |
+| Players | 5/8 |
+| Host Name | adik1337 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 12:04:17 |
 
 
