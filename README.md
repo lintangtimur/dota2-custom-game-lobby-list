@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147185108683 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | (RSO)EMINEM(RSO) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:35:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147194977593 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Danger Line |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:51:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147196161642 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ебучая тупорезка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:53:03 |
@@ -41,10 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147185813194 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Хaoсит  Untimely |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:36:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147195667536 |
+| Players | 5/8 |
+| Host Name | Fabos |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 15:52:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147196382186 |
+| Players | 3/8 |
+| Host Name | трактор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 15:53:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147196397408 |
+| Players | 1/10 |
+| Host Name | dog |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 8, 2023 15:53:26 |
 
 
 |  | epic_boss_fight_nightmare |
