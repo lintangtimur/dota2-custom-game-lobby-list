@@ -38,6 +38,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 17:04:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147242052634 |
+| Players | 1/8 |
+| Host Name | ScallyBlaze |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:05:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147241712429 |
+| Players | 6/8 |
+| Host Name | РОМЧИК 2 АЕГИСА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 17:04:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147241053853 |
