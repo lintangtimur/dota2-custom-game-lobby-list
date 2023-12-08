@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147289273969 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | glinomes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:13:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147289087388 |
-| Players | 9/10 |
-| Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 18:13:30 |
+| Lobby ID | 28553147290237991 |
+| Players | 1/8 |
+| Host Name | ICHZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 18:15:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:14:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147290237991 |
-| Players | 1/8 |
-| Host Name | ICHZ |
+| Lobby ID | 28553147290582982 |
+| Players | 1/24 |
+| Host Name | OXOTHuK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:15:00 |
+| Lobby Creation Time | Friday, December 8, 2023 18:15:26 |
 
 
 |  | epic_boss_fight_nightmare |
