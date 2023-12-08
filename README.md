@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147207440856 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | pro gamer 2005 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:10:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147205163192 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:24 |
@@ -74,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:10:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147207644681 |
+| Players | 2/8 |
+| Host Name | ♱ kamidzu ♱ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 16:11:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147207662866 |
+| Players | 3/15 |
+| Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:11:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147206062847 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:08:49 |
