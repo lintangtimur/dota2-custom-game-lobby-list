@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147185108683 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:35:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147183572249 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | eggsandwich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:32:35 |
@@ -60,9 +60,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553147186347662 |
 | Players | 4/15 |
-| Host Name | Arl |
+| Host Name | YGBN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:37:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147186510494 |
+| Players | 1/10 |
+| Host Name | 76561198848531006 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 15:37:26 |
 
 
 |  | epic_boss_fight_challenger |
