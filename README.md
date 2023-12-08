@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147111621113 |
-| Players | 1/8 |
-| Host Name | Madagascar |
+| Lobby ID | 28553147110300856 |
+| Players | 6/8 |
+| Host Name | JIMMY EL BARDO |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:26:58 |
+| Lobby Creation Time | Friday, December 8, 2023 13:24:34 |
 
 
 |  | ot3_gardens_duo |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mkz |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 13:29:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147110300856 |
-| Players | 6/8 |
-| Host Name | JIMMY EL BARDO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 13:24:34 |
 
 
 |  | epic_boss_fight_nightmare |
