@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147204952707 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:07:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147206947647 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Бугименчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:10:13 |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147207440856 |
-| Players | 3/8 |
-| Host Name | pro gamer 2005 |
+| Players | 2/8 |
+| Host Name | w34-ratata |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 16:10:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147207125308 |
-| Players | 1/8 |
-| Host Name | Plobi_bi bi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 16:10:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147203489653 |
-| Players | 2/24 |
-| Host Name | Эдсон Вера Девяты |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 16:04:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553147205163192 |
-| Players | 23/24 |
-| Host Name | Henry Cavill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:07:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147204871143 |
-| Players | 5/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:06:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:10:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147207644681 |
-| Players | 2/8 |
-| Host Name | ♱ kamidzu ♱ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 16:11:18 |
+| Lobby ID | 28553147203489653 |
+| Players | 1/24 |
+| Host Name | Эдсон Вера Девяты |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 16:04:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147207662866 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 16:11:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147207922668 |
+| Players | 2/24 |
+| Host Name | Rasputina |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 16:11:44 |
 
 
 |  | epic_boss_fight_nightmare |
