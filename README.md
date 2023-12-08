@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147118212787 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ♡Lina-chan♡ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:38:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147122881432 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | smok_ganja. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:46:51 |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147123203677 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | meow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:47:25 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147123511123 |
-| Players | 2/7 |
-| Host Name | Bipolarbear |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 8, 2023 13:47:57 |
+| Lobby ID | 28553147119723644 |
+| Players | 9/10 |
+| Host Name | All mute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:41:17 |
 
 
