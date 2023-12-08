@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553147144628899 |
 | Players | 3/24 |
-| Host Name | LatinoByte |
+| Host Name | egoless narcissist |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:24:04 |
 
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147146502766 |
-| Players | 10/15 |
-| Host Name | I.Khan.N |
+| Lobby ID | 28553147147343312 |
+| Players | 1/15 |
+| Host Name | Pussy Destroyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:27:22 |
+| Lobby Creation Time | Friday, December 8, 2023 14:28:50 |
 
 
 |  | ot3_desert_octet |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:26:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147146369904 |
-| Players | 6/8 |
-| Host Name | Твой папочка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:27:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147147037451 |
-| Players | 1/8 |
-| Host Name | адекватный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:28:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147143685931 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Kirito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:22:26 |
@@ -90,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AWESOME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:27:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553147147022109 |
-| Players | 2/5 |
-| Host Name | ❄void enjoyer❄ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 14:28:16 |
 
 
