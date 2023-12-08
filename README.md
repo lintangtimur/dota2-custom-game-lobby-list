@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147163797674 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Xon |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 14:57:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147162440989 |
-| Players | 6/8 |
-| Host Name | Пластилин |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 14:55:21 |
+| Lobby ID | 28553147163969229 |
+| Players | 2/24 |
+| Host Name | zzz |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 14:58:02 |
 
 
 |  | ot3_desert_octet |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553147163358440 |
 | Players | 2/10 |
-| Host Name | чё? |
+| Host Name | SSH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:56:58 |
 
@@ -58,26 +58,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147163931011 |
-| Players | 1/24 |
-| Host Name | zzz |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 14:57:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28553147163928784 |
-| Players | 1/24 |
+| Players | 11/24 |
 | Host Name | SSS+ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:57:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147164065352 |
+| Players | 2/8 |
+| Host Name | Watchmestun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:58:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553147164141369 |
+| Players | 1/24 |
+| Host Name | Backi |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 14:58:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147164156069 |
+| Players | 3/8 |
+| Host Name | 3Jl0й 30NBI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:58:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147158423910 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:48:15 |
