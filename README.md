@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147149971982 |
-| Players | 23/24 |
+| Players | 24/24 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 14:33:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147152903688 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | mode: chudovishe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:38:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147152491379 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:37:47 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:38:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147149421481 |
-| Players | 9/10 |
-| Host Name | Farewell, My paradise |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 14:32:29 |
+| Lobby ID | 28553147153814589 |
+| Players | 1/15 |
+| Host Name | TOP REG in the world |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 14:40:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147153886293 |
+| Players | 1/10 |
+| Host Name | holero |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:40:12 |
 
 
 |  | epic_boss_fight_nightmare |
