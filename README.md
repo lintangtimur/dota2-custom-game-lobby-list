@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147235851443 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 16:55:21 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:55:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147233677403 |
-| Players | 23/24 |
-| Host Name | losing streak |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 16:51:56 |
+| Lobby ID | 28553147236392062 |
+| Players | 2/8 |
+| Host Name | Костя Громов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:56:11 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 16:55:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147236456417 |
-| Players | 1/15 |
-| Host Name | EmperorVulcan |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 8, 2023 16:56:18 |
+| Lobby ID | 28553147236581050 |
+| Players | 2/8 |
+| Host Name | All i want is you |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 16:56:29 |
 
 
 |  | epic_boss_fight_nightmare |
