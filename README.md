@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 12:34:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147083166603 |
-| Players | 2/8 |
-| Host Name | Pontiac_Corolla |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 12:33:38 |
+| Lobby ID | 28553147084628247 |
+| Players | 5/10 |
+| Host Name | WK |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 12:36:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147084399710 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 12:35:56 |
@@ -41,18 +41,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147084802093 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | jb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 12:36:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147084628247 |
-| Players | 3/10 |
-| Host Name | WK |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 12:36:21 |
 
 
