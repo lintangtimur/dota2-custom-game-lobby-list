@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147109018753 |
-| Players | 5/10 |
-| Host Name | прочитал = пидop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:22:13 |
+| Lobby ID | 28553147109580115 |
+| Players | 2/10 |
+| Host Name | demonyo mag dota |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 13:23:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147107975686 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | GAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:20:19 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 13:22:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147109382035 |
-| Players | 1/15 |
-| Host Name | 划水 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 13:22:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147109420536 |
-| Players | 1/10 |
-| Host Name | Nhe4 |
+| Lobby ID | 28553147109644046 |
+| Players | 3/8 |
+| Host Name | БОНДИД-Джамшут |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 13:22:58 |
+| Lobby Creation Time | Friday, December 8, 2023 13:23:22 |
 
 
 |  | epic_boss_fight_nightmare |
