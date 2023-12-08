@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147266655715 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ꧁ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 17:42:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147264844060 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:39:23 |
@@ -31,38 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147266967337 |
-| Players | 8/15 |
-| Host Name | Пилот Унитаза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:42:32 |
+| Lobby ID | 28553147267366971 |
+| Players | 1/15 |
+| Host Name | 女神减速带 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 17:43:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147252570052 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:21:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147267019109 |
-| Players | 4/10 |
-| Host Name | Злата самосвал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:42:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147266652633 |
-| Players | 5/8 |
-| Host Name | 死 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 17:42:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VioLeNce |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 17:41:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147267436345 |
+| Players | 1/5 |
+| Host Name | dom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 17:43:13 |
 
 
