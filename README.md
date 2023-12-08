@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147044292183 |
-| Players | 9/10 |
-| Host Name | /-|-\Liquid_M1nd/-|-\ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 11:18:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147042729987 |
-| Players | 13/15 |
-| Host Name | vicjug |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 11:15:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147044056936 |
@@ -32,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147042116645 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Mekus.Mekus.Na.Yan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 11:13:53 |
@@ -40,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147044200039 |
-| Players | 7/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
+| Lobby ID | 28553147045115274 |
+| Players | 2/10 |
+| Host Name | PATO |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 11:17:53 |
+| Lobby Creation Time | Friday, December 8, 2023 11:19:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147042108562 |
-| Players | 12/15 |
-| Host Name | HousingTrax I PMA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 11:13:52 |
+| Lobby ID | 28553147045128663 |
+| Players | 1/10 |
+| Host Name | KaTheDirector |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 11:19:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147042168552 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Hobbit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:13:59 |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | --MUTE-- |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:18:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553147044862581 |
+| Players | 2/10 |
+| Host Name | SL•AY |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 8, 2023 11:19:24 |
 
 
