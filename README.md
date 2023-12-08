@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147042108562 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | HousingTrax I PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:13:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147041952485 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | want3d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 11:13:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147042116645 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Mekus.Mekus.Na.Yan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 11:13:53 |
@@ -65,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 11:15:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147042934328 |
-| Players | 1/8 |
-| Host Name | The enD |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 11:15:27 |
+| Lobby ID | 28553147042168552 |
+| Players | 2/10 |
+| Host Name | Hobbit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 11:13:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147042168552 |
-| Players | 1/10 |
-| Host Name | Hobbit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 11:13:59 |
+| Lobby ID | 28553147038979682 |
+| Players | 9/10 |
+| Host Name | Komm, süßer Tod |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 11:07:54 |
 
 
