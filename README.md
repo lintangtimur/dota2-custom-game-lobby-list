@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147278291324 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | MAMA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:58:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147277212385 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | PSG.LGBT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 17:57:12 |
@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 17:58:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147278452560 |
+| Players | 3/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 17:58:56 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553147267436345 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147276929563 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 17:56:48 |
