@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147104806441 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:14:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147103362872 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:11:42 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147105998089 |
-| Players | 2/15 |
-| Host Name | Asitaka |
+| Players | 5/15 |
+| Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 13:16:37 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147106050113 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SITH El Gato solitario de la lun |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:16:43 |
