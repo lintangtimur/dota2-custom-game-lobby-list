@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147107798895 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Kfuman8292 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:19:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147108610520 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sona |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 13:21:29 |
@@ -41,10 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147107975686 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | GAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 13:20:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147104592317 |
+| Players | 12/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:13:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553147109018753 |
+| Players | 1/10 |
+| Host Name | прочитал = пидop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 13:22:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147109036983 |
+| Players | 4/15 |
+| Host Name | 10032 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 13:22:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147108169746 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 13:20:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553147108632353 |
-| Players | 2/5 |
-| Host Name | СИГМА БАРА |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 13:21:31 |
 
 
