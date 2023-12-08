@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147145783517 |
-| Players | 8/10 |
-| Host Name | Отче наш |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 14:26:05 |
+| Lobby ID | 28553147146562125 |
+| Players | 4/10 |
+| Host Name | I Love Mid Mother Fucker♥ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 14:27:28 |
 
 
 |  | ot3_desert_octet |
@@ -38,49 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:06:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147145743500 |
-| Players | 1/8 |
-| Host Name | alligator blood |
+| Lobby ID | 28553147146502766 |
+| Players | 9/15 |
+| Host Name | I.Khan.N |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:26:01 |
+| Lobby Creation Time | Friday, December 8, 2023 14:27:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147146052505 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Frozenmilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:26:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147146335306 |
-| Players | 1/15 |
-| Host Name | Bambam's |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 14:27:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147146369904 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Твой папочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:27:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553147146502766 |
-| Players | 2/15 |
-| Host Name | I.Khan.N |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:27:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kirito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:22:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553147146528830 |
+| Players | 1/5 |
+| Host Name | AWESOME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:27:25 |
 
 
