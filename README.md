@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147286458716 |
-| Players | 7/8 |
-| Host Name | Владислав Алексеевич |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 18:10:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147286061878 |
-| Players | 7/10 |
-| Host Name | Coems🤑 | ZverolovZ2 |
+| Lobby ID | 28553147287470311 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 18:11:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147287140936 |
+| Players | 2/8 |
+| Host Name | BrokenMirror |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:09:29 |
+| Lobby Creation Time | Friday, December 8, 2023 18:10:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147287161887 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Slaanesh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 18:10:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147285784635 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:09:07 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:08:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147287140936 |
-| Players | 1/8 |
-| Host Name | BrokenMirror |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 18:10:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147286718371 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Anonymousthetic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:10:22 |
