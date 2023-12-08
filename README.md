@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 15:18:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147176791359 |
-| Players | 7/8 |
-| Host Name | Faier_endr |
+| Lobby ID | 28553147177628648 |
+| Players | 3/15 |
+| Host Name | Prometey_X |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:21:05 |
+| Lobby Creation Time | Friday, December 8, 2023 15:22:32 |
 
 
 |  | ot3_desert_octet |
@@ -56,22 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 15:22:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147177628648 |
-| Players | 3/15 |
-| Host Name | Prometey_X |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:22:32 |
+| Lobby ID | 28553147177999389 |
+| Players | 4/8 |
+| Host Name | xhetadnap |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 15:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147178006340 |
+| Players | 1/8 |
+| Host Name | PELICANITO2.0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 15:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553147178092038 |
+| Players | 2/8 |
+| Host Name | ☢Joshua☢ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 8, 2023 15:23:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147177857324 |
-| Players | 2/15 |
-| Host Name | 66 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, December 8, 2023 15:22:55 |
+| Lobby ID | 28553147171917647 |
+| Players | 14/15 |
+| Host Name | Rudeus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 15:12:34 |
 
 
 |  | epic_boss_fight_challenger |
