@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147185108683 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | (RSO)EMINEM(RSO) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 15:35:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147186323926 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | ШРЭК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:37:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147186711118 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 12345678901234567890123456789012 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:37:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147187344025 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | [nZk]: |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:38:49 |
