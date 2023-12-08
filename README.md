@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147135089559 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | VanAugurr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:07:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147134236767 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 8, 2023 14:06:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147138095910 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 14:12:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147137959095 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Adskii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 14:12:30 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147137036726 |
-| Players | 6/8 |
-| Host Name | 11:11 雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:10:54 |
+| Lobby ID | 28553147138869761 |
+| Players | 1/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 14:14:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:12:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147138869761 |
-| Players | 1/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 14:14:02 |
+| Lobby ID | 28553147139225850 |
+| Players | 1/10 |
+| Host Name | Топовый Котик :3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 14:14:39 |
 
 
 |  | epic_boss_fight_normal |
