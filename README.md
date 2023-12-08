@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:11:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147292472717 |
-| Players | 7/10 |
-| Host Name | Loh de pidor |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 8, 2023 18:17:53 |
+| Lobby ID | 28553147293315602 |
+| Players | 6/15 |
+| Host Name | AKIRA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 8, 2023 18:18:59 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147292808721 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | BuLL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:18:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147292382313 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | PerpleXity_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:17:46 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 18:18:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553147293264354 |
-| Players | 1/15 |
+| Lobby ID | 28553147293402019 |
+| Players | 3/10 |
 | Host Name | Toxic |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 8, 2023 18:18:55 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 18:19:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 18:18:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553147293446547 |
+| Players | 1/10 |
+| Host Name | Momam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 18:19:09 |
 
 
