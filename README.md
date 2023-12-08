@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147167279622 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | voidwalk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:04:18 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553147167536193 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:04:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147167942556 |
+| Players | 2/15 |
+| Host Name | K6 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 15:05:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553147168067364 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 15:05:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553147165222610 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 8, 2023 15:00:18 |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wang Taupik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 15:03:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553147167698458 |
-| Players | 1/5 |
-| Host Name | LIlDick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 15:05:03 |
 
 
