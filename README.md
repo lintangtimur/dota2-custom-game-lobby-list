@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147160195931 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | hellosofia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 8, 2023 14:51:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553147161204561 |
-| Players | 5/10 |
-| Host Name | Angel_Kasteil |
+| Lobby ID | 28553147161233763 |
+| Players | 4/8 |
+| Host Name | All unmuted |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:53:11 |
+| Lobby Creation Time | Friday, December 8, 2023 14:53:14 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:52:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147161233763 |
-| Players | 2/8 |
-| Host Name | All unmuted |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:53:14 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147161246478 |
-| Players | 1/15 |
-| Host Name | Феня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:53:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147158459130 |
-| Players | 8/10 |
-| Host Name | m |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 8, 2023 14:48:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553147158423910 |
-| Players | 7/10 |
-| Host Name | SummYourMom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:48:15 |
+| Lobby ID | 28553147161571243 |
+| Players | 2/15 |
+| Host Name | MoAra |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 8, 2023 14:53:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -83,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 8, 2023 14:52:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553147161228333 |
-| Players | 3/5 |
-| Host Name | w |
+| Lobby ID | 28553147158423910 |
+| Players | 6/10 |
+| Host Name | SummYourMom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 8, 2023 14:53:13 |
+| Lobby Creation Time | Friday, December 8, 2023 14:48:15 |
 
 
