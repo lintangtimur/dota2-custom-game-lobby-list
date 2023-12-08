@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553147037902694 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ヴァルハラ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 11:05:49 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553147036958135 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 8, 2023 11:04:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553147037998670 |
-| Players | 1/15 |
-| Host Name | todd chavez |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 11:06:00 |
+| Lobby ID | 28553147038211524 |
+| Players | 2/24 |
+| Host Name | FÁCIL |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 8, 2023 11:06:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,37 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553147038164821 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Marcista |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 8, 2023 11:06:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553147038211524 |
-| Players | 3/24 |
-| Host Name | Splinko |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 8, 2023 11:06:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553147038638734 |
-| Players | 2/10 |
-| Host Name | PC_PS |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 8, 2023 11:07:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553147038643185 |
-| Players | 4/8 |
-| Host Name | #ImNoob |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 8, 2023 11:07:15 |
+| Lobby ID | 28553147038730854 |
+| Players | 1/15 |
+| Host Name | todd chavez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 8, 2023 11:07:25 |
 
 
 |  | epic_boss_fight_nightmare |
