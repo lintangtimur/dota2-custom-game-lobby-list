@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553148278472878 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 9, 2023 15:56:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553148290441754 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 9, 2023 16:10:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553148288284783 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 9, 2023 16:08:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553148291124756 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 9, 2023 16:11:24 |
@@ -49,29 +49,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553148292203769 |
-| Players | 5/10 |
-| Host Name | НеВникал |
+| Lobby ID | 28553148293306111 |
+| Players | 2/10 |
+| Host Name | Адский бомж |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 9, 2023 16:12:39 |
+| Lobby Creation Time | Saturday, December 9, 2023 16:13:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553148292501330 |
+| Players | 10/15 |
+| Host Name | Redemption1950 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 9, 2023 16:12:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553148292183218 |
+| Lobby ID | 28553148293179497 |
 | Players | 3/8 |
-| Host Name | мефистофель |
+| Host Name | W8 pls |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 9, 2023 16:12:37 |
+| Lobby Creation Time | Saturday, December 9, 2023 16:13:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553148286737164 |
-| Players | 8/10 |
-| Host Name | 威斯克请不要弄脏我T_T |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 9, 2023 16:06:17 |
+| Lobby ID | 28553148293229530 |
+| Players | 1/10 |
+| Host Name | tendou |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 9, 2023 16:13:49 |
 
 
 |  | epic_boss_fight_nightmare |
