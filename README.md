@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150539125858 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:20:19 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:28:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150543800376 |
-| Players | 12/15 |
-| Host Name | Anthropologysali Kaur |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 12:29:31 |
+| Lobby ID | 28553150543449076 |
+| Players | 3/8 |
+| Host Name | Que bonitos ojos tienes |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:28:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150543811853 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:29:32 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _Ferxxo_ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:28:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150543449076 |
-| Players | 3/8 |
-| Host Name | Que bonitos ojos tienes |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:28:50 |
 
 
 |  | epic_boss_fight_nightmare |
