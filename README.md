@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:15:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151259007429 |
-| Players | 12/15 |
-| Host Name | Wallee |
+| Lobby ID | 28553151259893441 |
+| Players | 1/8 |
+| Host Name | SEXO |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:18:00 |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:19:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151259710961 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:18:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151257857455 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | IvanGames7 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:16:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151256791765 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ℍαяdШεll Ω |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:15:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151259341323 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | а большего мне и не надо |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:18:24 |
@@ -104,36 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151259542801 |
-| Players | 2/8 |
-| Host Name | Елдыга |
+| Players | 1/8 |
+| Host Name | EL GOTO CUBA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:18:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151259893441 |
-| Players | 1/8 |
-| Host Name | SEXO |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:19:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151254252646 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | k |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:12:21 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553151258254462 |
-| Players | 1/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:17:06 |
 
 
