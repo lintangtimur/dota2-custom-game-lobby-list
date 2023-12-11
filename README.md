@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:57:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150587976651 |
-| Players | 1/15 |
-| Host Name | Crowned_Clown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:57:45 |
+| Lobby ID | 28553150588133273 |
+| Players | 1/8 |
+| Host Name | www.twitch.tv/eltiosilencer |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:58:03 |
 
 
 |  | epic_boss_fight_nightmare |
