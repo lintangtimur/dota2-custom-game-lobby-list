@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151365518101 |
-| Players | 12/15 |
-| Host Name | Seigren |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:02:01 |
+| Lobby ID | 28553151366067922 |
+| Players | 2/10 |
+| Host Name | sorryimstoned |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:03:04 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151365953755 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Tita mentality |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:02:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151365999019 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | eXC4L1BUR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:02:56 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:03:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151366071667 |
+| Players | 3/8 |
+| Host Name | Saimon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:03:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151366100911 |
+| Players | 2/15 |
+| Host Name | Xu |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:03:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151359189714 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Maceo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151365305600 |
-| Players | 1/5 |
-| Host Name | TOCENO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:01:36 |
 
 
