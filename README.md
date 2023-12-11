@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:00:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151242657819 |
-| Players | 23/24 |
-| Host Name | dk-vm |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:58:29 |
+| Lobby ID | 28553151242985317 |
+| Players | 7/8 |
+| Host Name | Waffle |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:58:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,42 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:02:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151246199692 |
-| Players | 6/8 |
-| Host Name | I'm in the flow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:02:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151245414939 |
-| Players | 7/8 |
-| Host Name | EG. Strawberry |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:01:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151242985317 |
-| Players | 7/8 |
-| Host Name | Waffle |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:58:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151246234252 |
-| Players | 6/8 |
-| Host Name | ФЛЭШБЕКИЧ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:02:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151246187769 |
@@ -113,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151246420431 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | Fartoviy |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:02:58 |
