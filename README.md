@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150709401996 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:15:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150710303038 |
-| Players | 4/8 |
-| Host Name | F |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:16:55 |
+| Lobby ID | 28553150710374757 |
+| Players | 2/15 |
+| Host Name | SpliNteR |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 17:17:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150710317780 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | улюлю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:16:57 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150710344676 |
-| Players | 2/5 |
-| Host Name | competitor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:16:59 |
 
 
