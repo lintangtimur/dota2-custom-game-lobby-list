@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151206814696 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | O |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:15:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151206499891 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | син фермера |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:15:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151203082077 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | _-↑MayerŠ↑-_J® |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:11:36 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151206809798 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Хуёвый инвокер |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:15:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151207000931 |
+| Players | 1/10 |
+| Host Name | Guardian |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:16:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151207093607 |
+| Players | 1/8 |
+| Host Name | Alamarx |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:16:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151207139748 |
+| Players | 4/8 |
+| Host Name | 911 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:16:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -107,15 +134,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/5 |
 | Host Name | Ragnar_TR |
 | Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:15:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151206910409 |
-| Players | 1/5 |
-| Host Name | ñofi |
-| Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:15:55 |
 
 
