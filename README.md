@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150621632437 |
-| Players | 1/15 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:56:45 |
+| Lobby ID | 28553150622580134 |
+| Players | 2/10 |
+| Host Name | gokirus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:58:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150621793515 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Larry The HoboKing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:57:01 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150621953994 |
-| Players | 7/10 |
-| Host Name | Dolphinling |
+| Lobby ID | 28553150622904603 |
+| Players | 1/24 |
+| Host Name | Sometimes Serious Phantom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:57:17 |
+| Lobby Creation Time | Monday, December 11, 2023 14:58:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150621990453 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | валодя балтимор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:57:21 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:58:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150622929424 |
+| Players | 1/5 |
+| Host Name | gokI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:58:52 |
 
 
