@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151381475340 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:31:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151381846735 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:32:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151381679824 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Venocancer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:32:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151381352699 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:31:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151382064300 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | RYUK |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:32:40 |
