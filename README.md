@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150478861689 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | without emotional |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:14:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150479029969 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Копьё Аллаха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:14:45 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150478976155 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Ann B |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:14:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150477423261 |
+| Players | 8/10 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:11:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i Ain't Simp. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:03:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150479083221 |
-| Players | 5/10 |
-| Host Name | динамайк тайсон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:14:51 |
 
 
