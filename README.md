@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150528383405 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | JEFE MAESTRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:57:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150525732188 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | niotartnecnoC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:51:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150529193252 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | MIRAGE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:59:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150529350126 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | RYUK |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:59:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150529787397 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Dua Lipas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:00:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150529806053 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Yamil :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:00:49 |
