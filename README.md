@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150989954471 |
-| Players | 13/15 |
-| Host Name | 3/dontcare |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:22:21 |
+| Lobby ID | 28553150990684656 |
+| Players | 2/24 |
+| Host Name | -Jek- |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 22:23:04 |
 
 
 |  | ot3_desert_octet |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150990887900 |
-| Players | 1/8 |
-| Host Name | Star |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 22:23:16 |
+| Lobby ID | 28553150990604634 |
+| Players | 7/8 |
+| Host Name | сын таверны |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:22:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150983506699 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Gumasex |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:16:07 |
@@ -47,37 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:20:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150989101125 |
-| Players | 8/15 |
-| Host Name | G r e e n |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 22:21:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150990684656 |
-| Players | 1/24 |
-| Host Name | -Jek- |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 22:23:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150990604634 |
-| Players | 7/8 |
-| Host Name | сын таверны |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:22:59 |
+| Lobby ID | 28553150991056753 |
+| Players | 3/8 |
+| Host Name | остаться во сне |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 22:23:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150985643221 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Старый ЭР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:18:12 |
