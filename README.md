@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150736876990 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:55:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150747464739 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | furiano |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:10:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150747911876 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | NAKHAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:11:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150747776662 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:11:15 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | techno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:10:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150748323930 |
+| Players | 1/8 |
+| Host Name | Сладкоежка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:11:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150748441406 |
+| Players | 3/8 |
+| Host Name | ニガーはホモです |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:12:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150746350140 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:09:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150748246986 |
-| Players | 1/5 |
-| Host Name | kukiemonkey9 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 18:11:52 |
 
 
