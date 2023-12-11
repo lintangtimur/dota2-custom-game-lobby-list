@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151045083053 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | PINK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:18:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151045031563 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | TinkerSan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:18:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151043676077 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Bruce |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:17:29 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:11:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151045373216 |
-| Players | 1/8 |
-| Host Name | UNBELIEVEBLE™ |
+| Lobby ID | 28553151045528555 |
+| Players | 6/10 |
+| Host Name | into the depths of the mirror |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:19:15 |
+| Lobby Creation Time | Monday, December 11, 2023 23:19:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151044495555 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | มักแม่ฮ้าง |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:18:21 |
