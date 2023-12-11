@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151277408497 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Winner mindset |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:40:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151277497808 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | kcha kkrlas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:40:43 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151278051040 |
-| Players | 9/10 |
-| Host Name | дыня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:41:33 |
+| Lobby ID | 28553151278460966 |
+| Players | 3/10 |
+| Host Name | Histeria |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:42:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151278399394 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ginko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:42:05 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151278457191 |
+| Players | 2/10 |
+| Host Name | Falk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:42:10 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553151273605370 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | бустер на сапе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:35:47 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151278425995 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Poopfeast420 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:42:07 |
