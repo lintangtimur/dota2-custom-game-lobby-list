@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150937465252 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:31:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150936797626 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | kn9z |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:31:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150937300461 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | No.Fy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:31:46 |
@@ -101,12 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:32:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150937927117 |
+| Players | 1/15 |
+| Host Name | Danspoke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:32:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150937868694 |
-| Players | 1/8 |
-| Host Name | Дедус |
+| Lobby ID | 28553150938005963 |
+| Players | 5/8 |
+| Host Name | Asriel Dreemurr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:32:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150938025465 |
+| Players | 3/24 |
+| Host Name | Itachi San |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:32:17 |
+| Lobby Creation Time | Monday, December 11, 2023 21:32:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150937998958 |
+| Players | 1/8 |
+| Host Name | Камиль |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:32:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150938051008 |
+| Players | 3/8 |
+| Host Name | SYREXCS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:32:27 |
 
 
