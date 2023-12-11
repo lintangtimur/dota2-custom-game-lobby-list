@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151301267903 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | FS.► ☺Yawar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151301627695 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | kaldg;sfj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:16:00 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151300793562 |
 | Players | 10/15 |
-| Host Name | Vas a caer ante mi pinga |
+| Host Name | Tú debes preguntarme por qué |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:14:49 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151301509031 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | GEGE |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:50 |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151301688816 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:16:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151301598898 |
-| Players | 8/10 |
-| Host Name | DarkBoi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:15:58 |
+| Lobby ID | 28553151301890899 |
+| Players | 3/8 |
+| Host Name | UNIVERSAL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:16:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151301880174 |
+| Players | 1/8 |
+| Host Name | Frontier |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:16:22 |
 
 
 |  | epic_boss_fight_nightmare |
