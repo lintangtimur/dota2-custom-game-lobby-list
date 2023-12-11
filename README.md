@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150996822245 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:29:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150996436525 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | hellosofia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:28:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150997557063 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Женьшень |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:29:42 |
@@ -60,15 +60,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150997411431 |
 | Players | 6/8 |
-| Host Name | N.E.V.E.N |
+| Host Name | Sychyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:29:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150997836163 |
+| Players | 4/15 |
+| Host Name | He}I{g@H4uk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:29:58 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150995727335 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | blackking |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 22:27:57 |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150995406902 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KazuyA |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 22:27:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150997948416 |
+| Players | 2/5 |
+| Host Name | памагите |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 22:30:05 |
 
 
