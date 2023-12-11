@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150732868097 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Мармеладзе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:49:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150732601370 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | IIiIIiII |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:49:27 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota veteran |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:50:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150733574714 |
+| Players | 3/10 |
+| Host Name | мактрахер_2008 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:50:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 再干中单  重拾自信 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:43:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150733600633 |
+| Players | 6/10 |
+| Host Name | 阿峰 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, December 11, 2023 17:51:01 |
 
 
