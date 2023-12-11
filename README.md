@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:19:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150568876937 |
-| Players | 23/24 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:22:04 |
+| Lobby ID | 28553150570189955 |
+| Players | 7/10 |
+| Host Name | Де-бустер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:24:22 |
 
 
 |  | ot3_desert_octet |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:23:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150570189955 |
-| Players | 6/10 |
-| Host Name | Де-бустер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:24:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150570535980 |
-| Players | 2/24 |
-| Host Name | The Darkest Bright |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:24:58 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150555888230 |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:17:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150570721541 |
+| Players | 1/5 |
+| Host Name | ᶠᶸᶜᵏᵧₒᵤ.net |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:25:17 |
 
 
