@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151360730986 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:30 |
@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151361141695 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Recycle your children |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:53:18 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151361510423 |
+| Players | 3/24 |
+| Host Name | Gilgamesh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:54:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151360446373 |
-| Players | 13/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:51:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151361152906 |
-| Players | 6/10 |
-| Host Name | NaIB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:20 |
+| Lobby ID | 28553151361439819 |
+| Players | 6/15 |
+| Host Name | rich イスラム教 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151360688490 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Зеленый Крокодил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:25 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | K1 CESAR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:51:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151361439819 |
-| Players | 3/15 |
-| Host Name | rich イスラム教 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151361510423 |
-| Players | 3/24 |
-| Host Name | Gilgamesh |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:54:04 |
 
 
 |  | epic_boss_fight_nightmare |
