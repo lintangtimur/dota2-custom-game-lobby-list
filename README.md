@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150451186961 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Any humans |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:18:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150453475285 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Anal Airlines |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:23:00 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:23:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150453570861 |
-| Players | 2/5 |
-| Host Name | сісі+ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 09:23:10 |
 
 
