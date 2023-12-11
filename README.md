@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:09:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151340052644 |
-| Players | 11/15 |
-| Host Name | Mouches Volantes |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:13:21 |
+| Lobby ID | 28553151340462911 |
+| Players | 5/8 |
+| Host Name | fe1t0nbtw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:14:02 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151340067847 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | vibeman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:13:23 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | あ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:11:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151339760327 |
-| Players | 7/8 |
-| Host Name | ХлиБинка |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:12:52 |
 
 
 |  | epic_boss_fight_nightmare |
