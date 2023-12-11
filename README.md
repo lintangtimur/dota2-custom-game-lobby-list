@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150531676329 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:04:49 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:06:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150533711037 |
-| Players | 14/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28553150533291989 |
+| Players | 4/8 |
+| Host Name | crawling в низах |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:09:11 |
+| Lobby Creation Time | Monday, December 11, 2023 12:08:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150533045401 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:07:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150533137748 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Missi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:07:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150534156990 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Valdor |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:10:07 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150533836312 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Felip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:09:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150533251346 |
-| Players | 5/8 |
-| Host Name | TAP |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:08:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150533291989 |
-| Players | 4/8 |
-| Host Name | crawling в низах |
+| Lobby ID | 28553150534406705 |
+| Players | 4/10 |
+| Host Name | Хлюп хлюп +3.1к |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:08:17 |
+| Lobby Creation Time | Monday, December 11, 2023 12:10:40 |
 
 
 |  | epic_boss_fight_nightmare |
