@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150928179245 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Schatz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:23:30 |
@@ -94,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150937529106 |
-| Players | 6/10 |
-| Host Name | домик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:31:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28553150937649233 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Yezzie |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:32:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150937868694 |
+| Players | 1/8 |
+| Host Name | Дедус |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:32:17 |
 
 
