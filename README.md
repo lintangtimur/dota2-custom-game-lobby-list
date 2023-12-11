@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151102626429 |
-| Players | 8/10 |
-| Host Name | Девочка Вэнсдей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:19:53 |
+| Lobby ID | 28553151103034598 |
+| Players | 1/8 |
+| Host Name | gato con tabas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:20:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151094813386 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 雪菜ちゃんの方が大事 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:11:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151102706152 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | smokey nagata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:19:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151102913784 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | I am sorry, go cry |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:20:10 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151100590911 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | FLY - FLY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:17:49 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151102865449 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:20:08 |
