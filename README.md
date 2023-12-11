@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150619887873 |
-| Players | 5/8 |
-| Host Name | Татуся |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 14:53:50 |
+| Lobby ID | 28553150620910661 |
+| Players | 4/15 |
+| Host Name | Grift |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:55:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150617663738 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:49:58 |
@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150607212224 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | PURPLE |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150619303364 |
-| Players | 1/8 |
-| Host Name | ПРИНЦЕССА СОФИЯ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:52:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150619779190 |
-| Players | 12/15 |
-| Host Name | Admin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:53:39 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150618898366 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Ranchu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:52:09 |
