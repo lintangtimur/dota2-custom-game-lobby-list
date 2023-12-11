@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150583246590 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:48:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150582365557 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Scrreeww |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:46:56 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:52:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150585538592 |
+| Players | 1/8 |
+| Host Name | Fred |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:53:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150583723274 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:49:39 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150582528028 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:47:17 |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150585457055 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Lestat |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 13:52:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150585525828 |
+| Players | 1/5 |
+| Host Name | Миша Скорострел |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:53:03 |
 
 
