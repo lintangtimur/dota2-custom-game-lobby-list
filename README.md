@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150850094514 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Усама бен Адам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:09:46 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150851102295 |
-| Players | 1/15 |
-| Host Name | Mcbuttcock |
+| Players | 4/15 |
+| Host Name | yeah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:10:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150851263940 |
+| Players | 2/8 |
+| Host Name | Sowsemkuku |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:10:56 |
 
 
 |  | epic_boss_fight_nightmare |
