@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151157611481 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Pumm0r |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:19:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151157341229 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | trey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151161108144 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Sashok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:22:59 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:22:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151161282637 |
-| Players | 1/24 |
-| Host Name | Velurtarian |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:23:11 |
+| Lobby ID | 28553151161422675 |
+| Players | 1/8 |
+| Host Name | Vertuha228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:23:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:23:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151161302607 |
-| Players | 5/8 |
-| Host Name | Osetian Ryan Gosling |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:23:12 |
+| Lobby ID | 28553151161419126 |
+| Players | 2/10 |
+| Host Name | tashu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:23:19 |
 
 
 |  | epic_boss_fight_nightmare |
