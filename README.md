@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150862234749 |
-| Players | 7/15 |
-| Host Name | ... FAIL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:21:44 |
+| Lobby ID | 28553150862505625 |
+| Players | 2/24 |
+| Host Name | cpdd要暴力的 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:22:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150861521473 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | cousin |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:21:01 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:19:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150860399178 |
-| Players | 19/24 |
-| Host Name | Delay no more |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:19:55 |
+| Lobby ID | 28553150862900912 |
+| Players | 1/15 |
+| Host Name | man |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:22:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,47 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150862394928 |
-| Players | 1/8 |
-| Host Name | Nevermore better. |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 20:21:53 |
+| Lobby ID | 28553150862787779 |
+| Players | 4/8 |
+| Host Name | Yato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:22:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150862506377 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Sasaki |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 20:22:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150862505625 |
-| Players | 1/24 |
-| Host Name | cpdd要暴力的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:22:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150860928292 |
-| Players | 14/15 |
-| Host Name | Fabos |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:20:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150862660688 |
-| Players | 6/8 |
-| Host Name | John Porker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:22:09 |
 
 
 |  | epic_boss_fight_nightmare |
