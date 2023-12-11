@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:26:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150636368670 |
-| Players | 22/24 |
-| Host Name | Salival |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:19:49 |
+| Lobby ID | 28553150641844021 |
+| Players | 3/8 |
+| Host Name | PerTzo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 15:28:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Серёжа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:28:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150641844021 |
-| Players | 3/8 |
-| Host Name | PerTzo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 15:28:11 |
 
 
 |  | epic_boss_fight_nightmare |
