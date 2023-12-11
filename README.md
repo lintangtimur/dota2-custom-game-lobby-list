@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150974459847 |
-| Players | 2/8 |
-| Host Name | Ghost Gang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:07:22 |
+| Lobby ID | 28553150978066058 |
+| Players | 2/10 |
+| Host Name | Умывальник |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 22:10:50 |
 
 
 |  | ot3_desert_octet |
@@ -33,18 +33,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150977554359 |
 | Players | 3/15 |
-| Host Name | housetxt |
+| Host Name | All mute <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:10:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150971600982 |
-| Players | 23/24 |
-| Host Name | -_^ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 22:04:37 |
+| Lobby ID | 28553150978234107 |
+| Players | 1/8 |
+| Host Name | -_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:11:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ASФIXIA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:10:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150978066058 |
-| Players | 2/10 |
-| Host Name | Умывальник |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:10:50 |
 
 
 |  | epic_boss_fight_nightmare |
