@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150528383405 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | JEFE MAESTRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:57:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150530168676 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | I'll come up to you, Gojo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150530148766 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:34 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:01:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150530393877 |
+| Players | 1/10 |
+| Host Name | BETTER CALL SAUL |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 11, 2023 12:02:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150526923834 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 11:54:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150530390640 |
+| Players | 1/5 |
+| Host Name | The Grills |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:02:05 |
 
 
