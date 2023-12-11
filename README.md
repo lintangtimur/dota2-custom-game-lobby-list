@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150484249554 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 华流才是最吊 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:24:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | NothingFeelsRight |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150484634023 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Reverend Goblin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:25:13 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:25:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150485002379 |
-| Players | 6/24 |
-| Host Name | OOAK |
+| Lobby ID | 28553150485099799 |
+| Players | 4/8 |
+| Host Name | I'm trash |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:25:55 |
+| Lobby Creation Time | Monday, December 11, 2023 10:26:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150482397239 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 123456789123456789 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:21:06 |
