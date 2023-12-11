@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150607520952 |
-| Players | 9/10 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:31:56 |
+| Lobby ID | 28553150608525215 |
+| Players | 2/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 14:33:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150607981034 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 砰！！！ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:32:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150607115432 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Fucking Pencil |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:31:14 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150608525215 |
-| Players | 2/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 14:33:37 |
+| Lobby ID | 28553150608738667 |
+| Players | 1/10 |
+| Host Name | Котя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:33:59 |
 
 
 |  | epic_boss_fight_nightmare |
