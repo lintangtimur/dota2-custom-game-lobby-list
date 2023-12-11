@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150537388643 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | bem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:16:49 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:06:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150536411913 |
-| Players | 9/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 12:14:50 |
+| Lobby ID | 28553150535288344 |
+| Players | 11/15 |
+| Host Name | EL HOMBRE SIDA !! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:12:31 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150536369090 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Yo no tengo enemigos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:14:45 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:15:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150535288344 |
-| Players | 7/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 12:12:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150537509530 |
-| Players | 4/8 |
-| Host Name | CABALLO DE FIESTA 42699 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:17:04 |
 
 
 |  | epic_boss_fight_nightmare |
