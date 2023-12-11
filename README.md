@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150480903405 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | cocotenis |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150479902734 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150480809727 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Alien |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150480972444 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:25 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:18:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150481399487 |
+| Players | 4/8 |
+| Host Name | SEHUMILLA:0 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:19:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150474609690 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SAD BOY |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:06:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150473329951 |
-| Players | 9/10 |
-| Host Name | wahhh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 10:03:32 |
 
 
