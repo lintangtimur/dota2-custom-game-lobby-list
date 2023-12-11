@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150566313023 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Лжеджекович I |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:17:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150566879072 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Alxir |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:18:30 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OtaGame |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:19:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150567657535 |
+| Players | 1/8 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:19:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150567711068 |
+| Players | 1/15 |
+| Host Name | MarcoSL |115 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:20:00 |
 
 
 |  | epic_boss_fight_normal |
