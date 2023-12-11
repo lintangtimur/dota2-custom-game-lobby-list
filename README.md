@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150744910507 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:15:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150750661731 |
-| Players | 9/15 |
-| Host Name | Midas farming club |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:15:00 |
+| Lobby ID | 28553150749765500 |
+| Players | 9/10 |
+| Host Name | u look lonely |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 18:13:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150750796858 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 阿峰 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, December 11, 2023 18:15:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150750961219 |
+| Players | 1/10 |
+| Host Name | Moon Knight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 18:15:23 |
 
 
