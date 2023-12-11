@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151224268225 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:36:00 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151216844081 |
+| Lobby ID | 28553151225057308 |
 | Players | 5/8 |
-| Host Name | skyvovkerlol |
+| Host Name | Ящер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:27:21 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:36:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151225171336 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | lil dozhd |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:37:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151224814872 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Alex Weres |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:36:38 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151225057308 |
-| Players | 2/8 |
-| Host Name | Ящер |
+| Lobby ID | 28553151225452739 |
+| Players | 4/8 |
+| Host Name | 911 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:37:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151225459605 |
+| Players | 2/10 |
+| Host Name | Keeper of the Виктор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:36:54 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:37:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151224014413 |
+| Lobby ID | 28553151225447278 |
 | Players | 1/10 |
-| Host Name | жесткий мукбанг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:35:42 |
+| Host Name | $ilent |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:37:21 |
 
 
