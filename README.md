@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151019620165 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:52:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151023847306 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:57:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151024780704 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ФЕДЕРАЛ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:57:59 |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tomate Barraza |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:57:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151024833877 |
+| Players | 7/15 |
+| Host Name | Osman Abdül-Celil Şişa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:58:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151024906828 |
+| Players | 1/24 |
+| Host Name | Canebo |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 22:58:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151024004893 |
+| Players | 14/15 |
+| Host Name | Alex Weres |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:57:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151024486405 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Pachunya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:57:41 |
