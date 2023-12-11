@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:36:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150941312793 |
-| Players | 23/24 |
-| Host Name | Invaders Must Die |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 21:35:22 |
+| Lobby ID | 28553150944213325 |
+| Players | 4/8 |
+| Host Name | Humorously Charming Drossel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:37:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150943493994 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ✪ SOLO JUEGO OVERTHROW |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:37:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150942774940 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:36:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150932793359 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Möll |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:27:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150944119409 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | бобер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:37:52 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150943917573 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Семейное фото |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:37:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150944213325 |
-| Players | 1/8 |
-| Host Name | Humorously Charming Drossel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:37:57 |
 
 
 |  | epic_boss_fight_normal |
