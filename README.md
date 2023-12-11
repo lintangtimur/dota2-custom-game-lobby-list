@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151345500275 |
+| Players | 3/24 |
+| Host Name | La Flame |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:22:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151347305745 |
+| Players | 2/15 |
+| Host Name | ОТЕЦ МИРАКЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:25:58 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151344527800 |
-| Players | 6/10 |
-| Host Name | NaIB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:21:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151346663452 |
-| Players | 2/8 |
-| Host Name | BODOQUE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:24:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151346233001 |
-| Players | 8/10 |
-| Host Name | CHAD NORRIZ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:24:04 |
+| Lobby ID | 28553151345146291 |
+| Players | 5/10 |
+| Host Name | MoSty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:22:13 |
 
 
 |  | ot3_desert_octet |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151347123567 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | >>Woody<< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:25:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151345500275 |
-| Players | 3/24 |
-| Host Name | La Flame |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:22:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151346864531 |
-| Players | 2/8 |
-| Host Name | babayaga |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:25:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151346365338 |
-| Players | 13/15 |
-| Host Name | GoLDZeRoOo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:24:18 |
 
 
 |  | epic_boss_fight_normal |
