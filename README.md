@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150985747660 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | G r e e n |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 22:18:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150985326486 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:17:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150983506699 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Gumasex |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:16:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150976810851 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | bottom G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:09:38 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150986318367 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Demonic Fox |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:18:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150986514453 |
+| Players | 1/24 |
+| Host Name | GEI WO LAP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 22:19:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150985548799 |
+| Lobby ID | 28553150986500392 |
 | Players | 1/5 |
-| Host Name | ПОСЛЕДНИЙ КИРИЕШ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:18:06 |
+| Host Name | dom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 22:19:01 |
 
 
 |  | epic_boss_fight_normal |
