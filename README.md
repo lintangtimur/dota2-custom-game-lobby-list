@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150695078896 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | sosax |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:53:52 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150695022598 |
-| Players | 4/8 |
-| Host Name | МОЙБАЛДЁЖ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:53:46 |
+| Lobby ID | 28553150695759104 |
+| Players | 1/8 |
+| Host Name | TorontoTokyohot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:55:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150695109731 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | АЛЁША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:53:55 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | я люблю вику |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:54:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150695759104 |
-| Players | 1/8 |
-| Host Name | TorontoTokyohot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 16:55:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:54:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150695864065 |
+| Players | 1/5 |
+| Host Name | Апельсин в пакете |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 16:55:11 |
 
 
