@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150818444320 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:35:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150814698225 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | red roses |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:31:57 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:35:49 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150818702318 |
+| Players | 2/8 |
+| Host Name | Yaken |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:36:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150815883078 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:33:11 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150818570467 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | GaliLeo |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 19:36:00 |
