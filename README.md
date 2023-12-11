@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151305977612 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ANTKVICH |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:19:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151305793628 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Un cadeau |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:19:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151301440854 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | (/)"%cactTUS=)( |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:44 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151301880174 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:16:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151306271211 |
-| Players | 2/10 |
-| Host Name | Крепыш |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:19:54 |
+| Lobby ID | 28553151306351019 |
+| Players | 2/8 |
+| Host Name | sakanade |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:20:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,22 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:19:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151306351019 |
-| Players | 1/8 |
-| Host Name | sakanade |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:20:00 |
+| Lobby ID | 28553151301267903 |
+| Players | 8/10 |
+| Host Name | FS.► ☺Yawar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:15:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151306358590 |
-| Players | 4/8 |
-| Host Name | full focus. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:20:00 |
+| Lobby ID | 28553151306465399 |
+| Players | 2/10 |
+| Host Name | Крепыш |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
