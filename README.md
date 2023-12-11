@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150891782421 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:50:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150865138805 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150894480973 |
-| Players | 7/8 |
-| Host Name | Killua[RU] |
+| Lobby ID | 28553150894928618 |
+| Players | 1/8 |
+| Host Name | Cын raze |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:52:43 |
+| Lobby Creation Time | Monday, December 11, 2023 20:53:09 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150891826067 |
-| Players | 9/10 |
-| Host Name | unrated gameplay |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 20:50:11 |
+| Lobby ID | 28553150894172228 |
+| Players | 1/5 |
+| Host Name | _flamingo_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:52:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:51:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150894172228 |
-| Players | 1/5 |
-| Host Name | _flamingo_ |
+| Lobby ID | 28553150894952128 |
+| Players | 1/10 |
+| Host Name | comewithme |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:52:26 |
+| Lobby Creation Time | Monday, December 11, 2023 20:53:10 |
 
 
