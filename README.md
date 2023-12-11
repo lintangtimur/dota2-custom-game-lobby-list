@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151346233001 |
-| Players | 3/10 |
-| Host Name | The Perfect Girl |
+| Players | 1/10 |
+| Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:24:04 |
 
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151346384943 |
-| Players | 6/8 |
-| Host Name | PANZE |
+| Players | 2/8 |
+| Host Name | Fossora |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:24:20 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151345279578 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ronal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:22:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151346555599 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Archina |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:24:39 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT THE FUCK IS THAT!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:22:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151346225626 |
-| Players | 9/10 |
-| Host Name | Moose |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:24:04 |
 
 
