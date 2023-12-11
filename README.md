@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150550338175 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CRIMSON™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:42:43 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150550185959 |
 | Players | 1/10 |
-| Host Name | :Xaiko midaX:) |
+| Host Name | MANO TENGO FE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:42:19 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150550194758 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | TitinN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:42:21 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КОРСАР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:42:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150547644349 |
-| Players | 7/8 |
-| Host Name | Forester |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:36:58 |
 
 
