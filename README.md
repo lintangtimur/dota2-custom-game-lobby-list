@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150764824632 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 18:32:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150767653233 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150772363883 |
-| Players | 5/8 |
-| Host Name | Ядерный гомасек |
+| Lobby ID | 28553150772625658 |
+| Players | 4/8 |
+| Host Name | 千本桜景厳 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:40:56 |
+| Lobby Creation Time | Monday, December 11, 2023 18:41:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150772393852 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | All_Muted |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 18:40:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150770890276 |
-| Players | 14/24 |
+| Players | 23/24 |
 | Host Name | Dog goes meow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:39:07 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150772539465 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Leoric |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:41:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150772895921 |
+| Players | 2/10 |
+| Host Name | pox na game |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:41:41 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150772625658 |
-| Players | 1/8 |
-| Host Name | 千本桜景厳 |
+| Lobby ID | 28553150772925385 |
+| Players | 3/8 |
+| Host Name | ẄǞĞÑḜ® |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:41:18 |
+| Lobby Creation Time | Monday, December 11, 2023 18:41:43 |
 
 
 |  | epic_boss_fight_nightmare |
