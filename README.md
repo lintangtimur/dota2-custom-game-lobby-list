@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:42:00 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150725681839 |
-| Players | 23/24 |
-| Host Name | Deva path |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 17:38:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150729025590 |
-| Players | 3/10 |
-| Host Name | Mr.BLAKE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:43:42 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150729132636 |
@@ -54,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дядя Вова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:43:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150729025590 |
+| Players | 8/10 |
+| Host Name | Mr.BLAKE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:43:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | magaV315 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:43:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150729207595 |
+| Players | 6/10 |
+| Host Name | 阿峰 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, December 11, 2023 17:44:00 |
 
 
