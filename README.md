@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151359139060 |
-| Players | 22/24 |
-| Host Name | ' |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:49:00 |
+| Lobby ID | 28553151361485821 |
+| Players | 1/8 |
+| Host Name | Don Gato |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:54:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151360446373 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:51:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151360688490 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Зеленый Крокодил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151360213410 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | K1 CESAR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:51:27 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151361439819 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | rich イスラム教 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:53:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151361510423 |
+| Players | 3/24 |
+| Host Name | Gilgamesh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:54:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151361433835 |
-| Players | 2/5 |
-| Host Name | Детектив Фекалис |
+| Lobby ID | 28553151361477889 |
+| Players | 3/10 |
+| Host Name | Sky_Wook ❟❛❟ |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:54 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:54:00 |
 
 
