@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151386609956 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151387706224 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Doom Staff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:44:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151387910790 |
-| Players | 1/10 |
-| Host Name | SWAP CM |
+| Lobby ID | 28553151388074724 |
+| Players | 1/8 |
+| Host Name | не достоин!伊托罗 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:44:43 |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:45:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151388010736 |
+| Lobby ID | 28553151388115606 |
 | Players | 1/8 |
-| Host Name | Zergrush |
+| Host Name | бизик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:45:00 |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:45:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151388116457 |
+| Players | 1/10 |
+| Host Name | SWAP CM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:45:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | blinkey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:44:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151387661346 |
-| Players | 2/5 |
-| Host Name | ScReAMBiTcH |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:44:04 |
 
 
