@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151317058741 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | smoked |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:34:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151317213843 |
-| Players | 10/15 |
-| Host Name | Nikk |
+| Lobby ID | 28553151317463844 |
+| Players | 4/8 |
+| Host Name | кирилл мск |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:34:52 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:35:13 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151316195119 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:33:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151317372545 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | soar loser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:35:06 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:35:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151317582876 |
+| Players | 1/8 |
+| Host Name | вахуї |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:35:23 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553151308341836 |
@@ -110,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:22:38 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553151317478847 |
+| Players | 2/7 |
+| Host Name | TOROPSNAKET |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:35:15 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553151317394227 |
+| Lobby ID | 28553151317558827 |
 | Players | 1/5 |
-| Host Name | Inferno |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:35:08 |
+| Host Name | jWWE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:35:21 |
 
 
