@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151310618354 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Leviofan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:25:47 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151310531847 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Awesder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:25:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151310783482 |
+| Players | 3/10 |
+| Host Name | Funky Bastard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:26:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151310877428 |
+| Players | 1/8 |
+| Host Name | QUE RIKO ES SER CHIPI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:26:09 |
 
 
 |  | epic_boss_fight_nightmare |
