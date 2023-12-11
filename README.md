@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150498266530 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:05 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 11:02:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150502480458 |
+| Players | 4/8 |
+| Host Name | TheOtherOtherOtherHost |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 11:03:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150498276306 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:58:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150502375830 |
-| Players | 1/5 |
-| Host Name | depression hits me |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 11:03:07 |
 
 
