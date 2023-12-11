@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150848474096 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | s2c.8ball |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:08:08 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150849873793 |
-| Players | 13/15 |
-| Host Name | Архангел |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:09:33 |
+| Lobby ID | 28553150850510038 |
+| Players | 6/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:10:11 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150846076533 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Vaxsal |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:05:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150850510038 |
-| Players | 6/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:10:11 |
+| Lobby ID | 28553150850684540 |
+| Players | 1/8 |
+| Host Name | Yaken |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:10:21 |
 
 
 |  | epic_boss_fight_nightmare |
