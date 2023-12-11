@@ -11,33 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:52:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150479902734 |
-| Players | 22/24 |
-| Host Name | Poomp |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150481970572 |
-| Players | 6/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:20:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150481229457 |
-| Players | 7/10 |
-| Host Name | Might Wanna Try Fortnite |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:18:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150482991640 |
@@ -47,21 +20,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:22:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150481970572 |
+| Players | 14/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:20:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150484229899 |
+| Players | 1/8 |
+| Host Name | RYUK |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:24:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150484219637 |
+| Players | 3/10 |
+| Host Name | TOGA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:24:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150484249554 |
+| Players | 3/24 |
+| Host Name | fack |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:24:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150460975751 |
+| Players | 23/24 |
+| Host Name | NothingFeelsRight |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150484443011 |
+| Players | 2/8 |
+| Host Name | Батя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:24:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150482397239 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 123456789123456789 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:21:06 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150484161058 |
-| Players | 3/7 |
-| Host Name | Aniquilador de autoctonos |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:24:21 |
 
 
