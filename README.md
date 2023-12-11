@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:46:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151187424521 |
-| Players | 7/8 |
-| Host Name | EL INDOMABLE |
+| Lobby ID | 28553151188475742 |
+| Players | 2/24 |
+| Host Name | Andá pashá bobo |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:52:54 |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:54:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151178679833 |
-| Players | 5/24 |
-| Host Name | 猫又 |
+| Players | 7/24 |
+| Host Name | OscarChunny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:41:47 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151187454848 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:52:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151180944140 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | SyX |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151188007624 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | goipopp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:53:38 |
@@ -68,10 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151188329659 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Jphill |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:54:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151188515046 |
+| Players | 6/8 |
+| Host Name | ~♡~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:54:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151188535049 |
+| Players | 2/15 |
+| Host Name | MieliePap |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:54:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151188563144 |
+| Players | 1/24 |
+| Host Name | 亗₪Jᴏʀᴅᴀɴ₪亗 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:54:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151187424521 |
+| Players | 6/8 |
+| Host Name | EL INDOMABLE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:52:54 |
 
 
 |  | epic_boss_fight_nightmare |
