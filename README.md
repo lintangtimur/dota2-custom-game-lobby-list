@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151262474102 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:22:11 |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151261038170 |
-| Players | 6/8 |
-| Host Name | 777 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:20:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151262282802 |
-| Players | 8/8 |
-| Host Name | мистер Кумквак |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:21:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151262839508 |
-| Players | 2/15 |
-| Host Name | MI PRIMERA CHAMBA COMO OFF :( |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:22:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151262910038 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | кукед фиш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:22:43 |
@@ -104,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151262808772 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | J turn police 180° |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:22:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151263071788 |
-| Players | 3/10 |
-| Host Name | Akselas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:22:54 |
+| Lobby ID | 28553151262839508 |
+| Players | 4/15 |
+| Host Name | MI PRIMERA CHAMBA COMO OFF :( |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:22:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -130,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151260602761 |
-| Players | 9/10 |
-| Host Name | alone |
+| Lobby ID | 28553151263225739 |
+| Players | 4/10 |
+| Host Name | Jason Statham |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:19:55 |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:23:06 |
 
 
 |  | epic_boss_fight_normal |
