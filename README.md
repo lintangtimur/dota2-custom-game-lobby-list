@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:09:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150727602400 |
-| Players | 7/10 |
-| Host Name | ionex |
+| Lobby ID | 28553150728568642 |
+| Players | 9/15 |
+| Host Name | ( ͡° ͜ʖ ͡°) |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 17:41:19 |
+| Lobby Creation Time | Monday, December 11, 2023 17:42:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:41:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150728568642 |
-| Players | 1/15 |
-| Host Name | Winter flower |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 17:42:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:42:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150728650554 |
+| Players | 1/10 |
+| Host Name | 再干中单  重拾自信 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 17:43:05 |
 
 
