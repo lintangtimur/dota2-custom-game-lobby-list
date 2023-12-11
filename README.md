@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151370009674 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:10:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151370925813 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | K292 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:12:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151370950990 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:12:29 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151370362793 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PLAYER PMA 🦁 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:11:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151371229288 |
+| Players | 2/8 |
+| Host Name | ГГ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:13:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151369470980 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SPACE TOAD |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:09:37 |
