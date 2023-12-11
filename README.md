@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150654995685 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | FORSE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:49:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150655756941 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | фешн бабуин |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:50:45 |
@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:43:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150658297852 |
+| Players | 1/15 |
+| Host Name | Wa1t |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:55:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150655083636 |
-| Players | 2/10 |
-| Host Name | Hey What Happened |
+| Players | 1/10 |
+| Host Name | Chin Chop Pa Chin Chop Pa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:49:35 |
 
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Someone |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:54:52 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553150658342724 |
+| Players | 1/7 |
+| Host Name | LET ME COOK |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 15:55:07 |
 
 
