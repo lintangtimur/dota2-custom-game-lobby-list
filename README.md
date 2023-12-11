@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:48:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150465699545 |
-| Players | 21/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:46:56 |
+| Lobby ID | 28553150466951029 |
+| Players | 2/10 |
+| Host Name | MORONS |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 09:49:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150466570287 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | -LIEBE♧ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:48:54 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:48:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150466951029 |
-| Players | 1/10 |
-| Host Name | MORONS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 09:49:46 |
 
 
 |  | epic_boss_fight_nightmare |
