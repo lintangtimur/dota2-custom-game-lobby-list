@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150990684656 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ¿ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 22:23:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150985326486 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:17:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150987792838 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | $0HÁN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:20:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150991595909 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Мразота |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:23:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150991190558 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Just One More | POS 13 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:23:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150989101125 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | G r e e n |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 22:21:32 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:24:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150992934086 |
+| Players | 2/8 |
+| Host Name | E.N.D |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 22:25:15 |
 
 
 |  | epic_boss_fight_normal |
