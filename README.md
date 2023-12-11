@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150637439288 |
-| Players | 14/15 |
-| Host Name | ❟❛❟Ken Kaneki by passport |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:21:28 |
+| Lobby ID | 28553150639015099 |
+| Players | 3/15 |
+| Host Name | BlastBeats |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:23:52 |
 
 
 |  | ot3_desert_octet |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hiệp GOD |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150636368670 |
-| Players | 20/24 |
-| Host Name | Salival |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:19:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,5 +36,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:17:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150638905271 |
+| Players | 1/5 |
+| Host Name | my heart doesn't exist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:23:42 |
 
 
