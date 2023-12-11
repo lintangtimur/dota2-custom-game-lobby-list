@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:03:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150559900042 |
-| Players | 21/24 |
-| Host Name | Percibal |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:04:47 |
+| Lobby ID | 28553150562408855 |
+| Players | 2/15 |
+| Host Name | тыр тыр |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 13:09:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150560207812 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Javier Milei |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:05:27 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:09:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150562408855 |
-| Players | 2/15 |
-| Host Name | тыр тыр |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 13:09:58 |
+| Lobby ID | 28553150562557748 |
+| Players | 2/24 |
+| Host Name | Torqued Nut |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 13:10:15 |
 
 
 |  | epic_boss_fight_normal |
