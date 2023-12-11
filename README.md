@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:09:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150732475907 |
-| Players | 1/24 |
-| Host Name | Anonymous |
+| Lobby ID | 28553150732321103 |
+| Players | 9/15 |
+| Host Name | alina prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:49:15 |
+| Lobby Creation Time | Monday, December 11, 2023 17:49:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150731947709 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Forester |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:48:25 |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:48:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150732321103 |
-| Players | 3/15 |
-| Host Name | alina prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:49:00 |
 
 
 |  | epic_boss_fight_nightmare |
