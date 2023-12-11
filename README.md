@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150917521242 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | q as in cucumber |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 21:13:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150918374256 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | RackaMackaFo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:14:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150914850020 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 晚上好，夜之城！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:11:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150917367215 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:13:47 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150918373006 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Sychyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:14:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150918821637 |
+| Players | 3/8 |
+| Host Name | снайпер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:15:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:14:46 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150918515120 |
-| Players | 4/7 |
-| Host Name | さようなら |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 21:14:49 |
+| Lobby ID | 28553150918799008 |
+| Players | 2/10 |
+| Host Name | ►Lynai2077◄ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:15:04 |
 
 
