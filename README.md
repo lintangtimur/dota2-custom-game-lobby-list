@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150533291989 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | crawling в низах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:08:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150533836312 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Felip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:09:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150533045401 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:07:46 |
@@ -59,10 +59,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150534156990 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Valdor |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:10:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150535288344 |
+| Players | 2/15 |
+| Host Name | EL HOMBRE SIDA !! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:12:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150535355870 |
+| Players | 3/8 |
+| Host Name | MOJO JOJO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:12:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150535406647 |
+| Players | 7/8 |
+| Host Name | nosheeeeeeeee |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:12:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150535466843 |
+| Players | 3/8 |
+| Host Name | КРУТОЙ СВИН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:12:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150533137748 |
+| Players | 13/15 |
+| Host Name | Missi |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:07:58 |
 
 
 |  | epic_boss_fight_nightmare |
