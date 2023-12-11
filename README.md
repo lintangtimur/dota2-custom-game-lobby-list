@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151039008497 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | \ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:12:40 |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:11:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151041332293 |
+| Players | 2/15 |
+| Host Name | ТРАКТОР ЧУХ ЧУХ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:15:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151040405526 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jin Kazama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:14:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151041436229 |
+| Players | 2/10 |
+| Host Name | Pablo Emilio Escobar Gaviria |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:15:12 |
 
 
