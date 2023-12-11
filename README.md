@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151091053134 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Isaac's mom |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:07:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151087938216 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Pan con broster |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:04:35 |
@@ -92,40 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:08:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151091833361 |
-| Players | 10/15 |
-| Host Name | beginner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:08:46 |
+| Lobby ID | 28553151092086251 |
+| Players | 3/10 |
+| Host Name | Chuk Norris |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:09:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151092066960 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | слово писюна |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:09:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151092089474 |
-| Players | 1/8 |
-| Host Name | bober kurwa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:09:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151092086251 |
-| Players | 1/10 |
-| Host Name | Chuk Norris |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:09:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neravel |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:08:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151092118133 |
+| Players | 2/10 |
+| Host Name | Mr.Henky |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:09:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151092211625 |
+| Players | 1/5 |
+| Host Name | QaShaky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:09:10 |
 
 
