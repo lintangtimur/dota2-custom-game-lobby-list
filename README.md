@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150950334620 |
+| Players | 2/24 |
+| Host Name | TeriTeri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:45 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150942183202 |
-| Players | 8/10 |
-| Host Name | DФ ИФΓ FФЯGΞΓ MΞ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 21:36:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150948921882 |
-| Players | 7/15 |
-| Host Name | Hellsing |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 21:42:21 |
+| Lobby ID | 28553150949588848 |
+| Players | 4/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:01 |
 
 
 |  | ot3_desert_octet |
@@ -32,79 +32,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150937465252 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:31:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150949866741 |
+| Players | 5/8 |
+| Host Name | Mraksunt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150950258807 |
+| Players | 3/15 |
+| Host Name | эльдар шевроле |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:41 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150949243664 |
-| Players | 3/10 |
-| Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:42:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150949642741 |
-| Players | 3/8 |
-| Host Name | main character |
+| Lobby ID | 28553150950056990 |
+| Players | 8/10 |
+| Host Name | Sad スDying as a lifestyleス |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:43:04 |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150946887814 |
-| Players | 1/8 |
-| Host Name | Jigsaw |
+| Lobby ID | 28553150950495394 |
+| Players | 1/10 |
+| Host Name | RenzoFloues |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 21:40:21 |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:55 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150949588848 |
+| Lobby ID | 28553150950061263 |
 | Players | 2/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 21:43:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150949732853 |
-| Players | 3/8 |
-| Host Name | гитлер был велик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:43:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150949748277 |
-| Players | 1/24 |
-| Host Name | TeriTeri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 21:43:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150940049814 |
-| Players | 1/5 |
-| Host Name | Толя Флейтлайн |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:34:14 |
+| Host Name | Plaridel |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 21:43:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150947807530 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:41:15 |
