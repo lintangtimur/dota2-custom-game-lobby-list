@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151170986370 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | EL MAS MEJOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:33:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151141528512 |
-| Players | 1/15 |
-| Host Name | ssssssssssssssssssssssssssssssss |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:01:43 |
+| Lobby ID | 28553151171591348 |
+| Players | 9/10 |
+| Host Name | brxndxd |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:34:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151170331448 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | EMISARIO NORN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:32:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151169373777 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | boom(-_-) |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:31:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151169865568 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | hanswurst |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:32:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151169807714 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | да |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:32:11 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151171568089 |
-| Players | 1/15 |
-| Host Name | kroh |
+| Players | 4/15 |
+| Host Name | R1ckTheS1zzler- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:34:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151171583251 |
-| Players | 1/8 |
-| Host Name | patriot_stepochkin2009 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:34:02 |
 
 
 |  | epic_boss_fight_normal |
