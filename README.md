@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150749765500 |
-| Players | 9/10 |
-| Host Name | u look lonely |
+| Lobby ID | 28553150750645539 |
+| Players | 2/10 |
+| Host Name | EgelatoR the Kingpin |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 18:13:50 |
+| Lobby Creation Time | Monday, December 11, 2023 18:14:59 |
 
 
 |  | ot3_gardens_duo |
@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150750031866 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | tiuebiwe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:14:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150750661731 |
+| Players | 5/15 |
+| Host Name | Midas farming club |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:15:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150750720972 |
+| Players | 1/8 |
+| Host Name | ПИВНОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:15:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150750730702 |
+| Players | 4/8 |
+| Host Name | хач |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:15:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150750176510 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TEAM CALLER |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 18:14:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150750586125 |
-| Players | 1/5 |
-| Host Name | jcx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:14:54 |
 
 
