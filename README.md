@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150458903206 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | TEPUNTEO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:32:48 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:33:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150458503550 |
-| Players | 11/15 |
-| Host Name | Pimpin' |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:32:05 |
+| Lobby ID | 28553150459628195 |
+| Players | 5/8 |
+| Host Name | abrazare a tu mami |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:34:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458470974 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | e |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:32:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458251557 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:31:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150459243235 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Fightinside 4-5 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:33:24 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:34:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150459688896 |
+| Players | 1/8 |
+| Host Name | 123qweasdzxc |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:34:13 |
 
 
 |  | epic_boss_fight_nightmare |
