@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151185801140 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Лил Нас Рау |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:50:52 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151180944140 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | SyX |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151185101501 |
-| Players | 13/15 |
-| Host Name | John Wesson |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:58 |
+| Lobby ID | 28553151186218691 |
+| Players | 4/10 |
+| Host Name | thegogo8 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:51:23 |
 
 
 |  | ot3_gardens_duo |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151180506850 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Luci |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151185916756 |
-| Players | 7/10 |
-| Host Name | полная залупа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:51:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151186074217 |
-| Players | 1/15 |
+| Lobby ID | 28553151186167454 |
+| Players | 2/15 |
 | Host Name | Жужень Медофлекс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:51:12 |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:51:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151186128784 |
+| Players | 5/10 |
+| Host Name | Kurasaki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:51:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tillto |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:51:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151186244249 |
+| Players | 1/5 |
+| Host Name | САППОРТ БОГА |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:51:25 |
 
 
