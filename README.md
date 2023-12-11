@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151224268225 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 743676342679754268098786545 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:36:00 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151235828204 |
-| Players | 1/8 |
-| Host Name | I'm a comet. |
+| Lobby ID | 28553151235863230 |
+| Players | 4/8 |
+| Host Name | 111 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:50:14 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:50:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151232701198 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:46:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151235446677 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | RichieZones |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:49:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151235617054 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | RiMURAJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:49:59 |
@@ -113,45 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151229863388 |
-| Players | 17/24 |
+| Players | 14/24 |
 | Host Name | :$ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:42:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151235624807 |
-| Players | 2/8 |
-| Host Name | Arkasha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:49:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151235882260 |
 | Players | 2/24 |
-| Host Name | Venom Oguzok |
+| Host Name | Oki Doki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:50:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151235863230 |
-| Players | 4/8 |
-| Host Name | 111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:50:17 |
+| Lobby ID | 28553151236036807 |
+| Players | 1/10 |
+| Host Name | 76561198807731013 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:50:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151233662453 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:47:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151236002529 |
+| Players | 2/5 |
+| Host Name | Marthunt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:50:27 |
 
 
