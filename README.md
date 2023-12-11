@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150469747705 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150469575845 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:55:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150469256635 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 187 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:54:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150469959702 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ConstableCrum |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:31 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | primaria trunca |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150470211887 |
+| Players | 4/8 |
+| Host Name | The inmortal king it´s coming |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 09:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
