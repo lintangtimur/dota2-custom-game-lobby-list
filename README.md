@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150583246590 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:48:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150585866474 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 13:53:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150585083144 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Ronald Araujo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:52:13 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150582365557 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Scrreeww |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:46:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150585189479 |
-| Players | 1/10 |
-| Host Name | IIiIIiII |
+| Lobby ID | 28553150586021923 |
+| Players | 3/8 |
+| Host Name | Ветролет МИ-28 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:52:25 |
+| Lobby Creation Time | Monday, December 11, 2023 13:54:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:38:09 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150586100477 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:54:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150586021923 |
-| Players | 3/8 |
-| Host Name | Ветролет МИ-28 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:54:01 |
+| Lobby ID | 28553150586126727 |
+| Players | 1/8 |
+| Host Name | Chuny |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 11, 2023 13:54:13 |
 
 
 |  | epic_boss_fight_nightmare |
