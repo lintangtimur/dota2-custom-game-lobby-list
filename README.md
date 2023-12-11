@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150645309394 |
-| Players | 7/8 |
-| Host Name | Анальная патока |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:33:24 |
+| Lobby ID | 28553150644218174 |
+| Players | 9/10 |
+| Host Name | no hablo con latinx |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 15:31:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,31 +38,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:30:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150644218174 |
-| Players | 4/10 |
-| Host Name | no hablo con latinx |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 15:31:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150645487803 |
-| Players | 9/15 |
-| Host Name | aWarDeeee |
+| Lobby ID | 28553150646135376 |
+| Players | 6/15 |
+| Host Name | Rick Sanchez С-137 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:33:41 |
+| Lobby Creation Time | Monday, December 11, 2023 15:34:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150645969203 |
-| Players | 1/24 |
-| Host Name | Smiley Frog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:34:24 |
+| Lobby ID | 28553150646159020 |
+| Players | 3/10 |
+| Host Name | 1=295 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:34:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150646197886 |
+| Players | 2/8 |
+| Host Name | 187 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:34:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150646295080 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 15:34:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150646296701 |
+| Players | 1/10 |
+| Host Name | 椅子凳子他妈的妻子椅 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:34:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:32:53 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553150646226011 |
+| Players | 1/7 |
+| Host Name | lobster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:34:48 |
 
 
