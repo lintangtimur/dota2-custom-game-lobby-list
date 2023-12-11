@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151081999918 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 23:58:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151081046584 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Young Neil |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:57:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151084010989 |
-| Players | 1/24 |
-| Host Name | yoshishi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:00:18 |
+| Lobby ID | 28553151083941350 |
+| Players | 2/10 |
+| Host Name | 空想家 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:00:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,49 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:57:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151083585497 |
-| Players | 7/8 |
-| Host Name | Мой КрАш Вин Дизе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:59:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151083670331 |
-| Players | 14/15 |
-| Host Name | Dansky |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:59:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151083949162 |
-| Players | 1/24 |
-| Host Name | ♪KEMPER♪ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:00:14 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151083943624 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Absolutе psihoKids ghoul 1000-7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:00:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151083941350 |
-| Players | 2/10 |
-| Host Name | 空想家 |
-| Region | STOCKHOLM |
+| Lobby ID | 28553151083949162 |
+| Players | 2/24 |
+| Host Name | ♪KEMPER♪ |
+| Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:00:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151084094964 |
+| Players | 2/15 |
+| Host Name | Жириновский.В.В |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:00:24 |
 
 
 |  | epic_boss_fight_nightmare |
