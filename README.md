@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150596100219 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 14:12:30 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 4/15 |
-| Host Name | DotaPlayer1 |
+| Players | 1/15 |
+| Host Name | АНИМЕ НА АВЕ - СЫН ШАЛАВЫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
 
@@ -63,6 +63,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MarcoSL |115 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:07:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150596432679 |
+| Players | 1/15 |
+| Host Name | похуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:13:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150596438733 |
+| Players | 1/15 |
+| Host Name | Ti-Lay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:13:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150592718787 |
+| Players | 23/24 |
+| Host Name | Fucking Pencil |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:06:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150596516823 |
+| Players | 1/8 |
+| Host Name | morfling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:13:14 |
 
 
 |  | epic_boss_fight_nightmare |
