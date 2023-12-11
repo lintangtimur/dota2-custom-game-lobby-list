@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151381436829 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:31:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151381846735 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:32:18 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:32:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151382064300 |
-| Players | 4/8 |
-| Host Name | RYUK |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:32:40 |
 
 
 |  | ot3_desert_octet |
