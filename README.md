@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151289537240 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | ❈K.ø.t.™❈ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:58:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151287857651 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:56:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151290921867 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:00:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151290612828 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Dubi Dubi 666 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:00:22 |
@@ -112,17 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151291476218 |
-| Players | 14/15 |
-| Host Name | Fredik Hruner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:01:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28553151291876561 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Trible Beast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:02:11 |
@@ -131,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151291365098 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | O K |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:01:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151291896892 |
+| Players | 1/5 |
+| Host Name | ras(putin) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:02:13 |
 
 
