@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150954833814 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:48:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150950334620 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | wake me up when autochess ends |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:43:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150959466786 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | SanTy--To..!! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:52:51 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:54:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150961119112 |
-| Players | 7/10 |
-| Host Name | Amikari |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:54:29 |
+| Lobby ID | 28553150961647080 |
+| Players | 6/8 |
+| Host Name | nuh uh |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:55:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150961318584 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | xpapaya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:54:41 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:54:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150961647080 |
-| Players | 3/8 |
-| Host Name | nuh uh |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:55:00 |
+| Lobby ID | 28553150961862629 |
+| Players | 1/10 |
+| Host Name | Wiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:55:12 |
 
 
 |  | epic_boss_fight_normal |
