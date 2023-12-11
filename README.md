@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:54:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151080842337 |
-| Players | 9/15 |
-| Host Name | crazysic |
+| Lobby ID | 28553151080529758 |
+| Players | 9/10 |
+| Host Name | L |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:56:46 |
+| Lobby Creation Time | Monday, December 11, 2023 23:56:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151080413832 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Qiu Qiu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:56:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151080948065 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Hash |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:56:53 |
@@ -92,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:56:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151081023238 |
-| Players | 2/10 |
-| Host Name | Наhyi так Live |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:56:58 |
+| Lobby ID | 28553151081046584 |
+| Players | 2/8 |
+| Host Name | le voy a dar pinga |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 23:57:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151081046584 |
-| Players | 1/8 |
-| Host Name | le voy a dar pinga |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 23:57:00 |
+| Lobby ID | 28553151081143443 |
+| Players | 5/8 |
+| Host Name | Леха бей |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:57:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151081211365 |
+| Players | 2/10 |
+| Host Name | Наhyi так Live |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:57:11 |
 
 
 |  | epic_boss_fight_nightmare |
