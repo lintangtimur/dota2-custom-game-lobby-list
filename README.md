@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150692916480 |
-| Players | 6/8 |
-| Host Name | Володя автомойка |
+| Lobby ID | 28553150693631587 |
+| Players | 4/8 |
+| Host Name | Midas farming club |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:50:10 |
+| Lobby Creation Time | Monday, December 11, 2023 16:51:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150691836465 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:48:16 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150692867435 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:50:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150693261150 |
-| Players | 8/15 |
-| Host Name | HimalayaJoe |
+| Lobby ID | 28553150693698529 |
+| Players | 1/24 |
+| Host Name | Papi |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:50:47 |
+| Lobby Creation Time | Monday, December 11, 2023 16:51:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 貓馬Light |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:46:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150693574178 |
-| Players | 2/5 |
-| Host Name | Scruffy |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, December 11, 2023 16:51:19 |
 
 
