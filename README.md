@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151371684605 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | zapitae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:13:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151371760864 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Nemo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:13:57 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:03:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151370950990 |
-| Players | 19/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:12:29 |
+| Lobby ID | 28553151371918600 |
+| Players | 5/10 |
+| Host Name | q1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:14:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151371570252 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | RYUK |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:13:36 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151371853637 |
+| Lobby ID | 28553151372066397 |
 | Players | 5/15 |
-| Host Name | Sheerluck Holmes |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:14:08 |
+| Host Name | J-JOHN? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:14:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151371918600 |
-| Players | 3/10 |
-| Host Name | q1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:14:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151371909142 |
-| Players | 1/15 |
-| Host Name | skv tuve king |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:14:14 |
+| Lobby ID | 28553151372234629 |
+| Players | 1/8 |
+| Host Name | EXTERMINADOR DE CHOLOS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:14:52 |
 
 
 |  | epic_boss_fight_nightmare |
