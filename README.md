@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150509282127 |
-| Players | 6/15 |
-| Host Name | Ayegiz |
+| Players | 5/15 |
+| Host Name | Bobi228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:17:28 |
 
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 11:17:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150510401414 |
-| Players | 8/10 |
-| Host Name | ESTOY CANSADO DE PERDER |
+| Lobby ID | 28553150510748267 |
+| Players | 4/8 |
+| Host Name | M.Y |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:19:39 |
+| Lobby Creation Time | Monday, December 11, 2023 11:20:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150510541165 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:19:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150510578875 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Hawks_Fury |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:20:00 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DaveyJones |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 11:20:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150510722763 |
+| Players | 1/24 |
+| Host Name | Potical |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 11:20:17 |
 
 
 |  | epic_boss_fight_nightmare |
