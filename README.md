@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150469575845 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:55:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150469959702 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | ConstableCrum |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:31 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150470152657 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | primaria trunca |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150470211887 |
-| Players | 4/8 |
-| Host Name | The inmortal king it´s coming |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150469126997 |
-| Players | 2/10 |
-| Host Name | Maceo |
+| Players | 1/10 |
+| Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:54:42 |
 
