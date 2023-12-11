@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150940103185 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Твоя мама |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:34:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150940872294 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | escapism |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:34:59 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150937465252 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:31:55 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150940547976 |
-| Players | 9/10 |
-| Host Name | disappeared<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:34:41 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150941092412 |
-| Players | 2/8 |
-| Host Name | Shizoid |
+| Lobby ID | 28553150941261275 |
+| Players | 5/8 |
+| Host Name | guappa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:35:10 |
+| Lobby Creation Time | Monday, December 11, 2023 21:35:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150941312793 |
+| Players | 2/24 |
+| Host Name | Invaders Must Die |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 21:35:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150941277099 |
+| Players | 2/10 |
+| Host Name | Игорёк Кронштейн |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:35:20 |
 
 
 |  | epic_boss_fight_normal |
