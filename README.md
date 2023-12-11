@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150511370319 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:21:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150511101224 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | EL CUCO SI EXISTE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:21:00 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150510900429 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | AyEfKay |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:20:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150512216385 |
+| Players | 1/8 |
+| Host Name | andre.dz |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 11:23:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 晴宝宝 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 11:18:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150512206838 |
+| Players | 1/5 |
+| Host Name | Чорт |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 11:23:06 |
 
 
