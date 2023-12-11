@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150669882864 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ⓗ︎ beardedZEX; |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:13:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150669893374 |
-| Players | 1/15 |
-| Host Name | Rick Sanchez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:13:39 |
 
 
 |  | ot3_necropolis_ffa |
