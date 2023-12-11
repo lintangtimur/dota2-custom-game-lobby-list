@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150639437671 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Huat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150642548813 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Lord Tolkien |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 15:29:16 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150642063941 |
-| Players | 5/8 |
-| Host Name | Серёжа |
+| Lobby ID | 28553150643095487 |
+| Players | 4/8 |
+| Host Name | kkilonq 천재 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:28:32 |
+| Lobby Creation Time | Monday, December 11, 2023 15:30:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150643095487 |
-| Players | 3/8 |
-| Host Name | kkilonq 천재 |
+| Lobby ID | 28553150643330303 |
+| Players | 4/8 |
+| Host Name | sosiska |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:30:05 |
+| Lobby Creation Time | Monday, December 11, 2023 15:30:26 |
 
 
 |  | epic_boss_fight_nightmare |
