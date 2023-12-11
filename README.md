@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150477152935 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | espectro |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:11:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150478006799 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | MightyEros |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:12:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150476223980 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Intankavel o Bostil |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 10:09:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150477423261 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:11:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150476890571 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:10:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150478143970 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Articulador |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:13:05 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SAD BOY |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:06:09 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553150478157548 |
-| Players | 1/7 |
-| Host Name | adachi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 10:13:06 |
 
 
