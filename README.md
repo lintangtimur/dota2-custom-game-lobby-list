@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:52:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151018523495 |
-| Players | 21/24 |
-| Host Name | SUPER SAM |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 22:51:22 |
+| Lobby ID | 28553151023542492 |
+| Players | 1/8 |
+| Host Name | .... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:56:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151019096437 |
-| Players | 6/8 |
-| Host Name | Eldarko15 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:51:58 |
+| Lobby ID | 28553151023223062 |
+| Players | 1/8 |
+| Host Name | AVENA 3 URSITAS |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 22:56:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151019861458 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 22:52:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151022397470 |
-| Players | 3/24 |
+| Players | 14/24 |
 | Host Name | hellosofia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:55:28 |
@@ -59,46 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151022330320 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | chernika_56 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:55:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151022377511 |
-| Players | 9/10 |
-| Host Name | стринги льва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:55:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151023068865 |
-| Players | 2/15 |
-| Host Name | felina |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:56:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151023223062 |
-| Players | 1/8 |
-| Host Name | AVENA 3 URSITAS |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 22:56:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151023219338 |
-| Players | 2/15 |
+| Lobby ID | 28553151023412776 |
+| Players | 1/15 |
 | Host Name | 我是专业的 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:56:20 |
+| Lobby Creation Time | Monday, December 11, 2023 22:56:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151023684505 |
+| Players | 1/15 |
+| Host Name | PANDAMAN |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, December 11, 2023 22:56:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151023722907 |
+| Players | 3/15 |
+| Host Name | каламитас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:56:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151023711313 |
+| Players | 1/15 |
+| Host Name | Нико |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:56:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Я Никита |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:52:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151022265659 |
-| Players | 6/10 |
-| Host Name | JinNt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:55:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151023249427 |
-| Players | 1/10 |
-| Host Name | UY Scuti |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 22:56:22 |
 
 
