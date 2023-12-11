@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150788613944 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | SmuggyFace |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:02:17 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150788635104 |
-| Players | 7/8 |
-| Host Name | Killua[RU] |
+| Lobby ID | 28553150789942625 |
+| Players | 2/8 |
+| Host Name | جورب القدر |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:02:18 |
+| Lobby Creation Time | Monday, December 11, 2023 19:03:55 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150788599963 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 19:02:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150789599860 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 1ava |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:03:30 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150789942625 |
-| Players | 2/8 |
-| Host Name | جورب القدر |
+| Lobby ID | 28553150790053745 |
+| Players | 1/8 |
+| Host Name | Задоджил рот |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:03:55 |
+| Lobby Creation Time | Monday, December 11, 2023 19:04:03 |
 
 
 |  | epic_boss_fight_nightmare |
