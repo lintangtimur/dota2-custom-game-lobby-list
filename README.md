@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150501388905 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Burger-Man |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:01:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150500858616 |
-| Players | 7/8 |
-| Host Name | Sunset |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:59:53 |
+| Lobby ID | 28553150501177588 |
+| Players | 2/10 |
+| Host Name | 𩠑 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 11:00:34 |
 
 
 |  | ot3_gardens_duo |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:59:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150500556974 |
-| Players | 9/10 |
-| Host Name | ikaris |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:59:15 |
+| Lobby ID | 28553150501432526 |
+| Players | 1/15 |
+| Host Name | Mr. Freeman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 11:01:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150500034688 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 10:58:07 |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | МИСТЕР ХРИСТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:58:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150501177588 |
-| Players | 2/10 |
-| Host Name | 𩠑 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 11:00:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150498741636 |
-| Players | 23/24 |
-| Host Name | SoWyer |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:55:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150501432526 |
-| Players | 1/15 |
-| Host Name | Mr. Freeman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 11:01:07 |
 
 
 |  | epic_boss_fight_nightmare |
