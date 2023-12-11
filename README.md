@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151046620966 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:20:32 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:19:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151037629464 |
-| Players | 23/24 |
-| Host Name | актер живодер каскадер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:11:14 |
+| Lobby ID | 28553151048166132 |
+| Players | 3/8 |
+| Host Name | What's the cost? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:22:06 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151048131885 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 233698 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:22:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151047482059 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | *______* |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:21:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151047836440 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | I'm Adeerable |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:21:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151047900730 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Хахаль твоей мамы |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:21:50 |
@@ -76,44 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151047991092 |
-| Players | 4/8 |
-| Host Name | gangster |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:21:56 |
+| Lobby ID | 28553151048496141 |
+| Players | 1/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 11, 2023 23:22:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151048166132 |
-| Players | 2/8 |
-| Host Name | What's the cost? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:22:06 |
+| Lobby ID | 28553151048465159 |
+| Players | 1/24 |
+| Host Name | comewithme |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:22:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151048235392 |
-| Players | 2/8 |
-| Host Name | Meowww |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 23:22:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151048328563 |
-| Players | 5/10 |
-| Host Name | профиссиАнальный |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:22:16 |
+| Lobby ID | 28553151039784017 |
+| Players | 13/15 |
+| Host Name | 💀Frustriertes Leben |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 23:13:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151044966059 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Artasart |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:18:50 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zeteron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:20:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151048407354 |
+| Players | 1/5 |
+| Host Name | 阎王 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:22:21 |
 
 
