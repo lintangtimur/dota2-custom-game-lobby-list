@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150749070703 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Foreskin Collector |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:12:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150748615334 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Bread Pitt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:12:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150748952477 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Хлюп хлюп +3.1к |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:12:48 |
