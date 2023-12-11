@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151314900445 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Mof |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:31:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151312838773 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | _________ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:28:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151315100443 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | тюбик земли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:32:00 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151314866305 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:31:41 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151315167168 |
-| Players | 1/24 |
-| Host Name | Priority |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:32:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151315150945 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | КАПИТАН КАСТЕТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:32:04 |
@@ -121,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553151314763961 |
+| Lobby ID | 28553151315226177 |
 | Players | 1/5 |
 | Host Name | Darknewsold |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:31:32 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:32:10 |
 
 
