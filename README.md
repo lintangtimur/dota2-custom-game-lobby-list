@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151366696288 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Tilápio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:04:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151367105473 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:05:03 |
@@ -76,37 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151367873743 |
+| Lobby ID | 28553151368662072 |
 | Players | 4/8 |
-| Host Name | стояк Петра I |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:06:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151367773443 |
-| Players | 21/24 |
-| Host Name | SNC |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:06:21 |
+| Host Name | Huggy Wuggy |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:08:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151368535055 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ♂typhoon♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:07:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553151368662072 |
-| Players | 2/8 |
-| Host Name | Huggy Wuggy |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:08:03 |
+| Lobby ID | 28553151368725166 |
+| Players | 1/5 |
+| Host Name | SPACE TOAD |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:08:11 |
 
 
