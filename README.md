@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150480432410 |
-| Players | 13/15 |
-| Host Name | F4NTOM_PROJECT |
+| Lobby ID | 28553150481229457 |
+| Players | 2/10 |
+| Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:17:25 |
+| Lobby Creation Time | Monday, December 11, 2023 10:18:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150480539062 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | KeKu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:17:37 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150480289085 |
-| Players | 2/15 |
-| Host Name | OMAR |
+| Players | 1/15 |
+| Host Name | слепыш |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:17:09 |
 
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150480387126 |
-| Players | 6/15 |
-| Host Name | OH si hermano |
+| Players | 4/15 |
+| Host Name | Gingko Biloba |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:17:20 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150480809727 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alien |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150480972444 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:25 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .DETH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150481229457 |
-| Players | 2/10 |
-| Host Name | Might Wanna Try Fortnite |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:18:54 |
 
 
 |  | epic_boss_fight_nightmare |
