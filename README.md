@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150728568642 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ( ͡° ͜ʖ ͡°) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 17:42:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150728006555 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lordi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 17:42:00 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:41:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150728801436 |
+| Players | 6/8 |
+| Host Name | Sinx幸 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:43:20 |
 
 
 |  | epic_boss_fight_nightmare |
