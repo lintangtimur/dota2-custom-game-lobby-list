@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150690110174 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:45:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150690433606 |
-| Players | 9/10 |
-| Host Name | R |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:45:41 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150690622299 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | genocide in hell |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:46:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150690733436 |
+| Players | 4/10 |
+| Host Name | KaTheDirector |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:46:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AWESOME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:45:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150690753854 |
+| Players | 1/10 |
+| Host Name | LEE kwang SOO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:46:18 |
 
 
