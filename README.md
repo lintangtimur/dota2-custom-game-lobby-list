@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151368315051 |
-| Players | 3/15 |
-| Host Name | Little BirD |
+| Players | 7/15 |
+| Host Name | REGIMEPILLED ☭ #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:07:23 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151366696288 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Tilápio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:04:15 |
@@ -47,49 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:03:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151367932684 |
-| Players | 5/8 |
-| Host Name | GhosTNeal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:06:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151366525593 |
-| Players | 3/8 |
-| Host Name | NOHCHO |
+| Lobby ID | 28553151368535055 |
+| Players | 14/15 |
+| Host Name | ♂typhoon♂ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:03:56 |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:07:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151369028192 |
+| Players | 1/8 |
+| Host Name | BlackEgg |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:08:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151367105473 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:05:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151368662072 |
-| Players | 4/8 |
-| Host Name | Huggy Wuggy |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:08:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151368535055 |
-| Players | 6/15 |
-| Host Name | ♂typhoon♂ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:07:48 |
 
 
 |  | epic_boss_fight_normal |
