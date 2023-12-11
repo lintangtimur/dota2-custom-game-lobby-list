@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151337556648 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Awesder |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:09:06 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:08:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151336403111 |
-| Players | 23/24 |
-| Host Name | too old for this nonsense |
+| Lobby ID | 28553151338045181 |
+| Players | 2/10 |
+| Host Name | Blackout |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:07:03 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:09:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151336807193 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Zyzz (2011) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:07:47 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NaTzU DrgneL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:09:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151338132181 |
+| Players | 5/15 |
+| Host Name | Cuzee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:10:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151338144636 |
+| Players | 1/5 |
+| Host Name | Jimmy McGill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:10:07 |
 
 
