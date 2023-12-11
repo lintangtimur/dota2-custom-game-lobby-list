@@ -2,31 +2,40 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150664841805 |
-| Players | 2/8 |
-| Host Name | Zoro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:05:38 |
+| Lobby ID | 28553150665575179 |
+| Players | 1/10 |
+| Host Name | 神の手 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150660493987 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Darkberry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:58:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150664263970 |
+| Players | 14/15 |
+| Host Name | yøbi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:04:43 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150663603862 |
-| Players | 9/10 |
-| Host Name | notenough |
+| Lobby ID | 28553150665454809 |
+| Players | 3/10 |
+| Host Name | Megane |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:03:40 |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553150664159125 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | EcoHunter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:04:33 |
@@ -50,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150665239657 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Ghosty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:06:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150660590163 |
+| Players | 8/10 |
+| Host Name | Akaza |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:58:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150665609813 |
+| Players | 1/5 |
+| Host Name | -RoN- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:52 |
 
 
