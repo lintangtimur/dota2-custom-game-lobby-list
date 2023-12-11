@@ -29,6 +29,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150480038284 |
+| Players | 3/10 |
+| Host Name | Rael8a |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:16:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150479029969 |
+| Players | 8/10 |
+| Host Name | Копьё Аллаха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:14:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150479902734 |
+| Players | 3/24 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150480235866 |
+| Players | 1/15 |
+| Host Name | llultra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:17:03 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150479359799 |
@@ -36,42 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:15:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150479029969 |
-| Players | 7/10 |
-| Host Name | Копьё Аллаха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:14:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150480148352 |
-| Players | 2/15 |
-| Host Name | mode: mischief |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:16:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150479902734 |
-| Players | 2/24 |
-| Host Name | Poomp |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150480038284 |
-| Players | 2/10 |
-| Host Name | Rael8a |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:16:41 |
 
 
 |  | epic_boss_fight_nightmare |
