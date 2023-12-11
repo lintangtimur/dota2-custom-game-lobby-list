@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151390605225 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Axello |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:51:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151391548989 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:53:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151386609956 |
-| Players | 9/24 |
+| Players | 5/24 |
 | Host Name | MASAKARY :v |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151391332396 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Madagascar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:53:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151390137878 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:50:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151391537757 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Sub-Zero |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:53:58 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151391640608 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | ГУЛЬГАМОТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:54:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151390161312 |
-| Players | 6/10 |
-| Host Name | Al Capone |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:50:35 |
+| Lobby ID | 28553151391803925 |
+| Players | 2/15 |
+| Host Name | BANEADOR PROFESIONAL DE TECHIES |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:54:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151391908985 |
+| Players | 4/8 |
+| Host Name | 氣氛很親密 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:54:54 |
 
 
