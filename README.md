@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150808917639 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 19:25:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150808828136 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | msp |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:25:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150804860518 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | EL ROPAVEJERO |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 19:21:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150808662181 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:25:32 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:25:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150809131818 |
-| Players | 1/8 |
-| Host Name | KаHиЧIвA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:26:02 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150809175986 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:26:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150806285130 |
-| Players | 14/15 |
-| Host Name | Gus |
+| Lobby ID | 28553150809289970 |
+| Players | 5/8 |
+| Host Name | Ядерный гомасек |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:22:58 |
+| Lobby Creation Time | Monday, December 11, 2023 19:26:12 |
 
 
 |  | epic_boss_fight_nightmare |
