@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150521208258 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | taxi is gone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 11:40:20 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:40:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150523463339 |
+| Players | 2/10 |
+| Host Name | goshiu |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 11:46:01 |
 
 
 |  | epic_boss_fight_nightmare |
