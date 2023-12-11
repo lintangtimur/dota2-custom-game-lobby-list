@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151213360856 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:23:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151216844081 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | skyvovkerlol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:27:21 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151203999284 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | arhikent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151218325931 |
-| Players | 5/8 |
-| Host Name | Belkab0y |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:29:04 |
+| Lobby ID | 28553151218043083 |
+| Players | 4/10 |
+| Host Name | Mi Chibolo Tete |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:28:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151217436336 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SeaQer |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:28:02 |
@@ -94,36 +94,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151218028936 |
-| Players | 14/15 |
-| Host Name | _Llss |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:28:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151218043083 |
-| Players | 2/10 |
-| Host Name | Mi Chibolo Tete |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:28:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151217446003 |
-| Players | 9/10 |
-| Host Name | LEXACOCu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:28:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28553151218412349 |
-| Players | 3/15 |
-| Host Name | Джимbo |
+| Players | 4/15 |
+| Host Name | Skrip O4ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:29:10 |
 
