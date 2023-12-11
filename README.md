@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151227627211 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Febem o Abusado |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:39:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151232342291 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Riz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:45:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151231870978 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | IV.viewer de leostyle♡ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:45:18 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151231605170 |
-| Players | 6/8 |
-| Host Name | Убийца интима |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:44:58 |
+| Lobby ID | 28553151232482871 |
+| Players | 2/8 |
+| Host Name | amaster |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:46:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151231734788 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | alone |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:45:08 |
