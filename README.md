@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151359139060 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151360730986 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:30 |
@@ -47,37 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:51:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151359079848 |
-| Players | 14/15 |
-| Host Name | s3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:48:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151361081456 |
-| Players | 9/15 |
-| Host Name | Bush did it |
+| Lobby ID | 28553151361141695 |
+| Players | 7/10 |
+| Host Name | Recycle your children |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:11 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151360446373 |
+| Players | 12/15 |
+| Host Name | Competitive ACNH Player |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:51:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151360243100 |
-| Players | 9/10 |
-| Host Name | el gato mewando |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:51:31 |
+| Lobby ID | 28553151361152906 |
+| Players | 6/10 |
+| Host Name | NaIB |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151360688490 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Зеленый Крокодил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:25 |
@@ -94,38 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151360446373 |
-| Players | 10/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:51:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151361141695 |
-| Players | 2/10 |
-| Host Name | Recycle your children |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151361128522 |
-| Players | 2/10 |
-| Host Name | Сын Шлюхи |
+| Lobby ID | 28553151361439819 |
+| Players | 1/15 |
+| Host Name | rich イスラム教 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151361152906 |
-| Players | 1/10 |
-| Host Name | NaIB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:20 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151361433835 |
+| Players | 2/5 |
+| Host Name | Детектив Фекалис |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:54 |
 
 
