@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150954833814 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:48:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150962973667 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Нарды онлайн |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:56:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150962356515 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Ajal:). |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:55:41 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:54:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150963760911 |
+| Players | 4/10 |
+| Host Name | кишка айгуль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:57:03 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150952560283 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150961465315 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | LEE kwang SOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:54:49 |
@@ -113,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150961083621 |
-| Players | 2/10 |
-| Host Name | Plaridel |
+| Players | 1/10 |
+| Host Name | Exstetra |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 21:54:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150963606885 |
+| Players | 1/10 |
+| Host Name | DEB(◉ ͜ʖ ͡◉)STER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:56:54 |
 
 
