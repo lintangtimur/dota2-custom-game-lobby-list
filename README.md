@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150607212224 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | PURPLE |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150617976192 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:50:32 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Immortal弥登呂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:48:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150618291545 |
+| Players | 3/8 |
+| Host Name | ДОЕДАЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:51:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Иван Ящерица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:50:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150618198668 |
-| Players | 1/5 |
-| Host Name | 友好的家伙 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:50:55 |
 
 
