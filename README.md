@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151141528512 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | laze |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:01:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151170585344 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Павукан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:32:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151169373777 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | boom(-_-) |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:31:44 |
@@ -103,18 +103,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151169647831 |
-| Players | 9/10 |
-| Host Name | Gerzson12 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:32:01 |
+| Lobby ID | 28553151170517676 |
+| Players | 1/10 |
+| Host Name | lie. use. die. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:32:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151168912591 |
-| Players | 9/10 |
-| Host Name | Ackres |
+| Players | 8/10 |
+| Host Name | Alien |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:31:15 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151170129594 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Стальной кулак возмездия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:32:31 |
@@ -144,15 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ФЛЭШБЕКИЧ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:32:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151170517676 |
-| Players | 1/10 |
-| Host Name | lie. use. die. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:32:55 |
 
 
 |  | epic_boss_fight_normal |
