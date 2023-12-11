@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150475110473 |
-| Players | 13/24 |
+| Players | 22/24 |
 | Host Name | yape 984722578 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:07:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150476223980 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Intankavel o Bostil |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 10:09:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150475629124 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | BobbyHillsWikiFeetProfile |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:08:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150476592675 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | El Tio Custom |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:10:04 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:09:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150476890571 |
+| Players | 2/10 |
+| Host Name | ikaris |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:10:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150468375489 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | RYOGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:53:00 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150474609690 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:06:09 |
