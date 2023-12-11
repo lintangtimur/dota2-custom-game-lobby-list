@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151392627251 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ruth |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:56:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151392735864 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Zacarias Dog |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:57:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151392473409 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:56:20 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151392347594 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Stefan Pragner |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:56:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151392856017 |
+| Players | 1/8 |
+| Host Name | McLovin |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:57:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151392874754 |
+| Players | 1/8 |
+| Host Name | OligerMan |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:57:21 |
 
 
 |  | epic_boss_fight_nightmare |
