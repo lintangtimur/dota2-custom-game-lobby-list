@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150683192460 |
-| Players | 22/24 |
-| Host Name | Rick & Clancy |
+| Lobby ID | 28553150684048317 |
+| Players | 2/10 |
+| Host Name | Remiferia |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 16:33:40 |
+| Lobby Creation Time | Monday, December 11, 2023 16:34:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150683856746 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | y tho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:34:38 |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Blackout |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:34:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150684048317 |
-| Players | 2/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 16:34:56 |
 
 
 |  | epic_boss_fight_nightmare |
