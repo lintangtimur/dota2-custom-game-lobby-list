@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151144461626 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | rain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:04:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151145453583 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | TU TERROR :) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:06:01 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:07:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151144085258 |
-| Players | 19/24 |
-| Host Name | ♥? |
+| Lobby ID | 28553151147424816 |
+| Players | 6/10 |
+| Host Name | pupka |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:04:31 |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:08:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151141528512 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Confused™ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:01:43 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151147337470 |
-| Players | 3/24 |
-| Host Name | Not Emi |
+| Players | 6/24 |
+| Host Name | GuniBa |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:08:05 |
 
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:08:05 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553151147440376 |
+| Players | 3/7 |
+| Host Name | Ace |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:08:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151147539084 |
+| Players | 1/10 |
+| Host Name | SAD BOY |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:08:18 |
 
 
