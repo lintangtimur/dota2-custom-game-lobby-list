@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150553082829 |
-| Players | 4/15 |
-| Host Name | PULGA |
+| Players | 3/15 |
+| Host Name | chakalito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:49:41 |
 
