@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150830353054 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Heidy |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 19:48:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150831345433 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Kurokongho |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 19:50:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150837567275 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | ДРЕВНИЙ РУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:56:48 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sAnkøttery1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:57:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150837898282 |
+| Players | 1/8 |
+| Host Name | Sasaki |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 19:57:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150836872593 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:56:04 |
