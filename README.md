@@ -32,55 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150608525215 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:33:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150609291285 |
-| Players | 12/15 |
-| Host Name | Shade1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:34:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150607115432 |
-| Players | 14/24 |
-| Host Name | Fucking Pencil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:31:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150609483695 |
-| Players | 7/10 |
-| Host Name | Ветролет МИ-28 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:35:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150609655686 |
-| Players | 1/10 |
-| Host Name | ABSOLUTE_KIYOTAKA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:35:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150610217770 |
-| Players | 2/8 |
-| Host Name | ПодХалвасник Bib |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 14:36:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +45,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | анти мага |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:36:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150607115432 |
+| Players | 16/24 |
+| Host Name | Fucking Pencil |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:31:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150610865021 |
+| Players | 3/15 |
+| Host Name | MIKE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:37:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150609655686 |
+| Players | 4/10 |
+| Host Name | ABSOLUTE_KIYOTAKA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:35:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150610217770 |
+| Players | 5/8 |
+| Host Name | ПодХалвасник Bib |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 14:36:28 |
 
 
 |  | epic_boss_fight_nightmare |
