@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150457158489 |
-| Players | 3/10 |
-| Host Name | РОЗБІЙНИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:29:38 |
+| Lobby ID | 28553150458903206 |
+| Players | 1/10 |
+| Host Name | TEPUNTEO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:32:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150453197259 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | main character vibes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:22:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150457427596 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | XIAO8 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 11, 2023 09:30:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458503550 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Pimpin' |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:32:05 |
@@ -41,61 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458470974 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | через пацифизм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:32:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150458010652 |
-| Players | 22/24 |
-| Host Name | th@n@tos |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:31:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458251557 |
 | Players | 2/15 |
-| Host Name | Mystery |
+| Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:31:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150458233804 |
-| Players | 4/15 |
-| Host Name | Circle:TheFinalStand |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 09:31:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150455856862 |
-| Players | 8/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:27:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150458073170 |
-| Players | 1/8 |
-| Host Name | Katapultista |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 09:31:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150456590846 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Utak Mo May Ubo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:28:37 |
