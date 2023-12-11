@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:12:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150713839159 |
-| Players | 14/15 |
-| Host Name | Порш каен |
+| Lobby ID | 28553150714888088 |
+| Players | 4/10 |
+| Host Name | Сын мандаринки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:21:56 |
+| Lobby Creation Time | Monday, December 11, 2023 17:23:26 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150714629221 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:23:04 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:22:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150714586052 |
-| Players | 5/8 |
-| Host Name | skkkkkkr |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 17:23:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150714888088 |
-| Players | 2/10 |
-| Host Name | Сын мандаринки |
+| Lobby ID | 28553150715283737 |
+| Players | 1/15 |
+| Host Name | КУРЮ АНУСОМ И ЖОПА В ТУМАНЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:23:26 |
+| Lobby Creation Time | Monday, December 11, 2023 17:23:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150714935865 |
+| Players | 2/15 |
+| Host Name | ПукЖены |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:23:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150713786146 |
-| Players | 1/5 |
-| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, December 11, 2023 17:21:52 |
 
 
 |  | epic_boss_fight_nightmare |
