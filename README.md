@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150519889243 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Pavlo N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:37:47 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150515945119 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | & |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:30:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150519688975 |
-| Players | 1/24 |
-| Host Name | Grey Light |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 11:37:24 |
+| Lobby ID | 28553150521044188 |
+| Players | 1/8 |
+| Host Name | BadBunny |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 11:39:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150520493254 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MMR=JUST A NUMBER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:38:55 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150520753896 |
-| Players | 7/10 |
-| Host Name | INAI |
+| Lobby ID | 28553150520752766 |
+| Players | 9/10 |
+| Host Name | Yamil :D |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:39:25 |
+| Lobby Creation Time | Monday, December 11, 2023 11:39:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150520677338 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | MarcleanCxz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:39:16 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150520605505 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ►G4M3R0V3R♫ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:39:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150520752766 |
-| Players | 8/10 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:39:24 |
 
 
 |  | epic_boss_fight_hard |
