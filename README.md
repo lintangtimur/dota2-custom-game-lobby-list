@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150637439288 |
-| Players | 10/15 |
-| Host Name | JD00 grand-rust |
+| Players | 11/15 |
+| Host Name | ❟❛❟Ken Kaneki by passport |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:21:28 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150637285684 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | антон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:21:14 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | my heart doesn't exist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:21:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150637985670 |
+| Players | 3/8 |
+| Host Name | Veliki Mag Loki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:22:18 |
 
 
 |  | epic_boss_fight_nightmare |
