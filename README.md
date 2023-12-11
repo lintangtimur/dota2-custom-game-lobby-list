@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151093288919 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:10:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151095533100 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | NaxodKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:12:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151095760858 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | qwe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:12:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151094813386 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 雪菜ちゃんの方が大事 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:11:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151094050866 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Luckyman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:11:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151093694057 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:10:44 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151095797647 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | граб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:12:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151096165141 |
+| Players | 3/8 |
+| Host Name | Azər Babaev |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:13:18 |
 
 
