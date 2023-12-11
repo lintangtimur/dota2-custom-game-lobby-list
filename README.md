@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151328685959 |
-| Players | 9/10 |
-| Host Name | Su kachero de |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:53:33 |
+| Lobby ID | 28553151330114899 |
+| Players | 13/15 |
+| Host Name | You Killed Kenny! |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:56:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151330183439 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | tbgk7 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:56:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151330096021 |
-| Players | 8/10 |
-| Host Name | K1ssLyak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:55:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151330537720 |
-| Players | 3/15 |
-| Host Name | RaSp1zDяЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:56:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151330536805 |
-| Players | 5/8 |
-| Host Name | создатель секса |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:56:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -130,19 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151330114899 |
-| Players | 14/15 |
-| Host Name | You Killed Kenny! |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:56:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151330645293 |
-| Players | 1/10 |
-| Host Name | Jembev |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:56:57 |
+| Lobby ID | 28553151330537720 |
+| Players | 4/15 |
+| Host Name | RaSp1zDяЙ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:56:46 |
 
 
