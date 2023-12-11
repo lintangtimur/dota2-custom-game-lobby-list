@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150938400598 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ALWAYSSOSYCHLEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:32:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150928179245 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Mangix |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:23:30 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:30:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150938489102 |
-| Players | 8/10 |
-| Host Name | CrystaL |
+| Lobby ID | 28553150938859846 |
+| Players | 2/15 |
+| Host Name | погоди погоди |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:32:50 |
+| Lobby Creation Time | Monday, December 11, 2023 21:33:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150938464179 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Lonely Man 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:32:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150938565454 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | sheni deda |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:32:54 |
@@ -112,28 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150938735756 |
-| Players | 6/10 |
-| Host Name | kakabob |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:33:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150938859846 |
-| Players | 2/15 |
-| Host Name | погоди погоди |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:33:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150938569029 |
-| Players | 1/10 |
-| Host Name | Paser |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:32:54 |
+| Lobby ID | 28553150939028933 |
+| Players | 2/10 |
+| Host Name | q as in cucumber |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 21:33:19 |
 
 
