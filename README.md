@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150494154081 |
-| Players | 1/8 |
-| Host Name | .DETH |
+| Players | 2/8 |
+| Host Name | Sai- |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:43:39 |
 
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150498293754 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | ooOOoOoooOOoOOOoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150497071575 |
-| Players | 19/24 |
-| Host Name | SedMan |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:51:07 |
+| Lobby ID | 28553150498937789 |
+| Players | 2/10 |
+| Host Name | DEATHinHQ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:55:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150498237432 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | wanakito123 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150498266530 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150498670703 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:55:03 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150498741636 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | SoWyer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:55:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150498746092 |
-| Players | 1/10 |
-| Host Name | DEATHinHQ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 10:55:14 |
+| Lobby ID | 28553150499006895 |
+| Players | 1/8 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:55:50 |
 
 
 |  | epic_boss_fight_nightmare |
