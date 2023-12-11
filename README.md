@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151377640765 |
-| Players | 9/10 |
-| Host Name | Niko Niko Niii |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:24:43 |
+| Lobby ID | 28553151378298725 |
+| Players | 6/10 |
+| Host Name | Legend~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:25:54 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151377971391 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | uwu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:25:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151377888440 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Твоя мать в потокe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:25:09 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БЕЗДАРНЫЙ даун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:25:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151373569370 |
-| Players | 23/24 |
-| Host Name | ShubNiggurath |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:17:23 |
 
 
 |  | epic_boss_fight_nightmare |
