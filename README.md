@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150496597722 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Nemy♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:49:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150496559049 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Javier Milei |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:49:50 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150494770105 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RezEv |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:45:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150496961660 |
-| Players | 7/10 |
-| Host Name | KuKin.Punkkeke |
+| Lobby ID | 28553150497071575 |
+| Players | 6/24 |
+| Host Name | SedMan |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:50:51 |
+| Lobby Creation Time | Monday, December 11, 2023 10:51:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150494154081 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | .DETH |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:43:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150496688850 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:50:10 |
@@ -67,29 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150496404205 |
-| Players | 13/15 |
-| Host Name | NightCrow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:49:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150497071575 |
-| Players | 2/24 |
-| Host Name | SedMan |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:51:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150497161199 |
-| Players | 6/10 |
-| Host Name | bancan shat |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:51:21 |
+| Lobby ID | 28553150497377897 |
+| Players | 1/15 |
+| Host Name | "(:D |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 11, 2023 10:51:52 |
 
 
 |  | epic_boss_fight_nightmare |
