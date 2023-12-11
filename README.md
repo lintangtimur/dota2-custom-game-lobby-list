@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150571749882 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:27:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150566729054 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Gin_Chan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:18:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150568762999 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | $ EL MAMADO KUN $ SKN:3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:21:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150570744403 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:25:20 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150572241530 |
+| Players | 1/8 |
+| Host Name | 3.14(...)door |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:27:57 |
 
 
 |  | epic_boss_fight_normal |
