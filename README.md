@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151296734692 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Viejo Dotero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:09:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151300473816 |
-| Players | 14/15 |
-| Host Name | YuzFool |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:14:22 |
+| Lobby ID | 28553151300955140 |
+| Players | 8/10 |
+| Host Name | psevdoman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:15:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:14:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151300955140 |
-| Players | 3/10 |
-| Host Name | psevdoman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:15:03 |
+| Lobby ID | 28553151301093334 |
+| Players | 5/15 |
+| Host Name | Не бустер |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:15:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:11:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553151296124013 |
-| Players | 9/10 |
-| Host Name | PRIZMAN📿 |
+| Lobby ID | 28553151301033577 |
+| Players | 1/5 |
+| Host Name | _FUCK__OFF_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:08:24 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:15:10 |
 
 
