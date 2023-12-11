@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150543972195 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:29:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150544842447 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | [ ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:31:31 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:28:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150543811853 |
-| Players | 20/24 |
-| Host Name | **Lucía** |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:29:32 |
+| Lobby ID | 28553150545375557 |
+| Players | 4/10 |
+| Host Name | ZдраVствуй СалоРе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:32:33 |
 
 
 |  | ot3_gardens_duo |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cua cua |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:31:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150545375557 |
-| Players | 4/10 |
-| Host Name | ZдраVствуй СалоРе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:32:33 |
 
 
 |  | epic_boss_fight_nightmare |
