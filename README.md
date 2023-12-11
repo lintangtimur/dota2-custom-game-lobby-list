@@ -32,19 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150649565227 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Murzik |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:39:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150649697531 |
+| Players | 3/10 |
+| Host Name | наполеон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:40:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150649637664 |
+| Lobby ID | 28553150649749006 |
 | Players | 1/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:39:56 |
+| Lobby Creation Time | Monday, December 11, 2023 15:40:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150634856634 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:17:30 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150649614140 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:39:54 |
