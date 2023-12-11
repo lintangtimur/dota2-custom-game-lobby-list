@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:02:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150792234658 |
-| Players | 21/24 |
-| Host Name | MADARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:06:41 |
+| Lobby ID | 28553150792986275 |
+| Players | 10/15 |
+| Host Name | ГенаЦидармян |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 19:07:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150793287572 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Lost Story |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:07:56 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150789432030 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:03:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150792986275 |
-| Players | 6/15 |
-| Host Name | ГенаЦидармян |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 19:07:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150789665265 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:03:34 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150793266547 |
-| Players | 3/7 |
-| Host Name | КМС по KFC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:07:55 |
 
 
