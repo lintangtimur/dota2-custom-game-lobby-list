@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150998163038 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 共感覚 ~ 夢 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:17 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150998272960 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | вошел в аналы |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150998484499 |
-| Players | 7/8 |
-| Host Name | Missing you happiness |
+| Lobby ID | 28553150998832852 |
+| Players | 9/10 |
+| Host Name | Yelix |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:30:36 |
+| Lobby Creation Time | Monday, December 11, 2023 22:30:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150998768628 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | CM Axl |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150996328961 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Suco de Fruta |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 22:28:32 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150998842124 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | P A z |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150998832852 |
-| Players | 5/10 |
-| Host Name | Yelix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:30:56 |
+| Lobby ID | 28553150999152519 |
+| Players | 1/8 |
+| Host Name | Тинкер Сергей |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 22:31:15 |
 
 
 |  | epic_boss_fight_nightmare |
