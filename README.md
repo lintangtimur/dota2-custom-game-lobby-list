@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150769840785 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 18:37:57 |
@@ -41,55 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150764824632 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 18:32:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150771815843 |
-| Players | 12/15 |
-| Host Name | Do you feel? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:40:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150767653233 |
-| Players | 1/24 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150772019089 |
-| Players | 5/10 |
-| Host Name | OwzyG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:40:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150770399646 |
-| Players | 5/8 |
-| Host Name | Убийца Нубов 2013 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:38:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150770890276 |
-| Players | 10/24 |
-| Host Name | Dog goes meow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 18:39:07 |
 
 
 |  | ot3_desert_octet |
@@ -99,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:39:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150767653233 |
+| Players | 1/24 |
+| Host Name | equilibrium |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150772393852 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 18:40:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150770890276 |
+| Players | 12/24 |
+| Host Name | Dog goes meow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 18:39:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 无雪无晴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:30:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150772519170 |
+| Players | 1/5 |
+| Host Name | D.Xu Em |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 18:41:09 |
 
 
