@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150579022826 |
-| Players | 9/10 |
-| Host Name | Stronger |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:39:36 |
+| Lobby ID | 28553150580924551 |
+| Players | 3/8 |
+| Host Name | Drago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:43:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,10 +29,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:38:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150580805314 |
+| Players | 6/8 |
+| Host Name | SOY PANSEXUAL |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:43:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150580700472 |
+| Players | 3/15 |
+| Host Name | atlas |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 13:43:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150580905076 |
+| Players | 1/24 |
+| Host Name | Panda |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:43:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150580540818 |
+| Players | 4/15 |
+| Host Name | I want to be better |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:43:01 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150578106222 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 𩠑 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:38:03 |
@@ -40,38 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150577945327 |
-| Players | 22/24 |
-| Host Name | Hiệp GOD |
+| Lobby ID | 28553150580963601 |
+| Players | 1/24 |
+| Host Name | Lindvia| ZaiSe |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:37:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150580252118 |
-| Players | 1/8 |
-| Host Name | Drago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:42:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150580540818 |
-| Players | 2/15 |
-| Host Name | I want to be better |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:43:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150580572182 |
-| Players | 1/15 |
-| Host Name | Bakka Sencho |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:43:06 |
+| Lobby Creation Time | Monday, December 11, 2023 13:43:56 |
 
 
 |  | epic_boss_fight_challenger |
