@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Stepdad with boundary issues |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:36:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150489507371 |
-| Players | 14/15 |
-| Host Name | 眠 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 10:34:08 |
+| Lobby ID | 28553150489822576 |
+| Players | 6/8 |
+| Host Name | SoreX |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:34:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150489871381 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Enough |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:34:48 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150490289636 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:35:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150489822576 |
-| Players | 3/8 |
-| Host Name | SoreX |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:34:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150491181766 |
-| Players | 1/24 |
-| Host Name | OpenAI (Inmortal) |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 11, 2023 10:37:12 |
+| Lobby ID | 28553150491230652 |
+| Players | 4/24 |
+| Host Name | ঔৣ~ʍįяΛɢع♥ঔৣ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:37:17 |
 
 
 |  | epic_boss_fight_nightmare |
