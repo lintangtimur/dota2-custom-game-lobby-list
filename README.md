@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151069441371 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:43:47 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151072028470 |
-| Players | 10/15 |
-| Host Name | МИКРОЧЛЕНИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:46:49 |
+| Lobby ID | 28553151072318322 |
+| Players | 1/10 |
+| Host Name | goshiu |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 23:47:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151069726583 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Madafvcka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:44:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151064644628 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | wildfirezg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:38:30 |
@@ -119,10 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:46:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151072381706 |
+| Players | 6/15 |
+| Host Name | OneSystem |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:47:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151072459811 |
+| Players | 3/8 |
+| Host Name | ?? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:47:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151070137835 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Батя Габен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:44:36 |
