@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150569529472 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Hummer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:23:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150568876937 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:22:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150566729054 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Gin_Chan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:18:13 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150568762999 |
-| Players | 2/15 |
-| Host Name | chakalito |
+| Players | 1/15 |
+| Host Name | $ EL MAMADO KUN $ SKN:3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:21:52 |
 
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150569817381 |
+| Lobby ID | 28553150570050865 |
 | Players | 1/10 |
-| Host Name | Сказимабзабзам |
+| Host Name | Де-бустер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:23:42 |
+| Lobby Creation Time | Monday, December 11, 2023 13:24:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150566405370 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:17:38 |
