@@ -2,60 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150443498032 |
-| Players | 22/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:03:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150442214896 |
-| Players | 5/24 |
-| Host Name | LaGood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 09:00:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150443476178 |
-| Players | 14/15 |
-| Host Name | Так прекрасен |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 09:03:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150443665737 |
-| Players | 5/8 |
-| Host Name | El berraco de berracos |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:03:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150443726010 |
-| Players | 4/15 |
-| Host Name | Davikucho |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:04:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150443832362 |
-| Players | 4/10 |
-| Host Name | there is no tomorrow |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:04:14 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150444321850 |
@@ -65,10 +11,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:05:16 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150442214896 |
+| Players | 14/24 |
+| Host Name | LaGood |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 09:00:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150443832362 |
+| Players | 8/10 |
+| Host Name | there is no tomorrow |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 09:04:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150444456793 |
+| Players | 9/24 |
+| Host Name | Yapst |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:05:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150443726010 |
+| Players | 12/15 |
+| Host Name | Davikucho |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:04:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150444591890 |
+| Players | 7/15 |
+| Host Name | KeKu |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:05:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150444577596 |
+| Players | 4/8 |
+| Host Name | TuK1 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:05:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150444687570 |
+| Players | 3/8 |
+| Host Name | BigBoyAbuDhabi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 09:06:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150442536217 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | The lightning SiBeRiA* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:01:31 |
