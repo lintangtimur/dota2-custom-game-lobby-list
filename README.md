@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150909979194 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:07:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150915397370 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Nastyman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:12:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150914850020 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 晚上好，夜之城！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:11:33 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:12:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150916226118 |
-| Players | 8/10 |
-| Host Name | Пармизан |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:12:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150916232389 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | dafye |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:12:47 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553150906031287 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | EddieR92 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:03:35 |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:10:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150916576670 |
-| Players | 3/5 |
-| Host Name | 1Diablo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:13:06 |
 
 
