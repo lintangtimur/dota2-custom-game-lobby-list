@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150777477031 |
-| Players | 5/8 |
-| Host Name | cneuwsy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:47:54 |
+| Lobby ID | 28553150777619701 |
+| Players | 1/15 |
+| Host Name | J&T Elong Maa |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 11, 2023 18:48:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150775091351 |
-| Players | 22/24 |
-| Host Name | CYKA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 18:44:42 |
+| Lobby ID | 28553150777772892 |
+| Players | 7/10 |
+| Host Name | М.И.З.А.Н.Т.Р.О.П |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:48:17 |
 
 
 |  | ot3_gardens_duo |
@@ -49,47 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150777275710 |
-| Players | 9/10 |
-| Host Name | rikkaist |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:47:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150777385409 |
-| Players | 12/15 |
-| Host Name | БатьМать |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:47:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150777619701 |
-| Players | 1/15 |
-| Host Name | J&T Elong Maa |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 18:48:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150777772892 |
+| Lobby ID | 28553150777860899 |
 | Players | 2/10 |
-| Host Name | М.И.З.А.Н.Т.Р.О.П |
+| Host Name | Ваз |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:48:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150777818267 |
-| Players | 1/8 |
-| Host Name | СОЗДАТЕЛЬ СПЕРМЫ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:48:21 |
+| Lobby Creation Time | Monday, December 11, 2023 18:48:24 |
 
 
 |  | epic_boss_fight_nightmare |
