@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151384292498 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:36:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151386609956 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Dog Si Ezuas |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151388455745 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | TE GUSTA LA PINGA ... |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:46:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151389121063 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Don Gato |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:47:52 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | X |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:47:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151389152429 |
-| Players | 3/10 |
-| Host Name | NOHCHO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:47:57 |
 
 
 |  | epic_boss_fight_nightmare |
