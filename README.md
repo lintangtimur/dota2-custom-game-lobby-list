@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150444321850 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:05:16 |
@@ -14,26 +14,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150442214896 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | LaGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:00:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150444856517 |
-| Players | 14/15 |
-| Host Name | Walter-sama |
+| Lobby ID | 28553150445430838 |
+| Players | 7/24 |
+| Host Name | NotThatBad |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:06:24 |
+| Lobby Creation Time | Monday, December 11, 2023 09:07:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150445422065 |
-| Players | 3/15 |
-| Host Name | Чюньчяньчюньчинь |
+| Players | 5/15 |
+| Host Name | Alirezaleon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:07:35 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150445512585 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | game is hard |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:07:46 |
@@ -58,28 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150445356358 |
-| Players | 6/8 |
-| Host Name | Pasa la coca CTMR!!! |
+| Lobby ID | 28553150445974424 |
+| Players | 1/8 |
+| Host Name | CosmOs |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:07:27 |
+| Lobby Creation Time | Monday, December 11, 2023 09:08:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150445995209 |
+| Players | 1/8 |
+| Host Name | ПЮ ЧАЙ [сильно] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 09:08:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150445430838 |
-| Players | 3/24 |
-| Host Name | NotThatBad |
+| Lobby ID | 28553150443498032 |
+| Players | 24/24 |
+| Host Name | Yonwalther |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:07:36 |
+| Lobby Creation Time | Monday, December 11, 2023 09:03:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150442536217 |
-| Players | 8/10 |
-| Host Name | The lightning SiBeRiA* |
+| Lobby ID | 28553150446066325 |
+| Players | 1/10 |
+| Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:08:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150446106574 |
+| Players | 1/5 |
+| Host Name | KoH4eHbIu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:01:31 |
+| Lobby Creation Time | Monday, December 11, 2023 09:08:59 |
 
 
