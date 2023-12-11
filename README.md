@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150578935402 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ты слабый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:39:27 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AGENT GABENA |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 13:39:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150579376035 |
+| Players | 5/8 |
+| Host Name | Krico |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:40:17 |
 
 
 |  | epic_boss_fight_challenger |
