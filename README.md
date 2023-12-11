@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150643694212 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | СОСРЕДОТОЧИЕ ИСЧАДИЯ АДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:30:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150643889809 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | ZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:31:17 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150644145305 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | BullT|mozzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:31:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150644682565 |
+| Players | 7/10 |
+| Host Name | kto myaukaet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:32:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150634856634 |
-| Players | 2/10 |
-| Host Name | GreShnik |
+| Players | 3/10 |
+| Host Name | PeppaChan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:17:30 |
 
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553150640755772 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | санчизес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:26:32 |
@@ -94,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150643400192 |
-| Players | 7/10 |
-| Host Name | Ghosty |
+| Lobby ID | 28553150644962398 |
+| Players | 1/10 |
+| Host Name | Zack |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:30:33 |
+| Lobby Creation Time | Monday, December 11, 2023 15:32:53 |
 
 
