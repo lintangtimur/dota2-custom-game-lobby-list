@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:01:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150589510102 |
-| Players | 9/10 |
-| Host Name | goth tv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:00:39 |
+| Lobby ID | 28553150590197854 |
+| Players | 2/24 |
+| Host Name | FAQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:01:56 |
 
 
 |  | ot3_desert_octet |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:59:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150590199489 |
-| Players | 2/8 |
-| Host Name | BUM BUM |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:01:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150590197854 |
-| Players | 2/24 |
-| Host Name | FAQ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:01:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150590208782 |
-| Players | 1/15 |
-| Host Name | bulO4KA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:01:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150583723274 |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150589416246 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | SHUKSHINPROD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:00:29 |
