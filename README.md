@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150530587668 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | M a u u |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:02:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150529937143 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | EG. VACKAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150530870182 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | JUSTIN WEAVER |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:03:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150531185594 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:03:47 |
@@ -59,36 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150531331737 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Stealth |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:04:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150531676329 |
+| Players | 1/24 |
+| Host Name | Dudley Eigenvalue, Ph.D. |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:04:49 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150531415825 |
+| Lobby ID | 28553150531726470 |
 | Players | 1/8 |
-| Host Name | пися попа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:04:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150526923834 |
-| Players | 6/10 |
-| Host Name | Akaza |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 11:54:25 |
+| Host Name | msbwy |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 12:04:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150530691797 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | 1HP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:02:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150531721328 |
+| Players | 1/10 |
+| Host Name | Shiro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 12:04:55 |
 
 
