@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151359139060 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:00 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151360773737 |
-| Players | 1/15 |
-| Host Name | oi |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:52:35 |
+| Lobby ID | 28553151361081456 |
+| Players | 9/15 |
+| Host Name | Bush did it |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151360243100 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | el gato mewando |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:51:31 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151360446373 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:51:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151361141695 |
+| Players | 2/10 |
+| Host Name | Recycle your children |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151361128522 |
+| Players | 2/10 |
+| Host Name | Сын Шлюхи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151361152906 |
+| Players | 1/10 |
+| Host Name | NaIB |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:53:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151361055285 |
-| Players | 1/5 |
-| Host Name | ESTRIPER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:53:08 |
 
 
