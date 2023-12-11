@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150632844134 |
-| Players | 22/24 |
-| Host Name | Chi Bao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:14:25 |
+| Lobby ID | 28553150635304414 |
+| Players | 1/10 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 15:18:11 |
 
 
 |  | ot3_desert_octet |
@@ -27,6 +27,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Влад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:17:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150635084983 |
+| Players | 1/15 |
+| Host Name | Kisa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 15:17:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150635138237 |
+| Players | 1/8 |
+| Host Name | 187 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:17:55 |
 
 
 |  | epic_boss_fight_nightmare |
