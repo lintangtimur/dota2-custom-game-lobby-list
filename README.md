@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151141723338 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | VALERA DOMKRAT |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:01:56 |
@@ -95,37 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151146016070 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Dimgo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:06:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151144704496 |
-| Players | 9/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:05:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151145800962 |
-| Players | 11/15 |
-| Host Name | Osama Riz Laden |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:06:24 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151145815900 |
-| Players | 1/8 |
-| Host Name | минус вайб |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:06:25 |
+| Lobby ID | 28553151146456490 |
+| Players | 4/8 |
+| Host Name | МУСОР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:07:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151145915643 |
+| Players | 8/10 |
+| Host Name | Наташа - Два баша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:06:32 |
 
 
 |  | ot3_gardens_duo |
