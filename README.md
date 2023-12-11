@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150549661949 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | cpdd要暴力的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:40:58 |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:51:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150553161639 |
-| Players | 10/15 |
-| Host Name | Waste |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:49:53 |
+| Lobby ID | 28553150554212727 |
+| Players | 2/8 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:52:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150550809681 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | huge robot penguin |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:43:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150554212727 |
-| Players | 1/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:52:19 |
 
 
 |  | epic_boss_fight_nightmare |
