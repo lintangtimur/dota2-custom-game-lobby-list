@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150902285237 |
+| Lobby ID | 28553150902957320 |
 | Players | 4/8 |
-| Host Name | молчание бурят |
+| Host Name | Xui |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:00:09 |
+| Lobby Creation Time | Monday, December 11, 2023 21:00:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150902302596 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | eGoisTo 1000-7 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:00:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150865138805 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:59:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150902341020 |
-| Players | 6/10 |
-| Host Name | COCOA RAMPAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:00:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150900688716 |
-| Players | 9/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 20:58:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HQM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:56:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150899584474 |
+| Players | 9/10 |
+| Host Name | SWellClose |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:57:37 |
 
 
