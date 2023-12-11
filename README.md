@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150777619701 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | J&T Elong Maa |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 18:48:05 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150777772892 |
-| Players | 8/10 |
-| Host Name | М.И.З.А.Н.Т.Р.О.П |
+| Lobby ID | 28553150778504894 |
+| Players | 1/15 |
+| Host Name | hopele$$ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:48:17 |
+| Lobby Creation Time | Monday, December 11, 2023 18:49:17 |
 
 
 |  | ot3_gardens_duo |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:48:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150778273208 |
-| Players | 1/24 |
-| Host Name | Say my name |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:48:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150778308913 |
-| Players | 1/8 |
-| Host Name | Черный Мамонт |
+| Players | 4/8 |
+| Host Name | cursed smile |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150778415602 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 18:49:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150776767486 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DontBeInsulted |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:46:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150778490599 |
+| Players | 1/5 |
+| Host Name | D.Xu Em |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 18:49:15 |
 
 
