@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150563916321 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | cholos tarados |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:12:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150558412424 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:01:36 |
