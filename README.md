@@ -2,37 +2,37 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151287526794 |
-| Players | 3/15 |
-| Host Name | dmr.[ ] |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:55:52 |
+| Lobby ID | 28553151287568088 |
+| Players | 1/10 |
+| Host Name | Tripa Seca BOLADÃO |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:55:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151282332333 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | SinesS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:48:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151285816612 |
-| Players | 9/10 |
-| Host Name | селявка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:53:19 |
+| Lobby ID | 28553151287857651 |
+| Players | 1/24 |
+| Host Name | Dj cucaracha |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:56:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151283586694 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:49:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151287386345 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | MORGAN´S :P |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:55:40 |
@@ -77,52 +77,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151287729520 |
-| Players | 4/10 |
-| Host Name | I'll come up to you, Gojo |
+| Players | 8/10 |
+| Host Name | дипломований спе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:56:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151287179974 |
-| Players | 9/10 |
-| Host Name | sphynxy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:55:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151287291189 |
-| Players | 5/15 |
-| Host Name | погоди погоди |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:55:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151287568088 |
-| Players | 1/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:55:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151287763758 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | sakanade |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:56:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151288273912 |
+| Players | 3/15 |
+| Host Name | 200 IQ Player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:56:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151288263274 |
+| Players | 3/10 |
+| Host Name | Кузя. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:56:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151287394686 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | blinkey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:55:41 |
