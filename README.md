@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150693631587 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Midas farming club |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:51:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150691836465 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:48:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150692867435 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:50:05 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kato4ka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:47:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150691011422 |
-| Players | 2/5 |
-| Host Name | 貓馬Light |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:46:48 |
 
 
