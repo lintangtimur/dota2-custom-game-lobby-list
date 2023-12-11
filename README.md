@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151194249488 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | SACANDO BAJOS DE LOW |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:01:19 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151195373732 |
-| Players | 3/10 |
-| Host Name | Владик |
+| Players | 1/10 |
+| Host Name | Емпик |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:02:39 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151194687509 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Niko Niko Niii |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:01:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151196629730 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Babulesh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:04:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151196720683 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | coach 1/3 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:04:14 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gaston |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:04:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151196651467 |
+| Players | 2/8 |
+| Host Name | 橘 瑠衣 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
