@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151336308018 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ♥♥PSICOLOGO♥♥♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:06:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151336403111 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | too old for this nonsense |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:07:03 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151336136337 |
-| Players | 6/8 |
-| Host Name | PENE  NEGRO |
+| Lobby ID | 28553151337452046 |
+| Players | 3/8 |
+| Host Name | BOT 1 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:06:34 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:08:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151336569588 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:07:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151336979771 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | N.A. |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:08:05 |
@@ -85,28 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151337134047 |
-| Players | 6/15 |
-| Host Name | Tuco |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:08:22 |
+| Lobby ID | 28553151337404637 |
+| Players | 4/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:08:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151331479842 |
+| Lobby ID | 28553151337503220 |
 | Players | 1/10 |
-| Host Name | Maceo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:58:27 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553151335582166 |
-| Players | 2/7 |
-| Host Name | Cyted |
+| Host Name | patrick jumpen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:05:35 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:09:01 |
 
 
