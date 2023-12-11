@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151337503220 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | patrick jumpen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:09:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151336403111 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | too old for this nonsense |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:07:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151337404637 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:08:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151337556648 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Awesder |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:09:06 |
