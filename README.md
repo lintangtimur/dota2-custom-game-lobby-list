@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150822674616 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Whoim |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:40:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150823080199 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Toji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:40:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150820435778 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Flare★ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 19:37:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150823312192 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Мой КрАш Вин Дизе |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:40:58 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:37:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150823309159 |
+| Players | 6/8 |
+| Host Name | LinBaihan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:40:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -81,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150823704950 |
+| Players | 1/5 |
+| Host Name | NITRO |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 19:41:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150823725752 |
+| Players | 1/10 |
+| Host Name | 極樂蝶 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 19:41:27 |
 
 
