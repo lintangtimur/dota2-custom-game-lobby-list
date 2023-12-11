@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150601963792 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 14:22:34 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:14:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150603403864 |
+| Players | 1/10 |
+| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:25:00 |
 
 
