@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150691319930 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Содержанец Гулаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:47:21 |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150690110174 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:45:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150691819753 |
+| Players | 2/15 |
+| Host Name | Maotisco |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:48:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150691836465 |
+| Players | 2/24 |
+| Host Name | noob |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:48:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 貓馬Light |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:46:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150691799168 |
+| Players | 1/10 |
+| Host Name | HarBonDioxide |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:48:12 |
 
 
