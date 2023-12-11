@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150663642198 |
-| Players | 9/15 |
-| Host Name | OBABOK |
+| Lobby ID | 28553150664263970 |
+| Players | 4/15 |
+| Host Name | yøbi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:03:43 |
+| Lobby Creation Time | Monday, December 11, 2023 16:04:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150660493987 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Darkberry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:58:39 |
@@ -23,37 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150663603862 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | notenough |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:03:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150663025687 |
-| Players | 3/10 |
-| Host Name | 悲伤电炒饭 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 16:02:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150663512663 |
-| Players | 1/24 |
-| Host Name | STOP FEED PLZ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:03:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150664008113 |
-| Players | 3/8 |
-| Host Name | Midas farming club |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:04:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28553150663527871 |
-| Players | 1/10 |
-| Host Name | МакКлеопатра |
+| Lobby ID | 28553150664159125 |
+| Players | 1/7 |
+| Host Name | EcoHunter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:03:32 |
+| Lobby Creation Time | Monday, December 11, 2023 16:04:33 |
 
 
 |  | epic_boss_fight_nightmare |
