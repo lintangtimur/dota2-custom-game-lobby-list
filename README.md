@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150586279825 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:54:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150586919675 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:55:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150586192096 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | standin.idk™ |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 13:54:21 |
@@ -65,6 +65,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:57:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150587818434 |
+| Players | 5/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:57:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150587953298 |
+| Players | 2/8 |
+| Host Name | Parovoz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:57:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150587976651 |
+| Players | 1/15 |
+| Host Name | Crowned_Clown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:57:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150583723274 |
@@ -72,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:49:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150585457055 |
-| Players | 8/10 |
-| Host Name | Lestat |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 13:52:55 |
 
 
