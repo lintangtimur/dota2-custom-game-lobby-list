@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150569529472 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Hummer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:23:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150566729054 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Gin_Chan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:18:13 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150568664837 |
-| Players | 3/24 |
-| Host Name | ke |
+| Players | 2/24 |
+| Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:21:42 |
 
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150570189955 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Де-бустер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:24:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150570535980 |
+| Players | 2/24 |
+| Host Name | The Darkest Bright |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:24:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150566405370 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:17:38 |
