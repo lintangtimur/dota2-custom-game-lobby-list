@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150519889243 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Pavlo N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:37:47 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150515945119 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | & |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:30:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150521044188 |
-| Players | 1/8 |
-| Host Name | BadBunny |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 11:39:57 |
+| Lobby ID | 28553150520605505 |
+| Players | 6/15 |
+| Host Name | ►G4M3R0V3R♫ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 11:39:08 |
 
 
 |  | ot3_gardens_duo |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 11:36:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150520752766 |
-| Players | 9/10 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:39:24 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150520677338 |
@@ -63,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MarcleanCxz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:39:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150520605505 |
-| Players | 6/15 |
-| Host Name | ►G4M3R0V3R♫ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 11:39:08 |
 
 
 |  | epic_boss_fight_hard |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150517665597 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:33:35 |
