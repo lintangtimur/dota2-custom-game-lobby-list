@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:10:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151307738006 |
-| Players | 9/10 |
-| Host Name | Rito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:21:49 |
+| Lobby ID | 28553151307906462 |
+| Players | 1/8 |
+| Host Name | Thumper Rabbit |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:22:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151307738660 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Apolokion |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:21:49 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:19:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151307906462 |
-| Players | 1/8 |
-| Host Name | Thumper Rabbit |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:22:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151307917581 |
-| Players | 1/15 |
-| Host Name | BORN IN THE DARK |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:22:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151301440854 |
-| Players | 23/24 |
-| Host Name | (/)"%cactTUS=)( |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:15:44 |
+| Lobby ID | 28553151308099653 |
+| Players | 1/10 |
+| Host Name | Titus Livius |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:22:18 |
 
 
 |  | epic_boss_fight_nightmare |
