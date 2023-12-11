@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151066297405 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:40:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151067403575 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:41:25 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:39:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151067025683 |
-| Players | 5/8 |
-| Host Name | Entity. |
+| Lobby ID | 28553151067837605 |
+| Players | 6/15 |
+| Host Name | Танцор Рик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:40:59 |
+| Lobby Creation Time | Monday, December 11, 2023 23:41:55 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wildfirezg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:38:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151067837605 |
-| Players | 1/15 |
-| Host Name | Танцор Рик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:41:55 |
 
 
 |  | epic_boss_fight_nightmare |
