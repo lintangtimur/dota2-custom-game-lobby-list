@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151387114861 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:42:39 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151387044941 |
-| Players | 14/15 |
-| Host Name | Duro de cobrar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:42:29 |
+| Lobby ID | 28553151387587395 |
+| Players | 3/10 |
+| Host Name | 76561198314092102 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:43:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,30 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:43:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151386770303 |
-| Players | 23/24 |
-| Host Name | PedroPicaMierda |
+| Lobby ID | 28553151387670402 |
+| Players | 1/15 |
+| Host Name | rias gremory |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:41:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151387587395 |
-| Players | 2/10 |
-| Host Name | 76561198314092102 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:43:52 |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:44:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151387027432 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ArcHon OnLy MiD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:42:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151387661346 |
+| Players | 1/5 |
+| Host Name | ScReAMBiTcH |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:44:04 |
 
 
