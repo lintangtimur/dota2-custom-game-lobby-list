@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151224268225 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:36:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151225680556 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | BABYBARA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:37:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151225171336 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | lil dozhd |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:37:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151226478070 |
-| Players | 14/24 |
-| Host Name | Hachiman |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:38:32 |
+| Lobby ID | 28553151227627211 |
+| Players | 1/24 |
+| Host Name | Febem o Abusado |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:39:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151225926076 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Pepsi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:37:54 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151226354980 |
-| Players | 6/8 |
-| Host Name | SHiFUUUU |
+| Lobby ID | 28553151227192986 |
+| Players | 5/8 |
+| Host Name | Ravka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:38:23 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:39:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151226984499 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:39:07 |
@@ -103,26 +103,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151227192986 |
-| Players | 5/8 |
-| Host Name | Ravka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:39:21 |
+| Lobby ID | 28553151227475463 |
+| Players | 2/8 |
+| Host Name | Killmachine03 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:39:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151227235995 |
-| Players | 3/15 |
-| Host Name | Riohey |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:39:24 |
+| Lobby ID | 28553151227513530 |
+| Players | 9/15 |
+| Host Name | bitcorn |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:39:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151227664566 |
+| Players | 3/8 |
+| Host Name | общество заботы |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:39:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151225608836 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | $ilent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:37:32 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151223480463 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:35:05 |
