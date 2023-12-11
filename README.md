@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151299244008 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Димон Рыбин 23 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:12:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151300026807 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | x52.seipZqqe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:13:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151299709731 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | YkzOwnr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:13:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151297968928 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dos puntos uve |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:11:01 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:12:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151300152500 |
-| Players | 1/24 |
-| Host Name | Sir Alejandro |
+| Lobby ID | 28553151300320246 |
+| Players | 5/8 |
+| Host Name | E.N.D |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:13:56 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:14:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151299840409 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:13:32 |
