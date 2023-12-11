@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:52:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151135012407 |
-| Players | 4/10 |
-| Host Name | BluiaKA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:54:23 |
+| Lobby ID | 28553151135485019 |
+| Players | 4/15 |
+| Host Name | `9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:54:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151135031581 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Guardian |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:54:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151134688661 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | GTA VI COMMING 2025 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:54:01 |
