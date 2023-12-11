@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150459575853 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:34:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150463443154 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Losti... |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:41:21 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150463383420 |
-| Players | 13/15 |
-| Host Name | Timado Junior Tu Terror Maznaaa |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:41:12 |
+| Lobby ID | 28553150463642458 |
+| Players | 4/8 |
+| Host Name | Boshito |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 09:41:51 |
 
 
 |  | ot3_gardens_duo |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:40:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150463319948 |
-| Players | 2/8 |
-| Host Name | w34-ratata |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:41:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150463642458 |
-| Players | 3/8 |
-| Host Name | Boshito |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:41:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150463708017 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | T R A S H B O A T |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:42:01 |
