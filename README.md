@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150459575853 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:34:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150459981379 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Так прекрасен |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:34:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150461210224 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | ALONE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:56 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:36:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150461901148 |
+| Players | 1/15 |
+| Host Name | Feitan-Kid.Prodigy |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 09:38:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150461938449 |
+| Players | 1/8 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:38:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150460029404 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150456590846 |
-| Players | 10/10 |
+| Players | 9/10 |
 | Host Name | Utak Mo May Ubo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:28:37 |
