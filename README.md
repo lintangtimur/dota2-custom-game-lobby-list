@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150443498032 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:03:32 |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:03:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150443427496 |
-| Players | 8/15 |
-| Host Name | Tu Tio. |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:03:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150443665737 |
@@ -45,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El berraco de berracos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:03:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150443726010 |
+| Players | 1/15 |
+| Host Name | Davikucho |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:04:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150443769225 |
+| Players | 2/10 |
+| Host Name | Ucouldnt liv with ur own failure |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 09:04:06 |
 
 
 |  | epic_boss_fight_nightmare |
