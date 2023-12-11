@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151301267903 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | FS.► ☺Yawar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151301440854 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | (/)"%cactTUS=)( |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:44 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151301880174 |
-| Players | 2/8 |
-| Host Name | Frontier |
+| Players | 3/8 |
+| Host Name | dior |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:16:22 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151301463290 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | Agurto- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:46 |
@@ -94,47 +94,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151302298387 |
-| Players | 5/10 |
-| Host Name | Петр Кузовкин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:16:58 |
+| Lobby ID | 28553151302588040 |
+| Players | 7/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:17:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151302243978 |
+| Lobby ID | 28553151302822635 |
 | Players | 8/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:16:54 |
+| Host Name | vLd- |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:17:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151302822379 |
+| Players | 1/15 |
+| Host Name | Gabi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:17:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151302542531 |
+| Lobby ID | 28553151302945297 |
 | Players | 1/8 |
-| Host Name | Sanjiro |
+| Host Name | you look lonely |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:17:20 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:17:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151304815926 |
+| Players | 3/8 |
+| Host Name | убил цыганёнка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:17:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151304862270 |
+| Players | 1/15 |
+| Host Name | YMR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:18:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151299840409 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:13:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151298511639 |
-| Players | 1/10 |
-| Host Name | =￣ω￣= |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:11:46 |
 
 
 |  | epic_boss_fight_normal |
