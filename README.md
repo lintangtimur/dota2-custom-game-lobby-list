@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150870786479 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mydachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:30:01 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150868458878 |
-| Players | 7/10 |
-| Host Name | Seventh1711 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:27:48 |
+| Lobby ID | 28553150869849086 |
+| Players | 2/10 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 20:29:08 |
 
 
 |  | ot3_desert_octet |
@@ -77,37 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150870378883 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | grateful to live |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:29:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150869849086 |
-| Players | 2/10 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 20:29:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150859513138 |
-| Players | 4/8 |
-| Host Name | Сладкоежка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:19:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150870738897 |
+| Lobby ID | 28553150870879696 |
 | Players | 1/8 |
-| Host Name | Unlucky me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:29:58 |
+| Host Name | lil boost |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:30:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -132,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150867338681 |
 | Players | 3/10 |
-| Host Name | ЛЕНИН |
+| Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:26:43 |
 
