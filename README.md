@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151371684605 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | zapitae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:13:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151371760864 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Nemo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:13:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151372066397 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | J-JOHN? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:14:33 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151372234629 |
-| Players | 1/8 |
-| Host Name | EXTERMINADOR DE CHOLOS |
+| Lobby ID | 28553151372291101 |
+| Players | 2/8 |
+| Host Name | un dota mas y me voy |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:14:52 |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:14:59 |
 
 
 |  | epic_boss_fight_nightmare |
