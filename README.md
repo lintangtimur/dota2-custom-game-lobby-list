@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150852840453 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:12:29 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150856339202 |
-| Players | 1/24 |
-| Host Name | ThisLifeRiding® |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:15:56 |
+| Lobby ID | 28553150860455284 |
+| Players | 1/10 |
+| Host Name | Pupsik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:19:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150860300983 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | БИБАСЯН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:19:50 |
@@ -76,35 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150860436897 |
-| Players | 1/24 |
-| Host Name | 窪 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:19:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150855376473 |
-| Players | 7/8 |
-| Host Name | ^1 BK| Frnbb |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 20:14:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150860455284 |
-| Players | 1/10 |
-| Host Name | Pupsik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:19:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28553150860399178 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Delay no more |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:19:55 |
