@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150695078896 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | sosax |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:53:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150695022598 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | МОЙБАЛДЁЖ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:53:46 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150695109731 |
-| Players | 3/15 |
-| Host Name | dormouse |
+| Players | 5/15 |
+| Host Name | АЛЁША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:53:55 |
 
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:53:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150695213273 |
+| Players | 1/8 |
+| Host Name | TorontoTokyohot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:54:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -67,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150691395272 |
-| Players | 1/10 |
-| Host Name | Чумной_Док |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:47:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28553150694251436 |
 | Players | 5/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:52:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150695181430 |
+| Players | 1/5 |
+| Host Name | черная бригада uk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:54:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150695195787 |
+| Players | 1/10 |
+| Host Name | PRIZMAN📿 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:54:04 |
 
 
