@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150820728814 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Koldo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:38:13 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:37:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150820511295 |
-| Players | 8/15 |
-| Host Name | погоди погоди |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 19:38:00 |
+| Lobby ID | 28553150821724547 |
+| Players | 2/8 |
+| Host Name | Takiyoshi国王 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:39:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150821589734 |
+| Players | 2/8 |
+| Host Name | Шеневмерлок хохолмс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:39:06 |
 
 
 |  | epic_boss_fight_nightmare |
