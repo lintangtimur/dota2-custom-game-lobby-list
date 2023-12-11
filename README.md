@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150553082829 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | chakalito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:49:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150554987318 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Gin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:54:04 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150554786476 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | AresRediska (Twitch) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:53:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150555469689 |
+| Players | 1/15 |
+| Host Name | kielbasa |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:55:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lordaemon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:54:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150552155750 |
-| Players | 9/10 |
-| Host Name | シタ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 12:47:21 |
 
 
