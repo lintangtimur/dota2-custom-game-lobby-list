@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150588403549 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Crowned_Clown |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:58:34 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:59:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150589115036 |
-| Players | 6/8 |
-| Host Name | Богдан Доминатор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:59:55 |
 
 
 |  | epic_boss_fight_nightmare |
