@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151386609956 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:45:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151388523383 |
+| Players | 1/15 |
+| Host Name | Human Prib |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:46:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151388529184 |
+| Players | 1/8 |
+| Host Name | SAD BOY |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:46:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151387799466 |
@@ -99,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | blinkey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:44:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151387027432 |
-| Players | 9/10 |
-| Host Name | ⋨Key*Sha⋩ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:42:26 |
 
 
