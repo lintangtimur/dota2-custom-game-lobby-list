@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150487102364 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:29:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150484724449 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:25:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150485632422 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | escape from reality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:27:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150487669816 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PLAYER PMA 🦁 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:30:50 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150487697402 |
-| Players | 1/15 |
-| Host Name | ♥_『【Iªm Nekø】』_♥ |
+| Lobby ID | 28553150487727223 |
+| Players | 6/15 |
+| Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:30:53 |
+| Lobby Creation Time | Monday, December 11, 2023 10:30:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150487765947 |
+| Players | 1/8 |
+| Host Name | TAP |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:31:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Utak Mo May Ubo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:26:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150487695749 |
-| Players | 5/10 |
-| Host Name | 汗流浃背 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 10:30:53 |
 
 
