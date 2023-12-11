@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151374567008 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | лохматый хуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:19:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151372966755 |
-| Players | 14/15 |
-| Host Name | Republica independiente de Arequ |
+| Lobby ID | 28553151374952050 |
+| Players | 1/10 |
+| Host Name | ^^Heaven |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:16:16 |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:19:54 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:17:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151374995961 |
+| Players | 1/24 |
+| Host Name | Tetsu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:19:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151375012786 |
+| Players | 4/8 |
+| Host Name | Hakka no togame |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:20:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151375032040 |
+| Players | 1/24 |
+| Host Name | A - O - M - W |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:20:03 |
 
 
 |  | epic_boss_fight_nightmare |
