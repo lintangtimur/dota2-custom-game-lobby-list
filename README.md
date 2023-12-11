@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151319183754 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | gg wp |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:37:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151319718002 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 9Class |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:38:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151314866305 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:31:41 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151319870056 |
-| Players | 9/10 |
-| Host Name | blonndin4ik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:38:35 |
+| Lobby ID | 28553151320072506 |
+| Players | 5/10 |
+| Host Name | VAN ЖЕГЛОВ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:38:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151320022284 |
 | Players | 2/15 |
-| Host Name | STIGMA |
+| Host Name | Gary |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:38:48 |
 
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151320072506 |
-| Players | 4/10 |
-| Host Name | VAN ЖЕГЛОВ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:38:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151320071702 |
-| Players | 2/10 |
-| Host Name | Nichitou |
+| Lobby ID | 28553151319870056 |
+| Players | 9/10 |
+| Host Name | blonndin4ik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:38:53 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:38:35 |
 
 
 |  | epic_boss_fight_nightmare |
