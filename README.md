@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151178679833 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:41:47 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151184061088 |
-| Players | 7/10 |
-| Host Name | Connmal |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:48:40 |
+| Lobby ID | 28553151184550536 |
+| Players | 2/10 |
+| Host Name | IvanGames7 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:49:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151181122046 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 愛しています、ニコル |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151181913450 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:45:57 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:47:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151183193640 |
-| Players | 9/10 |
-| Host Name | ColdestGupp𝓲 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:47:34 |
+| Lobby ID | 28553151184395163 |
+| Players | 6/15 |
+| Host Name | 恶魔女孩爱杀人 * |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:49:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,65 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151184412334 |
-| Players | 4/8 |
-| Host Name | ℬ𝒶𝒹 ℬ𝑜𝓎 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151184337930 |
-| Players | 3/15 |
-| Host Name | mQ^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151184179922 |
-| Players | 6/8 |
-| Host Name | danzig |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:48:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28553151184205095 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | влюбленный къаз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:48:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151184395163 |
-| Players | 2/15 |
-| Host Name | 恶魔女孩爱杀人 * |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151184430063 |
-| Players | 2/10 |
-| Host Name | af af |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151184455676 |
-| Players | 3/8 |
-| Host Name | Lari mentality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:09 |
 
 
 |  | epic_boss_fight_challenger |
@@ -189,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЧИСТО БОНУСОМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:47:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151184523537 |
+| Players | 1/10 |
+| Host Name | 喜欢短发的女生 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:49:14 |
 
 
