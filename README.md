@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150985747660 |
-| Players | 11/15 |
-| Host Name | G r e e n |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 22:18:18 |
+| Lobby ID | 28553150987108195 |
+| Players | 1/15 |
+| Host Name | SANDSNAKE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 22:19:37 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:17:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150986243427 |
-| Players | 9/10 |
-| Host Name | huzlik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:18:47 |
+| Lobby ID | 28553150986514453 |
+| Players | 11/24 |
+| Host Name | GEI WO LAP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 22:19:02 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150985718870 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Bajador de Pepa Profesional |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:18:16 |
@@ -56,37 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:09:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150986318367 |
-| Players | 5/8 |
-| Host Name | Demonic Fox |
+| Lobby ID | 28553150987114978 |
+| Players | 9/15 |
+| Host Name | Phantom Strike |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:18:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150986514453 |
-| Players | 8/24 |
-| Host Name | GEI WO LAP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:19:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150986726928 |
-| Players | 2/10 |
-| Host Name | H-DOG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:19:15 |
+| Lobby Creation Time | Monday, December 11, 2023 22:19:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150985643221 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Старый ЭР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:18:12 |
