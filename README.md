@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150777619701 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | J&T Elong Maa |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 18:48:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150778504894 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | hopele$$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150777860899 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Ваз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:48:24 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150778415602 |
+| Lobby ID | 28553150778530659 |
 | Players | 1/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:49:09 |
+| Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150778490599 |
+| Lobby ID | 28553150778603633 |
 | Players | 1/5 |
-| Host Name | D.Xu Em |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:49:15 |
+| Host Name | 水泥封心  :( |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 18:49:24 |
 
 
