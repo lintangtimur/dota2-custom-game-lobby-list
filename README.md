@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150485678302 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | RmL* Nᴅᴡ ☚ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:27:10 |
@@ -76,19 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150484634023 |
-| Players | 14/15 |
-| Host Name | Reverend Goblin |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 10:25:13 |
+| Lobby ID | 28553150486157551 |
+| Players | 3/15 |
+| Host Name | MÁ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:28:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150486185118 |
+| Players | 2/8 |
+| Host Name | CBUM 5 champion |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:28:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150485575821 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Mr Prab |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:26:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150486124163 |
+| Players | 1/5 |
+| Host Name | Revenge |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:28:00 |
 
 
