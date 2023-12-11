@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:59:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150592159988 |
-| Players | 14/15 |
-| Host Name | Парнокопытный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:05:29 |
+| Lobby ID | 28553150592718787 |
+| Players | 7/24 |
+| Host Name | Fucking Pencil |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:06:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150592757478 |
-| Players | 2/8 |
-| Host Name | Punisher PMA |
+| Players | 1/8 |
+| Host Name | -1 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:06:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150592718787 |
-| Players | 5/24 |
-| Host Name | Fucking Pencil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:06:30 |
+| Lobby ID | 28553150593051113 |
+| Players | 1/8 |
+| Host Name | I know the way to lose |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 14:07:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:49:39 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150588443642 |
-| Players | 9/10 |
-| Host Name | skyrutt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:58:39 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150589416246 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | МистерСахарок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:00:29 |
