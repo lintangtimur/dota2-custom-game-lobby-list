@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151343339784 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Alex Weres |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:19:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151342473846 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | I'M SAD |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:17:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151343531435 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | b0rrach0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:19:22 |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151343935138 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:20:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151344071618 |
+| Players | 5/8 |
+| Host Name | sex b0mba $1337$ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:20:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151342604049 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | GAMBIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:17:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151343951396 |
-| Players | 1/5 |
-| Host Name | Shock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:20:07 |
 
 
