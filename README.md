@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151117868317 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | rain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:35:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151111878134 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | wildfirezg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:29:11 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151117753664 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ВЕЛИКАН ВЕЛИКАНЫЧ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:35:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151119892874 |
-| Players | 2/10 |
-| Host Name | Despair |
+| Lobby ID | 28553151118829264 |
+| Players | 3/8 |
+| Host Name | Илья 2 койла |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:37:13 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:36:09 |
 
 
 |  | ot3_desert_octet |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151115693554 |
-| Players | 3/8 |
-| Host Name | Oogway |
+| Players | 2/8 |
+| Host Name | Sasaki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:33:00 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151118300780 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 亗D 么 R ϟ O亗 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:35:37 |
@@ -119,22 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:36:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151119900152 |
+| Players | 2/15 |
+| Host Name | Armando Broja |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:37:13 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151119434143 |
-| Players | 9/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:36:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151118829264 |
-| Players | 3/8 |
-| Host Name | Илья 2 койла |
+| Lobby ID | 28553151119974753 |
+| Players | 3/10 |
+| Host Name | Despair |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:36:09 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:37:18 |
 
 
 |  | epic_boss_fight_normal |
