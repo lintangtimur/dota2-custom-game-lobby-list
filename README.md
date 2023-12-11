@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150804860518 |
-| Players | 2/15 |
-| Host Name | Goth Assassin #2 (Hand Grenade) |
+| Players | 1/15 |
+| Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 19:21:25 |
 
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150818393353 |
+| Lobby ID | 28553150819558420 |
 | Players | 1/24 |
-| Host Name | EL ROPAVEJERO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 19:35:49 |
+| Host Name | Winter Night |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 19:37:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150819492064 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Казуал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:36:57 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150818702318 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Yaken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:36:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150819558420 |
-| Players | 1/24 |
-| Host Name | Winter Night |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:37:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:33:11 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150818481918 |
-| Players | 2/5 |
-| Host Name | bear bear |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 19:35:54 |
+| Lobby ID | 28553150819642691 |
+| Players | 1/10 |
+| Host Name | GaliLeo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 19:37:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150819424242 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | MoonMierda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:36:53 |
