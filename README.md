@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150917113630 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | DonkayPunch Q(Q'-')!! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 21:13:34 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150915338944 |
-| Players | 23/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 21:12:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150909979194 |
-| Players | 8/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 21:07:12 |
+| Lobby ID | 28553150917521242 |
+| Players | 2/10 |
+| Host Name | q as in cucumber |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 21:13:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150918374256 |
+| Players | 5/15 |
+| Host Name | RackaMackaFo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:14:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150906234913 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:03:46 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150915828889 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | عمر |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:12:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150917564895 |
-| Players | 3/8 |
-| Host Name | depressed child |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:13:58 |
+| Lobby ID | 28553150905234394 |
+| Players | 13/15 |
+| Host Name | Again? |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 11, 2023 21:02:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150914850020 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 晚上好，夜之城！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:11:33 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:13:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150917416243 |
-| Players | 5/15 |
-| Host Name | погоди погоди |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:13:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150917375242 |
-| Players | 3/10 |
-| Host Name | домик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:13:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150915698769 |
-| Players | 8/10 |
-| Host Name | артур желтый глаз |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:12:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150917521242 |
-| Players | 2/10 |
-| Host Name | q as in cucumber |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 21:13:56 |
+| Lobby ID | 28553150918373006 |
+| Players | 3/8 |
+| Host Name | Sychyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:14:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:56:45 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150906031287 |
-| Players | 1/7 |
-| Host Name | EddieR92 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:03:35 |
+| Lobby ID | 28553150918457612 |
+| Players | 1/5 |
+| Host Name | [T]he[G]reat[E]rika |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:14:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28553150916817213 |
-| Players | 4/10 |
-| Host Name | Чорт |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:13:19 |
+| Lobby ID | 28553150918515120 |
+| Players | 4/7 |
+| Host Name | さようなら |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 11, 2023 21:14:49 |
 
 
