@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150835282786 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | на обордаж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:54:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150833370325 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 19:52:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150833607953 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:52:34 |
