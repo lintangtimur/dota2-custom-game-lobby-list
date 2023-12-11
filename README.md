@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151286675918 |
-| Players | 12/15 |
-| Host Name | L1nkoln_69™ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:54:37 |
+| Lobby ID | 28553151287049895 |
+| Players | 3/15 |
+| Host Name | Gerch17 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:55:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151282332333 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | SinesS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:48:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151284618639 |
-| Players | 9/10 |
-| Host Name | debacle- |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:51:31 |
+| Lobby ID | 28553151286244063 |
+| Players | 2/24 |
+| Host Name | Maxsteel NAZI (EL PEPO) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:53:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151283586694 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:49:56 |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | охаё |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:55:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151286575144 |
-| Players | 7/10 |
-| Host Name | Жмурик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:54:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151286244063 |
-| Players | 1/24 |
-| Host Name | Maxsteel NAZI (EL PEPO) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:53:58 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553151286825723 |
-| Players | 1/7 |
-| Host Name | deadly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:54:51 |
 
 
