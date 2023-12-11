@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150446625802 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | black buo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:10:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150442214896 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | LaGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:00:50 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150446927521 |
-| Players | 4/10 |
-| Host Name | formatica |
+| Players | 3/10 |
+| Host Name | херупу |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:10:36 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150446718298 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:10:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150446474675 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | huge robot penguin |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:09:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150447518032 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:11:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150446106574 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Faroyah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:08:59 |
