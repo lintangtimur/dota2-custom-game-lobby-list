@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150570773780 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ketlle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:25:23 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:19:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150570860649 |
-| Players | 7/10 |
-| Host Name | IIiIIiII |
+| Lobby ID | 28553150571749882 |
+| Players | 1/15 |
+| Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:25:32 |
+| Lobby Creation Time | Monday, December 11, 2023 13:27:05 |
 
 
 |  | ot3_desert_octet |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150571740518 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TUMBAL PROYEK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:27:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150571749882 |
-| Players | 1/15 |
-| Host Name | Eddie Meduza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:27:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:25:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150571782687 |
-| Players | 1/5 |
-| Host Name | Crying PIG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:27:09 |
 
 
