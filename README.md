@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150541299577 |
-| Players | 7/8 |
-| Host Name | hor100 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:24:37 |
+| Lobby ID | 28553150542143932 |
+| Players | 4/15 |
+| Host Name | HOES MAD |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:26:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150540647160 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Timber Aguilar |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:23:20 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150541941895 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:25:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150542039552 |
-| Players | 6/10 |
-| Host Name | Guadianeitor.giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:26:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150542143932 |
-| Players | 1/15 |
-| Host Name | HOES MAD |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 12:26:18 |
 
 
 |  | epic_boss_fight_nightmare |
