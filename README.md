@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150808505746 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:25:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150810544861 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | guappa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:27:32 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:27:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150810235289 |
-| Players | 4/8 |
-| Host Name | Сладкоежка |
+| Lobby ID | 28553150810792971 |
+| Players | 2/15 |
+| Host Name | No |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:27:13 |
+| Lobby Creation Time | Monday, December 11, 2023 19:27:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150810324277 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ryōiki Tenkai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:27:18 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 精准，防控，动态，清零 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:27:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150810792971 |
-| Players | 1/15 |
-| Host Name | No |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:27:48 |
 
 
 |  | epic_boss_fight_nightmare |
