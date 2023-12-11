@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150665673090 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:06:58 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150665454809 |
-| Players | 7/10 |
-| Host Name | Megane |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:06:37 |
+| Lobby ID | 28553150666086497 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:07:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150665665946 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | GG |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 16:06:57 |
@@ -31,11 +31,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150665961372 |
+| Lobby ID | 28553150666064936 |
 | Players | 5/8 |
-| Host Name | Winning is all that matters 勝 |
+| Host Name | where is my mind(?) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:07:26 |
+| Lobby Creation Time | Monday, December 11, 2023 16:07:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150666243304 |
+| Players | 2/24 |
+| Host Name | Sometimes Serious Phantom |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 16:07:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150666251130 |
+| Players | 3/10 |
+| Host Name | ёбырь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:07:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150660590163 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:58:48 |
