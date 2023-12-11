@@ -38,67 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:18:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150480539062 |
-| Players | 13/15 |
-| Host Name | KeKu |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:17:37 |
+| Lobby ID | 28553150481211749 |
+| Players | 2/8 |
+| Host Name | .DETH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:18:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150479902734 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150480289085 |
-| Players | 1/15 |
-| Host Name | слепыш |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 10:17:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150480387126 |
-| Players | 4/15 |
-| Host Name | Gingko Biloba |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:17:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150480809727 |
-| Players | 3/10 |
-| Host Name | Alien |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 10:18:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150480972444 |
-| Players | 9/10 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 10:18:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150481211749 |
-| Players | 1/8 |
-| Host Name | .DETH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:18:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,12 +65,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:19:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150480387126 |
+| Players | 7/15 |
+| Host Name | Gingko Biloba |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:17:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150480809727 |
+| Players | 5/10 |
+| Host Name | Alien |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 10:18:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150481526261 |
+| Players | 2/15 |
+| Host Name | JustChaaaoooS♕ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:19:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150481552445 |
+| Players | 1/24 |
+| Host Name | M r . C h o c o |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:19:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150481731274 |
+| Players | 1/15 |
+| Host Name | coach 1/3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:19:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150474609690 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | SAD BOY |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:06:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150481522395 |
+| Players | 1/10 |
+| Host Name | 123456789123456789 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 10:19:27 |
 
 
