@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150592718787 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Fucking Pencil |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:06:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150595255272 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | каламитас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:11:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | DotaPlayer1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
