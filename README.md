@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151354767323 |
-| Players | 7/8 |
-| Host Name | Diamonds & Dancefloor |
+| Lobby ID | 28553151355648496 |
+| Players | 1/10 |
+| Host Name | DerekGG |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:39:09 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:40:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151355944657 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Рита Гусли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:41:37 |
@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151355759214 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:41:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151355648496 |
-| Players | 2/10 |
-| Host Name | DerekGG |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:40:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151355361993 |
-| Players | 20/24 |
-| Host Name | Jomax-sam |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:40:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151356125270 |
-| Players | 6/24 |
-| Host Name | Дяхан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:42:03 |
+| Lobby ID | 28553151356222093 |
+| Players | 4/8 |
+| Host Name | Ядреный писюн |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:42:17 |
 
 
 |  | epic_boss_fight_nightmare |
