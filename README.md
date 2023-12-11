@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150613417203 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | @_982| |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150612475818 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Kamikaze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:40:18 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:39:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150614428112 |
-| Players | 1/15 |
-| Host Name | Handsomejke |
+| Lobby ID | 28553150614464941 |
+| Players | 2/8 |
+| Host Name | ПТ на Легенду |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:44:06 |
+| Lobby Creation Time | Monday, December 11, 2023 14:44:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150614449031 |
+| Players | 5/10 |
+| Host Name | Бугименчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:44:09 |
 
 
 |  | epic_boss_fight_nightmare |
