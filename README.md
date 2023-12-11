@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150732862292 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | whatsapp trolling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:49:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150732868097 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Мармеладзе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:49:52 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150732309383 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:48:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150732601370 |
-| Players | 9/10 |
-| Host Name | IIiIIiII |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:49:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Didums |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, December 11, 2023 17:49:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150733096957 |
+| Players | 1/15 |
+| Host Name | ❤Fox❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:50:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150733162881 |
+| Players | 1/24 |
+| Host Name | иммигрант с лиги |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:50:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 再干中单  重拾自信 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:43:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150733149768 |
+| Players | 1/5 |
+| Host Name | KRATOS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 17:50:18 |
 
 
