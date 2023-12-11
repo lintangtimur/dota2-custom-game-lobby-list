@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150758102845 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Snappix |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 18:24:16 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150769840785 |
-| Players | 1/24 |
-| Host Name | jerico sl |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 18:37:57 |
+| Lobby ID | 28553150772895921 |
+| Players | 4/10 |
+| Host Name | pox na game |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:41:41 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150771557935 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:39:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150767653233 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150772393852 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | All_Muted |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 18:40:59 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ẄǞĞÑḜ® |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:41:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150772895921 |
-| Players | 4/10 |
-| Host Name | pox na game |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:41:41 |
 
 
 |  | epic_boss_fight_nightmare |
