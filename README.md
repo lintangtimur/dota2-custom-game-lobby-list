@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151344341388 |
-| Players | 9/10 |
-| Host Name | Veon |
+| Lobby ID | 28553151344929872 |
+| Players | 8/10 |
+| Host Name | SeaQer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:20:48 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:21:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151342473846 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | I'M SAD |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:17:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151343531435 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | b0rrach0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:19:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151344596070 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | masex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:21:14 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:21:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151344929872 |
-| Players | 2/10 |
-| Host Name | SeaQer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:21:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151344271980 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GAMBIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:20:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151344971153 |
-| Players | 1/5 |
-| Host Name | Steve |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:21:54 |
 
 
