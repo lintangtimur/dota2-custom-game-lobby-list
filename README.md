@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Chiki Briki Iv Damke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150581460230 |
-| Players | 5/8 |
-| Host Name | клопик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:45:01 |
+| Lobby ID | 28553150582024126 |
+| Players | 1/10 |
+| Host Name | X3PRO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:46:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150580700472 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | atlas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150580540818 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | I want to be better |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150581804050 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Cooper |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 13:45:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150581923822 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:46:00 |
