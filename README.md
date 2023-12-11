@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150553082829 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | chakalito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:49:41 |
@@ -41,46 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150550809681 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | huge robot penguin |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:43:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150554873791 |
-| Players | 1/8 |
-| Host Name | poebat' mne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:53:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150554786476 |
-| Players | 8/15 |
-| Host Name | AresRediska (Twitch) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:53:37 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150554987318 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Gin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:54:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150555101055 |
-| Players | 3/8 |
-| Host Name | VLI1RUS |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 12:54:20 |
+| Lobby ID | 28553150554786476 |
+| Players | 12/15 |
+| Host Name | AresRediska (Twitch) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:53:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150555177578 |
+| Players | 1/15 |
+| Host Name | Dota Jesus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 12:54:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150555219181 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 12:54:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lordaemon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:54:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150552155750 |
+| Players | 9/10 |
+| Host Name | シタ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 12:47:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150555355305 |
+| Players | 1/5 |
+| Host Name | Enlightenment is mine! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:54:54 |
 
 
