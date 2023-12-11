@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150870786479 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Mydachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:30:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150870173983 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:29:26 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150870879696 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | lil boost |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:30:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150868194711 |
+| Players | 22/24 |
+| Host Name | Yuta |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:27:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150867535299 |
-| Players | 7/10 |
-| Host Name | Sea Server Cancer |
+| Players | 6/10 |
+| Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:26:54 |
 
