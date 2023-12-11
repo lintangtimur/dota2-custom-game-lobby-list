@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150774470131 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | BB3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:43:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150764824632 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 18:32:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150774938731 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | mmmMMM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:44:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150774766469 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Никола Тесла |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:44:15 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150775091351 |
-| Players | 4/24 |
-| Host Name | Bestty |
+| Players | 6/24 |
+| Host Name | I Auto BAN Dazzle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:44:42 |
 
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 321 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:44:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150775305593 |
-| Players | 1/5 |
-| Host Name | 6ix2een |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:44:59 |
 
 
