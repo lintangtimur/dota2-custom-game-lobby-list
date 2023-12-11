@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150969193200 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:02:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150965742777 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Ace |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:58:59 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150954058516 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:47:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150969583090 |
-| Players | 5/10 |
-| Host Name | Синяя птица |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:02:40 |
+| Lobby ID | 28553150969295436 |
+| Players | 1/8 |
+| Host Name | сосисочный монст |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:02:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150967517062 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:00:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150968881358 |
-| Players | 21/24 |
-| Host Name | MF |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:02:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150969295436 |
-| Players | 1/8 |
-| Host Name | сосисочный монст |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:02:24 |
 
 
 |  | ot3_gardens_duo |
@@ -108,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | abobanani |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:02:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150970018026 |
+| Players | 4/24 |
+| Host Name | m |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 11, 2023 22:03:05 |
 
 
 |  | epic_boss_fight_normal |
