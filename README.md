@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150497377897 |
-| Players | 14/15 |
-| Host Name | "(:D |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 10:51:52 |
+| Lobby ID | 28553150501388905 |
+| Players | 6/8 |
+| Host Name | Burger-Man |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 11:01:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150500858616 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Sunset |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:59:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150500556974 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:59:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150500416990 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Shedu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:58:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150498266530 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:05 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𩠑 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:00:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150498741636 |
+| Players | 23/24 |
+| Host Name | SoWyer |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:55:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150501432526 |
+| Players | 1/15 |
+| Host Name | Mr. Freeman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 11:01:07 |
 
 
 |  | epic_boss_fight_nightmare |
