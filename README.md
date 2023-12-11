@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151350529931 |
-| Players | 13/15 |
-| Host Name | MaherO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:31:42 |
+| Lobby ID | 28553151351281446 |
+| Players | 6/15 |
+| Host Name | B3SUS |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:32:59 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151349722991 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:30:16 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151350737974 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:32:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151350390371 |
+| Players | 8/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:31:27 |
 
 
 |  | epic_boss_fight_nightmare |
