@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:29:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150997167028 |
-| Players | 22/24 |
-| Host Name | Smurfosaurus-Rekt |
+| Lobby ID | 28553151002697377 |
+| Players | 7/10 |
+| Host Name | Анатолий |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:29:20 |
+| Lobby Creation Time | Monday, December 11, 2023 22:34:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151000106338 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Jphill |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 22:32:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151002268793 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:34:15 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151002937897 |
-| Players | 3/15 |
-| Host Name | psycho |
+| Players | 10/15 |
+| Host Name | Toi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:34:54 |
 
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151002716791 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 22:34:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151002697377 |
-| Players | 5/10 |
-| Host Name | Анатолий |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:34:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151002935090 |
-| Players | 1/24 |
-| Host Name | Sixeye |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 22:34:54 |
+| Lobby ID | 28553151002277055 |
+| Players | 14/15 |
+| Host Name | Тирс Тирс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:34:15 |
 
 
 |  | epic_boss_fight_normal |
