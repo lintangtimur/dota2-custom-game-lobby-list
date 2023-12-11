@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151251675718 |
-| Players | 7/24 |
-| Host Name | don’t do school, stay in drugs |
+| Players | 1/24 |
+| Host Name | Добрый человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:09:18 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151252150933 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Asar1x6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:09:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151252054281 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Русский |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:09:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151247110220 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Zero Cool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:03:48 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151252169628 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:09:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151252408302 |
+| Players | 1/24 |
+| Host Name | Solid.Uira |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:10:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151252425800 |
+| Players | 1/15 |
+| Host Name | AHORA P CTM |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:10:11 |
 
 
