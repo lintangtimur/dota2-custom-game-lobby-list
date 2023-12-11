@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151358245179 |
+| Lobby ID | 28553151358229958 |
 | Players | 3/8 |
-| Host Name | Y DALE LA MULA SIN TRIGO ! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:46:55 |
+| Host Name | NURAYA |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:46:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151356708897 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:43:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151357228474 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Jude Bellingham |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:44:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151357872441 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | JOKER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:46:03 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | K1ssLyak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:46:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151358229958 |
-| Players | 4/8 |
-| Host Name | NURAYA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:46:52 |
 
 
