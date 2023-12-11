@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150684048317 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:34:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150683856746 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | y tho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:34:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150684721507 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | The Hollow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:35:56 |
