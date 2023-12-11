@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:18:49 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150449379112 |
-| Players | 1/7 |
-| Host Name | Ma Ling |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 09:15:21 |
+| Lobby ID | 28553150449882043 |
+| Players | 23/24 |
+| Host Name | 圣诞快乐 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:16:19 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150450865772 |
-| Players | 1/10 |
-| Host Name | zzZ |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 09:18:11 |
+| Lobby ID | 28553150442214896 |
+| Players | 23/24 |
+| Host Name | LaGood |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 09:00:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:17:54 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150450865772 |
+| Players | 1/10 |
+| Host Name | zzZ |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 09:18:11 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150451193915 |
+| Lobby ID | 28553150451353184 |
 | Players | 1/5 |
 | Host Name | KoH4eHbIu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:18:47 |
+| Lobby Creation Time | Monday, December 11, 2023 09:19:04 |
 
 
