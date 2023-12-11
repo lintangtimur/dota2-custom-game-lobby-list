@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150586192096 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 13:54:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150596516823 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | morfling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:13:14 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150593186866 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MarcoSL |115 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:07:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150583723274 |
-| Players | 1/10 |
-| Host Name | LALALALA |
+| Lobby ID | 28553150597088395 |
+| Players | 1/8 |
+| Host Name | SOY TÍMIDO |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:49:39 |
+| Lobby Creation Time | Monday, December 11, 2023 14:14:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150597098017 |
+| Players | 1/15 |
+| Host Name | Ti-Lay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:14:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | boaindoor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:07:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150597018492 |
+| Players | 1/10 |
+| Host Name | LALALALA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 14:14:04 |
 
 
