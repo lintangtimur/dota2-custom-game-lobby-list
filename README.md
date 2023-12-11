@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150909013702 |
-| Players | 21/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 21:06:19 |
+| Lobby ID | 28553150911019399 |
+| Players | 4/8 |
+| Host Name | 死神 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:08:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150905977862 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:03:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150909512083 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | lemberg proletarian |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150910545753 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | robasti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:07:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150909687792 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Cort3znica |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150908907563 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | RB19 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:14 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EddieR92 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:03:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150911144557 |
+| Players | 1/10 |
+| Host Name | Аристократ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:08:15 |
 
 
