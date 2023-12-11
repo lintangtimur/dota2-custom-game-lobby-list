@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150593051113 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | I know the way to lose |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 14:07:06 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | МистерСахарок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:00:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150593154516 |
+| Players | 2/5 |
+| Host Name | SHUKSHINPROD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:07:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150593171965 |
+| Players | 1/5 |
+| Host Name | boaindoor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:07:19 |
 
 
