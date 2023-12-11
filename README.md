@@ -29,51 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:06:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150712607647 |
-| Players | 2/15 |
-| Host Name | 🔪 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:20:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150711886884 |
-| Players | 3/8 |
-| Host Name | Danfoll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:19:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150712273477 |
-| Players | 2/10 |
-| Host Name | я крутой |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:19:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150712458000 |
-| Players | 1/8 |
-| Host Name | ПоДполковниК САБВУФЕР |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 17:19:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150712573987 |
-| Players | 3/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 17:20:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150712582425 |
@@ -81,6 +36,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:20:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150711886884 |
+| Players | 4/8 |
+| Host Name | Desegr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:19:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150712729692 |
+| Players | 9/15 |
+| Host Name | Солянка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:20:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150712573987 |
+| Players | 8/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 17:20:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150713088719 |
+| Players | 1/8 |
+| Host Name | ПоДполковниК САБВУФЕР |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 11, 2023 17:20:52 |
 
 
 |  | epic_boss_fight_nightmare |
