@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150692916480 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Володя автомойка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:50:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150692867435 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:50:05 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 貓馬Light |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:46:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150693574178 |
+| Players | 2/5 |
+| Host Name | Scruffy |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 11, 2023 16:51:19 |
 
 
