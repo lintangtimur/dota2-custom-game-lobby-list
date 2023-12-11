@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151204849948 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Alex Weres |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:13:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151205070817 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | spirit) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:13:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151203082077 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | _-↑MayerŠ↑-_J® |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:11:36 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:42 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151205392730 |
+| Players | 3/8 |
+| Host Name | супер тигр 🐯🐅 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:14:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151204227961 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | TEAM CALLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:54 |
