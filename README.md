@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150818396853 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Kamusari |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:35:49 |
@@ -112,15 +112,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150816358253 |
-| Players | 3/5 |
-| Host Name | gocha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:33:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28553150818481918 |
 | Players | 2/5 |
 | Host Name | bear bear |
@@ -130,10 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150818570467 |
-| Players | 3/10 |
+| Lobby ID | 28553150819000474 |
+| Players | 1/10 |
+| Host Name | MoonMierda |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 11, 2023 19:36:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150818992875 |
+| Players | 1/10 |
+| Host Name | oupi |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 19:36:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150819034288 |
+| Players | 1/5 |
 | Host Name | GaliLeo |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 19:36:00 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 19:36:29 |
 
 
