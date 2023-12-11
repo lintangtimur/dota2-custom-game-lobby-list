@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150726271644 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | егор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:39:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150725681839 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:38:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150726292121 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Флешбек Деда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:39:17 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150721944896 |
-| Players | 8/10 |
-| Host Name | Lt. Wade Jackson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 17:33:19 |
 
 
