@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150751175506 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | погоди погоди |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:15:40 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150747776662 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:11:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150751492074 |
+| Players | 6/10 |
+| Host Name | Cpt Karl |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 11, 2023 18:16:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150749765500 |
+| Players | 9/10 |
+| Host Name | u look lonely |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 18:13:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150751560994 |
+| Players | 4/10 |
+| Host Name | allcash (kusakabe enjoyer) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:16:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150745561788 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:08:17 |
