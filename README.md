@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151359070029 |
-| Players | 5/10 |
-| Host Name | Noting To ... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:48:50 |
+| Lobby ID | 28553151359468229 |
+| Players | 4/8 |
+| Host Name | froz645 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:49:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151359082520 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 👿♕OG★PAXAN♕👿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:48:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151359276039 |
-| Players | 6/8 |
-| Host Name | . |
+| Lobby ID | 28553151359602151 |
+| Players | 2/10 |
+| Host Name | Gaba |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:49:19 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:50:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151359139060 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:00 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151359217445 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | †bysadneess† |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:49:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151359468229 |
-| Players | 1/8 |
-| Host Name | froz645 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:49:46 |
 
 
 |  | epic_boss_fight_nightmare |
