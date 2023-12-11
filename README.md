@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151325606600 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | K1 CESAR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:48:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151325666080 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Mr. Penis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:48:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151325307838 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | NEVER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:47:44 |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151325983216 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | VOID ESPONJA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:48:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151325647890 |
-| Players | 1/10 |
-| Host Name | Odracir*MS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:48:20 |
+| Lobby ID | 28553151326075948 |
+| Players | 3/8 |
+| Host Name | M142 HIMARS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:49:05 |
 
 
