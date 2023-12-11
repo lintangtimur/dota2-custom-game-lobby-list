@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150725681839 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:38:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150726029560 |
-| Players | 3/8 |
-| Host Name | ЧУШПАН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:38:55 |
 
 
 |  | epic_boss_fight_nightmare |
