@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151392627251 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Ruth |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:56:43 |
@@ -32,52 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151392735864 |
-| Players | 10/24 |
+| Players | 19/24 |
 | Host Name | Zacarias Dog |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:57:00 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151386609956 |
-| Players | 19/24 |
-| Host Name | MASAKARY :v |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151392473409 |
-| Players | 13/15 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:56:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151392347594 |
-| Players | 5/10 |
-| Host Name | Stefan Pragner |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:56:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151392884349 |
-| Players | 6/8 |
-| Host Name | массаж простаты? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:57:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151392895072 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:57:24 |
@@ -86,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151392971087 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Cruzado-Style-Papiricas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:57:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151392347594 |
+| Players | 7/10 |
+| Host Name | Stefan Pragner |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:56:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151393338579 |
+| Players | 1/8 |
+| Host Name | Drakalian the Dragon King |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:58:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151393502994 |
+| Players | 1/8 |
+| Host Name | ½Pro¼Noob¾Jihadi |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:58:57 |
 
 
 |  | epic_boss_fight_nightmare |
