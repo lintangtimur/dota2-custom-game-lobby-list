@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151337556648 |
-| Players | 6/8 |
-| Host Name | Awesder |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:09:06 |
+| Lobby ID | 28553151338256254 |
+| Players | 2/8 |
+| Host Name | MUTE ALL |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:10:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151337404637 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:08:50 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151337452046 |
-| Players | 4/8 |
-| Host Name | BOT 1 |
+| Players | 3/8 |
+| Host Name | Arcanine <3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:08:55 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151337932067 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NaTzU DrgneL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:09:45 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151338132181 |
-| Players | 5/15 |
-| Host Name | Cuzee |
+| Players | 2/15 |
+| Host Name | Haxi Hot Mom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:10:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151338144636 |
-| Players | 1/5 |
-| Host Name | Jimmy McGill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:10:07 |
 
 
