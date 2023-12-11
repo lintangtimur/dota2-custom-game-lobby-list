@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150553186726 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | OtaGame |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:49:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150553161639 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:49:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150552238231 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Any humans |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:47:34 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150553082829 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | si te agarro te desgarro :v |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:49:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150552253771 |
-| Players | 7/8 |
-| Host Name | Canela pasión |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:47:36 |
+| Lobby ID | 28553150553714203 |
+| Players | 1/10 |
+| Host Name | kkk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:51:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | シタ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:47:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150553697209 |
+| Players | 1/5 |
+| Host Name | burunyu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:51:09 |
 
 
