@@ -31,27 +31,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150669882864 |
-| Players | 14/15 |
-| Host Name | Manowarrior |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:13:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150670849743 |
-| Players | 4/8 |
-| Host Name | idllll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:15:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28553150669648057 |
-| Players | 14/15 |
-| Host Name | siPdRE-NmA |
+| Players | 13/15 |
+| Host Name | Hell's Paradise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:13:18 |
 
