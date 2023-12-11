@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150728006555 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Lordi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 17:42:00 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150727802424 |
-| Players | 8/15 |
-| Host Name | Tek7 |
+| Lobby ID | 28553150728568642 |
+| Players | 1/15 |
+| Host Name | Winter flower |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 17:41:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150728254786 |
-| Players | 6/8 |
-| Host Name | kirylenkk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:42:25 |
+| Lobby Creation Time | Monday, December 11, 2023 17:42:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150727326214 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:40:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150728317666 |
+| Players | 3/10 |
+| Host Name | 10K Behavior Score |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 17:42:32 |
 
 
