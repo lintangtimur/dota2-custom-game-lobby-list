@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150630827092 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 吉野順平 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:11:19 |
@@ -60,9 +60,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150631277761 |
 | Players | 1/8 |
-| Host Name | waveee |
+| Host Name | only 2 pos <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:12:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150626571171 |
+| Players | 23/24 |
+| Host Name | PlusYz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:04:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ghosty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:11:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150631335617 |
-| Players | 1/10 |
-| Host Name | / |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:12:06 |
 
 
