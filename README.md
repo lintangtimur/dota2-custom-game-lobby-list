@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150453197259 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | main character vibes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:22:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150459036314 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:33:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458470974 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | через пацифизм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:32:01 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:31:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150459212306 |
+| Players | 1/24 |
+| Host Name | Fightinside 4-5 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:33:21 |
 
 
 |  | epic_boss_fight_nightmare |
