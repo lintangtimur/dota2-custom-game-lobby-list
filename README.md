@@ -5,64 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151196722535 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | OG.ChICkEn.bo |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:04:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151203577124 |
-| Players | 8/10 |
-| Host Name | Optimal |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:12:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151203672142 |
-| Players | 2/15 |
-| Host Name | Abc-oluti |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:12:16 |
+| Lobby ID | 28553151203539392 |
+| Players | 3/8 |
+| Host Name | El Pejerrete |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151203210304 |
-| Players | 4/8 |
-| Host Name | прости меня моя л |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151057594597 |
+| Lobby ID | 28553151204221077 |
 | Players | 1/8 |
-| Host Name | yunko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151203579726 |
-| Players | 1/10 |
-| Host Name | matkevich |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:12:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151201039820 |
-| Players | 17/24 |
-| Host Name | DJ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:09:15 |
+| Host Name | Яна Срал |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,10 +40,91 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151203539392 |
+| Lobby ID | 28553151057594597 |
 | Players | 2/8 |
-| Host Name | El Pejerrete |
+| Host Name | yunko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151204195352 |
+| Players | 4/10 |
+| Host Name | Таваяма Атьсука |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151201039820 |
+| Players | 19/24 |
+| Host Name | DJ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:09:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151204064981 |
+| Players | 6/8 |
+| Host Name | Amanchiko |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151203996625 |
+| Players | 6/8 |
+| Host Name | xvoidii |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151203999284 |
+| Players | 1/24 |
+| Host Name | アキト |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151204059639 |
+| Players | 2/10 |
+| Host Name | ]_eXoes__Xex__.."> |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:12:07 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151204146492 |
+| Players | 1/8 |
+| Host Name | King Catastrophe¤ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151204276712 |
+| Players | 1/15 |
+| Host Name | V0rtex 嵐 =) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151204227961 |
+| Players | 1/10 |
+| Host Name | TEAM CALLER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:54 |
 
 
