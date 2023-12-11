@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:47:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150653235066 |
-| Players | 5/8 |
-| Host Name | acsess |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 15:46:22 |
+| Lobby ID | 28553150653615211 |
+| Players | 3/10 |
+| Host Name | МЕЙБИ БЕЙБИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:47:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150653113020 |
-| Players | 9/15 |
-| Host Name | киндер пингви |
+| Players | 8/15 |
+| Host Name | 4urin |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 15:46:09 |
 
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:46:59 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150653615211 |
-| Players | 3/10 |
-| Host Name | МЕЙБИ БЕЙБИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:47:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150653676587 |
-| Players | 1/8 |
-| Host Name | Шаурма |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:47:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150653679683 |
-| Players | 1/15 |
-| Host Name | 旺哥 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:47:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:43:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150653694940 |
+| Players | 1/10 |
+| Host Name | Saenai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:47:09 |
 
 
