@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150753787105 |
-| Players | 5/10 |
-| Host Name | Parazittus |
+| Lobby ID | 28553150755215078 |
+| Players | 4/10 |
+| Host Name | trash teammate |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 18:18:57 |
+| Lobby Creation Time | Monday, December 11, 2023 18:20:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150744910507 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150749253257 |
-| Players | 17/24 |
-| Host Name | 米粉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 18:13:12 |
+| Lobby ID | 28553150755179560 |
+| Players | 1/24 |
+| Host Name | Katz core |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:20:39 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150754293581 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ВладиSlave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:19:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150754742949 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | EXIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:20:07 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:19:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150753462891 |
-| Players | 14/15 |
-| Host Name | VALERA DOMKRAT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:18:33 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150751787787 |
-| Players | 4/5 |
-| Host Name | 00*-*00_|_00 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:16:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -121,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150750961219 |
-| Players | 9/10 |
-| Host Name | Moon Knight |
+| Lobby ID | 28553150755367344 |
+| Players | 3/10 |
+| Host Name | Banyanya~ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 18:15:23 |
+| Lobby Creation Time | Monday, December 11, 2023 18:20:53 |
 
 
