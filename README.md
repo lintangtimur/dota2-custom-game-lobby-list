@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150565659169 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ArSkay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:16:14 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150562313790 |
-| Players | 7/24 |
-| Host Name | my gf married by another man |
+| Players | 9/24 |
+| Host Name | ItsChaeyoung |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:09:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150565450755 |
-| Players | 7/8 |
-| Host Name | amaster |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 13:15:50 |
+| Lobby ID | 28553150567091410 |
+| Players | 1/8 |
+| Host Name | Пётр 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:18:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150566313023 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Лжеджекович I |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:17:28 |
@@ -49,11 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150566734532 |
-| Players | 1/15 |
-| Host Name | SESE |
+| Lobby ID | 28553150566879072 |
+| Players | 2/15 |
+| Host Name | Alxir |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 13:18:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150566950687 |
+| Players | 1/8 |
+| Host Name | Canela pasión |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:18:14 |
+| Lobby Creation Time | Monday, December 11, 2023 13:18:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150558412424 |
+| Players | 7/8 |
+| Host Name | gato con tabas |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:01:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150566405370 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Izumiiiiiiiiii<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:17:38 |
