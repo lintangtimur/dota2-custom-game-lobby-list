@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150597138003 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:14:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150600536161 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:20:08 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:24:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150602671331 |
-| Players | 11/15 |
-| Host Name | SpliNteR |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 14:23:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150603977609 |
-| Players | 2/8 |
-| Host Name | Miyamura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:25:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150604086662 |
-| Players | 2/24 |
-| Host Name | Let me SLeep |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:26:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150604089774 |
@@ -83,12 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:26:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150603977609 |
+| Players | 5/8 |
+| Host Name | Miyamura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:25:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150604086662 |
+| Players | 4/24 |
+| Host Name | Let me SLeep |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:26:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150604303432 |
+| Players | 4/15 |
+| Host Name | Eddie Meduza |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:26:31 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150597018492 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:14:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150604210093 |
+| Players | 1/10 |
+| Host Name | Stillness |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:26:22 |
 
 
