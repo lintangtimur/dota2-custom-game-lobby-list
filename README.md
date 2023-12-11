@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150909013702 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150909512083 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | lemberg proletarian |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150909346783 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Егор 16 лет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150901118802 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | AleJandro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:59:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150905234394 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Again? |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 11, 2023 21:02:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150909591949 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | отец гетто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:06:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553150906774781 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Zeteron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:04:16 |
