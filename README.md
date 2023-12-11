@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150881997509 |
-| Players | 1/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 20:40:24 |
+| Lobby ID | 28553150882642591 |
+| Players | 7/8 |
+| Host Name | . |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:41:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150882952203 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Я крут |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:41:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150867908205 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | АХАХАХАХАХАХААХА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:27:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150883119182 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Твоя мама |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:41:34 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:40:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150882642591 |
-| Players | 2/8 |
-| Host Name | . |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:41:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150883530578 |
-| Players | 4/8 |
-| Host Name | s a d g i r l |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:42:00 |
 
 
 |  | epic_boss_fight_nightmare |
