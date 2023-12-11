@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150588403549 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Crowned_Clown |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:58:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150586279825 |
-| Players | 22/24 |
-| Host Name | NothingFeelsRight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:54:31 |
+| Lobby ID | 28553150587953298 |
+| Players | 7/8 |
+| Host Name | Parovoz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:57:43 |
 
 
 |  | ot3_desert_octet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:57:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150587953298 |
-| Players | 5/8 |
-| Host Name | Parovoz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:57:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150583723274 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | skyrutt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:58:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150588635594 |
-| Players | 1/5 |
-| Host Name | Baecon- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 13:59:01 |
 
 
