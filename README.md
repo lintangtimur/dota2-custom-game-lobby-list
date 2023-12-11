@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150624129577 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:00:50 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:04:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150625453162 |
-| Players | 14/15 |
-| Host Name | John |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 15:02:54 |
+| Lobby ID | 28553150626024949 |
+| Players | 4/8 |
+| Host Name | mode epileptick1d 13 y.o. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:03:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150624601852 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:01:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150626024949 |
-| Players | 2/8 |
-| Host Name | mode epileptick1d 13 y.o. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:03:49 |
 
 
 |  | epic_boss_fight_nightmare |
