@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150876806360 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | oNe |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:35:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150865138805 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:31:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150873605987 |
-| Players | 1/15 |
-| Host Name | Sʅҽҽρ ɯҽʅʅ |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 20:32:37 |
+| Lobby ID | 28553150876338030 |
+| Players | 4/10 |
+| Host Name | Ваз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:35:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150877065950 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | жопный прыщ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:35:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150876338030 |
-| Players | 4/10 |
-| Host Name | Ваз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:35:08 |
+| Lobby ID | 28553150877570787 |
+| Players | 1/15 |
+| Host Name | MIPE.ne |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 20:36:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150876932530 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:35:41 |
