@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150453197259 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | main character vibes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:22:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150457427596 |
-| Players | 6/8 |
-| Host Name | XIAO8 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 11, 2023 09:30:07 |
+| Lobby ID | 28553150459036314 |
+| Players | 2/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 09:33:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150458503550 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Pimpin' |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:32:05 |
