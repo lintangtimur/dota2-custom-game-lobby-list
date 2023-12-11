@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | DotaPlayer1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150590197854 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:01:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150586919675 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:55:44 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150590881391 |
-| Players | 3/10 |
-| Host Name | (QuiT)Chicken_Murderer |
+| Players | 1/10 |
+| Host Name | ionex |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 14:03:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150590944699 |
-| Players | 11/15 |
-| Host Name | СКВИРТОВУХА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:03:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150591201752 |
-| Players | 1/15 |
-| Host Name | Plucky |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 14:03:45 |
 
 
 |  | ot3_gardens_duo |
@@ -103,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150591326825 |
-| Players | 5/8 |
-| Host Name | Krico |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 14:03:59 |
+| Lobby ID | 28553150591378737 |
+| Players | 1/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 14:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
