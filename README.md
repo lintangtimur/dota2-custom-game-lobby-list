@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:19:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150922089019 |
-| Players | 9/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 21:18:01 |
+| Lobby ID | 28553150926155055 |
+| Players | 14/15 |
+| Host Name | Дрочислав |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:21:40 |
 
 
 |  | ot3_desert_octet |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150926398652 |
-| Players | 1/8 |
-| Host Name | BABY BABY OHHHHH |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:21:53 |
+| Lobby ID | 28553150926418452 |
+| Players | 3/8 |
+| Host Name | SPLU NO NE NAELSYA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:21:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150917367215 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | King Cuyo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:13:47 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DELINCUENTE JUVENIL |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:21:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150926155055 |
-| Players | 6/15 |
-| Host Name | Дрочислав |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:21:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150926418452 |
-| Players | 1/8 |
-| Host Name | SPLU NO NE NAELSYA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:21:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150926478738 |
-| Players | 5/8 |
-| Host Name | defeat is a step toward victory. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:21:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150924930282 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | OUUUUUUUUUUUUUUU |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:20:33 |
