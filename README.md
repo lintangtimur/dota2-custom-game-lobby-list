@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151345500275 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | La Flame |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:22:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151348448243 |
-| Players | 9/10 |
-| Host Name | QUZZULLQUURT |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:28:00 |
+| Lobby ID | 28553151348911769 |
+| Players | 8/15 |
+| Host Name | テイラー・スウィフト |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:28:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151348261071 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | KiDPER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:27:40 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151348687295 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Hakurate |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:28:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151348911769 |
-| Players | 3/15 |
-| Host Name | テイラー・スウィフト |
+| Lobby ID | 28553151347071492 |
+| Players | 9/10 |
+| Host Name | fscfcfltkfkkifyflfktutfdtebd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:28:49 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:25:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151348960378 |
+| Players | 2/10 |
+| Host Name | Aramis CSGOPositive.me |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:28:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151347736732 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | O K |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:26:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151349002304 |
+| Players | 1/5 |
+| Host Name | dIAMOND |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:28:59 |
 
 
