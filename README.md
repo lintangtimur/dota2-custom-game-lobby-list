@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150481731274 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | coach 1/3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:19:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150481211749 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | .DETH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150479902734 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:22:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150481552445 |
-| Players | 23/24 |
-| Host Name | M r . C h o c o |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:19:31 |
+| Lobby ID | 28553150483183934 |
+| Players | 8/15 |
+| Host Name | unconfident |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:22:33 |
 
 
 |  | ot3_desert_octet |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:22:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150483183934 |
-| Players | 6/15 |
-| Host Name | unconfident |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:22:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150483457117 |
-| Players | 1/24 |
-| Host Name | Sneaky Murloc |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, December 11, 2023 10:23:03 |
 
 
 |  | epic_boss_fight_nightmare |
