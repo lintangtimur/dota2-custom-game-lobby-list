@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151331335213 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Cort3znica |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:58:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151332705577 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Minadzuki水無月 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:00:36 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151326301734 |
-| Players | 23/24 |
-| Host Name | Dudley Eigenvalue, Ph.D. |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:49:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151332723516 |
-| Players | 4/10 |
-| Host Name | Shisa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:00:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151332565898 |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chat Gpt 2.3 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:00:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151332723516 |
+| Players | 6/10 |
+| Host Name | Shisa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:00:38 |
 
 
 |  | epic_boss_fight_nightmare |
