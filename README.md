@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150597138003 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:14:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150600787321 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:20:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150605634598 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | каламитас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:28:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150605870120 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | only 2 pos <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 14:29:10 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:14:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150604210093 |
-| Players | 9/10 |
-| Host Name | Stillness |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:26:22 |
 
 
 |  | epic_boss_fight_nightmare |
