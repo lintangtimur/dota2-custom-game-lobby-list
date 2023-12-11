@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:59:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150661642965 |
-| Players | 1/8 |
-| Host Name | МАМИКС [СОСАЛ] |
+| Lobby ID | 28553150662002416 |
+| Players | 3/10 |
+| Host Name | I$CE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:00:30 |
+| Lobby Creation Time | Monday, December 11, 2023 16:01:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150661442474 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 悲伤电炒饭 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:00:10 |
