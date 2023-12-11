@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150677703204 |
-| Players | 7/8 |
-| Host Name | kupol |
+| Lobby ID | 28553150678691638 |
+| Players | 1/8 |
+| Host Name | БОНДИД-Джамшут |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:25:31 |
+| Lobby Creation Time | Monday, December 11, 2023 16:27:00 |
 
 
 |  | ot3_gardens_duo |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jap |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:26:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150677559367 |
-| Players | 9/10 |
-| Host Name | KaTheDirector |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:25:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150678691638 |
-| Players | 1/8 |
-| Host Name | БОНДИД-Джамшут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:27:00 |
 
 
 |  | epic_boss_fight_nightmare |
