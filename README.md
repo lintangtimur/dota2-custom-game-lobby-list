@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151180885298 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ZUBOTEHNIK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151180717535 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | El Yisus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:24 |
@@ -56,42 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:44:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151180761215 |
-| Players | 13/15 |
-| Host Name | peredal hui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:44:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151180687209 |
-| Players | 4/8 |
-| Host Name | Grim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:44:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151180944140 |
-| Players | 3/15 |
-| Host Name | SyX |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:44:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151180775703 |
-| Players | 1/15 |
-| Host Name | days идут carry сосет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:44:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151181122046 |
@@ -110,13 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:45:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151180944140 |
+| Players | 2/15 |
+| Host Name | SyX |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:44:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151180775703 |
+| Players | 1/15 |
+| Host Name | days идут carry сосет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:44:29 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151181236989 |
+| Lobby ID | 28553151181360043 |
 | Players | 5/8 |
-| Host Name | сильнее соли |
+| Host Name | Квасная Мышь |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:45:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151181378411 |
+| Players | 4/8 |
+| Host Name | bl4ck arch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:45:04 |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:45:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151181383754 |
+| Players | 2/8 |
+| Host Name | кусьмяу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:45:16 |
 
 
 |  | epic_boss_fight_challenger |
