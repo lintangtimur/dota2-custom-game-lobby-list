@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151133622813 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | SacRe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:52:48 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151133801957 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | karma police |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:53:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151133937326 |
-| Players | 1/15 |
-| Host Name | ElSamu |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:53:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151126443188 |
-| Players | 23/24 |
-| Host Name | Alkazed |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:44:24 |
 
 
 |  | epic_boss_fight_challenger |
