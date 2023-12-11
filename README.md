@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150832338234 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | poo-zinping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:51:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150825037179 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:42:58 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:57:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150837567275 |
-| Players | 13/15 |
-| Host Name | ДРЕВНИЙ РУС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:56:48 |
+| Lobby ID | 28553150838727199 |
+| Players | 1/8 |
+| Host Name | flinx $ |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 19:58:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150837408442 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Jake Green |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:56:38 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | вфывфы |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:57:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150838417815 |
-| Players | 3/8 |
-| Host Name | Sasaki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:57:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150838727199 |
-| Players | 1/8 |
-| Host Name | flinx $ |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 19:58:01 |
 
 
 |  | epic_boss_fight_nightmare |
