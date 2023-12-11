@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151128077148 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:46:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151133665787 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:52:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151139993869 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Doom Staff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:00:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151138648473 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:58:31 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:59:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151140077931 |
-| Players | 1/10 |
-| Host Name | S M O O K |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:00:07 |
+| Lobby ID | 28553151140099831 |
+| Players | 5/8 |
+| Host Name | сурв хант 60к дпса |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:00:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151136763850 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | asakurwa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:56:24 |
