@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150444856517 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Walter-sama |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:06:24 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:07:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150444755672 |
-| Players | 9/10 |
-| Host Name | ZдраVствуй СалоРе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:06:11 |
+| Lobby ID | 28553150445512585 |
+| Players | 2/15 |
+| Host Name | game is hard |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 09:07:46 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150445356358 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Pasa la coca CTMR!!! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:07:27 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150445430838 |
-| Players | 2/24 |
-| Host Name | 너를 사랑해. |
+| Players | 3/24 |
+| Host Name | NotThatBad |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:07:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150445512585 |
-| Players | 1/15 |
-| Host Name | game is hard |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:07:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150442536217 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | The lightning SiBeRiA* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:01:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150445629414 |
-| Players | 1/5 |
-| Host Name | KoH4eHbIu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:08:00 |
 
 
