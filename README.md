@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150817359351 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Слышу ZОV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:34:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150817687805 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | М.И.З.А.Н.Т.Р.О.П |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:35:05 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:35:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150817294494 |
-| Players | 7/8 |
-| Host Name | мама анархия папы нет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:34:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -112,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150817933352 |
-| Players | 2/10 |
-| Host Name | HawK+Eye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:35:20 |
+| Lobby ID | 28553150818114100 |
+| Players | 1/10 |
+| Host Name | @FIONA SZE |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 11, 2023 19:35:32 |
 
 
