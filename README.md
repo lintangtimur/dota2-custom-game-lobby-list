@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150744910507 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150754293581 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ВладиSlave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:19:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150754742949 |
-| Players | 14/15 |
-| Host Name | EXIT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:20:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150753522558 |
-| Players | 9/15 |
-| Host Name | Discharge |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 18:18:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ядерный гомасек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:19:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150753522558 |
+| Players | 8/15 |
+| Host Name | Discharge |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 18:18:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150755693938 |
+| Players | 3/8 |
+| Host Name | Bread |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 11, 2023 18:21:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150755681618 |
+| Players | 6/8 |
+| Host Name | 狂热激战A-Rev.3 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, December 11, 2023 18:21:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150754085406 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:19:18 |
