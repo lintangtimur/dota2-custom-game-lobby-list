@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151282332333 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | _-UlizZezZ-_ |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:48:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151282754462 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Ruby R |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:48:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151282815410 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Ἥφαιστος |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:48:46 |
@@ -104,25 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151277497808 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | chambaMAM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:40:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151283041005 |
-| Players | 5/8 |
-| Host Name | Кетамин |
+| Lobby ID | 28553151283070119 |
+| Players | 9/15 |
+| Host Name | Flying Dutchman |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:49:06 |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:49:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151283064026 |
+| Players | 1/24 |
+| Host Name | KASPARDUN |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:49:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151282937822 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | destuno |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:48:57 |
