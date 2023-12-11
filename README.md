@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151259893441 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SEXO |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:19:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151259710961 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:18:51 |
@@ -95,19 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151259341323 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | а большего мне и не надо |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:18:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151259542801 |
-| Players | 1/8 |
-| Host Name | EL GOTO CUBA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:18:39 |
+| Lobby ID | 28553151260107173 |
+| Players | 1/15 |
+| Host Name | Akeno Gremory |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:19:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151260101878 |
+| Players | 2/15 |
+| Host Name | maria.alexandra |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:19:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151260155711 |
+| Players | 1/24 |
+| Host Name | Evo_come_llamas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:19:23 |
 
 
 |  | epic_boss_fight_nightmare |
