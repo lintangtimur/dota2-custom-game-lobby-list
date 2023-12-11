@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150760457181 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | PzK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:27:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150760264749 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:26:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150760737437 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | PerTzo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:27:26 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150760844920 |
-| Players | 1/15 |
-| Host Name | САФОНОВ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:27:33 |
+| Lobby ID | 28553150753522558 |
+| Players | 13/15 |
+| Host Name | Mr. Spooky Cookie |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 18:18:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150760872674 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Mishka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:27:35 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150761261687 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 混蛋 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:28:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150753522558 |
-| Players | 14/15 |
-| Host Name | Mr. Spooky Cookie |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 18:18:37 |
 
 
 |  | epic_boss_fight_nightmare |
