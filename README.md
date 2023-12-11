@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 14/24 |
+| Players | 7/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150862234749 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ... FAIL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:21:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150861134698 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | PYPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:20:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150859513138 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Сладкоежка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:19:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150860399178 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | Delay no more |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:19:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150862117837 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Blob- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:21:37 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cpdd要暴力的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:22:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150860928292 |
+| Players | 14/15 |
+| Host Name | Fabos |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:20:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150862660688 |
+| Players | 6/8 |
+| Host Name | John Porker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:22:09 |
 
 
 |  | epic_boss_fight_nightmare |
