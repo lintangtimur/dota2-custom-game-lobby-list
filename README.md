@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:46:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151183315809 |
-| Players | 6/8 |
-| Host Name | Alexwars |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:47:44 |
+| Lobby ID | 28553151185101501 |
+| Players | 7/15 |
+| Host Name | John Wesson |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:49:58 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151184772605 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | xvoidii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:49:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151184665842 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Яна Срал |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:49:25 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151182906106 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:47:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151184741122 |
-| Players | 5/10 |
-| Host Name | Тяжелый Люкс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:49:31 |
+| Lobby ID | 28553151172150316 |
+| Players | 23/24 |
+| Host Name | v |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:34:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lorf |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:47:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151185181301 |
+| Players | 1/8 |
+| Host Name | ДЖЕКИ ЧАН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:50:05 |
 
 
 |  | epic_boss_fight_nightmare |
