@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150798894144 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | freshejka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:14:32 |
@@ -41,19 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150799056751 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | PickPocketPickeduPPackPackage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:14:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150799777152 |
+| Players | 5/8 |
+| Host Name | BarFaCk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:15:34 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150799439840 |
-| Players | 10/15 |
-| Host Name | YohoCX |
+| Lobby ID | 28553150799652540 |
+| Players | 11/15 |
+| Host Name | погоди погоди |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 19:15:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150800082096 |
+| Players | 1/10 |
+| Host Name | падший ангел |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:15:11 |
+| Lobby Creation Time | Monday, December 11, 2023 19:15:55 |
 
 
 |  | epic_boss_fight_nightmare |
