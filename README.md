@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151137811953 |
-| Players | 7/10 |
-| Host Name | wannagotogermany |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:57:35 |
+| Lobby ID | 28553151138172187 |
+| Players | 3/15 |
+| Host Name | Jostein |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:58:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151128077148 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:46:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151136207938 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 愛しています、ニコル |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:55:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151137928771 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | murdoclml |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:57:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151138066014 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | developmental disorders |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:57:52 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | раб божий |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:57:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151138029959 |
-| Players | 4/8 |
-| Host Name | ROmIIIIiiiNa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:57:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151138102279 |
-| Players | 2/8 |
-| Host Name | Olegatr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:57:55 |
 
 
 |  | epic_boss_fight_nightmare |
