@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151273431575 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ·•●٠₥™ҜĬ₦Ģ٠ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:35:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151272808733 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Neon Riot |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:34:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151271726936 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:33:28 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151271810357 |
-| Players | 7/8 |
-| Host Name | Pet3r (777) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:33:34 |
+| Lobby ID | 28553151273919075 |
+| Players | 1/8 |
+| Host Name | PussyDon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:36:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:35:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151273796404 |
-| Players | 2/10 |
-| Host Name | El Zorro |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:36:01 |
+| Lobby ID | 28553151273898396 |
+| Players | 5/15 |
+| Host Name | КЧАУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:36:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151273077321 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Панас Мирний |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:35:07 |
