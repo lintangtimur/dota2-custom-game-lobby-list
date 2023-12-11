@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:55:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150752577277 |
-| Players | 3/10 |
-| Host Name | ';'kill'i;';kill;';';'kill';' |
+| Lobby ID | 28553150753462891 |
+| Players | 5/15 |
+| Host Name | VALERA DOMKRAT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:17:28 |
+| Lobby Creation Time | Monday, December 11, 2023 18:18:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150744910507 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:07:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150749253257 |
-| Players | 5/24 |
+| Players | 13/24 |
 | Host Name | 米粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:13:12 |
@@ -50,52 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150752566959 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | LeroyHiller |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:17:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150753191418 |
-| Players | 1/15 |
-| Host Name | ’Mr . Big |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 18:18:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150752877894 |
-| Players | 1/15 |
-| Host Name | SOLOJUEGOPUDGE |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 18:17:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150752919703 |
-| Players | 3/8 |
-| Host Name | не гей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:17:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150753014883 |
-| Players | 14/15 |
-| Host Name | АНАJIbНbIU.КРЕМ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:18:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150753065004 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Mason侍 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:18:03 |
@@ -103,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150752018248 |
-| Players | 13/15 |
-| Host Name | Нафотомоядевушка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:16:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150750031866 |
-| Players | 12/15 |
-| Host Name | tiuebiwe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:14:11 |
+| Lobby ID | 28553150753522558 |
+| Players | 3/15 |
+| Host Name | Discharge |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 18:18:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150745561788 |
-| Players | 7/10 |
-| Host Name | GreShnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:08:17 |
+| Lobby ID | 28553150751787787 |
+| Players | 2/5 |
+| Host Name | 00*-*00_|_00 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 18:16:27 |
 
 
 |  | epic_boss_fight_challenger |
@@ -146,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:17:20 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150751787787 |
-| Players | 2/5 |
-| Host Name | 00*-*00_|_00 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:16:27 |
+| Lobby ID | 28553150753606362 |
+| Players | 2/10 |
+| Host Name | MiKE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:18:43 |
 
 
