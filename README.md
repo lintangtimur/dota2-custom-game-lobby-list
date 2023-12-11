@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150673305193 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Classy sky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:18:56 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150673824846 |
-| Players | 11/15 |
-| Host Name | похуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:19:43 |
+| Lobby ID | 28553150674889226 |
+| Players | 1/15 |
+| Host Name | BLACK STAR |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 16:21:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150672679377 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | добрый кола |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:17:59 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БОНДИД-Джамшут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:18:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150674889226 |
-| Players | 1/15 |
-| Host Name | BLACK STAR |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 16:21:18 |
 
 
 |  | epic_boss_fight_nightmare |
