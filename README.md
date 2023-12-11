@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Chiki Briki Iv Damke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150580905076 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150580540818 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I want to be better |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:01 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NimEdel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:45:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150581923822 |
+| Players | 2/24 |
+| Host Name | LoŸal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:46:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150581947563 |
+| Players | 1/24 |
+| Host Name | 雨墨 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:46:03 |
 
 
 |  | epic_boss_fight_challenger |
