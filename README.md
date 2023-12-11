@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151051010836 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Aon MatSir |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:24:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151048673109 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Waffle |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 23:22:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151051609638 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | terrible and horrible |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:25:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151051878747 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:25:52 |
@@ -90,5 +90,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mimilya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:25:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151052105089 |
+| Players | 5/10 |
+| Host Name | viperr designer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:26:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151052170574 |
+| Players | 5/10 |
+| Host Name | Леха бей |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:26:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151052180928 |
+| Players | 3/8 |
+| Host Name | Det |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:26:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151052186030 |
+| Players | 1/8 |
+| Host Name | Даня |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:26:10 |
 
 
