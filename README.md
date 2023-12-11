@@ -23,37 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150565450755 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | amaster |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 13:15:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150563916321 |
-| Players | 13/15 |
-| Host Name | cholos tarados |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:12:54 |
+| Lobby ID | 28553150566313023 |
+| Players | 3/10 |
+| Host Name | Лжеджекович I |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:17:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150565659169 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | ArSkay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:16:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150558412424 |
-| Players | 7/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:01:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:07:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150566405370 |
+| Players | 1/10 |
+| Host Name | Izumiiiiiiiiii<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:17:38 |
 
 
