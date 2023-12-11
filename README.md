@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151029379411 |
-| Players | 9/10 |
-| Host Name | †bysadneess† |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 23:02:47 |
+| Lobby ID | 28553151032356851 |
+| Players | 2/10 |
+| Host Name | uselessuselessuselessuseless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:05:50 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151031430111 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Сожаление |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:04:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151032096538 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | фркхд |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:05:34 |
@@ -76,29 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151032020718 |
-| Players | 6/8 |
-| Host Name | Mr. Penis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:05:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151032356851 |
-| Players | 2/10 |
-| Host Name | uselessuselessuselessuseless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:05:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151031126627 |
+| Lobby ID | 28553151032611348 |
 | Players | 1/8 |
 | Host Name | Javi |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 23:04:34 |
+| Lobby Creation Time | Monday, December 11, 2023 23:06:05 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 23:05:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151032665954 |
+| Players | 3/10 |
+| Host Name | 雨 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 23:06:09 |
 
 
