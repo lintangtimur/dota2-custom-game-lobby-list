@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150559121096 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Good Sh*t |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:03:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150558412424 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:01:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150560207812 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Javier Milei |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:05:27 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RmL* Nᴅᴡ ☚ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:06:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150560960731 |
+| Players | 1/8 |
+| Host Name | timеr nе pidaras |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:07:04 |
 
 
 |  | epic_boss_fight_normal |
