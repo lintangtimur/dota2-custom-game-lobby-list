@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:52:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150473938436 |
-| Players | 13/15 |
-| Host Name | kura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:04:46 |
+| Lobby ID | 28553150474418640 |
+| Players | 2/10 |
+| Host Name | ♥ȺӀҽ×ą~Ꝉօѵҽ♥ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:05:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150473670721 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:04:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150473978947 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Soul |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:04:51 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150473760960 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Camu Camu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:04:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150474418640 |
-| Players | 2/10 |
-| Host Name | ♥ȺӀҽ×ą~Ꝉօѵҽ♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:05:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150473329951 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TONGKENG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:03:32 |
