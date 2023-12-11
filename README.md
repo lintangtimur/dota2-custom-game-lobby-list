@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151250417855 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | romchik |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:07:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151247110220 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Zero Cool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:03:48 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:08:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151248071684 |
-| Players | 14/15 |
-| Host Name | Yaga |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:04:58 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151251351357 |
@@ -108,6 +99,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:08:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151251675718 |
+| Players | 6/24 |
+| Host Name | don’t do school, stay in drugs |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:09:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151251681034 |
+| Players | 1/10 |
+| Host Name | Димон Рыбин 23 pos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:09:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151251697333 |
+| Players | 1/15 |
+| Host Name | AHORA P CTM |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:09:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151250282585 |
+| Players | 5/8 |
+| Host Name | Ха-ха-ха буквы |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:07:38 |
 
 
 |  | epic_boss_fight_normal |
