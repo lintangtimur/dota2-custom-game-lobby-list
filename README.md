@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150485678302 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | RmL* Nᴅᴡ ☚ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:27:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | NothingFeelsRight |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150486157551 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | MÁ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:28:04 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150486185118 |
-| Players | 2/8 |
+| Lobby ID | 28553150486285124 |
+| Players | 1/8 |
 | Host Name | CBUM 5 champion |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:28:07 |
+| Lobby Creation Time | Monday, December 11, 2023 10:28:18 |
 
 
 |  | epic_boss_fight_nightmare |
