@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150736570846 |
 | Players | 8/10 |
-| Host Name | trash teammate |
+| Host Name | baboon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 17:55:30 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150736432517 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | OpenAI(Hank Bot) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:55:18 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150736968854 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | techno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:56:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150736067434 |
-| Players | 14/15 |
-| Host Name | llxlionxll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:54:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150734276145 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:52:04 |
