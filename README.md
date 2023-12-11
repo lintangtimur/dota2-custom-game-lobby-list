@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151128077148 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:46:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151132539389 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Prison Sex |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:51:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151133665787 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:52:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151134989763 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | anghelo159zzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:54:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151136269608 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | {w3}Atomic Evil |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:55:49 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151136312893 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | no blame |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:55:52 |
@@ -130,20 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151136077848 |
-| Players | 14/15 |
-| Host Name | sry |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:55:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151136442772 |
-| Players | 3/8 |
-| Host Name | Ilay |
+| Lobby ID | 28553151136616299 |
+| Players | 1/15 |
+| Host Name | god eater |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:56:01 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:56:14 |
 
 
 |  | epic_boss_fight_nightmare |
