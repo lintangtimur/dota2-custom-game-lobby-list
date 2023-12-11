@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150456046471 |
-| Players | 22/24 |
-| Host Name | criszalo *-*/ |
+| Lobby ID | 28553150457396410 |
+| Players | 1/24 |
+| Host Name | 너를 사랑해. |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:27:39 |
+| Lobby Creation Time | Monday, December 11, 2023 09:30:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150457060033 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | game is hard |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:29:27 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150457096434 |
-| Players | 1/8 |
-| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 09:29:31 |
+| Lobby ID | 28553150457427596 |
+| Players | 2/8 |
+| Host Name | AHORA P CTM |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 11, 2023 09:30:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150456590846 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Utak Mo May Ubo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:28:37 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150457244245 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Enlightenment is mine! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:29:47 |
