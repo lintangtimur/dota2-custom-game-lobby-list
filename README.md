@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150475006875 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ∟O◄§∟ ô |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:06:57 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150475465471 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | ★彡iＫⓐＲㄖş 彡★ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:07:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150475586025 |
-| Players | 6/10 |
-| Host Name | Anúbis |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 10:08:07 |
+| Lobby ID | 28553150475621089 |
+| Players | 1/8 |
+| Host Name | SAD BOY |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:08:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150475629124 |
+| Players | 5/15 |
+| Host Name | BobbyHillsWikiFeetProfile |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:08:12 |
 
 
 |  | epic_boss_fight_nightmare |
