@@ -2,58 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151107147707 |
-| Players | 8/15 |
-| Host Name | Castillo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:24:27 |
+| Lobby ID | 28553151109581805 |
+| Players | 4/10 |
+| Host Name | Пупа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:26:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151106353996 |
-| Players | 7/8 |
-| Host Name | ALVINNN |
+| Lobby ID | 28553151109074999 |
+| Players | 8/10 |
+| Host Name | BOT Guerrilla |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:23:39 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:26:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151108891306 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | lil uzi's yurt |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:26:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151108736422 |
-| Players | 2/15 |
-| Host Name | Kristina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:26:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151057594597 |
-| Players | 1/8 |
-| Host Name | yunko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151108408477 |
-| Players | 6/10 |
-| Host Name | try2win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:25:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,28 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:22:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151107371686 |
-| Players | 23/24 |
-| Host Name | Chloe Grace Moretz |
+| Lobby ID | 28553151057594597 |
+| Players | 1/8 |
+| Host Name | yunko |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:24:41 |
+| Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151109530399 |
+| Players | 2/15 |
+| Host Name | Нища |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:26:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151108697352 |
-| Players | 6/8 |
-| Host Name | Puk |
+| Lobby ID | 28553151109605200 |
+| Players | 1/8 |
+| Host Name | Nevinoves |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:26:01 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:26:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151105517291 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | comewithme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:22:48 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553151107760107 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Yenicehri |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:25:04 |
@@ -103,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151108017037 |
+| Lobby ID | 28553151109449518 |
 | Players | 1/10 |
 | Host Name | "WOOD RECT BUFFET RISER 22X7 1/8 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:25:20 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:26:46 |
 
 
