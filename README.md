@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150979771277 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | SORI |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:12:29 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150981761256 |
-| Players | 9/10 |
-| Host Name | Нарды онлайн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:14:25 |
+| Lobby ID | 28553150982293489 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 22:14:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:09:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150982354917 |
+| Players | 7/15 |
+| Host Name | Yarogoroshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:15:00 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150982293489 |
-| Players | 1/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 22:14:56 |
+| Lobby ID | 28553150982405325 |
+| Players | 7/10 |
+| Host Name | Denis_Stonik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:15:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150976550396 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 青椒小新 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:09:22 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | жесткий мукбанг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:13:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150976594360 |
-| Players | 9/10 |
-| Host Name | Zack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:09:25 |
 
 
