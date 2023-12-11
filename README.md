@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150599212133 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Nibs :) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 14:17:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150597393960 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | 王八蛋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:14:43 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150600488169 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 14:20:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150600502757 |
-| Players | 7/10 |
-| Host Name | ТVОРОЖНАЯ БИОМАСА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:20:04 |
+| Lobby ID | 28553150600787321 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:20:33 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:20:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150600684295 |
+| Players | 2/10 |
+| Host Name | Kapirasho giordota.com |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 14:20:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150600902232 |
+| Players | 1/8 |
+| Host Name | Ali_love__26 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:20:45 |
 
 
 |  | epic_boss_fight_nightmare |
