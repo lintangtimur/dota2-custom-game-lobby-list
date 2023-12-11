@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151213360856 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:23:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151217283580 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | EL ROMPE ANASTACIOS giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:27:51 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151217104121 |
-| Players | 8/10 |
-| Host Name | X-Ray |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:27:39 |
+| Lobby ID | 28553151217446003 |
+| Players | 6/10 |
+| Host Name | LEXACOCu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:28:03 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151214806177 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | XLVII |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:25:00 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151217366252 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | thms.Georg |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:27:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151217436336 |
+| Players | 1/8 |
+| Host Name | Масло |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:28:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151208664118 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Kyo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:17:56 |
