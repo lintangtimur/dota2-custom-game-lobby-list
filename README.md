@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151383632369 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 讓我們給 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:35:27 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151383361480 |
-| Players | 7/15 |
-| Host Name | Diu |
+| Players | 6/15 |
+| Host Name | ♥♠ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:34:58 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151381679824 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Archer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:32:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151384024823 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Nikki |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:36:11 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151373235854 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | TheBrokenRobot |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:16:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151384500577 |
+| Players | 2/8 |
+| Host Name | Jhon_A |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:37:02 |
 
 
