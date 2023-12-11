@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151373338527 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:16:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151373569370 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:17:23 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151372966755 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Republica independiente de Arequ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:16:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151373243802 |
-| Players | 6/8 |
-| Host Name | Big Mama (yulezz) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:16:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151373236686 |
-| Players | 22/24 |
-| Host Name | LION EL MESI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:16:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:17:39 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151373871364 |
-| Players | 1/5 |
-| Host Name | q33w brol |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:17:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151369470980 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Panetón |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:09:37 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553151374002616 |
+| Players | 1/7 |
+| Host Name | q33w brol |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:18:11 |
 
 
