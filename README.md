@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:01:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150586919675 |
-| Players | 23/24 |
-| Host Name | Miku |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:55:44 |
+| Lobby ID | 28553150591378737 |
+| Players | 5/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 14:04:05 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | standin.idk™ |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 13:54:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150591378737 |
-| Players | 3/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | МистерСахарок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:00:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150591825006 |
-| Players | 1/5 |
-| Host Name | Salfis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:04:52 |
 
 
