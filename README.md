@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150498050918 |
+| Lobby ID | 28553150494154081 |
 | Players | 1/8 |
-| Host Name | Yaken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:53:32 |
+| Host Name | .DETH |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:43:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150494202419 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Bniuoas |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 10:43:47 |
@@ -41,36 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150497071575 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | SedMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:51:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150494154081 |
-| Players | 2/8 |
-| Host Name | .DETH |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:43:39 |
+| Lobby ID | 28553150498237432 |
+| Players | 1/10 |
+| Host Name | wanakito123 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:54:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150498266530 |
+| Players | 2/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 10:54:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150498169761 |
-| Players | 6/10 |
-| Host Name | Mr.Lulu^^ |
+| Lobby ID | 28553150498272481 |
+| Players | 3/10 |
+| Host Name | Master_Riuji |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:53:50 |
+| Lobby Creation Time | Monday, December 11, 2023 10:54:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150494486189 |
-| Players | 9/10 |
-| Host Name | Aria |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:44:31 |
+| Lobby ID | 28553150498276306 |
+| Players | 1/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 10:54:07 |
 
 
