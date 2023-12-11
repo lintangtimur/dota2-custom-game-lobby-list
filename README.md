@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151355648496 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | DerekGG |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:40:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151354553395 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Duro de cobrar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:38:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151355944657 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Рита Гусли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:41:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151355759214 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:41:11 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151356222093 |
-| Players | 4/8 |
-| Host Name | Ядреный писюн |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:42:17 |
+| Lobby ID | 28553151356412617 |
+| Players | 5/8 |
+| Host Name | МулаАферист |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:42:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. Hollywood |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:41:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151356349894 |
+| Players | 1/10 |
+| Host Name | ArcHon OnLy MiD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:42:34 |
 
 
