@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151286148806 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | fin` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:53:49 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151286233931 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | twitch.tv/4beelka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:53:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151286244063 |
+| Players | 1/24 |
+| Host Name | Maxsteel NAZI (EL PEPO) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:53:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151286358687 |
+| Players | 2/10 |
+| Host Name | минон |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:54:08 |
 
 
