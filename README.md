@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150767653233 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:36:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150768683649 |
-| Players | 1/15 |
-| Host Name | 彼女から覆われて |
+| Lobby ID | 28553150769056009 |
+| Players | 1/8 |
+| Host Name | Сладкоежка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:36:39 |
+| Lobby Creation Time | Monday, December 11, 2023 18:37:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150768922302 |
+| Players | 2/8 |
+| Host Name | Foreskin Collector |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 18:36:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150763027720 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:30:08 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150765918930 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Pag kaon na |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:33:31 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Al Damen King |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:34:09 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553150769065047 |
+| Players | 2/7 |
+| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, December 11, 2023 18:37:04 |
 
 
