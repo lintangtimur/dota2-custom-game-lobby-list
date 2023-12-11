@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:31:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150573960827 |
-| Players | 5/10 |
-| Host Name | Overlord |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:30:56 |
+| Lobby ID | 28553150575052283 |
+| Players | 2/24 |
+| Host Name | eyyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:32:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150574072858 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 13:31:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150570744403 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:25:20 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:29:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150574367647 |
-| Players | 2/10 |
-| Host Name | thousand cursed enemies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:31:38 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150555888230 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150570769553 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:25:22 |
