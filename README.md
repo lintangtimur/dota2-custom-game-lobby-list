@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150559402456 |
 | Players | 3/15 |
-| Host Name | Жгу Резину |
+| Host Name | Сквиртухай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:03:44 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150559121096 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Good Sh*t |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:03:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150559900042 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:04:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150558412424 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:01:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150559042062 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 13:02:57 |
