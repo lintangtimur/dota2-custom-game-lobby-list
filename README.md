@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150930423508 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Sebastian Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:25:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150923238124 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:19:03 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:22:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150930183221 |
-| Players | 5/8 |
-| Host Name | груша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:25:19 |
+| Lobby ID | 28553150930827900 |
+| Players | 1/15 |
+| Host Name | CEO говна |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:25:54 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150930717873 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Shamble |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:25:48 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:25:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150930827900 |
-| Players | 2/15 |
-| Host Name | CEO говна |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:25:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -128,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150930954515 |
-| Players | 2/5 |
-| Host Name | Emo Jesus |
+| Lobby ID | 28553150930960402 |
+| Players | 1/10 |
+| Host Name | GAMBIT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:26:01 |
+| Lobby Creation Time | Monday, December 11, 2023 21:26:02 |
 
 
