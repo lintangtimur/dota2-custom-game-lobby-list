@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150788599963 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 19:02:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150789747949 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:03:41 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150791501838 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | baboon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:05:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150791787454 |
+| Players | 1/8 |
+| Host Name | ЛЕСНОЙ ЖИТЕЛЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:06:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -105,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150789665265 |
 | Players | 2/10 |
-| Host Name | Gentlesiree |
+| Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:03:34 |
 
