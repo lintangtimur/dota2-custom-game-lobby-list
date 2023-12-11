@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150562313790 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | my gf married by another man |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:09:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150558412424 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:01:36 |
