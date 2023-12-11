@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057396609 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Young Neil |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:24 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151059866642 |
-| Players | 11/15 |
-| Host Name | noobie |
+| Players | 9/15 |
+| Host Name | Blizario |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:33:50 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151059864725 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | сигаретный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:33:50 |
