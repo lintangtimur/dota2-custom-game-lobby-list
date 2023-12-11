@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151317666184 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Alko Family | محظوظ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:35:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151314866305 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:31:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151316195119 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:33:28 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151317823461 |
+| Lobby ID | 28553151318022892 |
 | Players | 5/8 |
-| Host Name | feedachyo |
+| Host Name | Банка За Упокой |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:35:43 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:36:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FIAK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:35:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151317982431 |
-| Players | 2/8 |
-| Host Name | Мамин летчик, 42 го |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:35:56 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TOROPSNAKET |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:35:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151318011609 |
+| Players | 1/10 |
+| Host Name | rocksteady |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:35:59 |
 
 
