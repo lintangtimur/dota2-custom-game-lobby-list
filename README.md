@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150435011588 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 08:43:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150439265976 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MORONS |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 08:54:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150439883815 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Grey Light |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 08:55:42 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150440883809 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | RESENTIDO SOCIAL |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:57:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150440919392 |
-| Players | 7/8 |
-| Host Name | GIN |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:58:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150440989171 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:58:10 |
