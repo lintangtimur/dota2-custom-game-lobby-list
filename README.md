@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151308440977 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Zyzz (2011) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:22:46 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151310234604 |
-| Players | 7/8 |
-| Host Name | Galletita Enamorada |
+| Lobby ID | 28553151310877428 |
+| Players | 2/8 |
+| Host Name | QUE RIKO ES SER CHIPI |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:25:15 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:26:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,29 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151310531847 |
-| Players | 6/8 |
-| Host Name | Awesder |
+| Lobby ID | 28553151310951988 |
+| Players | 1/8 |
+| Host Name | Kiroma |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:25:40 |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:26:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151310783482 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Funky Bastard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:26:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151310877428 |
-| Players | 1/8 |
-| Host Name | QUE RIKO ES SER CHIPI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:26:09 |
 
 
 |  | epic_boss_fight_nightmare |
