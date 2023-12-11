@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150436831029 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Stalking |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:48:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150437469554 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ree3d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 08:50:07 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 08:49:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150435978094 |
-| Players | 23/24 |
-| Host Name | Miíster |
+| Lobby ID | 28553150437876430 |
+| Players | 1/15 |
+| Host Name | Casmitas♥EL♥MELODICO |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:46:24 |
+| Lobby Creation Time | Monday, December 11, 2023 08:51:06 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 08:50:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150437876430 |
-| Players | 2/15 |
-| Host Name | Casmitas♥EL♥MELODICO |
+| Lobby ID | 28553150437981282 |
+| Players | 1/24 |
+| Host Name | pienso luego tiro six :C |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:51:06 |
+| Lobby Creation Time | Monday, December 11, 2023 08:51:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MIXOTO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 08:50:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150437996188 |
+| Players | 1/10 |
+| Host Name | Bossholly ✪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 08:51:23 |
 
 
