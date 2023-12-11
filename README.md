@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150607212224 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Hiệp GOD |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150639586051 |
-| Players | 1/15 |
-| Host Name | yote atoro |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 15:24:44 |
+| Lobby ID | 28553150639437671 |
+| Players | 2/24 |
+| Host Name | NTE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:24:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150639366178 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | грустни дэнсер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:24 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:24:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150639437671 |
-| Players | 2/24 |
-| Host Name | NTE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:24:31 |
+| Lobby ID | 28553150639745813 |
+| Players | 1/10 |
+| Host Name | OUTbreak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:24:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150639821032 |
+| Players | 1/15 |
+| Host Name | Nameless |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 15:25:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | my heart doesn't exist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150639716166 |
+| Players | 1/10 |
+| Host Name | Isekai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:24:56 |
 
 
