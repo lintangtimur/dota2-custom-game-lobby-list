@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150639015099 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:23:52 |
@@ -13,47 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150646197886 |
-| Players | 7/8 |
-| Host Name | 187 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:34:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150648080731 |
-| Players | 5/10 |
-| Host Name | Immortal弥登呂 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:37:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28553150643066907 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:30:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150646575278 |
-| Players | 18/24 |
-| Host Name | Nadia Omara |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:35:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150648370348 |
-| Players | 12/15 |
-| Host Name | Порядочный |
+| Lobby ID | 28553150648080731 |
+| Players | 8/10 |
+| Host Name | Immortal弥登呂 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:38:02 |
+| Lobby Creation Time | Monday, December 11, 2023 15:37:36 |
 
 
 |  | epic_boss_fight_nightmare |
