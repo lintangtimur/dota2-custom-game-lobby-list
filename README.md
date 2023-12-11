@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150825479583 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 19:43:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150839755592 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:59:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150841828282 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:01:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150842423166 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:01:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150842502897 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Mr. Eagle |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:01:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150840842963 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Greed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:00:13 |
