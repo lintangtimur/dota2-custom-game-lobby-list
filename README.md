@@ -14,37 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150728923815 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Скрат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:43:32 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150729361857 |
+| Players | 1/24 |
+| Host Name | Platinum |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 17:44:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150728006555 |
-| Players | 7/8 |
-| Host Name | Lordi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 17:42:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150729132636 |
-| Players | 1/10 |
-| Host Name | Дядя Вова |
+| Lobby ID | 28553150729357839 |
+| Players | 1/8 |
+| Host Name | where is my mind(?) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:43:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150729025590 |
-| Players | 8/10 |
-| Host Name | Mr.BLAKE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:43:42 |
+| Lobby Creation Time | Monday, December 11, 2023 17:44:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | magaV315 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:43:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150729207595 |
-| Players | 6/10 |
-| Host Name | 阿峰 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, December 11, 2023 17:44:00 |
 
 
