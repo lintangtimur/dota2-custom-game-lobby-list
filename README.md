@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150465833958 |
-| Players | 6/8 |
-| Host Name | El Tio Custom |
+| Lobby ID | 28553150467229905 |
+| Players | 1/15 |
+| Host Name | J |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:47:15 |
+| Lobby Creation Time | Monday, December 11, 2023 09:50:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150465356059 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | URO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 09:46:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150466413196 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Any humans |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:48:33 |
@@ -65,30 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:49:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150467229905 |
-| Players | 2/15 |
-| Host Name | J |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:50:24 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150466609696 |
-| Players | 16/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Lobby ID | 28553150467549356 |
+| Players | 1/24 |
+| Host Name | ConsiderDeath2 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:48:59 |
+| Lobby Creation Time | Monday, December 11, 2023 09:51:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150466484933 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | We Are Electric |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:48:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150467549827 |
+| Players | 1/5 |
+| Host Name | stardenburdenhardenbart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 09:51:08 |
 
 
