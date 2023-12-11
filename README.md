@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151019620165 |
-| Players | 21/24 |
-| Host Name | 步枪步.top1.电竞让你很 |
+| Lobby ID | 28553151024758057 |
+| Players | 2/8 |
+| Host Name | V09 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:52:32 |
+| Lobby Creation Time | Monday, December 11, 2023 22:57:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151024004893 |
-| Players | 13/15 |
-| Host Name | Alex Weres |
+| Lobby ID | 28553151026057553 |
+| Players | 4/10 |
+| Host Name | HAR1ZMA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:57:10 |
+| Lobby Creation Time | Monday, December 11, 2023 22:59:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151023847306 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:57:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151024906828 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Canebo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:58:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151024742079 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Tomate Barraza |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:57:57 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151025661478 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Андрей Манавойд |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:58:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151025472160 |
-| Players | 8/10 |
-| Host Name | YATOVOROT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:58:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151024758057 |
-| Players | 2/8 |
-| Host Name | V09 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:57:58 |
 
 
 |  | ot3_necropolis_ffa |
