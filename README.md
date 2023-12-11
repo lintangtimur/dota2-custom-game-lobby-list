@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150966481655 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | шизик(НГОЛО КАНТЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:59:41 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150965742777 |
-| Players | 2/8 |
-| Host Name | CiganО_о |
+| Players | 4/8 |
+| Host Name | >3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:58:59 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150964585175 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:57:51 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150966952856 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | キリル |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:00:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150966946803 |
-| Players | 1/15 |
-| Host Name | likiru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:00:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150967020704 |
-| Players | 6/10 |
-| Host Name | 贾斯汀比伯 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 22:00:13 |
+| Lobby ID | 28553150960839680 |
+| Players | 23/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 21:54:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -139,10 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150966948643 |
+| Lobby ID | 28553150967134191 |
 | Players | 1/5 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:00:09 |
+| Lobby Creation Time | Monday, December 11, 2023 22:00:19 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553150967182140 |
+| Players | 1/7 |
+| Host Name | nara-iwnl- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 22:00:22 |
 
 
