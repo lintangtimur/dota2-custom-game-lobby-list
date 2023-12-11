@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150825479583 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 19:43:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150833370325 |
-| Players | 1/10 |
-| Host Name | 2077 sin ti |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 19:52:18 |
+| Lobby ID | 28553150839755592 |
+| Players | 7/24 |
+| Host Name | chill doto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 19:59:05 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:55:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150839755592 |
-| Players | 6/24 |
-| Host Name | chill doto |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:59:05 |
+| Lobby ID | 28553150842502897 |
+| Players | 1/15 |
+| Host Name | Mr. Eagle |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:01:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Greed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:00:13 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553150842631087 |
+| Players | 2/7 |
+| Host Name | smd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:02:04 |
 
 
