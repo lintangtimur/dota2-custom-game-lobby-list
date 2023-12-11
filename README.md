@@ -38,6 +38,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:52:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150619575476 |
+| Players | 1/8 |
+| Host Name | WAYNE |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 14:53:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150619553731 |
+| Players | 2/10 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:53:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150619578683 |
+| Players | 1/8 |
+| Host Name | Sad Clown((( |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 11, 2023 14:53:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -45,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150617910744 |
-| Players | 9/10 |
-| Host Name | Иван Ящерица |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:50:25 |
 
 
 |  | epic_boss_fight_nightmare |
