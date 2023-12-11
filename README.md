@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150785290975 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ЯГОЙДА |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:58:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150785599471 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:58:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150786450521 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 再干中单  重拾自信 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 18:59:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150786735384 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GBXXL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:59:54 |
