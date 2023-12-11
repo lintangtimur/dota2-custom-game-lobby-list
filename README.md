@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151107147707 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Castillo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:24:27 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151106353996 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ALVINNN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:23:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151102224828 |
-| Players | 13/15 |
-| Host Name | Slippy |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:19:29 |
+| Lobby ID | 28553151108891306 |
+| Players | 1/24 |
+| Host Name | lil uzi's yurt |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:26:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,43 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151107371686 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:24:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151108582405 |
-| Players | 12/15 |
-| Host Name | Містер Сідр |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:25:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151108697352 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Puk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:26:01 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151108891306 |
-| Players | 1/24 |
-| Host Name | lil uzi's yurt |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:26:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151105517291 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | comewithme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:22:48 |
