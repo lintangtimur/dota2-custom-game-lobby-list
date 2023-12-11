@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150466413196 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Any humans |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:48:33 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150466609696 |
-| Players | 23/24 |
-| Host Name | GantZ' |
+| Lobby ID | 28553150468013635 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:48:59 |
+| Lobby Creation Time | Monday, December 11, 2023 09:52:11 |
 
 
 |  | ot3_desert_octet |
