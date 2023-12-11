@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:12:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150856139773 |
-| Players | 6/8 |
-| Host Name | rolgee |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:15:44 |
+| Lobby ID | 28553150859815243 |
+| Players | 1/15 |
+| Host Name | 为毛？ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:19:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150859395920 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | ПАЯЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:18:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150859466022 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | БОТ Ботов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:19:01 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:19:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150855376473 |
+| Players | 7/8 |
+| Host Name | ^1 BK| Frnbb |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 20:14:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -99,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:16:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150859736160 |
+| Players | 1/10 |
+| Host Name | Ginger or Ni...r? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:19:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150859894361 |
+| Players | 1/5 |
+| Host Name | Krico |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:19:26 |
 
 
