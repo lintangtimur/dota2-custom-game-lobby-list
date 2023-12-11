@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150713107413 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | я крутой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:20:54 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Midas farming club |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:22:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150714586052 |
+| Players | 1/8 |
+| Host Name | skkkkkkr |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 17:23:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150714629221 |
+| Players | 1/24 |
+| Host Name | 1 of 1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 17:23:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:18:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150714500018 |
-| Players | 1/5 |
-| Host Name | love u 3000 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 17:22:53 |
 
 
