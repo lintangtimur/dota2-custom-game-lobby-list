@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:01:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150531185594 |
-| Players | 12/15 |
-| Host Name | PLSWSK |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:03:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150531331737 |
-| Players | 10/15 |
-| Host Name | Stealth |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:04:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150532652049 |
@@ -74,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:06:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150532743824 |
-| Players | 1/8 |
-| Host Name | cum_show |
+| Lobby ID | 28553150531331737 |
+| Players | 11/15 |
+| Host Name | Stealth |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:07:08 |
+| Lobby Creation Time | Monday, December 11, 2023 12:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150531721328 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Incognito_Gaming |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:04:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150532749219 |
-| Players | 1/5 |
-| Host Name | Neoxa Lourão |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 12:07:08 |
 
 
