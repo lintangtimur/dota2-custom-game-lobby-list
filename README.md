@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150604723119 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:27:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150604303432 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:26:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150604086662 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Let me SLeep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:26:09 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150604210093 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Stillness |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:26:22 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150605114593 |
-| Players | 1/5 |
-| Host Name | KrakenScat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:27:53 |
+| Lobby ID | 28553150605205295 |
+| Players | 2/10 |
+| Host Name | Lestat |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 14:28:02 |
 
 
