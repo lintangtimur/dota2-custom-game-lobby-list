@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150855891018 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | fujiwara^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:15:29 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150855982995 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | привет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:15:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150856139773 |
-| Players | 7/8 |
-| Host Name | rolgee |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:15:44 |
+| Lobby ID | 28553150856597982 |
+| Players | 2/10 |
+| Host Name | Nemy♡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:16:11 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:16:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150856597982 |
-| Players | 2/10 |
-| Host Name | Nemy♡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:16:11 |
+| Lobby ID | 28553150856849363 |
+| Players | 1/8 |
+| Host Name | Bangkongsrr |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 20:16:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150855696656 |
-| Players | 2/5 |
-| Host Name | слабость |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:15:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150855854507 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MoonMierda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:15:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150856721482 |
-| Players | 1/5 |
-| Host Name | LORD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:16:18 |
 
 
