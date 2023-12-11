@@ -29,49 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 17:06:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150708288665 |
-| Players | 1/8 |
-| Host Name | я бомбадир |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:14:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150709124624 |
-| Players | 8/15 |
-| Host Name | башмачки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:15:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150709401996 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:15:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150709346664 |
-| Players | 2/10 |
-| Host Name | Играл вообще? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 17:15:33 |
+| Lobby ID | 28553150710303038 |
+| Players | 4/8 |
+| Host Name | F |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:16:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150709466308 |
-| Players | 7/8 |
-| Host Name | Саня Кегля |
+| Lobby ID | 28553150710317780 |
+| Players | 3/8 |
+| Host Name | улюлю |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:15:43 |
+| Lobby Creation Time | Monday, December 11, 2023 17:16:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150710337462 |
+| Players | 2/10 |
+| Host Name | 空想家 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:16:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150706742801 |
-| Players | 5/10 |
-| Host Name | Zack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 17:11:49 |
+| Lobby ID | 28553150710344676 |
+| Players | 2/5 |
+| Host Name | competitor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:16:59 |
 
 
