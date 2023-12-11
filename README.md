@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150862505625 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | cpdd要暴力的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:22:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:18:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150860399178 |
-| Players | 23/24 |
-| Host Name | Delay no more |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:19:55 |
+| Lobby ID | 28553150863770550 |
+| Players | 3/15 |
+| Host Name | понос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:23:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:19:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150862117837 |
-| Players | 9/10 |
-| Host Name | Blob- |
+| Lobby ID | 28553150863832941 |
+| Players | 1/8 |
+| Host Name | ルテkill meテル hopeless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:21:37 |
+| Lobby Creation Time | Monday, December 11, 2023 20:23:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150863774645 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mode:kiyotaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:23:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150863770550 |
-| Players | 3/15 |
-| Host Name | понос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:23:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150863832941 |
-| Players | 1/8 |
-| Host Name | ルテkill meテル hopeless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:23:18 |
 
 
 |  | epic_boss_fight_nightmare |
