@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150644682565 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:32:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150645309394 |
+| Players | 3/8 |
+| Host Name | Анальная патока |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:33:24 |
 
 
 |  | epic_boss_fight_nightmare |
