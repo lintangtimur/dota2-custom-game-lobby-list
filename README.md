@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150868844350 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Angelico |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:28:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150865138805 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150887604744 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 'saqira悲しみ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:46:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150887939757 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | I can do it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:46:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150886271736 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:44:47 |
