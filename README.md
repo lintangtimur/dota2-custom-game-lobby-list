@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151325606600 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | K1 CESAR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:48:16 |
@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151328850510 |
-| Players | 1/10 |
-| Host Name | UNIVERSAL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:53:50 |
+| Lobby ID | 28553151328685959 |
+| Players | 5/10 |
+| Host Name | Su kachero de |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:53:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151327713362 |
-| Players | 10/15 |
-| Host Name | Stan ♂ Next ♂ Door |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:51:57 |
+| Lobby ID | 28553151328626076 |
+| Players | 6/10 |
+| Host Name | абдурозик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:53:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151328392584 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Псих |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:53:04 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 04:53:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151327976175 |
-| Players | 13/15 |
-| Host Name | RON |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:52:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151328516628 |
@@ -108,33 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Galletita Enamorada |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:53:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151328685959 |
-| Players | 4/10 |
-| Host Name | Su kachero de |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:53:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151328626076 |
-| Players | 4/10 |
-| Host Name | абдурозик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:53:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151329004798 |
-| Players | 3/8 |
-| Host Name | a. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:54:06 |
 
 
 |  | epic_boss_fight_challenger |
