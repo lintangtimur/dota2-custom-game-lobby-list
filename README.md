@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:26:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150542143932 |
+| Players | 1/15 |
+| Host Name | HOES MAD |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:26:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150540742506 |
