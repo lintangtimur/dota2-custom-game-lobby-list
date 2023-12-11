@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150867539132 |
-| Players | 2/8 |
-| Host Name | Saika |
+| Players | 3/8 |
+| Host Name | d0bry-j |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:26:55 |
 
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150858548225 |
-| Players | 5/8 |
-| Host Name | снайпер |
+| Lobby ID | 28553150867373509 |
+| Players | 2/8 |
+| Host Name | lizO4ka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:18:07 |
+| Lobby Creation Time | Monday, December 11, 2023 20:26:45 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150866885275 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 20:26:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150867373509 |
-| Players | 2/8 |
-| Host Name | lizO4ka |
+| Lobby ID | 28553150867908205 |
+| Players | 1/24 |
+| Host Name | АХАХАХАХАХАХААХА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:26:45 |
+| Lobby Creation Time | Monday, December 11, 2023 20:27:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:26:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150868053238 |
+| Players | 2/5 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:27:24 |
 
 
