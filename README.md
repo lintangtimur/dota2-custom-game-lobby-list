@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:06:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150535288344 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 12:12:31 |
+| Lobby ID | 28553150537967162 |
+| Players | 5/8 |
+| Host Name | Yamil :D |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:17:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150536601374 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:15:13 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150536780382 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | LIFE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:15:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150537967162 |
-| Players | 1/8 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:17:59 |
 
 
 |  | epic_boss_fight_nightmare |
