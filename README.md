@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151262200267 |
-| Players | 6/24 |
-| Host Name | MoNkeY D. CRuShiNg [ESP] |
+| Players | 7/24 |
+| Host Name | TikTok |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:21:51 |
 
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:02:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151263325456 |
-| Players | 7/15 |
-| Host Name | twitch.tv/4beelka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:23:13 |
+| Lobby ID | 28553151256791765 |
+| Players | 23/24 |
+| Host Name | ℍαяdШεll Ω |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:15:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151264219132 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | uptempo hardstyle |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:24:18 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151262839508 |
-| Players | 14/15 |
-| Host Name | MI PRIMERA CHAMBA COMO OFF :( |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:22:38 |
+| Lobby ID | 28553151264513243 |
+| Players | 5/15 |
+| Host Name | Water |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:24:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:20:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151264106084 |
-| Players | 1/8 |
-| Host Name | SAD BOY |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:24:10 |
+| Lobby ID | 28553151262474102 |
+| Players | 8/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:22:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151263225739 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jason Statham |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:23:06 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553151264270635 |
-| Players | 1/7 |
-| Host Name | ☹ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:24:22 |
 
 
