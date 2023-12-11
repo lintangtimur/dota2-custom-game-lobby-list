@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151177269253 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | COSMO EL GATO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:39:59 |
@@ -29,12 +29,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 01:41:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151179389875 |
-| Players | 1/10 |
-| Host Name | well well |
-| Region | PERU |
+| Lobby ID | 28553151179388397 |
+| Players | 3/8 |
+| Host Name | novak |
+| Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:42:42 |
 
 
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151175621728 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:38:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151179388397 |
-| Players | 3/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:42:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151179390867 |
-| Players | 8/10 |
-| Host Name | Shonex |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:42:42 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553151177086499 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Essentials |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:39:47 |
