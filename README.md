@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150666086497 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:07:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150668858465 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | просто я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:12:03 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150669882864 |
-| Players | 5/15 |
-| Host Name | Ⓗ︎ beardedZEX; |
+| Players | 7/15 |
+| Host Name | Manowarrior |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:13:38 |
 
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ghosty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:06:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150670385599 |
+| Players | 1/5 |
+| Host Name | pomny_xui |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:14:26 |
 
 
