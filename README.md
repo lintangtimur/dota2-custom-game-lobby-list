@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:43:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150550362855 |
-| Players | 14/15 |
-| Host Name | КОРСАР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:42:46 |
+| Lobby ID | 28553150550859718 |
+| Players | 2/10 |
+| Host Name | :Xaiko midaX:) |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:44:02 |
 
 
 |  | ot3_necropolis_ffa |
