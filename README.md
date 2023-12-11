@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150523658288 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Tucutu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:46:32 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150523693102 |
-| Players | 6/8 |
-| Host Name | Burger-Man |
+| Players | 1/8 |
+| Host Name | ExteR |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:46:37 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150523347894 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ГЕНА ЦИДАРМЯН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:45:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150523779823 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | URO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:46:50 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150524248378 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:47:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150524274369 |
-| Players | 1/24 |
-| Host Name | Lord Tolkien |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 11:48:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Incognito_Gaming |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 11:43:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150524354020 |
+| Players | 1/5 |
+| Host Name | xinncori |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 11:48:13 |
 
 
