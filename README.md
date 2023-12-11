@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150785599471 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:58:27 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150786812690 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Do you feel? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:00:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150787123607 |
+| Players | 1/8 |
+| Host Name | جورب القدر |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:00:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150786735384 |
-| Players | 3/10 |
-| Host Name | GBXXL |
+| Players | 2/10 |
+| Host Name | GaliLeo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:59:54 |
 
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | @FIONA SZE |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 11, 2023 18:59:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150787072848 |
+| Players | 1/10 |
+| Host Name | MoonMierda |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 19:00:19 |
 
 
