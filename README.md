@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150959466786 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | SanTy--To..!! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:52:51 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:57:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150963919027 |
-| Players | 13/15 |
-| Host Name | Calm down lads |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:57:12 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150964138721 |
-| Players | 8/10 |
-| Host Name | Lorf |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:57:25 |
+| Lobby ID | 28553150964729522 |
+| Players | 2/10 |
+| Host Name | huzlik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 21:57:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150964585175 |
+| Players | 1/24 |
+| Host Name | Lion el Messi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 21:57:51 |
 
 
 |  | ot3_gardens_duo |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150964545521 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | dlySins |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:57:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150964585175 |
-| Players | 1/24 |
-| Host Name | Lion el Messi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 21:57:51 |
 
 
 |  | epic_boss_fight_normal |
