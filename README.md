@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151053110906 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | οὐροβόρος |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:27:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151053915689 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Солевой король |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:27:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151053028261 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Zeoleur |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:27:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151053737438 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 23:27:44 |
@@ -58,38 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151049926519 |
-| Players | 7/8 |
-| Host Name | El Pejerrete |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 23:23:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151053171309 |
-| Players | 8/10 |
-| Host Name | ThisLifeRiding® |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:27:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151053232482 |
-| Players | 7/8 |
-| Host Name | Дейнеріс |
+| Lobby ID | 28553151054120432 |
+| Players | 1/8 |
+| Host Name | Am1le |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:27:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151051010836 |
-| Players | 23/24 |
-| Host Name | Act Hee CEMD-435 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 23:24:59 |
+| Lobby Creation Time | Monday, December 11, 2023 23:28:07 |
 
 
 |  | epic_boss_fight_normal |
