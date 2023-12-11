@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150502764855 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | NerF.Fearle$$ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:03:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150503513439 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | attempting to regain a clear min |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:05:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150503033337 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:04:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150498266530 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:05 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150503832611 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Alessia Cara |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:06:14 |
