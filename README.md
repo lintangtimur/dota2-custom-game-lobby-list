@@ -5,37 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | DotaPlayer1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150591274610 |
-| Players | 9/10 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:03:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150592159988 |
-| Players | 4/15 |
-| Host Name | Парнокопытный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:05:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150591378737 |
-| Players | 7/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:04:05 |
 
 
 |  | ot3_gardens_duo |
@@ -45,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:59:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150592159988 |
+| Players | 6/15 |
+| Host Name | Парнокопытный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:05:29 |
 
 
 |  | ot3_jungle_quintet |
