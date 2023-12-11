@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150855376473 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ^1 BK| Frnbb |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:14:59 |
@@ -56,49 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:05:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150857061771 |
-| Players | 12/15 |
-| Host Name | не убивайте пж |
+| Lobby ID | 28553150857549825 |
+| Players | 1/10 |
+| Host Name | GM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:16:39 |
+| Lobby Creation Time | Monday, December 11, 2023 20:17:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150857187335 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:16:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150857258641 |
-| Players | 5/8 |
-| Host Name | снайпер |
+| Lobby ID | 28553150857831517 |
+| Players | 2/15 |
+| Host Name | no shortcuts just hardwork |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:16:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150857549825 |
-| Players | 2/10 |
-| Host Name | sEropch1k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:17:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150856597982 |
-| Players | 8/10 |
-| Host Name | Чекушка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:16:11 |
+| Lobby Creation Time | Monday, December 11, 2023 20:17:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150857205221 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Niko🔥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:16:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150857552125 |
+| Players | 2/5 |
+| Host Name | вфывфы |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:17:08 |
 
 
