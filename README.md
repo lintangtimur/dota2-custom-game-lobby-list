@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150595500997 |
-| Players | 1/10 |
-| Host Name | ABSOLUTE_KIYOTAKA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:11:28 |
+| Lobby ID | 28553150593875567 |
+| Players | 9/10 |
+| Host Name | Soulwarrior |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 14:08:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150589004962 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:59:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150592718787 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Fucking Pencil |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:06:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150595255272 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | каламитас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:11:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150581080569 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | DotaPlayer1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | boaindoor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:07:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150595903083 |
+| Players | 1/5 |
+| Host Name | Kinda |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:12:09 |
 
 
