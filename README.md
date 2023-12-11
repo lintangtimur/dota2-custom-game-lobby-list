@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150485632422 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | escape from reality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:27:05 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150486672736 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | El Tio Custom |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:29:01 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150482991640 |
+| Players | 8/10 |
+| Host Name | Master_Riuji |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:22:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150485575821 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Utak Mo May Ubo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:26:59 |
