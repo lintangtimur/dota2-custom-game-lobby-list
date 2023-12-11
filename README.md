@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150447628429 |
-| Players | 4/8 |
-| Host Name | 123qweasdzxc |
+| Lobby ID | 28553150448498603 |
+| Players | 7/8 |
+| Host Name | فلادينير أغويلار سانشيز |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:11:57 |
+| Lobby Creation Time | Monday, December 11, 2023 09:13:37 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150446474675 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | huge robot penguin |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:09:42 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:13:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150448498603 |
-| Players | 5/8 |
-| Host Name | فلادينير أغويلار سانشيز |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:13:37 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150446106574 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raikenzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:12:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150448699555 |
+| Players | 1/5 |
+| Host Name | KoH4eHbIu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 09:14:01 |
 
 
