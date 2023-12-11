@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150639437671 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Huat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150640873570 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | fashion demon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:26:43 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 15:28:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150641879910 |
-| Players | 1/15 |
-| Host Name | MR。 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:28:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150639716166 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Isekai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:56 |
@@ -104,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150641330431 |
-| Players | 2/5 |
-| Host Name | ZXCпалкой в жопе |
+| Players | 1/5 |
+| Host Name | my heart doesn't exist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:27:24 |
 
