@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:52:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150477079196 |
-| Players | 1/8 |
-| Host Name | Startac |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 10:11:01 |
+| Lobby ID | 28553150477152935 |
+| Players | 1/24 |
+| Host Name | espectro |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:11:10 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150476223980 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Intankavel o Bostil |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 10:09:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150475629124 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | BobbyHillsWikiFeetProfile |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:08:12 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150476890571 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:10:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150477051226 |
-| Players | 6/8 |
-| Host Name | The chosen one ♠ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:10:58 |
 
 
 |  | epic_boss_fight_nightmare |
