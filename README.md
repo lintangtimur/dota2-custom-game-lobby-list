@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150694251436 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:52:28 |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:54:04 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150696657930 |
-| Players | 1/7 |
-| Host Name | smd |
+| Lobby ID | 28553150697110906 |
+| Players | 1/5 |
+| Host Name | Гена Цидормян |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:56:29 |
+| Lobby Creation Time | Monday, December 11, 2023 16:57:12 |
 
 
