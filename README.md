@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150531676329 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:04:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150530148766 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150533140886 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ZдраVствуй СалоРе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:07:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150533323312 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | dealessandro15 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:08:22 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:08:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150533382060 |
-| Players | 1/10 |
-| Host Name | Chikogato |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 12:08:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150533543698 |
-| Players | 3/15 |
-| Host Name | Mista Wambo V2.9.3 Reconstructed |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 12:08:50 |
+| Lobby ID | 28553150533711037 |
+| Players | 4/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:09:11 |
 
 
 |  | epic_boss_fight_nightmare |
