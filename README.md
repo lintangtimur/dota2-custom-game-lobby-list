@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150868424531 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 20:27:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150868194711 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Yuta |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:27:33 |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:28:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150869564237 |
-| Players | 2/10 |
-| Host Name | Raoi |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 20:28:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150869447585 |
-| Players | 1/8 |
-| Host Name | Fo' sho' |
+| Lobby ID | 28553150869670910 |
+| Players | 2/8 |
+| Host Name | Ryōiki Tenkai |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:28:45 |
+| Lobby Creation Time | Monday, December 11, 2023 20:28:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150869732857 |
+| Players | 2/15 |
+| Host Name | ТРАХАТЕЛЬНЫЙ МЕХ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:29:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150869742484 |
+| Players | 1/24 |
+| Host Name | Taweret |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 11, 2023 20:29:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cupcakke_b1tch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:28:14 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553150869575708 |
-| Players | 1/7 |
-| Host Name | САППОРТ БОГА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:28:53 |
 
 
