@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150726292121 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Флешбек Деда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:39:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150727184417 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CyberBro (на победу) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:40:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150725681839 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:38:26 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150727481626 |
-| Players | 1/8 |
-| Host Name | Midnight Dew |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, December 11, 2023 17:41:07 |
+| Lobby ID | 28553150727588126 |
+| Players | 3/8 |
+| Host Name | ᲼᲼᲼᲼᲼᲼᲼ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:41:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150727326214 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:40:51 |
