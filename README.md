@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:37:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150688022491 |
-| Players | 14/15 |
-| Host Name | KAWAii |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:41:01 |
+| Lobby ID | 28553150688581467 |
+| Players | 3/10 |
+| Host Name | ensa.berk |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 16:42:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150688221057 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | boltak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:41:24 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:40:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150688581467 |
-| Players | 2/10 |
-| Host Name | ensa.berk |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:42:07 |
+| Lobby ID | 28553150688694738 |
+| Players | 1/15 |
+| Host Name | 奤陪朋友慢 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:42:21 |
 
 
 |  | epic_boss_fight_nightmare |
