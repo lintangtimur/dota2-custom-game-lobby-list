@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150555469689 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | kielbasa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:55:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150555219181 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 12:54:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150554987318 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Gin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:54:04 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sassy The Sasquatch |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, December 11, 2023 12:56:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150554968980 |
-| Players | 1/5 |
-| Host Name | Lordaemon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 12:54:02 |
 
 
 |  | epic_boss_fight_normal |
