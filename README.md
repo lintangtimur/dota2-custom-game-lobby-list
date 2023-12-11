@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150502764855 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Meu Cachorro Chocolinho |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:03:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150504929942 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Grim |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:08:33 |
@@ -65,19 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 11:05:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150505166770 |
-| Players | 1/10 |
-| Host Name | Zyzz (2011) |
+| Lobby ID | 28553150505243952 |
+| Players | 1/24 |
+| Host Name | Shrimp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 11:09:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150505271555 |
+| Players | 1/15 |
+| Host Name | House |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:09:03 |
+| Lobby Creation Time | Monday, December 11, 2023 11:09:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150500034188 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:58:07 |
