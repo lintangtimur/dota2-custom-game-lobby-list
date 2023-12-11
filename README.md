@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:33:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150610259126 |
-| Players | 4/8 |
-| Host Name | анти мага |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:36:32 |
+| Lobby ID | 28553150612475818 |
+| Players | 19/24 |
+| Host Name | Kamikaze |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:40:18 |
 
 
 |  | ot3_desert_octet |
@@ -67,26 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150611775217 |
-| Players | 14/15 |
-| Host Name | Dota 2 Groomologist |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:39:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150612475818 |
-| Players | 18/24 |
-| Host Name | Kamikaze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 14:40:18 |
+| Lobby ID | 28553150614428112 |
+| Players | 1/15 |
+| Host Name | Handsomejke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:44:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150611881124 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:39:14 |
