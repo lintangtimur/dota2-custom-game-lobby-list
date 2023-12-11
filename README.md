@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150459981379 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Так прекрасен |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:34:45 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:34:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150460834749 |
-| Players | 5/8 |
-| Host Name | El Gotto Cuba |
+| Lobby ID | 28553150461210224 |
+| Players | 2/24 |
+| Host Name | ALONE |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:36:16 |
+| Lobby Creation Time | Monday, December 11, 2023 09:36:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150461200540 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Gucci |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150461210224 |
-| Players | 1/24 |
-| Host Name | ALONE |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:36:56 |
 
 
 |  | epic_boss_fight_nightmare |
