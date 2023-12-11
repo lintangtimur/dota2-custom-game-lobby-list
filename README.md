@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150694389723 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Toddler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:52:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150694142126 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ub3r d3ath d3l1v3ry* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:52:17 |
@@ -31,38 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150692479529 |
-| Players | 1/24 |
-| Host Name | ⁶⁶⁶⸸DeaDli⛧⁶⁶⁶ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 16:49:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28553150694112352 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:52:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150694482969 |
-| Players | 3/8 |
-| Host Name | БОНДИД-Джамшут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:52:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150694275954 |
-| Players | 3/8 |
-| Host Name | Дон Ягон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:52:30 |
+| Lobby ID | 28553150694650234 |
+| Players | 1/24 |
+| Host Name | ⁶⁶⁶⸸DeaDli⛧⁶⁶⁶ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 16:53:08 |
 
 
 |  | epic_boss_fight_nightmare |
