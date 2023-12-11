@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150623673695 |
-| Players | 1/15 |
-| Host Name | hehe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:00:05 |
+| Lobby ID | 28553150626140425 |
+| Players | 2/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 15:04:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150625453162 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | John |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:02:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150624601852 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:01:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150626024949 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | mode epileptick1d 13 y.o. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:03:49 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | P'Mike Sudxa่o |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:03:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150626119892 |
-| Players | 1/5 |
-| Host Name | + MISANTHROP + [RUS] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:03:58 |
 
 
