@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150548071073 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | berhala kena reject |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:37:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150548555490 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ketlle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:38:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150547440007 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | StreetDogege |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:36:35 |
