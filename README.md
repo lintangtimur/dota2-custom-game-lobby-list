@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150548416866 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:38:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150547644349 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | timеr nе pidaras |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:36:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150548071073 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | berhala kena reject |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:37:46 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:37:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150547877719 |
-| Players | 14/15 |
-| Host Name | ПукЖены |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:37:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150548925929 |
-| Players | 7/10 |
-| Host Name | kakabob |
+| Lobby ID | 28553150548555490 |
+| Players | 6/10 |
+| Host Name | ketlle |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:39:22 |
+| Lobby Creation Time | Monday, December 11, 2023 12:38:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150547440007 |
+| Players | 7/24 |
+| Host Name | StreetDogege |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:36:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:36:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150547440007 |
-| Players | 6/24 |
-| Host Name | StreetDogege |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 12:36:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150548555490 |
-| Players | 4/10 |
-| Host Name | ketlle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 12:38:40 |
 
 
