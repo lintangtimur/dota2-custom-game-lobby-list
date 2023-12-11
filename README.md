@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150468013635 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:52:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150468246999 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:52:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150468636031 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | KeKu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:53:35 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:53:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150466484933 |
-| Players | 9/10 |
-| Host Name | We Are Electric |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 09:48:42 |
+| Lobby ID | 28553150468894649 |
+| Players | 1/10 |
+| Host Name | 240 km/h |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 09:54:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150468895760 |
+| Players | 4/8 |
+| Host Name | Brrr |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 09:54:11 |
 
 
 |  | epic_boss_fight_nightmare |
