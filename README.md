@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150738797371 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Charøn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:58:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150740608147 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:01:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150740597018 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:01:19 |
