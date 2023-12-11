@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151035463556 |
-| Players | 2/8 |
-| Host Name | Kartoha |
+| Lobby ID | 28553151035262177 |
+| Players | 13/15 |
+| Host Name | Бабба |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:09:01 |
+| Lobby Creation Time | Monday, December 11, 2023 23:08:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,42 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:47:03 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151035432347 |
-| Players | 6/10 |
-| Host Name | слей лайн дорогой мидер пж!!! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:08:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151035622802 |
-| Players | 1/24 |
-| Host Name | b-ウサギ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 23:09:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151034983970 |
-| Players | 4/8 |
-| Host Name | akasha |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:08:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151035262177 |
-| Players | 10/15 |
-| Host Name | Бабба |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 23:08:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151035285198 |
@@ -74,10 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:08:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151035728792 |
+| Players | 1/24 |
+| Host Name | Sally/سالي |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 23:09:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151035769016 |
+| Players | 1/10 |
+| Host Name | Mandraf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:09:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151033007035 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Qwefir |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 23:06:30 |
