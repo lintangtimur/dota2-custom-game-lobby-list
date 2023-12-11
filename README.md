@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150728923815 |
-| Players | 13/15 |
-| Host Name | Dragon |
+| Lobby ID | 28553150729969353 |
+| Players | 12/15 |
+| Host Name | Midas farming club |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:43:32 |
+| Lobby Creation Time | Monday, December 11, 2023 17:45:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150729361857 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:44:15 |
@@ -31,29 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150729357839 |
+| Lobby ID | 28553150730305473 |
 | Players | 1/8 |
 | Host Name | where is my mind(?) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:44:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150729415551 |
-| Players | 7/10 |
-| Host Name | Дядя Вова |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:44:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150729969353 |
-| Players | 5/15 |
-| Host Name | Midas farming club |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:45:16 |
+| Lobby Creation Time | Monday, December 11, 2023 17:45:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150727326214 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mr.Dude |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:40:51 |
