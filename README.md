@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150930827900 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | CEO говна |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:25:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150928179245 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:23:30 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:22:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150931390720 |
-| Players | 5/10 |
-| Host Name | 1monthbusiness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:26:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150931896666 |
-| Players | 1/8 |
-| Host Name | Zero:3 |
+| Lobby ID | 28553150932087198 |
+| Players | 2/8 |
+| Host Name | Джул |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:26:53 |
+| Lobby Creation Time | Monday, December 11, 2023 21:27:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,27 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150931653574 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | FLY - FLY |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 21:26:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150922438910 |
-| Players | 3/5 |
-| Host Name | Tezez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:18:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150931925831 |
-| Players | 1/5 |
-| Host Name | TOO SLOW SEE DOG |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:26:55 |
 
 
