@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150534406705 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Хлюп хлюп +3.1к |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:10:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150535355870 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MOJO JOJO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:12:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150533045401 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:07:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150534583075 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | without emotional |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:11:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150535734490 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Sultan™ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:13:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150535288344 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:12:31 |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:13:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150536120406 |
+| Players | 5/8 |
+| Host Name | грустный |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:14:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150536137876 |
+| Players | 1/8 |
+| Host Name | Practice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 12:14:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150533137748 |
+| Players | 13/15 |
+| Host Name | Missi |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 12:07:58 |
 
 
 |  | epic_boss_fight_nightmare |
