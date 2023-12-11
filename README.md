@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151392627251 |
-| Players | 12/15 |
-| Host Name | Ruth |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:56:43 |
+| Lobby ID | 28553151393502994 |
+| Players | 1/8 |
+| Host Name | ½Pro¼Noob¾Jihadi |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:58:57 |
 
 
 |  | ot3_desert_octet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151392735864 |
-| Players | 19/24 |
-| Host Name | Zacarias Dog |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:57:00 |
+| Lobby ID | 28553151393338579 |
+| Players | 1/8 |
+| Host Name | Drakalian the Dragon King |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:58:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151392895072 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:57:24 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stefan Pragner |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:56:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151393338579 |
-| Players | 1/8 |
-| Host Name | Drakalian the Dragon King |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:58:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151393502994 |
-| Players | 1/8 |
-| Host Name | ½Pro¼Noob¾Jihadi |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:58:57 |
 
 
 |  | epic_boss_fight_nightmare |
