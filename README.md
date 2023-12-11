@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150968161003 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Yeezuss愛生 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 22:01:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150969193200 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:02:19 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:01:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150965742777 |
-| Players | 7/8 |
-| Host Name | Ace |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 21:58:59 |
+| Lobby ID | 28553150968893751 |
+| Players | 7/10 |
+| Host Name | abobanani |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:02:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 22:00:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150968893751 |
-| Players | 2/10 |
-| Host Name | abobanani |
+| Lobby ID | 28553150970168035 |
+| Players | 2/8 |
+| Host Name | 愛$ħนҝáҝน愛 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:02:01 |
+| Lobby Creation Time | Monday, December 11, 2023 22:03:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150970018026 |
-| Players | 4/24 |
-| Host Name | m |
+| Lobby ID | 28553150970227124 |
+| Players | 1/24 |
+| Host Name | 恁戜 |
 | Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 22:03:05 |
+| Lobby Creation Time | Monday, December 11, 2023 22:03:17 |
 
 
 |  | epic_boss_fight_normal |
