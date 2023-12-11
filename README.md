@@ -94,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553150605205295 |
-| Players | 9/10 |
-| Host Name | Lestat |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 14:28:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28553150611881124 |
 | Players | 3/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:39:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150612456242 |
+| Players | 1/5 |
+| Host Name | MeepoCheat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:40:16 |
 
 
