@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150863774645 |
-| Players | 8/10 |
-| Host Name | mode:kiyotaka |
+| Lobby ID | 28553150865362332 |
+| Players | 5/10 |
+| Host Name | Получи, слащавый педик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:23:15 |
+| Lobby Creation Time | Monday, December 11, 2023 20:24:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:18:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150863770550 |
-| Players | 12/15 |
-| Host Name | понос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:23:15 |
+| Lobby ID | 28553150865138805 |
+| Players | 1/24 |
+| Host Name | Ganan los chamos, pierde mi fami |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150861521473 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | cousin |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:21:01 |
@@ -78,9 +78,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150864436635 |
 | Players | 1/8 |
-| Host Name | Nevermore better. |
+| Host Name | gay-annihilator |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:23:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150865048627 |
+| Players | 2/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:24:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150863832941 |
+| Players | 7/8 |
+| Host Name | ルテkill meテル hopeless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:23:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150865492180 |
+| Players | 1/15 |
+| Host Name | Влад |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:24:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150859736160 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Ginger or Ni...r? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:19:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150864832418 |
-| Players | 1/5 |
-| Host Name | Udarnui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:24:17 |
 
 
