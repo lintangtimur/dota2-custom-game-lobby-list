@@ -5,37 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151196722535 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | gaston |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:04:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151201662304 |
-| Players | 5/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:09:59 |
+| Lobby ID | 28553151203239772 |
+| Players | 8/15 |
+| Host Name | Stizi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:11:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151202420629 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Without Andrea |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:10:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151202908474 |
-| Players | 3/15 |
-| Host Name | RackaMackaFo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:11:24 |
+| Lobby ID | 28553151203210304 |
+| Players | 4/8 |
+| Host Name | прости меня моя л |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:11:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151201792736 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | how u diff me? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:10:07 |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151201039820 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | DJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:09:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151203082077 |
+| Players | 2/15 |
+| Host Name | _-↑MayerŠ↑-_J® |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:11:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151201697036 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | GGC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:10:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151202994067 |
-| Players | 1/5 |
-| Host Name | Suzuya Juuzou |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:11:30 |
 
 
