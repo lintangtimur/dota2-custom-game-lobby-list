@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151089063010 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Ostapi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:05:48 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151093085414 |
-| Players | 1/8 |
-| Host Name | Владик быстрые па |
+| Lobby ID | 28553151093398577 |
+| Players | 3/10 |
+| Host Name | Musi |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:10:05 |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:10:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151090819949 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 波兰中锋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:07:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151093255347 |
-| Players | 2/10 |
-| Host Name | Waonacibas |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:10:16 |
 
 
 |  | ot3_gardens_duo |
