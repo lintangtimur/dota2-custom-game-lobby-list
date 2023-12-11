@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150848474096 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | s2c.8ball |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:08:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150841135784 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | R243 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:00:31 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150850684540 |
-| Players | 8/8 |
-| Host Name | Yaken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:10:21 |
+| Lobby ID | 28553150852596089 |
+| Players | 1/8 |
+| Host Name | Durial |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:12:14 |
 
 
 |  | ot3_desert_octet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150852511770 |
-| Players | 2/15 |
-| Host Name | Thor |
+| Players | 3/15 |
+| Host Name | Spartak |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:12:10 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150852530023 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | zerg541 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:12:11 |
@@ -76,11 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150851583698 |
-| Players | 9/10 |
-| Host Name | Düt Düt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:11:15 |
+| Lobby ID | 28553150852675839 |
+| Players | 1/10 |
+| Host Name | да |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 20:12:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150836224507 |
+| Players | 8/10 |
+| Host Name | q as in cucumber |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 19:55:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150852743735 |
+| Players | 6/10 |
+| Host Name | 挽歌 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Monday, December 11, 2023 20:12:23 |
 
 
 |  | epic_boss_fight_nightmare |
