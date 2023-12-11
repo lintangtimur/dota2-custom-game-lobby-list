@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150954833814 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 21:48:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150959530898 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Pan con locro |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:52:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150958848571 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | 5h4k3R |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:52:14 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150950334620 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | wake me up when autochess ends |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:43:45 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150962313175 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | мне страшно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:55:38 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150962364655 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Лепеха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:55:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150962834237 |
-| Players | 1/15 |
-| Host Name | slippers+socks |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 21:56:09 |
+| Lobby ID | 28553150962973667 |
+| Players | 2/10 |
+| Host Name | Нарды онлайн |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:56:17 |
 
 
 |  | epic_boss_fight_normal |
