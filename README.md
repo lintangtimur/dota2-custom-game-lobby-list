@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151366779918 |
-| Players | 6/8 |
-| Host Name | MOJO JOJO |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:04:25 |
+| Lobby ID | 28553151367665277 |
+| Players | 2/10 |
+| Host Name | tbgk7 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:06:08 |
 
 
 |  | ot3_desert_octet |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151366696288 |
 | Players | 2/10 |
-| Host Name | superchulon |
+| Host Name | Tilápio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:04:15 |
 
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151366337740 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | JULVEN♠♦ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:03:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151367406873 |
-| Players | 8/10 |
-| Host Name | el gato mewando |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:05:38 |
+| Lobby ID | 28553151367335956 |
+| Players | 7/15 |
+| Host Name | VALERA DOMKRAT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:05:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,36 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151367105473 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:05:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151367335956 |
-| Players | 3/15 |
-| Host Name | VALERA DOMKRAT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:05:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151367598422 |
-| Players | 1/8 |
-| Host Name | ☺ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:06:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151359189714 |
-| Players | 9/10 |
-| Host Name | Maceo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:49:07 |
 
 
