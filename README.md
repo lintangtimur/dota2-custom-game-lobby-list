@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151005528927 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | envia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:37:25 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151005541784 |
-| Players | 6/8 |
-| Host Name | 哈斯比克<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:37:26 |
+| Lobby ID | 28553151006041555 |
+| Players | 1/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 22:37:55 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151005887097 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SeDoy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:37:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151005305319 |
-| Players | 6/8 |
-| Host Name | фанат ам няма |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 22:37:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151005409866 |
-| Players | 1/10 |
-| Host Name | || Puppet™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:37:18 |
+| Lobby ID | 28553151005703446 |
+| Players | 2/10 |
+| Host Name | *** |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:37:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SablengTV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:37:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151005703446 |
-| Players | 2/10 |
-| Host Name | *** |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 22:37:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151006025817 |
-| Players | 1/5 |
-| Host Name | ProTech |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 22:37:54 |
 
 
