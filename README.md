@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150697947256 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Zyklon B |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:58:31 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:57:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150700296404 |
-| Players | 9/10 |
-| Host Name | quasar |
+| Lobby ID | 28553150700954530 |
+| Players | 3/8 |
+| Host Name | 死 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:02:07 |
+| Lobby Creation Time | Monday, December 11, 2023 17:03:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150700939162 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:03:05 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150700954530 |
-| Players | 2/8 |
-| Host Name | 死 |
+| Lobby ID | 28553150701105155 |
+| Players | 4/8 |
+| Host Name | Fapanya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:03:06 |
+| Lobby Creation Time | Monday, December 11, 2023 17:03:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 魔术师 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:01:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150701020623 |
+| Players | 1/5 |
+| Host Name | школьница |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:03:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150701085007 |
+| Players | 1/5 |
+| Host Name | Пчелинный агрохолдинг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:03:18 |
 
 
