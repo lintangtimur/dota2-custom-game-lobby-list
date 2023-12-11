@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150502764855 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | NerF.Fearle$$ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:03:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150503243504 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 戀•ᴀssᴀsɪɴ•戀 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:04:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150498266530 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:54:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150503426028 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 11:05:22 |
