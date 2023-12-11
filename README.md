@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150879318282 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | HighOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:37:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150878898686 |
-| Players | 14/15 |
-| Host Name | привет |
+| Lobby ID | 28553150879578365 |
+| Players | 4/8 |
+| Host Name | BFGTR.run |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:37:30 |
+| Lobby Creation Time | Monday, December 11, 2023 20:38:08 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150865138805 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150878132222 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | disappeared<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:36:48 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sizzlemeaspork |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:37:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150879578365 |
-| Players | 1/8 |
-| Host Name | BFGTR.run |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:38:08 |
 
 
 |  | epic_boss_fight_nightmare |
