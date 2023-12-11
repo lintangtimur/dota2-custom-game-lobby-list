@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150868424531 |
-| Players | 14/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 20:27:46 |
+| Lobby ID | 28553150869732857 |
+| Players | 4/15 |
+| Host Name | ТРАХАТЕЛЬНЫЙ МЕХ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:29:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150868194711 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Yuta |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:27:33 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150869670910 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Ryōiki Tenkai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:28:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150869732857 |
-| Players | 2/15 |
-| Host Name | ТРАХАТЕЛЬНЫЙ МЕХ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:29:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150869742484 |
-| Players | 1/24 |
-| Host Name | Taweret |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, December 11, 2023 20:29:02 |
+| Lobby ID | 28553150869849086 |
+| Players | 1/10 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 20:29:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150867338681 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:26:43 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150868913913 |
-| Players | 1/7 |
-| Host Name | Cupcakke_b1tch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:28:14 |
 
 
