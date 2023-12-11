@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150519889243 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Pavlo N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:37:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150515945119 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | & |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:30:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150519688975 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Grey Light |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 11:37:24 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150517952643 |
-| Players | 9/10 |
-| Host Name | Tomate Barraza |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:34:08 |
+| Lobby ID | 28553150520493254 |
+| Players | 1/10 |
+| Host Name | MMR=JUST A NUMBER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 11:38:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150520319028 |
-| Players | 3/8 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:38:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150520493254 |
-| Players | 1/10 |
-| Host Name | MMR=JUST A NUMBER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 11:38:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150520518557 |
+| Lobby ID | 28553150520559481 |
 | Players | 1/8 |
-| Host Name | @bel...xD |
+| Host Name | The Perfect Girl |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 11:38:58 |
+| Lobby Creation Time | Monday, December 11, 2023 11:39:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150520605505 |
+| Players | 1/15 |
+| Host Name | Mrs.KING |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 11:39:08 |
 
 
 |  | epic_boss_fight_hard |
@@ -95,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150517665597 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:33:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150520589971 |
+| Players | 1/10 |
+| Host Name | Haiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 11:39:06 |
 
 
