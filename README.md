@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150877724335 |
+| Players | 8/15 |
+| Host Name | グレッグ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:36:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150877065950 |
-| Players | 4/8 |
-| Host Name | жопный прыщ |
+| Lobby ID | 28553150874850231 |
+| Players | 7/8 |
+| Host Name | 死神AvarmicH死神 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:35:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150874568765 |
-| Players | 22/24 |
-| Host Name | m |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:33:30 |
+| Lobby Creation Time | Monday, December 11, 2023 20:33:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150865138805 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150876338030 |
-| Players | 7/10 |
-| Host Name | Ваз |
+| Lobby ID | 28553150878132222 |
+| Players | 2/10 |
+| Host Name | disappeared<3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:35:08 |
+| Lobby Creation Time | Monday, December 11, 2023 20:36:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,33 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:36:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150877724335 |
-| Players | 3/15 |
-| Host Name | グレッグ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:36:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150877778243 |
-| Players | 1/8 |
-| Host Name | 32132123132123123123121323123112 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:36:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150876806360 |
-| Players | 14/15 |
-| Host Name | oNe |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:35:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -158,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150876932530 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 20:35:41 |
