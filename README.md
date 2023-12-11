@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150629242693 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | грустни дэнсер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:08:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150628771959 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | #1 Telvanni Wizard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:08:07 |
