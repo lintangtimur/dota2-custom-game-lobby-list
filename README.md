@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150639881424 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | oktb_dm |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:25:11 |
@@ -41,28 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150639408826 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | pupka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150639994107 |
+| Players | 7/8 |
+| Host Name | only 2 pos <3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 15:25:21 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150639745813 |
-| Players | 4/10 |
-| Host Name | OUTbreak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:24:58 |
+| Lobby ID | 28553150640219784 |
+| Players | 2/10 |
+| Host Name | br0 pls |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 15:25:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150639994107 |
-| Players | 5/8 |
-| Host Name | only 2 pos <3 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 15:25:21 |
+| Lobby ID | 28553150640293113 |
+| Players | 2/8 |
+| Host Name | TripleSSS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:25:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150639716166 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Isekai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:56 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553150640028694 |
-| Players | 3/7 |
-| Host Name | санчизес |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:25:24 |
 
 
