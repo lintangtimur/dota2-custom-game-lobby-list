@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150747464739 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | furiano |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:10:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150746445085 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Big Melk |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 18:09:29 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150746199708 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:09:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150746924834 |
-| Players | 7/8 |
-| Host Name | techno |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:10:07 |
 
 
 |  | ot3_gardens_duo |
@@ -113,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150746350140 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:09:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150747169933 |
-| Players | 1/5 |
-| Host Name | Kenshin日村 検診 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 18:10:27 |
 
 
