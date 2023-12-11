@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150778530659 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 18:49:19 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:24:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150888993383 |
-| Players | 1/15 |
-| Host Name | Pan con locro |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 20:47:29 |
+| Lobby ID | 28553150890243835 |
+| Players | 6/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:48:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150889084936 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Martillazo en el ano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 20:47:34 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150889825777 |
-| Players | 14/15 |
-| Host Name | ’Mr . Big |
+| Lobby ID | 28553150890621159 |
+| Players | 7/15 |
+| Host Name | :) |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:48:17 |
+| Lobby Creation Time | Monday, December 11, 2023 20:49:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150890243835 |
-| Players | 3/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:48:41 |
+| Lobby ID | 28553150890549972 |
+| Players | 1/24 |
+| Host Name | 逐逐月 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:48:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150890427724 |
-| Players | 1/10 |
-| Host Name | TONGKENG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:48:52 |
 
 
