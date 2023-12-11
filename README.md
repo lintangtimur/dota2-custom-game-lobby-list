@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151384292498 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:36:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151386609956 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Dog Si Ezuas |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151389921194 |
+| Lobby ID | 28553151389702422 |
 | Players | 1/15 |
-| Host Name | plavi tigar |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:49:58 |
+| Host Name | psychosocial |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:49:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:49:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151389479406 |
-| Players | 8/10 |
-| Host Name | Puto el que lo lea |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:48:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151389586777 |
-| Players | 7/10 |
-| Host Name | NaIB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:49:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151389695313 |
@@ -101,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 06:49:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553151389702422 |
-| Players | 1/15 |
-| Host Name | psychosocial |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:49:24 |
+| Lobby ID | 28553151389985094 |
+| Players | 1/5 |
+| Host Name | PMC Wagner Group |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:50:08 |
 
 
