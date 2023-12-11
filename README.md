@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150998163038 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 共感覚 ~ 夢 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150998272960 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | вошел в аналы |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150998484499 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 22:30:36 |
@@ -68,16 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150996328961 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Suco de Fruta |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 11, 2023 22:28:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150998842124 |
+| Players | 2/15 |
+| Host Name | P A z |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 22:30:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150998832852 |
+| Players | 5/10 |
+| Host Name | Yelix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 22:30:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150995406902 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | KazuyA |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 11, 2023 22:27:38 |
