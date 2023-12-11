@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150481211749 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | .DETH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:18:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150479902734 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:22:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150480809727 |
-| Players | 9/10 |
-| Host Name | Alien |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 10:18:07 |
+| Lobby ID | 28553150483368871 |
+| Players | 1/8 |
+| Host Name | eternal tilted |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:22:53 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150482948455 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:22:07 |
@@ -104,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150483183934 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | unconfident |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:22:33 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150483457117 |
+| Players | 1/24 |
+| Host Name | Sneaky Murloc |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 11, 2023 10:23:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150482397239 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:21:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150483360447 |
-| Players | 1/5 |
-| Host Name | CUERVO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:22:52 |
 
 
