@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150562313790 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | my gf married by another man |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:09:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150564893088 |
-| Players | 13/15 |
-| Host Name | baoeq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:14:45 |
+| Lobby ID | 28553150565450755 |
+| Players | 3/8 |
+| Host Name | amaster |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 13:15:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:12:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150565450755 |
-| Players | 3/8 |
-| Host Name | amaster |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 13:15:50 |
+| Lobby ID | 28553150565659169 |
+| Players | 3/15 |
+| Host Name | ArSkay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:16:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:07:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553150565722144 |
+| Players | 1/5 |
+| Host Name | Wizard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:16:21 |
 
 
