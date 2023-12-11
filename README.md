@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150600536161 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:20:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150601470785 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | 你生我梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:21:44 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150602671331 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 14:23:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150602505067 |
-| Players | 7/8 |
-| Host Name | giant space crab |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:23:29 |
+| Lobby ID | 28553150602976954 |
+| Players | 1/24 |
+| Host Name | Saudda |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 14:24:17 |
 
 
 |  | epic_boss_fight_nightmare |
