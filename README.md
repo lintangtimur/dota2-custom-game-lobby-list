@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150559402456 |
-| Players | 14/15 |
-| Host Name | Сквиртухай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:03:44 |
+| Lobby ID | 28553150561360320 |
+| Players | 6/10 |
+| Host Name | Saudda |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 13:07:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150559121096 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | AirSalad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:03:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150559900042 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:04:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150558023551 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:00:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150560207812 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Javier Milei |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:05:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150560960731 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | timеr nе pidaras |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:07:04 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:01:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150561360320 |
-| Players | 5/10 |
-| Host Name | Saudda |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 13:07:53 |
+| Lobby ID | 28553150562313790 |
+| Players | 1/24 |
+| Host Name | walang gana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:09:46 |
 
 
 |  | epic_boss_fight_normal |
