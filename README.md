@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151087716399 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SrGato |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:04:21 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:03:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151086025258 |
-| Players | 7/8 |
-| Host Name | Владик ПРИНЦ ДОТЫ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:02:31 |
+| Lobby ID | 28553151089279129 |
+| Players | 1/15 |
+| Host Name | Kamikaze |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:06:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151087938216 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Pan con broster |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:04:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151088951600 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Анальный мучитель (мучиник) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:05:41 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151088865824 |
-| Players | 9/10 |
-| Host Name | 14 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:05:35 |
+| Lobby ID | 28553151089537013 |
+| Players | 7/10 |
+| Host Name | ORPHEUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:06:19 |
 
 
 |  | ot3_desert_octet |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151089040825 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | пью gin ебу мужчин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:05:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151089279129 |
-| Players | 1/15 |
-| Host Name | Kamikaze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:06:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151087785003 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Ghosty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:04:25 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553151089651837 |
+| Players | 1/7 |
+| Host Name | toxic + critic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:06:27 |
 
 
