@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 2/24 |
-| Host Name | Stepdad with boundary issues |
+| Players | 1/24 |
+| Host Name | 比格 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150491339824 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Radiance |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 11, 2023 10:37:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150491230652 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | ঔৣ~ʍįяΛɢع♥ঔৣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:37:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150490289636 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:35:34 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Again? |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 11, 2023 10:38:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150491772791 |
+| Players | 1/10 |
+| Host Name | 240 km/h |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:38:16 |
 
 
 |  | epic_boss_fight_nightmare |
