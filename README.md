@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151283586694 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:49:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151287386345 |
-| Players | 6/8 |
-| Host Name | MORGAN´S :P |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:55:40 |
+| Lobby ID | 28553151288263274 |
+| Players | 5/10 |
+| Host Name | Кузя. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:56:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151287729520 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | дипломований спе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:56:09 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151288273912 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 200 IQ Player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:56:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151288263274 |
-| Players | 3/10 |
-| Host Name | Кузя. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:56:56 |
+| Lobby ID | 28553151288417560 |
+| Players | 1/8 |
+| Host Name | Vatte |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:57:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151288431033 |
+| Players | 3/8 |
+| Host Name | / |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:57:11 |
 
 
 |  | epic_boss_fight_nightmare |
