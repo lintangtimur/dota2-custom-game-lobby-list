@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150639745813 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | OUTbreak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150639994107 |
+| Players | 5/8 |
+| Host Name | only 2 pos <3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 15:25:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Isekai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:24:56 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553150640028694 |
+| Players | 3/7 |
+| Host Name | санчизес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 15:25:24 |
 
 
