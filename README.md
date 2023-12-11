@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150703247379 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | andy salad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:06:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150697168307 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | DeDkingsman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:57:18 |
@@ -45,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 17:06:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150704787628 |
+| Players | 1/8 |
+| Host Name | Мразота |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 11, 2023 17:08:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150704856075 |
+| Players | 1/8 |
+| Host Name | Foreskin Collector |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 17:09:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Пчелинный агрохолдинг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:03:18 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553150704798049 |
+| Players | 1/7 |
+| Host Name | ⁱᵃᵐThe Malicious Assasin o |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:08:56 |
 
 
