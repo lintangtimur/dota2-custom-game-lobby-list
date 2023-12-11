@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151039784017 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 💀Frustriertes Leben |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:13:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151036775289 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | $0HÁN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 23:10:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151041966609 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Мmm~ Ahh~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:15:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151041332293 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ТРАКТОР ЧУХ ЧУХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:15:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151041683798 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | SVAROG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 23:15:27 |
@@ -76,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151042355910 |
-| Players | 3/8 |
-| Host Name | (KLGN)DEA†H |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 23:16:08 |
+| Lobby ID | 28553151039874139 |
+| Players | 7/8 |
+| Host Name | Это пиздец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 23:13:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151040405526 |
-| Players | 9/10 |
-| Host Name | Jin Kazama |
+| Lobby ID | 28553151042498053 |
+| Players | 1/15 |
+| Host Name | Jolowon.Kulas |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 23:14:08 |
+| Lobby Creation Time | Monday, December 11, 2023 23:16:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151042544314 |
+| Players | 4/8 |
+| Host Name | WALTI |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 23:16:20 |
 
 
