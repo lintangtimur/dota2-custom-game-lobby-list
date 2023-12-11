@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150808505746 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:25:22 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:21:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150810544861 |
-| Players | 8/10 |
-| Host Name | guappa |
+| Lobby ID | 28553150811206013 |
+| Players | 4/8 |
+| Host Name | скита-ската |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:27:32 |
+| Lobby Creation Time | Monday, December 11, 2023 19:28:15 |
 
 
 |  | ot3_desert_octet |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 精准，防控，动态，清零 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:27:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150811194619 |
+| Players | 1/15 |
+| Host Name | Exército de Tilambucano |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 11, 2023 19:28:14 |
 
 
 |  | epic_boss_fight_nightmare |
