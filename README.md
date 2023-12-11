@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151313562587 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:29:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151312838773 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | _________ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:28:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151312060820 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:27:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151313136932 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | AMajesticSeetangblatt |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:29:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151313339501 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | para tu comsumo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:29:36 |
@@ -122,10 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151313688517 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | debacle- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:30:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151313767715 |
+| Players | 9/10 |
+| Host Name | Плоды Ийсгита |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:30:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151313833169 |
+| Players | 6/8 |
+| Host Name | Дарья Дегтярёва |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 04:30:16 |
 
 
 |  | epic_boss_fight_nightmare |
