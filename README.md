@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 03:21:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151259893441 |
-| Players | 7/8 |
-| Host Name | SEXO |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:19:04 |
+| Lobby ID | 28553151261604792 |
+| Players | 6/10 |
+| Host Name | Хуй в млинці |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:21:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255846920 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | CorosionaL DamagE |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:14:14 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151261138466 |
-| Players | 9/10 |
-| Host Name | SoulKing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:20:34 |
+| Lobby ID | 28553151261719965 |
+| Players | 1/8 |
+| Host Name | Nevermore better. |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:21:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151256791765 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | ℍαяdШεll Ω |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:15:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151260107173 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Akeno Gremory |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:19:20 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151261528169 |
-| Players | 4/15 |
-| Host Name | FrogiFox |
+| Players | 10/15 |
+| Host Name | Gloriosa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:21:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151261604792 |
-| Players | 4/10 |
-| Host Name | Хуй в млинці |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:21:08 |
 
 
 |  | epic_boss_fight_nightmare |
