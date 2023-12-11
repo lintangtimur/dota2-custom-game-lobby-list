@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:06:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150660493987 |
-| Players | 23/24 |
-| Host Name | Darkberry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:58:39 |
+| Lobby ID | 28553150665454809 |
+| Players | 5/10 |
+| Host Name | Megane |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150664263970 |
-| Players | 14/15 |
-| Host Name | yøbi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:04:43 |
+| Lobby ID | 28553150665665946 |
+| Players | 1/15 |
+| Host Name | GG |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150665454809 |
-| Players | 3/10 |
-| Host Name | Megane |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:06:37 |
+| Lobby ID | 28553150665673090 |
+| Players | 2/24 |
+| Host Name | crimento |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150664159125 |
-| Players | 2/7 |
-| Host Name | EcoHunter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:04:33 |
+| Lobby ID | 28553150665609813 |
+| Players | 1/5 |
+| Host Name | -RoN- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:06:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150665609813 |
+| Lobby ID | 28553150665741626 |
 | Players | 1/5 |
-| Host Name | -RoN- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 16:06:52 |
+| Host Name | '' |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 16:07:05 |
 
 
