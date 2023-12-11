@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150841135784 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | R243 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:00:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150839755592 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 19:59:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150842423166 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Sex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:01:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150836224507 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | q as in cucumber |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 19:55:23 |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150843426865 |
-| Players | 6/8 |
-| Host Name | Ferguson♥ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 20:02:53 |
+| Lobby ID | 28553150843572758 |
+| Players | 2/8 |
+| Host Name | Nahimatay |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 11, 2023 20:03:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150843458970 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Hallelujah |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 20:02:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150843522244 |
-| Players | 5/10 |
-| Host Name | 贾斯汀比伯 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, December 11, 2023 20:02:59 |
 
 
 |  | epic_boss_fight_nightmare |
