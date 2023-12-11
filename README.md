@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150827394972 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Just One More | POS 13 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 19:45:40 |
@@ -119,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150826654805 |
-| Players | 8/10 |
-| Host Name | GaliLeo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:44:49 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150823996285 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | ᠌ ᠌ ᠌᠌ ᠌ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:41:46 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150826837382 |
-| Players | 1/7 |
-| Host Name | FLY - FLY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:45:02 |
 
 
