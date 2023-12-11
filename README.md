@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150488579291 |
+| Lobby ID | 28553150487669816 |
 | Players | 7/8 |
-| Host Name | COVID 19 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 11, 2023 10:32:29 |
+| Host Name | PLAYER PMA 🦁 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 10:30:50 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150488542689 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Дмитрий НаКиев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:32:25 |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. Freeman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:32:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150488922822 |
-| Players | 6/10 |
-| Host Name | Anúbis |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 10:33:05 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150488940528 |
-| Players | 1/7 |
-| Host Name | Galearcher |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 10:33:07 |
 
 
