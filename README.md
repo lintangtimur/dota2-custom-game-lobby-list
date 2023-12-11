@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150437876430 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Casmitas♥EL♥MELODICO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:51:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150437981282 |
-| Players | 18/24 |
-| Host Name | pienso luego tiro six :C |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:51:21 |
+| Lobby ID | 28553150439011028 |
+| Players | 3/10 |
+| Host Name | Ἄπøφις |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 08:53:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150438391343 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | xD |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:52:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150436831029 |
-| Players | 8/10 |
-| Host Name | Stalking |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:48:31 |
+| Lobby ID | 28553150438823225 |
+| Players | 5/15 |
+| Host Name | HellStorm |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 08:53:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150437996188 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Bossholly ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 08:51:23 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150438628658 |
-| Players | 1/7 |
-| Host Name | Alex |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 08:52:50 |
 
 
