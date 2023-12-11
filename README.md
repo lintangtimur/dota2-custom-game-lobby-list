@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151390605225 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Axello |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:51:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151391548989 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:53:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151386609956 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | MASAKARY :v |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:41:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151390137878 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:50:33 |
@@ -69,18 +69,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151391537757 |
 | Players | 5/15 |
-| Host Name | Dash |
+| Host Name | Sub-Zero |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:53:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151391515085 |
-| Players | 1/15 |
-| Host Name | jackr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:53:54 |
+| Lobby ID | 28553151391640608 |
+| Players | 2/10 |
+| Host Name | ГУЛЬГАМОТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:54:13 |
 
 
 |  | epic_boss_fight_nightmare |
