@@ -14,37 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150573135868 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:29:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150576612806 |
-| Players | 14/15 |
-| Host Name | Waste |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:35:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150577327910 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | TripleSSS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:36:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150576080452 |
-| Players | 1/10 |
-| Host Name | champion |
+| Lobby ID | 28553150575902055 |
+| Players | 2/8 |
+| Host Name | Luckyman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:34:35 |
+| Lobby Creation Time | Monday, December 11, 2023 13:34:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553150575768995 |
+| Players | 1/7 |
+| Host Name | grand magus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:34:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150572495935 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 13:28:23 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150575768995 |
-| Players | 1/7 |
-| Host Name | grand magus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:34:02 |
 
 
