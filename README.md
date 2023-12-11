@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150899941525 |
-| Players | 9/10 |
-| Host Name | Мотыга Сутенера |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:57:57 |
+| Lobby ID | 28553150900688716 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 20:58:40 |
 
 
 |  | ot3_desert_octet |
@@ -58,38 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150896562791 |
-| Players | 18/24 |
-| Host Name | ✿迅猛小老虎 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 20:54:42 |
+| Lobby ID | 28553150901118802 |
+| Players | 1/24 |
+| Host Name | AleJandro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:59:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150899386002 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 範馬刃牙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:57:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150899831643 |
-| Players | 12/15 |
-| Host Name | smoking weed with you |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:57:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150897235841 |
-| Players | 8/10 |
-| Host Name | hllrser |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 20:55:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:58:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150900688716 |
-| Players | 1/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 20:58:40 |
+| Lobby ID | 28553150901005487 |
+| Players | 5/15 |
+| Host Name | elPADRINO |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 20:58:58 |
 
 
 |  | epic_boss_fight_nightmare |
