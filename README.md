@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:20:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151345641834 |
-| Players | 7/8 |
-| Host Name | El hombre que murio de pie |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:23:04 |
+| Lobby ID | 28553151345146291 |
+| Players | 9/10 |
+| Host Name | Sweet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:22:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151345775179 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Brunesco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:23:17 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:23:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151346190852 |
-| Players | 4/8 |
-| Host Name | Rococo Urupa |
+| Lobby ID | 28553151346233001 |
+| Players | 1/10 |
+| Host Name | The Perfect Girl |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:24:00 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:24:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151346239088 |
+| Players | 1/15 |
+| Host Name | ANAL_FISTER_THE_MAGISTER™ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:24:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT THE FUCK IS THAT!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:22:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151346225626 |
+| Players | 1/10 |
+| Host Name | Moose |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:24:04 |
 
 
