@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150765106084 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Rita Rossweisse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:32:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150767653233 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150768671425 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 热性与你的妈妈 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:36:38 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150769153903 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | let me die スeternal tiltedス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:37:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150766375421 |
-| Players | 9/10 |
-| Host Name | -g3n0s- |
+| Lobby ID | 28553150769386968 |
+| Players | 1/8 |
+| Host Name | ✪чих пых k1lin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:34:02 |
+| Lobby Creation Time | Monday, December 11, 2023 18:37:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,23 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pag kaon na |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:33:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150766479406 |
-| Players | 1/5 |
-| Host Name | Al Damen King |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 18:34:09 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553150769065047 |
-| Players | 2/7 |
-| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, December 11, 2023 18:37:04 |
 
 
