@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150565258789 |
-| Players | 1/10 |
-| Host Name | JUSTIN WEAVER |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 13:15:28 |
+| Lobby ID | 28553150565659169 |
+| Players | 10/15 |
+| Host Name | ArSkay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 13:16:14 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 13:17:28 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150566729054 |
+| Players | 1/24 |
+| Host Name | huge robot penguin |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 13:18:13 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150565659169 |
-| Players | 10/15 |
-| Host Name | ArSkay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 13:16:14 |
+| Lobby ID | 28553150566734532 |
+| Players | 1/15 |
+| Host Name | SESE |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 13:18:14 |
 
 
 |  | epic_boss_fight_normal |
