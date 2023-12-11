@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150666086497 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:07:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150668769011 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | байт зе даст |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:11:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150668858465 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | просто я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:12:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150667989302 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ub3r d3ath d3l1v3ry* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:10:40 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150668600461 |
-| Players | 8/24 |
+| Players | 19/24 |
 | Host Name | ZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:11:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150669089765 |
-| Players | 4/8 |
-| Host Name | otin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 16:12:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150667141650 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ****** |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:09:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150668903419 |
-| Players | 1/5 |
-| Host Name | pomny_xui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 16:12:07 |
 
 
