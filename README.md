@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150769969163 |
-| Players | 5/8 |
-| Host Name | chichak |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 18:38:06 |
+| Lobby ID | 28553150770129236 |
+| Players | 2/10 |
+| Host Name | Давай в таверну |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:38:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150767653233 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150770070195 |
-| Players | 2/8 |
-| Host Name | Akselas |
+| Lobby ID | 28553150770193078 |
+| Players | 1/8 |
+| Host Name | анти мага |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:38:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150770071853 |
-| Players | 3/8 |
-| Host Name | gay school enjoyer |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 11, 2023 18:38:12 |
+| Lobby Creation Time | Monday, December 11, 2023 18:38:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150763027720 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:30:08 |
