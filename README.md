@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150841135784 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | R243 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:00:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150843844059 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Alarien |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:03:19 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150844290822 |
-| Players | 4/15 |
-| Host Name | Purple Tango |
+| Players | 3/15 |
+| Host Name | ЦЕЛЬ - БЫТЬ СИЛЬНЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:03:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150844513322 |
+| Players | 1/8 |
+| Host Name | red roses |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:04:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150844544275 |
+| Players | 1/8 |
+| Host Name | Krico |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 20:04:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150832125973 |
-| Players | 9/10 |
-| Host Name | Skinwalker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:50:56 |
 
 
 |  | epic_boss_fight_nightmare |
