@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150469768973 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ΟιΦρίκεςΣταθερές |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150467922923 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:51:59 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 3/24 |
-| Host Name | Yvan |
+| Players | 1/24 |
+| Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:57:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150470019514 |
-| Players | 1/10 |
-| Host Name | el lame chuchas |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:56:39 |
+| Lobby ID | 28553150470666160 |
+| Players | 12/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 09:58:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150470152657 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | primaria trunca |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:55 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:58:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150470666160 |
-| Players | 8/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 09:58:00 |
 
 
 |  | epic_boss_fight_nightmare |
