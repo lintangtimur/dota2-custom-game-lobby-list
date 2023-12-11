@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151372966755 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Republica independiente de Arequ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:16:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151373243802 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Big Mama (yulezz) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:16:47 |
@@ -86,19 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151373236686 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:16:46 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151373339824 |
+| Players | 2/8 |
+| Host Name | KINGPEPA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:16:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151373338527 |
+| Players | 1/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:16:58 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151373309252 |
+| Lobby ID | 28553151373357834 |
 | Players | 1/10 |
-| Host Name | w0rse |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:16:54 |
+| Host Name | Boster tu kchero |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:17:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151373423785 |
+| Players | 1/8 |
+| Host Name | MaherO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:17:07 |
 
 
 |  | epic_boss_fight_nightmare |
