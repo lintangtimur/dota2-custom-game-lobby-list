@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150601963792 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 14:22:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150601470785 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | 你生我梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 14:21:44 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:23:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150602239246 |
-| Players | 2/10 |
-| Host Name | dogical |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 14:23:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150602505067 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | giant space crab |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:23:29 |
