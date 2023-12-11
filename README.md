@@ -59,46 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151275736989 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | twitch.tv/aqqashi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:38:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151275872581 |
-| Players | 14/15 |
-| Host Name | Pom1k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:38:34 |
+| Lobby ID | 28553151276252190 |
+| Players | 2/24 |
+| Host Name | gaston |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:39:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151275957673 |
-| Players | 7/10 |
-| Host Name | I'm shine |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:38:40 |
+| Lobby ID | 28553151276307987 |
+| Players | 5/10 |
+| Host Name | 5 pos only |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:39:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151276214129 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Pasho |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:38:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151276252190 |
-| Players | 1/24 |
-| Host Name | gaston |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:39:02 |
 
 
 |  | epic_boss_fight_nightmare |
