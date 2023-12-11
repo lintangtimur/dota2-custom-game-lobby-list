@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151105243463 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | мне страшно |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:22:31 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:22:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151106129996 |
-| Players | 9/10 |
-| Host Name | Darwin |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:23:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151106541227 |
-| Players | 12/15 |
-| Host Name | Кролик |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:23:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151106525186 |
-| Players | 1/15 |
-| Host Name | astra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 00:23:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151106598479 |
@@ -101,10 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 00:23:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151106983273 |
+| Players | 3/15 |
+| Host Name | Квас Секс Эскорт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:24:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151107025288 |
+| Players | 5/8 |
+| Host Name | раб божий |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:24:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151107025657 |
+| Players | 3/8 |
+| Host Name | B.hlop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 00:24:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151105517291 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | comewithme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 00:22:48 |
