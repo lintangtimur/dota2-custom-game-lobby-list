@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151352975069 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | melon lord |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:35:56 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151352959264 |
-| Players | 14/15 |
-| Host Name | шайлушай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:35:55 |
+| Lobby ID | 28553151353547358 |
+| Players | 2/15 |
+| Host Name | КОПРОГЛОТ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:36:58 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151353456012 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | there is no catharsis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:36:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151353135834 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | cascanueces2012 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:36:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151353505098 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | КЧАУ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:36:53 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 05:36:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151353547358 |
-| Players | 2/15 |
-| Host Name | КОПРОГЛОТ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:36:58 |
+| Lobby ID | 28553151353706417 |
+| Players | 2/10 |
+| Host Name | Кайфарик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:37:15 |
 
 
 |  | epic_boss_fight_nightmare |
