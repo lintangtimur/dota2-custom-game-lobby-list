@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:10:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150850094514 |
-| Players | 8/10 |
-| Host Name | Усама бен Адам |
+| Lobby ID | 28553150850684540 |
+| Players | 4/8 |
+| Host Name | Yaken |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 20:09:46 |
+| Lobby Creation Time | Monday, December 11, 2023 20:10:21 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150851102295 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | yeah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 20:10:47 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 20:10:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150851583698 |
+| Players | 3/10 |
+| Host Name | Yes way |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 20:11:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150613366780 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150851528615 |
+| Players | 5/10 |
+| Host Name | FLY - FLY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 20:11:12 |
 
 
