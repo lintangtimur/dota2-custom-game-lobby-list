@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150654978752 |
-| Players | 4/10 |
-| Host Name | OUTbreak |
+| Players | 3/10 |
+| Host Name | MolniyASUNA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:49:24 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150655262087 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Demonic Fox |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 15:49:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150654995685 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | fckingworldbrokemedown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:49:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150651691442 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | AriBri<3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 15:43:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150654865086 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Paker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:49:12 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150655543540 |
-| Players | 1/15 |
-| Host Name | II |
+| Lobby ID | 28553150655625845 |
+| Players | 8/15 |
+| Host Name | pnviao |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:50:23 |
+| Lobby Creation Time | Monday, December 11, 2023 15:50:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150655756941 |
+| Players | 1/10 |
+| Host Name | фешн бабуин |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 15:50:45 |
 
 
 |  | epic_boss_fight_nightmare |
