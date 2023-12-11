@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150764158020 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Cartelo(U27) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:31:28 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 18:30:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553150762385172 |
-| Players | 8/10 |
-| Host Name | Ваз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:29:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150763783432 |
-| Players | 2/15 |
-| Host Name | ебучая тупорезка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 18:31:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150763805659 |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | СОСРЕДОТОЧИЕ ИСЧАДИЯ АДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:31:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150763783432 |
+| Players | 5/15 |
+| Host Name | ебучая тупорезка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 18:31:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:30:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150760220661 |
-| Players | 9/10 |
-| Host Name | The[All]inOne |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 18:26:49 |
 
 
 |  | epic_boss_fight_nightmare |
