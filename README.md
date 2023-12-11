@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150479472935 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:15:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150460975751 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 09:36:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150479359799 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:15:23 |
@@ -41,37 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150479029969 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Копьё Аллаха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 10:14:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150479821454 |
-| Players | 6/8 |
-| Host Name | The chosen one ♠ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:16:16 |
+| Lobby ID | 28553150480148352 |
+| Players | 2/15 |
+| Host Name | mode: mischief |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 10:16:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150479902734 |
+| Players | 2/24 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150477423261 |
-| Players | 8/10 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:11:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150479224003 |
-| Players | 7/8 |
-| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Lobby ID | 28553150480038284 |
+| Players | 2/10 |
+| Host Name | Rael8a |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:15:07 |
+| Lobby Creation Time | Monday, December 11, 2023 10:16:41 |
 
 
 |  | epic_boss_fight_nightmare |
