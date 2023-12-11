@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150493845279 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | OG.rodorigo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:42:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150493491806 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | FeeZy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 10:41:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150493750461 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Occam's Tome of Knowledge |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:42:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150494427627 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:44:22 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:43:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150494675489 |
-| Players | 1/24 |
-| Host Name | Rofl Chick-Fil-A Copter |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 10:45:01 |
+| Lobby ID | 28553150491613650 |
+| Players | 6/8 |
+| Host Name | Sunset |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 11, 2023 10:37:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aria |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:44:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553150494667399 |
-| Players | 1/10 |
-| Host Name | aleksandr.shefer93 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 10:45:00 |
 
 
