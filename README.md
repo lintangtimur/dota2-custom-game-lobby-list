@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151148517148 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | PlusYz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:09:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151150887980 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ✪Al Coach |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:12:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151141528512 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Confused™ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:01:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151147789103 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Slippy |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:08:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151150835021 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Gorthaur the Cruel |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:11:57 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151150890167 |
-| Players | 2/8 |
-| Host Name | Cheif Of Naked |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:12:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151151020565 |
-| Players | 1/24 |
-| Host Name | mariajose |
+| Lobby ID | 28553151151212938 |
+| Players | 1/8 |
+| Host Name | IA.MA-H1E |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:12:09 |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:12:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151151226342 |
+| Players | 3/8 |
+| Host Name | GHOST |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:12:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151151242782 |
+| Players | 2/15 |
+| Host Name | Sally/سالي |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 12, 2023 01:12:23 |
 
 
 |  | epic_boss_fight_nightmare |
