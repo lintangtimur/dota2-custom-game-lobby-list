@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150436395143 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:47:27 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 08:43:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150436119116 |
-| Players | 9/10 |
-| Host Name | Shroud.exe |
+| Lobby ID | 28553150437401487 |
+| Players | 1/15 |
+| Host Name | Yello |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 08:46:46 |
+| Lobby Creation Time | Monday, December 11, 2023 08:49:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150435978094 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Miíster |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:46:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150433376613 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 08:39:52 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150437366375 |
+| Lobby ID | 28553150437430208 |
 | Players | 1/5 |
 | Host Name | MIXOTO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 08:49:51 |
+| Lobby Creation Time | Monday, December 11, 2023 08:50:01 |
 
 
