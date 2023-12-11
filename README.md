@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150437197101 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | НикиToss)))) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 08:49:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150436831029 |
-| Players | 7/10 |
-| Host Name | Stalking |
+| Lobby ID | 28553150437981282 |
+| Players | 7/24 |
+| Host Name | pienso luego tiro six :C |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:48:31 |
+| Lobby Creation Time | Monday, December 11, 2023 08:51:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150437469554 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | ree3d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 08:50:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150437401487 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Yello |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 08:49:56 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150437705479 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | alexander  yc |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:50:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150437981282 |
-| Players | 1/24 |
-| Host Name | pienso luego tiro six :C |
+| Lobby ID | 28553150438225430 |
+| Players | 1/10 |
+| Host Name | guruguru |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:51:21 |
+| Lobby Creation Time | Monday, December 11, 2023 08:51:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 08:34:50 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150437430208 |
-| Players | 1/5 |
-| Host Name | MIXOTO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 08:50:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150437996188 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Bossholly ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 08:51:23 |
