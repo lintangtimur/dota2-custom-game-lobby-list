@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150707227025 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:12:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150709401996 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:15:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150711886884 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Danfoll |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:19:10 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150711440393 |
-| Players | 7/10 |
-| Host Name | young little |
+| Lobby ID | 28553150712273477 |
+| Players | 2/10 |
+| Host Name | я крутой |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:18:32 |
+| Lobby Creation Time | Monday, December 11, 2023 17:19:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150712057130 |
-| Players | 1/15 |
-| Host Name | ’Mr . Big |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 11, 2023 17:19:25 |
+| Lobby ID | 28553150712205720 |
+| Players | 9/15 |
+| Host Name | [FS|DM]Svetka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 17:19:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | boaindoor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:17:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150710870009 |
-| Players | 1/5 |
-| Host Name | ДЕД Афанасий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 17:17:44 |
 
 
 |  | epic_boss_fight_nightmare |
