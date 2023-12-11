@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 12:18:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150532652049 |
-| Players | 1/10 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 12:06:56 |
+| Lobby ID | 28553150538925672 |
+| Players | 5/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:19:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150536780382 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | LIFE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:15:35 |
@@ -42,18 +42,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553150538762810 |
 | Players | 2/15 |
-| Host Name | klls |
+| Host Name | Deathgun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 12:19:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150538925672 |
-| Players | 3/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 11, 2023 12:19:55 |
 
 
 |  | epic_boss_fight_nightmare |
