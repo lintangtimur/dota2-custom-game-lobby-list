@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150580924551 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150577633938 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | MarcoSL |115 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 13:37:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150580700472 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | atlas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:22 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150580540818 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | I want to be better |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 13:43:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150581080569 |
+| Players | 1/15 |
+| Host Name | Chiki Briki Iv Damke |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 13:44:12 |
 
 
 |  | epic_boss_fight_challenger |
