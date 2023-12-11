@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150515945119 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | & |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:30:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150516641330 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Carry Camil ;3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:31:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150516749193 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ПукЖены |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:31:50 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150516781399 |
-| Players | 3/8 |
-| Host Name | Syn999#%*%*%#* |
+| Players | 1/8 |
+| Host Name | Maleyvich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:31:53 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150516887554 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Fer_Luque1696 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:32:06 |
@@ -77,9 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150516990738 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Sultan™ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:32:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150517128766 |
+| Players | 1/24 |
+| Host Name | LAST HOPE |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 11, 2023 11:32:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150517197810 |
+| Players | 3/8 |
+| Host Name | Nagi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 11:32:41 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28553150517048549 |
+| Players | 1/7 |
+| Host Name | grand magus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 11:32:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553150517115751 |
+| Players | 1/10 |
+| Host Name | lerman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 11:32:32 |
 
 
