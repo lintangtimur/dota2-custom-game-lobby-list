@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150550194758 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | TitinN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:42:21 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:46:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150552044616 |
-| Players | 1/5 |
-| Host Name | シタ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 12:47:04 |
 
 
