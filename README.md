@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151271903887 |
-| Players | 14/15 |
-| Host Name | DEBBY DEEPTHROAT |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:33:41 |
+| Lobby ID | 28553151272179305 |
+| Players | 2/10 |
+| Host Name | pato |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 03:34:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151266461215 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Kalliana |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:27:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151270270667 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | angui |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:31:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151271827250 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Агония |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:33:35 |
@@ -77,46 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151271810357 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Pet3r (777) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:33:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151270471838 |
-| Players | 7/8 |
-| Host Name | Demonic Fox |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:31:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151272179305 |
-| Players | 1/10 |
-| Host Name | pato |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:34:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151272312113 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | psevdoman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:34:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151272127340 |
-| Players | 2/5 |
-| Host Name | ThugLifexD |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, December 12, 2023 03:33:58 |
 
 
 |  | epic_boss_fight_nightmare |
