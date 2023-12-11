@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150922439193 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 21:18:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150925033594 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Why do you cum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:20:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150917367215 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 21:13:47 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 21:18:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150925229738 |
-| Players | 8/10 |
-| Host Name | Boy's a liar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 21:20:49 |
+| Lobby ID | 28553150925649204 |
+| Players | 2/15 |
+| Host Name | zyxn |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 21:21:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150922438910 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | [T]he[G]reat[E]rika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:18:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553150924530659 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Zeteron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 21:20:12 |
