@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151345500275 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | La Flame |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:22:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151347397712 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Zé Maria |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:26:08 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151349862682 |
 | Players | 7/15 |
-| Host Name | ginko |
+| Host Name | gonext666 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:30:31 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151349769545 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | jah |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:30:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151348508996 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:28:06 |
@@ -104,16 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151350126348 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | yasin |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:30:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151350180550 |
+| Players | 1/10 |
+| Host Name | ShadowMan |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:31:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151347736732 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | O K |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:26:44 |
