@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150717884269 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Flowレム |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:27:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150720297011 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | All_Muted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 17:31:03 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150720329809 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | оконный |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 17:31:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150720421163 |
+| Players | 2/8 |
+| Host Name | Butterfly |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 17:31:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150719328067 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | isskender |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 17:29:42 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150720345298 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Zack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 17:31:07 |
@@ -103,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553150720357659 |
+| Lobby ID | 28553150720484168 |
 | Players | 1/5 |
-| Host Name | Lunatic |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 17:31:08 |
+| Host Name | Пьяный дровосек |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 17:31:18 |
 
 
