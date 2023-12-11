@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 02:01:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151194268449 |
-| Players | 7/8 |
-| Host Name | tv/Lexaofficial |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:01:20 |
+| Lobby ID | 28553151194840201 |
+| Players | 1/24 |
+| Host Name | athexpanda |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:02:01 |
 
 
 |  | ot3_desert_octet |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151189705592 |
-| Players | 13/15 |
-| Host Name | Dota veteran |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 01:55:45 |
+| Lobby ID | 28553151195128442 |
+| Players | 4/15 |
+| Host Name | ZV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:02:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151194279796 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | квас секс эскорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:01:21 |
@@ -83,37 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 02:00:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151194853639 |
-| Players | 7/10 |
-| Host Name | Mokujin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:02:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151194840201 |
-| Players | 1/24 |
-| Host Name | athexpanda |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:02:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151193631548 |
-| Players | 9/10 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:00:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151184523537 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 01:49:14 |
