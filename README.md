@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151301880174 |
-| Players | 3/8 |
-| Host Name | dior |
+| Players | 2/8 |
+| Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:16:22 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151301463290 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Agurto- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:15:46 |
@@ -122,34 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151302945297 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | you look lonely |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:17:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151304815926 |
-| Players | 3/8 |
-| Host Name | убил цыганёнка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:17:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151304862270 |
-| Players | 1/15 |
-| Host Name | YMR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 04:18:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151299840409 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 04:13:32 |
