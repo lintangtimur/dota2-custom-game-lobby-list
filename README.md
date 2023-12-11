@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:22:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150455128356 |
-| Players | 7/10 |
-| Host Name | FAN DE EG DEL 2015😡 |
+| Lobby ID | 28553150457525965 |
+| Players | 13/15 |
+| Host Name | KeKu |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:26:00 |
+| Lobby Creation Time | Monday, December 11, 2023 09:30:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150455300646 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | A tu vieja la vuelvo mi gata |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:26:18 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:28:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150457396410 |
-| Players | 17/24 |
-| Host Name | 너를 사랑해. |
+| Lobby ID | 28553150457875303 |
+| Players | 1/8 |
+| Host Name | (ง'̀-'́)ง |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:30:04 |
+| Lobby Creation Time | Monday, December 11, 2023 09:30:56 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150455408322 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | bugatti spaceship |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 09:26:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150457060033 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | game is hard |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 09:29:27 |
@@ -99,33 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XIAO8 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 11, 2023 09:30:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150457525965 |
-| Players | 13/15 |
-| Host Name | KeKu |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:30:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150457875303 |
-| Players | 1/8 |
-| Host Name | (ง'̀-'́)ง |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:30:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150457887695 |
-| Players | 4/8 |
-| Host Name | el mata por gusto0 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 09:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
