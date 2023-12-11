@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150820794799 |
-| Players | 2/24 |
-| Host Name | Зеленый Крокодил |
+| Players | 1/24 |
+| Host Name | freshejka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:38:17 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150820728814 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Koldo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 19:38:13 |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 19:31:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553150818607762 |
-| Players | 3/8 |
-| Host Name | جورب القدر |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:36:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150811194619 |
-| Players | 1/15 |
-| Host Name | vash lujan |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 19:28:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150819558420 |
-| Players | 10/24 |
-| Host Name | Winter Night |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 19:37:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150821843207 |
-| Players | 4/15 |
-| Host Name | Mishka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 19:39:21 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150820435778 |
@@ -90,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Flare★ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 19:37:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150822145323 |
+| Players | 4/8 |
+| Host Name | n1ce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 19:39:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553150819558420 |
+| Players | 18/24 |
+| Host Name | Winter Night |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 19:37:01 |
 
 
 |  | epic_boss_fight_nightmare |
