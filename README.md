@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151380677479 |
-| Players | 8/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:30:12 |
+| Lobby ID | 28553151373235854 |
+| Players | 18/24 |
+| Host Name | TheBrokenRobot |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:16:46 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151384292498 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:36:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151383632369 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 讓我們給 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:35:27 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151384172359 |
-| Players | 9/10 |
-| Host Name | oniqzone- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:36:27 |
+| Lobby ID | 28553151384116585 |
+| Players | 5/10 |
+| Host Name | Rael8a |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 06:36:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jhon_A |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 06:37:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151384116585 |
-| Players | 2/10 |
-| Host Name | Rael8a |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:36:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151373235854 |
-| Players | 18/24 |
-| Host Name | TheBrokenRobot |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:16:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151385018993 |
-| Players | 1/15 |
-| Host Name | leppprozy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 06:37:59 |
 
 
