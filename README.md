@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150528383405 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | JEFE MAESTRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:57:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150525637754 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | go fight indios |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:51:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150527519831 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | WinNee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:55:47 |
