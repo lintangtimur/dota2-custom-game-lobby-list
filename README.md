@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150515945119 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | roswel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 11:30:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150521208258 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | taxi is gone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 11:40:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150521176915 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | R1ki |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:40:15 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | grand magus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 11:41:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553150521930776 |
-| Players | 1/5 |
-| Host Name | ShELkaCh |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 11, 2023 11:42:09 |
 
 
