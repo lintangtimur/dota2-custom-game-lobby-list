@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150437705479 |
-| Players | 7/8 |
-| Host Name | alexander  yc |
+| Lobby ID | 28553150437876430 |
+| Players | 1/15 |
+| Host Name | Casmitas♥EL♥MELODICO |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:50:42 |
+| Lobby Creation Time | Monday, December 11, 2023 08:51:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150437981282 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | pienso luego tiro six :C |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 08:51:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150435011588 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 08:43:58 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 08:39:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150437876430 |
-| Players | 1/15 |
-| Host Name | Casmitas♥EL♥MELODICO |
+| Lobby ID | 28553150438391343 |
+| Players | 1/10 |
+| Host Name | xD |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 08:51:06 |
+| Lobby Creation Time | Monday, December 11, 2023 08:52:18 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28553150430596293 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | thaiboy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 08:34:50 |
