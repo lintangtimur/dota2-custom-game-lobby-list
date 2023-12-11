@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150530587668 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | M a u u |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:02:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150529937143 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | EG. VACKAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150529193252 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | MIRAGE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 11:59:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150529787397 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Dua Lipas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:00:46 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150530148766 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150530780238 |
-| Players | 1/15 |
-| Host Name | 0-0 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 11, 2023 12:02:55 |
+| Lobby ID | 28553150530870182 |
+| Players | 1/10 |
+| Host Name | JUSTIN WEAVER |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 12:03:06 |
 
 
 |  | epic_boss_fight_nightmare |
