@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151361510423 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Gilgamesh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:54:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151360730986 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151360393198 |
-| Players | 12/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:51:49 |
+| Lobby ID | 28553151362712277 |
+| Players | 5/10 |
+| Host Name | BISS ✟ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:56:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151360688490 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Зеленый Крокодил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 05:52:25 |
@@ -58,38 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151362222223 |
+| Lobby ID | 28553151362877335 |
 | Players | 1/8 |
-| Host Name | Ragnarok |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:55:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151362083739 |
-| Players | 7/8 |
-| Host Name | void incarnate |
+| Host Name | Scarecray |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:55:14 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:56:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151362205669 |
-| Players | 13/15 |
-| Host Name | младший жаб |
+| Lobby ID | 28553151362769924 |
+| Players | 3/15 |
+| Host Name | Нефр |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:55:29 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:56:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151360213410 |
-| Players | 5/8 |
-| Host Name | K1 CESAR |
+| Lobby ID | 28553151362849393 |
+| Players | 2/15 |
+| Host Name | 322 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 05:51:27 |
+| Lobby Creation Time | Tuesday, December 12, 2023 05:56:45 |
 
 
 |  | epic_boss_fight_nightmare |
