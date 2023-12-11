@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150775927402 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | bALON |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:45:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150767653233 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 18:35:29 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150776117362 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | pradid |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 18:46:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150776176761 |
+| Players | 6/8 |
+| Host Name | 狂热激战A-Rev.3 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, December 11, 2023 18:46:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150776263131 |
+| Players | 1/8 |
+| Host Name | Sad スDying as a lifestyleス |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 18:46:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150776295584 |
+| Players | 2/8 |
+| Host Name | rEVOLVE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 18:46:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553150774956603 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | 321 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 18:44:31 |
