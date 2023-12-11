@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:44:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150690524862 |
-| Players | 14/15 |
-| Host Name | Masuyuka |
+| Lobby ID | 28553150691174534 |
+| Players | 3/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:45:52 |
+| Lobby Creation Time | Monday, December 11, 2023 16:47:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150690110174 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:45:04 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150691071046 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kross |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 16:46:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553150691158402 |
+| Players | 5/8 |
+| Host Name | skiter |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:47:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150691221562 |
+| Players | 2/15 |
+| Host Name | Maotisco |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:47:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150690753854 |
-| Players | 2/10 |
-| Host Name | LEE kwang SOO |
+| Players | 1/10 |
+| Host Name | kato4ka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:46:18 |
 
