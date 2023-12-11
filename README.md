@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150469768973 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | ΟιΦρίκεςΣταθερές |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 09:56:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150471252639 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:59:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150471547830 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | sOldier Of Jah Army |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:59:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150468162142 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Tyler56 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 09:52:31 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:57:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150471704796 |
+| Players | 1/15 |
+| Host Name | zxcчастье |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 11, 2023 10:00:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150468375489 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150469126997 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MiniGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 09:54:42 |
