@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151204221077 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Яна Срал |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151204195352 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Таваяма Атьсука |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:52 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151201039820 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | DJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:09:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151203579726 |
-| Players | 9/10 |
-| Host Name | matkevich |
+| Lobby ID | 28553151204276712 |
+| Players | 8/15 |
+| Host Name | V0rtex 嵐 =) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:12:09 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:12:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,46 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151204276712 |
-| Players | 7/15 |
-| Host Name | V0rtex 嵐 =) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:12:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151204402920 |
-| Players | 5/15 |
-| Host Name | King Catastrophe¤ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:13:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151204427818 |
-| Players | 4/8 |
-| Host Name | Sergo_Hashira |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:13:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151204444180 |
-| Players | 3/8 |
-| Host Name | wilfavee |
+| Lobby ID | 28553151204613878 |
+| Players | 2/10 |
+| Host Name | Потный лавандышь |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 02:13:09 |
+| Lobby Creation Time | Tuesday, December 12, 2023 02:13:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151204227961 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TEAM CALLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 02:12:54 |
