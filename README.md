@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150687219256 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Н.В. Гоголь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 16:39:36 |
@@ -29,22 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 16:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150686801127 |
-| Players | 11/15 |
-| Host Name | Кибершизик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 11, 2023 16:38:59 |
+| Lobby ID | 28553150687983638 |
+| Players | 2/24 |
+| Host Name | agora hills |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 16:40:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150684721507 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | The Hollow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 16:35:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150687987923 |
+| Players | 3/10 |
+| Host Name | OUTbreak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:40:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553150688022491 |
+| Players | 2/15 |
+| Host Name | KAWAii |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 16:41:01 |
 
 
 |  | epic_boss_fight_nightmare |
