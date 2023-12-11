@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150531676329 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 12:04:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150530148766 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 12:01:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150533045401 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 12:07:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150533543698 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mista Wambo V2.9.3 Reconstructed |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 11, 2023 12:08:50 |
