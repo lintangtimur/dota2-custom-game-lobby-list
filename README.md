@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 09:52:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150481731274 |
-| Players | 6/15 |
-| Host Name | coach 1/3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 10:19:51 |
+| Lobby ID | 28553150479902734 |
+| Players | 22/24 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 11, 2023 10:16:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150483614895 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:23:20 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Master_Riuji |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:22:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553150483966698 |
-| Players | 1/24 |
-| Host Name | A |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 10:23:59 |
 
 
 |  | epic_boss_fight_nightmare |
