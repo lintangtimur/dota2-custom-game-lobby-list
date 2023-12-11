@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150651186969 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Chаrge в пивнуху |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:42:47 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553150651326477 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 15:43:01 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553150652611848 |
-| Players | 1/7 |
-| Host Name | Rlexar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 15:45:16 |
 
 
