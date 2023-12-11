@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:49:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553150496621742 |
-| Players | 13/15 |
-| Host Name | Punisher |
+| Lobby ID | 28553150496559049 |
+| Players | 4/10 |
+| Host Name | Javier Milei |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:50:00 |
+| Lobby Creation Time | Monday, December 11, 2023 10:49:50 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150494770105 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | RezEv |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 10:45:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150496961660 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KuKin.Punkkeke |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 10:50:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150494154081 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | .DETH |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:43:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150496688850 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 11, 2023 10:50:10 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 10:49:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150496559049 |
-| Players | 3/10 |
-| Host Name | Javier Milei |
+| Lobby ID | 28553150497071575 |
+| Players | 1/24 |
+| Host Name | SedMan |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 11, 2023 10:49:50 |
+| Lobby Creation Time | Monday, December 11, 2023 10:51:07 |
 
 
 |  | epic_boss_fight_nightmare |
