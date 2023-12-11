@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150623471418 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | ❟❛❟Ken Kaneki by passport |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 11, 2023 14:59:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150622904603 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Sometimes Serious Phantom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:58:50 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553150621990453 |
-| Players | 7/8 |
-| Host Name | валодя балтимор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:57:21 |
+| Lobby ID | 28553150623673695 |
+| Players | 1/15 |
+| Host Name | Chiki Briki Iv Damke |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 15:00:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553150623630843 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ПРИНЦЕССА СОФИЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 15:00:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553150623673695 |
-| Players | 1/15 |
-| Host Name | Chiki Briki Iv Damke |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 11, 2023 15:00:05 |
 
 
 |  | epic_boss_fight_nightmare |
