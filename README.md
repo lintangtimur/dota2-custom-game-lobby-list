@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150613417203 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | @_982| |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:42:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553150612859757 |
-| Players | 1/24 |
-| Host Name | Jomax-sam |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 11, 2023 14:41:07 |
+| Lobby ID | 28553150614464941 |
+| Players | 7/8 |
+| Host Name | ПТ на Легенду |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 11, 2023 14:44:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553150607212224 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 中二病也要打刀塔 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 11, 2023 14:31:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150608525215 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 11, 2023 14:33:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553150614715008 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | pain 1993 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:44:38 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553150614556686 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Handsomejke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 11, 2023 14:44:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553150614464941 |
-| Players | 6/8 |
-| Host Name | ПТ на Легенду |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 11, 2023 14:44:10 |
+| Lobby ID | 28553150615255212 |
+| Players | 10/24 |
+| Host Name | _(:з」∠)_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:45:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553150615430632 |
+| Players | 1/10 |
+| Host Name | YeezyBreazy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 11, 2023 14:45:57 |
 
 
 |  | epic_boss_fight_nightmare |
