@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151404454782 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | MC boos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:24:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151403762478 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Madagascar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:22:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151403742682 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:22:37 |
@@ -50,28 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151403742844 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Archer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:22:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151405151726 |
-| Players | 9/10 |
-| Host Name | big stepper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:25:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151405342012 |
-| Players | 1/15 |
-| Host Name | MIT9 |
+| Players | 13/15 |
+| Host Name | ВЫЕБАЛ ЧЛЕН ЖОПОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:26:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151405469846 |
+| Players | 5/10 |
+| Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:26:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151405557607 |
+| Players | 1/8 |
+| Host Name | PussyDon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:26:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151405645836 |
+| Players | 1/10 |
+| Host Name | CUARTO HERMANO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:26:52 |
 
 
 |  | epic_boss_fight_nightmare |
