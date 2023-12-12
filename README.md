@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151479045559 |
-| Players | 8/10 |
-| Host Name | South Cove |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:50:18 |
+| Lobby ID | 28553151480034363 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:52:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151479329885 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:50:52 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151479960061 |
-| Players | 2/15 |
-| Host Name | drunk cow |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:52:04 |
+| Lobby ID | 28553151479797337 |
+| Players | 5/15 |
+| Host Name | ms-grizlik |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:51:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151479564087 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Toseno |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:51:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151479958545 |
-| Players | 3/8 |
-| Host Name | MarcoSL |115 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:52:04 |
+| Lobby ID | 28553151479846558 |
+| Players | 8/10 |
+| Host Name | labut |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:51:51 |
 
 
 |  | ot3_desert_octet |
@@ -108,51 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:51:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151478074988 |
-| Players | 14/15 |
-| Host Name | falcon |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:48:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151479797337 |
-| Players | 3/15 |
-| Host Name | я аккбаер |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:51:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151479802665 |
-| Players | 2/8 |
-| Host Name | lpstr |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:51:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151479846558 |
-| Players | 4/10 |
-| Host Name | labut |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:51:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151479633382 |
-| Players | 4/10 |
-| Host Name | micro科斯 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:51:27 |
 
 
 |  | epic_boss_fight_nightmare |
