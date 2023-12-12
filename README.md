@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151494231866 |
-| Players | 7/8 |
-| Host Name | 宵咲奏ファン。 |
+| Lobby ID | 28553151495481015 |
+| Players | 5/15 |
+| Host Name | BOBR_ЧленоДер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:17:48 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:20:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151495554119 |
-| Players | 3/15 |
-| Host Name | IKillYou |
+| Players | 4/15 |
+| Host Name | Isagi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:20:08 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495569121 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Febem o Abusado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:20:09 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151495481015 |
-| Players | 2/15 |
-| Host Name | BOBR_ЧленоДер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:20:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151495099933 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:19 |
