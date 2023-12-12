@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151423908853 |
-| Players | 2/8 |
-| Host Name | AE<3 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:08:54 |
+| Lobby ID | 28553151424001853 |
+| Players | 1/8 |
+| Host Name | UsaIN Voltis |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:09:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151422477120 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Geegee |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:05:58 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:09:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151424001853 |
-| Players | 1/8 |
-| Host Name | UsaIN Voltis |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:09:05 |
+| Lobby ID | 28553151424085693 |
+| Players | 1/15 |
+| Host Name | blasphemy |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:09:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151424091463 |
+| Players | 2/10 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:09:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151424087264 |
+| Players | 1/15 |
+| Host Name | KAARIS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:09:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151423810735 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:08:42 |
