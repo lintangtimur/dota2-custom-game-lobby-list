@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151439382540 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Kinfold |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:37:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151445467553 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:49:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151444534013 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:47:47 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | /-|-\Liquid_M1nd/-|-\ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:50:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151446194125 |
-| Players | 3/8 |
-| Host Name | NeyMarc- |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:50:51 |
 
 
