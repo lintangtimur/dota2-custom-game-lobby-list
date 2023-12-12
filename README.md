@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151396985088 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:07:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151396530742 |
-| Players | 7/8 |
-| Host Name | Miking |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:06:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151396693869 |
+| Lobby ID | 28553151396974888 |
 | Players | 9/10 |
-| Host Name | Rhaegar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:06:45 |
+| Host Name | ПАНК ЭЩКЕРЕ ПИСЯТ ДВА НАХУЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:07:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151397143834 |
+| Players | 6/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:07:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151396587986 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | goshiu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:06:30 |
@@ -58,56 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151396964762 |
-| Players | 14/15 |
-| Host Name | граф де Генерат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:07:24 |
+| Lobby ID | 28553151397636039 |
+| Players | 1/15 |
+| Host Name | ShaRinGaN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:08:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151396974888 |
-| Players | 6/10 |
-| Host Name | ПАНК ЭЩКЕРЕ ПИСЯТ ДВА НАХУЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:07:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151397054015 |
-| Players | 8/15 |
-| Host Name | YAMCHA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:07:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151397109848 |
-| Players | 2/15 |
-| Host Name | Castillo |
+| Lobby ID | 28553151397640340 |
+| Players | 1/10 |
+| Host Name | Jet |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:07:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151397143834 |
-| Players | 3/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:07:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151397384401 |
-| Players | 5/8 |
-| Host Name | ComebackKing |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:08:23 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:08:59 |
 
 
 |  | epic_boss_fight_nightmare |
