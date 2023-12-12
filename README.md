@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151439748256 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Look aT mE WelL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:38:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151431534663 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:23:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151439432786 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:37:51 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:37:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151440691584 |
+| Players | 1/8 |
+| Host Name | ALVINNN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:40:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151440690872 |
+| Players | 1/8 |
+| Host Name | froz645 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:40:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151435665705 |
@@ -95,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151440094991 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:39:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151440660159 |
+| Players | 3/10 |
+| Host Name | Zer0CooL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:40:08 |
 
 
