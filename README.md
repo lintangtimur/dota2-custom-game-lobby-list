@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488715874 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Chemo del Solar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488717113 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151488997002 |
-| Players | 2/15 |
-| Host Name | Jigsaw |
+| Players | 1/15 |
+| Host Name | Zyzz (2011) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:37 |
 
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Heat and Run |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:09:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151484693698 |
+| Players | 13/15 |
+| Host Name | DICE |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:00:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151489938853 |
+| Players | 1/15 |
+| Host Name | Badboy ne stoboi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:10:18 |
 
 
 |  | epic_boss_fight_nightmare |
