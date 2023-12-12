@@ -47,22 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 07:49:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151413596964 |
+| Players | 14/15 |
+| Host Name | no mercy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:45:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151413745176 |
-| Players | 7/8 |
-| Host Name | PussyDon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:45:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151413570615 |
-| Players | 22/24 |
-| Host Name | LowLife *w* |
+| Lobby ID | 28553151415303594 |
+| Players | 2/8 |
+| Host Name | MindLines |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:45:20 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:50:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151415294765 |
+| Players | 1/15 |
+| Host Name | Ninja Pirate |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:50:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151412987419 |
+| Players | 9/10 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:43:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28553151415247607 |
+| Lobby ID | 28553151415314904 |
 | Players | 1/5 |
 | Host Name | dIAMOND |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:49:57 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:50:08 |
 
 
