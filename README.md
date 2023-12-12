@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151514564949 |
-| Players | 22/24 |
-| Host Name | 亗₪Jᴏʀᴅᴀɴ₪亗 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:56:41 |
+| Lobby ID | 28553151514102441 |
+| Players | 4/24 |
+| Host Name | Tobias EAton |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:55:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151514338452 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:56:13 |
@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151513554389 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:54:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151515105122 |
-| Players | 1/15 |
-| Host Name | ьуь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:57:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151512830992 |
-| Players | 3/24 |
-| Host Name | Potical |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:53:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,29 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151514102441 |
-| Players | 4/24 |
-| Host Name | Tobias EAton |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:55:43 |
+| Lobby ID | 28553151512830992 |
+| Players | 9/24 |
+| Host Name | Potical |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:53:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151513175132 |
-| Players | 9/10 |
-| Host Name | smokey nagata |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:53:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151513086928 |
-| Players | 9/10 |
-| Host Name | asdasd ☻ |
+| Lobby ID | 28553151515739691 |
+| Players | 3/8 |
+| Host Name | webi wabo |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:53:36 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:59:03 |
 
 
 |  | epic_boss_fight_hard |
