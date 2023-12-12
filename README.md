@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151436166917 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Poetic Schizo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:31:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151436779384 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Тарас Бульбазавр |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:32:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151436456107 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:32:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151436870164 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | AnYeloUruri |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:33:08 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Evil |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:33:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151436930974 |
+| Players | 2/8 |
+| Host Name | Curivo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:33:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151436962749 |
+| Players | 3/15 |
+| Host Name | olummoarte |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:33:18 |
 
 
 |  | epic_boss_fight_nightmare |
