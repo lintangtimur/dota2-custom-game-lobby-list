@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151484693698 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | DICE |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:00:48 |
@@ -50,46 +50,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488715874 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Chemo del Solar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151488463633 |
-| Players | 3/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:07:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151488512682 |
-| Players | 1/8 |
-| Host Name | everything you need. |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:07:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151488683585 |
-| Players | 2/10 |
-| Host Name | Owl Him |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:08:03 |
+| Lobby ID | 28553151489111408 |
+| Players | 1/15 |
+| Host Name | Hummer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488717113 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151488683585 |
+| Players | 4/10 |
+| Host Name | Owl Him |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151488997002 |
+| Players | 1/15 |
+| Host Name | Jigsaw |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151489028108 |
+| Players | 1/10 |
+| Host Name | CharlieBrow - |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151489040329 |
+| Players | 1/10 |
+| Host Name | NO HABLO CON POBRES, IGUALADO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:41 |
 
 
 |  | epic_boss_fight_nightmare |
