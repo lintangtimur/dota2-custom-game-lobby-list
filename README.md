@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:45:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151444632013 |
-| Players | 9/10 |
-| Host Name | Ximo - tears |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:47:58 |
+| Lobby ID | 28553151445106057 |
+| Players | 1/15 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:48:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151444537812 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:47:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151444594549 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | VIR33(维尔) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:47:53 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151444592446 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:47:53 |
@@ -122,36 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151445084531 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | dota enthusiast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:48:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151445106057 |
-| Players | 1/15 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:48:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151445183206 |
-| Players | 1/24 |
-| Host Name | Mr.Hunter |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:48:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151444675873 |
-| Players | 1/10 |
-| Host Name | bmercy813 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:48:02 |
 
 
