@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151475735962 |
-| Players | 1/24 |
-| Host Name | hell walker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:43:48 |
+| Lobby ID | 28553151482246131 |
+| Players | 3/8 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:52:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151481448315 |
-| Players | 2/10 |
-| Host Name | XV1CT0RyRXzzz |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:54:47 |
+| Lobby ID | 28553151482650211 |
+| Players | 1/15 |
+| Host Name | -ace |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:57:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151481715384 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Alien |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:55:17 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:55:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151482246131 |
-| Players | 2/8 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151482650211 |
-| Players | 1/15 |
-| Host Name | -ace |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:57:01 |
 
 
 |  | epic_boss_fight_hard |
