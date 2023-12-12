@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151510022423 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | VOID ESPONJA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:47:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151508790387 |
-| Players | 19/24 |
-| Host Name | ⅅαn₲hɛℓℓ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:44:18 |
+| Lobby ID | 28553151509839318 |
+| Players | 1/15 |
+| Host Name | Silver~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:46:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151509672896 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:46:15 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151509624824 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Trell |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:46:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151509839318 |
-| Players | 1/15 |
-| Host Name | Silver~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:46:37 |
 
 
 |  | epic_boss_fight_nightmare |
