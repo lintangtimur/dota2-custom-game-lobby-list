@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151480034363 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:52:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151482377379 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sigonto |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151481715384 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Alien |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:55:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151481790412 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:55:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151481999036 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:55:49 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151482246131 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151482650211 |
+| Players | 1/15 |
+| Host Name | -ace |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:57:01 |
 
 
 |  | epic_boss_fight_hard |
