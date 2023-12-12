@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151457386613 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:10:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151457719761 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:11:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151457766561 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ГАДАЮ ПО КЛИТОРУ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:11:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151457443630 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 89% Winrate |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:11:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151456116574 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:08:42 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151457967310 |
-| Players | 3/8 |
-| Host Name | hakari bailecito |
+| Lobby ID | 28553151458028340 |
+| Players | 1/8 |
+| Host Name | Rem is life<3 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:11:59 |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:12:05 |
 
 
 |  | epic_boss_fight_normal |
