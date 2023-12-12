@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488715874 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Chemo del Solar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488717113 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
