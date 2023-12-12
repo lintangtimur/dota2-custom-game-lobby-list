@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151451906841 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151453213045 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | PRIME TIME |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:03:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151451804893 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:01 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:04:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151454041934 |
+| Players | 3/10 |
+| Host Name | Tioshadow |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:04:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151454082800 |
+| Players | 1/8 |
+| Host Name | 不行... |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:05:04 |
 
 
 |  | epic_boss_fight_nightmare |
