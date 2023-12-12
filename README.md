@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151396985088 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:07:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151397143834 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:07:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151397801108 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:09:21 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151398056072 |
-| Players | 2/8 |
-| Host Name | IA.MA-H1E |
+| Lobby ID | 28553151398105096 |
+| Players | 1/8 |
+| Host Name | MENOL LE LA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:09:56 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:10:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151398054424 |
+| Lobby ID | 28553151398130799 |
 | Players | 1/15 |
-| Host Name | lion |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:09:55 |
+| Host Name | -Clover |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:10:06 |
 
 
 |  | epic_boss_fight_nightmare |
