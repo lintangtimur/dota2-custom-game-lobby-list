@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151396985088 |
-| Players | 23/24 |
-| Host Name | ShubNiggurath |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:07:27 |
+| Lobby ID | 28553151399433141 |
+| Players | 2/15 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:12:59 |
 
 
 |  | ot3_desert_octet |
@@ -56,40 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 07:11:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151398341584 |
-| Players | 6/8 |
-| Host Name | hola tonotos |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:10:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151399385958 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ..... |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:12:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151399432355 |
-| Players | 3/8 |
-| Host Name | Saimon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:12:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151399433141 |
-| Players | 2/15 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:12:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553151398971125 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | EddieR92 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:12:00 |
