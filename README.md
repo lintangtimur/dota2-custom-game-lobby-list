@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:59:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151454041934 |
-| Players | 9/10 |
-| Host Name | Tioshadow |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:04:59 |
+| Lobby ID | 28553151455072272 |
+| Players | 1/15 |
+| Host Name | vb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:06:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151450944763 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Много денег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:59:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151455072272 |
-| Players | 1/15 |
-| Host Name | vb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:06:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151455133503 |
-| Players | 1/15 |
-| Host Name | Wizard of Wang |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:06:57 |
 
 
