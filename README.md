@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151459108032 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | SEXY LAMA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:13:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151459437096 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | G r e e n |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:14:29 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151459235512 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | CHALON |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:14:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151460453374 |
+| Players | 1/24 |
+| Host Name | Romano |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:16:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zer0CooL |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:10:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151460304752 |
-| Players | 1/5 |
-| Host Name | Ихихигорь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:16:01 |
 
 
