@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151478049462 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | SI CANCILA LA APUISTA Smurf 3.22 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:48:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151477452786 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | KosmoAkroshka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:47:12 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:48:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151478924717 |
+| Players | 2/5 |
+| Host Name | Yiegid |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:50:04 |
 
 
