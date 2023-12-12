@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151430907526 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | tv/Lexaofficial |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:22:05 |
@@ -38,42 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:23:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151431367941 |
-| Players | 8/10 |
-| Host Name | w0rse |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:22:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151431769290 |
-| Players | 15/24 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:23:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151431612916 |
-| Players | 8/10 |
-| Host Name | kekegozu |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:23:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151431534663 |
-| Players | 3/24 |
-| Host Name | Dayman, Fighter of the Nightman |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:23:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151432309057 |
@@ -83,12 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:24:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151431114825 |
-| Players | 9/10 |
-| Host Name | ikun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:22:28 |
+| Lobby ID | 28553151431769290 |
+| Players | 16/24 |
+| Host Name | CameraMan |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:23:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151431612916 |
+| Players | 6/10 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:23:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151431534663 |
+| Players | 4/24 |
+| Host Name | Dayman, Fighter of the Nightman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:23:14 |
 
 
