@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151477470750 |
-| Players | 1/8 |
-| Host Name | Пожилая Жма |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:47:14 |
+| Lobby ID | 28553151488997002 |
+| Players | 11/15 |
+| Host Name | Zyzz (2011) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151488805934 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ressentiment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151488715874 |
-| Players | 21/24 |
-| Host Name | Chemo del Solar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151489111408 |
-| Players | 6/15 |
-| Host Name | Hummer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:08:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151488717113 |
-| Players | 23/24 |
-| Host Name | 🦉 don't give a hoot 🦉 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151488997002 |
+| Lobby ID | 28553151489111408 |
 | Players | 11/15 |
-| Host Name | Zyzz (2011) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:08:37 |
+| Host Name | Hummer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:08:49 |
 
 
 |  | epic_boss_fight_nightmare |
