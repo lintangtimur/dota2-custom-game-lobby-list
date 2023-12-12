@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151453213045 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | PRIME TIME |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:03:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151451804893 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:01 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151452897138 |
-| Players | 8/10 |
-| Host Name | Only |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:02:57 |
+| Lobby ID | 28553151454203114 |
+| Players | 1/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:05:17 |
 
 
 |  | ot3_gardens_duo |
