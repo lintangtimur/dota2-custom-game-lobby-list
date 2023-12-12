@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151504119297 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151508790387 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | ⅅαn₲hɛℓℓ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:44:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151509078749 |
-| Players | 13/15 |
-| Host Name | Elias |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:44:57 |
+| Lobby ID | 28553151509672896 |
+| Players | 2/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:46:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151509545190 |
-| Players | 3/8 |
-| Host Name | Вова АДИДАС |
+| Players | 1/8 |
+| Host Name | Skat1na |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:45:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151509563461 |
-| Players | 2/10 |
-| Host Name | SAURON-_- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:46:00 |
+| Lobby ID | 28553151509624824 |
+| Players | 4/15 |
+| Host Name | Trell |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:46:09 |
 
 
 |  | ot3_gardens_duo |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SadlyItsBradley |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:46:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151509683223 |
+| Players | 1/15 |
+| Host Name | Silver~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:46:17 |
 
 
 |  | epic_boss_fight_nightmare |
