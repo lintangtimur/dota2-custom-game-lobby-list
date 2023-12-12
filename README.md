@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151499314016 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Тарас Бульбазавр |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:26:45 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151498184527 |
-| Players | 3/8 |
-| Host Name | 想像力상상력想像力— |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:24:44 |
+| Lobby ID | 28553151496407744 |
+| Players | 5/8 |
+| Host Name | DYNAMO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151498198531 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:24:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151498863230 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Rias Gremory |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:25:56 |
@@ -68,27 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151499142896 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | where-dome |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:26:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151496407744 |
-| Players | 6/8 |
-| Host Name | DYNAMO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151494872160 |
-| Players | 9/10 |
-| Host Name | TOROPSNAKET |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:18:56 |
 
 
