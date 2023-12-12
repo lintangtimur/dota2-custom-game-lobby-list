@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151444709002 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 奇跡 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:48:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151446105019 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Zacarias Dog |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:50:41 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151445496987 |
-| Players | 14/15 |
-| Host Name | , |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:49:34 |
+| Lobby ID | 28553151446753859 |
+| Players | 1/15 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:51:52 |
 
 
 |  | ot3_desert_octet |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Key TH |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:51:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151446753859 |
-| Players | 1/15 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:51:52 |
 
 
