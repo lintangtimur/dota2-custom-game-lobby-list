@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488715874 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Chemo del Solar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151488997002 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Jigsaw |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:37 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151489028108 |
-| Players | 2/10 |
-| Host Name | CharlieBrow - |
+| Players | 3/10 |
+| Host Name | ]_eXoes__Xex__.."> |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:40 |
 
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151488463633 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:07:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151489307401 |
-| Players | 1/10 |
-| Host Name | Badboy ne stoboi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:09:10 |
 
 
 |  | epic_boss_fight_nightmare |
