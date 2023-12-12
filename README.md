@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151437540526 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:34:21 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151437644407 |
-| Players | 7/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:34:33 |
+| Lobby ID | 28553151438366615 |
+| Players | 1/8 |
+| Host Name | Rem is life<3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:35:52 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151438123115 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Novato |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:35:26 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | y como la olvido? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:35:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151438366615 |
-| Players | 1/8 |
-| Host Name | Rem is life<3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:35:52 |
 
 
 |  | epic_boss_fight_nightmare |
