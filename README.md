@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:31:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151472528697 |
-| Players | 15/15 |
-| Host Name | ГАДАЮ ПО КЛИТОРУ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:37:22 |
+| Lobby ID | 28553151472260359 |
+| Players | 4/24 |
+| Host Name | DIMITREE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:36:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AnYeloUruri |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:36:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151472260359 |
-| Players | 3/24 |
-| Host Name | DIMITREE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:36:54 |
 
 
 |  | epic_boss_fight_nightmare |
