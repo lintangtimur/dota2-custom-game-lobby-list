@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151439456743 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | CursedArtemus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:37:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151440341703 |
-| Players | 10/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:39:31 |
+| Lobby ID | 28553151440690872 |
+| Players | 1/8 |
+| Host Name | froz645 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:40:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151439748256 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Look aT mE WelL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:38:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151431534663 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:23:14 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151440691584 |
-| Players | 1/8 |
-| Host Name | ALVINNN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:40:13 |
+| Lobby ID | 28553151440692542 |
+| Players | 2/8 |
+| Host Name | tv/Lexaofficial |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:40:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151440690872 |
-| Players | 1/8 |
-| Host Name | froz645 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:40:13 |
+| Lobby ID | 28553151440743534 |
+| Players | 1/15 |
+| Host Name | rOySkiE20 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:40:22 |
 
 
 |  | epic_boss_fight_nightmare |
