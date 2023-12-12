@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151436779384 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Тарас Бульбазавр |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:32:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151431534663 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:23:14 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Colonel Panic |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:33:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151437409220 |
+| Players | 6/8 |
+| Host Name | Skarp. TRADEIT.GG |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:34:07 |
 
 
 |  | epic_boss_fight_nightmare |
