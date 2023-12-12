@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151495554119 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Isagi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:20:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151496297414 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:21:25 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495131791 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Potical |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151493307826 |
-| Players | 1/15 |
-| Host Name | xxzd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:16:10 |
+| Lobby ID | 28553151496418287 |
+| Players | 3/8 |
+| Host Name | SadlyItsBradley |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:38 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151496407744 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DYNAMO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151496418287 |
-| Players | 3/8 |
-| Host Name | SadlyItsBradley |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:21:38 |
+| Lobby ID | 28553151496645006 |
+| Players | 1/10 |
+| Host Name | MADARA!!! |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:22:02 |
 
 
 |  | epic_boss_fight_nightmare |
