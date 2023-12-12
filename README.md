@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151404454782 |
-| Players | 13/15 |
-| Host Name | MC boos |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:24:11 |
+| Lobby ID | 28553151405469846 |
+| Players | 8/10 |
+| Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:26:28 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151403762478 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Madagascar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:22:39 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 07:22:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151403742844 |
-| Players | 24/24 |
-| Host Name | Archer |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:22:37 |
+| Lobby ID | 28553151405557607 |
+| Players | 1/8 |
+| Host Name | PussyDon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:26:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 07:26:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151405469846 |
-| Players | 8/10 |
-| Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:26:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151405557607 |
-| Players | 1/8 |
-| Host Name | PussyDon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:26:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151405744637 |
-| Players | 5/8 |
-| Host Name | Ядреный писюн |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:27:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151402824648 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | QWASZX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:20:34 |
