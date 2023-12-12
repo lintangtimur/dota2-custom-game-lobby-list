@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151440335967 |
-| Players | 11/15 |
-| Host Name | 192713 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:39:30 |
+| Lobby ID | 28553151439382540 |
+| Players | 1/24 |
+| Host Name | Kinfold |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:37:45 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151440692542 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | tv/Lexaofficial |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:40:14 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151440824823 |
-| Players | 5/15 |
-| Host Name | Arnold |
+| Players | 4/15 |
+| Host Name | Demonrice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:40:35 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151439748256 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Look aT mE WelL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:38:25 |
@@ -67,29 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151440942487 |
-| Players | 4/8 |
+| Lobby ID | 28553151441056172 |
+| Players | 1/8 |
 | Host Name | KIsS |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:40:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151439382540 |
-| Players | 1/24 |
-| Host Name | Kinfold |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:37:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151440930123 |
-| Players | 1/15 |
-| Host Name | Agent Orange |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:40:50 |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:41:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:39:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151440660159 |
-| Players | 1/10 |
-| Host Name | Moonshine◕ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:40:08 |
 
 
