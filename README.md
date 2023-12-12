@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151469330037 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:31:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151474086284 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:40:06 |
