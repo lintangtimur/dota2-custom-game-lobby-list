@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151504119297 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151508248559 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:43:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151509839318 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:46:37 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:47:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151510277495 |
-| Players | 7/8 |
-| Host Name | Anduin Rimuru Jr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:47:36 |
+| Lobby ID | 28553151510486737 |
+| Players | 1/15 |
+| Host Name | ArSkay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:48:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151507645785 |
-| Players | 9/10 |
-| Host Name | ? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:41:49 |
+| Lobby ID | 28553151510471627 |
+| Players | 2/10 |
+| Host Name | CeThum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:48:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | K1 de dia Kchero de noche |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:47:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28553151510531776 |
+| Players | 1/7 |
+| Host Name | YO_SOY_NIKKO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:48:10 |
 
 
