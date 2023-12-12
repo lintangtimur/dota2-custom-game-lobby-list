@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151505454510 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | goshiu |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:37:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151506525853 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:39:24 |
