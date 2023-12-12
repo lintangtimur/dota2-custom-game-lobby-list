@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151417081489 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Nenis        iilii |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:54:29 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 07:54:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151417412601 |
-| Players | 11/15 |
-| Host Name | Evil |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:55:17 |
+| Lobby ID | 28553151417815726 |
+| Players | 2/10 |
+| Host Name | Tioshadow |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:56:12 |
 
 
 |  | ot3_desert_octet |
