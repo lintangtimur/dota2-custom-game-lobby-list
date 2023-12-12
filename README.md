@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151509020227 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Carizu:3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:44:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151508248559 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:43:07 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:48:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151510599967 |
+| Players | 1/15 |
+| Host Name | . |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:48:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151510471627 |
@@ -108,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | haxa® |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:47:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151510445421 |
-| Players | 1/10 |
-| Host Name | K1 de dia Kchero de noche |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:47:58 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28553151510531776 |
-| Players | 1/7 |
-| Host Name | YO_SOY_NIKKO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:48:10 |
 
 
