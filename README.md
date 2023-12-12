@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 18/24 |
-| Host Name | archer queen |
+| Players | 20/24 |
+| Host Name | Nero Scarlet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151499314016 |
-| Players | 12/15 |
-| Host Name | Тарас Бульбазавр |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:26:45 |
+| Lobby ID | 28553151500083862 |
+| Players | 4/24 |
+| Host Name | Kziero |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:28:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151496407744 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | DYNAMO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151499934783 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Soy Leyenda ;) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:27:51 |
@@ -74,19 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:28:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151500083862 |
-| Players | 1/24 |
-| Host Name | Kziero |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:28:07 |
+| Lobby ID | 28553151499314016 |
+| Players | 14/15 |
+| Host Name | Тарас Бульбазавр |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:26:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151500519870 |
+| Players | 5/8 |
+| Host Name | Abuelo Tuzki |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:28:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151500005212 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:27:59 |
