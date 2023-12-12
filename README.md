@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151407771094 |
-| Players | 1/15 |
-| Host Name | C.A.V."jmmch38" |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:31:35 |
+| Lobby ID | 28553151406238302 |
+| Players | 14/15 |
+| Host Name | blasphemy |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:28:11 |
 
 
 |  | ot3_desert_octet |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151407972432 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ME LEDER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:32:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151406238302 |
-| Players | 14/15 |
-| Host Name | blasphemy |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:28:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151406652927 |
-| Players | 13/15 |
-| Host Name | te voy a sacar la mrd de tu ano |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:29:06 |
 
 
 |  | epic_boss_fight_nightmare |
