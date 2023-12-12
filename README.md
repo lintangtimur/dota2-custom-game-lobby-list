@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151513554389 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:54:34 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151512830992 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Potical |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:53:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151515739691 |
-| Players | 3/8 |
-| Host Name | webi wabo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:59:03 |
+| Lobby ID | 28553151515826945 |
+| Players | 2/15 |
+| Host Name | Nullifier~ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:59:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151515811870 |
+| Players | 1/15 |
+| Host Name | Yuki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:59:11 |
 
 
 |  | epic_boss_fight_hard |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151514177177 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 悲しい |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:55:53 |
