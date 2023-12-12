@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151409762107 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Hermano? Ni de mi perro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:35:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151409832152 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | vicario |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:36:02 |
