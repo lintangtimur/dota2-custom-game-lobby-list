@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151477470750 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Seleri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:47:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151480034363 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:52:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151479329885 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:50:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151479797337 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ms-grizlik |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:51:46 |
