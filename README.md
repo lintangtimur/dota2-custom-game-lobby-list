@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151508970307 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Mikooz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:44:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151504119297 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:44:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151508248559 |
-| Players | 21/24 |
-| Host Name | PIPHELS |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:43:07 |
+| Lobby ID | 28553151511264120 |
+| Players | 5/15 |
+| Host Name | MakimaGOD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:49:45 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151510788796 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ghost rider |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:48:44 |
@@ -86,27 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151510486737 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ArSkay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:48:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_demo |
 | ------ | ------ |
-| Lobby ID | 28553151511264120 |
-| Players | 5/15 |
-| Host Name | MakimaGOD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:49:45 |
+| Lobby ID | 28553151511425256 |
+| Players | 1/1 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:50:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151511368295 |
-| Players | 1/5 |
-| Host Name | Karhu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:49:59 |
+| Lobby ID | 28553151511446876 |
+| Players | 1/8 |
+| Host Name | COVID 19 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:50:09 |
 
 
