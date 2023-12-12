@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151420944418 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Magic |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:02:51 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151419643211 |
-| Players | 9/10 |
-| Host Name | Fikho |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:00:10 |
+| Lobby ID | 28553151421078903 |
+| Players | 3/10 |
+| Host Name | 76561198314092102 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:03:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151420787747 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:02:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151420769086 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | TTravisScoTT |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:02:30 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:02:48 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151420239801 |
+| Players | 14/15 |
+| Host Name | Sicario-Ursz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:01:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151421014672 |
+| Lobby ID | 28553151421123736 |
 | Players | 1/8 |
-| Host Name | BOBR_ЧленоДер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:03:00 |
+| Host Name | серёга тюряга |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:03:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151419727223 |
+| Players | 22/24 |
+| Host Name | Boston Market |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:00:21 |
 
 
 |  | epic_boss_fight_nightmare |
