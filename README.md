@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151506951162 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Nagi Seishiro- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:40:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151508970307 |
-| Players | 16/24 |
-| Host Name | Mikooz |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:44:42 |
+| Lobby ID | 28553151512477560 |
+| Players | 2/15 |
+| Host Name | Muchtolearn |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:52:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151504119297 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151511852766 |
-| Players | 14/15 |
-| Host Name | Basado Hyperclap |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:51:01 |
+| Lobby ID | 28553151512373716 |
+| Players | 7/10 |
+| Host Name | TOGA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:52:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151509839318 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:46:37 |
@@ -76,29 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151510788796 |
-| Players | 13/15 |
-| Host Name | ghost rider |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:48:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151512373716 |
-| Players | 3/10 |
-| Host Name | TOGA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:52:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151512369003 |
+| Lobby ID | 28553151512759828 |
 | Players | 1/15 |
-| Host Name | Xylerian |
+| Host Name | Professionalkiller |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:52:08 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:52:56 |
 
 
 |  | epic_boss_fight_hard |
