@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151477308190 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Slarkas777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:46:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151477452786 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | KosmoAkroshka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:47:12 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151478049462 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | SI CANCILA LA APUISTA Smurf 3.22 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:48:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151476785231 |
+| Players | 4/8 |
+| Host Name | 【TS】ˢᵖᶦᶜᵃ Haicox |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:45:53 |
 
 
 |  | epic_boss_fight_nightmare |
