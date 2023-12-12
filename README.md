@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151497634575 |
-| Players | 7/10 |
-| Host Name | Ejboss (the real one) |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:23:46 |
+| Lobby ID | 28553151498762403 |
+| Players | 6/8 |
+| Host Name | Kenner |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:25:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151497894061 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Es un Elissir xD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:24:13 |
@@ -38,40 +38,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151495131791 |
-| Players | 22/24 |
-| Host Name | Potical |
+| Lobby ID | 28553151498704127 |
+| Players | 8/15 |
+| Host Name | nkf |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:19:23 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:25:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151498198531 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:24:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151496488617 |
-| Players | 7/24 |
-| Host Name | Kenner |
+| Lobby ID | 28553151498863230 |
+| Players | 2/10 |
+| Host Name | Rias Gremory |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:21:46 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:25:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151498655257 |
+| Players | 3/8 |
+| Host Name | Destroza Hogares |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:25:34 |
 
 
 |  | epic_boss_fight_nightmare |
