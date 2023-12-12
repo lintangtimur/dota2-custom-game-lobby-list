@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151483394995 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | twitch.tv/mr_tam1r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:58:25 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | HybridTheory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151480512117 |
-| Players | 23/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:53:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151481238226 |
-| Players | 14/24 |
-| Host Name | Febem o Abusado |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:54:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151481715384 |
-| Players | 6/8 |
-| Host Name | Alien |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:55:17 |
 
 
 |  | ot3_gardens_duo |
@@ -110,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:59:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151481238226 |
+| Players | 16/24 |
+| Host Name | Febem o Abusado |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:54:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151483814674 |
+| Lobby ID | 28553151483889277 |
 | Players | 4/8 |
-| Host Name | sewmyface |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:59:11 |
+| Host Name | Abuelo Tuzki |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:59:19 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553151482455590 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | GooDNighT |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:40 |
