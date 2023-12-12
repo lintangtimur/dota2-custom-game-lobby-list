@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151433881884 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ꜰɪʀᴇ | 불사조 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:27:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151433350041 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Дурачок |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:26:37 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No Preasure Fest |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:28:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28553151434641925 |
+| Players | 1/5 |
+| Host Name | Rapier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:29:02 |
 
 
