@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151479803791 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Dimval<3 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:51:47 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151483394995 |
-| Players | 13/15 |
-| Host Name | twitch.tv/mr_tam1r |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:58:25 |
+| Lobby ID | 28553151484305605 |
+| Players | 3/10 |
+| Host Name | BLESS THIS MESS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:00:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151483786334 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Kad |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:59:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151483973960 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:59:28 |
@@ -110,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:53:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151484305605 |
-| Players | 2/10 |
-| Host Name | BLESS THIS MESS |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:00:05 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553151482455590 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | GooDNighT |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:40 |
