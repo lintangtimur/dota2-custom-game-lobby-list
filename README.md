@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151435049457 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Weakkkkk loooool |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:29:47 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151431534663 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:23:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151434185872 |
-| Players | 7/8 |
-| Host Name | escape from reality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:28:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sicario-Ursz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:30:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151433018238 |
+| Players | 13/15 |
+| Host Name | Logan |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:26:00 |
 
 
