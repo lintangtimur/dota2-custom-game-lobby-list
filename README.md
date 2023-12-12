@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151469330037 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:31:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151474086284 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:40:06 |
@@ -94,38 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151472260359 |
-| Players | 23/24 |
-| Host Name | DIMITREE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:36:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28553151474293804 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TORONTOCOSH |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:40:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151474336523 |
-| Players | 1/24 |
-| Host Name | E X f i r e |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:40:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151471447018 |
-| Players | 1/10 |
-| Host Name | BANgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:35:29 |
 
 
 |  | epic_boss_fight_challenger |
@@ -135,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GooDNighT |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:35:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28553151474366807 |
-| Players | 1/5 |
-| Host Name | Mundus |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:40:50 |
 
 
