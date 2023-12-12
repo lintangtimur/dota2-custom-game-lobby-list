@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151495481015 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | BOBR_ЧленоДер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:20:00 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151495554119 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Isagi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:20:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151495569121 |
-| Players | 21/24 |
-| Host Name | Febem o Abusado |
+| Lobby ID | 28553151496297414 |
+| Players | 4/15 |
+| Host Name | Tucan Mistico :v |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:20:09 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151482246131 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
@@ -56,31 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:16:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151494895691 |
-| Players | 8/10 |
-| Host Name | Sullivan |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:18:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151494942036 |
-| Players | 5/8 |
-| Host Name | Kira sempai <3 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:19:03 |
+| Lobby ID | 28553151496488617 |
+| Players | 6/24 |
+| Host Name | Kenner |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151496407744 |
+| Players | 2/8 |
+| Host Name | DYNAMO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151496418287 |
+| Players | 3/8 |
+| Host Name | SadlyItsBradley |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:38 |
 
 
 |  | epic_boss_fight_nightmare |
