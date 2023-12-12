@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151485670010 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | never felt so bad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:02:35 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:01:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151483232643 |
-| Players | 7/8 |
-| Host Name | Danik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:58:06 |
+| Lobby ID | 28553151482650211 |
+| Players | 14/15 |
+| Host Name | -ace |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:57:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151485333537 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | DOOM RAMON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:01:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151485634866 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | .no lose |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:02:31 |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151486384164 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jaydee |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:03:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151482650211 |
-| Players | 13/15 |
-| Host Name | -ace |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:57:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151486438482 |
-| Players | 1/8 |
-| Host Name | who's |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:03:59 |
+| Lobby ID | 28553151486550018 |
+| Players | 5/8 |
+| Host Name | micro科斯 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:04:11 |
 
 
 |  | epic_boss_fight_nightmare |
