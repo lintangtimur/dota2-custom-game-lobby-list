@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151506951162 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Nagi Seishiro- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:40:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151482246131 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151512177664 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | B!MO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:51:43 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:46:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151510788796 |
-| Players | 14/15 |
-| Host Name | ghost rider |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:48:44 |
+| Lobby ID | 28553151512886310 |
+| Players | 1/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:53:12 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553151512128689 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:51:37 |
