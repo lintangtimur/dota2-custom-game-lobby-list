@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151485634866 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | .no lose |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:02:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151485333537 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | DOOM RAMON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:01:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151486712507 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | who's |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:04:29 |
@@ -96,9 +96,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151486980892 |
 | Players | 2/15 |
-| Host Name | SkiLL_KaK_U_StaLiNa |
+| Host Name | Silver~ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:04:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151487069695 |
+| Players | 1/15 |
+| Host Name | QARRAA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:05:08 |
 
 
 |  | epic_boss_fight_nightmare |
