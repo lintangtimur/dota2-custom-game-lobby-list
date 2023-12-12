@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151502838291 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Invert |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:32:59 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151504103400 |
-| Players | 5/8 |
-| Host Name | Hyakutaro11 |
+| Players | 2/8 |
+| Host Name | Chuis 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:10 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151504119297 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151504120565 |
+| Lobby ID | 28553151504166311 |
+| Players | 6/15 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:35:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151504219231 |
 | Players | 1/15 |
-| Host Name | ♂ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
+| Host Name | Silver~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:35:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28553151502888126 |
+| Lobby ID | 28553151503361216 |
 | Players | 4/10 |
-| Host Name | CeThum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:33:04 |
+| Host Name | Aria |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:33:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MoonMierda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:33:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28553151503361216 |
-| Players | 3/10 |
-| Host Name | Aria |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:33:52 |
 
 
