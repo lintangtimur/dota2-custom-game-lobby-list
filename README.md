@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151057594597 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | yunko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151457386613 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:10:57 |
@@ -47,49 +47,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:59:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151455887486 |
-| Players | 5/8 |
-| Host Name | YO PINGA LOCA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:08:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151456117890 |
-| Players | 6/10 |
-| Host Name | Shearinex |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:08:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151456777994 |
-| Players | 14/15 |
-| Host Name | nkf |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:09:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151456116574 |
-| Players | 11/24 |
-| Host Name | LowLife *w* |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:08:42 |
+| Lobby ID | 28553151457719761 |
+| Players | 1/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:11:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151457766561 |
+| Players | 3/8 |
+| Host Name | ГАДАЮ ПО КЛИТОРУ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:11:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151457443630 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 89% Winrate |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:11:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151456116574 |
+| Players | 15/24 |
+| Host Name | LowLife *w* |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:08:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151457967310 |
+| Players | 3/8 |
+| Host Name | hakari bailecito |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:11:59 |
 
 
 |  | epic_boss_fight_normal |
