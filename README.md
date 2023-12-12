@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151504119297 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Loki Laufeyson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:35:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151508790387 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | ⅅαn₲hɛℓℓ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:44:18 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151509078749 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Elias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:44:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28553151509545190 |
+| Players | 3/8 |
+| Host Name | Вова АДИДАС |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:45:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151509563461 |
+| Players | 2/10 |
+| Host Name | SAURON-_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:46:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151509567482 |
+| Players | 4/10 |
+| Host Name | SadlyItsBradley |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:46:01 |
 
 
 |  | epic_boss_fight_nightmare |
