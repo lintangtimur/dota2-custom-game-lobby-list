@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:20:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151495554119 |
-| Players | 14/15 |
-| Host Name | Isagi |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:20:08 |
+| Lobby ID | 28553151496407744 |
+| Players | 4/8 |
+| Host Name | DYNAMO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495131791 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Potical |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:23 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151496407744 |
-| Players | 3/8 |
-| Host Name | DYNAMO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:21:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151496645006 |
-| Players | 1/10 |
-| Host Name | MADARA!!! |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:22:02 |
 
 
 |  | epic_boss_fight_nightmare |
