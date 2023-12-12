@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:59:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151463600514 |
-| Players | 12/24 |
-| Host Name | MoonRay |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:21:52 |
+| Lobby ID | 28553151466000513 |
+| Players | 2/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:26:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28553151465293860 |
 | Players | 5/10 |
-| Host Name | big stepper |
+| Host Name | Сильвестр в Столовой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:24:49 |
 
@@ -77,36 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151465581071 |
-| Players | 1/8 |
-| Host Name | AriBri<3 |
+| Players | 4/8 |
+| Host Name | GIORDOTA.COM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:25:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151466000513 |
-| Players | 2/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:26:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151466023726 |
-| Players | 2/8 |
-| Host Name | Kira |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:26:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151462802802 |
-| Players | 23/24 |
-| Host Name | 🦉 don't give a hoot 🦉 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:20:26 |
 
 
