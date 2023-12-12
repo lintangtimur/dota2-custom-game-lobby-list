@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151477470750 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Seleri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:47:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151478074988 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | falcon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:48:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151477308190 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Slarkas777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:46:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151477452786 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | KosmoAkroshka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:47:12 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151478049462 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | SI CANCILA LA APUISTA Smurf 3.22 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:48:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151476785231 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 【TS】ˢᵖᶦᶜᵃ Haicox |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:45:53 |
