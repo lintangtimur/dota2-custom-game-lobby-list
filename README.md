@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151396985088 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:07:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151397143834 |
-| Players | 11/24 |
-| Host Name | freshejka |
+| Players | 13/24 |
+| Host Name | DerekGG |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:07:50 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151398402136 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Æsirivymo Orttommsto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:10:42 |
@@ -59,19 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151398341584 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ロイヤー |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:10:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151397640340 |
+| Players | 9/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:08:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151398577896 |
+| Players | 2/10 |
+| Host Name | пугаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:11:06 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151398555276 |
+| Lobby ID | 28553151398632518 |
 | Players | 1/15 |
-| Host Name | KILLMONGER |
+| Host Name | EAAM |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:11:03 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:11:13 |
 
 
 |  | epic_boss_fight_nightmare |
