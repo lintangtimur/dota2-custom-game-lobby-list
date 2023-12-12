@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151498762403 |
-| Players | 6/8 |
-| Host Name | Kenner |
+| Lobby ID | 28553151498655257 |
+| Players | 5/8 |
+| Host Name | Destroza Hogares |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:25:45 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:25:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151498704127 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:25:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151498198531 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:24:45 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151495046744 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | archer queen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:19:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151498655257 |
-| Players | 3/8 |
-| Host Name | Destroza Hogares |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:25:34 |
 
 
 |  | epic_boss_fight_nightmare |
