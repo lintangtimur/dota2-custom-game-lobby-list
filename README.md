@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 08:26:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151432695445 |
-| Players | 14/15 |
-| Host Name | Seito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:25:23 |
+| Lobby ID | 28553151433114880 |
+| Players | 1/10 |
+| Host Name | G59 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:26:11 |
 
 
 |  | ot3_gardens_duo |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151433106035 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 자요 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:26:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151433114880 |
-| Players | 1/10 |
-| Host Name | G59 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:26:11 |
+| Lobby ID | 28553151433213010 |
+| Players | 2/15 |
+| Host Name | 𝔱𝔯𝔦𝔤𝔤𝔢𝔯 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:26:22 |
 
 
