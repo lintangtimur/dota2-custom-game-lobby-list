@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151399076758 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:12:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151398341584 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | hola tonotos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:10:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151399385958 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ..... |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:12:53 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151399391781 |
-| Players | 1/8 |
-| Host Name | lil boG |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:12:54 |
+| Lobby ID | 28553151399432355 |
+| Players | 3/8 |
+| Host Name | Saimon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:12:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151399433141 |
+| Players | 2/15 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:12:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28553151398971125 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | EddieR92 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:12:00 |
