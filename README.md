@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151491823934 |
-| Players | 23/24 |
-| Host Name | SUPER SAM |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:13:33 |
+| Lobby ID | 28553151494231866 |
+| Players | 1/8 |
+| Host Name | 宵咲奏ファン。 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:17:48 |
 
 
 |  | ot3_desert_octet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151494059673 |
-| Players | 6/15 |
-| Host Name | Sigonto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:17:30 |
+| Lobby ID | 28553151494411618 |
+| Players | 1/15 |
+| Host Name | jumer nairovi |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:18:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151492393160 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SabrosonxD322 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:14:33 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 10:17:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151494231866 |
-| Players | 1/8 |
-| Host Name | 宵咲奏ファン。 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:17:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151491676026 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:13:19 |
