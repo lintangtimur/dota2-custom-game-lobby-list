@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151451906841 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151451927275 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | CursedArtemus |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151452897138 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Only |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:02:57 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151452993389 |
-| Players | 4/10 |
-| Host Name | zoro roronoa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:03:07 |
+| Lobby ID | 28553151453088894 |
+| Players | 2/10 |
+| Host Name | overdose  |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:03:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151451899665 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Malenia Blade of Miquella |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:11 |
