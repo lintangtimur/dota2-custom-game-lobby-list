@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151462025248 |
-| Players | 6/15 |
-| Host Name | Wicharplay |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:19:03 |
+| Lobby ID | 28553151462401308 |
+| Players | 6/8 |
+| Host Name | Domination |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:19:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151460453374 |
-| Players | 20/24 |
-| Host Name | Romano |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:16:17 |
+| Lobby ID | 28553151462802802 |
+| Players | 9/24 |
+| Host Name | 🦉 don't give a hoot 🦉 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:20:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151462268768 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 借 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:19:29 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151461844204 |
-| Players | 8/15 |
-| Host Name | R U K I N G |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:18:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151462401308 |
-| Players | 2/8 |
-| Host Name | Domination |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:19:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28553151460547694 |
-| Players | 7/10 |
-| Host Name | chrollo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:16:26 |
+| Lobby ID | 28553151463092065 |
+| Players | 1/15 |
+| Host Name | BOBR_ЧленоДер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:20:57 |
 
 
 |  | epic_boss_fight_nightmare |
