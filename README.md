@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151456266782 |
-| Players | 13/15 |
-| Host Name | snowman |
+| Lobby ID | 28553151457386613 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:08:58 |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:10:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151456777994 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:09:53 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:08:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151457443630 |
+| Players | 1/10 |
+| Host Name | 89% Winrate |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:11:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zer0CooL |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:10:08 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28553151457318395 |
-| Players | 1/7 |
-| Host Name | КЛАВАБАЛАКЛАВА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:10:50 |
 
 
