@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:47:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151487689499 |
-| Players | 7/8 |
-| Host Name | B!MO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:06:15 |
+| Lobby ID | 28553151484693698 |
+| Players | 6/15 |
+| Host Name | NOTSEV3N |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:00:48 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151484693698 |
-| Players | 7/15 |
-| Host Name | NOTSEV3N |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:00:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28553151488079829 |
-| Players | 1/15 |
-| Host Name | JHONY RICO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:06:57 |
+| Lobby ID | 28553151488180106 |
+| Players | 1/10 |
+| Host Name | Badboy ne stoboi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:07:08 |
 
 
 |  | epic_boss_fight_nightmare |
