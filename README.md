@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151467122022 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:28:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151467606496 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | lpstr |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:28:52 |
@@ -95,25 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151465627527 |
-| Players | 3/8 |
-| Host Name | ,), |
+| Players | 2/8 |
+| Host Name | POZNAI KOI E |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:25:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151467727717 |
+| Lobby ID | 28553151467060912 |
+| Players | 11/15 |
+| Host Name | -ace |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:27:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151467855297 |
 | Players | 1/15 |
 | Host Name | PerpleXity_ |
 | Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:29:04 |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:29:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151466551904 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:27:01 |
