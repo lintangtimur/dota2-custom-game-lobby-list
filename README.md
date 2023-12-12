@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151507125483 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | DeathFire |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:40:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151507420093 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AJ#MODO DIABLO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:41:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151507758968 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | pwningdude |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:42:04 |
