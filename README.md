@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151474879484 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Sin% |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:42:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -29,40 +29,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 11, 2023 23:31:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28553151475200680 |
-| Players | 4/8 |
-| Host Name | JUANITO ALIMAÑA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:42:43 |
+| Lobby ID | 28553151475735962 |
+| Players | 1/24 |
+| Host Name | hell walker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:43:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151473985186 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Arseeuz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:39:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151473202992 |
-| Players | 1/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:38:32 |
+| Lobby ID | 28553151475592828 |
+| Players | 2/8 |
+| Host Name | XFullHouse |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:43:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151475422746 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Anarith |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:43:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151475571167 |
+| Players | 1/15 |
+| Host Name | Agent Orange |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:43:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151475563843 |
+| Players | 4/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:43:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151475656091 |
+| Players | 2/10 |
+| Host Name | TU DIOS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:43:38 |
 
 
 |  | epic_boss_fight_nightmare |
