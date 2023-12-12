@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151489468746 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | WAJU LUJAN CARRION |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:09:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | HybridTheory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488715874 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Chemo del Solar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151489111408 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Hummer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151488717113 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | 🦉 don't give a hoot 🦉 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151488997002 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Zyzz (2011) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:08:37 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151489028108 |
-| Players | 8/10 |
-| Host Name | ]_eXoes__Xex__.."> |
+| Lobby ID | 28553151490916049 |
+| Players | 1/10 |
+| Host Name | z R R |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 10:08:40 |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:12:01 |
 
 
 |  | epic_boss_fight_nightmare |
