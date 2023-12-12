@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151482246131 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151482650211 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | -ace |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:57:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151483232643 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Danik |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:58:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | HybridTheory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151483033893 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Abuelo Tuzki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:57:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151481238226 |
-| Players | 3/24 |
+| Players | 13/24 |
 | Host Name | Febem o Abusado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:54:24 |
@@ -94,17 +94,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151481999036 |
+| Lobby ID | 28553151481715384 |
 | Players | 4/8 |
-| Host Name | Dereck Zoolander. |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:55:49 |
+| Host Name | Alien |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:55:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28553151483394995 |
+| Players | 7/15 |
+| Host Name | twitch.tv/mr_tam1r |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:58:25 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28553151482455590 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | GooDNighT |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:56:40 |
