@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151451262257 |
-| Players | 8/10 |
-| Host Name | SI ERES POBRE TE MUTEO |
+| Lobby ID | 28553151451799264 |
+| Players | 5/8 |
+| Host Name | El Pejerrete |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:00:01 |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:01:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151451906841 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151450144409 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Boshito |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:57:57 |
@@ -59,64 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151451927275 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | CursedArtemus |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151449914877 |
-| Players | 1/24 |
-| Host Name | Siopaolicius |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:57:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151450944763 |
-| Players | 9/10 |
-| Host Name | Много денег |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:59:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151451804893 |
-| Players | 10/24 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:01:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28553151451723399 |
-| Players | 18/24 |
-| Host Name | EL REPORTADOR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:00:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28553151451799264 |
-| Players | 5/8 |
-| Host Name | El Pejerrete |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:01:00 |
+| Lobby ID | 28553151452567691 |
+| Players | 1/10 |
+| Host Name | overdose  |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:02:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151452351137 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | SUPERKLITOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:01:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28553151451804893 |
+| Players | 7/24 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:01:01 |
 
 
 |  | epic_boss_fight_nightmare |
