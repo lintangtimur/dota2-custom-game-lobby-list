@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151407668690 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Varian Wrynn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:31:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151407972432 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ME LEDER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:32:02 |
