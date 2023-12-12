@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151430267482 |
-| Players | 13/15 |
-| Host Name | Arseeuz |
+| Lobby ID | 28553151429574937 |
+| Players | 7/8 |
+| Host Name | регнул паблик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 12, 2023 08:20:53 |
+| Lobby Creation Time | Tuesday, December 12, 2023 08:19:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151430420914 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Кацапоріз |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:21:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28553151429748783 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PAJANCIO ;V |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 08:19:54 |
