@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151470794793 |
-| Players | 5/15 |
-| Host Name | Батончик Джек |
+| Players | 4/15 |
+| Host Name | Наташа - Два баша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:34:22 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 12, 2023 09:31:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151468275935 |
-| Players | 23/24 |
-| Host Name | TTravisScoTT |
+| Lobby ID | 28553151471101395 |
+| Players | 4/15 |
+| Host Name | e3 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:30:03 |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:34:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151470380176 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:33:39 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151469254017 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | "†YoNhACoffIN†"†RAmPaSSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:31:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151471101395 |
-| Players | 3/15 |
-| Host Name | e3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 09:34:54 |
+| Lobby ID | 28553151471533356 |
+| Players | 2/10 |
+| Host Name | Батончик Джек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:35:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28553151469650655 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 青椒小新 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:32:26 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GooDNighT |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 12, 2023 09:35:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28553151471447018 |
+| Players | 2/10 |
+| Host Name | BANgiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 09:35:29 |
 
 
