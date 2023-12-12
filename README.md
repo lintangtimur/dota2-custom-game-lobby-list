@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151513434279 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | jetlag |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:54:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151514194382 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Игорь (Артём) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:55:55 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 10:55:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28553151514338452 |
+| Players | 1/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 10:56:13 |
 
 
 |  | epic_boss_fight_hard |
