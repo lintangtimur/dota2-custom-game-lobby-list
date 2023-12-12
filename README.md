@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151414444713 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | Cancell ^^ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:47:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28553151255039297 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | Artifice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 12, 2023 03:13:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28553151414787939 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:48:43 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28553151413596964 |
-| Players | 13/15 |
-| Host Name | no mercy |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:45:25 |
+| Lobby ID | 28553151415440722 |
+| Players | 1/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:50:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28553151415303594 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | MindLines |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 12, 2023 07:50:06 |
@@ -67,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151412987419 |
-| Players | 9/10 |
-| Host Name | kekegozu |
+| Lobby ID | 28553151415505671 |
+| Players | 6/10 |
+| Host Name | Toni Kroos |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:43:42 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:50:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28553151415377797 |
-| Players | 2/15 |
-| Host Name | zR |
+| Lobby ID | 28553151415573335 |
+| Players | 6/10 |
+| Host Name | ComebackKing |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:50:18 |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:50:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28553151407974869 |
-| Players | 7/10 |
-| Host Name | LoMaR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 12, 2023 07:32:02 |
+| Lobby ID | 28553151415666178 |
+| Players | 5/8 |
+| Host Name | COLAPSO++ LP♠ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 12, 2023 07:51:03 |
 
 
