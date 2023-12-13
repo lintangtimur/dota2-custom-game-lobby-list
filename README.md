@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915950747109 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | El Sin instinto |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:14:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915951433601 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Neferpitou |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:15:48 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:15:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915950382458 |
-| Players | 6/8 |
-| Host Name | Yaaaami |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:13:46 |
+| Lobby ID | 28561915951554001 |
+| Players | 3/24 |
+| Host Name | Frank Zappa |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:16:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:15:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915951554001 |
-| Players | 1/24 |
-| Host Name | Frank Zappa |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:16:02 |
 
 
 |  | epic_boss_fight_nightmare |
