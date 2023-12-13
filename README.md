@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915963530957 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Sr. Isma |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:37:52 |
