@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:35:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915962708363 |
-| Players | 21/24 |
-| Host Name | Nightfall |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:36:24 |
+| Lobby ID | 28561915958788906 |
+| Players | 7/8 |
+| Host Name | Any humans |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:29:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915963459298 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:37:45 |
@@ -94,17 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561915952961031 |
-| Players | 1/10 |
-| Host Name | jusplayin |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:18:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28561915959506312 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Clown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:30:41 |
