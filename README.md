@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915959794040 |
-| Players | 14/15 |
-| Host Name | .neff |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:31:12 |
+| Lobby ID | 28561915961517833 |
+| Players | 5/8 |
+| Host Name | BNB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:34:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915960606968 |
-| Players | 12/15 |
-| Host Name | sonrie :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:32:39 |
+| Lobby ID | 28561915961847592 |
+| Players | 1/15 |
+| Host Name | SOJU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:34:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915961433456 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 𩠑 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:34:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915961517833 |
-| Players | 1/8 |
-| Host Name | BNB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:34:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915961582808 |
-| Players | 1/24 |
-| Host Name | Kbeza |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:34:23 |
+| Lobby ID | 28561915961911847 |
+| Players | 3/15 |
+| Host Name | tfg |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:34:59 |
 
 
 |  | epic_boss_fight_nightmare |
