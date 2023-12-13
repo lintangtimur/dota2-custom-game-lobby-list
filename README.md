@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916009941793 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:08:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916010310163 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | why are u crying? |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:09:21 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916010368187 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Mysor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:09:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916007446197 |
-| Players | 14/15 |
-| Host Name | elektro |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:03:42 |
+| Lobby ID | 28561916010777875 |
+| Players | 2/8 |
+| Host Name | Kaydo亚瑟 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:10:17 |
 
 
 |  | epic_boss_fight_nightmare |
