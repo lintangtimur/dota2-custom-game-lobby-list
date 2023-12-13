@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915951554001 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:16:02 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915952719365 |
-| Players | 2/8 |
-| Host Name | чмо |
+| Players | 1/8 |
+| Host Name | unicornparadise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:18:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915953001999 |
-| Players | 14/15 |
-| Host Name | Waste |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:18:50 |
+| Lobby ID | 28561915953374323 |
+| Players | 2/10 |
+| Host Name | bub |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:19:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,17 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915953374323 |
-| Players | 2/10 |
-| Host Name | bub |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:19:30 |
+| Lobby ID | 28561915953853999 |
+| Players | 3/10 |
+| Host Name | paradise |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:20:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561915953864582 |
+| Players | 4/8 |
+| Host Name | Mã$ţ€řkîłł£ř |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:20:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561915953892566 |
+| Players | 6/15 |
+| Host Name | NIJI |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:20:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915946995151 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:50 |
