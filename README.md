@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916010310163 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | why are u crying? |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:09:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916011617620 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:11:57 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916013800205 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | fujiwara^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:16:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916013646654 |
-| Players | 4/15 |
-| Host Name | Teddy |
+| Lobby ID | 28561916014329022 |
+| Players | 6/10 |
+| Host Name | The chosen one ♠ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:16:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561916014332521 |
+| Players | 1/24 |
+| Host Name | DJ |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:15:45 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:16:54 |
 
 
