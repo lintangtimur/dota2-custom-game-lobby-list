@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915933593379 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915933989989 |
-| Players | 8/10 |
-| Host Name | ikaris |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:37:25 |
+| Lobby ID | 28561915934930901 |
+| Players | 6/15 |
+| Host Name | Жириновский.В.В |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:39:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915934094367 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | GraFx |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:37:36 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SOMPLAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:39:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915934930901 |
-| Players | 5/15 |
-| Host Name | Жириновский.В.В |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:39:02 |
 
 
 |  | epic_boss_fight_nightmare |
