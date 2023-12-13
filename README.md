@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028945273 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916036203845 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | somewhatBilal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:10 |
