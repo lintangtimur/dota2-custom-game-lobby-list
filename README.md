@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916055869924 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:34:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916056985965 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 小当家干脆面 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:36:19 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hadfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:33:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28561916056766071 |
-| Players | 2/5 |
-| Host Name | Yun-The Pro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:35:57 |
 
 
