@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916009941793 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:08:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916010368187 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | pandorex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:09:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916010777875 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kaydo亚瑟 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:10:17 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:11:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916011662371 |
-| Players | 1/15 |
-| Host Name | 求放过！！！ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:12:03 |
 
 
