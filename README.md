@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915933593379 |
-| Players | 9/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:36:44 |
+| Lobby ID | 28561915936326044 |
+| Players | 4/15 |
+| Host Name | rafalee |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:42:02 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915935294573 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Any humans |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:39:40 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915936390096 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Badboy ne stoboi |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:42:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915936326044 |
-| Players | 3/15 |
-| Host Name | rafalee |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:42:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915936416313 |
-| Players | 4/10 |
-| Host Name | Misora |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
