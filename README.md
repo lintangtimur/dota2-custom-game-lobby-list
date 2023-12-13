@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:31:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916024582437 |
-| Players | 11/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28561916025792116 |
+| Players | 5/8 |
+| Host Name | Nhe4 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:34:28 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:36:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:36:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916025792116 |
-| Players | 3/8 |
-| Host Name | Nhe4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:36:31 |
+| Lobby ID | 28561916026371390 |
+| Players | 2/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:37:31 |
 
 
 |  | epic_boss_fight_nightmare |
