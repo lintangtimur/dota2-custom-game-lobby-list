@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915967269269 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | smurf papus!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:46:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915968549864 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:49:18 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:50:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561915969110446 |
+| Players | 1/24 |
+| Host Name | Silver~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:50:34 |
 
 
 |  | epic_boss_fight_nightmare |
