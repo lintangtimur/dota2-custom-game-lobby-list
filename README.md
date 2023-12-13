@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915992207486 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:32:57 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915991910286 |
-| Players | 7/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:32:26 |
+| Lobby ID | 28561915990811911 |
+| Players | 7/15 |
+| Host Name | Nate Diaz |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:30:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915991721823 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Князь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:32:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915987950063 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | John Pork |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:25:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915990462177 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:29:57 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stronger |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:29:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915990811911 |
-| Players | 7/15 |
-| Host Name | Nate Diaz |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:30:34 |
 
 
 |  | epic_boss_fight_nightmare |
