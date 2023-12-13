@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915941986834 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Trishtam |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:55:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915941787242 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:54:58 |
