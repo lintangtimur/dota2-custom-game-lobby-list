@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916063500981 |
-| Players | 12/15 |
-| Host Name | KROCODILenjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:48:22 |
+| Lobby ID | 28561916062995854 |
+| Players | 4/8 |
+| Host Name | Don Don Donki |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:47:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916063538086 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ПСИХОПАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:48:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561916062995854 |
-| Players | 3/8 |
-| Host Name | Don Don Donki |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:47:24 |
+| Lobby ID | 28561916063894384 |
+| Players | 3/10 |
+| Host Name | Smufff |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:49:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28561916064061528 |
+| Players | 1/5 |
+| Host Name | Muralo |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:49:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561916063894384 |
+| Lobby ID | 28561916064083727 |
 | Players | 1/10 |
-| Host Name | Smufff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:49:07 |
+| Host Name | Abril te extraño regresa :c |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:49:28 |
 
 
