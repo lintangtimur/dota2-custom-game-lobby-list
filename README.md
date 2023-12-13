@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916035389015 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Gamer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:56:29 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:36 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916036672026 |
+| Players | 2/15 |
+| Host Name | Phin Pyaung Htut Gyi |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:59:07 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28561916035638351 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Абхазская вафля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:56:59 |
