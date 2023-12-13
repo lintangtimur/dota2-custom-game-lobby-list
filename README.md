@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915907842120 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | durak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:51:22 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915907664900 |
-| Players | 2/24 |
-| Host Name | 12345678901234567890123456789012 |
+| Players | 1/24 |
+| Host Name | Ave AD0!4 Hit!er Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:51:02 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915907761860 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | aWarDeeee |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:51:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915907420573 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Dialed in. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:50:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915907482164 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:50:42 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915907628242 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | STAIN14 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:50:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561915908240251 |
+| Players | 6/24 |
+| Host Name | Claymore ( ͡° ͜ʖ ͡°) |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, December 13, 2023 10:52:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561915906843291 |
+| Players | 23/24 |
+| Host Name | Mr. HDHQ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 10:49:25 |
 
 
 |  | epic_boss_fight_nightmare |
