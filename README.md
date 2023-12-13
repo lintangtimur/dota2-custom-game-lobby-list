@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915950171595 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | GaalxOid |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:13:24 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915951509752 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:15:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915952249266 |
+| Players | 1/10 |
+| Host Name | TEPUNTEO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:17:25 |
 
 
 |  | epic_boss_fight_nightmare |
