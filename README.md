@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915979994127 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Single Mom Maker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:11:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915977125910 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:06:25 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915982887320 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:16:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915984359922 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:19:21 |
 
 
 |  | epic_boss_fight_nightmare |
