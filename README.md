@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916012144088 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Baki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:13:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916013332701 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Parazittus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:15:13 |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:16:00 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561916014329022 |
-| Players | 6/10 |
-| Host Name | The chosen one ♠ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:16:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561916014332521 |
-| Players | 1/24 |
-| Host Name | DJ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:16:54 |
+| Lobby ID | 28561916014440340 |
+| Players | 1/10 |
+| Host Name | Moonshine◕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:17:05 |
 
 
