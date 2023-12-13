@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561916026396861 |
-| Players | 11/15 |
-| Host Name | Zehel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:37:33 |
+| Lobby ID | 28561916026696379 |
+| Players | 1/24 |
+| Host Name | In the pipe five by five |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:38:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:31:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916025792116 |
-| Players | 7/8 |
-| Host Name | Nhe4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:36:31 |
+| Lobby ID | 28561916026846473 |
+| Players | 6/15 |
+| Host Name | Xibalba |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:38:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916025844425 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Gamer+3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:36:36 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916026435627 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | FU Marvel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:37:37 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561916026696379 |
-| Players | 1/24 |
-| Host Name | In the pipe five by five |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:38:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916026846473 |
-| Players | 5/15 |
-| Host Name | Xibalba |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:38:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561916024597014 |
-| Players | 5/10 |
-| Host Name | ang qt qt ko |
+| Lobby ID | 28561916027256362 |
+| Players | 1/10 |
+| Host Name | oppixoppixfruit |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:34:29 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:39:00 |
 
 
