@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915938455810 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:47:07 |
@@ -47,21 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:47:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561915938903749 |
+| Players | 2/15 |
+| Host Name | Clinkz Eastwood |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:48:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915935402813 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BANgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:39:51 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561915938822778 |
-| Players | 2/7 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:47:59 |
+| Lobby ID | 28561915938874465 |
+| Players | 1/10 |
+| Host Name | Gentlesiree |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:48:07 |
 
 
