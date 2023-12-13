@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916006708845 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Peter el Panda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:02:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916013332701 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Parazittus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:15:13 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fujiwara^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:16:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561916014440340 |
-| Players | 1/10 |
-| Host Name | Moonshine◕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:17:05 |
 
 
