@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915977867792 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | huh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:07:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915979121001 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:10:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915978097234 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Ky6a³♫ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:08:12 |
@@ -50,17 +50,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915977113255 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:06:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915979644288 |
-| Players | 6/8 |
-| Host Name | 克菈莉丝の表演秀 |
+| Lobby ID | 28561915979642992 |
+| Players | 8/15 |
+| Host Name | EL PANSAS ❤ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:11:00 |
 
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:09:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915979642992 |
-| Players | 2/15 |
-| Host Name | EL PANSAS ❤ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:11:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915978268401 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:08:30 |
