@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916041397294 |
-| Players | 18/24 |
-| Host Name | 12345678901234567890123456789012 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:08:35 |
+| Lobby ID | 28561916041909335 |
+| Players | 3/10 |
+| Host Name | CHIVAS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:09:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916041832551 |
-| Players | 14/15 |
-| Host Name | Хaoсит  Untimely |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:09:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561916041909335 |
-| Players | 3/10 |
-| Host Name | CHIVAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:09:35 |
+| Lobby ID | 28561916043257309 |
+| Players | 2/15 |
+| Host Name | Yagam`i |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:12:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561916042158523 |
-| Players | 9/10 |
-| Host Name | DMIEL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:10:05 |
+| Lobby ID | 28561916043126006 |
+| Players | 3/10 |
+| Host Name | Skufenberg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:11:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 15:11:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28561916043126006 |
-| Players | 3/10 |
-| Host Name | Skufenberg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:11:56 |
+| Lobby ID | 28561916043246123 |
+| Players | 1/5 |
+| Host Name | Yun-The Pro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:12:10 |
 
 
