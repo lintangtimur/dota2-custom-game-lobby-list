@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561916022956217 |
-| Players | 22/24 |
-| Host Name | NARBERAL GAMA |
+| Lobby ID | 28561916026102001 |
+| Players | 2/24 |
+| Host Name | FU Marvel |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:31:42 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:37:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916024582437 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:34:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916022827914 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | luke nichols |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:31:29 |
@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916024554306 |
-| Players | 9/10 |
-| Host Name | Турбобес |
+| Lobby ID | 28561916025844425 |
+| Players | 4/10 |
+| Host Name | Gamer+3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:34:25 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:36:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916025792116 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Nhe4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:36:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561916025844425 |
-| Players | 2/10 |
-| Host Name | Gamer+3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:36:36 |
 
 
 |  | epic_boss_fight_nightmare |
