@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915904423634 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PisaNuca |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:44:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915909144015 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:53:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915907087293 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | FÁCIL |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:49:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915906653560 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:49:02 |
@@ -144,6 +144,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shedu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:54:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561915909839815 |
+| Players | 3/8 |
+| Host Name | Q |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 10:55:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561915909855732 |
+| Players | 1/15 |
+| Host Name | 小猫钓鱼 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Wednesday, December 13, 2023 10:55:11 |
 
 
 |  | epic_boss_fight_nightmare |
