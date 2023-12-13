@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915927520802 |
-| Players | 5/8 |
-| Host Name | Yedolf Westler |
+| Lobby ID | 28561915929260475 |
+| Players | 1/10 |
+| Host Name | Копьё Аллаха |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:26:22 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:29:21 |
 
 
 |  | ot3_desert_octet |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915929247600 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 라다메스 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:29:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915929354774 |
+| Players | 1/10 |
+| Host Name | BLESS THIS MESS |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:29:31 |
 
 
 |  | epic_boss_fight_nightmare |
