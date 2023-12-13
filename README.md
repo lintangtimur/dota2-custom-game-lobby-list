@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916052932414 |
-| Players | 12/15 |
-| Host Name | ANTi |
+| Lobby ID | 28561916053671539 |
+| Players | 1/8 |
+| Host Name | Bora Bora |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:29:30 |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:30:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916053180884 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | June |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:29:55 |
@@ -59,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916053481027 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Женьшень |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:30:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561916047752573 |
-| Players | 7/10 |
-| Host Name | How Do I Play? |
+| Lobby ID | 28561916049053361 |
+| Players | 23/24 |
+| Host Name | Res |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:20:23 |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:22:42 |
 
 
