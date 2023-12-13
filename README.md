@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916040486512 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Carrying more animals than Noah |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:06:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 15:08:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916040330652 |
-| Players | 7/10 |
-| Host Name | Sargent_pepper4 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:06:31 |
+| Lobby ID | 28561916039841027 |
+| Players | 7/8 |
+| Host Name | FCD.4F |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:05:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | faen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:06:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561916041397294 |
+| Players | 4/24 |
+| Host Name | 12345678901234567890123456789012 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:08:35 |
 
 
 |  | epic_boss_fight_nightmare |
