@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915935921498 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | MAGINER |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:41:03 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:40:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915934094367 |
-| Players | 23/24 |
-| Host Name | GraFx |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:37:36 |
+| Lobby ID | 28561915936390096 |
+| Players | 4/10 |
+| Host Name | Badboy ne stoboi |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:42:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915936326044 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | rafalee |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:42:02 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915936338731 |
-| Players | 2/10 |
-| Host Name | Badboy ne stoboi |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:42:04 |
+| Lobby ID | 28561915936416313 |
+| Players | 4/10 |
+| Host Name | Misora |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
