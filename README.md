@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915951342968 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:15:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915952761351 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | EL HOMBRE SIDA !! |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:18:24 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915953853999 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | paradise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:20:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915953864582 |
-| Players | 4/8 |
-| Host Name | Mã$ţ€řkîłł£ř |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:20:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915953892566 |
-| Players | 6/15 |
-| Host Name | NIJI |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:20:28 |
+| Lobby ID | 28561915953953723 |
+| Players | 1/10 |
+| Host Name | zeta male |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:20:34 |
 
 
 |  | epic_boss_fight_nightmare |
