@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915993054304 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | FILIPINAS SAD :c |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:34:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915992893911 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:34:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915994590793 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:37:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915992890521 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | TU VIEJA LA PALO SECO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:34:07 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915995328736 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | zeshy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:38:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915990299606 |
-| Players | 9/10 |
-| Host Name | Ghosty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:29:40 |
+| Lobby ID | 28561915995479347 |
+| Players | 3/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:38:36 |
 
 
 |  | epic_boss_fight_normal |
