@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915920601797 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:14:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915920521691 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | where-dome |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:14:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915921885794 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pichuleitor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:16:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915919046492 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | swap commends |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:11:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915921364300 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | DoomRamon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:15:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915921365391 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | soy muy pingon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:15:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915912620576 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:00:15 |
