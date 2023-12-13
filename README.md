@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28561916006708845 |
 | Players | 12/24 |
-| Host Name | Hands |
+| Host Name | Peter el Panda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:02:14 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916013332701 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Parazittus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:15:13 |
@@ -76,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916007446197 |
-| Players | 13/15 |
-| Host Name | elektro |
+| Lobby ID | 28561916013646654 |
+| Players | 3/15 |
+| Host Name | Teddy |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:03:42 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:15:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561916012466934 |
+| Players | 3/10 |
+| Host Name | The chosen one ♠ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:13:48 |
 
 
