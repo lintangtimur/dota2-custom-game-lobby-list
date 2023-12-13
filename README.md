@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915930679349 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:31:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915931301720 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Mode: Sonichu Afterdark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:32:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915933577041 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:43 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 얼티밋고스트 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561915933838781 |
+| Players | 6/8 |
+| Host Name | TONY SLARK |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:37:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561915933850077 |
+| Players | 5/8 |
+| Host Name | OtaGame |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:37:11 |
 
 
