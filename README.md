@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915999507491 |
-| Players | 2/24 |
-| Host Name | EL ALEJO |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:47:25 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916002790195 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | WTF?!о_0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:54:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916001762918 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Arrhenius♪ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:52:15 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916005359813 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kak tak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:59:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916005666498 |
+| Players | 1/8 |
+| Host Name | Howoldareyou |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:00:09 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28561915993772519 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | deniz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:35:39 |
