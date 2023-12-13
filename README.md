@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916053180884 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | June |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:29:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916054664439 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 最好的 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:32:25 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Carrying more animals than Noah |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:32:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28561916055081750 |
+| Players | 1/10 |
+| Host Name | Hadfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:33:07 |
 
 
