@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915990087563 |
-| Players | 13/15 |
-| Host Name | WinNee |
+| Lobby ID | 28561915992207486 |
+| Players | 4/15 |
+| Host Name | Waste |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:29:18 |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:32:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915987950063 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | John Pork |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:25:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915990462177 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:29:57 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915990811911 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Nate Diaz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:30:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915992207486 |
-| Players | 4/15 |
-| Host Name | Waste |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:32:57 |
 
 
 |  | epic_boss_fight_nightmare |
