@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915944360483 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | DeVIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:00:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915944232485 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | xd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:00:39 |
@@ -32,37 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915944719690 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:01:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915944358963 |
-| Players | 1/10 |
-| Host Name | Give me Todinito |
+| Lobby ID | 28561915944630853 |
+| Players | 1/15 |
+| Host Name | YO PINGA LOCA |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:00:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915944360463 |
-| Players | 9/10 |
-| Host Name | ♥ȺӀҽ×ą~Ꝉօѵҽ♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:00:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915944486440 |
-| Players | 2/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:01:13 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:01:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:01:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915944630853 |
-| Players | 1/15 |
-| Host Name | YO PINGA LOCA |
+| Lobby ID | 28561915944486440 |
+| Players | 2/24 |
+| Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:01:33 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:01:13 |
 
 
 |  | epic_boss_fight_nightmare |
