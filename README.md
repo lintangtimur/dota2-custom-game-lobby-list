@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915981132932 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:13:39 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915981782092 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | smurf papus!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:14:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915982184893 |
+| Players | 1/10 |
+| Host Name | The chosen one ♠ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:15:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915977125910 |
+| Players | 9/10 |
+| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:06:25 |
 
 
 |  | epic_boss_fight_nightmare |
