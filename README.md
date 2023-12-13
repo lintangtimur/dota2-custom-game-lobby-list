@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:54:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916003017391 |
-| Players | 2/8 |
-| Host Name | Zlo |
+| Lobby ID | 28561916003129435 |
+| Players | 2/10 |
+| Host Name | quasar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:54:50 |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:55:03 |
 
 
 |  | epic_boss_fight_normal |
