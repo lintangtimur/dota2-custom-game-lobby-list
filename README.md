@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915914820053 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | fuck シ♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:04:12 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915907664900 |
-| Players | 22/24 |
-| Host Name | 12345678901234567890123456789012 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 10:51:02 |
+| Lobby ID | 28561915915981768 |
+| Players | 1/24 |
+| Host Name | juhiss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:06:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:05:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915915981768 |
-| Players | 1/24 |
-| Host Name | juhiss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:06:16 |
+| Lobby ID | 28561915916122195 |
+| Players | 1/8 |
+| Host Name | HaN |
+| Region | Unknown |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:06:31 |
 
 
 |  | epic_boss_fight_nightmare |
