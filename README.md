@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915948268192 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Mi peor enemigo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:09:39 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ChicHi |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915948015773 |
-| Players | 8/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:09:08 |
+| Lobby ID | 28561915949563524 |
+| Players | 2/15 |
+| Host Name | DN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:12:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915949571930 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | eXC4L1BUR |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:12:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915949563524 |
-| Players | 4/15 |
-| Host Name | DN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:12:12 |
 
 
 |  | epic_boss_fight_nightmare |
