@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916005927162 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:00:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916007446197 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:03:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916008399410 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Я не марат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:05:35 |
@@ -74,12 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:03:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916005359813 |
+| Players | 7/8 |
+| Host Name | Playasound |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:59:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916008606545 |
+| Players | 1/15 |
+| Host Name | Dragon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:06:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916008473689 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Gabimaru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:05:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28561916008674744 |
+| Players | 3/7 |
+| Host Name | Allen |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:06:08 |
 
 
