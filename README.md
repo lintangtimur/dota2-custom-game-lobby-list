@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916043877603 |
-| Players | 10/15 |
-| Host Name | MANO TENGO FE |
+| Players | 8/15 |
+| Host Name | OmegaZero |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:13:23 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916046831952 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | gallows |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:18:44 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HawK+Eye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:16:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28561916047083426 |
-| Players | 2/5 |
-| Host Name | Limoncika |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:19:11 |
 
 
