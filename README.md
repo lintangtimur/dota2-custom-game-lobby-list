@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915917918594 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | IBNsaheb313 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:09:41 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:06:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915917929751 |
-| Players | 7/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:09:42 |
+| Lobby ID | 28561915919867687 |
+| Players | 1/15 |
+| Host Name | grump daddy |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:13:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915916886547 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Mojac |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:07:52 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kick.com/lumaid |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:08:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915919776287 |
-| Players | 4/8 |
-| Host Name | Use Your Brain |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:12:57 |
 
 
 |  | epic_boss_fight_nightmare |
