@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915984824666 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:20:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915988150975 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Мразота |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:25:59 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:24:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915986862964 |
-| Players | 3/8 |
-| Host Name | хуймэ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:23:45 |
+| Lobby ID | 28561915987950063 |
+| Players | 7/24 |
+| Host Name | John Pork |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:25:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915988556496 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | denitrox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:26:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915987777913 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | бабиджон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:25:20 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915987571659 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Бритая попка |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:24:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915987950063 |
-| Players | 6/24 |
-| Host Name | John Pork |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:25:38 |
 
 
 |  | epic_boss_fight_nightmare |
