@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915922982391 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915927550707 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | HousingTrax I PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:26:25 |
@@ -32,26 +32,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915925496557 |
-| Players | 4/24 |
-| Host Name | Toque da amizade Feat CHIMVOC |
+| Players | 2/24 |
+| Host Name | PisaNuca |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:22:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915927085620 |
-| Players | 1/24 |
-| Host Name | Stunodevoli |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:25:37 |
+| Lobby ID | 28561915928474128 |
+| Players | 3/8 |
+| Host Name | Perro Jorobado Recargado |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:28:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915926280118 |
-| Players | 1/24 |
-| Host Name | zalamanza |
+| Players | 3/24 |
+| Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:24:13 |
 
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915926972133 |
-| Players | 6/8 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:25:25 |
+| Lobby ID | 28561915928497448 |
+| Players | 1/8 |
+| Host Name | Whats is love |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:28:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915923251947 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:57 |
