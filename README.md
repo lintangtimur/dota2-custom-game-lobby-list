@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916017177492 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | JustChaaaoooS♕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:21:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916010310163 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | why are u crying? |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:09:21 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:22:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28561916015329147 |
-| Players | 9/10 |
-| Host Name | loosStreak1 |
+| Lobby ID | 28561916017418187 |
+| Players | 3/5 |
+| Host Name | lobster |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:18:36 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:22:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mundus |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:21:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28561916017418187 |
-| Players | 3/5 |
-| Host Name | lobster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:22:12 |
 
 
