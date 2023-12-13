@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916031406647 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Lona Falldin |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:48:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916031308893 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | she |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:47:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916031920203 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ПСИХОПАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:49:10 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БАРСУК ТУГОМЯС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:45:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28561916031929761 |
+| Players | 3/5 |
+| Host Name | sPaz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:49:11 |
 
 
