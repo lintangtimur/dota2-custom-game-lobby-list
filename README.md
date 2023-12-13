@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915930733570 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:31:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915928949873 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Pareidolia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:28:49 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Grey Light |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:32:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915930976007 |
+| Players | 1/10 |
+| Host Name | El F1 te hará reflexionar |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:32:16 |
 
 
