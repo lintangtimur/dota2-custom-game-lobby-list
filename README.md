@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915956952977 |
-| Players | 20/24 |
-| Host Name | Professor |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:26:09 |
+| Lobby ID | 28561915958853703 |
+| Players | 5/8 |
+| Host Name | no motivation |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:29:32 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915957487483 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | LostRosyClouds |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:27:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915958513752 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Beer Master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:28:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915955566111 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Dark Monn |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:23:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915957394256 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Зря я открыл пиво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:26:55 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:29:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915958853703 |
-| Players | 4/8 |
-| Host Name | no motivation |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:29:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915952961031 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915956721030 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | БАРСУК ТУГОМЯС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:25:44 |
