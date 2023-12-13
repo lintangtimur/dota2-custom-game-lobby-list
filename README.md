@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915937032861 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:43:46 |
@@ -14,37 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915936185211 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:41:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915935921498 |
-| Players | 23/24 |
-| Host Name | MAGINER |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:41:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915935294573 |
-| Players | 3/8 |
-| Host Name | Any humans |
+| Lobby ID | 28561915936611345 |
+| Players | 12/15 |
+| Host Name | zzzzzz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:39:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915935268915 |
-| Players | 10/24 |
-| Host Name | GL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:39:37 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:42:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:40:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561915935268915 |
+| Players | 10/24 |
+| Host Name | Flexi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:39:37 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915936611345 |
-| Players | 10/15 |
-| Host Name | zzzzzz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:42:44 |
+| Lobby ID | 28561915937272273 |
+| Players | 1/15 |
+| Host Name | Deth_Man |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:44:20 |
 
 
 |  | epic_boss_fight_nightmare |
