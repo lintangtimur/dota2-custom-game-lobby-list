@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915926475387 |
-| Players | 19/24 |
-| Host Name | ...zZ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:24:33 |
+| Lobby ID | 28561915927520802 |
+| Players | 1/8 |
+| Host Name | Yedolf Westler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:26:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915922982391 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915926767257 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Fungus the Bogeyman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:25:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915927177872 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:25:46 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kanna |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:26:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915927520802 |
-| Players | 1/8 |
-| Host Name | Yedolf Westler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:26:22 |
 
 
 |  | epic_boss_fight_nightmare |
