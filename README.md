@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915914820053 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | fuck シ♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:04:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915914427645 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Distant |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:03:30 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915915348093 |
-| Players | 6/8 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:05:08 |
+| Lobby ID | 28561915915560037 |
+| Players | 1/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:05:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915914555552 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:03:44 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:05:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915915591752 |
+| Players | 1/10 |
+| Host Name | Give me Todinito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:05:34 |
 
 
 |  | epic_boss_fight_nightmare |
