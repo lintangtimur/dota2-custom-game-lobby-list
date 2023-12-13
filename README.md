@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916026696379 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | In the pipe five by five |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:38:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028945273 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:51:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561916032315706 |
-| Players | 10/15 |
-| Host Name | хохолопитек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:50:02 |
+| Lobby ID | 28561916033055655 |
+| Players | 7/24 |
+| Host Name | <blank> |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:51:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916031308893 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | she |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:47:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916030326756 |
-| Players | 7/10 |
-| Host Name | БАРСУК ТУГОМЯС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:45:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28561916031929761 |
-| Players | 3/5 |
-| Host Name | sPaz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:49:11 |
+| Lobby ID | 28561916033443654 |
+| Players | 1/10 |
+| Host Name | judas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:52:29 |
 
 
 |  | epic_boss_fight_normal |
