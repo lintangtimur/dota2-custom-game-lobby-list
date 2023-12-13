@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916026696379 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | In the pipe five by five |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:38:04 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916030623007 |
-| Players | 21/24 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:46:17 |
+| Lobby ID | 28561916032755521 |
+| Players | 1/8 |
+| Host Name | Luckyman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:51:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916032315706 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | хохолопитек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:50:02 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:47:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561916032755521 |
-| Players | 1/8 |
-| Host Name | Luckyman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:51:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916030326756 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | БАРСУК ТУГОМЯС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:45:38 |
