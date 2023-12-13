@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915999640658 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | 1000-7? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:47:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915998931568 |
-| Players | 7/10 |
-| Host Name | BNB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:46:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915999717339 |
-| Players | 1/15 |
-| Host Name | Panda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:47:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fort |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:44:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561916000107390 |
+| Players | 1/24 |
+| Host Name | typico wesscoss inebriate |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:48:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561916000196750 |
+| Players | 1/10 |
+| Host Name | Nevermore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:48:58 |
 
 
 |  | epic_boss_fight_normal |
