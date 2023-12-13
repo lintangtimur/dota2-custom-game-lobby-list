@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915970194114 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | culé desde la cuna |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:52:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915974440383 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:01:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915974624143 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:01:42 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:02:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915975299384 |
-| Players | 2/8 |
-| Host Name | HousingTrax I PMA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:02:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915975316457 |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:03:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561915974149420 |
-| Players | 1/5 |
-| Host Name | Sebas |
+| Lobby ID | 28561915975333396 |
+| Players | 4/10 |
+| Host Name | Deadlyiel |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:00:48 |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:03:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IOWNU |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:02:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561915975333396 |
-| Players | 1/10 |
-| Host Name | Deadlyiel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:03:02 |
 
 
