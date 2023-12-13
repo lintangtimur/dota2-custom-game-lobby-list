@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916010310163 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | why are u crying? |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:09:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916012828320 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | kill your family |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:14:25 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916013177082 |
-| Players | 1/10 |
-| Host Name | 0-0 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:14:58 |
+| Lobby ID | 28561916013800205 |
+| Players | 2/10 |
+| Host Name | fujiwara^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:16:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:15:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561916013800205 |
-| Players | 2/10 |
-| Host Name | fujiwara^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:16:00 |
 
 
