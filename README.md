@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916015520605 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ZXC ♡MaereXD♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:18:56 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | V |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:20:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28561916016414928 |
+| Players | 1/10 |
+| Host Name | Look at it go ! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:20:28 |
 
 
