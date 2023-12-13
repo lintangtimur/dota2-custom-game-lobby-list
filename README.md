@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:08:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915943261577 |
-| Players | 4/8 |
-| Host Name | Spamming 1 hero = Go Report me |
+| Lobby ID | 28561915947170699 |
+| Players | 9/10 |
+| Host Name | PAPI LECHOSO |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:58:26 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:07:14 |
 
 
 |  | ot3_jungle_quintet |
