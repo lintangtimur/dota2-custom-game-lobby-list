@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915930733570 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | boom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:31:51 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915930857094 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Grey Light |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:32:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915931757296 |
-| Players | 1/15 |
-| Host Name | 长天大圣 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:33:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561915931723487 |
-| Players | 1/10 |
-| Host Name | JiNong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:33:33 |
+| Lobby ID | 28561915931799904 |
+| Players | 1/8 |
+| Host Name | Odinn |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:33:41 |
 
 
