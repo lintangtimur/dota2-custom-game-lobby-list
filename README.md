@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915924453552 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:21:02 |
@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:23:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915925507196 |
-| Players | 12/15 |
-| Host Name | TommyRugs |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:22:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915925409736 |
-| Players | 4/15 |
-| Host Name | Kai thug 52mice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:22:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915925496557 |
@@ -58,11 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915922679228 |
-| Players | 14/15 |
-| Host Name | KeKu |
+| Lobby ID | 28561915925409736 |
+| Players | 5/15 |
+| Host Name | Kai thug 52mice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:22:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561915926237835 |
+| Players | 3/8 |
+| Host Name | Ellie- |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:24:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561915926237537 |
+| Players | 1/15 |
+| Host Name | Grim |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:17:58 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:24:09 |
 
 
 |  | epic_boss_fight_nightmare |
