@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915972096302 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | JustChaaaoooS♕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:56:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915972945259 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Baki |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:58:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915970194114 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | culé desde la cuna |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:52:56 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:58:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915969110446 |
-| Players | 23/24 |
-| Host Name | Silver~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:50:34 |
+| Lobby ID | 28561915969999298 |
+| Players | 8/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:52:31 |
 
 
 |  | epic_boss_fight_nightmare |
