@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915951830817 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | Bot G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:16:35 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:18:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915953853999 |
-| Players | 5/10 |
-| Host Name | paradise |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:20:23 |
+| Lobby ID | 28561915955102348 |
+| Players | 3/8 |
+| Host Name | 克菈莉丝の表演秀 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:22:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915952719365 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | unicornparadise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:18:19 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915954445021 |
-| Players | 8/24 |
+| Players | 17/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:21:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915946995151 |
-| Players | 7/10 |
-| Host Name | [                         ] |
+| Lobby ID | 28561915954911957 |
+| Players | 2/15 |
+| Host Name | Imagio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:06:50 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:22:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915955030085 |
+| Players | 2/10 |
+| Host Name | dDeneuve |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:22:35 |
 
 
 |  | epic_boss_fight_nightmare |
