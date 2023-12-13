@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915922982391 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915927550707 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | HousingTrax I PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:26:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915925496557 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Toque da amizade Feat CHIMVOC |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:22:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915926767257 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Fungus the Bogeyman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:25:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915927177872 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:25:46 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28561915927898492 |
+| Players | 3/5 |
+| Host Name | WEBI WABO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:27:01 |
 
 
