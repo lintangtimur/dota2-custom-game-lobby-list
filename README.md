@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915939918575 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Cel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:50:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915940636286 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | maison margiela |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:52:15 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915941787242 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:54:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28561915941816004 |
-| Players | 1/8 |
-| Host Name | 剃刀 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:55:02 |
+| Lobby ID | 28561915935402813 |
+| Players | 9/10 |
+| Host Name | BANgiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:39:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28561915941890112 |
+| Players | 1/10 |
+| Host Name | Ging |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:55:13 |
 
 
