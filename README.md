@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:24:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916019763914 |
+| Players | 4/8 |
+| Host Name | Ojama Yellow |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:26:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916016414928 |
