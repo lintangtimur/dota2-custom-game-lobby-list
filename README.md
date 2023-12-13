@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915934316691 |
-| Players | 1/24 |
-| Host Name | AumNaHee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:37:59 |
+| Lobby ID | 28561915934324997 |
+| Players | 2/24 |
+| Host Name | cascanueces2012 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:38:00 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915934094367 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | GraFx |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:37:36 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:34:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915934324997 |
-| Players | 2/24 |
-| Host Name | cascanueces2012 |
+| Lobby ID | 28561915934372144 |
+| Players | 5/15 |
+| Host Name | Mr.Bass |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:38:00 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:38:05 |
 
 
