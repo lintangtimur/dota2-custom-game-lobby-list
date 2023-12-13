@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915971304175 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | no excuses |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:55:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915970256887 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | blackeap54 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:53:05 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:55:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915971630974 |
-| Players | 4/10 |
-| Host Name | ДАНЯ АДИДАС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:55:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915964589998 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Фотограф под пиво |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:39:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561915967797062 |
-| Players | 9/10 |
-| Host Name | Ghosty |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:47:30 |
 
 
