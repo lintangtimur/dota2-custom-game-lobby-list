@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:29:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915960040677 |
-| Players | 7/10 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:31:39 |
+| Lobby ID | 28561915960606968 |
+| Players | 7/15 |
+| Host Name | sonrie :3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:32:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915960606968 |
-| Players | 3/15 |
-| Host Name | sonrie :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:32:39 |
 
 
 |  | epic_boss_fight_nightmare |
