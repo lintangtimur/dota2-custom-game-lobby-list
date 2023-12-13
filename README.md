@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916007446197 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:03:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916012119435 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | stupid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:13:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916012144088 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Baki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:13:12 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916012571464 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Fadmon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:13:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561916012628142 |
-| Players | 3/8 |
-| Host Name | kill your family |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:14:04 |
 
 
