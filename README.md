@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28561916030623007 |
 | Players | 3/24 |
-| Host Name | LoneWolf |
+| Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:46:17 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916030840974 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ra2th |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:46:46 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:47:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561916031258591 |
+| Players | 1/10 |
+| Host Name | STORMSTORMER |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:47:42 |
 
 
 |  | epic_boss_fight_nightmare |
