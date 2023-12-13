@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915942957766 |
-| Players | 2/15 |
-| Host Name | G59 |
+| Players | 1/15 |
+| Host Name | X-CHOLAPSE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:57:44 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915943261577 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Javi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:58:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915943285838 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | КРИП |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:58:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915943514996 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | bub |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:59:01 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lord Tolkien |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:59:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915942955310 |
-| Players | 7/10 |
-| Host Name | red eyes |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:57:43 |
 
 
 |  | epic_boss_fight_nightmare |
