@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916026696379 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:38:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916036203845 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | somewhatBilal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:10 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 15:00:02 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916038121702 |
-| Players | 1/7 |
-| Host Name | Niga'sOwner |
+| Lobby ID | 28561916035557995 |
+| Players | 13/15 |
+| Host Name | ๋ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:02:05 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:56:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916038196151 |
+| Players | 6/8 |
+| Host Name | dorlikk |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:02:15 |
 
 
