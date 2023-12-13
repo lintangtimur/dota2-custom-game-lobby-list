@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915970194114 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | culé desde la cuna |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:52:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915974481345 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:01:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915975239804 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | [愛]Leen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:02:52 |
