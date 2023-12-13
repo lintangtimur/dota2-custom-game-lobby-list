@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915940655148 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | welcome to the jungle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:52:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915940636286 |
-| Players | 14/15 |
-| Host Name | maison margiela |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:52:15 |
+| Lobby ID | 28561915942640065 |
+| Players | 2/10 |
+| Host Name | red eyes |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:56:59 |
 
 
 |  | epic_boss_fight_nightmare |
