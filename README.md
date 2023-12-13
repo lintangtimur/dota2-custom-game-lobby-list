@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916062995854 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Don Don Donki |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:47:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916064407803 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | d1XE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:50:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916064576814 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:50:25 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Muralo |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:49:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28561916065204993 |
+| Players | 1/5 |
+| Host Name | jaturon.bo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:51:38 |
 
 
