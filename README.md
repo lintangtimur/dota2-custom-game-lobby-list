@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915979994127 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Single Mom Maker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:11:38 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915977113255 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:06:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915980983081 |
-| Players | 14/15 |
-| Host Name | Q |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:13:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915981384680 |
-| Players | 4/8 |
-| Host Name | M142 HIMARS |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:14:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:14:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915982184893 |
-| Players | 1/10 |
-| Host Name | The chosen one ♠ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:15:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915977125910 |
-| Players | 9/10 |
-| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:06:25 |
+| Lobby ID | 28561915981384680 |
+| Players | 6/8 |
+| Host Name | M142 HIMARS |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:14:06 |
 
 
 |  | epic_boss_fight_nightmare |
