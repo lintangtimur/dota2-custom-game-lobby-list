@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915999808845 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Князь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:48:06 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915999640658 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 1000-7? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:47:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915998272149 |
-| Players | 7/8 |
-| Host Name | fort |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:44:41 |
+| Lobby ID | 28561916000219306 |
+| Players | 1/24 |
+| Host Name | CryMeARiver |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:49:01 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:48:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916000219306 |
-| Players | 1/24 |
-| Host Name | CryMeARiver |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:49:01 |
+| Lobby ID | 28561915998931568 |
+| Players | 6/10 |
+| Host Name | BNB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:46:09 |
 
 
 |  | epic_boss_fight_normal |
