@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916062995854 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Don Don Donki |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:47:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916062431940 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:46:19 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 15:49:42 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916064407803 |
+| Players | 1/8 |
+| Host Name | d1XE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:50:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916063894384 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Smufff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:49:07 |
@@ -90,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Muralo |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:49:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561916064083727 |
-| Players | 1/10 |
-| Host Name | Abril te extraño regresa :c |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:49:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561916058870398 |
-| Players | 9/10 |
-| Host Name | necro |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:39:29 |
 
 
