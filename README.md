@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916030623007 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:46:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916031406647 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Lona Falldin |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:48:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916031075372 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:47:17 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916031308893 |
-| Players | 2/15 |
-| Host Name | PORKIS IN THE CHAT OINK OINK |
+| Players | 1/15 |
+| Host Name | she |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:47:49 |
 
