@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916053180884 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | June |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:29:55 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Remidial |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:30:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916055869924 |
+| Players | 1/8 |
+| Host Name | Foreskin Collector |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:34:27 |
 
 
 |  | epic_boss_fight_nightmare |
