@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915906791300 |
-| Players | 2/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 10:49:19 |
+| Lobby ID | 28561915907219540 |
+| Players | 3/15 |
+| Host Name | Mojac |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 10:50:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915904423634 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | PisaNuca |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:44:15 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 10:49:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915905168265 |
-| Players | 14/15 |
-| Host Name | RuBeN |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 10:45:51 |
+| Lobby ID | 28561915907087293 |
+| Players | 1/24 |
+| Host Name | FÁCIL |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 10:49:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,43 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915906908974 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Phanda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:49:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915907087293 |
-| Players | 1/24 |
-| Host Name | FÁCIL |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 10:49:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915907219540 |
-| Players | 2/15 |
-| Host Name | Dialed in. |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 10:50:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915907216987 |
-| Players | 1/8 |
-| Host Name | Tvoya_mamasha_2005 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 10:50:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915906389356 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Linda Blair |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:48:29 |
