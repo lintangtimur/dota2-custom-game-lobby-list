@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915951554001 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:16:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915953001999 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:18:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915951342968 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:15:38 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bub |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:19:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915953661560 |
-| Players | 6/8 |
-| Host Name | NIJI |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:20:02 |
 
 
 |  | epic_boss_fight_nightmare |
