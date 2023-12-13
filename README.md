@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915927520802 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Yedolf Westler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:26:22 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915926280118 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:24:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915925496557 |
-| Players | 1/24 |
-| Host Name | PisaNuca |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:22:51 |
+| Lobby ID | 28561915928754280 |
+| Players | 6/15 |
+| Host Name | MakimaGOD |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:28:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915928754280 |
-| Players | 2/15 |
-| Host Name | MakimaGOD |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:28:29 |
+| Lobby ID | 28561915929247600 |
+| Players | 1/15 |
+| Host Name | 라다메스 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:29:20 |
 
 
 |  | epic_boss_fight_nightmare |
