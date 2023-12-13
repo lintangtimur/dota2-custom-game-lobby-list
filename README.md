@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916006708845 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Hands |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:02:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916008290979 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:05:22 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916010368187 |
+| Lobby ID | 28561916007446197 |
 | Players | 12/15 |
-| Host Name | pandorex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:09:27 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:03:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916010777875 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kaydo亚瑟 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:10:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916011150028 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | BOBRA JA PIERDOLę JAKIE BYDLE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:10:58 |
