@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028945273 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28561916053481027 |
 | Players | 4/10 |
-| Host Name | Женьшень |
+| Host Name | StoleMadjija® |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:30:25 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916054664439 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 最好的 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:32:25 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916054824746 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Carrying more animals than Noah |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:32:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916055340872 |
+| Players | 6/8 |
+| Host Name | LISI MEN |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:33:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916055081750 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hadfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:33:07 |
