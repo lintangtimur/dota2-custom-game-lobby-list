@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915984824666 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:20:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915987367084 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | грустни дэнсер |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:24:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915987571659 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Бритая попка |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:24:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915987950063 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | John Pork |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:25:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915986671180 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Smufff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:23:25 |
