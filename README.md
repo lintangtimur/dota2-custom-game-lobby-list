@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915972096302 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | JustChaaaoooS♕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:56:51 |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:52:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915973127077 |
-| Players | 6/8 |
-| Host Name | Zoé |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:58:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915973265968 |
-| Players | 3/10 |
-| Host Name | 𩠑 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:59:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915969999298 |
-| Players | 9/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:52:31 |
+| Lobby ID | 28561915973500083 |
+| Players | 1/24 |
+| Host Name | Kinfold |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:59:34 |
 
 
 |  | epic_boss_fight_nightmare |
