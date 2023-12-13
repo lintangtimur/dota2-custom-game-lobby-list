@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915944232485 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | xd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:00:39 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915947084125 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GaalxOid |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:07:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915944486440 |
-| Players | 23/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
+| Lobby ID | 28561915946527827 |
+| Players | 9/10 |
+| Host Name | Amsterdam |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:01:13 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:05:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915947141510 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Galletita Enamorada |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:07:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915947170699 |
+| Players | 1/10 |
+| Host Name | PAPI LECHOSO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:07:14 |
 
 
 |  | epic_boss_fight_nightmare |
