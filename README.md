@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -38,39 +38,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:39:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916027865912 |
-| Players | 6/8 |
-| Host Name | ^ |
+| Lobby ID | 28561916028072803 |
+| Players | 5/15 |
+| Host Name | ZeLeL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:40:03 |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:40:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916026846473 |
+| Players | 14/15 |
+| Host Name | Xibalba |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:38:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916027808276 |
+| Lobby ID | 28561916028155103 |
 | Players | 1/8 |
-| Host Name | WAYNE |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:39:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561916026435627 |
-| Players | 23/24 |
-| Host Name | FU Marvel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:37:37 |
+| Host Name | Heikko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:40:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916027256362 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | oppixoppixfruit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:39:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28561916028109946 |
+| Players | 1/10 |
+| Host Name | JOSEP |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:40:36 |
 
 
