@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915992207486 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:32:57 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915990811911 |
-| Players | 14/15 |
-| Host Name | Nate Diaz |
+| Lobby ID | 28561915993054304 |
+| Players | 2/15 |
+| Host Name | FILIPINAS SAD :c |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:30:34 |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:34:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915992890521 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | TU VIEJA LA PALO SECO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:34:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915993054304 |
-| Players | 2/15 |
-| Host Name | FILIPINAS SAD :c |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:34:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915993085953 |
-| Players | 5/15 |
-| Host Name | Imbibitor Lunae |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:34:27 |
 
 
 |  | epic_boss_fight_nightmare |
