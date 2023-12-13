@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916046055878 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:17:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028945273 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916043877603 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | MANO TENGO FE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:13:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916045535569 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Анальная Вошь |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:16:21 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916046379720 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | AYAYA! AYAYA! |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:17:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561916046427895 |
+| Players | 2/10 |
+| Host Name | .//// |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:18:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HawK+Eye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:16:24 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28561916046343943 |
-| Players | 1/7 |
-| Host Name | OnlyGOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:17:51 |
 
 
