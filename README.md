@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916028988681 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Casper0k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028352523 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | STORMSTORMER |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:41:09 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916028771079 |
-| Players | 2/8 |
-| Host Name | Loco Carnero |
+| Players | 1/8 |
+| Host Name | Moon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:08 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28561916029734780 |
+| Players | 1/10 |
+| Host Name | БАРСУК ТУГОМЯС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:44:20 |
 
 
