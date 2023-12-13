@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916026696379 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | In the pipe five by five |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:38:04 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28561916028780496 |
-| Players | 1/15 |
-| Host Name | LonelyDragon |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:42:09 |
+| Lobby ID | 28561916028842871 |
+| Players | 1/7 |
+| Host Name | под тобой мина |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:42:18 |
 
 
