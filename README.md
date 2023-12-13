@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916002207734 |
-| Players | 7/8 |
-| Host Name | Бублик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:53:11 |
+| Lobby ID | 28561916004044496 |
+| Players | 1/15 |
+| Host Name | Howoldareyou |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:56:55 |
 
 
 |  | ot3_desert_octet |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 13:55:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916004044496 |
-| Players | 1/15 |
-| Host Name | Howoldareyou |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, December 13, 2023 13:56:55 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28561915993772519 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916003664857 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SOOBRIDT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:56:09 |
