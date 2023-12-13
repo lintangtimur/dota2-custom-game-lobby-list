@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916005927162 |
-| Players | 8/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:00:41 |
+| Lobby ID | 28561916008606545 |
+| Players | 6/15 |
+| Host Name | Dragon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:06:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916006525454 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | !Jamata |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:01:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916008606545 |
-| Players | 4/15 |
-| Host Name | Dragon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:06:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gabimaru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:05:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28561916009712375 |
+| Players | 1/5 |
+| Host Name | Emo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:08:11 |
 
 
