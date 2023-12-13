@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915970948893 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:54:32 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:58:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915973111380 |
-| Players | 1/8 |
-| Host Name | Queenchik |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:58:49 |
+| Lobby ID | 28561915973265968 |
+| Players | 3/10 |
+| Host Name | 𩠑 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:59:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915969999298 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:52:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915973265968 |
-| Players | 2/10 |
-| Host Name | 𩠑 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:59:07 |
 
 
 |  | epic_boss_fight_nightmare |
