@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915945123081 |
-| Players | 21/24 |
-| Host Name | siebeL |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:02:40 |
+| Lobby ID | 28561915947481335 |
+| Players | 4/10 |
+| Host Name | Стратхольм |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:07:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915943261577 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:58:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915944232485 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | xd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:00:39 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946218409 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | IBM 5100 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:05:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915947084125 |
-| Players | 8/10 |
-| Host Name | GaalxOid |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:07:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561915946527827 |
-| Players | 7/10 |
-| Host Name | Amsterdam |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:05:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915947141510 |
-| Players | 7/10 |
-| Host Name | Galletita Enamorada |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:07:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28561915947170699 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | PAPI LECHOSO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:07:14 |
@@ -99,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:50 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28561915947296349 |
-| Players | 1/7 |
-| Host Name | |Stariy21 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:07:31 |
 
 
