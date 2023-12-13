@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915933175986 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | спермопузик) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915933577041 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:43 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915934236809 |
-| Players | 1/8 |
-| Host Name | Blacked.com |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:37:51 |
+| Lobby ID | 28561915934372144 |
+| Players | 5/15 |
+| Host Name | Mr.Bass |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:38:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BNB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:34:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915934372144 |
-| Players | 5/15 |
-| Host Name | Mr.Bass |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:38:05 |
 
 
