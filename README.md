@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916036258276 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | горный житель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916036430387 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Turboslayer12 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916035389015 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Gamer |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:56:29 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561916036406381 |
-| Players | 6/8 |
-| Host Name | Banehallow59 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:58:35 |
+| Lobby ID | 28561916036672026 |
+| Players | 2/15 |
+| Host Name | Phin Pyaung Htut Gyi |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:59:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | suicide dreams |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:58:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916036672026 |
-| Players | 3/15 |
-| Host Name | Phin Pyaung Htut Gyi |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:59:07 |
 
 
 |  | epic_boss_fight_normal |
