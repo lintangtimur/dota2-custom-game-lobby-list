@@ -5,46 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915939615576 |
-| Players | 2/8 |
-| Host Name | PSG.LGD AME- |
+| Players | 1/8 |
+| Host Name | PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:49:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915940297647 |
-| Players | 5/8 |
-| Host Name | Crow_Claw |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:51:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915939706734 |
-| Players | 5/8 |
-| Host Name | Rackful.Neoxa |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:50:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915939918575 |
-| Players | 5/24 |
-| Host Name | Cel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:50:35 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915938774694 |
-| Players | 5/10 |
-| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:47:52 |
+| Lobby ID | 28561915939775510 |
+| Players | 4/10 |
+| Host Name | Hecker |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:50:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,21 +29,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:50:13 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28561915939918575 |
+| Players | 10/24 |
+| Host Name | Cel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:50:35 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915939775510 |
-| Players | 3/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:50:15 |
+| Lobby ID | 28561915938774694 |
+| Players | 8/10 |
+| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:47:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915936668736 |
-| Players | 9/10 |
-| Host Name | Витяня_35см) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:42:53 |
+| Lobby ID | 28561915940562297 |
+| Players | 1/24 |
+| Host Name | Radio |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:52:04 |
 
 
