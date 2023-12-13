@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916043877603 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | MANO TENGO FE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:13:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916045535569 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Анальная Вошь |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:16:21 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CHIVAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:15:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916043257309 |
+| Players | 14/15 |
+| Host Name | Yagam`i |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:12:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HawK+Eye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:16:24 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28561916045473083 |
+| Players | 1/7 |
+| Host Name | Fake Slim Shady |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:16:14 |
 
 
