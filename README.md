@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915926280118 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:24:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915928949873 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Pareidolia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:28:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915928754280 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:28:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915923251947 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:57 |
