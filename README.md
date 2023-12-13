@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915907087293 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | FÁCIL |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:49:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915908943572 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Hemorroide de Matthew |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 10:53:28 |
