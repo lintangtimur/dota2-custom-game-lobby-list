@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915944360483 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DeVIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:00:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915943261577 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Javi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:58:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915944719690 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:01:45 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:01:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915944963405 |
+| Players | 1/10 |
+| Host Name | Amsterdam |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:02:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915942417466 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TE FIDEO LA LIF |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:56:27 |
