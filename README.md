@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028945273 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916043877603 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | MANO TENGO FE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:13:23 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561916044795493 |
-| Players | 9/10 |
-| Host Name | CHIVAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:15:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916043257309 |
-| Players | 14/15 |
-| Host Name | Yagam`i |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:12:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561916045983359 |
-| Players | 3/8 |
-| Host Name | Капитан ПУЗО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:17:11 |
+| Lobby ID | 28561916046017308 |
+| Players | 2/10 |
+| Host Name | AYAYA! AYAYA! |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:17:15 |
 
 
 |  | ot3_desert_octet |
@@ -83,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 15:17:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916046017308 |
-| Players | 2/10 |
-| Host Name | AYAYA! AYAYA! |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:17:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561916043126006 |
-| Players | 9/10 |
-| Host Name | Skufenberg |
+| Lobby ID | 28561916045983359 |
+| Players | 3/8 |
+| Host Name | Капитан ПУЗО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:11:56 |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:17:11 |
 
 
 |  | epic_boss_fight_nightmare |
