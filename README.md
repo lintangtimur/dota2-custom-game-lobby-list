@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915962058572 |
-| Players | 9/10 |
-| Host Name | _Ferxxo_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:35:14 |
+| Lobby ID | 28561915967642664 |
+| Players | 4/8 |
+| Host Name | 克菈莉丝の表演秀 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:47:08 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915967269269 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | smurf papus!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:46:15 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915967275546 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Бес негатива |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:46:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915967905735 |
+| Players | 1/10 |
+| Host Name | Amsterdam |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:47:46 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915967642664 |
+| Lobby ID | 28561915967933932 |
 | Players | 1/8 |
-| Host Name | 克菈莉丝の表演秀 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:47:08 |
+| Host Name | грустни дэнсер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:47:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ****** |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:39:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28561915967797062 |
+| Players | 2/10 |
+| Host Name | Ghosty |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:47:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28561915967945507 |
+| Players | 1/5 |
+| Host Name | Sebas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:47:52 |
 
 
