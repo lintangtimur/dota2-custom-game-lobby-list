@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915970194114 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | culé desde la cuna |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:52:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915972096302 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | JustChaaaoooS♕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:56:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915973500083 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Kinfold |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:59:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915974440383 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:01:21 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915974481345 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AriBri<3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:01:26 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915964589998 |
-| Players | 9/10 |
-| Host Name | Фотограф под пиво |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:39:46 |
+| Lobby ID | 28561915974624143 |
+| Players | 3/15 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:01:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561915974790616 |
+| Players | 1/8 |
+| Host Name | хуймэ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:02:01 |
 
 
 |  | epic_boss_fight_normal |
