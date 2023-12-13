@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28561915947798712 |
-| Players | 7/8 |
-| Host Name | Any humans |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:08:39 |
+| Lobby ID | 28561915948380869 |
+| Players | 23/24 |
+| Host Name | Kishii 💓❤ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:09:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915949571930 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | eXC4L1BUR |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:12:13 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 12:12:12 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561915948380869 |
-| Players | 22/24 |
-| Host Name | Kishii 💓❤ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:09:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915946995151 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561915949768240 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:12:37 |
