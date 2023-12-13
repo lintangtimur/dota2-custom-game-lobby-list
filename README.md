@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915926475387 |
-| Players | 14/24 |
+| Players | 10/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:24:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915922982391 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:18:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915926237537 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Grim |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:24:09 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915926865960 |
+| Lobby ID | 28561915926972133 |
 | Players | 1/8 |
-| Host Name | El Macho 2.0 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:25:14 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:25:25 |
 
 
 |  | epic_boss_fight_nightmare |
