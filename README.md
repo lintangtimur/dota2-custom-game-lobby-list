@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916049053361 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Res |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:22:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915946798368 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:06:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916028945273 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:42:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916043877603 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | OmegaZero |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:13:23 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 15:21:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916049427430 |
+| Players | 1/15 |
+| Host Name | Tiptop |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:23:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916047622500 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | loosStreak1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:20:09 |
@@ -68,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916047752573 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:20:23 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28561916049302314 |
-| Players | 1/7 |
-| Host Name | Duckdeaths |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:23:09 |
+| Lobby ID | 28561916049441512 |
+| Players | 1/5 |
+| Host Name | ch1nazez |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:23:24 |
 
 
