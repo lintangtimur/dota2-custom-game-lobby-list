@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915956952977 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:26:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915956750375 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | 알렉산드라 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:25:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915956465354 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:25:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915957621943 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ressentiment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:27:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915955566111 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Dark Monn |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:23:35 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915957776549 |
-| Players | 7/8 |
-| Host Name | LIAT0N |
+| Lobby ID | 28561915958067781 |
+| Players | 5/8 |
+| Host Name | OOAK |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:27:35 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:28:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28561915958314631 |
-| Players | 3/15 |
-| Host Name | ReFabe |
+| Lobby ID | 28561915958513752 |
+| Players | 2/15 |
+| Host Name | Кибер Валет |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:28:33 |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:28:55 |
 
 
 |  | epic_boss_fight_nightmare |
