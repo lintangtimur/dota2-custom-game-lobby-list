@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915913398242 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | CHUPE DE CONCHAS NEGRAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:01:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915913372028 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | revdok |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:01:36 |
@@ -47,40 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 10:56:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915913210641 |
-| Players | 14/15 |
-| Host Name | sonrie :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:01:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915913587529 |
-| Players | 3/8 |
-| Host Name | Ellie- |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:01:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915913588902 |
+| Lobby ID | 28561915913701736 |
 | Players | 1/8 |
 | Host Name | 619 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:02:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915913603795 |
-| Players | 2/15 |
-| Host Name | GirlBoss |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:02:01 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:02:11 |
 
 
 |  | epic_boss_fight_nightmare |
