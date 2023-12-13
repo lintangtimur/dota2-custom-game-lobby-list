@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915980983081 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:13:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915981384680 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | M142 HIMARS |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:14:06 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:08:30 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28561915981663584 |
+| Players | 2/7 |
+| Host Name | ^..^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 13:14:35 |
 
 
