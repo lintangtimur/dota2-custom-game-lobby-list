@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915936390096 |
-| Players | 7/10 |
-| Host Name | Badboy ne stoboi |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:42:12 |
+| Lobby ID | 28561915936747848 |
+| Players | 1/8 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:43:04 |
 
 
 |  | ot3_gardens_duo |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915935268915 |
-| Players | 7/24 |
-| Host Name | SOMPLAK |
+| Players | 6/24 |
+| Host Name | GL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:39:37 |
 
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zzzzzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:42:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28561915933593379 |
+| Players | 9/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:36:44 |
 
 
 |  | epic_boss_fight_nightmare |
