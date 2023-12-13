@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561915967642664 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 克菈莉丝の表演秀 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:47:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915968563116 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:49:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915968549864 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:49:18 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:50:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915969260742 |
-| Players | 1/8 |
-| Host Name | الزنجي |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:50:54 |
 
 
 |  | epic_boss_fight_nightmare |
