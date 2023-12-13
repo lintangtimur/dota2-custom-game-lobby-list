@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916061491920 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | sоrеаl. New Generation |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:44:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561916060773523 |
-| Players | 9/10 |
-| Host Name | AnG1 |
+| Lobby ID | 28561916061806271 |
+| Players | 1/8 |
+| Host Name | Kak tak |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:43:09 |
+| Lobby Creation Time | Wednesday, December 13, 2023 15:45:07 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | welcome to the jungle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 15:43:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561916061806271 |
-| Players | 1/8 |
-| Host Name | Kak tak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 15:45:07 |
 
 
 |  | epic_boss_fight_nightmare |
