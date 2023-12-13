@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916002969982 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Boss James |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:54:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916002790195 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | WTF?!о_0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:54:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916005359813 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kak tak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:59:33 |
@@ -101,6 +101,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 14:00:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916005763349 |
+| Players | 1/15 |
+| Host Name | Howoldareyou |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:00:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28561916005783164 |
+| Players | 1/8 |
+| Host Name | MAKUMOON :p |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 13, 2023 14:00:23 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28561915993772519 |
@@ -113,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28561916003664857 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SOOBRIDT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 13, 2023 13:56:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28561916005730235 |
-| Players | 3/10 |
-| Host Name | Allen |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:00:17 |
 
 
