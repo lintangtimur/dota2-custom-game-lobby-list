@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915930857094 |
-| Players | 23/24 |
-| Host Name | Grey Light |
+| Lobby ID | 28561915933850077 |
+| Players | 5/8 |
+| Host Name | OtaGame |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:32:04 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:37:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561915930679349 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:31:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561915933593379 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:44 |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 13, 2023 11:36:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28561915933838781 |
-| Players | 6/8 |
-| Host Name | TONY SLARK |
+| Lobby ID | 28561915933989989 |
+| Players | 2/10 |
+| Host Name | ikaris |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:37:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915933850077 |
-| Players | 5/8 |
-| Host Name | OtaGame |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 11:37:11 |
+| Lobby Creation Time | Wednesday, December 13, 2023 11:37:25 |
 
 
