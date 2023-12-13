@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28561916024554306 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Турбобес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:34:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916024582437 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:34:28 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 알렉산드라 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 14:31:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561916024134459 |
-| Players | 7/8 |
-| Host Name | 失败胜利工作 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:33:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561916025423102 |
-| Players | 3/8 |
-| Host Name | виталя |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 14:35:54 |
 
 
 |  | epic_boss_fight_nightmare |
