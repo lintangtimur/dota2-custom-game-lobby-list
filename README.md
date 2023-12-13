@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28561915959614595 |
-| Players | 6/15 |
-| Host Name | Galletita Enamorada |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:30:53 |
+| Lobby ID | 28561915959761238 |
+| Players | 3/8 |
+| Host Name | Бомба взрыв Чечня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 13, 2023 12:31:09 |
 
 
 |  | ot3_gardens_duo |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561915959250476 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Yamcha Cepeda Martínez |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 13, 2023 12:30:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561915959437924 |
-| Players | 4/15 |
-| Host Name | Chemodan |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:30:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28561915959534513 |
-| Players | 1/8 |
-| Host Name | Spamming 1 hero = Go Report me |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 13, 2023 12:30:44 |
 
 
 |  | epic_boss_fight_nightmare |
