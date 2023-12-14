@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916820028959 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 14, 2023 07:45:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28561916821349378 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | G r e e n |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 14, 2023 07:49:11 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28561916820176348 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 14, 2023 07:45:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28561916821070845 |
-| Players | 21/24 |
-| Host Name | Dani| |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 14, 2023 07:48:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916819761355 |
-| Players | 11/15 |
-| Host Name | TONY PARRY |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 14, 2023 07:44:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28561916821297713 |
-| Players | 14/15 |
-| Host Name | НЕВКУСНЫЙ БЗДЕЖ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 14, 2023 07:49:02 |
 
 
 |  | ot3_gardens_duo |
@@ -83,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 14, 2023 07:49:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28561916819761355 |
+| Players | 11/15 |
+| Host Name | TONY PARRY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 14, 2023 07:44:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28561916821658429 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Cheetos |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 14, 2023 07:50:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28561916821769266 |
-| Players | 1/10 |
-| Host Name | SEMPAI |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 14, 2023 07:50:22 |
 
 
 |  | epic_boss_fight_nightmare |
