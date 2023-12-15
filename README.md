@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:29:40 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28565272407064175 |
+| Players | 1/10 |
+| Host Name | Clarkoof |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:37:01 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272399868384 |
@@ -56,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272399791333 |
-| Players | 23/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:31:29 |
+| Lobby ID | 28565272406447511 |
+| Players | 7/15 |
+| Host Name | на попей |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:36:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272398835793 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | millionware.vip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:30:47 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мудрый дуб |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:36:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272406447511 |
-| Players | 1/15 |
-| Host Name | на попей |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:36:32 |
 
 
