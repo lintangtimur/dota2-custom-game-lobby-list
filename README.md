@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 20:51:11 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28565272366147000 |
-| Players | 3/5 |
-| Host Name | Григорий Друда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:08:10 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272367874983 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272367449296 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | EGOIST |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:09:11 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272343821959 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Sup |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 15, 2023 20:50:32 |
@@ -113,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272368306839 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | lexa 0 pomoshi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:09:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272368555159 |
+| Players | 2/8 |
+| Host Name | NoReason |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:10:04 |
 
 
