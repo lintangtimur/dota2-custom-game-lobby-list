@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272451036962 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:11:41 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272453226815 |
+| Lobby ID | 28565272428225612 |
 | Players | 8/10 |
-| Host Name | Tom Ganks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:13:23 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 21:53:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272453883232 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | Kawasaki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:13:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272436502739 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | GeparDex | Gamdom.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:00:15 |
