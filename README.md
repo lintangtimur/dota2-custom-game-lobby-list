@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 00:27:14 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28565272617089392 |
+| Players | 1/7 |
+| Host Name | Capt.Pripasov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 00:28:10 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272615710256 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Don Chiwawa |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 00:26:56 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272616787883 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Sallofos |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 00:27:54 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272610341940 |
-| Players | 8/15 |
+| Players | 5/15 |
 | Host Name | Maru Kōshirō |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 00:22:11 |
@@ -95,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272615582753 |
-| Players | 5/24 |
-| Host Name | Bniuoas |
+| Players | 6/24 |
+| Host Name | huh? |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 16, 2023 00:26:50 |
 
@@ -110,21 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 00:26:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272616439850 |
-| Players | 7/8 |
-| Host Name | бомбардирОчка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 00:27:35 |
+| Lobby ID | 28565272614481562 |
+| Players | 10/15 |
+| Host Name | Spooky |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 00:25:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272616877242 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Тиранослав IV Мудр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 00:27:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272617063342 |
+| Players | 1/8 |
+| Host Name | qka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 00:28:09 |
 
 
