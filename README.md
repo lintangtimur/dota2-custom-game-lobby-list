@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:57:12 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28565272512633672 |
+| Players | 2/5 |
+| Host Name | samsar |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 23:00:04 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272510067753 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272506112552 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:54:48 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272512379283 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Адольф Гинеколог |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:59:52 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272512143034 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | EL LORAX |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:59:40 |
@@ -128,39 +137,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:55:00 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272507374130 |
-| Players | 22/24 |
-| Host Name | Revo |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 22:55:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272510326843 |
-| Players | 1/8 |
-| Host Name | Munkae |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:58:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272512325185 |
-| Players | 4/8 |
-| Host Name | MisterTwister |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:59:49 |
+| Lobby ID | 28565272512868888 |
+| Players | 3/8 |
+| Host Name | Не успел сказать |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 23:00:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272512411288 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | 口內射精 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:59:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272512325185 |
+| Players | 6/8 |
+| Host Name | MisterTwister |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:59:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272512722813 |
+| Players | 2/24 |
+| Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 23:00:08 |
 
 
