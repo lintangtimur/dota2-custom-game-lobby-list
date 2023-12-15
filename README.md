@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28564956372971011 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ＦＺㅤＯＦＩＣＩＡＬ: |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 10:22:41 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28564956372979499 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Mikooz |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 15, 2023 10:22:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28564956373302817 |
-| Players | 1/15 |
-| Host Name | DN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 10:23:21 |
 
 
 |  | ot3_jungle_quintet |
