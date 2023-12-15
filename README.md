@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272450163724 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 15, 2023 22:11:00 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272444700154 |
-| Players | 1/10 |
-| Host Name | MILEI _señoritas |
+| Players | 2/10 |
+| Host Name | ~"Mclovin"~ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:06:43 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272448791190 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ravenpoe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:09:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272450921091 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:11:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272445672807 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ☺ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:07:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272428225612 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:53:45 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:11:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272450088340 |
-| Players | 14/15 |
-| Host Name | McDi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:10:57 |
+| Lobby ID | 28565272447806757 |
+| Players | 22/24 |
+| Host Name | Fakar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:09:09 |
 
 
 |  | ot3_gardens_duo |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:11:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272451779041 |
+| Players | 6/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:12:16 |
 
 
