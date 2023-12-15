@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272542220600 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | пенетрейсер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:24:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272543027691 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | nikita2012gold66 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:24:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272541181053 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Хатыщсвамиварпач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:23:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272540564416 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:22:46 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272541949904 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | The Chigüi |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 15, 2023 23:23:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272540799835 |
-| Players | 23/24 |
-| Host Name | 大炮 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 23:22:58 |
+| Lobby ID | 28565272543169020 |
+| Players | 1/8 |
+| Host Name | frin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 23:24:53 |
 
 
 |  | ot3_desert_octet |
@@ -110,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 23:24:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272543169020 |
-| Players | 1/8 |
-| Host Name | frin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 23:24:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272543285256 |
-| Players | 3/8 |
-| Host Name | 7А Газель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 23:24:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272543321197 |
-| Players | 1/15 |
-| Host Name | Te amo Raysha |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 23:25:00 |
+| Lobby ID | 28565272543523388 |
+| Players | 4/15 |
+| Host Name | Чел |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 23:25:10 |
 
 
