@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272580221711 |
-| Players | 1/5 |
-| Host Name | FroSsT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 23:56:06 |
+| Lobby ID | 28565272602715401 |
+| Players | 4/10 |
+| Host Name | シロオニ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 00:15:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272601441105 |
-| Players | 2/24 |
+| Players | 11/24 |
 | Host Name | SOMPLAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 00:14:27 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 00:13:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272602067625 |
-| Players | 10/15 |
-| Host Name | AVG_Solar Grhmj.EnormousDong |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 00:15:00 |
+| Lobby ID | 28565272602300090 |
+| Players | 3/24 |
+| Host Name | Miku |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 00:15:12 |
 
 
 |  | ot3_desert_octet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272600199210 |
-| Players | 2/15 |
-| Host Name | ヅ ¬¬ Ty GD ¬ ヅ |
+| Players | 1/15 |
+| Host Name | Rati |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 00:13:23 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272596073842 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | zx. |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 00:09:47 |
@@ -77,45 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272600085006 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | don ratone |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 00:13:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272601825531 |
-| Players | 7/10 |
-| Host Name | Jane.A7x |
+| Lobby ID | 28565272603215859 |
+| Players | 1/8 |
+| Host Name | Waffle |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 00:14:47 |
+| Lobby Creation Time | Saturday, December 16, 2023 00:15:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272601281350 |
-| Players | 6/8 |
-| Host Name | Pet3r (777) |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 00:14:19 |
+| Lobby ID | 28565272602799241 |
+| Players | 4/8 |
+| Host Name | SLTV | Slikeaboss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 00:15:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272602300090 |
-| Players | 1/24 |
-| Host Name | Miku |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 00:15:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272602396939 |
-| Players | 1/8 |
-| Host Name | Bourbon |
+| Lobby ID | 28565272603174754 |
+| Players | 2/24 |
+| Host Name | Anastos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 00:15:17 |
+| Lobby Creation Time | Saturday, December 16, 2023 00:15:57 |
 
 
