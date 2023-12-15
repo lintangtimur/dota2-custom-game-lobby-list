@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272535798919 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | シロオニ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 23:18:52 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 23:20:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272538391280 |
-| Players | 14/15 |
-| Host Name | xzc |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 23:21:00 |
+| Lobby ID | 28565272540843398 |
+| Players | 1/24 |
+| Host Name | The Chigüi |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 15, 2023 23:23:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272536859602 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | 7\ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:19:44 |
@@ -95,36 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272540237716 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Terror |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:22:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272539805023 |
-| Players | 3/8 |
-| Host Name | Kawazaki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 23:22:08 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272540799835 |
-| Players | 1/24 |
+| Players | 11/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 23:22:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272540843398 |
-| Players | 1/24 |
-| Host Name | The Chigüi |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 15, 2023 23:23:00 |
+| Lobby ID | 28565272541056285 |
+| Players | 3/15 |
+| Host Name | started to embrace the PMA |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 23:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272541181053 |
+| Players | 6/8 |
+| Host Name | Хатыщсвамиварпач |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 23:23:16 |
 
 
