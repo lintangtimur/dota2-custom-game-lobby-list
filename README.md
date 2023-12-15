@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 20:51:11 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28565272366147000 |
+| Players | 3/5 |
+| Host Name | Григорий Друда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:08:10 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272363822150 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272365636710 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Ataman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:07:45 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272362157994 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Ｂｌａｎｃａｎｉｅｖ e |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:05:02 |
@@ -77,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272343821959 |
-| Players | 5/24 |
-| Host Name | shadow |
+| Players | 4/24 |
+| Host Name | asd |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 15, 2023 20:50:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272363252988 |
+| Lobby ID | 28565272366263952 |
 | Players | 1/24 |
-| Host Name | ✪ SOLO JUEGO OVERTHROW |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 21:05:53 |
+| Host Name | RagingBurgers |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 21:08:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272366437468 |
+| Players | 1/8 |
+| Host Name | я летающий зубр аватара самолет |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:08:23 |
 
 
