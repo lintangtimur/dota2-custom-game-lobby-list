@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28565272486796679 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:39:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272491485372 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | PandaQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:43:07 |
@@ -32,16 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28565272495714154 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Pene de Mosca |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:46:29 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28565272496252503 |
+| Players | 1/10 |
+| Host Name | Makoto Shishio |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:46:55 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272482063598 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:35:45 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272486491667 |
-| Players | 3/24 |
-| Host Name | Trimurti |
+| Players | 6/24 |
+| Host Name | Archibolx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:39:15 |
 
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272494009665 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | habitas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:45:07 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272495545327 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 271iq |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:46:21 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272487426493 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Salmon |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 15, 2023 22:39:58 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272491601993 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | TU DIOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:43:13 |
@@ -139,28 +148,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272492945638 |
-| Players | 20/24 |
-| Host Name | NOIR |
+| Lobby ID | 28565272496497172 |
+| Players | 8/24 |
+| Host Name | Shenorita |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:44:17 |
+| Lobby Creation Time | Friday, December 15, 2023 22:47:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272496046775 |
+| Lobby ID | 28565272496514306 |
 | Players | 1/15 |
 | Host Name | ecspromt |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 15, 2023 22:46:45 |
+| Lobby Creation Time | Friday, December 15, 2023 22:47:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272496519227 |
+| Players | 1/24 |
+| Host Name | daed pleier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:47:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272495953659 |
-| Players | 6/15 |
-| Host Name | Ясо Сучлен |
+| Lobby ID | 28565272496563087 |
+| Players | 1/15 |
+| Host Name | $ALPHA$ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 15, 2023 22:47:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272496625050 |
+| Players | 2/8 |
+| Host Name | Danger Andruxa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:46:40 |
+| Lobby Creation Time | Friday, December 15, 2023 22:47:12 |
 
 
