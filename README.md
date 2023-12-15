@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272432942345 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:57:28 |
@@ -29,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:58:10 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28565272435407241 |
-| Players | 1/7 |
-| Host Name | Meqa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:59:23 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272432427417 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:57:03 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272429261846 |
-| Players | 22/24 |
-| Host Name | lOOfy120fps |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 21:54:37 |
+| Lobby ID | 28565272435836898 |
+| Players | 11/15 |
+| Host Name | Amazing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:59:44 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272425113853 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:51:17 |
@@ -131,18 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272435651404 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | LostInSpace |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:59:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272435836898 |
-| Players | 1/15 |
-| Host Name | Amazing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:59:44 |
+| Lobby ID | 28565272436525253 |
+| Players | 1/24 |
+| Host Name | Evo_come_llamas |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:00:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272436502739 |
+| Players | 1/24 |
+| Host Name | GeparDex | Gamdom.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:00:15 |
 
 
