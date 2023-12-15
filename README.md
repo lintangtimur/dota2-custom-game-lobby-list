@@ -13,24 +13,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272396976790 |
-| Players | 9/10 |
-| Host Name | Ghee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:29:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28565272399336020 |
-| Players | 4/10 |
-| Host Name | Black |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:31:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28565272400801526 |
 | Players | 1/10 |
 | Host Name | NDA |
@@ -38,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:32:14 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272401864216 |
-| Players | 3/10 |
-| Host Name | Kuroko Style |
+| Lobby ID | 28565272399336020 |
+| Players | 7/10 |
+| Host Name | Black |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:33:01 |
+| Lobby Creation Time | Friday, December 15, 2023 21:31:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272402887688 |
+| Players | 5/8 |
+| Host Name | Feelsbadmans |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:33:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272389293140 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:24:57 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272399791333 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:31:29 |
@@ -104,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272400419082 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Xenocidios de Rangda |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:31:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272401998051 |
+| Players | 3/10 |
+| Host Name | MJ the G |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 15, 2023 21:33:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272401658950 |
+| Lobby ID | 28565272402685082 |
 | Players | 9/15 |
-| Host Name | Mngl |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:32:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272399715664 |
-| Players | 17/24 |
-| Host Name | TheBlindShibaInuSexyah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:31:26 |
+| Host Name | 夷陵老祖魏无羡 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:33:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -146,21 +137,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:31:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272401864216 |
+| Players | 6/10 |
+| Host Name | Kuroko Style |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:33:01 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272402037495 |
+| Lobby ID | 28565272403100794 |
 | Players | 1/8 |
-| Host Name | raw |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:33:09 |
+| Host Name | LINKEN'S |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:33:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272401998051 |
-| Players | 1/10 |
-| Host Name | MJ the G |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 15, 2023 21:33:07 |
+| Lobby ID | 28565272401053620 |
+| Players | 9/10 |
+| Host Name | kindamental |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:32:25 |
 
 
