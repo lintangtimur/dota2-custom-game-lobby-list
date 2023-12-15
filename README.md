@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28564956371827242 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | James |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 10:20:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28564956372899491 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 10:22:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28564956372979499 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Mikooz |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 15, 2023 10:22:42 |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 10:23:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28564956373366674 |
-| Players | 4/8 |
-| Host Name | LE PUMBE |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 10:23:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28564956372495149 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ryoiki tenkai Fukuma Mizushi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 10:21:45 |
