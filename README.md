@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272430531061 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ROCK HARD |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 15, 2023 21:55:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272423090444 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:49:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272429903956 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:55:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272431914455 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Отец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:56:39 |
@@ -95,9 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272431683059 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Guardian |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:56:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272428357086 |
+| Players | 4/8 |
+| Host Name | pussy boy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:53:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272432427417 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272432709669 |
+| Players | 1/15 |
+| Host Name | 离经叛道 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:17 |
 
 
