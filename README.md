@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272432965620 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:57:29 |
@@ -13,17 +13,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272466651579 |
-| Players | 8/10 |
-| Host Name | 大哥打野音信全无 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:23:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28565272467320265 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 1HP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:24:16 |
@@ -38,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:17:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272465814126 |
-| Players | 23/24 |
-| Host Name | losing streak |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:23:07 |
+| Lobby ID | 28565272468035807 |
+| Players | 3/15 |
+| Host Name | Ясо Сучлен |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:24:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272459925624 |
-| Players | 23/24 |
-| Host Name | merLO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 22:18:34 |
+| Lobby ID | 28565272468228063 |
+| Players | 3/10 |
+| Host Name | demon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:24:58 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:24:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272466963319 |
-| Players | 3/8 |
-| Host Name | (•̅灬•̅ ) for 下🥚🥚🥚 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, December 15, 2023 22:24:00 |
+| Lobby ID | 28565272468587816 |
+| Players | 2/24 |
+| Host Name | La12Rlxツ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:15 |
 
 
 |  | ot3_desert_octet |
@@ -110,12 +101,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:13:37 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272468293606 |
+| Players | 5/24 |
+| Host Name | Surprize mother farker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272468035807 |
+| Lobby ID | 28565272468390999 |
 | Players | 1/15 |
-| Host Name | Ясо Сучлен |
+| Host Name | Conq |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:24:49 |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272468452525 |
+| Players | 2/8 |
+| Host Name | ЭхоСлемVДетдом |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272468466683 |
+| Players | 1/8 |
+| Host Name | вымышленный персонаж |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272468551485 |
+| Players | 1/15 |
+| Host Name | fabi <3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272468648834 |
+| Players | 3/8 |
+| Host Name | Butterfly |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272468672196 |
+| Players | 3/15 |
+| Host Name | (•̅灬•̅ ) for 下🥚🥚🥚 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, December 15, 2023 22:25:19 |
 
 
