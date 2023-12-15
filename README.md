@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272432965620 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:57:29 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272433410568 |
+| Lobby ID | 28565272433837960 |
 | Players | 1/10 |
-| Host Name | NightBoomer |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 15, 2023 21:57:50 |
+| Host Name | 青椒小新 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 21:58:10 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272428357086 |
-| Players | 5/8 |
-| Host Name | pussy boy |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:53:51 |
+| Lobby ID | 28565272433774581 |
+| Players | 1/8 |
+| Host Name | Безобразный ублю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:58:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272429261846 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | lOOfy120fps |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:54:37 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272433160193 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ПОРЯДЫ КИНЬТЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:57:38 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272433355426 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Ksavar? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:57:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272432994953 |
-| Players | 10/15 |
-| Host Name | Ariskeyt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:57:30 |
 
 
 |  | ot3_jungle_quintet |
