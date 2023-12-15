@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272344629410 |
-| Players | 9/10 |
-| Host Name | Fran____ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 15, 2023 20:51:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28565272369567171 |
 | Players | 5/10 |
 | Host Name | Kurimawski |
@@ -29,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:10:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272370863435 |
-| Players | 5/8 |
-| Host Name | who? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:11:52 |
+| Lobby ID | 28565272370460222 |
+| Players | 9/15 |
+| Host Name | VeNoMuS |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:11:33 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272366758736 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 塔沃 (TAVO) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:08:39 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272370151805 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | антиклоун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:11:18 |
@@ -92,39 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 20:50:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272370482970 |
-| Players | 1/24 |
-| Host Name | Don't Touch My Ass |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:11:34 |
+| Lobby ID | 28565272370706790 |
+| Players | 5/8 |
+| Host Name | 無限の彼方へ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:11:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272370406197 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | vi turbo, vi bark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:11:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272370460222 |
-| Players | 7/15 |
-| Host Name | VeNoMuS |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:11:33 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272370706790 |
-| Players | 3/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:11:44 |
+| Lobby ID | 28565272371414349 |
+| Players | 4/8 |
+| Host Name | Vlar1ch |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:12:17 |
 
 
