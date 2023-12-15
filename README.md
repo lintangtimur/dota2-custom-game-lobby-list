@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272392066875 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Masons Highly Toxic Lump of Coal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:26:40 |
@@ -22,11 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28565272396209816 |
-| Players | 2/5 |
-| Host Name | Arrjhayzee |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 15, 2023 21:29:02 |
+| Lobby ID | 28565272396330753 |
+| Players | 1/5 |
+| Host Name | ZaZu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:29:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28565272395367551 |
+| Players | 3/5 |
+| Host Name | солевое быдло |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:28:30 |
 
 
 |  | ot3_desert_octet |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272389293140 |
-| Players | 2/8 |
-| Host Name | Trembolona |
+| Players | 1/8 |
+| Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:24:57 |
 
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272391862728 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:26:33 |
@@ -128,48 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:28:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272395509184 |
-| Players | 8/10 |
-| Host Name | каких львов? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:28:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272394759965 |
-| Players | 10/15 |
-| Host Name | Pray4me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:28:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272385506733 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | HIMARS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:22:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272396169462 |
-| Players | 4/8 |
-| Host Name | gracco |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:29:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272396256640 |
-| Players | 4/8 |
-| Host Name | ЭЩКЕРЕЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:29:04 |
 
 
