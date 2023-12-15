@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272399868384 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Chatuba |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 15, 2023 21:31:32 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272406447511 |
-| Players | 7/15 |
-| Host Name | на попей |
+| Lobby ID | 28565272407637920 |
+| Players | 2/10 |
+| Host Name | ГОСНАРКОКОНТРОЛЬ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:36:32 |
+| Lobby Creation Time | Friday, December 15, 2023 21:37:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272398835793 |
-| Players | 7/24 |
+| Players | 17/24 |
 | Host Name | millionware.vip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:30:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272400419082 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Xenocidios de Rangda |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:31:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272406759454 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | мудрый дуб |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:36:47 |
