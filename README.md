@@ -47,20 +47,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:29:40 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28565272476001992 |
-| Players | 3/10 |
-| Host Name | Илья Найк |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:31:01 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272472655249 |
-| Players | 7/24 |
-| Host Name | をthrow down your tearsをugly |
+| Players | 1/24 |
+| Host Name | ))) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:28:24 |
 
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272468587816 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | La12Rlxツ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:25:15 |
@@ -101,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272475986399 |
-| Players | 1/15 |
-| Host Name | Azazanext |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:31:00 |
+| Lobby ID | 28565272476372903 |
+| Players | 3/10 |
+| Host Name | Увeковeчeно в кaмнe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:31:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272472017121 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Let me SLeep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:27:54 |
@@ -121,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272475877245 |
-| Players | 3/15 |
-| Host Name | qaz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:30:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272475861317 |
-| Players | 1/15 |
-| Host Name | Nakoleni |
+| Lobby ID | 28565272476299328 |
+| Players | 5/15 |
+| Host Name | Azazanext |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:30:54 |
+| Lobby Creation Time | Friday, December 15, 2023 22:31:15 |
 
 
