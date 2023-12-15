@@ -2,29 +2,56 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272430531061 |
-| Players | 6/8 |
-| Host Name | ROCK HARD |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 15, 2023 21:55:34 |
+| Lobby ID | 28565272432965620 |
+| Players | 1/10 |
+| Host Name | KennyPaaa |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28565272432942345 |
+| Players | 1/10 |
+| Host Name | Белый Волк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28565272433410568 |
+| Players | 1/10 |
+| Host Name | NightBoomer |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272423090444 |
-| Players | 22/24 |
-| Host Name | Chloe Grace Moretz |
+| Lobby ID | 28565272432427417 |
+| Players | 7/24 |
+| Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:49:38 |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272428357086 |
+| Players | 5/8 |
+| Host Name | pussy boy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:53:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272429903956 |
-| Players | 3/15 |
-| Host Name | PAch1 |
+| Players | 2/15 |
+| Host Name | Σ오로러시ψ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:55:05 |
 
@@ -50,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272429261846 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | lOOfy120fps |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:54:37 |
@@ -59,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272428225612 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:53:45 |
@@ -68,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272425113853 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:51:17 |
@@ -83,48 +110,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:54:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272431914455 |
-| Players | 12/15 |
-| Host Name | Отец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:56:39 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272431683059 |
-| Players | 7/10 |
-| Host Name | Guardian |
+| Lobby ID | 28565272433160193 |
+| Players | 5/10 |
+| Host Name | ПОРЯДЫ КИНЬТЕ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:56:29 |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272428357086 |
-| Players | 4/8 |
-| Host Name | pussy boy |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:53:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272432427417 |
-| Players | 6/24 |
-| Host Name | TheBlindShibaInuSexyah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:57:03 |
+| Lobby ID | 28565272433355426 |
+| Players | 5/8 |
+| Host Name | Ksavar? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272432709669 |
+| Lobby ID | 28565272432994953 |
+| Players | 10/15 |
+| Host Name | Ariskeyt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272433514949 |
 | Players | 1/15 |
-| Host Name | 离经叛道 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 21:57:17 |
+| Host Name | кепяток |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:57:55 |
 
 
