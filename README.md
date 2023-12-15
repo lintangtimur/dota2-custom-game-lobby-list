@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:26:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272392000198 |
-| Players | 1/5 |
-| Host Name | Гей Бармалей |
+| Lobby ID | 28565272374481572 |
+| Players | 7/10 |
+| Host Name | Berthlink |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:26:38 |
+| Lobby Creation Time | Friday, December 15, 2023 21:14:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 21:26:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272374481572 |
-| Players | 6/10 |
-| Host Name | Berthlink |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:14:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272355373524 |
-| Players | 23/24 |
-| Host Name | arhikent |
+| Lobby ID | 28565272382339558 |
+| Players | 13/15 |
+| Host Name | не гр еть |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 20:59:43 |
+| Lobby Creation Time | Friday, December 15, 2023 21:20:25 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28563917543192949 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Nowty_JoKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272392290025 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Wisecret |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:26:48 |
@@ -139,28 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272388093877 |
-| Players | 2/8 |
-| Host Name | Бубжидубжизус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:24:11 |
+| Lobby ID | 28565272392859440 |
+| Players | 1/8 |
+| Host Name | 4:32 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 21:27:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272377511646 |
 | Players | 4/8 |
-| Host Name | k__j |
+| Host Name | CookingTheBacons |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:17:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272382339558 |
-| Players | 14/15 |
-| Host Name | ThisLifeRiding® |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:20:25 |
 
 
