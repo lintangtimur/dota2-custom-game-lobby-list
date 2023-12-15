@@ -13,17 +13,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272456643760 |
-| Players | 3/10 |
-| Host Name | MESSI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:16:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28565272456501805 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:15:56 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272455929031 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:15:29 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272451036962 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:11:41 |
@@ -83,66 +74,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:14:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272456726878 |
-| Players | 2/10 |
-| Host Name | Ералаш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:16:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272456430516 |
-| Players | 3/15 |
-| Host Name | Работяга |
+| Lobby ID | 28565272457002213 |
+| Players | 2/15 |
+| Host Name | Tyler56 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:16:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272457476647 |
+| Players | 4/10 |
+| Host Name | БУБНОВЫЙ ТУЗ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:15:53 |
+| Lobby Creation Time | Friday, December 15, 2023 22:16:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272453528809 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:13:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272456011275 |
-| Players | 3/8 |
-| Host Name | CM Axl |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 15, 2023 22:15:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272456638261 |
-| Players | 7/8 |
-| Host Name | Meepff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:16:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272456637428 |
-| Players | 2/24 |
-| Host Name | Avena 3 OSITOS |
+| Lobby ID | 28565272457520748 |
+| Players | 1/10 |
+| Host Name | ]_eXoes__Xex__.."> |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 22:16:02 |
+| Lobby Creation Time | Friday, December 15, 2023 22:16:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272456657015 |
-| Players | 6/24 |
+| Players | 18/24 |
 | Host Name | NukeSyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:16:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272456637428 |
+| Players | 3/24 |
+| Host Name | LORD-CRONOS |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:16:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272457760641 |
+| Players | 1/8 |
+| Host Name | ub3r d3ath d3l1v3ry* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:16:54 |
 
 
