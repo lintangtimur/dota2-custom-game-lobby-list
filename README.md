@@ -14,34 +14,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272471671401 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Neker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:27:38 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28565272471406782 |
-| Players | 6/10 |
-| Host Name | N0kuu)) |
+| Lobby ID | 28565272472000905 |
+| Players | 1/5 |
+| Host Name | × WΛSTΣD × |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:27:26 |
+| Lobby Creation Time | Friday, December 15, 2023 22:27:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272470130383 |
-| Players | 9/10 |
-| Host Name | Nolinaer_TTV |
+| Lobby ID | 28565272472098033 |
+| Players | 12/15 |
+| Host Name | truecrime quartet fx1 + me |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:26:26 |
+| Lobby Creation Time | Friday, December 15, 2023 22:27:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272472321395 |
+| Players | 1/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:28:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272470840299 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:27:00 |
@@ -65,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272465795276 |
-| Players | 12/15 |
-| Host Name | Клешнявый вилли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:23:06 |
+| Lobby ID | 28565272459925624 |
+| Players | 23/24 |
+| Host Name | merLO |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:18:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272467004868 |
-| Players | 5/24 |
-| Host Name | をthrow down your tearsをugly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:24:02 |
+| Lobby ID | 28565272472017121 |
+| Players | 2/24 |
+| Host Name | Let me SLeep |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:27:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272468587816 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | La12Rlxツ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:25:15 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272453528809 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 步枪步.top1.电竞让你很 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:13:37 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272471027579 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | beep! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:27:08 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272471872927 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:27:47 |
@@ -128,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:27:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272471935496 |
-| Players | 3/15 |
-| Host Name | (•̅灬•̅ ) for 下🥚🥚🥚 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Friday, December 15, 2023 22:27:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272459925624 |
-| Players | 23/24 |
-| Host Name | merLO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 22:18:34 |
+| Lobby ID | 28565272472247953 |
+| Players | 3/10 |
+| Host Name | Yeagerist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:28:05 |
 
 
