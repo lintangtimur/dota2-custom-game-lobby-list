@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272604921808 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | dick abuser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 00:17:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272602300090 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 00:15:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272605572415 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | willdUck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 00:18:02 |
@@ -104,36 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272605416192 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 00:17:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272606387112 |
-| Players | 11/15 |
-| Host Name | FloweryShirtGuy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 00:18:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272604445194 |
-| Players | 6/8 |
-| Host Name | HuGiTy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 00:17:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272606609364 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Rarity' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 00:18:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272606697150 |
+| Players | 5/15 |
+| Host Name | XqX |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 00:19:01 |
 
 
