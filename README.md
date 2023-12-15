@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 23:58:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272585143116 |
-| Players | 12/15 |
-| Host Name | 999999 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 00:00:21 |
+| Lobby ID | 28565272586140482 |
+| Players | 1/24 |
+| Host Name | Sandro |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 00:01:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272585505558 |
-| Players | 3/8 |
-| Host Name | 322 |
+| Players | 1/8 |
+| Host Name | <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 00:00:39 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272582196098 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 23:57:49 |
@@ -95,54 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272579597604 |
-| Players | 19/24 |
+| Players | 16/24 |
 | Host Name | เบียดเบาะ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 15, 2023 23:55:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272585338420 |
-| Players | 3/10 |
-| Host Name | capybara mindset |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 00:00:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272584791532 |
-| Players | 7/8 |
-| Host Name | 川崎 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 00:00:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272579500069 |
-| Players | 23/24 |
-| Host Name | ★彡[ŁogaภY]彡★ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 23:55:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272585704362 |
-| Players | 1/15 |
-| Host Name | ZZZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 00:00:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272576469689 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | blackeap54 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:52:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272585972502 |
+| Players | 6/15 |
+| Host Name | Ильяс Атакуэйшн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 00:01:04 |
 
 
