@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:48:31 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28565272499138204 |
+| Players | 1/5 |
+| Host Name | 666ШаЛуН666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:49:14 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272482063598 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:39:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272498247402 |
-| Players | 9/10 |
-| Host Name | 小 竹 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:48:30 |
+| Lobby ID | 28565272496870669 |
+| Players | 15/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:47:24 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272494009665 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | habitas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:45:07 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272497740261 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | баночка гачички |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:48:06 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272496893669 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Özel Mülkiyet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:47:25 |
@@ -153,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:47:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28565272496870669 |
-| Players | 15/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:47:24 |
 
 
