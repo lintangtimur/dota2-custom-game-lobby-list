@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272549059851 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kak tak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:29:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272541949904 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sallofos |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 15, 2023 23:23:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272547022591 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | всосалдо |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 15, 2023 23:28:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272547429739 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:28:23 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 23:26:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272547284415 |
-| Players | 9/10 |
-| Host Name | SIDERAL FRIO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 23:28:16 |
+| Lobby ID | 28565272549501466 |
+| Players | 2/8 |
+| Host Name | Новичок |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 23:30:06 |
 
 
 |  | ot3_gardens_duo |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 23:29:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272549402539 |
-| Players | 1/15 |
-| Host Name | ビレウム |
+| Lobby ID | 28565272549432711 |
+| Players | 2/8 |
+| Host Name | findme! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 23:30:01 |
+| Lobby Creation Time | Friday, December 15, 2023 23:30:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272549389142 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Seth |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:30:00 |
