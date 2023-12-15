@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28565272473217851 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | sPaz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:28:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28565272474131925 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Ярик Колектор |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:29:33 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:29:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28565272477521877 |
+| Players | 1/10 |
+| Host Name | Xtailoldam |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:32:12 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272476499308 |
-| Players | 6/10 |
-| Host Name | dagger |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:31:24 |
+| Lobby ID | 28565272477465084 |
+| Players | 5/8 |
+| Host Name | БОНДИД-Джамшут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:32:10 |
 
 
 |  | ot3_gardens_duo |
@@ -122,18 +131,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272476817159 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:31:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272477185639 |
-| Players | 2/8 |
-| Host Name | SIGU |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:31:56 |
+| Lobby ID | 28565272477486830 |
+| Players | 3/24 |
+| Host Name | やばい  _( 「ε:)_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:32:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272477308439 |
+| Players | 5/15 |
+| Host Name | Быдло |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:32:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272477578660 |
+| Players | 1/10 |
+| Host Name | 撒尿和他媽的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:32:15 |
 
 
