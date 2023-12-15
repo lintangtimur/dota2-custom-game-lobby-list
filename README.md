@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272423090444 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:49:38 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272427916233 |
-| Players | 7/15 |
-| Host Name | Kirito |
+| Players | 10/15 |
+| Host Name | БАБАЛАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:53:30 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272428225612 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:53:45 |
@@ -103,37 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272422303989 |
-| Players | 2/8 |
-| Host Name | вымышленный персонаж |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 21:49:00 |
+| Lobby ID | 28565272428591324 |
+| Players | 4/8 |
+| Host Name | Бабки давать буду |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 21:54:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272428357086 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | pussy boy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 21:53:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272428404267 |
-| Players | 3/10 |
-| Host Name | DİMDİCK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:53:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272428384996 |
-| Players | 4/8 |
-| Host Name | P1NK ez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 21:53:52 |
 
 
