@@ -22,17 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28565272584548974 |
+| Lobby ID | 28565272585114765 |
 | Players | 1/5 |
 | Host Name | Red†e@ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 23:59:50 |
+| Lobby Creation Time | Saturday, December 16, 2023 00:00:19 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28565272585143396 |
+| Players | 4/7 |
+| Host Name | MaZer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 00:00:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272582980108 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | sdasd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 23:58:29 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272584522623 |
-| Players | 5/10 |
-| Host Name | zjemcikotasuko |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 23:59:49 |
+| Lobby ID | 28565272584927029 |
+| Players | 1/10 |
+| Host Name | Juan Reyes |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 00:00:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272576469689 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | blackeap54 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:52:53 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272582196098 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ShubNiggurath |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 23:57:49 |
@@ -104,36 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272579597604 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | เบียดเบาะ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 15, 2023 23:55:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272584129684 |
-| Players | 2/15 |
-| Host Name | Glimmer of Hope |
+| Lobby ID | 28565272585045433 |
+| Players | 1/10 |
+| Host Name | ☻ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 23:59:28 |
+| Lobby Creation Time | Saturday, December 16, 2023 00:00:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272584699840 |
-| Players | 1/8 |
-| Host Name | Максим-Аганим |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 23:59:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272584699134 |
-| Players | 1/8 |
+| Lobby ID | 28565272584791532 |
+| Players | 3/8 |
 | Host Name | 川崎 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 23:59:58 |
+| Lobby Creation Time | Saturday, December 16, 2023 00:00:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272585143116 |
+| Players | 1/15 |
+| Host Name | 999999 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 00:00:21 |
 
 
