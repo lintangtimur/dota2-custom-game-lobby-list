@@ -29,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:08:03 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28565272445741360 |
-| Players | 9/10 |
-| Host Name | DEVIL MAY CUM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:07:32 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28565272447912501 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Tillto |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:09:14 |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:06:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272448040035 |
-| Players | 4/8 |
-| Host Name | 奇迹 |
+| Lobby ID | 28565272447964197 |
+| Players | 6/24 |
+| Host Name | пикну рики |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:09:20 |
+| Lobby Creation Time | Friday, December 15, 2023 22:09:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272436502739 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | GeparDex | Gamdom.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:00:15 |
@@ -128,64 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:02:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272446770280 |
-| Players | 5/8 |
-| Host Name | beep! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:08:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28565272446551935 |
-| Players | 8/15 |
-| Host Name | Jonathan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:08:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272444675552 |
-| Players | 4/10 |
-| Host Name | Татариус |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 15, 2023 22:06:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272447673574 |
-| Players | 4/10 |
-| Host Name | gazdratjopi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:09:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272446401356 |
-| Players | 9/10 |
-| Host Name | кровосicя |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:08:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272447753709 |
-| Players | 6/10 |
-| Host Name | DeaDeD`Soul |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:09:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272447806757 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | Fakar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:09:09 |
@@ -200,12 +137,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:09:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272447964197 |
-| Players | 6/24 |
-| Host Name | пикну рики |
+| Lobby ID | 28565272444675552 |
+| Players | 4/10 |
+| Host Name | Татариус |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 15, 2023 22:06:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272447673574 |
+| Players | 6/10 |
+| Host Name | gazdratjopi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:09:16 |
+| Lobby Creation Time | Friday, December 15, 2023 22:09:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272448557438 |
+| Players | 3/8 |
+| Host Name | 92 kg true underground ghoul |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:09:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272447753709 |
+| Players | 9/10 |
+| Host Name | DeaDeD`Soul |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:09:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272444639776 |
+| Players | 14/15 |
+| Host Name | piccadillinger |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:06:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272441260809 |
+| Players | 8/10 |
+| Host Name | саламоLEXUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:04:01 |
 
 
