@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:46:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28565272496252503 |
-| Players | 9/10 |
-| Host Name | Makoto Shishio |
+| Lobby ID | 28565272499257393 |
+| Players | 2/5 |
+| Host Name | × WΛSTΣD × |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:46:55 |
+| Lobby Creation Time | Friday, December 15, 2023 22:49:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:48:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28565272499257393 |
-| Players | 2/5 |
-| Host Name | × WΛSTΣD × |
+| Lobby ID | 28565272502259203 |
+| Players | 1/10 |
+| Host Name | Gandy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:49:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28565272501542092 |
-| Players | 2/5 |
-| Host Name | ГошаКуни |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:51:09 |
+| Lobby Creation Time | Friday, December 15, 2023 22:51:43 |
 
 
 |  | ot3_gardens_duo |
@@ -59,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272486491667 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:39:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272496870669 |
-| Players | 23/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:47:24 |
+| Lobby ID | 28565272502274037 |
+| Players | 4/8 |
+| Host Name | Я КОНЧЕНЫЙ БЕРУ М |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 22:51:44 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272494009665 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | habitas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:45:07 |
@@ -103,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272501594130 |
+| Lobby ID | 28565272502265216 |
 | Players | 1/8 |
-| Host Name | whaaa... |
+| Host Name | akkime雨 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:51:12 |
+| Lobby Creation Time | Friday, December 15, 2023 22:51:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 22:49:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272501503101 |
-| Players | 5/10 |
-| Host Name | By_Spark |
+| Lobby ID | 28565272501467537 |
+| Players | 3/8 |
+| Host Name | Ёбырь Гитлера |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:51:08 |
+| Lobby Creation Time | Friday, December 15, 2023 22:51:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272496519227 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:47:07 |
@@ -168,35 +159,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28565272500578398 |
 | Players | 5/15 |
-| Host Name | General Kunkka Oleksiyovich |
+| Host Name | QJC |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 15, 2023 22:50:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272500659277 |
-| Players | 9/10 |
-| Host Name | ГОРДОСТЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:50:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272501257255 |
-| Players | 9/10 |
-| Host Name | Я тут в сперме |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:50:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28565272501467537 |
-| Players | 3/8 |
-| Host Name | Ёбырь Гитлера |
+| Lobby ID | 28565272501723280 |
+| Players | 7/15 |
+| Host Name | серега пират |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:51:06 |
+| Lobby Creation Time | Friday, December 15, 2023 22:51:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272502402454 |
+| Players | 5/10 |
+| Host Name | dagger |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:51:50 |
 
 
