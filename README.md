@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272582980108 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | sdasd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 23:58:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272583359874 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | SOLOMON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:58:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272579597604 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | เบียดเบาะ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 15, 2023 23:55:34 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272552575638 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Oogway |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 23:32:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272579500069 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:55:29 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272576469689 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | blackeap54 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:52:53 |
@@ -148,28 +148,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272582593685 |
-| Players | 1/10 |
-| Host Name | KiO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 23:58:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28565272583422783 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Хочу быть Чушпаном |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 23:58:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272581972472 |
-| Players | 14/15 |
-| Host Name | sarfentas |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 23:57:37 |
+| Lobby ID | 28565272583632046 |
+| Players | 1/10 |
+| Host Name | PROD 64 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 23:59:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28565272583676352 |
+| Players | 1/24 |
+| Host Name | Sopi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 23:59:05 |
 
 
