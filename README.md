@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28565272339881298 |
-| Players | 3/7 |
-| Host Name | KaJIu6pu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 20:47:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272340997271 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | neikus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 20:48:18 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272328897933 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 20:38:35 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272340338874 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | mr.гр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 20:47:47 |
@@ -85,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272340021034 |
-| Players | 6/8 |
-| Host Name | NETORATE |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 20:47:31 |
+| Lobby ID | 28565272336344331 |
+| Players | 7/8 |
+| Host Name | ................................ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 15, 2023 20:44:36 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272339878282 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Saksa |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 20:47:25 |
@@ -122,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272340689602 |
-| Players | 2/24 |
+| Players | 15/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 20:48:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28565272340792796 |
-| Players | 2/10 |
-| Host Name | запах сирени |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 20:48:08 |
 
 
