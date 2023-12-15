@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272441403828 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Requiem |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:04:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272442406169 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | p4kno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:04:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272425113853 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 21:51:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272444029588 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Krico |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:06:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28565272429903956 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | 『新東亜 』 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 21:55:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272442109391 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | rain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 22:04:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272428225612 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 21:53:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272436502739 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | GeparDex | Gamdom.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:00:15 |
@@ -104,45 +104,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28565272439396049 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | mirame, mirate y minimizate |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:02:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28565272443590070 |
-| Players | 6/8 |
-| Host Name | Virg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:05:50 |
+| Lobby ID | 28565272443511246 |
+| Players | 5/24 |
+| Host Name | Lonely Man 2 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 15, 2023 22:05:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272443455183 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ARK |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:05:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28565272444675552 |
+| Players | 4/10 |
+| Host Name | Татариус |
+| Region | CHILE |
+| Lobby Creation Time | Friday, December 15, 2023 22:06:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272443456290 |
-| Players | 1/15 |
-| Host Name | GAK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:05:44 |
+| Lobby ID | 28565272444639776 |
+| Players | 6/15 |
+| Host Name | piccadillinger |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:06:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28565272443511246 |
-| Players | 4/24 |
-| Host Name | Lonely Man 2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 22:05:47 |
+| Lobby ID | 28565272444700154 |
+| Players | 1/10 |
+| Host Name | ]_eXoes__Xex__.."> |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:06:43 |
 
 
