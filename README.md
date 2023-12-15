@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28565272474294462 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:29:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28565272479067684 |
-| Players | 7/15 |
-| Host Name | Nexver |
+| Lobby ID | 28565272475109984 |
+| Players | 14/15 |
+| Host Name | биг сити лайф |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 15, 2023 22:33:24 |
+| Lobby Creation Time | Friday, December 15, 2023 22:30:19 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272479572411 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | kuba luba (hertugen) |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:33:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272476983707 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 22:31:47 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272476817159 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 22:31:39 |
@@ -131,18 +131,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272477486830 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | やばい  _( 「ε:)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 22:32:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272479978653 |
+| Players | 2/15 |
+| Host Name | .........:v |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:34:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272480037266 |
+| Players | 6/15 |
+| Host Name | Enjoy dota, enjoy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 15, 2023 22:34:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272479788820 |
-| Players | 6/8 |
-| Host Name | no longer mindset |
+| Lobby ID | 28565272480261383 |
+| Players | 1/8 |
+| Host Name | Pakazs de dia pajas de noche |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 15, 2023 22:34:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272480262042 |
+| Players | 1/8 |
+| Host Name | [w]Easy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 15, 2023 22:33:58 |
+| Lobby Creation Time | Friday, December 15, 2023 22:34:20 |
 
 
