@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28564846436353639 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | JZN |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 08:20:34 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28564956358260984 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 15, 2023 09:53:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28564956371827242 |
-| Players | 13/15 |
-| Host Name | James |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 15, 2023 10:20:25 |
+| Lobby ID | 28564956373766315 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 15, 2023 10:24:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28564956372095543 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Dae wae |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 10:20:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28564956373249023 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Big Daddy Sweet (BDS) |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 15, 2023 10:23:14 |
@@ -122,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28564956373691630 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | House |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 10:24:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28564956373668468 |
-| Players | 2/8 |
-| Host Name | Sir Archibald |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 15, 2023 10:24:05 |
 
 
