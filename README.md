@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272554088973 |
-| Players | 13/24 |
+| Players | 21/24 |
 | Host Name | Solace |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 15, 2023 23:33:56 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 15, 2023 02:57:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28565272550879417 |
-| Players | 21/24 |
-| Host Name | grandpapi kawaii |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 15, 2023 23:31:15 |
+| Lobby ID | 28565272557949879 |
+| Players | 1/8 |
+| Host Name | NonForDevs |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 15, 2023 23:37:10 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28565272555940010 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 15, 2023 23:35:29 |
@@ -113,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28565272557201103 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ekna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 15, 2023 23:36:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28565272557861896 |
+| Players | 1/8 |
+| Host Name | Bl1tz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 23:37:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28565272558049908 |
+| Players | 1/15 |
+| Host Name | Libeppi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 15, 2023 23:37:15 |
 
 
