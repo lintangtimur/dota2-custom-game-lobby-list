@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502011601351 |
-| Players | 21/24 |
-| Host Name | туалет крутится |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:47:17 |
+| Lobby ID | 28566502025293689 |
+| Players | 18/24 |
+| Host Name | N8 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:58:49 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:50:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502028261344 |
-| Players | 6/8 |
-| Host Name | Combustibll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:01:19 |
+| Lobby ID | 28566502027711727 |
+| Players | 1/10 |
+| Host Name | CameraMan |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 20:00:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502028667542 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | На Прислуге |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:01:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502028864556 |
-| Players | 5/8 |
-| Host Name | Вадик 3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:01:49 |
 
 
 |  | ot3_gardens_duo |
@@ -101,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:57:23 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502025293689 |
-| Players | 18/24 |
-| Host Name | N8 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:58:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566502027711727 |
-| Players | 1/10 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 20:00:52 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566502021096694 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Абхазская вафля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:55:17 |
