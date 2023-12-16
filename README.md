@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501879444368 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:38:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501883565640 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | woaaaar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:43:14 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501884732844 |
-| Players | 2/10 |
-| Host Name | tssmw11 |
+| Lobby ID | 28566501885535926 |
+| Players | 2/8 |
+| Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:44:33 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:45:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:42:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501884846906 |
-| Players | 4/8 |
-| Host Name | 死 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:44:40 |
+| Lobby ID | 28566501885545488 |
+| Players | 5/15 |
+| Host Name | Caius Cosades |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 17:45:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501876279530 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:35:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501885067993 |
-| Players | 13/15 |
-| Host Name | tiuebiwe |
+| Lobby ID | 28566501885518817 |
+| Players | 2/10 |
+| Host Name | tssmw11 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:44:55 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:45:25 |
 
 
 |  | epic_boss_fight_nightmare |
