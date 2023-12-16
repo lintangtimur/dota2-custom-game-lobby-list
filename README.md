@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501825500769 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | akkime雨 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:35:27 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:35:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501828118645 |
-| Players | 4/8 |
-| Host Name | Sar1mer |
+| Lobby ID | 28566501829068547 |
+| Players | 2/10 |
+| Host Name | свин здесь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:38:34 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:39:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,6 +56,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501828957564 |
+| Players | 5/15 |
+| Host Name | Shade1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:39:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501829109673 |
+| Players | 1/15 |
+| Host Name | TiTaNKojo_1MES_de_verde |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 16:39:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501829208895 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 16:39:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501829227351 |
+| Players | 1/8 |
+| Host Name | GeneraL |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:39:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501820695783 |
@@ -63,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Immortal™Фрукт) |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:29:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501828568768 |
-| Players | 1/5 |
-| Host Name | Klimaneutral |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:39:07 |
 
 
