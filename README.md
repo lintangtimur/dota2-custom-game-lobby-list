@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501844857902 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:58:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501846939972 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ฿eͥℝsͣeͫℝk♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:01:10 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:01:15 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501847092851 |
+| Players | 1/24 |
+| Host Name | Rae |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:01:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501839581303 |
@@ -113,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501845370487 |
-| Players | 7/10 |
-| Host Name | . Skye |
+| Players | 6/10 |
+| Host Name | Heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:59:16 |
 
