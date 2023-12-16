@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501786132105 |
-| Players | 7/10 |
-| Host Name | Атаквейшен |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:47:00 |
+| Lobby ID | 28566501788876302 |
+| Players | 1/15 |
+| Host Name | Masterbin |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 15:50:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501784107857 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 星野爱久爱海 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:44:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501783573960 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | DrakoLa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:43:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501786549953 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:47:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501788732671 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Negativ4ik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:50:18 |
@@ -96,8 +96,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566501788218736 |
 | Players | 2/5 |
-| Host Name | Night |
+| Host Name | Potato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:49:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501789258208 |
+| Players | 1/10 |
+| Host Name | TrX. Aki¤€.Fear |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:50:58 |
 
 
