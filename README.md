@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:50:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501974818316 |
-| Players | 5/15 |
-| Host Name | L8DF |
+| Lobby ID | 28566501975238797 |
+| Players | 4/8 |
+| Host Name | Daos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:15:14 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501970538428 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:11:25 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:15:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501975461371 |
+| Players | 5/15 |
+| Host Name | MAGROCUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501975445412 |
+| Players | 1/15 |
+| Host Name | RRealaer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:48 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566501973322645 |
@@ -86,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501972815283 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:13:27 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566501975651539 |
+| Players | 1/7 |
+| Host Name | фанат дофамина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:59 |
 
 
