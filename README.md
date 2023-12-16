@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501983105209 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | burnt flowers |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:22:40 |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:21:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501980076246 |
+| Players | 18/24 |
+| Host Name | Ah Zai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501983573915 |
-| Players | 9/15 |
-| Host Name | katanno` |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:23:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501983571929 |
-| Players | 1/8 |
+| Lobby ID | 28566501983908020 |
+| Players | 2/15 |
 | Host Name | Чернокожин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:23:05 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:23:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501983926463 |
+| Players | 4/10 |
+| Host Name | Aurora |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 16, 2023 19:23:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | good guy |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 19:20:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501983904527 |
+| Players | 1/5 |
+| Host Name | 1 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:23:23 |
 
 
