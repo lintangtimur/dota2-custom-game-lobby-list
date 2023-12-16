@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501874560876 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Voteman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:33:12 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:29:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501874223544 |
-| Players | 3/8 |
-| Host Name | Рыжий кальмар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:32:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501875449049 |
-| Players | 1/10 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 16, 2023 17:34:12 |
+| Lobby ID | 28566501875515212 |
+| Players | 2/10 |
+| Host Name | ПРЕподобный $ Zоне |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:34:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501875588706 |
+| Players | 3/8 |
+| Host Name | владыка(UWU) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:34:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:28:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501875483982 |
+| Players | 5/10 |
+| Host Name | good guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:34:14 |
 
 
