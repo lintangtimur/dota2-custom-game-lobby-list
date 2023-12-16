@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502203102897 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Chikip4ks7er |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 22:15:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502189875680 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:05:20 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502203228204 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 22:15:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502203756928 |
-| Players | 1/8 |
-| Host Name | ржавым шприцом |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:15:54 |
+| Lobby ID | 28566502202465585 |
+| Players | 1/24 |
+| Host Name | RednWhite |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:14:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502195155795 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:09:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502202304783 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:14:51 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zZsaitZz150 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:10:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502202465585 |
-| Players | 1/24 |
-| Host Name | RednWhite |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:14:57 |
 
 
 |  | epic_boss_fight_nightmare |
