@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501760327175 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Duy Ngã Độc Tôn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:24 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501759480022 |
-| Players | 8/10 |
-| Host Name | Атаквейшен |
+| Lobby ID | 28566501762358923 |
+| Players | 3/15 |
+| Host Name | |||||||||||| |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:13:20 |
+| Lobby Creation Time | Saturday, December 16, 2023 15:17:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501761988157 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Влад Червяков |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:16:34 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:16:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501762317561 |
-| Players | 1/24 |
-| Host Name | 食我大根 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:17:00 |
+| Lobby ID | 28566501762502494 |
+| Players | 4/10 |
+| Host Name | бомж по жизни |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:17:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566501758588137 |
-| Players | 9/10 |
-| Host Name | Любимые дрова |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:12:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28566501759846579 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | . Skye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:13:47 |
