@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502076860508 |
-| Players | 5/8 |
-| Host Name | 4ever young |
+| Lobby ID | 28566502083528315 |
+| Players | 7/15 |
+| Host Name | JoJogan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:40:08 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:45:17 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502077122451 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:40:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502082464258 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:44:28 |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502083528315 |
-| Players | 4/15 |
-| Host Name | JoJogan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:45:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502083511628 |
+| Lobby ID | 28566502083809551 |
 | Players | 1/15 |
-| Host Name | Ska_whitecrow時の神 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:45:16 |
+| Host Name | schizok1d |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:45:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ШЕРИФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:44:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566502083563188 |
-| Players | 1/5 |
-| Host Name | Xyяce |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:45:18 |
 
 
