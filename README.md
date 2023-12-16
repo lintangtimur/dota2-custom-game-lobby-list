@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501730284064 |
-| Players | 22/24 |
-| Host Name | ~MrTriceps~ |
+| Lobby ID | 28566501733837150 |
+| Players | 6/24 |
+| Host Name | woaaaar |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:34:52 |
+| Lobby Creation Time | Saturday, December 16, 2023 14:39:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501717549705 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 14:17:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501729777662 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | berti4130 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:34:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501733105968 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | kacvj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:38:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501730543578 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | Occam's Tome of Knowledge |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:35:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501733486800 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | YoNi |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:39:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501727929647 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Белый Волк |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:31:43 |
