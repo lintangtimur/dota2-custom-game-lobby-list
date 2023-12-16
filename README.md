@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501749231277 |
-| Players | 23/24 |
-| Host Name | woaaaar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:00:01 |
+| Lobby ID | 28566501751543706 |
+| Players | 4/8 |
+| Host Name | Евген |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:03:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501751321466 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | felina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:02:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501750643902 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Arrhenius♪ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 15:01:53 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566501751377099 |
 | Players | 1/8 |
-| Host Name | Lightning Fingers Raamm |
+| Host Name | Vito |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 16, 2023 15:02:51 |
 
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мама ЦМки) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:53:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501748720298 |
-| Players | 9/10 |
-| Host Name | Han Jee-han  한 지한 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:59:21 |
 
 
