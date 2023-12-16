@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501747306444 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Mr__Riko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:57:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501746535763 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 雨墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:56:27 |
@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501747474599 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | бесперспективняк |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:57:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501745650915 |
+| Players | 23/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:55:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT THE FUCK IS THAT!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:53:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501747954969 |
+| Players | 1/5 |
+| Host Name | LaoTie_666 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:58:21 |
 
 
