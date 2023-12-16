@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:02:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501971535395 |
-| Players | 7/8 |
-| Host Name | unicornparadise |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:12:18 |
+| Lobby ID | 28566501971973862 |
+| Players | 8/15 |
+| Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 19:12:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501970538428 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:11:25 |
@@ -59,54 +59,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501966901163 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501972935744 |
+| Players | 6/8 |
+| Host Name | Смегмаед |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:33 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501972287901 |
-| Players | 2/10 |
-| Host Name | Андрюха СЛоняра |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:12:58 |
+| Lobby ID | 28566501973284047 |
+| Players | 3/10 |
+| Host Name | lovers by choice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501972416291 |
+| Lobby ID | 28566501973172160 |
+| Players | 2/8 |
+| Host Name | Nah,i'd win. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501973391324 |
 | Players | 1/8 |
-| Host Name | asd |
+| Host Name | чушпан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:13:05 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566501971973862 |
-| Players | 3/15 |
-| Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 19:12:41 |
+| Lobby ID | 28566501972875084 |
+| Players | 3/10 |
+| Host Name | bse4poli |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:30 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566501971460772 |
-| Players | 8/10 |
-| Host Name | |_RyLeX_| |
+| Lobby ID | 28566501972815283 |
+| Players | 1/10 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501973322645 |
+| Players | 1/5 |
+| Host Name | QuietSmoke |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:12:14 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28566501971488453 |
-| Players | 2/7 |
-| Host Name | die |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:12:16 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:53 |
 
 
