@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:41:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501832423729 |
-| Players | 6/8 |
-| Host Name | еду в казахстан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:43:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566501834394875 |
-| Players | 9/24 |
-| Host Name | 武小道 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:46:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501834823821 |
-| Players | 13/15 |
-| Host Name | ГенаЦидармян |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:46:37 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501835246100 |
@@ -56,28 +29,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:47:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501835355240 |
-| Players | 1/10 |
-| Host Name | μVlrka |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 16, 2023 16:47:15 |
+| Lobby ID | 28566501834394875 |
+| Players | 11/24 |
+| Host Name | 武小道 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:46:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501835362900 |
-| Players | 1/10 |
-| Host Name | HangNT |
+| Lobby ID | 28566501835718781 |
+| Players | 7/15 |
+| Host Name | TSpirit.Mira |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:47:16 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:47:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501835796840 |
+| Players | 2/10 |
+| Host Name | cyborg. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:47:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501835832351 |
+| Players | 2/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:47:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501833084441 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Bender |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:44:30 |
