@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:04:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501901779314 |
-| Players | 17/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:03:19 |
+| Lobby ID | 28566501903837420 |
+| Players | 1/8 |
+| Host Name | kizerfdsgagfh. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:05:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501903404358 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | PAINCHASER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:05:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501902742274 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:04:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501901566802 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:03:05 |
@@ -77,45 +77,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501903610714 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:05:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501900917225 |
+| Players | 9/10 |
+| Host Name | Papi Culo |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:02:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501896970205 |
+| Players | 24/24 |
+| Host Name | enjoyer jesse |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:58:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501904181534 |
+| Players | 3/15 |
+| Host Name | HeyHo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:05:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501904191654 |
+| Players | 2/10 |
+| Host Name | VAC小子 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:05:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501896589097 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Арабский дрилл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:57:40 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501901340924 |
-| Players | 2/5 |
-| Host Name | . Skye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:02:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501903023344 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:04:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501903114073 |
-| Players | 2/5 |
-| Host Name | 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:04:44 |
 
 
