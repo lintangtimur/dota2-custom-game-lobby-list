@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502076703945 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 20:40:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502077293433 |
-| Players | 2/15 |
+| Players | 14/15 |
 | Host Name | akforce |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:40:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502068018279 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 20:33:13 |
@@ -86,16 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502075168133 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | xeesoxee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:38:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566502077374731 |
+| Players | 8/10 |
+| Host Name | кирюха мега |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:40:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502077833375 |
+| Players | 5/8 |
+| Host Name | Rize |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:40:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502077879096 |
+| Players | 1/8 |
+| Host Name | Lobotomy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:40:55 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566502075630255 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | hachiko 忠犬八公 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:39:10 |
