@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501745650915 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:55:16 |
@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501746660195 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | cyberбуллер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:56:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501747092635 |
+| Players | 1/15 |
+| Host Name | Main.dart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT THE FUCK IS THAT!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:53:51 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566501747122750 |
+| Players | 2/7 |
+| Host Name | w1nd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:57:14 |
 
 
