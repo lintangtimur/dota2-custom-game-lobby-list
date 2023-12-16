@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502133052158 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:22:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502133542658 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | ПИВО BUD LIGTH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:22:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502133173753 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | FAZYonaKO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:22:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502131202573 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:20:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502134018741 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:23:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502134282524 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | St1p✙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:23:15 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566502134311367 |
+| Lobby ID | 28566502134582882 |
 | Players | 1/10 |
-| Host Name | Zambie |
+| Host Name | Weedy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:23:16 |
+| Lobby Creation Time | Saturday, December 16, 2023 21:23:28 |
 
 
