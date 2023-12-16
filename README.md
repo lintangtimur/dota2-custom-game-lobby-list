@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:43:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501825829831 |
-| Players | 1/15 |
-| Host Name | PIS0000 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:35:50 |
+| Lobby ID | 28566501833133573 |
+| Players | 3/8 |
+| Host Name | Эскапизм Души |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:44:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501829208895 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:54 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501832049237 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:43:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501833246913 |
-| Players | 7/10 |
-| Host Name | 11 y.o Dayan |
+| Lobby ID | 28566501833639034 |
+| Players | 2/8 |
+| Host Name | I know the way to lose |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 16:44:42 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:45:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:43:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501833133573 |
-| Players | 3/8 |
-| Host Name | Эскапизм Души |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:44:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501833639034 |
-| Players | 1/8 |
-| Host Name | I know the way to lose |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 16:45:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501833693762 |
-| Players | 6/8 |
-| Host Name | Бетмен из Бетмена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:45:14 |
+| Lobby ID | 28566501833772205 |
+| Players | 3/10 |
+| Host Name | Allwayswannadie |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:45:20 |
 
 
 |  | epic_boss_fight_nightmare |
