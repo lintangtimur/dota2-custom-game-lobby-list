@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:08:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501803170399 |
-| Players | 10/15 |
-| Host Name | Melo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:08:23 |
+| Lobby ID | 28566501803404006 |
+| Players | 5/10 |
+| Host Name | SleepLess |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:08:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501803176883 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ------------ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:08:24 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:08:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501803404006 |
-| Players | 4/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:08:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501801789719 |
-| Players | 3/5 |
-| Host Name | Чушпан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:06:40 |
 
 
 |  | epic_boss_fight_nightmare |
