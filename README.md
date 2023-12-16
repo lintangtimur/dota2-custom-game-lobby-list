@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501835246100 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:47:07 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501837099189 |
-| Players | 14/15 |
-| Host Name | zero iq |
+| Lobby ID | 28566501838549775 |
+| Players | 4/15 |
+| Host Name | Потный пудж |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:49:24 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:51:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501836966860 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | yhwach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:49:14 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501837846861 |
-| Players | 3/8 |
-| Host Name | marazm |
+| Players | 2/8 |
+| Host Name | daun_2003 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:50:17 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501838168855 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ( |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:50:40 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | noob team |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:48:13 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28566501838097907 |
-| Players | 1/7 |
-| Host Name | Medved |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:50:35 |
 
 
