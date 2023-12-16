@@ -2,33 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501794158197 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:57:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566501794200456 |
-| Players | 1/24 |
-| Host Name | lil dozhd |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:57:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501794342803 |
-| Players | 5/8 |
-| Host Name | mkb雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:57:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501764720559 |
@@ -41,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501793141581 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Novocaine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:55:49 |
@@ -49,28 +22,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501794758007 |
-| Players | 1/15 |
-| Host Name | 每天都要吃苹果 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Saturday, December 16, 2023 15:57:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501794811267 |
-| Players | 1/15 |
-| Host Name | OnlyFarms |
+| Lobby ID | 28566501795080312 |
+| Players | 7/15 |
+| Host Name | egopka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:57:57 |
+| Lobby Creation Time | Saturday, December 16, 2023 15:58:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501795127684 |
+| Players | 4/8 |
+| Host Name | Nagi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:58:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501794342803 |
+| Players | 7/8 |
+| Host Name | гожо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:57:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501794312517 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sleeping Beauty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:57:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501795070552 |
+| Players | 1/5 |
+| Host Name | Mursielago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:58:17 |
 
 
