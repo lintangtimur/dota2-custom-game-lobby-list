@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502131202573 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:20:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502134825927 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | я нюхал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:23:39 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502134865103 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | EnotRed |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:23:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502134983552 |
-| Players | 2/8 |
-| Host Name | living mice |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:23:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502135518670 |
-| Players | 2/8 |
-| Host Name | 停下来等待 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:24:11 |
 
 
 |  | epic_boss_fight_nightmare |
