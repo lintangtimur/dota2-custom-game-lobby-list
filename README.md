@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501956509124 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:58:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -29,31 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:50:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501960563794 |
+| Players | 1/8 |
+| Host Name | ваня пират |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:20 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501960197891 |
-| Players | 6/10 |
-| Host Name | Апельсин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:01:59 |
+| Lobby ID | 28566501960975581 |
+| Players | 2/10 |
+| Host Name | Pablo Escobar |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501957661600 |
-| Players | 1/24 |
-| Host Name | Barasa |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 16, 2023 18:59:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501960177617 |
-| Players | 4/8 |
-| Host Name | Черная Рыба- |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:01:58 |
+| Lobby ID | 28566501960537809 |
+| Players | 9/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:18 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501959864005 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:01:40 |
@@ -76,47 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501960196176 |
-| Players | 2/15 |
-| Host Name | CtRa |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 16, 2023 19:01:59 |
+| Lobby ID | 28566501961149302 |
+| Players | 3/15 |
+| Host Name | многокаст |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501960355004 |
-| Players | 4/15 |
-| Host Name | Абуз Армлетович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:02:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501960494182 |
-| Players | 5/8 |
-| Host Name | 1185105013 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:02:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566501960537809 |
-| Players | 7/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:02:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501960540254 |
-| Players | 1/8 |
-| Host Name | ты слабый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:02:18 |
+| Lobby ID | 28566501961136100 |
+| Players | 1/15 |
+| Host Name | pos 5 only |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:01:13 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501960863934 |
+| Players | 1/10 |
+| Host Name | OG.Kutud |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:36 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566501960474313 |
+| Lobby ID | 28566501961135234 |
 | Players | 1/5 |
-| Host Name | FaFaNya |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:02:15 |
+| Host Name | Simon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:02:52 |
 
 
