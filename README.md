@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501975238797 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Daos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:15:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501973955676 |
-| Players | 1/8 |
-| Host Name | SabrosonxD322 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 19:14:27 |
+| Lobby ID | 28566501975646456 |
+| Players | 2/10 |
+| Host Name | B@LB3$ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501970538428 |
-| Players | 22/24 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:11:25 |
+| Lobby ID | 28566501975851996 |
+| Players | 1/24 |
+| Host Name | mil |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, December 16, 2023 19:16:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501966901163 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:08 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501975461371 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | MAGROCUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:15:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501975445412 |
-| Players | 1/15 |
-| Host Name | RRealaer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:15:48 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566501973322645 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | QuietSmoke |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:13:53 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:13:27 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28566501975651539 |
-| Players | 1/7 |
-| Host Name | фанат дофамина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:15:59 |
 
 
