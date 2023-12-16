@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501835246100 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:47:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501842060455 |
-| Players | 6/8 |
-| Host Name | DecaNandralone |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:55:19 |
+| Lobby ID | 28566501843349379 |
+| Players | 1/24 |
+| Host Name | Ahlok |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:56:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501842199586 |
-| Players | 9/10 |
-| Host Name | Старая брылька |
+| Lobby ID | 28566501843205892 |
+| Players | 3/10 |
+| Host Name | 🐓 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:55:29 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:56:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501842924665 |
-| Players | 7/15 |
-| Host Name | PARLIAMENT |
+| Players | 9/15 |
+| Host Name | disappointment |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:56:20 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:52 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28566501843089348 |
+| Players | 3/7 |
+| Host Name | Ow1S |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:56:32 |
 
 
