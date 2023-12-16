@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501842869021 |
-| Players | 1/24 |
-| Host Name | Ahlok |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:56:16 |
+| Lobby ID | 28566501842924665 |
+| Players | 7/15 |
+| Host Name | PARLIAMENT |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:56:20 |
 
 
 |  | epic_boss_fight_nightmare |
