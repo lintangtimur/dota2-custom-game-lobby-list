@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:41:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501776727560 |
-| Players | 1/15 |
-| Host Name | Innosence |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 16, 2023 15:35:21 |
+| Lobby ID | 28566501782876369 |
+| Players | 2/8 |
+| Host Name | нет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:42:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,46 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501774424242 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Arrhenius♪ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 15:32:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501780586322 |
-| Players | 6/10 |
-| Host Name | капучиночка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:40:08 |
+| Lobby ID | 28566501780122181 |
+| Players | 13/15 |
+| Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 15:39:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501780950239 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SahyuniiツN♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:40:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501781154442 |
-| Players | 14/15 |
-| Host Name | kacvj |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:40:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501780122181 |
-| Players | 12/15 |
-| Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 15:39:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SPACESHIP SHORELINE MAFIA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:42:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501782876369 |
-| Players | 2/8 |
-| Host Name | нет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:42:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501782891366 |
-| Players | 5/8 |
-| Host Name | ALE_X |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 15:42:59 |
 
 
 |  | epic_boss_fight_nightmare |
