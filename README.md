@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501986671959 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:25:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501981073210 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 19:20:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501988466670 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | MiIdemNaZavod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:27:25 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501989274913 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | латешечка |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:28:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501989527046 |
+| Players | 1/8 |
+| Host Name | Kaci Kemba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:28:22 |
 
 
 |  | epic_boss_fight_normal |
