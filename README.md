@@ -31,26 +31,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501841991406 |
+| Lobby ID | 28566501842060455 |
 | Players | 6/8 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:55:14 |
+| Host Name | DecaNandralone |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:55:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501840161524 |
-| Players | 21/24 |
-| Host Name | Twitch.tv/HiroToHero |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:53:04 |
+| Lobby ID | 28566501842199586 |
+| Players | 4/10 |
+| Host Name | Старая брылька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:55:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501841135541 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Сын лавочки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:13 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:53:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501842060455 |
-| Players | 2/8 |
-| Host Name | DecaNandralone |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:55:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501839581303 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:52:22 |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501841684838 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501842105501 |
-| Players | 3/5 |
-| Host Name | Riibane |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 16:55:22 |
 
 
