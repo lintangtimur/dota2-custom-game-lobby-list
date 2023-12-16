@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:24:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501770515105 |
-| Players | 13/15 |
-| Host Name | ุexw_onoma |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:27:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501772550924 |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 😻 𝓚𝓲𝓽𝓽𝔂 💖 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:29:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501772606051 |
-| Players | 1/10 |
-| Host Name | Dobro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:30:15 |
 
 
