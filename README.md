@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:29:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501990381449 |
-| Players | 7/10 |
-| Host Name | Бот Ник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:29:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501991219639 |
-| Players | 1/15 |
-| Host Name | Абуз Армлетович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:29:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501991235319 |
@@ -81,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ❤Tr1mada❤ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:29:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501991219639 |
+| Players | 5/15 |
+| Host Name | Абуз Армлетович |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:29:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501990381449 |
+| Players | 9/10 |
+| Host Name | Бот Ник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:29:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501991220416 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:29:51 |
