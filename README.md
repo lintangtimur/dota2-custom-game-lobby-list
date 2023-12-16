@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501738227663 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Yung Prawna |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:45:28 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501740622011 |
-| Players | 1/8 |
-| Host Name | Patrick |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 14:48:40 |
+| Lobby ID | 28566501740503633 |
+| Players | 3/8 |
+| Host Name | Koru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 14:47:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501740503633 |
-| Players | 3/8 |
-| Host Name | Koru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
+| Lobby ID | 28566501735529323 |
+| Players | 14/15 |
+| Host Name | II |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:41:53 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566501740441758 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:48:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501740499179 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | neikus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
