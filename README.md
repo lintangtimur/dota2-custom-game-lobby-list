@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502133052158 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:22:20 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502130465995 |
-| Players | 1/10 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 21:20:25 |
+| Lobby ID | 28566502133542658 |
+| Players | 4/10 |
+| Host Name | ПИВО BUD LIGTH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 21:22:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502133221192 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | ТИГРУЛЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:22:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502133542658 |
-| Players | 2/10 |
-| Host Name | ПИВО BUD LIGTH |
+| Lobby ID | 28566502134018741 |
+| Players | 5/15 |
+| Host Name | Tired |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:22:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566502126429604 |
-| Players | 9/10 |
-| Host Name | Ryokka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:17:26 |
+| Lobby Creation Time | Saturday, December 16, 2023 21:23:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | d1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:19:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502134072268 |
+| Players | 1/5 |
+| Host Name | weezaba5 |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 16, 2023 21:23:05 |
 
 
