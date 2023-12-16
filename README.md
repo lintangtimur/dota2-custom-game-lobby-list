@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501894227445 |
-| Players | 3/8 |
-| Host Name | кто на меня? |
+| Players | 1/8 |
+| Host Name | Ценитель Марси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:55:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501897415540 |
-| Players | 13/15 |
-| Host Name | Palmero |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:58:34 |
+| Lobby ID | 28566501898423576 |
+| Players | 3/10 |
+| Host Name | Dim0n4ik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:59:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501888749332 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | ogre magi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:48:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501896970205 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | enjoyer jesse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:58:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501897972475 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:59:11 |
