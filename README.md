@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502077122451 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:40:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502080794649 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | TWT.Antik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:43:11 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502082258164 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | bumble bee |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:44:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502081794866 |
-| Players | 7/10 |
-| Host Name | holyblockkid #MYRUST |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:43:57 |
+| Lobby ID | 28566502082490297 |
+| Players | 1/8 |
+| Host Name | ▲ Убийца Акаме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:44:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502082464258 |
+| Players | 1/24 |
+| Host Name | Nerfstyle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:44:28 |
 
 
 |  | epic_boss_fight_nightmare |
