@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501974818316 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | L8DF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:15:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501970538428 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:11:25 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501966901163 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501972875084 |
-| Players | 9/10 |
-| Host Name | bse4poli |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:13:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501972815283 |
-| Players | 5/10 |
-| Host Name | Славный Котик Иут |
+| Lobby ID | 28566501974934598 |
+| Players | 1/8 |
+| Host Name | я самый крутой |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:13:27 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | QuietSmoke |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:13:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501972815283 |
+| Players | 5/10 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:13:27 |
 
 
