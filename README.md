@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501799893516 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:04:19 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501809524901 |
-| Players | 6/8 |
-| Host Name | K-pop monster |
+| Lobby ID | 28566501813159304 |
+| Players | 1/8 |
+| Host Name | Luckyman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:16:10 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:20:38 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501811526079 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | ~MrTriceps~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:18:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501812544054 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Silvee |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:19:53 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501812796763 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | vomiand |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:20:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501813090030 |
+| Players | 4/10 |
+| Host Name | Feanor |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:20:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501812045505 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | $ilent |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:19:16 |
