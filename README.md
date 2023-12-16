@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501944420101 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 123 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:46:51 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566501941343890 |
-| Players | 22/24 |
-| Host Name | Haode |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:43:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501944944882 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | <3 <3 <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:47:22 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501945520332 |
+| Players | 2/10 |
+| Host Name | lost angels |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:47:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501928582846 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:10 |
