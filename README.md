@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501932389114 |
-| Players | 6/15 |
-| Host Name | noxx? |
+| Players | 9/15 |
+| Host Name | pos 1 or leave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:34:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501931573681 |
-| Players | 8/10 |
-| Host Name | параша2? не слышал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:34:09 |
+| Lobby ID | 28566501932566067 |
+| Players | 4/8 |
+| Host Name | yuioiuy |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:35:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,34 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501932388838 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | SkiesOnFire |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:34:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501932566067 |
-| Players | 4/8 |
-| Host Name | yuioiuy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:35:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501932632634 |
-| Players | 4/8 |
-| Host Name | ₪=-ŅeỖĶιỖтỖ-=₪ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:35:11 |
+| Lobby ID | 28566501927660977 |
+| Players | 23/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:30:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501928582846 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:10 |
