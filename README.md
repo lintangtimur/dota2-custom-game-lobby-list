@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501927660977 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:30:14 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501928698135 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Беляш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:17 |
