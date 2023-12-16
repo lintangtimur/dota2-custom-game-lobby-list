@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502007469936 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | многокаст |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:43:45 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502007066704 |
-| Players | 5/8 |
-| Host Name | Enemies muted |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:43:25 |
+| Lobby ID | 28566502008001672 |
+| Players | 3/8 |
+| Host Name | Hala Vandala! |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:44:13 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502004649268 |
-| Players | 1/5 |
-| Host Name | 9forty |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, December 16, 2023 19:41:23 |
+| Lobby ID | 28566502007848219 |
+| Players | 1/10 |
+| Host Name | Petushidze |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:44:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wootmonster |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:40:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566502007779294 |
-| Players | 1/5 |
-| Host Name | Shinigami |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 19:44:01 |
 
 
