@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502072559635 |
-| Players | 8/10 |
-| Host Name | しはいのあくま。 |
+| Lobby ID | 28566502073626068 |
+| Players | 3/10 |
+| Host Name | KObe |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:36:47 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:37:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 20:28:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502068636404 |
-| Players | 14/15 |
-| Host Name | Kirizuna |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 20:33:43 |
+| Lobby ID | 28566502072461966 |
+| Players | 4/8 |
+| Host Name | quarantaquattro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:36:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502068018279 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 20:33:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502069145325 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:34:07 |
@@ -86,61 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502064585169 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:30:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502070945137 |
-| Players | 4/8 |
-| Host Name | KK000 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:35:32 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502072039929 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | vi turbo, vi bark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:36:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502072024530 |
-| Players | 23/24 |
-| Host Name | 我来看看怎么个事 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:36:22 |
+| Lobby ID | 28566502073648616 |
+| Players | 11/15 |
+| Host Name | я гей |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:37:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502072461966 |
-| Players | 1/8 |
-| Host Name | quarantaquattro |
+| Lobby ID | 28566502067620365 |
+| Players | 9/10 |
+| Host Name | mhrazzz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:36:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502073331196 |
-| Players | 3/8 |
-| Host Name | mentally (!=) stable |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:37:23 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:32:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502069778543 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:34:37 |
@@ -149,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566502069983180 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | hachiko 忠犬八公 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:34:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566502070445003 |
-| Players | 9/10 |
-| Host Name | yyz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:35:08 |
 
 
