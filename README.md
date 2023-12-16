@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502046729336 |
-| Players | 2/8 |
-| Host Name | СашкаРампажка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:16:19 |
+| Lobby ID | 28566502047549123 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:16:58 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502045802431 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Lanaya |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 20:15:35 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502047212188 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Z i n d r o |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:16:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502047549123 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:16:58 |
+| Lobby ID | 28566502045391693 |
+| Players | 7/8 |
+| Host Name | Chenny |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:15:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mani_cashman |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:16:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502047848461 |
+| Players | 1/5 |
+| Host Name | Лисос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:17:13 |
 
 
