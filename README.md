@@ -2,39 +2,21 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501741832364 |
-| Players | 5/8 |
-| Host Name | nusuntgacijur~ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:50:16 |
+| Lobby ID | 28566501742801895 |
+| Players | 1/10 |
+| Host Name | Sw1pez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 14:51:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501742306255 |
-| Players | 9/15 |
-| Host Name | СаняКомпьютер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:50:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501740503633 |
-| Players | 3/8 |
-| Host Name | Koru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501740499179 |
-| Players | 7/10 |
-| Host Name | neikus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
+| Lobby ID | 28566501743067294 |
+| Players | 1/15 |
+| Host Name | ♣Colapsé◘ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 14:51:53 |
 
 
