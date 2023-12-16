@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501937036647 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | kieve |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:39:35 |
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501940883875 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501941334207 |
-| Players | 6/8 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:43:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501940970679 |
-| Players | 10/15 |
-| Host Name | Locomobile | The Chimney |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:43:28 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501941343890 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Haode |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:50 |
@@ -85,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501942518573 |
-| Players | 1/10 |
-| Host Name | montekki |
+| Lobby ID | 28566501942598990 |
+| Players | 7/10 |
+| Host Name | 疑問符 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:45:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501942752299 |
+| Players | 5/15 |
+| Host Name | Aloha Akbar |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:44:59 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:45:13 |
 
 
 |  | epic_boss_fight_nightmare |
