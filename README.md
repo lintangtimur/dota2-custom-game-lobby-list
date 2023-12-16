@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501967459217 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | colder than corpse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501967431700 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | h2obi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:37 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501967771185 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | ПТ на дерзость |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501966761956 |
-| Players | 9/10 |
-| Host Name | параша2? не слышал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:08:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501967693527 |
-| Players | 2/8 |
-| Host Name | диман |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:08:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566501967052483 |
-| Players | 9/10 |
-| Host Name | bingbongbiang |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:08:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28566501966921842 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Арабский дрилл |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:09 |
