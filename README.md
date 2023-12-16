@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501961549377 |
-| Players | 1/24 |
-| Host Name | Kratos |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 19:03:14 |
+| Lobby ID | 28566501963330266 |
+| Players | 5/8 |
+| Host Name | reserved |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:04:53 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:02:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501962975154 |
-| Players | 9/15 |
-| Host Name | Tired |
+| Lobby ID | 28566501963343281 |
+| Players | 1/8 |
+| Host Name | siziy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:04:34 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:04:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501960537809 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:02:18 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501963307356 |
-| Players | 3/10 |
-| Host Name | Катенька25годиков |
+| Players | 7/10 |
+| Host Name | ДоброходЪ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:04:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501963330266 |
-| Players | 1/8 |
-| Host Name | reserved |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:04:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501960863934 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OG.Kutud |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:02:36 |
