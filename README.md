@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502222605667 |
-| Players | 1/10 |
-| Host Name | 7urbo |
+| Lobby ID | 28566502224112972 |
+| Players | 6/15 |
+| Host Name | Леха Тарабрин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:30:27 |
+| Lobby Creation Time | Saturday, December 16, 2023 22:31:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502220243783 |
-| Players | 10/24 |
+| Players | 17/24 |
 | Host Name | Player |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:28:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502223823986 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | <<<((八個惡魔))>>> |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:31:23 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 21:56:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502221572895 |
-| Players | 2/8 |
-| Host Name | Next level player |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:29:38 |
+| Lobby ID | 28566502223910686 |
+| Players | 6/24 |
+| Host Name | Superman Pans |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:31:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502214787501 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:24:21 |
@@ -101,55 +101,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 22:30:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502223364979 |
-| Players | 11/15 |
-| Host Name | musor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:31:02 |
+| Lobby ID | 28566502223940651 |
+| Players | 2/24 |
+| Host Name | #### |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 22:31:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502222573079 |
-| Players | 9/10 |
-| Host Name | Adorableあざ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:30:26 |
+| Lobby ID | 28566502224367421 |
+| Players | 5/10 |
+| Host Name | zxc_шнюк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:31:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502223910686 |
-| Players | 2/24 |
-| Host Name | Superman Pans |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:31:27 |
+| Lobby ID | 28566502215804239 |
+| Players | 23/24 |
+| Host Name | JonaX |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 22:25:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502218837040 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | zzzz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 22:27:29 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566502223191278 |
-| Players | 1/5 |
-| Host Name | чвк сын растишки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:30:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502222102389 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | 123456789123456789 |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 22:30:04 |
