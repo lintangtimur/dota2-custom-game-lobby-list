@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501950620372 |
-| Players | 5/8 |
-| Host Name | noctis lucis caelum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:52:50 |
+| Lobby ID | 28566501952066605 |
+| Players | 10/15 |
+| Host Name | لقد طفح الكيل |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:54:14 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501950565919 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Triki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:52:47 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:53:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501952187380 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:54:21 |
 
 
 |  | epic_boss_fight_normal |
